@@ -29,7 +29,7 @@
 - [Personal admin](#personal-admin)
 - [Teams & handoffs](#teams--handoffs)
 - [技能和工具](#技能和工具)
-  - [Linux 桌面端](#linux-桌面端)
+  - [Linux 笔记本客户端](#linux-笔记本客户端)
   - [本地和研究](#本地和研究)
   - [模型和工厂](#模型和工厂)
   - [CLI 和 SDK](#cli-和-sdk)
@@ -42,9 +42,19 @@
 
 ## 怎么用
 
-这个库是给人拿来用的。打开一条活分享，点 **Add to Grok Bot**。想先看别人怎么跑，去[真人案例](#真人案例)，再从下面点一条链接。需要桌面端（macOS 或 Windows）或 iOS。上限 50 个 Bot，共用一台 Linux 电脑。
+先在 Mac、Windows 或 iPhone 上装官方 Grok Bot。然后打开任意一条活分享，点 **Add to Grok Bot**。
+
+<p align="center">
+  <img src="docs/screenshots/work.png" alt="一条活分享页。黑色按钮是 Add to Grok Bot。" width="420">
+</p>
+
+图里只是几百条里的一条，不是入门推荐。这个页上每条活链接都是同一个按钮。
+
+想先看别人怎么跑，去[真人案例](#真人案例)，那一节开头有两条视频。再从下面点一条链接。
 
 分享会复制身份、描述、勾选的记忆、技能、例行任务、以及按插件 id 引用的官方市场插件。不会复制电脑、文件、登录、API key、自定义 MCP、脚本、对话历史。`verified: true` 只在维护者真正导入并跑过首次安全任务之后才打。
+
+Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 App 是 macOS、Windows 和 iOS，没有官方 Linux 桌面端。自己电脑是 Linux 的，非官方移植在 [Linux 笔记本客户端](#linux-笔记本客户端)。上限 50 个 Bot，共用那一台电脑。
 
 > 社区模板是不可信的第三方软件。添加即表示接受 Grok Bot 第三方 Bot 条款。先看 profile，只接一个连接器，先跑只读任务，确认后再开例行任务或写入。不要把 API key 写进 SETUP。技能可能传不过去。见 [SECURITY.md](SECURITY.md) 和 [docs/vetting.md](docs/vetting.md)。
 
@@ -55,6 +65,11 @@
 ## 真人案例
 
 公开写过、真正跑过的。不是活动报名。账号上限 50 个 Bot，共用一台电脑。
+
+<p>
+<a href="https://www.youtube.com/watch?v=kAR91DlnCKQ"><img src="docs/screenshots/ray-fernando.jpg" alt="Ray Fernando 的 Clippy CTO" width="400"></a>
+<a href="https://www.youtube.com/watch?v=5CSXUsljJ_E"><img src="docs/screenshots/matthew-berman.jpg" alt="Matthew Berman 的十一个活" width="400"></a>
+</p>
 
 ### 编制
 
@@ -410,9 +425,9 @@
 
 社区 GitHub。能 clone、能粘、能装。不是官方文档。
 
-### Linux 桌面端
+### Linux 笔记本客户端
 
-Bot **电脑**本身就是 Linux。官方**桌面应用**是 macOS、Windows 和 iOS。想在 Linux 笔记本上装瘦客户端，只有社区非官方移植。
+官方 Grok Bot 没有 Linux 笔记本 App。Bot 自己的电脑在云上，本来就是 Linux。下面只给自己电脑是 Linux 的人。
 
 - [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - 整理 Cursor-CDN 上的 Linux `.deb` / `.rpm` / AppImage 地址和发行版打包。不托管安装包。
 

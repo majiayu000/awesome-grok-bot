@@ -29,7 +29,7 @@
 - [Personal admin](#personal-admin)
 - [Teams & handoffs](#teams--handoffs)
 - [Skills and tools](#skills-and-tools)
-  - [Linux desktop](#linux-desktop)
+  - [Linux laptop app](#linux-laptop-app)
   - [Local and study](#local-and-study)
   - [Model and factory](#model-and-factory)
   - [CLIs and SDKs](#clis-and-sdks)
@@ -42,9 +42,19 @@
 
 ## How to use
 
-This list is so you can use Grok Bot. Open a live share, hit **Add to Grok Bot**. Look at [Field cases](#field-cases) first if you want to see a real run, then pick any link below. You need the desktop app (macOS or Windows) or iOS. Cap is 50 bots on one shared Linux computer.
+Install the official Grok Bot app on a Mac, a Windows PC, or an iPhone. Then open any live share and hit **Add to Grok Bot**.
+
+<p align="center">
+  <img src="docs/screenshots/work.png" alt="A live share page. The black button is Add to Grok Bot." width="420">
+</p>
+
+That screenshot is one share among hundreds, not a recommended starter. Every live link on this page is the same button.
+
+Want to see a real run first? [Field cases](#field-cases) (two videos sit at the top of that section). Then pick any link below.
 
 A share copies identity, description, selected memories, skills, routines, and first-party plugins by plugin id. It does not copy the computer, files, logins, API keys, custom MCP, scripts, or history. `verified: true` only after a maintainer imported one and ran a first safe task.
+
+Your bots share one managed Linux computer in the cloud. That computer is not the app on your laptop. Official apps are macOS, Windows, and iOS. There is no official Linux desktop app. If your own laptop is Linux, unofficial ports are under [Linux laptop app](#linux-laptop-app). Cap is 50 bots on that one shared computer.
 
 > Community templates are untrusted third-party software. Adding one accepts Grok Bot third-party bot terms. Inspect the profile, connect one connector, try a read-only task, only then enable routines or writes. Never paste API keys into SETUP. Skills can fail to travel. See [SECURITY.md](SECURITY.md) and [docs/vetting.md](docs/vetting.md).
 
@@ -55,6 +65,11 @@ Machine-readable: [catalog.json](catalog.json).
 ## Field cases
 
 Public writeups of a real run. Not a meetup list. Account cap is 50 Bots. They share one computer.
+
+<p>
+<a href="https://www.youtube.com/watch?v=kAR91DlnCKQ"><img src="docs/screenshots/ray-fernando.jpg" alt="Ray Fernando, Clippy CTO" width="400"></a>
+<a href="https://www.youtube.com/watch?v=5CSXUsljJ_E"><img src="docs/screenshots/matthew-berman.jpg" alt="Matthew Berman, eleven live jobs" width="400"></a>
+</p>
 
 ### Rosters
 
@@ -410,9 +425,9 @@ One share = one bot. These recipes are how you assemble a roster.
 
 Community GitHub. Clone, paste, or install. Not official docs.
 
-### Linux desktop
+### Linux laptop app
 
-The Bot **computer** is already Linux. Official **desktop apps** are macOS, Windows, and iOS. Community Linux desktop ports exist if you want the thin client on a Linux laptop. They are unofficial.
+There is no official Grok Bot app for Linux laptops. The Bot's own computer is already Linux, in the cloud. This line is only for people whose laptop is Linux.
 
 - [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - Index of Cursor-CDN Linux `.deb` / `.rpm` / AppImage URLs and distro packaging. Does not host installers.
 

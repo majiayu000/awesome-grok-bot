@@ -46,11 +46,11 @@ Official use-case roles (Sales Outbound, Expense Manager, Bug Reproduction, Chie
 
 ## Add a field case or a GitHub tool
 
-Field cases go under `## Field cases` / `## 真人案例` (use Rosters, Computer-use jobs, or Gotchas). Skills go under `## Skills and tools` / `## 技能和工具` (Linux desktop, local and study, factory, CLIs, bridges, playbooks, indexes, OSS alts). Same URL and one sentence in both READMEs. Hyphen, not em dash. Chinese descriptions: no colon except inside URLs or code. Do not add them to `catalog.json`.
+Field cases go under `## Field cases` / `## 真人案例` (use Rosters, Computer-use jobs, or Gotchas). Skills go under `## Skills and tools` / `## 技能和工具` (Linux laptop app, local and study, factory, CLIs, bridges, playbooks, indexes, OSS alts). Same URL and one sentence in both READMEs. Hyphen, not em dash. Chinese descriptions: no colon except inside URLs or code. Do not add them to `catalog.json`.
 
 A field case is a public writeup of a **real run** (X, blog, forum). Screenshots, a concrete job, or a share already in this catalog help. "I installed it" does not.
 
-The Bot computer is already Linux. Official desktop apps are macOS, Windows, and iOS. Do not PR a stack of unofficial Linux desktop ports; one line pointing at falser101/grok-bot-linux is enough.
+The Bot computer is already Linux. Official desktop apps are macOS, Windows, and iOS. Do not PR a stack of unofficial Linux laptop ports; one line pointing at falser101/grok-bot-linux is enough.
 
 A GitHub tool is a repo someone can clone, paste, or install today (skill pack, client, CLI, playbook, bridge). Empty, joke, or unmaintained repos do not belong unless they are the only useful thing in a class (for example the only WeChat bridge).
 
