@@ -74,6 +74,11 @@ Public writeups of a real run. Not a meetup list. Account cap is 50 Bots. They s
 - [Ben Lang's internal job list](https://x.com/benln/status/2087929147406299313) - Starlink-biased flights, recipe-to-Whole Foods, film-scan EXIF, contractor quotes.
 - [Jon's plumbing-shop office manager](https://x.com/HouseHackerJon/status/2087635639701573962) - Drain-and-sewer shop owner handing office work to a Bot in the first 24 hours.
 - [Grokularity](https://grokularity.xyz) - A non-coder stood up a company site in a day. Humans read. Only proven Grok agents write.
+- [Mo Bitar's eight-bot shop](https://atmoio.substack.com/p/i-went-in-ready-to-hate-grok-bot) - Stood up eight named bots in an afternoon, including a Blog Manager that pushed a live site change without being told where the files lived.
+- [Remy's Alfred, Gordon, and Florence](https://aiwithremy.beehiiv.com/p/what-i-m-actually-using-grok-bot-for) - Alfred for ops, Gordon for content, Florence for brand deals. Alfred handed an NDA to Florence. Gordon got stuck an hour posting to X.
+- [Billy Howell's Arlington Bagel](https://www.thefuturist.co/making-with-grok-bot/) - A 6,000-reader Thursday newsletter run with a Chief of Staff plus research and sales bots. The sales bot priced an ad slot and drafted the pitch.
+- [Dennis Yu's twelve ops desks](https://dennisyu.com/how-i-use-grok-bot/) - A public BlitzMetrics roster with can/cannot rules. IT Support recovered a WordPress login from the shared computer.
+- [Ray Fernando's Clippy CTO](https://www.youtube.com/watch?v=kAR91DlnCKQ) - One Grok Bot as Direct Responsible Agent that hires child bots for PRs, Convex, and auth. View-only. Burned past two billion tokens in a day.
 
 ### Computer-use jobs
 
@@ -99,6 +104,7 @@ Public writeups of a real run. Not a meetup list. Account cap is 50 Bots. They s
 - [Japanese cloud-computer field notes](https://note.com/azumimusuhi/n/n0485219790bb) - Hands-on writeup of living on the shared VM for a week.
 - [Lee Robinson's four bets](https://x.com/leerob/status/2089169319099777364) - No UI, thin client, always-on computer, browser as a first-class tool.
 - [Logan on the computer, not 4.6](https://x.com/LoganJastremski/status/2089903051557491092) - No API, no MCP, no hosted browser. The Bot just uses software like a person.
+- [Markus Buehler, four photos to a Bambu H2D print](https://www.linkedin.com/posts/markus-j-buehler-2245682_grok-bot-is-incredible-the-bots-move-naturally-activity-7496875174911291392-LO9a) - Overnight three-bot lab from four structure photos to a physics simulator, a LaTeX report, and two STLs sliced on a Bambu Lab H2D.
 
 ### Gotchas
 
@@ -280,6 +286,10 @@ The Bot **computer** is already Linux. Official **desktop apps** are macOS, Wind
 - [grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - CLI (gbq) that queues work onto running Bots over Tailscale/SSH.
 - [dictate-capture](https://github.com/budezllc/dictate-capture) - Windows helper. Hold Ctrl+D to dictate into Grok Bot, optionally paste a screenshot.
 - [QuotaRail](https://github.com/Allan-Aa/QuotaRail) - Native macOS Dock-style usage rail for Codex, Claude, Grok, and Grok Bot.
+- [locum](https://github.com/HarjjotSinghh/locum) - Custom MCP so a cloud Grok Bot can tunnel coding work onto your already-logged-in local Claude Code or Codex CLI.
+- [foreman](https://github.com/Archive228/foreman) - Zero-dependency CLI that inspects a Grok Bot crew against git-declared AGENT.md packs and writes a shift report of stalled work.
+- [grok-bot-usage](https://github.com/Kargatharaakash/grok-bot-usage) - Zero-dep `gbu` command that prints weekly Grok Bot usage and on-demand spend across Cursor accounts.
+- [coolify-cursor-plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify plugin that points Cursor or Grok Bot at `https://<instance>/mcp` so a bot can inspect servers, apps, deploys, and logs.
 
 ### Chat bridges
 
@@ -289,6 +299,8 @@ The Bot **computer** is already Linux. Official **desktop apps** are macOS, Wind
 - [Grok Bot Discord gateway](https://github.com/davefmurray/grok-bot-discord) - Bridge so a Bot can live in Discord without pretending to be a Slack App.
 - [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - Discord listener that wakes a Grok Bot webhook on the owner's mention.
 - [grokbot-cloudflare-inbox](https://github.com/ethanolivertroy/grokbot-cloudflare-inbox) - Self-hosted Grok Bot inbox on Cloudflare Workers, based on Agentic Inbox.
+- [grokbot-hermes-bridge](https://github.com/iamsupersocks/grokbot-hermes-bridge) - Self-hosted OAuth MCP gateway so Grok Bot can ask a local Hermes Agent through `hermes_ask` and `hermes_status`.
+- [grokbot-obsidian-bridge](https://github.com/iamsupersocks/grokbot-obsidian-bridge) - Fail-closed OAuth reverse proxy that exposes a loopback Obsidian MCP after owner approval.
 
 ### Skill packs and playbooks
 
@@ -303,6 +315,7 @@ The Bot **computer** is already Linux. Official **desktop apps** are macOS, Wind
 - [grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Scored operating contracts with a START.md installer and 49 paste-ready profiles.
 - [crew-contract](https://github.com/lsj210001/crew-contract) - Operating protocol for crews. Seven-field missions, artifact handoffs, and stop-on-budget.
 - [grok-factory](https://github.com/jaredtrichard/grok-factory) - Followable pack. Firstmate routes software, research, and general work on the shared computer.
+- [grok-research](https://github.com/jaredtrichard/grok-research) - Paste-in distro. Captain-gated equity research factory with scout reports and a sqlite book. No live trades.
 - [grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - Restaurant social-commerce scout with morning-scan skills and a copy-paste SETUP.md.
 - [Werewolf gamemaster](https://github.com/Heyvhuang/werewolf-gamemaster) - Skill pack so the Bot runs a Werewolf table, not a hello-world SKILL.md.
 - [Hyperliquid 7-agent trading desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Experimental. Seven specialized Bots on one desk. Read the code first.
