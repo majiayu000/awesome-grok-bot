@@ -2,14 +2,14 @@
 
 > Live x.ai/bot shares you can Add, plus writeups of how people actually run them.
 
-100 live shares in catalog.json: https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json
+253 live shares in catalog.json: https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json
 Human index: https://github.com/majiayu000/awesome-grok-bot
 Chinese: https://github.com/majiayu000/awesome-grok-bot/blob/main/README.zh-CN.md
 Featured notes: templates/
 Vetting: docs/vetting.md
 Team recipes (one share = one bot): packs/
 Official role starters (not importable): docs/official-starters.md
-Field cases sit above the 100 shares (real runs, grouped by roster / computer-use / gotchas): README.md#field-cases
+Field cases sit above the 253 shares (real runs, grouped by roster / computer-use / gotchas): README.md#field-cases
 Linux desktop: the Bot computer is already Linux; official desktop apps are macOS, Windows, and iOS; unofficial thin-client ports are indexed at falser101/grok-bot-linux: README.md#linux-desktop
 Skills and tools (local/study, factory, CLIs, bridges, playbooks, indexes, OSS alts): README.md#skills-and-tools
 Community tutorials: README.md#tutorials
