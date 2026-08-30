@@ -600,6 +600,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "botsi-archivist",
+      "name": "Botsi Archivist",
+      "author": {
+        "name": "Chakhdz",
+        "github": "Chakhdz"
+      },
+      "summary": "Holds the skill catalog for a team of Grok bots. Routes work, remasters chats at 20 batches, and only searches for a new skill after you say yes.",
+      "summary_zh": "给一队 Grok Bot 管技能目录。分活，聊天满 20 批就重制，只有你点头才去搜新技能。",
+      "import": "https://x.ai/bot/O_3hbkWqb1A51ZcWixGZy",
+      "source": "https://github.com/Chakhdz/grok-bot-token-saver",
+      "related": "https://github.com/Chakhdz/grok-bot-token-saver",
+      "category": "teams-handoffs",
+      "tags": [
+        "skills",
+        "routing",
+        "archivist"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
       "slug": "bounty-hunter",
       "name": "Bounty Hunter",
       "author": {
@@ -679,6 +701,27 @@
       "tags": [
         "school",
         "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "carmackbot",
+      "name": "CarmackBot",
+      "author": {
+        "name": "Marcus"
+      },
+      "summary": "A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that runs.",
+      "summary_zh": "第一性原理的游戏引擎和固件专长，给小体量爱好游戏用，只上真正能跑的最小栈。",
+      "import": "https://x.ai/bot/B5UMQzelNds6Iy2nuFrka",
+      "source": "https://github.com/doanbactam/awesome-grok-bots",
+      "related": "https://github.com/doanbactam/awesome-grok-bots",
+      "category": "coding-shipping",
+      "tags": [
+        "games",
+        "firmware",
+        "engine"
       ],
       "license": "CC0-1.0",
       "verified": false,
@@ -1094,6 +1137,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "convert-flat-pdf-to-fillable-form",
+      "name": "Convert Flat PDF to Fillable Form",
+      "author": {
+        "name": "Oleksandr"
+      },
+      "summary": "Turns scanned and flat PDFs into fillable forms. Connect Instafill.ai after install.",
+      "summary_zh": "把扫描件和平的 PDF 变成可填表单。装完后接 Instafill.ai 连接器。",
+      "import": "https://x.ai/bot/7_kjCPFrySCloHK-QS-hu",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "personal-admin",
+      "tags": [
+        "pdf",
+        "forms",
+        "instafill"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
       "slug": "cost-smart-health-brief",
       "name": "Cost-Smart Health Brief",
       "author": {
@@ -1415,6 +1479,28 @@
       "tags": [
         "inbox",
         "scheduling"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "dj-trevin",
+      "name": "DJ",
+      "author": {
+        "name": "Trevin",
+        "url": "https://x.com/trevin"
+      },
+      "summary": "Controls Spotify. Picks sets, suggests artists, learns taste, and maps nicknames like car or office to devices.",
+      "summary_zh": "管 Spotify。排歌单、推新艺人、学口味，还能把车里、办公室这类外号对到设备。",
+      "import": "https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "personal-admin",
+      "tags": [
+        "spotify",
+        "music",
+        "dj"
       ],
       "license": "CC0-1.0",
       "verified": false,
@@ -2028,6 +2114,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "grocery-cart-planner",
+      "name": "Grocery Cart Planner",
+      "author": {
+        "name": "Elie",
+        "url": "https://x.com/mvanhorn"
+      },
+      "summary": "Plans an Instacart grocery cart from meal ideas, recipes, and staples, respecting diet, brands, stores, and budget.",
+      "summary_zh": "按菜谱、常备和饮食预算，在 Instacart 上排出购物车。",
+      "import": "https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "personal-admin",
+      "tags": [
+        "grocery",
+        "instacart",
+        "meals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
       "slug": "grok-bot-coach",
       "name": "Grok Bot Coach",
       "author": {
@@ -2524,6 +2632,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "jarvis-andrew",
+      "name": "Jarvis",
+      "author": {
+        "name": "Andrew"
+      },
+      "summary": "A chief of agents for a solo founder. Routes work, keeps house rules, and only interrupts for judgment, money, or a blocked teammate.",
+      "summary_zh": "给独立创始人当总调度。把活分给专长 Bot，守家规，只在判断、花钱或队友卡住时打断你。",
+      "import": "https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN",
+      "source": "https://github.com/andrewkittridge/grokory",
+      "related": "https://github.com/andrewkittridge/grokory",
+      "category": "teams-handoffs",
+      "tags": [
+        "chief",
+        "routing",
+        "founder"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
       "slug": "jess-executive-assistant",
       "name": "Jess",
       "author": {
@@ -2675,6 +2804,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "keywire-would-you-rather-collector",
+      "name": "KeyWire: Would You Rather: Collector",
+      "author": {
+        "name": "VonDoom",
+        "url": "https://x.com/CryptoVonDoom"
+      },
+      "summary": "A tap-first Would You Rather collector game from KeyWire.io. Pokemon, comics, and MTG lanes. Game only, not financial advice.",
+      "summary_zh": "KeyWire 的 Would You Rather 收集游戏，宝可梦、漫画、万智牌几条线。只玩游戏，不当理财建议。",
+      "import": "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "personal-admin",
+      "tags": [
+        "game",
+        "comics",
+        "collector"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
       "slug": "kirk-enterprise-crew",
       "name": "Kirk (Enterprise Crew)",
       "author": {
@@ -2757,6 +2908,26 @@
         "business",
         "research",
         "analytics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "lazy-tom",
+      "name": "Lazy Tom",
+      "author": {
+        "name": "duyet"
+      },
+      "summary": "A dry, low-effort assistant that does the smallest useful thing and then stops. Short replies, no extra tasks, no coding.",
+      "summary_zh": "懒助手。只做最小有用的一步然后停。短回复，不加戏，不写代码。",
+      "import": "https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "personal-admin",
+      "tags": [
+        "assistant",
+        "minimal"
       ],
       "license": "CC0-1.0",
       "verified": false,
@@ -3216,6 +3387,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "meme-king",
+      "name": "Meme King",
+      "author": {
+        "name": "dogenorway",
+        "url": "https://x.com/DogecoinNorway"
+      },
+      "summary": "Makes still memes and GIFs from live X trends and news, plus a 3-5 meme morning drop. Never posts to X.",
+      "summary_zh": "按当天 X 热度和新闻做静图和 GIF 梗图，早上再丢 3 到 5 张。自己不会发到 X。",
+      "import": "https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "content-publishing",
+      "tags": [
+        "memes",
+        "images",
+        "gifs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
       "slug": "milybot",
       "name": "Milybot",
       "author": {
@@ -3232,6 +3425,28 @@
         "business",
         "finance",
         "data"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "money-maker-bot",
+      "name": "Money Maker Bot",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/mbhound"
+      },
+      "summary": "Looks for legal ways to make money. First run installs agentself and a wallet, then hunts opportunities.",
+      "summary_zh": "找合法赚钱办法。第一次运行会装 agentself 并建钱包，然后再找机会。",
+      "import": "https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "finance-ops",
+      "tags": [
+        "money",
+        "wallet",
+        "agentself"
       ],
       "license": "CC0-1.0",
       "verified": false,
@@ -3384,6 +3599,27 @@
       "tags": [
         "email",
         "unsubscribe"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "nikita-bier",
+      "name": "Nikita Bier",
+      "author": {
+        "name": "Jacob"
+      },
+      "summary": "Pressure-tests products for the share loop. Tells you if people will send it to a friend, cuts the extra, and gives one change to ship this week.",
+      "summary_zh": "用分享环路压测产品。告诉你别人会不会转给朋友，砍掉多余，给出本周能上的一个改动。",
+      "import": "https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "customer-sales",
+      "tags": [
+        "growth",
+        "product",
+        "share"
       ],
       "license": "CC0-1.0",
       "verified": false,
@@ -4813,6 +5049,28 @@
         "ops",
         "developer",
         "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "template-generator",
+      "name": "template generator",
+      "author": {
+        "name": "Jarett",
+        "url": "https://x.com/STACCoverflow"
+      },
+      "summary": "Scans local Claude, Cline, and Grok Bot sessions, then offers templates you can generate and share.",
+      "summary_zh": "扫本机 Claude、Cline 和 Grok Bot 会话，再给出可生成可分享的模板。",
+      "import": "https://x.ai/bot/9oKJDID_EKLacIXpKfFAq",
+      "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "related": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+      "category": "coding-shipping",
+      "tags": [
+        "templates",
+        "sessions",
+        "generator"
       ],
       "license": "CC0-1.0",
       "verified": false,
