@@ -10,11 +10,11 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> Curated official share links you can Add to Grok Bot, plus field cases and community tools. This repo is an index. Cloning it does not install a bot.
+> Live `x.ai/bot` shares you can Add, plus writeups of how people actually run them. This repo is an index. Cloning it does not install a bot.
 
 ## Contents
 
-- [Start here](#start-here)
+- [How to use](#how-to-use)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)
   - [Computer-use jobs](#computer-use-jobs)
@@ -40,21 +40,15 @@
 - [Tutorials](#tutorials)
 - [Reviews](#reviews)
 
-## Start here
+## How to use
 
-You need the Grok Bot desktop (macOS or Windows) or the iOS app. Open a share, hit **Add to Grok Bot**. Cap is 50 bots on one shared Linux computer. These 100 were HTTP-checked live on 30 Aug 2026 and are still unverified.
-
-Add one of [Work](https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0) · [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) · [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho), then one [pack](#team-packs). Notes: [templates/work](templates/work/) · [templates/dr-eggbot](templates/dr-eggbot/) · [templates/fixer](templates/fixer/).
-
-<p align="center">
-  <a href="https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0"><img src="docs/screenshots/work.png" width="30%" alt="Work share page"></a>
-  <a href="https://x.ai/bot/93gOz3op1UQdBdbekQFLK"><img src="docs/screenshots/dr-eggbot.png" width="30%" alt="dr eggbot share page"></a>
-  <a href="https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho"><img src="docs/screenshots/fixer.png" width="30%" alt="Fixer share page"></a>
-</p>
+This list is so you can use Grok Bot. Open a live share, hit **Add to Grok Bot**. Look at [Field cases](#field-cases) first if you want to see a real run, then pick any link below. You need the desktop app (macOS or Windows) or iOS. Cap is 50 bots on one shared Linux computer.
 
 A share copies identity, description, selected memories, skills, routines, and first-party plugins by plugin id. It does not copy the computer, files, logins, API keys, custom MCP, scripts, or history. `verified: true` only after a maintainer imported one and ran a first safe task.
 
 > Community templates are untrusted third-party software. Adding one accepts Grok Bot third-party bot terms. Inspect the profile, connect one connector, try a read-only task, only then enable routines or writes. Never paste API keys into SETUP. Skills can fail to travel. See [SECURITY.md](SECURITY.md) and [docs/vetting.md](docs/vetting.md).
+
+These 100 were HTTP-checked live on 30 Aug 2026 and are still unverified.
 
 Machine-readable: [catalog.json](catalog.json).
 

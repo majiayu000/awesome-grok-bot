@@ -10,11 +10,11 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 精选、可直接添加的官方 Grok Bot 分享链接，外加真人案例和社区工具。本仓库是索引。clone 下来不会安装任何 Bot。
+> 可直接添加的官方分享链接，外加别人怎么用的真人记录。本仓库是索引。clone 下来不会安装任何 Bot。
 
 ## 目录
 
-- [从这里开始](#从这里开始)
+- [怎么用](#怎么用)
 - [真人案例](#真人案例)
   - [编制](#编制)
   - [电脑上手活](#电脑上手活)
@@ -40,23 +40,17 @@
 - [社区教程](#社区教程)
 - [评测](#评测)
 
-## 从这里开始
+## 怎么用
 
-需要 Grok Bot 桌面端（macOS 或 Windows）或 iOS。打开分享链接，点 **Add to Grok Bot**。上限 50 个 Bot，共用一台 Linux 电脑。这 100 条在 2026 年 8 月 30 日 HTTP 核对为活链接，尚未核验。
-
-先加其中一个 [Work](https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0) · [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) · [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho)，再选一套[配方](#团队配方)。说明见 [templates/work](templates/work/) · [templates/dr-eggbot](templates/dr-eggbot/) · [templates/fixer](templates/fixer/)。
-
-<p align="center">
-  <a href="https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0"><img src="docs/screenshots/work.png" width="30%" alt="Work share page"></a>
-  <a href="https://x.ai/bot/93gOz3op1UQdBdbekQFLK"><img src="docs/screenshots/dr-eggbot.png" width="30%" alt="dr eggbot share page"></a>
-  <a href="https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho"><img src="docs/screenshots/fixer.png" width="30%" alt="Fixer share page"></a>
-</p>
+这个库是给人拿来用的。打开一条活分享，点 **Add to Grok Bot**。想先看别人怎么跑，去[真人案例](#真人案例)，再从下面点一条链接。需要桌面端（macOS 或 Windows）或 iOS。上限 50 个 Bot，共用一台 Linux 电脑。
 
 分享会复制身份、描述、勾选的记忆、技能、例行任务、以及按插件 id 引用的官方市场插件。不会复制电脑、文件、登录、API key、自定义 MCP、脚本、对话历史。`verified: true` 只在维护者真正导入并跑过首次安全任务之后才打。
 
 > 社区模板是不可信的第三方软件。添加即表示接受 Grok Bot 第三方 Bot 条款。先看 profile，只接一个连接器，先跑只读任务，确认后再开例行任务或写入。不要把 API key 写进 SETUP。技能可能传不过去。见 [SECURITY.md](SECURITY.md) 和 [docs/vetting.md](docs/vetting.md)。
 
-机器可读目录：[catalog.json](catalog.json)。
+这 100 条在 2026 年 8 月 30 日 HTTP 核对为活链接，尚未核验。
+
+机器可读目录见 [catalog.json](catalog.json)。
 
 ## 真人案例
 
