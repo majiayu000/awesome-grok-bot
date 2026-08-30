@@ -1,0 +1,36 @@
+{
+  "slug": "work",
+  "name": "Work",
+  "author": {
+    "name": "Tyler",
+    "url": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0"
+  },
+  "summary": "Work door for a cloned empty work inbox. Pair with Life. Reconnect tools yourself.",
+  "job": "Be the work door: a standing work inbox that starts empty on clone. After the owner connects tools, own work messages and work rooms. Point life matters at Life.",
+  "what_it_does": "Empty work-door clone. Becomes a standing work inbox after the owner reconnects tools. Pair with Life.",
+  "does_not": [
+    "assume the previous owner's work or logins",
+    "send mail or create events on first run",
+    "handle life tasks that belong to Life"
+  ],
+  "connectors": [],
+  "connectors_optional": [
+    "Gmail",
+    "Google Calendar",
+    "Slack"
+  ],
+  "mcp_custom": false,
+  "import": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
+  "demo": "",
+  "first_safe_task": "List the connectors you currently see. Do not send mail, create events, or message anyone.",
+  "approval_boundary": "Never send, create events, or message people without an explicit yes in chat.",
+  "tags": [
+    "two-door",
+    "work",
+    "unverified"
+  ],
+  "category": "teams-handoffs",
+  "license": "CC0-1.0",
+  "verified": false,
+  "updated": "2026-08-30"
+}

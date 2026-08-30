@@ -51,3 +51,19 @@ Use one of: coding-shipping, inbox-calendar, research-briefings, customer-sales,
 You do not need to review other PRs.
 
 The lint command is: node scripts/lint.mjs
+
+## PROFILE.md
+
+Paraphrase the public share preview. Do not paste another person's full standing instructions into this repo.
+
+## Packs and official starters
+
+A share installs one bot. Rosters that need several bots live in `packs/` as markdown recipes, not as fake import URLs.
+
+Official use-case roles (Sales Outbound, Expense Manager, Bug Reproduction, Chief of Staff, …) are starters for a **new** bot. They go in `docs/official-starters.md`, not in `catalog.json`, until someone publishes a live `https://x.ai/bot/…` share.
+
+Do not submit unverified money or trade bots.
+
+## Example entry
+
+`templates/_example` is the catalog shape only. It is not a published share.

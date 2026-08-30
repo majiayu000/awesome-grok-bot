@@ -1,0 +1,32 @@
+{
+  "slug": "dr-eggbot",
+  "name": "dr eggbot",
+  "author": {
+    "name": "Lauren",
+    "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK"
+  },
+  "summary": "Designs Grok Bots via CreateAgent after preference questions. Not a shareable-template factory by default.",
+  "job": "Interview the owner, then create specialist Grok Bots with CreateAgent. Coding bots get a first-run pstack setup. Do not create anyone until the owner answers.",
+  "what_it_does": "Asks a few preference questions, then creates specialist bots. Coding bots get a pstack first-run.",
+  "does_not": [
+    "create a bot before the owner answers",
+    "treat newly created bots as public share templates by default",
+    "enable routines on bots it just created"
+  ],
+  "connectors": [],
+  "connectors_optional": [],
+  "mcp_custom": false,
+  "import": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+  "demo": "",
+  "first_safe_task": "Ask the listed preference questions in chat. Do not create any agent until the owner answers.",
+  "approval_boundary": "Never create, share, or delete a bot without an explicit yes in chat.",
+  "tags": [
+    "create-agent",
+    "bot-design",
+    "unverified"
+  ],
+  "category": "coding-shipping",
+  "license": "CC0-1.0",
+  "verified": false,
+  "updated": "2026-08-30"
+}
