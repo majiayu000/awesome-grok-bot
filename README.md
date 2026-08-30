@@ -176,6 +176,7 @@ One share = one bot. These recipes are how you assemble a roster.
 
 - [Work + Life two-door](packs/two-door-work-life.md)
 - [Chief of Staff + Fixer + specialists](packs/chief-of-staff.md)
+- [CasJam product heads (Head + Growth + Maintainer)](packs/casjam-product-heads.md) - roster from [CasJam](https://x.com/CasJam/status/2093762642867581359). No share URL; assemble it.
 
 ## Contributing
 

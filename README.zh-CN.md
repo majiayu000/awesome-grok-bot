@@ -176,6 +176,7 @@
 
 - [Work + Life 两扇门](packs/two-door-work-life.md)
 - [参谋 + Fixer + 专职](packs/chief-of-staff.md)
+- [CasJam 产品编队（Head + Growth + Maintainer）](packs/casjam-product-heads.md) - 来自 [CasJam](https://x.com/CasJam/status/2093762642867581359) 的编制。没有分享链接，要自己搭。
 
 ## 贡献
 
