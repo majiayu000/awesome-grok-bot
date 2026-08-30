@@ -1,0 +1,9 @@
+{
+  "name": "awesome-grok-bot",
+  "private": true,
+  "scripts": {
+    "lint": "node scripts/lint.mjs",
+    "test": "node scripts/lint.mjs"
+  },
+  "type": "module"
+}

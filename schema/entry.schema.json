@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/majiayu000/awesome-grok-bot/schema/entry.schema.json",
+  "title": "Awesome Grok Bot catalog entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "slug",
+    "name",
+    "author",
+    "summary",
+    "job",
+    "what_it_does",
+    "does_not",
+    "connectors",
+    "first_safe_task",
+    "approval_boundary",
+    "tags",
+    "category",
+    "license",
+    "verified",
+    "updated"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-z0-9_]+(?:-[a-z0-9_]+)*$|^_example$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "author": {
+      "type": "object",
+      "required": [
+        "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "github": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      }
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 160
+    },
+    "job": {
+      "type": "string",
+      "minLength": 1
+    },
+    "what_it_does": {
+      "type": "string",
+      "minLength": 1
+    },
+    "does_not": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "connectors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "connectors_optional": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "mcp_custom": {
+      "type": "boolean",
+      "default": false
+    },
+    "import": {
+      "type": "string"
+    },
+    "demo": {
+      "type": "string"
+    },
+    "first_safe_task": {
+      "type": "string",
+      "minLength": 1
+    },
+    "approval_boundary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "coding-shipping",
+        "inbox-calendar",
+        "research-briefings",
+        "customer-sales",
+        "finance-ops",
+        "content-publishing",
+        "personal-admin",
+        "teams-handoffs"
+      ]
+    },
+    "license": {
+      "type": "string",
+      "default": "CC0-1.0"
+    },
+    "verified": {
+      "type": "boolean",
+      "default": false
+    },
+    "updated": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    }
+  }
+}
