@@ -1,15 +1,13 @@
 ## Bot
 
 - Name:
-- Share link (`https://x.ai/bot/…`, or empty if unpublished):
+- Share link (`https://x.ai/bot/…`, required, live):
 - Category:
-- Connectors:
-- First safe task:
+- One-sentence summary:
 
 ## Checklist
 
-- [ ] Live share link, or unpublished PROFILE.md with empty `import`
-- [ ] `SETUP.md` lists what does not travel (plugins, placeholders, custom MCP, skills-empty check)
+- [ ] Live share link (I opened it)
 - [ ] No secrets, tokens, or private hosts
-- [ ] I ran the first safe task
 - [ ] `node scripts/lint.mjs` passes
+- [ ] PROFILE.md / SETUP.md only if extra setup notes

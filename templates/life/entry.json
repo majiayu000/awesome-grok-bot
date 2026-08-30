@@ -3,31 +3,18 @@
   "name": "Life",
   "author": {
     "name": "Tyler",
-    "url": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK"
+    "url": "https://x.com/TylerNishida"
   },
-  "summary": "Life door: standing life inbox and room opener. Pair with Work. Starts empty.",
-  "job": "Be the life door: a standing life inbox that can open life rooms. Starts empty on clone. Point work matters at Work.",
-  "what_it_does": "Empty life-door clone. Standing life inbox and room opener. Pair with Work.",
-  "does_not": [
-    "assume the previous owner's life context",
-    "spawn sibling bots on first run",
-    "handle work tasks that belong to Work"
-  ],
-  "connectors": [],
-  "connectors_optional": [
-    "Google Calendar"
-  ],
-  "mcp_custom": false,
+  "summary": "A standing inbox for everything personal that spawns the bots you need",
+  "summary_zh": "私人事务的常驻收件箱，需要时再拉出对应 Bot。",
   "import": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
-  "demo": "",
-  "first_safe_task": "List the rooms or sibling bots you would open. Do not spawn anyone or send messages.",
-  "approval_boundary": "Never spawn bots, send messages, or create events without an explicit yes in chat.",
+  "source": "https://x.com/TylerNishida/status/2093426221732532457",
+  "related": "https://grokbot.dev/bots/life-life-door",
+  "category": "teams-handoffs",
   "tags": [
     "two-door",
-    "life",
-    "unverified"
+    "life"
   ],
-  "category": "teams-handoffs",
   "license": "CC0-1.0",
   "verified": false,
   "updated": "2026-08-30"

@@ -3,30 +3,19 @@
   "name": "Home robots",
   "author": {
     "name": "Sawyer",
-    "url": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u"
+    "url": "https://x.com/SawyerMerritt"
   },
-  "summary": "Chat control for official home robots (mowers, vacuums, Matter). List first; do not start or dock.",
-  "job": "Control official home robots from chat after each vendor is connected once. List status first. Do not start, pause, or dock until asked.",
-  "what_it_does": "Talks to official mowers, vacuums, and Matter robots from chat once each vendor is connected.",
-  "does_not": [
-    "start, pause, or dock a robot on first run",
-    "connect unofficial or untrusted robot APIs",
-    "store vendor passwords in SETUP"
-  ],
-  "connectors": [],
-  "connectors_optional": [],
-  "mcp_custom": true,
+  "summary": "Control your mower, vacuum and other Matter home robots from one chat",
+  "summary_zh": "在一个聊天窗口里控制割草机、扫地机和其他 Matter 家用机器人。",
   "import": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
-  "demo": "",
-  "first_safe_task": "List connected robots and their current status. Do not start, pause, dock, or change any robot.",
-  "approval_boundary": "Never start, pause, dock, or change a robot without an explicit yes in chat.",
+  "source": "https://x.com/SawyerMerritt/status/2093384986162352495",
+  "related": "https://grokbot.dev/bots/home-robots",
+  "category": "personal-admin",
   "tags": [
     "home",
     "robots",
-    "matter",
-    "unverified"
+    "matter"
   ],
-  "category": "personal-admin",
   "license": "CC0-1.0",
   "verified": false,
   "updated": "2026-08-30"

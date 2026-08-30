@@ -9,14 +9,9 @@
     "name",
     "author",
     "summary",
-    "job",
-    "what_it_does",
-    "does_not",
-    "connectors",
-    "first_safe_task",
-    "approval_boundary",
-    "tags",
+    "import",
     "category",
+    "tags",
     "license",
     "verified",
     "updated"
@@ -25,7 +20,7 @@
     "slug": {
       "type": "string",
       "minLength": 1,
-      "pattern": "^[a-z0-9_]+(?:-[a-z0-9_]+)*$|^_example$"
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
     },
     "name": {
       "type": "string",
@@ -51,6 +46,11 @@
       }
     },
     "summary": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 160
+    },
+    "summary_zh": {
       "type": "string",
       "minLength": 1,
       "maxLength": 160
@@ -87,6 +87,13 @@
       "default": false
     },
     "import": {
+      "type": "string",
+      "pattern": "^https://x\\.ai/bot/[A-Za-z0-9_-]+$"
+    },
+    "source": {
+      "type": "string"
+    },
+    "related": {
       "type": "string"
     },
     "demo": {
@@ -104,7 +111,9 @@
       "type": "array",
       "items": {
         "type": "string"
-      }
+      },
+      "minItems": 1,
+      "maxItems": 4
     },
     "category": {
       "type": "string",

@@ -1,11 +1,11 @@
 # Awesome Grok Bot
 
-> Curated importable Grok Bot templates. Official share links, not prompt dumps.
+> Curated live official share links you can Add to Grok Bot.
 
-Machine-readable catalog: https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json
+100 live shares in catalog.json: https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json
 Human index: https://github.com/majiayu000/awesome-grok-bot
 Chinese: https://github.com/majiayu000/awesome-grok-bot/blob/main/README.zh-CN.md
-
-After import: docs/vetting.md
+Featured notes: templates/
+Vetting: docs/vetting.md
 Team recipes (one share = one bot): packs/
 Official role starters (not importable): docs/official-starters.md

@@ -1,5 +1,5 @@
 name: New bot
-description: Propose a Grok Bot template for the catalog
+description: Propose a live Grok Bot share for the catalog
 title: "Add: "
 labels: ["new-bot"]
 body:
@@ -34,24 +34,11 @@ body:
     validations:
       required: true
   - type: input
-    id: connectors
-    attributes:
-      label: Connectors
-      placeholder: Gmail, Google Drive
-    validations:
-      required: true
-  - type: textarea
-    id: first_safe_task
-    attributes:
-      label: First safe task
-      description: Read-only. No send, pay, or delete.
-    validations:
-      required: true
-  - type: input
     id: author
     attributes:
-      label: Author GitHub
-      placeholder: octocat
+      label: Author
+      description: X handle or name. GitHub optional.
+      placeholder: "@handle"
     validations:
       required: true
   - type: textarea

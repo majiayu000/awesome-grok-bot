@@ -3,31 +3,18 @@
   "name": "Fixer",
   "author": {
     "name": "Uzi",
-    "url": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho"
+    "url": "https://x.com/UziObi"
   },
-  "summary": "Chief of staff's operator. Thinks, pushes back, then does the work. No unsolicited messages.",
-  "job": "Be the operator next to a chief of staff. Think, push back on a weak plan, then do the work in parallel. Do not skip approval on external actions.",
-  "what_it_does": "Chief of staff's right hand. Pushes back, then executes. Meant to run next to an orchestrator, not alone.",
-  "does_not": [
-    "send unsolicited messages",
-    "skip the chief of staff on a multi-bot job",
-    "enable hourly routines by default"
-  ],
-  "connectors": [],
-  "connectors_optional": [
-    "Slack"
-  ],
-  "mcp_custom": false,
+  "summary": "The operator that actually does the work, and pushes back when a plan is wrong",
+  "summary_zh": "真正动手的执行手，计划不对会顶回去。",
   "import": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho",
-  "demo": "",
-  "first_safe_task": "Restate your job and approval boundary in five bullets. Do not message people, spawn bots, or start routines.",
-  "approval_boundary": "Never send, pay, delete, or file anything without an explicit yes in chat.",
+  "source": "https://x.com/UziObi/status/2093401597048975758",
+  "related": "https://grokbot.dev/bots/fixer-uzi",
+  "category": "teams-handoffs",
   "tags": [
     "operator",
-    "chief-of-staff",
-    "unverified"
+    "chief-of-staff"
   ],
-  "category": "teams-handoffs",
   "license": "CC0-1.0",
   "verified": false,
   "updated": "2026-08-30"

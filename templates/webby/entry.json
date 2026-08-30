@@ -3,31 +3,18 @@
   "name": "Webby",
   "author": {
     "name": "Farzad",
-    "url": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33"
+    "url": "https://x.com/farzyness"
   },
-  "summary": "Website admin plus newsletter and a public weekday dashboard. Create-only on first run; no deletes.",
-  "job": "Own a personal site, exclusive long-form, a newsletter, and a public weekday dashboard. Rebuild with a live fallback. Do not delete live pages.",
-  "what_it_does": "Runs website admin, newsletter, and a public weekday dashboard. Create and rebuild, not delete.",
-  "does_not": [
-    "delete live pages or archives",
-    "publish without an explicit yes",
-    "paste host or DNS credentials into SETUP"
-  ],
-  "connectors": [],
-  "connectors_optional": [
-    "GitHub"
-  ],
-  "mcp_custom": false,
+  "summary": "A website admin that rebuilds, dashboards and keeps the newsletter going",
+  "summary_zh": "管网站重建和看板，newsletter 也一直转着。",
   "import": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
-  "demo": "",
-  "first_safe_task": "Describe the sites and newsletter you own after import. Do not publish, delete, or change live pages.",
-  "approval_boundary": "Never publish, delete, or change DNS without an explicit yes in chat.",
+  "source": "https://x.com/farzyness/status/2093485215150744014",
+  "related": "https://grokbot.dev/bots/webby",
+  "category": "content-publishing",
   "tags": [
     "website",
-    "newsletter",
-    "unverified"
+    "newsletter"
   ],
-  "category": "content-publishing",
   "license": "CC0-1.0",
   "verified": false,
   "updated": "2026-08-30"

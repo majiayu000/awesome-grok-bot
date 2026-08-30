@@ -1,72 +1,1455 @@
 {
-  "name": "Awesome Grok Bot",
-  "description": "Curated importable Grok Bot templates.",
-  "updated": "2026-08-30",
+  "generated": "2026-08-30",
+  "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
-      "slug": "dr-eggbot",
-      "name": "dr eggbot",
+      "slug": "agent-looper",
+      "name": "Agent Looper",
       "author": {
-        "name": "Lauren",
-        "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK"
+        "name": "dancingteeth",
+        "url": "https://x.com/dancingteeth"
       },
-      "summary": "Designs Grok Bots via CreateAgent after preference questions. Not a shareable-template factory by default.",
-      "job": "Interview the owner, then create specialist Grok Bots with CreateAgent. Coding bots get a first-run pstack setup. Do not create anyone until the owner answers.",
-      "what_it_does": "Asks a few preference questions, then creates specialist bots. Coding bots get a pstack first-run.",
-      "does_not": [
-        "create a bot before the owner answers",
-        "treat newly created bots as public share templates by default",
-        "enable routines on bots it just created"
-      ],
-      "connectors": [],
-      "connectors_optional": [],
-      "mcp_custom": false,
-      "import": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
-      "demo": "",
-      "first_safe_task": "Ask the listed preference questions in chat. Do not create any agent until the owner answers.",
-      "approval_boundary": "Never create, share, or delete a bot without an explicit yes in chat.",
-      "tags": [
-        "create-agent",
-        "bot-design",
-        "unverified"
-      ],
+      "summary": "Keeps a local coding agent iterating until your acceptance test passes",
+      "summary_zh": "盯着本机编程代理反复改，直到验收测试通过。",
+      "import": "https://x.ai/bot/AETdGbRRNWfckrRGv22LD",
+      "source": "https://x.com/dancingteeth/status/2093868415542845628",
+      "related": "https://grokbot.dev/bots/agent-looper",
       "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "loop",
+        "tests"
+      ],
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
     },
     {
-      "slug": "_example",
-      "name": "Example Brief Bot",
+      "slug": "agent-smith",
+      "name": "Agent Smith",
       "author": {
-        "name": "Awesome Grok Bot maintainers",
-        "github": "majiayu000",
-        "url": "https://github.com/majiayu000/awesome-grok-bot"
+        "name": "Chip",
+        "url": "https://x.com/chiplay"
       },
-      "summary": "EXAMPLE only. Shows the catalog shape for a weekly research brief that never sends mail.",
-      "job": "Produce a weekly research brief from sources the owner names. Never send, never create events, never enable routines until asked.",
-      "what_it_does": "Reads named sources, drafts a short brief, waits for approval.",
-      "does_not": [
-        "send email",
-        "create calendar events",
-        "enable routines",
-        "message people"
-      ],
-      "connectors": [],
-      "connectors_optional": [
-        "Gmail"
-      ],
-      "mcp_custom": false,
-      "import": "",
-      "demo": "",
-      "first_safe_task": "Summarize this conversation in three bullets. Do not send mail or create events.",
-      "approval_boundary": "Never send, pay, delete, or file anything without an explicit yes in chat.",
+      "summary": "A janitor for multi-bot workspaces that stops cruft piling up",
+      "summary_zh": "多 Bot 工作区的清洁工，不让垃圾越堆越多。",
+      "import": "https://x.ai/bot/JcFj23aaufNWkuiiJTX0j",
+      "source": "https://x.com/chiplay/status/2093502053037293650",
+      "related": "https://grokbot.dev/bots/agent-smith",
+      "category": "coding-shipping",
       "tags": [
-        "example",
-        "research",
-        "read-then-ask"
+        "ops",
+        "workspace"
       ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "ai-harness-assistant",
+      "name": "AI Harness Assistant",
+      "author": {
+        "name": "Alan",
+        "url": "https://x.com/gheeunit"
+      },
+      "summary": "Keeps every AI coding tool on your machines up to date",
+      "summary_zh": "让你机器上每一套 AI 编程工具都跟上版本。",
+      "import": "https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB",
+      "source": "https://x.com/gheeunit/status/2093427364973695253",
+      "related": "https://grokbot.dev/bots/ai-harness-assistant",
+      "category": "coding-shipping",
+      "tags": [
+        "tools",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "alchemist",
+      "name": "Alchemist",
+      "author": {
+        "name": "Aman",
+        "url": "https://x.com/2onism"
+      },
+      "summary": "Experiments its way to a method for undocumented problems",
+      "summary_zh": "没文档的问题就拿来做实验，直到摸出一套办法。",
+      "import": "https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj",
+      "source": "https://x.com/2onism/status/2093723713279803515",
+      "related": "https://grokbot.dev/bots/alchemist",
+      "category": "coding-shipping",
+      "tags": [
+        "research",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "apps",
+      "name": "Apps",
+      "author": {
+        "name": "Wayne",
+        "url": "https://x.com/waynesutton"
+      },
+      "summary": "Describe an app in one sentence and get a running build back",
+      "summary_zh": "一句话描述应用，收回一个能跑起来的构建。",
+      "import": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+      "source": "https://x.com/waynesutton/status/2093835122231722366",
+      "related": "https://grokbot.dev/bots/apps",
+      "category": "coding-shipping",
+      "tags": [
+        "shipping",
+        "apps"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "betree",
+      "name": "BeTree",
+      "author": {
+        "name": "Nicolas",
+        "url": "https://x.com/NicoChauvin74"
+      },
+      "summary": "Turns a plan spread across several bots into one live graph",
+      "summary_zh": "把分散在多个 Bot 上的计划收成一张活的关系图。",
+      "import": "https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w",
+      "source": "https://x.com/NicoChauvin74/status/2093778235054031136",
+      "related": "https://grokbot.dev/bots/betree",
+      "category": "coding-shipping",
+      "tags": [
+        "graph",
+        "agent-team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "dr-eggbot",
+      "name": "dr eggbot",
+      "author": {
+        "name": "Lauren",
+        "url": "https://x.com/poteto"
+      },
+      "summary": "A bot that builds other Grok bots for you",
+      "summary_zh": "替你搭建其他 Grok Bot。",
+      "import": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+      "source": "https://x.com/poteto/status/2093392701005946931",
+      "related": "https://grokbot.dev/bots/dr-eggbot",
+      "category": "coding-shipping",
+      "tags": [
+        "create-agent",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "frontier-model-watch",
+      "name": "Frontier Model Watch",
+      "author": {
+        "name": "Amina",
+        "url": "https://x.com/GuleidAmina"
+      },
+      "summary": "One verified daily digest of releases from ten frontier AI labs",
+      "summary_zh": "每天一份核过的简报，覆盖十家前沿实验室的发布。",
+      "import": "https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S",
+      "source": "https://x.com/GuleidAmina/status/2093400067617309106",
+      "related": "https://grokbot.dev/bots/frontier-model-watch",
+      "category": "coding-shipping",
+      "tags": [
+        "models",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "gardener",
+      "name": "Gardener",
+      "author": {
+        "name": "Tyler",
+        "url": "https://x.com/tylerklose"
+      },
+      "summary": "Pulls provable dead code in tiny behaviour-preserving pull requests",
+      "summary_zh": "用可证明、行为不变的小 PR 清掉死代码。",
+      "import": "https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp",
+      "source": "https://x.com/tylerklose/status/2093483701480866210",
+      "related": "https://grokbot.dev/bots/gardener",
+      "category": "coding-shipping",
+      "tags": [
+        "dead-code",
+        "pr"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "lgtm-the-pr-closer",
+      "name": "lgtm the pr closer",
+      "author": {
+        "name": "Claire",
+        "url": "https://x.com/clairevo"
+      },
+      "summary": "Wakes up each morning and burns down your open pull requests",
+      "summary_zh": "每天早上醒来，把开着的 pull request 清掉。",
+      "import": "https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo",
+      "source": "https://x.com/clairevo/status/2093496605488083203",
+      "related": "https://grokbot.dev/bots/lgtm-the-pr-closer",
+      "category": "coding-shipping",
+      "tags": [
+        "pr",
+        "review"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "overnight-shipper",
+      "name": "overnight shipper",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Drop an idea before bed and review the pull request in the morning",
+      "summary_zh": "睡前丢一个点子，早上起来审 pull request。",
+      "import": "https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf",
+      "source": "https://x.com/joshkim/status/2093582410638311676",
+      "related": "https://grokbot.dev/bots/overnight-shipper",
+      "category": "coding-shipping",
+      "tags": [
+        "shipping",
+        "pr",
+        "overnight"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "overwatch",
+      "name": "Overwatch",
+      "author": {
+        "name": "Andrej",
+        "url": "https://x.com/scheemunai"
+      },
+      "summary": "Housekeeper for your Grok Bot VM so a shared machine does not rot",
+      "summary_zh": "照看 Grok Bot 共用虚拟机，别让机器慢慢烂掉。",
+      "import": "https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP",
+      "source": "https://x.com/scheemunai/status/2093397147882229897",
+      "related": "https://grokbot.dev/bots/overwatch",
+      "category": "coding-shipping",
+      "tags": [
+        "ops",
+        "vm"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "pr-reviewer",
+      "name": "PR Reviewer",
+      "author": {
+        "name": "mustafa",
+        "url": "https://x.com/mustafaergisi"
+      },
+      "summary": "Reviews pull requests risk-first",
+      "summary_zh": "按风险高低来审 pull request。",
+      "import": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+      "source": "https://x.com/mustafaergisi/status/2093393924870058039",
+      "related": "https://grokbot.dev/bots/pr-reviewer",
+      "category": "coding-shipping",
+      "tags": [
+        "pr",
+        "review"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "rutin",
+      "name": "Rutin",
+      "author": {
+        "name": "Naoufal",
+        "url": "https://x.com/naoufal_elh"
+      },
+      "summary": "A Monday tune-up for every routine across your fleet of bots",
+      "summary_zh": "每周一把舰队里每条例行任务都调一遍。",
+      "import": "https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7",
+      "source": "https://x.com/naoufal_elh/status/2093710581354135607",
+      "related": "https://grokbot.dev/bots/rutin",
+      "category": "coding-shipping",
+      "tags": [
+        "routines",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "skill-bot",
+      "name": "Skill Bot",
+      "author": {
+        "name": "Dave",
+        "url": "https://x.com/davespeers"
+      },
+      "summary": "A librarian for your bot's skills that dedupes and keeps them current",
+      "summary_zh": "Bot 技能的图书管理员，去重并跟上版本。",
+      "import": "https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2",
+      "source": "https://x.com/davespeers/status/2093703778872496292",
+      "related": "https://grokbot.dev/bots/skill-bot",
+      "category": "coding-shipping",
+      "tags": [
+        "skills",
+        "meta"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "1000x-product-engineer",
+      "name": "1000x Product Engineer",
+      "author": {
+        "name": "Thomas",
+        "url": "https://x.com/TomZarebczan"
+      },
+      "summary": "A full-stack product engineer that ships Convex, TanStack and React apps",
+      "summary_zh": "全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。",
+      "import": "https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu",
+      "source": "https://x.com/TomZarebczan/status/2093387240479051938",
+      "related": "https://grokbot.dev/bots/1000x-product-engineer",
+      "category": "coding-shipping",
+      "tags": [
+        "fullstack",
+        "shipping",
+        "react"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "bot-inbox",
+      "name": "Bot inbox",
+      "author": {
+        "name": "Wayne",
+        "url": "https://x.com/waynesutton"
+      },
+      "summary": "A one-line digest of every bot and group chat with something new",
+      "summary_zh": "一行消化所有有新动静的 Bot 和群聊。",
+      "import": "https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl",
+      "source": "https://x.com/waynesutton/status/2093835123498340611",
+      "related": "https://grokbot.dev/bots/bot-inbox",
+      "category": "inbox-calendar",
+      "tags": [
+        "digest",
+        "meta"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "chief",
+      "name": "Chief",
+      "author": {
+        "name": "SmoresBoy",
+        "url": "https://x.com/jxckvibe"
+      },
+      "summary": "Weekday-morning triage of your inbox, your calendar and your replies",
+      "summary_zh": "工作日早上分诊收件箱、日历和待回复。",
+      "import": "https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI",
+      "source": "https://x.com/jxckvibe/status/2093821098315882620",
+      "related": "https://grokbot.dev/bots/chief",
+      "category": "inbox-calendar",
+      "tags": [
+        "triage",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "dewey",
+      "name": "Dewey",
+      "author": {
+        "name": "William",
+        "url": "https://x.com/Vixlio"
+      },
+      "summary": "Keeps an eye on Gmail and surfaces the mail that actually needs you",
+      "summary_zh": "盯着 Gmail，只把真正需要你的邮件拎出来。",
+      "import": "https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5",
+      "source": "https://x.com/Vixlio/status/2093843651856081165",
+      "related": "https://grokbot.dev/bots/dewey",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "triage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "dispatch",
+      "name": "Dispatch",
+      "author": {
+        "name": "Filippo",
+        "url": "https://x.com/FilippoFonseca"
+      },
+      "summary": "Nightly scan of email, Slack, LinkedIn and X DMs that books the missing calls",
+      "summary_zh": "每晚扫邮件、Slack、LinkedIn 和 X 私信，把漏掉的通话补上。",
+      "import": "https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq",
+      "source": "https://x.com/FilippoFonseca/status/2093402774704914915",
+      "related": "https://grokbot.dev/bots/dispatch",
+      "category": "inbox-calendar",
+      "tags": [
+        "inbox",
+        "scheduling"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "google-agent",
+      "name": "Google Agent",
+      "author": {
+        "name": "Ryan",
+        "url": "https://x.com/ryanthawks"
+      },
+      "summary": "A read-first operator for Gmail, Drive and Calendar",
+      "summary_zh": "先读后动，管 Gmail、云盘和日历。",
+      "import": "https://x.ai/bot/tttQVA2UtlNwCzITNCIr0",
+      "source": "https://x.com/ryanthawks/status/2093431148860817626",
+      "related": "https://grokbot.dev/bots/google-agent",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "calendar",
+        "drive"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "inbot",
+      "name": "Inbot",
+      "author": {
+        "name": "Matthew",
+        "url": "https://x.com/matt_silberman"
+      },
+      "summary": "An inbox-zero bot across every inbox you actually use",
+      "summary_zh": "对着你真正在用的每个收件箱，把未读清到零。",
+      "import": "https://x.ai/bot/yH2UttxbMwMugweZrigHT",
+      "source": "https://x.com/matt_silberman/status/2093378871403933751",
+      "related": "https://grokbot.dev/bots/inbot",
+      "category": "inbox-calendar",
+      "tags": [
+        "inbox",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "inbox-zero",
+      "name": "Inbox Zero",
+      "author": {
+        "name": "LD",
+        "url": "https://x.com/zapnocode"
+      },
+      "summary": "Keeps Gmail at zero by filing the noise every weekday",
+      "summary_zh": "每个工作日把噪音归档，把 Gmail 压到零。",
+      "import": "https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98",
+      "source": "https://x.com/zapnocode/status/2093493728660865073",
+      "related": "https://grokbot.dev/bots/inbox-zero",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "inbox"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "jess-executive-assistant",
+      "name": "Jess",
+      "author": {
+        "name": "Logan",
+        "url": "https://x.com/LoganARobison"
+      },
+      "summary": "Recaps email, calendar, Notion and Slack before you open any of them",
+      "summary_zh": "你还没打开邮件、日历、Notion 或 Slack，它已经先复盘过了。",
+      "import": "https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN",
+      "source": "https://x.com/LoganARobison/status/2093380304891167113",
+      "related": "https://grokbot.dev/bots/jess-executive-assistant",
+      "category": "inbox-calendar",
+      "tags": [
+        "digest",
+        "assistant"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "loom",
+      "name": "loom",
+      "author": {
+        "name": "Lauren",
+        "url": "https://x.com/poteto"
+      },
+      "summary": "Reads across Gmail threads and drafts the reply, never sends it",
+      "summary_zh": "读完整条 Gmail 线程并起草回复，从不替你发出。",
+      "import": "https://x.ai/bot/cElGnAaR55iPHK2DGdPdu",
+      "source": "https://x.com/poteto/status/2093520466032136644",
+      "related": "https://grokbot.dev/bots/loom",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "newsletter-cleanup",
+      "name": "Newsletter Cleanup",
+      "author": {
+        "name": "Andrej",
+        "url": "https://x.com/scheemunai"
+      },
+      "summary": "Audits six months of newsletters and unsubscribes only from what you approve",
+      "summary_zh": "审计半年 newsletter，只退订你点头的那些。",
+      "import": "https://x.ai/bot/dHd69sBvMG2o3lJa__T7K",
+      "source": "https://x.com/scheemunai/status/2093398594745254196",
+      "related": "https://grokbot.dev/bots/newsletter-cleanup",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "unsubscribe"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "remind-bot",
+      "name": "Remind Bot",
+      "author": {
+        "name": "Damon",
+        "url": "https://x.com/damonchen"
+      },
+      "summary": "Holds the small reminders that never make it onto your calendar",
+      "summary_zh": "接住那些永远写不进日历的小提醒。",
+      "import": "https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW",
+      "source": "https://x.com/damonchen/status/2093559687354671335",
+      "related": "https://grokbot.dev/bots/remind-bot",
+      "category": "inbox-calendar",
+      "tags": [
+        "reminders"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "time-keeper",
+      "name": "Time Keeper",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/ironted21"
+      },
+      "summary": "Bookends your day with a morning agenda and a night preview",
+      "summary_zh": "用早间议程和夜间预览把一天夹住。",
+      "import": "https://x.ai/bot/IAEp851k9orM1LguTm2F8",
+      "source": "https://x.com/ironted21/status/2093771512331252046",
+      "related": "https://grokbot.dev/bots/time-keeper",
+      "category": "inbox-calendar",
+      "tags": [
+        "calendar",
+        "agenda"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "ai-resource-sift",
+      "name": "AI Resource Sift",
+      "author": {
+        "name": "Alen",
+        "url": "https://x.com/beamnxw"
+      },
+      "summary": "Sweeps papers, code, lectures and forums into one reading stack",
+      "summary_zh": "把论文、代码、讲座和论坛扫进一摞阅读清单。",
+      "import": "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL",
+      "source": "https://x.com/beamnxw/status/2093456831481885041",
+      "related": "https://grokbot.dev/bots/ai-resource-sift",
       "category": "research-briefings",
+      "tags": [
+        "papers",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "box-inspector",
+      "name": "Box Inspector",
+      "author": {
+        "name": "Knock",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Inspects a Grok bot's share link before you let it into your account",
+      "summary_zh": "在你把别人的 Grok Bot 加进账号前，先检查那条分享链接。",
+      "import": "https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J",
+      "source": "https://x.com/SuddenlyJon/status/2093499564988703231",
+      "related": "https://grokbot.dev/bots/box-inspector",
+      "category": "research-briefings",
+      "tags": [
+        "security",
+        "meta"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "competitor-watching",
+      "name": "Competitor Watching",
+      "author": {
+        "name": "Andrej",
+        "url": "https://x.com/scheemunai"
+      },
+      "summary": "Snapshots you against 3-8 competitors and alerts only on material change",
+      "summary_zh": "拿你跟三到八个对手做快照，只在真正有变时才叫你。",
+      "import": "https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N",
+      "source": "https://x.com/scheemunai/status/2093398377056678001",
+      "related": "https://grokbot.dev/bots/competitor-watching",
+      "category": "research-briefings",
+      "tags": [
+        "competitors",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "ethan",
+      "name": "Ethan",
+      "author": {
+        "name": "JUMPERZ",
+        "url": "https://x.com/jumperz"
+      },
+      "summary": "A research desk with five specialist skills that fact-checks its own findings",
+      "summary_zh": "带五项专长的研究台，还会核对自己的发现。",
+      "import": "https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE",
+      "source": "https://x.com/jumperz/status/2093407073815929223",
+      "related": "https://grokbot.dev/bots/ethan",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "fact-check"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "grok-bot-use-case-scout",
+      "name": "GrokBot Awesome Use Cases",
+      "author": {
+        "name": "Andrej",
+        "url": "https://x.com/scheemunai"
+      },
+      "summary": "A short morning list of new Grok Bot use cases worth setting up",
+      "summary_zh": "早上一小份值得动手搭的新 Grok Bot 用法。",
+      "import": "https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj",
+      "source": "https://x.com/scheemunai/status/2093397994263515578",
+      "related": "https://grokbot.dev/bots/grok-bot-use-case-scout",
+      "category": "research-briefings",
+      "tags": [
+        "use-cases",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "news-scout",
+      "name": "News Scout",
+      "author": {
+        "name": "Eleni",
+        "url": "https://x.com/byeleni"
+      },
+      "summary": "A weekday morning news digest in your own timezone",
+      "summary_zh": "按你的时区，工作日早上一份新闻摘要。",
+      "import": "https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P",
+      "source": "https://x.com/byeleni/status/2093388385763119459",
+      "related": "https://grokbot.dev/bots/news-scout",
+      "category": "research-briefings",
+      "tags": [
+        "news",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "runtimewire",
+      "name": "RuntimeWire - AI & Startup News",
+      "author": {
+        "name": "Ryan",
+        "url": "https://x.com/merket"
+      },
+      "summary": "A sourced daily read on AI funding, launches and founder moves",
+      "summary_zh": "每天一篇有出处的 AI 融资、上线和创始人动态。",
+      "import": "https://x.ai/bot/k4iwGejDGoy-oT7qohxXb",
+      "source": "https://x.com/merket/status/2093804393229410713",
+      "related": "https://grokbot.dev/bots/runtimewire",
+      "category": "research-briefings",
+      "tags": [
+        "ai-news",
+        "startups"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "thoth-researcher-archivist",
+      "name": "Thoth",
+      "author": {
+        "name": "Rich",
+        "url": "https://x.com/RichSilver"
+      },
+      "summary": "Does deep research and files the dossiers so you can find them again",
+      "summary_zh": "做深研究，把卷宗归档，下次还能找到。",
+      "import": "https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT",
+      "source": "https://x.com/RichSilver/status/2093409239246971049",
+      "related": "https://grokbot.dev/bots/thoth-researcher-archivist",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "archive"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "x-brief",
+      "name": "X Brief",
+      "author": {
+        "name": "Daniel",
+        "url": "https://x.com/daniel_mac8"
+      },
+      "summary": "Learns what you pay attention to from your own posts, then watches that beat",
+      "summary_zh": "从你自己的帖子学你关心什么，再盯那条线。",
+      "import": "https://x.ai/bot/GkX6X536UK2MlbkfGLQnb",
+      "source": "https://x.com/daniel_mac8/status/2093401980987425103",
+      "related": "https://grokbot.dev/bots/x-brief",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "youtube",
+      "name": "Youtube分析官",
+      "author": {
+        "name": "Mado",
+        "url": "https://x.com/madogiwacowork"
+      },
+      "summary": "Ranks the best YouTube videos on a topic and writes the brief",
+      "summary_zh": "按主题给 YouTube 视频排名，再写成简报。",
+      "import": "https://x.ai/bot/Ja29gpInav-alRhXhzyNL",
+      "source": "https://x.com/madogiwacowork/status/2093685473411805533",
+      "related": "https://grokbot.dev/bots/youtube",
+      "category": "research-briefings",
+      "tags": [
+        "youtube",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "adm-account-bot",
+      "name": "ADM account bot",
+      "author": {
+        "name": "Scott",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "A weekly account plan for keeping and growing customers",
+      "summary_zh": "每周一份客户经营计划，用来保住并做大客户。",
+      "import": "https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN",
+      "source": "https://x.com/scottxmetcalf/status/2093727476405170365",
+      "related": "https://grokbot.dev/bots/adm-account-bot",
+      "category": "customer-sales",
+      "tags": [
+        "accounts",
+        "retention"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "echo",
+      "name": "Echo",
+      "author": {
+        "name": "Krista",
+        "url": "https://x.com/kristaletz"
+      },
+      "summary": "Builds the deck after a customer call, from what was actually said",
+      "summary_zh": "客户通话结束后，按实际说过的话做演示文稿。",
+      "import": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
+      "source": "https://x.com/kristaletz/status/2093494509682217308",
+      "related": "https://grokbot.dev/bots/echo",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "decks"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "gtm-chief-of-staff",
+      "name": "GTM Chief Of Staff",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Carries the admin around enterprise deals so you can sell",
+      "summary_zh": "扛下企业单周边行政，让你专心卖。",
+      "import": "https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b",
+      "source": "https://x.com/thekuchh/status/2093742276564459867",
+      "related": "https://grokbot.dev/bots/gtm-chief-of-staff",
+      "category": "customer-sales",
+      "tags": [
+        "gtm",
+        "deals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "john-wick",
+      "name": "John Wick",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Maps a target company and works upward until it reaches the decision maker",
+      "summary_zh": "摸清目标公司，一路往上找到能拍板的人。",
+      "import": "https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7",
+      "source": "https://x.com/liam_fallen/status/2093383148906184985",
+      "related": "https://grokbot.dev/bots/john-wick",
+      "category": "customer-sales",
+      "tags": [
+        "prospecting",
+        "accounts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "linkedin-desk",
+      "name": "LinkedIn Desk",
+      "author": {
+        "name": "AJ",
+        "url": "https://x.com/SEO"
+      },
+      "summary": "Vets LinkedIn invitations daily against a policy you set",
+      "summary_zh": "每天按你定的规则审核 LinkedIn 邀请。",
+      "import": "https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi",
+      "source": "https://x.com/SEO/status/2093418792546181548",
+      "related": "https://grokbot.dev/bots/linkedin-desk",
+      "category": "customer-sales",
+      "tags": [
+        "linkedin",
+        "invites"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "linkedin-leads",
+      "name": "Linkedin Leads",
+      "author": {
+        "name": "Angel",
+        "url": "https://x.com/angelesp"
+      },
+      "summary": "Daily LinkedIn lead sweep across posts and comments from your keywords",
+      "summary_zh": "每天按你的关键词扫 LinkedIn 帖子和评论找线索。",
+      "import": "https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W",
+      "source": "https://x.com/angelesp/status/2093826046231511549",
+      "related": "https://grokbot.dev/bots/linkedin-leads",
+      "category": "customer-sales",
+      "tags": [
+        "linkedin",
+        "leads"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "pg-prospecting",
+      "name": "PG",
+      "author": {
+        "name": "Krista",
+        "url": "https://x.com/kristaletz"
+      },
+      "summary": "Researches accounts and mines podcasts for a real outreach hook",
+      "summary_zh": "研究目标客户，从播客里挖真正能开口的钩子。",
+      "import": "https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW",
+      "source": "https://x.com/kristaletz/status/2093378627932918087",
+      "related": "https://grokbot.dev/bots/pg-prospecting",
+      "category": "customer-sales",
+      "tags": [
+        "prospecting",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "post-call-assistant",
+      "name": "Post Call Assistant",
+      "author": {
+        "name": "Priya",
+        "url": "https://x.com/itspriyaptl"
+      },
+      "summary": "Drops your to-dos and a draft follow-up after every meeting",
+      "summary_zh": "每次会后放下待办和一封跟进草稿。",
+      "import": "https://x.ai/bot/xF12c5y4LVe7nf7IFguWI",
+      "source": "https://x.com/itspriyaptl/status/2093389586864988661",
+      "related": "https://grokbot.dev/bots/post-call-assistant",
+      "category": "customer-sales",
+      "tags": [
+        "meetings",
+        "follow-up"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "saasbot",
+      "name": "SaaSbot",
+      "author": {
+        "name": "Daniel",
+        "url": "https://x.com/danielfoch"
+      },
+      "summary": "A weekday operator that runs GTM, outbound, QA and onboarding",
+      "summary_zh": "工作日操盘手，获客、外呼、质检和入职一起跑。",
+      "import": "https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM",
+      "source": "https://x.com/danielfoch/status/2093697807542526325",
+      "related": "https://grokbot.dev/bots/saasbot",
+      "category": "customer-sales",
+      "tags": [
+        "gtm",
+        "outbound"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "website-agency-lead-scout",
+      "name": "Website agency lead scout",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Delivers five vetted businesses that need a new website each morning",
+      "summary_zh": "每天早上交出五家需要新网站、已经筛过的商家。",
+      "import": "https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ",
+      "source": "https://x.com/joshkim/status/2093586339086352806",
+      "related": "https://grokbot.dev/bots/website-agency-lead-scout",
+      "category": "customer-sales",
+      "tags": [
+        "leads",
+        "agencies"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "ai-usage-meter",
+      "name": "AIUsageBot",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/BrianDEvans"
+      },
+      "summary": "Tracks how much of each AI subscription you have actually used",
+      "summary_zh": "跟踪每份 AI 订阅你真正用了多少。",
+      "import": "https://x.ai/bot/2atUDeldi9vF1R_ySRgCo",
+      "source": "https://x.com/BrianDEvans/status/2093386518375346484",
+      "related": "https://grokbot.dev/bots/ai-usage-meter",
+      "category": "finance-ops",
+      "tags": [
+        "usage",
+        "subscriptions"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "bounty-hunter",
+      "name": "Bounty Hunter",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Digs through your email and bills for refunds and credits you never chased",
+      "summary_zh": "翻邮件和账单，找你从没追过的退款和额度。",
+      "import": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
+      "source": "https://x.com/liam_fallen/status/2093383127162925558",
+      "related": "https://grokbot.dev/bots/bounty-hunter",
+      "category": "finance-ops",
+      "tags": [
+        "refunds",
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "freelance-manager",
+      "name": "Freelance manager",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Chases proposals, invoices and milestones for a solo freelancer",
+      "summary_zh": "替独立接案人追提案、发票和里程碑。",
+      "import": "https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg",
+      "source": "https://x.com/joshkim/status/2093580839833809285",
+      "related": "https://grokbot.dev/bots/freelance-manager",
+      "category": "finance-ops",
+      "tags": [
+        "freelance",
+        "invoices"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "invoice-hunter",
+      "name": "Invoice Hunter",
+      "author": {
+        "name": "Andrej",
+        "url": "https://x.com/scheemunai"
+      },
+      "summary": "Finds invoice PDFs in Gmail and packs a month into a CSV",
+      "summary_zh": "从 Gmail 里找出发票 PDF，把一个月打成一份表格。",
+      "import": "https://x.ai/bot/-kO6HrXokJZANVwUOMZO9",
+      "source": "https://x.com/scheemunai/status/2093398873247031468",
+      "related": "https://grokbot.dev/bots/invoice-hunter",
+      "category": "finance-ops",
+      "tags": [
+        "invoices",
+        "gmail"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "porshe",
+      "name": "porshe",
+      "author": {
+        "name": "Lauren",
+        "url": "https://x.com/poteto"
+      },
+      "summary": "Finds money you are already owed but have not collected",
+      "summary_zh": "找出你已经该收、却还没去要的钱。",
+      "import": "https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6",
+      "source": "https://x.com/poteto/status/2093518231235686589",
+      "related": "https://grokbot.dev/bots/porshe",
+      "category": "finance-ops",
+      "tags": [
+        "collections",
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "reaper",
+      "name": "Reaper",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Finds the subscriptions, meetings and processes that should be killed",
+      "summary_zh": "找出该砍掉的订阅、会议和流程。",
+      "import": "https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73",
+      "source": "https://x.com/liam_fallen/status/2093383144334348374",
+      "related": "https://grokbot.dev/bots/reaper",
+      "category": "finance-ops",
+      "tags": [
+        "cuts",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "returns-warranties",
+      "name": "Returns & Warranties",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Warns you before a return, refund or warranty window closes",
+      "summary_zh": "在退货、退款或保修窗口关掉前提醒你。",
+      "import": "https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt",
+      "source": "https://x.com/liam_fallen/status/2093635776659554701",
+      "related": "https://grokbot.dev/bots/returns-warranties",
+      "category": "finance-ops",
+      "tags": [
+        "returns",
+        "warranties"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "watchdog",
+      "name": "Watchdog",
+      "author": {
+        "name": "SmoresBoy",
+        "url": "https://x.com/jxckvibe"
+      },
+      "summary": "Sweeps your inbox weekly for renewals, receipts and expiring trials",
+      "summary_zh": "每周扫收件箱，盯续订、收据和快到期的试用。",
+      "import": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+      "source": "https://x.com/jxckvibe/status/2093828719374705066",
+      "related": "https://grokbot.dev/bots/watchdog",
+      "category": "finance-ops",
+      "tags": [
+        "renewals",
+        "inbox"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "adaptlypost",
+      "name": "AdaptlyPost",
+      "author": {
+        "name": "Taras",
+        "url": "https://x.com/tarasshyn"
+      },
+      "summary": "One bot that writes, queues and posts to nine social networks",
+      "summary_zh": "一个 Bot 写稿、排队，发到九个社交网络。",
+      "import": "https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR",
+      "source": "https://x.com/tarasshyn/status/2093726077906493508",
+      "related": "https://grokbot.dev/bots/adaptlypost",
+      "category": "content-publishing",
+      "tags": [
+        "social",
+        "scheduling"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "ads-operator",
+      "name": "Ads Operator",
+      "author": {
+        "name": "Tyler",
+        "url": "https://x.com/wells1226"
+      },
+      "summary": "Builds ready-to-run search and social ad plans for local trades",
+      "summary_zh": "给本地工匠做出能直接投放的搜索和社交广告计划。",
+      "import": "https://x.ai/bot/zj8VKu1CnqkHCM4Na1zex",
+      "source": "https://x.com/wells1226/status/2093640876857999710",
+      "related": "https://grokbot.dev/bots/ads-operator",
+      "category": "content-publishing",
+      "tags": [
+        "ads",
+        "local"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "best-video-editor",
+      "name": "Best Video Editor",
+      "author": {
+        "name": "XFreeze",
+        "url": "https://x.com/XFreeze"
+      },
+      "summary": "Plans the whole edit from your footage and returns a review-ready cut",
+      "summary_zh": "按你的素材规划整段剪辑，交出可审的成片。",
+      "import": "https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI",
+      "source": "https://x.com/XFreeze/status/2093442263200235974",
+      "related": "https://grokbot.dev/bots/best-video-editor",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "editing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "clip-bot",
+      "name": "Clip Bot",
+      "author": {
+        "name": "Lon",
+        "url": "https://x.com/ThisWeeknAI"
+      },
+      "summary": "Cuts captioned 16:9 highlights from any YouTube podcast",
+      "summary_zh": "从任意 YouTube 播客切出带字幕的横版高光。",
+      "import": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+      "source": "https://x.com/ThisWeeknAI/status/2093465404303720846",
+      "related": "https://grokbot.dev/bots/clip-bot",
+      "category": "content-publishing",
+      "tags": [
+        "clips",
+        "podcasts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "clipper",
+      "name": "Clipper",
+      "author": {
+        "name": "thesoragirls",
+        "url": "https://x.com/thesoragirls"
+      },
+      "summary": "Turns videos into short clips and captioned GIFs, picking the joke itself",
+      "summary_zh": "把视频切成短片和带字幕的动图，笑点它自己挑。",
+      "import": "https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V",
+      "source": "https://x.com/thesoragirls/status/2093420118487310516",
+      "related": "https://grokbot.dev/bots/clipper",
+      "category": "content-publishing",
+      "tags": [
+        "clips",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "content-growth-coach",
+      "name": "Content Growth Coach",
+      "author": {
+        "name": "SmoresBoy",
+        "url": "https://x.com/jxckvibe"
+      },
+      "summary": "Tells creators which fix will move their numbers first",
+      "summary_zh": "告诉创作者先改哪一处，数字才会动。",
+      "import": "https://x.ai/bot/sMmoqCElqRPj1RYbtngMr",
+      "source": "https://x.com/jxckvibe/status/2093771166598975669",
+      "related": "https://grokbot.dev/bots/content-growth-coach",
+      "category": "content-publishing",
+      "tags": [
+        "growth",
+        "creators"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "human-copywriter",
+      "name": "Human Copywriter",
+      "author": {
+        "name": "Massimo",
+        "url": "https://x.com/massimodeluisa"
+      },
+      "summary": "Rewrites AI-sounding drafts into copy that reads like a person",
+      "summary_zh": "把带着 AI 腔的草稿改成读起来像人写的。",
+      "import": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+      "source": "https://x.com/massimodeluisa/status/2093446449446986145",
+      "related": "https://grokbot.dev/bots/human-copywriter",
+      "category": "content-publishing",
+      "tags": [
+        "copy",
+        "editing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "index-seo-aeo-teammate",
+      "name": "Index",
+      "author": {
+        "name": "Adam",
+        "url": "https://x.com/adamta"
+      },
+      "summary": "An SEO and AEO teammate that writes briefs for your writers",
+      "summary_zh": "搜索和回答引擎优化队友，专门给写手出提纲。",
+      "import": "https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7",
+      "source": "https://x.com/adamta/status/2093387269356785800",
+      "related": "https://grokbot.dev/bots/index-seo-aeo-teammate",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "aeo"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "redreplier",
+      "name": "RedReplier",
+      "author": {
+        "name": "Taras",
+        "url": "https://x.com/tarasshyn"
+      },
+      "summary": "Finds people talking about your product, ranked by buying intent",
+      "summary_zh": "找出正在聊你产品的人，按购买意向排序。",
+      "import": "https://x.ai/bot/8aU6ly_uunnMabpybs3hB",
+      "source": "https://x.com/tarasshyn/status/2093730218145976437",
+      "related": "https://grokbot.dev/bots/redreplier",
+      "category": "content-publishing",
+      "tags": [
+        "social",
+        "intent"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "shorty",
+      "name": "Shorty",
+      "author": {
+        "name": "Farzad",
+        "url": "https://x.com/farzyness"
+      },
+      "summary": "Cuts YouTube Shorts from the long-form videos that already worked",
+      "summary_zh": "从已经跑通的长视频里切 YouTube Shorts。",
+      "import": "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX",
+      "source": "https://x.com/farzyness/status/2093485851606929592",
+      "related": "https://grokbot.dev/bots/shorty",
+      "category": "content-publishing",
+      "tags": [
+        "shorts",
+        "youtube"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "cold-open",
+      "name": "Sitcom banger",
+      "author": {
+        "name": "altryne",
+        "url": "https://x.com/altryne"
+      },
+      "summary": "Turns an idea into a short sitcom-style clip, script first",
+      "summary_zh": "先写剧本，再把点子做成情景喜剧式短片。",
+      "import": "https://x.ai/bot/h4suD8jA37Wsb7tS4giUO",
+      "source": "https://x.com/altryne/status/2093459037484622297",
+      "related": "https://grokbot.dev/bots/cold-open",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "script"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "site-audit",
+      "name": "Site Audit",
+      "author": {
+        "name": "Andrej",
+        "url": "https://x.com/scheemunai"
+      },
+      "summary": "One-pass site audit across SEO, speed, accessibility, CRO and schema",
+      "summary_zh": "一轮审完搜索、速度、无障碍、转化和结构化数据。",
+      "import": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+      "source": "https://x.com/scheemunai/status/2093397637487596019",
+      "related": "https://grokbot.dev/bots/site-audit",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "socials-short-form-scout",
+      "name": "socials",
+      "author": {
+        "name": "ashen",
+        "url": "https://x.com/ashen_one"
+      },
+      "summary": "Hourly scout that hands you filmable short-form content kits",
+      "summary_zh": "每小时侦察一次，递上能直接拍的短视频套件。",
+      "import": "https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE",
+      "source": "https://x.com/ashen_one/status/2093416120371835232",
+      "related": "https://grokbot.dev/bots/socials-short-form-scout",
+      "category": "content-publishing",
+      "tags": [
+        "short-form",
+        "scout"
+      ],
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
@@ -76,31 +1459,226 @@
       "name": "Webby",
       "author": {
         "name": "Farzad",
-        "url": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33"
+        "url": "https://x.com/farzyness"
       },
-      "summary": "Website admin plus newsletter and a public weekday dashboard. Create-only on first run; no deletes.",
-      "job": "Own a personal site, exclusive long-form, a newsletter, and a public weekday dashboard. Rebuild with a live fallback. Do not delete live pages.",
-      "what_it_does": "Runs website admin, newsletter, and a public weekday dashboard. Create and rebuild, not delete.",
-      "does_not": [
-        "delete live pages or archives",
-        "publish without an explicit yes",
-        "paste host or DNS credentials into SETUP"
-      ],
-      "connectors": [],
-      "connectors_optional": [
-        "GitHub"
-      ],
-      "mcp_custom": false,
+      "summary": "A website admin that rebuilds, dashboards and keeps the newsletter going",
+      "summary_zh": "管网站重建和看板，newsletter 也一直转着。",
       "import": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
-      "demo": "",
-      "first_safe_task": "Describe the sites and newsletter you own after import. Do not publish, delete, or change live pages.",
-      "approval_boundary": "Never publish, delete, or change DNS without an explicit yes in chat.",
+      "source": "https://x.com/farzyness/status/2093485215150744014",
+      "related": "https://grokbot.dev/bots/webby",
+      "category": "content-publishing",
       "tags": [
         "website",
-        "newsletter",
-        "unverified"
+        "newsletter"
       ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "x-strategist",
+      "name": "X Strategist",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Plays the long game on who is worth knowing on X",
+      "summary_zh": "在 X 上玩长线，搞清楚谁值得认识。",
+      "import": "https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH",
+      "source": "https://x.com/thekuchh/status/2093742276564459867",
+      "related": "https://grokbot.dev/bots/x-strategist",
       "category": "content-publishing",
+      "tags": [
+        "x",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "x-top-100-fans-weekly",
+      "name": "X Top 100 Fans Weekly",
+      "author": {
+        "name": "Adam",
+        "url": "https://x.com/AdamLowisz"
+      },
+      "summary": "Ranks the 100 people who engaged most with your X posts each week",
+      "summary_zh": "每周排出和你帖子互动最多的一百人。",
+      "import": "https://x.ai/bot/HU7XArfGhUgLnzVcr7neB",
+      "source": "https://x.com/AdamLowisz/status/2093386801692201110",
+      "related": "https://grokbot.dev/bots/x-top-100-fans-weekly",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "fans"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "appointment-finder",
+      "name": "Appointment Finder",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Finds the best appointment slot so you never phone around again",
+      "summary_zh": "帮你找到最好的预约空档，不用再挨个打电话。",
+      "import": "https://x.ai/bot/75K-dB4m30goo_PamA9nM",
+      "source": "https://x.com/liam_fallen/status/2093635774079971693",
+      "related": "https://grokbot.dev/bots/appointment-finder",
+      "category": "personal-admin",
+      "tags": [
+        "appointments"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "be-happier",
+      "name": "Be Happier",
+      "author": {
+        "name": "Lenny",
+        "url": "https://x.com/lennysan"
+      },
+      "summary": "Suggests three concrete things each week that would make you happier",
+      "summary_zh": "每周点出三件具体的、能让你更开心的事。",
+      "import": "https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG",
+      "source": "https://x.com/lennysan/status/2093428147194847238",
+      "related": "https://grokbot.dev/bots/be-happier",
+      "category": "personal-admin",
+      "tags": [
+        "wellbeing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "canvas",
+      "name": "Canvas",
+      "author": {
+        "name": "Dakkshin",
+        "url": "https://x.com/daxperera"
+      },
+      "summary": "Pulls your university units and deadlines out of Canvas",
+      "summary_zh": "从 Canvas 里把大学课程和截止日期拉出来。",
+      "import": "https://x.ai/bot/YihRBqrXaDwRdjN79Uofl",
+      "source": "https://x.com/daxperera/status/2093488563388330458",
+      "related": "https://grokbot.dev/bots/canvas",
+      "category": "personal-admin",
+      "tags": [
+        "school",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "chef",
+      "name": "Chef",
+      "author": {
+        "name": "dogenorway",
+        "url": "https://x.com/DogecoinNorway"
+      },
+      "summary": "Plans the week's meals, builds the list and orders the groceries",
+      "summary_zh": "排好一周的饭，列采购清单，再把菜下单买齐。",
+      "import": "https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J",
+      "source": "https://x.com/DogecoinNorway/status/2093396816087990331",
+      "related": "https://grokbot.dev/bots/chef",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "groceries"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "chicken-joe-surf-report",
+      "name": "Chicken Joe",
+      "author": {
+        "name": "Parker",
+        "url": "https://x.com/parker__conrad"
+      },
+      "summary": "Scans NorCal surf reports and cams each morning and tells you where to go",
+      "summary_zh": "每天早上看北加州浪报和摄像头，告诉你该去哪家浪点。",
+      "import": "https://x.ai/bot/7f5AjmpjZkmTIsSybedYS",
+      "source": "https://x.com/parker__conrad/status/2093408518816899425",
+      "related": "https://grokbot.dev/bots/chicken-joe-surf-report",
+      "category": "personal-admin",
+      "tags": [
+        "surf",
+        "weather"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "deal-hunting",
+      "name": "Deal Hunting",
+      "author": {
+        "name": "Andrej",
+        "url": "https://x.com/scheemunai"
+      },
+      "summary": "Landed-cost shopping that compares real prices including shipping and tax",
+      "summary_zh": "按落地成本比价，把运费和税算进去。",
+      "import": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
+      "source": "https://x.com/scheemunai/status/2093399328836440571",
+      "related": "https://grokbot.dev/bots/deal-hunting",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "prices"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "eg4-monitor",
+      "name": "EG4 Monitor",
+      "author": {
+        "name": "Terry",
+        "url": "https://x.com/look4terry"
+      },
+      "summary": "Tracks a home EG4 solar and battery system and raises faults early",
+      "summary_zh": "盯家里的 EG4 光伏和电池，故障早点报。",
+      "import": "https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz",
+      "source": "https://x.com/look4terry/status/2093839716370309156",
+      "related": "https://grokbot.dev/bots/eg4-monitor",
+      "category": "personal-admin",
+      "tags": [
+        "solar",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "gym-bod",
+      "name": "Gym Bod",
+      "author": {
+        "name": "peter",
+        "url": "https://x.com/DrPB"
+      },
+      "summary": "Claims your spot in busy gym classes as registration opens",
+      "summary_zh": "热门团课一开抢就帮你占到位子。",
+      "import": "https://x.ai/bot/3mtiwFoZcEMq59w-49DMS",
+      "source": "https://x.com/DrPB/status/2093815967360991485",
+      "related": "https://grokbot.dev/bots/gym-bod",
+      "category": "personal-admin",
+      "tags": [
+        "gym",
+        "booking"
+      ],
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
@@ -110,100 +1688,249 @@
       "name": "Home robots",
       "author": {
         "name": "Sawyer",
-        "url": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u"
+        "url": "https://x.com/SawyerMerritt"
       },
-      "summary": "Chat control for official home robots (mowers, vacuums, Matter). List first; do not start or dock.",
-      "job": "Control official home robots from chat after each vendor is connected once. List status first. Do not start, pause, or dock until asked.",
-      "what_it_does": "Talks to official mowers, vacuums, and Matter robots from chat once each vendor is connected.",
-      "does_not": [
-        "start, pause, or dock a robot on first run",
-        "connect unofficial or untrusted robot APIs",
-        "store vendor passwords in SETUP"
-      ],
-      "connectors": [],
-      "connectors_optional": [],
-      "mcp_custom": true,
+      "summary": "Control your mower, vacuum and other Matter home robots from one chat",
+      "summary_zh": "在一个聊天窗口里控制割草机、扫地机和其他 Matter 家用机器人。",
       "import": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
-      "demo": "",
-      "first_safe_task": "List connected robots and their current status. Do not start, pause, dock, or change any robot.",
-      "approval_boundary": "Never start, pause, dock, or change a robot without an explicit yes in chat.",
+      "source": "https://x.com/SawyerMerritt/status/2093384986162352495",
+      "related": "https://grokbot.dev/bots/home-robots",
+      "category": "personal-admin",
       "tags": [
         "home",
         "robots",
-        "matter",
-        "unverified"
+        "matter"
       ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "homework-checker",
+      "name": "Homework Checker",
+      "author": {
+        "name": "Kevin",
+        "url": "https://x.com/kevinace"
+      },
+      "summary": "Weekday recap of a student's missing assignments and grades",
+      "summary_zh": "工作日汇总学生缺交作业和成绩。",
+      "import": "https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91",
+      "source": "https://x.com/kevinace/status/2093425364353667118",
+      "related": "https://grokbot.dev/bots/homework-checker",
       "category": "personal-admin",
+      "tags": [
+        "school",
+        "family"
+      ],
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
     },
     {
-      "slug": "work",
-      "name": "Work",
+      "slug": "housebot",
+      "name": "HouseBot",
       "author": {
-        "name": "Tyler",
-        "url": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0"
+        "name": "Shub",
+        "url": "https://x.com/shubgaur"
       },
-      "summary": "Work door for a cloned empty work inbox. Pair with Life. Reconnect tools yourself.",
-      "job": "Be the work door: a standing work inbox that starts empty on clone. After the owner connects tools, own work messages and work rooms. Point life matters at Life.",
-      "what_it_does": "Empty work-door clone. Becomes a standing work inbox after the owner reconnects tools. Pair with Life.",
-      "does_not": [
-        "assume the previous owner's work or logins",
-        "send mail or create events on first run",
-        "handle life tasks that belong to Life"
-      ],
-      "connectors": [],
-      "connectors_optional": [
-        "Gmail",
-        "Google Calendar",
-        "Slack"
-      ],
-      "mcp_custom": false,
-      "import": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
-      "demo": "",
-      "first_safe_task": "List the connectors you currently see. Do not send mail, create events, or message anyone.",
-      "approval_boundary": "Never send, create events, or message people without an explicit yes in chat.",
+      "summary": "Hunts rentals and homes every 12 hours across six listing sites",
+      "summary_zh": "每十二小时扫六个房源站，找租房和买房。",
+      "import": "https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL",
+      "source": "https://x.com/shubgaur/status/2093389744650818036",
+      "related": "https://grokbot.dev/bots/housebot",
+      "category": "personal-admin",
       "tags": [
-        "two-door",
-        "work",
-        "unverified"
+        "housing",
+        "search"
       ],
-      "category": "teams-handoffs",
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
     },
     {
-      "slug": "life",
-      "name": "Life",
+      "slug": "job-interview-hunter",
+      "name": "Job interview hunter",
       "author": {
-        "name": "Tyler",
-        "url": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK"
+        "name": "Josh",
+        "url": "https://x.com/joshkim"
       },
-      "summary": "Life door: standing life inbox and room opener. Pair with Work. Starts empty.",
-      "job": "Be the life door: a standing life inbox that can open life rooms. Starts empty on clone. Point work matters at Work.",
-      "what_it_does": "Empty life-door clone. Standing life inbox and room opener. Pair with Work.",
-      "does_not": [
-        "assume the previous owner's life context",
-        "spawn sibling bots on first run",
-        "handle work tasks that belong to Work"
-      ],
-      "connectors": [],
-      "connectors_optional": [
-        "Google Calendar"
-      ],
-      "mcp_custom": false,
-      "import": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
-      "demo": "",
-      "first_safe_task": "List the rooms or sibling bots you would open. Do not spawn anyone or send messages.",
-      "approval_boundary": "Never spawn bots, send messages, or create events without an explicit yes in chat.",
+      "summary": "Drafts tailored applications and referral notes on a weekday cadence",
+      "summary_zh": "按工作日节奏起草针对性申请和内推说明。",
+      "import": "https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u",
+      "source": "https://x.com/joshkim/status/2093585412384244060",
+      "related": "https://grokbot.dev/bots/job-interview-hunter",
+      "category": "personal-admin",
       "tags": [
-        "two-door",
-        "life",
-        "unverified"
+        "jobs",
+        "applications"
       ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "local-deals",
+      "name": "Local Deals",
+      "author": {
+        "name": "Brandon",
+        "url": "https://x.com/brandon_galang"
+      },
+      "summary": "Daily local marketplace deals that it will negotiate for you",
+      "summary_zh": "每天捞本地市集上的便宜货，还能替你还价。",
+      "import": "https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo",
+      "source": "https://x.com/brandon_galang/status/2093402021789593873",
+      "related": "https://grokbot.dev/bots/local-deals",
+      "category": "personal-admin",
+      "tags": [
+        "deals",
+        "local"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "melissa-fitness-nutrition-coach",
+      "name": "Melissa",
+      "author": {
+        "name": "Tobias",
+        "url": "https://x.com/tpgoebel"
+      },
+      "summary": "A fitness and nutrition coach built around Type 1 diabetes constraints",
+      "summary_zh": "按 1 型糖尿病的约束来带健身和饮食。",
+      "import": "https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE",
+      "source": "https://x.com/tpgoebel/status/2093409295291310106",
+      "related": "https://grokbot.dev/bots/melissa-fitness-nutrition-coach",
+      "category": "personal-admin",
+      "tags": [
+        "fitness",
+        "nutrition"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "paperwork",
+      "name": "Paperwork",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Works out what a boring document is and what you have to do about it",
+      "summary_zh": "看明白一份无聊文件到底是什么，以及你得拿它怎么办。",
+      "import": "https://x.ai/bot/mNN576TxXnc_XZu9aCsfr",
+      "source": "https://x.com/liam_fallen/status/2093635779176051134",
+      "related": "https://grokbot.dev/bots/paperwork",
+      "category": "personal-admin",
+      "tags": [
+        "documents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "shop",
+      "name": "Shop",
+      "author": {
+        "name": "Alex",
+        "url": "https://x.com/alex_chehimi"
+      },
+      "summary": "Searches Shopify stores and hands back a short list, approval required",
+      "summary_zh": "搜 Shopify 店，交一份短名单，买不买要你点头。",
+      "import": "https://x.ai/bot/nlIApzau1qw0MNiRkqbPH",
+      "source": "https://x.com/alex_chehimi/status/2093803794572197995",
+      "related": "https://grokbot.dev/bots/shop",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "shopify"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "ai-orchestrator-jp",
+      "name": "AIオーケストレーション担当",
+      "author": {
+        "name": "めい",
+        "url": "https://x.com/mei_999_"
+      },
+      "summary": "A Japanese-language commander that distributes work to specialists",
+      "summary_zh": "日文指挥官，把活分给各个专长 Bot。",
+      "import": "https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk",
+      "source": "https://x.com/mei_999_/status/2093423565676954067",
+      "related": "https://grokbot.dev/bots/ai-orchestrator-jp",
       "category": "teams-handoffs",
+      "tags": [
+        "orchestrator",
+        "japanese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "alfred-bot-chief-advisor",
+      "name": "Alfred",
+      "author": {
+        "name": "Robin",
+        "url": "https://x.com/heyrobinai"
+      },
+      "summary": "Designs and keeps restructuring your whole roster of bots",
+      "summary_zh": "设计并持续改组你整支 Bot 编制。",
+      "import": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
+      "source": "https://x.com/heyrobinai/status/2093393717545648305",
+      "related": "https://grokbot.dev/bots/alfred-bot-chief-advisor",
+      "category": "teams-handoffs",
+      "tags": [
+        "roster",
+        "advisor"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "bond",
+      "name": "bond",
+      "author": {
+        "name": "Lauren",
+        "url": "https://x.com/poteto"
+      },
+      "summary": "Takes one confidential job, does it, and logs what it did",
+      "summary_zh": "接一件机密的活，干完，再记下自己做了什么。",
+      "import": "https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv",
+      "source": "https://x.com/poteto/status/2093521385541005369",
+      "related": "https://grokbot.dev/bots/bond",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "confidential"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "clark-kent-daily-diary",
+      "name": "Clark Kent",
+      "author": {
+        "name": "Rich",
+        "url": "https://x.com/RichSilver"
+      },
+      "summary": "Writes up what actually happened in your shop each day",
+      "summary_zh": "每天写下店里真正发生了什么。",
+      "import": "https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes",
+      "source": "https://x.com/RichSilver/status/2093409237451903032",
+      "related": "https://grokbot.dev/bots/clark-kent-daily-diary",
+      "category": "teams-handoffs",
+      "tags": [
+        "diary",
+        "ops"
+      ],
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
@@ -213,31 +1940,164 @@
       "name": "Fixer",
       "author": {
         "name": "Uzi",
-        "url": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho"
+        "url": "https://x.com/UziObi"
       },
-      "summary": "Chief of staff's operator. Thinks, pushes back, then does the work. No unsolicited messages.",
-      "job": "Be the operator next to a chief of staff. Think, push back on a weak plan, then do the work in parallel. Do not skip approval on external actions.",
-      "what_it_does": "Chief of staff's right hand. Pushes back, then executes. Meant to run next to an orchestrator, not alone.",
-      "does_not": [
-        "send unsolicited messages",
-        "skip the chief of staff on a multi-bot job",
-        "enable hourly routines by default"
-      ],
-      "connectors": [],
-      "connectors_optional": [
-        "Slack"
-      ],
-      "mcp_custom": false,
+      "summary": "The operator that actually does the work, and pushes back when a plan is wrong",
+      "summary_zh": "真正动手的执行手，计划不对会顶回去。",
       "import": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho",
-      "demo": "",
-      "first_safe_task": "Restate your job and approval boundary in five bullets. Do not message people, spawn bots, or start routines.",
-      "approval_boundary": "Never send, pay, delete, or file anything without an explicit yes in chat.",
+      "source": "https://x.com/UziObi/status/2093401597048975758",
+      "related": "https://grokbot.dev/bots/fixer-uzi",
+      "category": "teams-handoffs",
       "tags": [
         "operator",
-        "chief-of-staff",
-        "unverified"
+        "chief-of-staff"
       ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "grant-general-manager",
+      "name": "Grant General Manager",
+      "author": {
+        "name": "Jon",
+        "url": "https://x.com/HouseHackerJon"
+      },
+      "summary": "A general manager for a trades company that stands up the back office",
+      "summary_zh": "工匠公司的总经理，把后台从零搭起来。",
+      "import": "https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_",
+      "source": "https://x.com/HouseHackerJon/status/2093435306255220830",
+      "related": "https://grokbot.dev/bots/grant-general-manager",
       "category": "teams-handoffs",
+      "tags": [
+        "trades",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "life",
+      "name": "Life",
+      "author": {
+        "name": "Tyler",
+        "url": "https://x.com/TylerNishida"
+      },
+      "summary": "A standing inbox for everything personal that spawns the bots you need",
+      "summary_zh": "私人事务的常驻收件箱，需要时再拉出对应 Bot。",
+      "import": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
+      "source": "https://x.com/TylerNishida/status/2093426221732532457",
+      "related": "https://grokbot.dev/bots/life-life-door",
+      "category": "teams-handoffs",
+      "tags": [
+        "two-door",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "master-orchestrator",
+      "name": "Master",
+      "author": {
+        "name": "Farzad",
+        "url": "https://x.com/farzyness"
+      },
+      "summary": "A lean orchestrator that routes every task to the right specialist and never works",
+      "summary_zh": "精简调度员，把每件事派给对的专长，自己从不动手。",
+      "import": "https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx",
+      "source": "https://x.com/farzyness/status/2093384064363377099",
+      "related": "https://grokbot.dev/bots/master-orchestrator",
+      "category": "teams-handoffs",
+      "tags": [
+        "orchestrator"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "product-ops",
+      "name": "Product Ops",
+      "author": {
+        "name": "Ashish",
+        "url": "https://x.com/inqusit"
+      },
+      "summary": "Turns a freeze list into a weekly ship checklist for the team",
+      "summary_zh": "把冻结清单变成团队每周要交付的核对表。",
+      "import": "https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv",
+      "source": "https://x.com/inqusit/status/2093513553613656106",
+      "related": "https://grokbot.dev/bots/product-ops",
+      "category": "teams-handoffs",
+      "tags": [
+        "product",
+        "checklist"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "projects-manager",
+      "name": "Projects Manager",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/ericzakariasson"
+      },
+      "summary": "Runs a team of Grok bots as a project org, with Notion as the source of truth",
+      "summary_zh": "把一队 Grok Bot 当项目组织来跑，以 Notion 为准。",
+      "import": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+      "source": "https://x.com/ericzakariasson/status/2093381689041109349",
+      "related": "https://grokbot.dev/bots/projects-manager",
+      "category": "teams-handoffs",
+      "tags": [
+        "projects",
+        "agent-team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "shikamaru",
+      "name": "Shikamaru",
+      "author": {
+        "name": "Abhimanyu",
+        "url": "https://x.com/WorldlyReviewer"
+      },
+      "summary": "A chief of staff that hires and manages specialists in a named world",
+      "summary_zh": "参谋长，在一个有名字的世界里招专长、管专长。",
+      "import": "https://x.ai/bot/rrvGu13S5uYCc09WP7A-9",
+      "source": "https://x.com/WorldlyReviewer/status/2093382383802151353",
+      "related": "https://grokbot.dev/bots/shikamaru",
+      "category": "teams-handoffs",
+      "tags": [
+        "chief-of-staff",
+        "agent-team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "work",
+      "name": "Work",
+      "author": {
+        "name": "Tyler",
+        "url": "https://x.com/TylerNishida"
+      },
+      "summary": "The work-side counterpart to Life, one door for professional tasks",
+      "summary_zh": "和工作外的 Life 成对，专业事务走这一扇门。",
+      "import": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
+      "source": "https://x.com/TylerNishida/status/2093426221732532457",
+      "related": "https://grokbot.dev/bots/work-work-door",
+      "category": "teams-handoffs",
+      "tags": [
+        "two-door",
+        "work"
+      ],
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
