@@ -9,3 +9,7 @@ Featured notes: templates/
 Vetting: docs/vetting.md
 Team recipes (one share = one bot): packs/
 Official role starters (not importable): docs/official-starters.md
+Field cases (real runs, grouped by roster / computer-use / gotchas): README.md#field-cases
+Skills and tools (clients, CLIs, bridges, playbooks, indexes, OSS alts): README.md#skills-and-tools
+Community tutorials: README.md#tutorials
+Reviews: README.md#reviews

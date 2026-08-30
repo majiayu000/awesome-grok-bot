@@ -1,6 +1,6 @@
 # Contributing
 
-This repo is a catalog of **live** official Grok Bot share links. A resource/docs list already exists at [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot). Prompt dumps belong elsewhere.
+This repo is a catalog of **live** official Grok Bot share links, plus field cases and community GitHub tools. Official docs and meetup calendars already live at [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot). Prompt dumps belong elsewhere.
 
 Chinese or English PRs are both fine.
 
@@ -43,3 +43,19 @@ The lint command is: `node scripts/lint.mjs`
 A share installs one bot. Rosters that need several bots live in `packs/` as markdown recipes, not as fake import URLs.
 
 Official use-case roles (Sales Outbound, Expense Manager, Bug Reproduction, Chief of Staff, …) are starters for a **new** bot. They go in `docs/official-starters.md`, not in `catalog.json`, until someone publishes a live `https://x.ai/bot/…` share.
+
+## Add a field case or a GitHub tool
+
+Field cases go under `## Field cases` / `## 真人案例` (use Rosters, Computer-use jobs, or Gotchas). Skills go under `## Skills and tools` / `## 技能和工具` (clients, factory, CLIs, bridges, playbooks, indexes, OSS alts). Same URL and one sentence in both READMEs. Hyphen, not em dash. Chinese descriptions: no colon except inside URLs or code. Do not add them to `catalog.json`.
+
+A field case is a public writeup of a **real run** (X, blog, forum). Screenshots, a concrete job, or a share already in this catalog help. "I installed it" does not.
+
+A GitHub tool is a repo someone can clone, paste, or install today (skill pack, client, CLI, playbook, bridge). Empty, joke, or unmaintained repos do not belong unless they are the only useful thing in a class (for example the only WeChat bridge).
+
+Do not PR official xAI or Cursor docs, plan pages, App Store listings, or the official plugin marketplace. Do not PR meetup, Luma, or meeting-calendar links. Do not invent `https://x.ai/bot/…` URLs.
+
+PR title format: Add field case Name, or Add tool RepoName.
+
+## Daily ingest
+
+Maintainers also sweep X, GitHub, and [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) daily and fold in new field cases and tools. A human or agent does that sweep. There is no Action that posts. The only GitHub Action here is lint (`node scripts/lint.mjs` on push and PR).

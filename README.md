@@ -1,6 +1,6 @@
 # Awesome Grok Bot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated official share links you can Add to Grok Bot. This repo is an index. Cloning it does not install a bot.
+Curated official share links you can Add to Grok Bot, plus field cases and community tools. This repo is an index. Cloning it does not install a bot.
 
 ## Start here
 
@@ -37,16 +37,14 @@ Known bug: preview can show skills while export ships `skills: []`.
 
 ## What belongs here
 
-A row is a live `https://x.ai/bot/…` share you can Add. Featured six also have inspectable `PROFILE.md` / `SETUP.md` for what the share does not copy.
+The catalog rows are live `https://x.ai/bot/…` shares you can Add. Featured six also have inspectable `PROFILE.md` / `SETUP.md` for what the share does not copy.
 
-It is not:
+[Field cases](#field-cases) are public writeups of a real run. [Skills and tools](#skills-and-tools) are community GitHub repos you can clone or paste.
 
-- A resource/docs list. That is [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot).
-- A gallery dump ([somi.ai](https://somi.ai/grok-bots), [grokbot.dev](https://grokbot.dev), [grokyard.com](https://www.grokyard.com)). grokbot.dev and the original X posts are discovery sources for this list, not the list itself.
-- A prompt-era paste bin ([mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot)).
-- Official use-case marketing copy. Those are starters you type into a **new** bot, collected in [docs/official-starters.md](docs/official-starters.md).
+Not in this list:
 
-Chinese playbooks (recruit cards, not native shares): [KinGao294/grok-bot-orange-book](https://github.com/KinGao294/grok-bot-orange-book) (橙皮书).
+- Official docs, plan pages, or meetup calendars. Those already live in [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot).
+- A gallery dump of every share on [somi.ai](https://somi.ai/grok-bots), [grokbot.dev](https://grokbot.dev), or [grokyard.com](https://www.grokyard.com).
 
 ## Contents
 
@@ -60,6 +58,20 @@ Chinese playbooks (recruit cards, not native shares): [KinGao294/grok-bot-orange
 - [Content & publishing](#content--publishing)
 - [Personal admin](#personal-admin)
 - [Teams & handoffs](#teams--handoffs)
+- [Field cases](#field-cases)
+  - [Rosters](#rosters)
+  - [Computer-use jobs](#computer-use-jobs)
+  - [Gotchas](#gotchas)
+- [Skills and tools](#skills-and-tools)
+  - [Clients and Linux](#clients-and-linux)
+  - [Model and factory](#model-and-factory)
+  - [CLIs and SDKs](#clis-and-sdks)
+  - [Chat bridges](#chat-bridges)
+  - [Skill packs and playbooks](#skill-packs-and-playbooks)
+  - [Indexes](#indexes)
+  - [Open-source alternatives](#open-source-alternatives)
+- [Tutorials](#tutorials)
+- [Reviews](#reviews)
 
 ## Team packs
 
@@ -193,18 +205,179 @@ One share = one bot. These recipes are how you assemble a roster.
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) - A chief of staff that hires and manages specialists in a named world. [Abhimanyu](https://x.com/WorldlyReviewer).
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) - A general manager for a trades company that stands up the back office. [Jon](https://x.com/HouseHackerJon).
 
+## Field cases
+
+Public writeups of a real run. Not a meetup list. Account cap is 50 Bots. They share one computer.
+
+### Rosters
+
+- [CasJam's 13-bot product org](https://x.com/CasJam/status/2093762642867581359) - One Chief plus Head, Growth, and Maintainer for each of four brands.
+- [n2parko's SpaceXAI roster](https://x.com/n2parko/status/2087251704744235298) - Chief of staff, EM, five eng ICs, and a real agent-to-agent PR handoff.
+- [Farzad's named specialists](https://x.com/farzyness/status/2087340859138224540) - Webby, Shorty, and Writey under an orchestrator.
+- [Tyler's two doors](https://x.com/TylerNishida/status/2093426221732532457) - Work and Life as two standing inboxes. Mixed jobs always go to Life.
+- [Gota's twelve jobs](https://x.com/gota_bara/status/2087666940450152841) - Image factory, research briefs, 3D, travel, cancel subscriptions, and a local LLM on the VM.
+- [Nate's twelve Bots in eight hours](https://natesnewsletter.substack.com/p/grok-bot-review) - First-day roster that asks whether a $200 agent team is worth it.
+- [Krista's enterprise GTM roster](https://x.com/kristaletz/status/2089103618121314689) - CoS, overnight prospecting, per-account experts, and live slide updates.
+- [Ben Lang's internal job list](https://x.com/benln/status/2087929147406299313) - Starlink-biased flights, recipe-to-Whole Foods, film-scan EXIF, contractor quotes.
+- [Jon's plumbing-shop office manager](https://x.com/HouseHackerJon/status/2087635639701573962) - Drain-and-sewer shop owner handing office work to a Bot in the first 24 hours.
+- [Grokularity](https://grokularity.xyz) - A non-coder stood up a company site in a day. Humans read. Only proven Grok agents write.
+
+### Computer-use jobs
+
+- [Debbie buys gluten-free beer](https://debbie.codes/blog/i-sent-grok-bot-to-buy-my-gluten-free-beer) - A Sunday-night shopping run that shows computer-use, not chat.
+- [Debbie tries to book flights](https://debbie.codes/blog/i-tested-if-grok-bot-could-book-my-flights) - Honest near-miss. The Bot can drive the airline site. The last click still needs you.
+- [Gergely Orosz on Stripe refunds](https://x.com/GergelyOrosz/status/2090085668768694562) - Hooks support mail and Stripe, with a human confirm before money moves.
+- [Mike P's 90,000-email purge](https://x.com/mikepat711/status/2089879632929554498) - A Bot walks two Gmail accounts and throws out junk the owner never wanted to touch.
+- [Danny's 74 game art assets](https://x.com/DannyLimanseta/status/2087228218797617404) - Reads the codebase, generates art, crops transparent PNGs, and wires them back in two hours.
+- [Darian chases five merchant refunds](https://x.com/darian314/status/2089381004524093752) - Hunts unrefunded returns in email and writes the merchants.
+- [Yun-Ta texts a Matic vacuum](https://x.com/yunta_tsai/status/2089223114416898288) - A Chief Engineer Bot talks to @maticrobots so he can text the vacuum from anywhere.
+- [Yun-Ta books a table while walking](https://x.com/yunta_tsai/status/2087415205756391461) - Mixed Chinese and English voice. The Bot scans calendars and books a table.
+- [Wayne Sutton ships a site from the phone](https://x.com/waynesutton/status/2088416215203295346) - Convex plus Cloudflare plugins. Domain, redirects, and a live demo in two phone prompts.
+- [WordPress updates taught once](https://x.com/mrfundman/status/2089760255890571404) - Teach-a-task on a real CMS instead of writing a deploy script.
+- [Arduino updates from a Bot](https://x.com/KettlebellDan/status/2089920364419874937) - The Bot pushes hardware updates so the human can stay off X.
+- [KettlebellDan's LED stock ticker](https://x.com/KettlebellDan/status/2089387837204693202) - Bot talks to an Arduino so the marquee scrolls SPCX price, a sparkline, and SpaceX news.
+- [Sid's Polymarket daily brief](https://x.com/sidshekhar24/status/2089735218861326727) - Scans the day's settled markets and writes the report.
+- [Peter Yang's Marie Kondo Bot](https://x.com/petergyang/status/2089724101070086482) - Audits email, Drive, and paid subs, then waits for approval before anything is deleted.
+- [Peter Yang plays Commander Keen](https://x.com/petergyang/status/2089502606079197347) - Installs and plays Commander Keen on the cloud desktop, lag and all.
+- [Kiara's meeting stand-in](https://x.com/kiaraplds/status/2088321112073547835) - A Bot joins a meeting she misses, announces itself, and takes notes.
+- [Gavin Baker's 15-second podcast summarizer](https://x.com/GavinSBaker/status/2089379355692527813) - Stands up a podcast summarizer in about 15 seconds and calls it another Claude Code moment.
+- [Box credit-committee pack](https://x.com/Box/status/2087275866950938662) - Reconciles materials and writes the pack back into Box via MCP.
+- [24/7 support agent in 19 minutes](https://www.youtube.com/watch?v=bUALqTpUze0) - Customer-support Bot built on a routine, not a helpdesk rewrite.
+- [Japanese cloud-computer field notes](https://note.com/azumimusuhi/n/n0485219790bb) - Hands-on writeup of living on the shared VM for a week.
+- [Lee Robinson's four bets](https://x.com/leerob/status/2089169319099777364) - No UI, thin client, always-on computer, browser as a first-class tool.
+- [Logan on the computer, not 4.6](https://x.com/LoganJastremski/status/2089903051557491092) - No API, no MCP, no hosted browser. The Bot just uses software like a person.
+
+### Gotchas
+
+Staff-confirmed or screenshot-backed. Not a dump of every forum thread.
+
+- [Bots are not a security boundary](https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476) - Every Bot on the account sees the same logins and files.
+- [Always-on workers vs topic threads](https://forum.cursor.com/t/grok-bots-as-always-on-workers-vs-topic-threads/168183) - A Bot is a standing coworker, not a chat tab.
+- [Reconnect issue](https://forum.cursor.com/t/grok-bot-reconnect-issue/168500) - Real screenshot of "can't reach your computer" after a reconnect.
+- [X login lock on the Bot computer](https://forum.cursor.com/t/grok-bot-x-login-lock-limit-not-lifting/168541) - Cloud computers hit site risk controls. X locks are not theoretical.
+- [ExternalShell blocked despite Always allow](https://forum.cursor.com/t/grok-bot-externalshell-blocked-despite-always-allow/168180) - Allow-lists still fail. Do not assume Always allow means always.
+- [Deleted Cursor account orphans the Grok link](https://forum.cursor.com/t/deleted-cursor-account-leaves-grok-link-orphaned-and-blocks-relinking/168783) - Account deletion can pin the Bot to a dead Cursor identity.
+- [No local MCP](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - Staff-confirmed. Use remote HTTP MCP or the cloud browser.
+- [Gmail attachments are metadata only](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - The Gmail connector lists attachments. It cannot download the bytes.
+- [Grok Bot login is an extra computer](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - A Grok Bot login is its own Cursor device and can count toward Too many computers.
+- [Weekly usage spills into On-Demand](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - No in-app warning. Set a $0 On-Demand cap if you want no paid spill.
+- [Gmail plugin OAuth is broken](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - Authorize Gmail from Cursor instead. The connection is shared until the plugin is fixed.
+
+## Skills and tools
+
+Community GitHub. Clone, paste, or install. Not official docs.
+
+### Clients and Linux
+
+- [grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux desktop client built from the Windows installer. xAI does not ship one.
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less Linux port with Arch AUR packages. Current release 0.30.0.
+- [grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Ubuntu/Linux port that merges the official Windows app.asar onto Electron.
+- [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - Nix flake that repackages the official Linux .deb.
+- [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - Unofficial Arch package of the official Linux .deb. The built-in updater does not support Linux.
+- [parasite6/grok-bot-linux](https://github.com/parasite6/grok-bot-linux) - Unofficial Fedora RPM converted from the public .deb.
+- [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - Community index of official Cursor-CDN Linux .deb/.rpm/AppImage URLs. Does not host installers.
+- [omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - Omarchy bar plugin for the unofficial Linux client. Running, idle, crash, and launch-or-focus.
+- [grokbot-shim](https://github.com/codeaashu/grokbot-shim) - Run Grok Bot locally with a computer desktop and configurable Codex or OpenAI-compatible models.
+- [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS. Study-only, archived.
+
+### Model and factory
+
+- [opengrok](https://github.com/OnlyTerp/opengrok) - Pick any model for a Grok Bot. Keys stay on your machine.
+- [Grok Ship](https://github.com/kunchenguid/grok-ship) - Turns a Bot into a software factory, with review before any PR.
+- [grok-bot-setup](https://github.com/BlockedPath/grok-bot-setup) - Adapters CLI and custom model provider bridges for DeepSeek, Claude, Grok, and OpenAI.
+
+### CLIs and SDKs
+
+- [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - Terminal CLI to list, create, and message teammates from a signed-in Mac.
+- [grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - TypeScript SDK for a running host. Typed local HTTP gateway client plus sand-data disk readers.
+- [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude skill so a coding agent can list, chat with, and create Grok Bot teammates.
+- [grokbot-tui](https://github.com/smarzban/grokbot-tui) - Unofficial terminal TUI that talks to the host gateway so you can chat from the terminal.
+- [grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - CLI (gbq) that queues work onto running Bots over Tailscale/SSH.
+- [dictate-capture](https://github.com/budezllc/dictate-capture) - Windows helper. Hold Ctrl+D to dictate into Grok Bot, optionally paste a screenshot.
+
+### Chat bridges
+
+- [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - Read, triage, and send iMessage from the Bot via a local macOS helper.
+- [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - WeChat iLink channel. Inbound messages wake a Bot over webhook.
+- [grokbot-telegram-bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - Unofficial Telegram gateway that talks to the local Sand gateway on loopback only.
+- [Grok Bot Discord gateway](https://github.com/davefmurray/grok-bot-discord) - Bridge so a Bot can live in Discord without pretending to be a Slack App.
+- [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - Discord listener that wakes a Grok Bot webhook on the owner's mention.
+- [grokbot-cloudflare-inbox](https://github.com/ethanolivertroy/grokbot-cloudflare-inbox) - Self-hosted Grok Bot inbox on Cloudflare Workers, based on Agentic Inbox.
+
+### Skill packs and playbooks
+
+- [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - Chinese playbook for a five-person fleet, routines, and cost control.
+- [awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - Paste START.md into a blank Bot and it stands up a 2-4 person team.
+- [rosterroom](https://github.com/codejunkie99/rosterroom) - 82 paste-in team rosters with ownership lanes and approval gates.
+- [grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - Splits spec, implementation, and verification so a Bot never approves its own work.
+- [thin-grok-bot-deep-work-on-cli](https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli) - Keeps the Bot mesh thin and hands deep builds to Cursor CLI or cloud agents.
+- [grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - Shopping skills. Paste INSTALL.md into a Bot.
+- [grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Scored operating contracts with a START.md installer and 49 paste-ready profiles.
+- [crew-contract](https://github.com/lsj210001/crew-contract) - Operating protocol for crews. Seven-field missions, artifact handoffs, and stop-on-budget.
+- [grok-factory](https://github.com/jaredtrichard/grok-factory) - Followable pack. Firstmate routes software, research, and general work on the shared computer.
+- [grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - Restaurant social-commerce scout with morning-scan skills and a copy-paste SETUP.md.
+- [Werewolf gamemaster](https://github.com/Heyvhuang/werewolf-gamemaster) - Skill pack so the Bot runs a Werewolf table, not a hello-world SKILL.md.
+- [Hyperliquid 7-agent trading desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Experimental. Seven specialized Bots on one desk. Read the code first.
+- [grokbot-for-gtm](https://github.com/bcharleson/grokbot-for-gtm) - Playbook plus skills so a Bot can run outbound GTM. Instantly, HeyReach, human-approved sends.
+- [Grok Bot Plays](https://github.com/ZooHero500/plays) - How-to catalog of plays rewritten from public posts, with source links.
+- [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - Public notes on safe example workflows and how Bot sits next to Grok Build.
+- [learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - Unofficial 16-lesson course on the desktop-agent harness. Electron, turn loop, sandbox, MCP.
+
+### Indexes
+
+- [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory. Paste a listing into Grok Bot and it sets itself up.
+- [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent-run directory of prompts, plugins, and use cases. PRs are the write API.
+- [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - Day-one directory, strong on marketplace format and self-hosted runtimes.
+- [awesome-grok-bot-plugins](https://github.com/rdmgator12/awesome-grok-bot-plugins) - 219 in-app marketplace listings captured 2026-08-12, grouped by category.
+- [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - Ready-to-paste prompt library across productivity, sales, marketing, and ops.
+- [botteams](https://github.com/ellelion/botteams) - Public team directory. Copy one installer prompt and it creates the named Bots and routines.
+- [really.bot](https://github.com/travisrr/really.bot) - Public job board. Verified runs get a serial. Tag @tryreallybot on X to import a thread.
+- [usegrokbot](https://github.com/a70win-wq/usegrokbot) - Searchable library of real workflows with a live discover site at usegrokbot.com.
+- [grok-template](https://github.com/Ritesh-Root/grok-template) - Community marketplace at groktemplate.vercel.app for share links and GitHub packs.
+- [botskills](https://github.com/PramodDutta/botskills) - Paste-ready BOT.md directory. Every listing requires a hard human-approval boundary.
+- [orgbot-hub](https://github.com/AmitMirgal/orgbot-hub) - Directory app for installable team packs that use official x.ai/bot share URLs only.
+
+### Open-source alternatives
+
+- [OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use.
+- [rakazo](https://github.com/elie222/rakazo) - Open-source alternative. Choose your own model and sandbox.
+- [guaca](https://github.com/madebywelch/guaca) - Another self-hosted take on persistent computer-use agents.
+- [OpenGrokBot](https://github.com/wolfqing/OpenGrokBot) - OpenClaw plus bring-your-own-model, assembled as a Bot stand-in.
+- [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - Early equivalent. Read before you grant credentials.
+- [XinyunOpenBot](https://github.com/dongpen-max/XinyunOpenBot) - Chinese-language open alternative aimed at the same job-to-be-done.
+- [botroster](https://github.com/mandarwagh9/botroster) - Named teammates, one durable computer, approvals, and routines. Rust/Tauri.
+- [hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop plugins that copy the Grok Bot feel. iMessage-style bubbles plus a live computer window.
+- [LaoA-GrokBot](https://github.com/zhulin025/LaoA-GrokBot) - Customizable Grok Bot emoji and action lab that can generate share cards.
+
+## Tutorials
+
+Community walkthroughs. Not official docs.
+
+- [How to Get Started with Grok Bot](https://debbie.codes/blog/how-to-get-started-with-grok-bot) - Debbie's field guide. First Bot, CoS prompt, and how she reorganizes the roster.
+- [Grok Bot Masterclass](https://www.dailydoseofds.com/p/grok-bot-masterclass/) - Avi / Daily Dose. Record once, turn it into a skill, hang it on a routine.
+- [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes on the shared computer, skills to routines, share-as-template, and Stripe Link spend requests.
+- [Peter Yang: 5 Must-Try Use Cases](https://www.youtube.com/watch?v=MkVcHbviYOw) - Advisor, YouTube researcher, X scout, Gmail declutter, travel concierge.
+
+See also [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) under Skill packs.
+
+## Reviews
+
+- [The Verge: an AI teammate you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch) - Launch coverage that keeps the product distinct from grok.com chat.
+- [Lenny's Newsletter: Grok Bot, Grok 4.6, and Cursor](https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor) - Separates the Bot product from the 4.6 model. Do not collapse the two.
+- [Grok Bot vs OpenClaw](https://myclaw.ai/blog/grok-bot-vs-openclaw) - Managed cloud computer vs self-hosted, bring-your-own-model.
+- [Before You Hire a $200 Grok Bot](https://zchmael.substack.com/p/before-you-hire-a-200-grok-bot-ai) - Skeptical checklist. What the seat does not buy you.
+- [CellCog: Grok Bot pricing](https://cellcog.ai/blog/grok-bot-pricing/) - Living pricing note. Eight routes from Cursor Pro $20 / SuperGrok $30, unpublished weekly allowance.
+- [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - Cost and credential risk. One shared computer is not a security boundary.
+
 ## Contributing
 
-PR a live `https://x.ai/bot/…` URL, a one-sentence summary, and a category. Run `node scripts/lint.mjs`. PROFILE/SETUP only if you have extra setup notes (featured style). Details in [CONTRIBUTING.md](CONTRIBUTING.md).
+PR a live `https://x.ai/bot/…` URL, a field case, or a GitHub tool. One sentence. Run `node scripts/lint.mjs` if you touch the catalog. Details in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Do not invent share URLs. Do not paste another person's full standing instructions.
+Do not invent share URLs. Do not paste another person's full standing instructions. Do not send official docs or meetup links.
 
 ## Related
 
-- Official: [Bots](https://docs.x.ai/grok-bot/bots) · [FAQ](https://docs.x.ai/grok-bot/faq) · [Use cases](https://docs.x.ai/grok-bot/use-cases) · [Skills, routines, and automations](https://docs.x.ai/grok-bot/skills-routines-and-automations) · [Approvals, security, and privacy](https://docs.x.ai/grok-bot/approvals-security-and-privacy)
-- Resource awesome-list (docs, meetups, failure modes): [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot)
-- Copy-paste profiles (pre-template): [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot)
+- Broader resource list (docs, meetups, failure modes): [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot)
 - Community galleries: [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com)
-- Chinese playbook: [橙皮书 grok-bot-orange-book](https://github.com/KinGao294/grok-bot-orange-book)
 
 Catalog and recipes CC0. Scripts MIT. Chinese: [README.zh-CN.md](README.zh-CN.md).
