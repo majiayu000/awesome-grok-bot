@@ -1290,6 +1290,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "dan-patrick",
+      "name": "Dan Patrick",
+      "author": {
+        "name": "Marcus",
+        "url": "https://x.com/marcusramsey"
+      },
+      "summary": "A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when your teams' games go final.",
+      "summary_zh": "九十年代 SportsCenter 口吻的比分 Bot。早间综述，你点名的球队终场再叮一声。",
+      "import": "https://x.ai/bot/hlQhxsU-pqQEkimm0it4V",
+      "source": "https://github.com/keshav-exe/bot-directory",
+      "category": "research-briefings",
+      "tags": [
+        "sports",
+        "scores",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
       "slug": "data-science-querie",
       "name": "Data Science (Querie)",
       "author": {
@@ -1522,6 +1543,27 @@
       "tags": [
         "create-agent",
         "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "earnings-desk",
+      "name": "Earnings Desk",
+      "author": {
+        "name": "Sachiv",
+        "url": "https://x.com/SachivM99"
+      },
+      "summary": "Builds numbered, no-hype earnings tearsheets and a ticker watch list. Writes up when a watched name prints.",
+      "summary_zh": "做编号、不吹的财报一页纸，再盯一份股票名单。盯着的名字出数就写一篇。",
+      "import": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+      "source": "https://github.com/keshav-exe/bot-directory",
+      "category": "finance-ops",
+      "tags": [
+        "earnings",
+        "stocks",
+        "watchlist"
       ],
       "license": "CC0-1.0",
       "verified": false,
@@ -4745,6 +4787,26 @@
         "shopping",
         "saving-money",
         "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-08-30"
+    },
+    {
+      "slug": "shopper-pete",
+      "name": "Shopper",
+      "author": {
+        "name": "Pete"
+      },
+      "summary": "Researches what to buy from reviews and specs, then hunts the best price and waits before checkout.",
+      "summary_zh": "按评测和参数研究该买什么，再比价，结账前先停住等你点头。",
+      "import": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
+      "source": "https://botdirectory.ai/bots/shopper/",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "price",
+        "reviews"
       ],
       "license": "CC0-1.0",
       "verified": false,
