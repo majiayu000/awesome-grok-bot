@@ -1,12 +1,39 @@
 # Awesome Grok Bot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated live official share links you can Add to Grok Bot.
+Curated official share links you can Add to Grok Bot. This repo is an index. Cloning it does not install a bot.
 
-100 live links, HTTP-checked 30 Aug 2026 from 252 working grokbot.dev shares (1 dead dropped). Curated, not a dump.
+## Start here
 
-> Community templates are untrusted third-party software. Adding one accepts Grok Bot third-party bot terms. Inspect the profile, connect one connector, try a read-only task, only then enable routines or writes. Bots on an account share one computer. Never paste API keys into SETUP. Skills can fail to travel. See [SECURITY.md](SECURITY.md) and [docs/vetting.md](docs/vetting.md).
+You need the Grok Bot desktop or iOS app. Open a share, hit **Add to Grok Bot**, reconnect your own plugins, run one read-only task. Do not add the whole list. Account cap is 50 bots (they share one computer). These 100 were HTTP-checked live on 30 Aug 2026 and are still unverified.
+
+Add **one** of these first:
+
+- [Work](https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0) - standing work inbox. [Tyler](https://x.com/TylerNishida). Notes: [templates/work](templates/work/).
+- [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) - a bot that builds other Grok bots. [Lauren](https://x.com/poteto). Notes: [templates/dr-eggbot](templates/dr-eggbot/).
+- [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) - an operator that does the work a planner only describes. [Uzi](https://x.com/UziObi). Notes: [templates/fixer](templates/fixer/).
+
+Then pick **one** pack. Do not invent a 12-bot org on day one.
+
+- [Work + Life two-door](packs/two-door-work-life.md)
+- [CasJam product heads (Head + Growth + Maintainer)](packs/casjam-product-heads.md)
+- [Chief of Staff + Fixer + specialists](packs/chief-of-staff.md)
+
+> Community templates are untrusted third-party software. Adding one accepts Grok Bot third-party bot terms. Inspect the profile, connect one connector, try a read-only task, only then enable routines or writes. Never paste API keys into SETUP. Skills can fail to travel. See [SECURITY.md](SECURITY.md) and [docs/vetting.md](docs/vetting.md).
 
 Machine-readable: [catalog.json](catalog.json).
+
+## How to import
+
+1. Open the official share link (`https://x.ai/bot/…`) in a browser.
+2. Choose **Add to Grok Bot**. The Grok Bot desktop app or iOS app is required.
+
+A share **copies** identity, description, selected memories, skills, routines, and first-party marketplace plugins (by plugin id).
+
+It **does not copy** the computer, files, browser sessions or logins, API keys, custom MCP, scripts, or conversation history. Reconnect your own plugins after import.
+
+`verified: true` only after a maintainer imported the share and ran a first safe task.
+
+Known bug: preview can show skills while export ships `skills: []`.
 
 ## What belongs here
 
@@ -21,21 +48,10 @@ It is not:
 
 Chinese playbooks (recruit cards, not native shares): [KinGao294/grok-bot-orange-book](https://github.com/KinGao294/grok-bot-orange-book) (橙皮书).
 
-## How to import
-
-1. Open the official share link (`https://x.ai/bot/…`) in a browser.
-2. Choose **Add to Grok Bot**. The Grok Bot desktop app or iOS app is required.
-
-A share **copies** identity, description, selected memories, skills, routines, and first-party marketplace plugins (by plugin id).
-
-It **does not copy** the computer, files, browser sessions or logins, API keys, custom MCP, scripts, or conversation history. Reconnect your own plugins after import.
-
-`verified: true` only after a maintainer imported the share and ran a first safe task. These 100 are live but unverified.
-
-Account caps: **50 bots** plus group chats; **50 routines** per bot. All bots share one computer. Known bug: preview can show skills while export ships `skills: []`.
-
 ## Contents
 
+- [Start here](#start-here)
+- [Team packs](#team-packs)
 - [Coding & shipping](#coding--shipping)
 - [Inbox & calendar](#inbox--calendar)
 - [Research & briefings](#research--briefings)
@@ -44,7 +60,14 @@ Account caps: **50 bots** plus group chats; **50 routines** per bot. All bots sh
 - [Content & publishing](#content--publishing)
 - [Personal admin](#personal-admin)
 - [Teams & handoffs](#teams--handoffs)
-- [Team packs](#team-packs)
+
+## Team packs
+
+One share = one bot. These recipes are how you assemble a roster.
+
+- [Work + Life two-door](packs/two-door-work-life.md)
+- [Chief of Staff + Fixer + specialists](packs/chief-of-staff.md)
+- [CasJam product heads (Head + Growth + Maintainer)](packs/casjam-product-heads.md) - roster from [CasJam](https://x.com/CasJam/status/2093762642867581359). No share URL; assemble it.
 
 ## Coding & shipping
 
@@ -169,14 +192,6 @@ Account caps: **50 bots** plus group chats; **50 routines** per bot. All bots sh
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) - Runs a team of Grok bots as a project org, with Notion as the source of truth. [Eric](https://x.com/ericzakariasson).
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) - A chief of staff that hires and manages specialists in a named world. [Abhimanyu](https://x.com/WorldlyReviewer).
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) - A general manager for a trades company that stands up the back office. [Jon](https://x.com/HouseHackerJon).
-
-## Team packs
-
-One share = one bot. These recipes are how you assemble a roster.
-
-- [Work + Life two-door](packs/two-door-work-life.md)
-- [Chief of Staff + Fixer + specialists](packs/chief-of-staff.md)
-- [CasJam product heads (Head + Growth + Maintainer)](packs/casjam-product-heads.md) - roster from [CasJam](https://x.com/CasJam/status/2093762642867581359). No share URL; assemble it.
 
 ## Contributing
 

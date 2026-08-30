@@ -1,12 +1,39 @@
 # Awesome Grok Bot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选、可直接添加的官方 Grok Bot 分享链接。
+精选、可直接添加的官方 Grok Bot 分享链接。本仓库是索引。clone 下来不会安装任何 Bot。
 
-100 条活链接，2026 年 8 月 30 日 HTTP 核对，来自 grokbot.dev 252 条可用分享（1 条失效已丢）。精选，不是倾销。
+## 从这里开始
 
-> 社区模板是不可信的第三方软件。添加即表示接受 Grok Bot 第三方 Bot 条款。先看 profile，只接一个连接器，先跑只读任务，确认后再开例行任务或写入。同一账号下的 Bot 共用一台电脑。不要把 API key 写进 SETUP。技能可能传不过去。见 [SECURITY.md](SECURITY.md) 和 [docs/vetting.md](docs/vetting.md)。
+需要 Grok Bot 桌面端或 iOS 应用。打开分享链接，点 **Add to Grok Bot**，用你自己的账号重连插件，先跑一个只读任务。不要把整份目录加进去。账号上限 50 个 Bot（共用一台电脑）。这 100 条在 2026 年 8 月 30 日 HTTP 核对为活链接，尚未核验。
+
+先加 **其中一个**：
+
+- [Work](https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0) - 常驻工作收件箱。 [Tyler](https://x.com/TylerNishida). 说明: [templates/work](templates/work/).
+- [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) - 替你搭建其他 Grok Bot。 [Lauren](https://x.com/poteto). 说明: [templates/dr-eggbot](templates/dr-eggbot/).
+- [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) - 真正动手的执行者，不是只做计划的参谋。 [Uzi](https://x.com/UziObi). 说明: [templates/fixer](templates/fixer/).
+
+然后只选 **一套** 配方。第一天不要自己发明 12 人编制。
+
+- [Work + Life 两扇门](packs/two-door-work-life.md)
+- [CasJam 产品编队（Head + Growth + Maintainer）](packs/casjam-product-heads.md)
+- [参谋 + Fixer + 专职](packs/chief-of-staff.md)
+
+> 社区模板是不可信的第三方软件。添加即表示接受 Grok Bot 第三方 Bot 条款。先看 profile，只接一个连接器，先跑只读任务，确认后再开例行任务或写入。不要把 API key 写进 SETUP。技能可能传不过去。见 [SECURITY.md](SECURITY.md) 和 [docs/vetting.md](docs/vetting.md)。
 
 机器可读目录：[catalog.json](catalog.json)。
+
+## 如何导入
+
+1. 在浏览器打开官方分享链接（`https://x.ai/bot/…`）。
+2. 选择 **Add to Grok Bot**。需要 Grok Bot 桌面端或 iOS 应用。
+
+分享会**复制**：身份、描述、勾选的记忆、技能、例行任务、以及按插件 id 引用的官方市场插件。
+
+**不会复制**：电脑、文件、浏览器会话/登录、API key、自定义 MCP、脚本、对话历史。导入后请自行重新连接插件。
+
+`verified: true` 只在维护者真正导入并跑过首次安全任务之后才打。
+
+已知问题：预览里能看到技能，导出却可能是 `skills: []`。
 
 ## 这里收什么
 
@@ -21,21 +48,10 @@
 
 中文招募卡/玩法（不是原生分享目录）：[KinGao294/grok-bot-orange-book](https://github.com/KinGao294/grok-bot-orange-book)（橙皮书）。
 
-## 如何导入
-
-1. 在浏览器打开官方分享链接（`https://x.ai/bot/…`）。
-2. 选择 **Add to Grok Bot**。需要 Grok Bot 桌面端或 iOS 应用。
-
-分享会**复制**：身份、描述、勾选的记忆、技能、例行任务、以及按插件 id 引用的官方市场插件。
-
-**不会复制**：电脑、文件、浏览器会话/登录、API key、自定义 MCP、脚本、对话历史。导入后请自行重新连接插件。
-
-`verified: true` 只在维护者真正导入并跑过首次安全任务之后才打。这 100 条是活链接，尚未核验。
-
-账号上限：**50 个 Bot**（含群聊）；每个 Bot **50 条例行任务**。所有 Bot 共用一台电脑。已知问题：预览里能看到技能，导出却可能是 `skills: []`。
-
 ## 目录
 
+- [从这里开始](#从这里开始)
+- [团队配方](#团队配方)
 - [Coding & shipping](#coding--shipping)
 - [Inbox & calendar](#inbox--calendar)
 - [Research & briefings](#research--briefings)
@@ -44,7 +60,14 @@
 - [Content & publishing](#content--publishing)
 - [Personal admin](#personal-admin)
 - [Teams & handoffs](#teams--handoffs)
-- [团队配方](#团队配方)
+
+## 团队配方
+
+一条分享 = 一个 Bot。编制要自己拼。
+
+- [Work + Life 两扇门](packs/two-door-work-life.md)
+- [参谋 + Fixer + 专职](packs/chief-of-staff.md)
+- [CasJam 产品编队（Head + Growth + Maintainer）](packs/casjam-product-heads.md) - 来自 [CasJam](https://x.com/CasJam/status/2093762642867581359) 的编制。没有分享链接，要自己搭。
 
 ## Coding & shipping
 
@@ -169,14 +192,6 @@
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) - 把一队 Grok Bot 当项目组织来跑，以 Notion 为准。 [Eric](https://x.com/ericzakariasson).
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) - 参谋长，在一个有名字的世界里招专长、管专长。 [Abhimanyu](https://x.com/WorldlyReviewer).
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) - 工匠公司的总经理，把后台从零搭起来。 [Jon](https://x.com/HouseHackerJon).
-
-## 团队配方
-
-一条分享 = 一个 Bot。编制要自己拼。
-
-- [Work + Life 两扇门](packs/two-door-work-life.md)
-- [参谋 + Fixer + 专职](packs/chief-of-staff.md)
-- [CasJam 产品编队（Head + Growth + Maintainer）](packs/casjam-product-heads.md) - 来自 [CasJam](https://x.com/CasJam/status/2093762642867581359) 的编制。没有分享链接，要自己搭。
 
 ## 贡献
 
