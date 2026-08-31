@@ -445,9 +445,6 @@ Community GitHub. Clone, paste, or install. Not official docs.
 There is no official Grok Bot app for Linux laptops. The Bot's own computer is already Linux, in the cloud. This line is only for people whose laptop is Linux.
 
 - [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - Index of Cursor-CDN Linux `.deb` / `.rpm` / AppImage URLs and distro packaging. Does not host installers.
-- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux rebuild of the official Electron app (deb and AppImage). Not an xAI or Cursor product.
-- [ATLTuck/unofficial-grok-bot-arch-installer](https://github.com/ATLTuck/unofficial-grok-bot-arch-installer) - Turns the official Linux `.deb` into a native Arch/Manjaro pacman package.
-- [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - Unofficial Omarchy bar widget that launches the Linux client and can pull Cursor CDN AppImage updates.
 
 ### Local and study
 

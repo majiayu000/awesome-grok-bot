@@ -445,9 +445,6 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 官方 Grok Bot 没有 Linux 笔记本 App。Bot 自己的电脑在云上，本来就是 Linux。下面只给自己电脑是 Linux 的人。
 
 - [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - 整理 Cursor-CDN 上的 Linux `.deb` / `.rpm` / AppImage 地址和发行版打包。不托管安装包。
-- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非官方 Ubuntu/Linux 重打包官方 Electron 应用（deb 和 AppImage）。不是 xAI 或 Cursor 产品。
-- [ATLTuck/unofficial-grok-bot-arch-installer](https://github.com/ATLTuck/unofficial-grok-bot-arch-installer) - 把官方 Linux `.deb` 做成 Arch/Manjaro 的 pacman 包。
-- [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非官方 Omarchy 栏插件，一键开 Linux 客户端，还能拉 Cursor CDN 的 AppImage 更新。
 
 ### 本地和研究
 
