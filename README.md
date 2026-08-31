@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> Live `x.ai/bot` shares you can Add, plus writeups of how people actually run them. This repo is an index. Cloning it does not install a bot.
+> Live `x.ai/bot` shares you can Add, plus writeups of how people actually run them.
 
 ## Contents
 

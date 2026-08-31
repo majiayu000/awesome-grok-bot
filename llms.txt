@@ -1,6 +1,6 @@
 # Awesome Grok Bot
 
-> Live x.ai/bot shares you can Add, plus writeups of how people actually run them. This repo is an index. Cloning it does not install a bot.
+> Live x.ai/bot shares you can Add, plus writeups of how people actually run them.
 
 268 live shares in catalog.json: https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json
 Human index: https://github.com/majiayu000/awesome-grok-bot
