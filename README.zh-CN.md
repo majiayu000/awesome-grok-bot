@@ -15,11 +15,11 @@
 ## 目录
 
 - [怎么用](#怎么用)
-- [官方文档](#官方文档)
 - [真人案例](#真人案例)
   - [编制](#编制)
   - [电脑上手活](#电脑上手活)
   - [踩坑](#踩坑)
+- [官方文档](#官方文档)
 - [团队配方](#团队配方)
 - [Coding & shipping](#coding--shipping)
 - [Inbox & calendar](#inbox--calendar)
@@ -43,64 +43,25 @@
 
 ## 怎么用
 
-先在 Mac、Windows 或 iPhone 上装官方 Grok Bot。然后打开任意一条活分享，点 **Add to Grok Bot**。
+在 Mac、Windows 或 iPhone 上装官方 Grok Bot。打开任意一条活分享，点 **Add to Grok Bot**。
 
 <p align="center">
   <img src="docs/screenshots/work.png" alt="一条活分享页。黑色按钮是 Add to Grok Bot。" width="420">
 </p>
 
-图里只是几百条里的一条，不是入门推荐。这个页上每条活链接都是同一个按钮。
+分享会带上名字、技能、例行任务和官方市场插件。不会带上电脑、文件、登录或 API key。
 
-想先看别人怎么跑，去[真人案例](#真人案例)，那一节开头有两条视频。再从下面点一条链接。
+Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上的 App。没有官方 Linux 桌面端。自己电脑是 Linux 的，看 [Linux 笔记本客户端](#linux-笔记本客户端)。
 
-分享会复制身份、描述、勾选的记忆、技能、例行任务、以及按插件 id 引用的官方市场插件。不会复制电脑、文件、登录、API key、自定义 MCP、脚本、对话历史。`verified: true` 只在维护者真正导入并跑过首次安全任务之后才打。
+付费 Cursor 和 SuperGrok 都带 Grok Bot。账单看 [plans](https://cursor.com/help/grok-bot/plans)。
 
-Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 App 是 macOS、Windows 和 iOS，没有官方 Linux 桌面端。自己电脑是 Linux 的，非官方移植在 [Linux 笔记本客户端](#linux-笔记本客户端)。上限 50 个 Bot，共用那一台电脑。
+> 社区分享是不可信的第三方软件。先看 profile，只接一个连接器，先跑只读任务，再开写入。不要把 API key 写进 SETUP。见 [SECURITY.md](SECURITY.md)。
 
-> 社区模板是不可信的第三方软件。添加即表示接受 Grok Bot 第三方 Bot 条款。先看 profile，只接一个连接器，先跑只读任务，确认后再开例行任务或写入。不要把 API key 写进 SETUP。技能可能传不过去。见 [SECURITY.md](SECURITY.md) 和 [docs/vetting.md](docs/vetting.md)。
-
-这 268 条在 2026 年 8 月 30 日 HTTP 核对为活链接，尚未核验。
-
-机器可读目录见 [catalog.json](catalog.json)。
-
-## 官方文档
-
-产品页。活分享还在下面。
-
-- [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 发布说明。常驻代理，自带电脑。
-- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - SuperGrok、Cursor Pro 和 Cursor Teams 都能用。
-- [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - 接上 X。付费用户有免费 API 额度，可搜帖、时间线和提及。
-- [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 一个具名 Bot，一台共用云电脑。隔离按用户，不按 Bot。
-- [Get started](https://docs.x.ai/grok-bot/get-started) - 装桌面端，用 Cursor 登录，建第一个 Bot。没有官方 Linux 桌面。
-- [Use cases](https://docs.x.ai/grok-bot/use-cases) - 官方编制想法。销售夜班、发票、复现 bug。
-- [Grok Bot for iOS](https://docs.x.ai/grok-bot/mobile) - 手机伴侣。Bot 继续在云电脑上跑。
-- [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - 命名、范围、公开分享链接。分享复制身份、技能和例行任务，不复制电脑或登录。
-- [Message and collaborate](https://docs.x.ai/grok-bot/chat-and-collaboration) - Bot 互相发消息、进群聊、派活。
-- [Files and results](https://docs.x.ai/grok-bot/files-and-results) - 产物落在共用电脑的哪里。
-- [Use the computer and apps](https://docs.x.ai/grok-bot/computer-and-apps) - 浏览器、文件系统、终端。没有干净 API 就当人去点。
-- [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations) - 教一项任务（最多十分钟屏幕，不要麦克风），存成例行任务。
-- [Settings and notifications](https://docs.x.ai/grok-bot/settings-and-notifications) - 通知分组、手机提醒、卡住了怎么跟进。
-- [Approvals, security, and privacy](https://docs.x.ai/grok-bot/approvals-security-and-privacy) - Bot 看不见密码。不可逆操作和 2FA 要留人审。
-- [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - 团队市场、SSO、共用分析。
-- [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) - 重连、runner、常见 beta 故障。
-- [FAQ](https://docs.x.ai/grok-bot/faq) - 谁能用、电脑怎么共用、Bot 能记住什么。
-- [Getting started with Grok Bot](https://cursor.com/help/grok-bot/getting-started) - 第一个代理、iOS 侧栏分组、先重启再排障。
-- [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - 用 Cursor 账号。没有单独登录。
-- [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - SuperGrok Plus 和 Heavy。已经有 Ultra 再绑 Plus 不会叠额度。
-- [Grok Bot on mobile](https://cursor.com/help/grok-bot/mobile) - iOS 伴侣怎么跟云电脑上的 Bot 说话。
-- [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS 内购只有个人月付。绑 SuperGrok 还得在桌面做。
-- [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - 优先插件，没有再落到云浏览器。Zoom 桌面授权目前会报 4700。
-- [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 用密钥卡片。不要把 API key 贴进聊天。
-- [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - 聊天记录不在电脑里。重开能恢复同步文件。Reset 是最后一招。
-- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 付费 Cursor 和个人 Teams 含 Grok Bot。Lite 和 SuperGrok Team/Enterprise 没有。周额度会重置。
-- [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - 没有单独的 Grok Bot 账号。抹掉等于删 Cursor 账号，代理、聊天和电脑一起没。
-- [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - 官方 `.grok-plugin` 市场，Grok Bot 跟 Cursor 插件政策走。
-- [@bot 分享 Bot 模板](https://x.com/bot/status/2093376523919323618) - 官方 2026-08-28。可以把 Bot 模板分享给别人。
-- [@bot Grok Bot 能买东西](https://x.com/bot/status/2093419921007108385) - 官方 2026-08-28。接上 Stripe Link 就能代下单。
+268 条在 2026 年 8 月 30 日还能打开，这里还没人工导入核过。[catalog.json](catalog.json)
 
 ## 真人案例
 
-公开写过、真正跑过的。不是活动报名。账号上限 50 个 Bot，共用一台电脑。
+公开写过、真正跑过的。
 
 <p>
 <a href="https://www.youtube.com/watch?v=kAR91DlnCKQ"><img src="docs/screenshots/ray-fernando.jpg" alt="Ray Fernando 的 Clippy CTO" width="400"></a>
@@ -157,7 +118,7 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 
 ### 踩坑
 
-有官方确认或截图的。不是论坛全量倾销。
+有官方确认或截图的。
 
 - [Bot 不是安全边界](https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476) - 同一个账号下的 Bot 看见同一套登录和文件。
 - [常驻同事，不是话题标签](https://forum.cursor.com/t/grok-bots-as-always-on-workers-vs-topic-threads/168183) - Bot 是站着干活的同事，不是聊天分页。
@@ -171,7 +132,6 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 - [周额度会无提示溢到按需付费](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - 应用内没有警告。不想多花钱就把 On-Demand 上限设成 0。
 - [Gmail 插件 OAuth 坏了](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - 改从 Cursor 授权 Gmail。连接是共用的，等插件修好。
 - [Flocker 摸过一台真的 Bot 电脑](https://flocker.md/blog/grok-bot-roles-workspace-and-specs/) - 8 核、16 GB 内存、Debian KVM、无显卡、大约 120 GB 盘。
-
 - [刷新会抹掉 WhatsApp 已链接设备](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 刷新保留 `/workspace`、浏览器配置和 `~/.config`。不保留 `~/.local/state`，WhatsApp 链接会话会没。
 - [试用结束不会删东西](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - Bot 不再回。Computer 视图还能导出，直到你 Reset。
 - [Notion OAuth 报 Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - 登录记在账号上，重试没用。点 Re-authenticate，不要点 Connect。
@@ -187,6 +147,28 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 - [Drive 只管文件。正文要 Docs 和 Sheets](https://forum.cursor.com/t/grok-bot-drive-mcp-should-write-google-docs-body-and-sheet-cells-not-only-file-metadata/169971) - 要改文档或表格内容，用同一个 Google 账号再加 Docs 和 Sheets。
 - [白屏可能是 Cloudflare WARP](https://forum.cursor.com/t/blank-screen-after-opening-grok-bot/169966) - WARP 会拦去云电脑的流量。关掉或做分流。
 - [Phantom 插件每次新授权会开新钱包](https://forum.cursor.com/t/phantom-in-grok-bot-is-a-mess/169930) - 新授权造的是代理钱包，不是你自己的 Phantom。
+
+## 官方文档
+
+先看 [overview](https://docs.x.ai/grok-bot/overview)、[get started](https://docs.x.ai/grok-bot/get-started)、[plans](https://cursor.com/help/grok-bot/plans) 和 [FAQ](https://docs.x.ai/grok-bot/faq)。隔离按账号，不按 Bot。抹掉 Grok Bot 等于删 Cursor 账号。
+
+### 新闻
+
+- [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot)
+- [Included with more plans](https://x.ai/news/grok-bot-more-plans)
+- [Works with X](https://x.ai/news/grok-bot-and-x)
+
+### docs.x.ai
+
+[Overview](https://docs.x.ai/grok-bot/overview) · [Get started](https://docs.x.ai/grok-bot/get-started) · [Use cases](https://docs.x.ai/grok-bot/use-cases) · [iOS](https://docs.x.ai/grok-bot/mobile) · [Bots](https://docs.x.ai/grok-bot/bots) · [Chat](https://docs.x.ai/grok-bot/chat-and-collaboration) · [Files](https://docs.x.ai/grok-bot/files-and-results) · [Computer](https://docs.x.ai/grok-bot/computer-and-apps) · [Skills](https://docs.x.ai/grok-bot/skills-routines-and-automations) · [Settings](https://docs.x.ai/grok-bot/settings-and-notifications) · [Approvals](https://docs.x.ai/grok-bot/approvals-security-and-privacy) · [Teams](https://docs.x.ai/grok-bot/teams-and-enterprises) · [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) · [FAQ](https://docs.x.ai/grok-bot/faq)
+
+### Cursor 帮助
+
+[Getting started](https://cursor.com/help/grok-bot/getting-started) · [Sign in](https://cursor.com/help/grok-bot/sign-in) · [SuperGrok](https://cursor.com/help/grok-bot/supergrok-heavy) · [Mobile](https://cursor.com/help/grok-bot/mobile) · [iOS purchase](https://cursor.com/help/grok-bot/mobile-purchase) · [Plugins](https://cursor.com/help/grok-bot/connect-plugins) · [Secrets](https://cursor.com/help/grok-bot/secrets) · [Recover computer](https://cursor.com/help/grok-bot/computer-recovery) · [Plans](https://cursor.com/help/grok-bot/plans) · [Delete account](https://cursor.com/help/grok-bot/delete-account)
+
+Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不会叠额度。iOS 内购只有个人月付。
+
+[xAI 插件市场](https://github.com/xai-org/plugin-marketplace) · [@bot 分享模板](https://x.com/bot/status/2093376523919323618) · [@bot 能买东西](https://x.com/bot/status/2093419921007108385)
 
 ## 团队配方
 
@@ -490,11 +472,11 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 
 ## 技能和工具
 
-社区 GitHub。能 clone、能粘、能装。不是官方文档。
+社区 GitHub。能 clone、能粘、能装。
 
 ### Linux 笔记本客户端
 
-官方 Grok Bot 没有 Linux 笔记本 App。Bot 自己的电脑在云上，本来就是 Linux。下面只给自己电脑是 Linux 的人。
+没有官方 Linux 桌面端。Bot 云电脑本来就是 Linux。下面只给自己电脑是 Linux 的人。
 
 - [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - 整理 Cursor-CDN 上的 Linux `.deb` / `.rpm` / AppImage 地址和发行版打包。不托管安装包。
 
@@ -612,7 +594,7 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 
 ## 社区教程
 
-社区走法。官方页在官方文档。
+社区走法。
 
 - [How to Get Started with Grok Bot](https://debbie.codes/blog/how-to-get-started-with-grok-bot) - Debbie 的实地指南。第一个 Bot、参谋提示词、她怎么改编制。
 - [Grok Bot Masterclass](https://www.dailydoseofds.com/p/grok-bot-masterclass/) - Avi / Daily Dose。录一遍，收成技能，挂上例行任务。
@@ -653,4 +635,4 @@ PR 一条活的 `https://x.ai/bot/…` 链接、一条真人案例、或一个 G
 
 社区活分享画廊在 [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com)
 
-目录与配方采用 CC0。脚本采用 MIT。English: [README.md](README.md).
+目录与配方采用 CC0。脚本采用 MIT。英文在 [README.md](README.md)。

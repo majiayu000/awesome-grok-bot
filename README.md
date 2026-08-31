@@ -15,11 +15,11 @@
 ## Contents
 
 - [How to use](#how-to-use)
-- [Official docs](#official-docs)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)
   - [Computer-use jobs](#computer-use-jobs)
   - [Gotchas](#gotchas)
+- [Official docs](#official-docs)
 - [Team packs](#team-packs)
 - [Coding & shipping](#coding--shipping)
 - [Inbox & calendar](#inbox--calendar)
@@ -43,64 +43,25 @@
 
 ## How to use
 
-Install the official Grok Bot app on a Mac, a Windows PC, or an iPhone. Then open any live share and hit **Add to Grok Bot**.
+Install Grok Bot on a Mac, a Windows PC, or an iPhone. Open any live share and hit **Add to Grok Bot**.
 
 <p align="center">
   <img src="docs/screenshots/work.png" alt="A live share page. The black button is Add to Grok Bot." width="420">
 </p>
 
-That screenshot is one share among hundreds, not a recommended starter. Every live link on this page is the same button.
+A share copies the name, skills, routines, and first-party plugins. It does not copy the computer, files, logins, or API keys.
 
-Want to see a real run first? [Field cases](#field-cases) (two videos sit at the top of that section). Then pick any link below.
+Your bots share one cloud Linux computer (cap 50). That is not the app on your laptop. There is no official Linux desktop app. Linux laptops use [Linux laptop app](#linux-laptop-app).
 
-A share copies identity, description, selected memories, skills, routines, and first-party plugins by plugin id. It does not copy the computer, files, logins, API keys, custom MCP, scripts, or history. `verified: true` only after a maintainer imported one and ran a first safe task.
+Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/grok-bot/plans).
 
-Your bots share one managed Linux computer in the cloud. That computer is not the app on your laptop. Official apps are macOS, Windows, and iOS. There is no official Linux desktop app. If your own laptop is Linux, unofficial ports are under [Linux laptop app](#linux-laptop-app). Cap is 50 bots on that one shared computer.
+> Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
 
-> Community templates are untrusted third-party software. Adding one accepts Grok Bot third-party bot terms. Inspect the profile, connect one connector, try a read-only task, only then enable routines or writes. Never paste API keys into SETUP. Skills can fail to travel. See [SECURITY.md](SECURITY.md) and [docs/vetting.md](docs/vetting.md).
-
-These 268 were HTTP-checked live on 30 Aug 2026 and are still unverified.
-
-Machine-readable: [catalog.json](catalog.json).
-
-## Official docs
-
-Canonical product pages. The live shares sit below this.
-
-- [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note. Always-on agents with their own computer.
-- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - SuperGrok, Cursor Pro, and Cursor Teams.
-- [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - Connect X. Paid users get free API credits to search posts, timelines, and mentions.
-- [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - One named Bot, one shared cloud computer. Isolation is per user, not per Bot.
-- [Get started](https://docs.x.ai/grok-bot/get-started) - Install desktop, sign in with Cursor, create the first Bot. No official Linux desktop.
-- [Use cases](https://docs.x.ai/grok-bot/use-cases) - Official roster ideas. Sales nights, invoices, bug squash.
-- [Grok Bot for iOS](https://docs.x.ai/grok-bot/mobile) - Companion phone app. Bots keep running on the cloud machine.
-- [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - Naming, scope, and the public share link. Share copies identity, skills, and routines, not the computer or logins.
-- [Message and collaborate](https://docs.x.ai/grok-bot/chat-and-collaboration) - Bots message each other, join group chats, and assign work.
-- [Files and results](https://docs.x.ai/grok-bot/files-and-results) - Where artifacts live on the shared computer.
-- [Use the computer and apps](https://docs.x.ai/grok-bot/computer-and-apps) - Browser, filesystem, terminal. No clean API? Click the site like a person.
-- [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations) - Teach a task (up to 10 minutes of screen, no mic), save as a routine.
-- [Settings and notifications](https://docs.x.ai/grok-bot/settings-and-notifications) - Notification grouping, mobile alerts, follow-up on stalled work.
-- [Approvals, security, and privacy](https://docs.x.ai/grok-bot/approvals-security-and-privacy) - Bots do not see passwords. Draw the approval line on irreversible actions and 2FA.
-- [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - Team marketplace, SSO, shared analytics.
-- [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) - Reconnect, runners, common beta failures.
-- [FAQ](https://docs.x.ai/grok-bot/faq) - Access, computer sharing, and what Bots can remember.
-- [Getting started with Grok Bot](https://cursor.com/help/grok-bot/getting-started) - First-agent setup, iOS sidebar sections, restart-first troubleshooting.
-- [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - Uses the Cursor account. No separate login.
-- [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - SuperGrok Plus and Heavy. Linking Plus does not stack usage if you already have Ultra.
-- [Grok Bot on mobile](https://cursor.com/help/grok-bot/mobile) - How the iOS companion talks to Bots on the cloud computer.
-- [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS in-app purchase is monthly individual only. SuperGrok linking is still desktop.
-- [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Prefer a plugin, fall back to the cloud browser. Zoom desktop auth currently fails with error 4700.
-- [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - Use the secret card. Never paste API keys into chat.
-- [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - Chat history lives outside the box. Reopen restores synced files. Reset is last resort.
-- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - Paid Cursor plans and Teams include Grok Bot. Lite and SuperGrok Team/Enterprise cannot. Weekly usage resets.
-- [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - There is no separate Grok Bot account. Wiping it deletes the Cursor account plus agents, chats, and the computer.
-- [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - Official `.grok-plugin` marketplace Grok Bot inherits under Cursor plugin policy.
-- [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - Official 2026-08-28. You can share templates of your Bots.
-- [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - Official 2026-08-28. Connect Stripe Link and it can complete purchases.
+268 links were live on 30 Aug 2026. None have been imported and smoke-tested here. [catalog.json](catalog.json).
 
 ## Field cases
 
-Public writeups of a real run. Not a meetup list. Account cap is 50 Bots. They share one computer.
+Public writeups of a real run.
 
 <p>
 <a href="https://www.youtube.com/watch?v=kAR91DlnCKQ"><img src="docs/screenshots/ray-fernando.jpg" alt="Ray Fernando, Clippy CTO" width="400"></a>
@@ -157,7 +118,7 @@ Public writeups of a real run. Not a meetup list. Account cap is 50 Bots. They s
 
 ### Gotchas
 
-Staff-confirmed or screenshot-backed. Not a dump of every forum thread.
+Staff-confirmed or screenshot-backed.
 
 - [Bots are not a security boundary](https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476) - Every Bot on the account sees the same logins and files.
 - [Always-on workers vs topic threads](https://forum.cursor.com/t/grok-bots-as-always-on-workers-vs-topic-threads/168183) - A Bot is a standing coworker, not a chat tab.
@@ -171,7 +132,6 @@ Staff-confirmed or screenshot-backed. Not a dump of every forum thread.
 - [Weekly usage spills into On-Demand](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - No in-app warning. Set a $0 On-Demand cap if you want no paid spill.
 - [Gmail plugin OAuth is broken](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - Authorize Gmail from Cursor instead. The connection is shared until the plugin is fixed.
 - [Flocker dumps a live Bot computer](https://flocker.md/blog/grok-bot-roles-workspace-and-specs/) - They inspected a real Grok Bot VM: 8 vCPU, 16 GB RAM, Debian KVM, no GPU, about 120 GB disk.
-
 - [Refresh wipes WhatsApp linked-device](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - Refresh keeps `/workspace`, the browser profile, and `~/.config`. Not `~/.local/state`, so WhatsApp link sessions vanish.
 - [Trial end deletes nothing](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - Bots stop replying. Computer view still lets you export until you Reset.
 - [Notion OAuth Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - Sign-in is stored on the account, so retry fails. Re-authenticate (not Connect) clears it.
@@ -188,9 +148,31 @@ Staff-confirmed or screenshot-backed. Not a dump of every forum thread.
 - [Blank screen can be Cloudflare WARP](https://forum.cursor.com/t/blank-screen-after-opening-grok-bot/169966) - WARP can intercept traffic to the cloud computer. Turn it off or split-tunnel.
 - [Phantom plugin mints a new agent wallet](https://forum.cursor.com/t/phantom-in-grok-bot-is-a-mess/169930) - Each new auth creates a dedicated agent wallet, not your personal Phantom wallet.
 
+## Official docs
+
+Start with the [overview](https://docs.x.ai/grok-bot/overview), [get started](https://docs.x.ai/grok-bot/get-started), [plans](https://cursor.com/help/grok-bot/plans), and [FAQ](https://docs.x.ai/grok-bot/faq). Isolation is per user, not per Bot. Wiping Grok Bot deletes the Cursor account too.
+
+### News
+
+- [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot)
+- [Included with more plans](https://x.ai/news/grok-bot-more-plans)
+- [Works with X](https://x.ai/news/grok-bot-and-x)
+
+### docs.x.ai
+
+[Overview](https://docs.x.ai/grok-bot/overview) · [Get started](https://docs.x.ai/grok-bot/get-started) · [Use cases](https://docs.x.ai/grok-bot/use-cases) · [iOS](https://docs.x.ai/grok-bot/mobile) · [Bots](https://docs.x.ai/grok-bot/bots) · [Chat](https://docs.x.ai/grok-bot/chat-and-collaboration) · [Files](https://docs.x.ai/grok-bot/files-and-results) · [Computer](https://docs.x.ai/grok-bot/computer-and-apps) · [Skills](https://docs.x.ai/grok-bot/skills-routines-and-automations) · [Settings](https://docs.x.ai/grok-bot/settings-and-notifications) · [Approvals](https://docs.x.ai/grok-bot/approvals-security-and-privacy) · [Teams](https://docs.x.ai/grok-bot/teams-and-enterprises) · [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) · [FAQ](https://docs.x.ai/grok-bot/faq)
+
+### Cursor help
+
+[Getting started](https://cursor.com/help/grok-bot/getting-started) · [Sign in](https://cursor.com/help/grok-bot/sign-in) · [SuperGrok](https://cursor.com/help/grok-bot/supergrok-heavy) · [Mobile](https://cursor.com/help/grok-bot/mobile) · [iOS purchase](https://cursor.com/help/grok-bot/mobile-purchase) · [Plugins](https://cursor.com/help/grok-bot/connect-plugins) · [Secrets](https://cursor.com/help/grok-bot/secrets) · [Recover computer](https://cursor.com/help/grok-bot/computer-recovery) · [Plans](https://cursor.com/help/grok-bot/plans) · [Delete account](https://cursor.com/help/grok-bot/delete-account)
+
+Zoom desktop auth currently fails with error 4700. SuperGrok Plus does not stack usage on Ultra. iOS in-app purchase is monthly individual only.
+
+[xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) · [@bot share templates](https://x.com/bot/status/2093376523919323618) · [@bot can buy things](https://x.com/bot/status/2093419921007108385)
+
 ## Team packs
 
-One share = one bot. These recipes are how you assemble a roster.
+One share is one bot. Assemble the roster yourself.
 
 - [Work + Life two-door](packs/two-door-work-life.md)
 - [Chief of Staff + Fixer + specialists](packs/chief-of-staff.md)
@@ -490,11 +472,11 @@ One share = one bot. These recipes are how you assemble a roster.
 
 ## Skills and tools
 
-Community GitHub. Clone, paste, or install. Not official docs.
+Community GitHub. Clone, paste, or install.
 
 ### Linux laptop app
 
-There is no official Grok Bot app for Linux laptops. The Bot's own computer is already Linux, in the cloud. This line is only for people whose laptop is Linux.
+No official Linux desktop app. The Bot computer in the cloud is already Linux. This line is only if your laptop is Linux.
 
 - [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - Index of Cursor-CDN Linux `.deb` / `.rpm` / AppImage URLs and distro packaging. Does not host installers.
 
@@ -612,7 +594,7 @@ There is no official Grok Bot app for Linux laptops. The Bot's own computer is a
 
 ## Tutorials
 
-Community walkthroughs. Official pages sit under Official docs.
+Community walkthroughs.
 
 - [How to Get Started with Grok Bot](https://debbie.codes/blog/how-to-get-started-with-grok-bot) - Debbie's field guide. First Bot, CoS prompt, and how she reorganizes the roster.
 - [Grok Bot Masterclass](https://www.dailydoseofds.com/p/grok-bot-masterclass/) - Avi / Daily Dose. Record once, turn it into a skill, hang it on a routine.
