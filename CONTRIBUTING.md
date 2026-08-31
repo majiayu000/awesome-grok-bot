@@ -1,6 +1,6 @@
 # Contributing
 
-This repo is a catalog of **live** official Grok Bot share links, plus field cases and community GitHub tools. Official docs and meetup calendars already live at [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot). Prompt dumps belong elsewhere.
+This repo is a catalog of **live** official Grok Bot share links, plus field cases, official docs, gotchas, and community GitHub tools. Prompt dumps belong elsewhere. Meetup and Luma calendars do not belong here.
 
 Chinese or English PRs are both fine.
 
@@ -54,10 +54,10 @@ The Bot computer is already Linux. Official desktop apps are macOS, Windows, and
 
 A GitHub tool is a repo someone can clone, paste, or install today (skill pack, client, CLI, playbook, bridge). Empty, joke, or unmaintained repos do not belong unless they are the only useful thing in a class (for example the only WeChat bridge).
 
-Do not PR official xAI or Cursor docs, plan pages, App Store listings, or the official plugin marketplace. Do not PR meetup, Luma, or meeting-calendar links. Do not invent `https://x.ai/bot/…` URLs.
+Canonical `docs.x.ai/grok-bot` and `cursor.com/help/grok-bot` pages belong in Official docs. Do not PR App Store or Play Store listings. Do not PR meetup, Luma, or meeting-calendar links. Do not invent `https://x.ai/bot/…` URLs.
 
 PR title format: Add field case Name, or Add tool RepoName.
 
 ## Daily ingest
 
-Maintainers also sweep X, GitHub, and [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) daily and fold in new field cases and tools. A human or agent does that sweep. There is no Action that posts. The only GitHub Action here is lint (`node scripts/lint.mjs` on push and PR).
+Maintainers sweep X, GitHub, grokbot.dev, and public writeups daily and fold in new live shares, field cases, official docs, gotchas, and tools. A human or agent does that sweep. There is no Action that posts. The only GitHub Action here is lint (`node scripts/lint.mjs` on push and PR).

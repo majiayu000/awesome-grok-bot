@@ -15,6 +15,7 @@
 ## Contents
 
 - [How to use](#how-to-use)
+- [Official docs](#official-docs)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)
   - [Computer-use jobs](#computer-use-jobs)
@@ -61,6 +62,41 @@ Your bots share one managed Linux computer in the cloud. That computer is not th
 These 268 were HTTP-checked live on 30 Aug 2026 and are still unverified.
 
 Machine-readable: [catalog.json](catalog.json).
+
+## Official docs
+
+Canonical product pages. The live shares sit below this.
+
+- [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note. Always-on agents with their own computer.
+- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - SuperGrok, Cursor Pro, and Cursor Teams.
+- [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - Connect X. Paid users get free API credits to search posts, timelines, and mentions.
+- [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - One named Bot, one shared cloud computer. Isolation is per user, not per Bot.
+- [Get started](https://docs.x.ai/grok-bot/get-started) - Install desktop, sign in with Cursor, create the first Bot. No official Linux desktop.
+- [Use cases](https://docs.x.ai/grok-bot/use-cases) - Official roster ideas. Sales nights, invoices, bug squash.
+- [Grok Bot for iOS](https://docs.x.ai/grok-bot/mobile) - Companion phone app. Bots keep running on the cloud machine.
+- [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - Naming, scope, and the public share link. Share copies identity, skills, and routines, not the computer or logins.
+- [Message and collaborate](https://docs.x.ai/grok-bot/chat-and-collaboration) - Bots message each other, join group chats, and assign work.
+- [Files and results](https://docs.x.ai/grok-bot/files-and-results) - Where artifacts live on the shared computer.
+- [Use the computer and apps](https://docs.x.ai/grok-bot/computer-and-apps) - Browser, filesystem, terminal. No clean API? Click the site like a person.
+- [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations) - Teach a task (up to 10 minutes of screen, no mic), save as a routine.
+- [Settings and notifications](https://docs.x.ai/grok-bot/settings-and-notifications) - Notification grouping, mobile alerts, follow-up on stalled work.
+- [Approvals, security, and privacy](https://docs.x.ai/grok-bot/approvals-security-and-privacy) - Bots do not see passwords. Draw the approval line on irreversible actions and 2FA.
+- [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - Team marketplace, SSO, shared analytics.
+- [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) - Reconnect, runners, common beta failures.
+- [FAQ](https://docs.x.ai/grok-bot/faq) - Access, computer sharing, and what Bots can remember.
+- [Getting started with Grok Bot](https://cursor.com/help/grok-bot/getting-started) - First-agent setup, iOS sidebar sections, restart-first troubleshooting.
+- [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - Uses the Cursor account. No separate login.
+- [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - SuperGrok Plus and Heavy. Linking Plus does not stack usage if you already have Ultra.
+- [Grok Bot on mobile](https://cursor.com/help/grok-bot/mobile) - How the iOS companion talks to Bots on the cloud computer.
+- [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS in-app purchase is monthly individual only. SuperGrok linking is still desktop.
+- [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Prefer a plugin, fall back to the cloud browser. Zoom desktop auth currently fails with error 4700.
+- [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - Use the secret card. Never paste API keys into chat.
+- [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - Chat history lives outside the box. Reopen restores synced files. Reset is last resort.
+- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - Paid Cursor plans and Teams include Grok Bot. Lite and SuperGrok Team/Enterprise cannot. Weekly usage resets.
+- [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - There is no separate Grok Bot account. Wiping it deletes the Cursor account plus agents, chats, and the computer.
+- [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - Official `.grok-plugin` marketplace Grok Bot inherits under Cursor plugin policy.
+- [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - Official 2026-08-28. You can share templates of your Bots.
+- [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - Official 2026-08-28. Connect Stripe Link and it can complete purchases.
 
 ## Field cases
 
@@ -135,6 +171,22 @@ Staff-confirmed or screenshot-backed. Not a dump of every forum thread.
 - [Weekly usage spills into On-Demand](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - No in-app warning. Set a $0 On-Demand cap if you want no paid spill.
 - [Gmail plugin OAuth is broken](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - Authorize Gmail from Cursor instead. The connection is shared until the plugin is fixed.
 - [Flocker dumps a live Bot computer](https://flocker.md/blog/grok-bot-roles-workspace-and-specs/) - They inspected a real Grok Bot VM: 8 vCPU, 16 GB RAM, Debian KVM, no GPU, about 120 GB disk.
+
+- [Refresh wipes WhatsApp linked-device](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - Refresh keeps `/workspace`, the browser profile, and `~/.config`. Not `~/.local/state`, so WhatsApp link sessions vanish.
+- [Trial end deletes nothing](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - Bots stop replying. Computer view still lets you export until you Reset.
+- [Notion OAuth Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - Sign-in is stored on the account, so retry fails. Re-authenticate (not Connect) clears it.
+- [Grok Bot has Channels](https://forum.cursor.com/t/grok-bot-threads-ui-is-unusable-needs-a-slack-style-right-panel/168315) - Sidebar `+`, up to 6 bots per named space.
+- [Stuck Reconnecting can be local DNS](https://forum.cursor.com/t/grok-bot-desktop-on-macos-is-permanently-stuck-on-reconnecting-to-your-computer/169119) - The cloud computer can be healthy while traffic to `cursorvm.com` is dropped (VPN or firewall).
+- [Ask it to hand you the computer](https://forum.cursor.com/t/grok-bot-failed-to-open-its-computer-and-couldnt-recognize-the-issue/169179) - Login tasks should hand you the computer. Skip passkeys with Try another way.
+- [Cloud agents burn Cursor usage](https://forum.cursor.com/t/query-about-grok-bot-cursor-agent-usage-and-model-selection/169160) - Agents Grok Bot starts run in your Cursor account. Chat has a separate allowance.
+- [No compact. Full transcript each turn](https://forum.cursor.com/t/grok-bot-prune-compact-an-agent-s-context-without-creating-a-new-bot/168333) - Desktop and iOS have no Compact or same-bot new session. There is no model picker.
+- [Webhook URL is desktop-only](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - The POST URL and sender key appear on desktop, not iOS.
+- [Official X plugin auth is broken](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - Connect/refresh fails across desktop, Cloud Agents, and Grok Bot. No clean workaround.
+- [Grok Bot has no codebase plugin](https://forum.cursor.com/t/does-grokbot-not-have-access-to-my-cursor-codebase/169684) - It does not index your repo. Coding work is handed to a Cursor Cloud Agent on a GitHub-connected account.
+- [Custom connectors are added in chat](https://forum.cursor.com/t/grokbot-custom-connectors/169965) - No settings form. Tell the Bot to add a public HTTPS MCP. Localhost MCP on your PC is unreachable.
+- [Drive is file-level. Docs and Sheets edit content](https://forum.cursor.com/t/grok-bot-drive-mcp-should-write-google-docs-body-and-sheet-cells-not-only-file-metadata/169971) - Add Docs and Sheets connectors with the same Google account if you need in-place edits.
+- [Blank screen can be Cloudflare WARP](https://forum.cursor.com/t/blank-screen-after-opening-grok-bot/169966) - WARP can intercept traffic to the cloud computer. Turn it off or split-tunnel.
+- [Phantom plugin mints a new agent wallet](https://forum.cursor.com/t/phantom-in-grok-bot-is-a-mess/169930) - Each new auth creates a dedicated agent wallet, not your personal Phantom wallet.
 
 ## Team packs
 
@@ -518,6 +570,13 @@ There is no official Grok Bot app for Linux laptops. The Bot's own computer is a
 - [heavy-lift-cloud-agents](https://github.com/napiermd/heavy-lift-cloud-agents) - Skill that keeps Grok Bot as CoS and hands heavy work to Cursor CloudAgent or Grok Build.
 - [grokbot-peekaboo](https://github.com/bcharleson/grokbot-peekaboo) - Skill so a Bot drives registered Macs through Peekaboo for screen, shots, and UI input.
 
+- [grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - Japanese field handbook for named roles. Contracts, request templates, skill/routine flows, and handoff `.md` files.
+- [grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - Cloneable five-bot second-brain plan on one shared computer (Conductor, Capture, Memory, Ops, Research).
+- [grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - Community market of paste-in Grok Bot templates.
+- [grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - Outreach team pack. Named bots plus skills for prospecting and follow-up.
+- [nexfade-grok-plugin](https://github.com/NexFade/nexfade-grok-plugin) - Community `.grok-plugin` for wiring extra tools into a Bot.
+- [grok-bot-token-saver](https://github.com/Chakhdz/grok-bot-token-saver) - Skill that watches token spend and stops a Bot before the weekly pool is gone.
+
 ### Indexes
 
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory. Paste a listing into Grok Bot and it sets itself up.
@@ -553,13 +612,19 @@ There is no official Grok Bot app for Linux laptops. The Bot's own computer is a
 
 ## Tutorials
 
-Community walkthroughs. Not official docs.
+Community walkthroughs. Official pages sit under Official docs.
 
 - [How to Get Started with Grok Bot](https://debbie.codes/blog/how-to-get-started-with-grok-bot) - Debbie's field guide. First Bot, CoS prompt, and how she reorganizes the roster.
 - [Grok Bot Masterclass](https://www.dailydoseofds.com/p/grok-bot-masterclass/) - Avi / Daily Dose. Record once, turn it into a skill, hang it on a routine.
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes on the shared computer, skills to routines, share-as-template, and Stripe Link spend requests.
 - [Technocore Grok Bot (JA)](https://github.com/hariou/technocore-grokbot-ja) - Japanese guide for safely operating a Technocore DID on Grok Bot.
 - [Peter Yang: 5 Must-Try Use Cases](https://www.youtube.com/watch?v=MkVcHbviYOw) - Advisor, YouTube researcher, X scout, Gmail declutter, travel concierge.
+
+- [How to Set Up Grok Bot and Build Your First AI Agents](https://www.mindstudio.ai/blog/grok-bot-setup-guide) - Install-to-first-agent walkthrough. Heavy / Ultra / Teams gates called out.
+- [Grok Bot Explained](https://www.ayautomate.com/blog/grok-bot-xai-ai-agents-explained) - Explainer with a real iPhone screenshot of a Bot roster.
+- [Hand Off Real Work Across Your Apps](https://app.therundown.ai/guides/hand-off-real-work-across-your-apps-with-grok-bot) - The Rundown's how-to for handing multi-app jobs to a Bot.
+- [Connect Multiple Slack Workspaces](https://www.usecarly.com/blog/how-to-connect-multiple-slack-workspaces-to-grok-bot/) - Slack event wake-up is not the same as installing Grok Bot as a Slack App.
+- [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - Shared-computer isolation, plugin-then-browser tool order, Stripe Link approvals, and when Zapier or a coding agent is a better fit.
 
 See also [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) under Skill packs.
 
@@ -572,15 +637,20 @@ See also [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book)
 - [CellCog: Grok Bot pricing](https://cellcog.ai/blog/grok-bot-pricing/) - Living pricing note. Eight routes from Cursor Pro $20 / SuperGrok $30, unpublished weekly allowance.
 - [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - Cost and credential risk. One shared computer is not a security boundary.
 
+- [VentureBeat: persistent digital coworkers](https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month) - Launch read on always-on coworkers that operate your apps.
+- [Grok Bot vs OpenClaw vs ChatGPT](https://www.mindstudio.ai/blog/grok-bot-vs-openclaw-chatgpt) - Three-way comparison. Managed computer vs self-host vs chat.
+- [Grok Bot vs ChatGPT for work](https://www.eigent.ai/blog/grok-bot-vs-chatgpt-work) - Work-desk comparison, not a model bake-off.
+- [Grok Bot vs Claude Cowork](https://www.eigent.ai/blog/grok-bot-vs-claude-cowork) - Persistent Bot computer vs Claude Cowork sessions.
+- [10 Best Grok Bot Alternatives (2026)](https://www.vellum.ai/blog/best-grok-bot-alternatives) - Roundup of nearby products. Useful as a map, not a ranking.
+
 ## Contributing
 
 PR a live `https://x.ai/bot/…` URL, a field case, or a GitHub tool. One sentence. Run `node scripts/lint.mjs` if you touch the catalog. Details in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Do not invent share URLs. Do not paste another person's full standing instructions. Do not send official docs or meetup links.
+Do not invent share URLs. Do not paste another person's full standing instructions. Do not send meetup or Luma links.
 
 ## Related
 
-- Broader resource list (docs, meetups, failure modes): [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot)
-- Community galleries: [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com)
+Community galleries of live shares: [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com)
 
 Catalog and recipes CC0. Scripts MIT. Chinese: [README.zh-CN.md](README.zh-CN.md).
