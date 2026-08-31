@@ -445,6 +445,9 @@ Community GitHub. Clone, paste, or install. Not official docs.
 There is no official Grok Bot app for Linux laptops. The Bot's own computer is already Linux, in the cloud. This line is only for people whose laptop is Linux.
 
 - [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - Index of Cursor-CDN Linux `.deb` / `.rpm` / AppImage URLs and distro packaging. Does not host installers.
+- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux rebuild of the official Electron app (deb and AppImage). Not an xAI or Cursor product.
+- [ATLTuck/unofficial-grok-bot-arch-installer](https://github.com/ATLTuck/unofficial-grok-bot-arch-installer) - Turns the official Linux `.deb` into a native Arch/Manjaro pacman package.
+- [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - Unofficial Omarchy bar widget that launches the Linux client and can pull Cursor CDN AppImage updates.
 
 ### Local and study
 
@@ -458,6 +461,7 @@ There is no official Grok Bot app for Linux laptops. The Bot's own computer is a
 - [openbot](https://github.com/aaravarr/openbot) - Bring your own models to Grok Bot. Local control UI, with a switch back to stock behavior.
 - [Grok Ship](https://github.com/kunchenguid/grok-ship) - Turns a Bot into a software factory, with review before any PR.
 - [grok-bot-setup](https://github.com/BlockedPath/grok-bot-setup) - Adapters CLI and custom model provider bridges for DeepSeek, Claude, Grok, and OpenAI.
+- [grokbot2api](https://github.com/taowen/grokbot2api) - Local OpenAI-compatible proxy so Grok Build can call Cursor-hosted Grok models over undocumented inference protobuf.
 
 ### CLIs and SDKs
 
@@ -473,6 +477,8 @@ There is no official Grok Bot app for Linux laptops. The Bot's own computer is a
 - [grok-bot-usage](https://github.com/Kargatharaakash/grok-bot-usage) - Zero-dep `gbu` command that prints weekly Grok Bot usage and on-demand spend across Cursor accounts.
 - [coolify-cursor-plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify plugin that points Cursor or Grok Bot at `https://<instance>/mcp` so a bot can inspect servers, apps, deploys, and logs.
 - [grok-bot-mcp](https://github.com/Kargatharaakash/grok-bot-mcp) - Zero-dep MCP so Claude or Cursor can list, message, and read Grok Bot transcripts on the local gateway.
+- [Grok Usage Menu Bar](https://github.com/diegocp01/grok_bot_usage_menu_bar) - Native macOS menu-bar app for weekly Grok Bot allowance left and reset countdown.
+- [Convoy](https://github.com/Deploy-Forward/convoy) - Public MCP plus hop CLI. Grok Bot conducts; BYO harness CLIs do the hops.
 
 ### Chat bridges
 
@@ -484,6 +490,8 @@ There is no official Grok Bot app for Linux laptops. The Bot's own computer is a
 - [grokbot-cloudflare-inbox](https://github.com/ethanolivertroy/grokbot-cloudflare-inbox) - Self-hosted Grok Bot inbox on Cloudflare Workers, based on Agentic Inbox.
 - [grokbot-hermes-bridge](https://github.com/iamsupersocks/grokbot-hermes-bridge) - Self-hosted OAuth MCP gateway so Grok Bot can ask a local Hermes Agent through `hermes_ask` and `hermes_status`.
 - [grokbot-obsidian-bridge](https://github.com/iamsupersocks/grokbot-obsidian-bridge) - Fail-closed OAuth reverse proxy that exposes a loopback Obsidian MCP after owner approval.
+- [grokbot-discord](https://github.com/RudeDude/grokbot-discord) - Python Discord gateway. One Discord bot, many Grok Bots, webhook wake, async reply.
+- [Discord for Grok Bot](https://github.com/NinjaProtocol/grokbot-discord-plugin) - Paste-in Discord plugin. Mentions in allowlisted channels wake the Bot.
 
 ### Skill packs and playbooks
 
@@ -508,6 +516,10 @@ There is no official Grok Bot app for Linux laptops. The Bot's own computer is a
 - [learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - Unofficial 16-lesson course on the desktop-agent harness. Electron, turn loop, sandbox, MCP.
 - [PhoneZero](https://github.com/function1st/PhoneZero) - Paste-in Grok Bot skill that books a table by phone over Telnyx and xAI voice, plan-first then dial.
 - [tesla-fleet-mcp](https://github.com/supervised-nl/tesla-fleet-mcp) - Tesla Fleet MCP plus a .grok-plugin so a Bot can list cars and, with tesla-http-proxy, climate charge lock.
+- [grokbot-skills](https://github.com/jeremybrasher/grokbot-skills) - Scored skill shelf from awesome-claude-skills, licenses kept, only admitted folders ship.
+- [grokbot-x](https://github.com/YannisKiefer/grokbot-x) - Self-learning X growth kit. Scout gold, draft unslop, publish via Typefully, nightly SkillOpt.
+- [heavy-lift-cloud-agents](https://github.com/napiermd/heavy-lift-cloud-agents) - Skill that keeps Grok Bot as CoS and hands heavy work to Cursor CloudAgent or Grok Build.
+- [grokbot-peekaboo](https://github.com/bcharleson/grokbot-peekaboo) - Skill so a Bot drives registered Macs through Peekaboo for screen, shots, and UI input.
 
 ### Indexes
 
@@ -524,6 +536,7 @@ There is no official Grok Bot app for Linux laptops. The Bot's own computer is a
 - [orgbot-hub](https://github.com/AmitMirgal/orgbot-hub) - Directory app for installable team packs that use official x.ai/bot share URLs only.
 - [grokory](https://github.com/andrewkittridge/grokory) - Public ranked board of Grok Bot templates.
 - [awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - Community dump of live x.ai/bot share IDs, including several missing from grokbot.dev.
+- [0xNyk/awesome-grok-bot](https://github.com/0xNyk/awesome-grok-bot) - Independent directory of skills, plugins, MCP, and setup with maturity tags.
 
 ### Open-source alternatives
 

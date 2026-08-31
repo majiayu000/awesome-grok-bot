@@ -445,6 +445,9 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 官方 Grok Bot 没有 Linux 笔记本 App。Bot 自己的电脑在云上，本来就是 Linux。下面只给自己电脑是 Linux 的人。
 
 - [falser101/grok-bot-linux](https://github.com/falser101/grok-bot-linux) - 整理 Cursor-CDN 上的 Linux `.deb` / `.rpm` / AppImage 地址和发行版打包。不托管安装包。
+- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非官方 Ubuntu/Linux 重打包官方 Electron 应用（deb 和 AppImage）。不是 xAI 或 Cursor 产品。
+- [ATLTuck/unofficial-grok-bot-arch-installer](https://github.com/ATLTuck/unofficial-grok-bot-arch-installer) - 把官方 Linux `.deb` 做成 Arch/Manjaro 的 pacman 包。
+- [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非官方 Omarchy 栏插件，一键开 Linux 客户端，还能拉 Cursor CDN 的 AppImage 更新。
 
 ### 本地和研究
 
@@ -458,6 +461,7 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 - [openbot](https://github.com/aaravarr/openbot) - 给 Grok Bot 换自己的模型。本机控制界面，一键切回官方行为。
 - [Grok Ship](https://github.com/kunchenguid/grok-ship) - 把 Bot 变成软件工厂，PR 发出去之前先审。
 - [grok-bot-setup](https://github.com/BlockedPath/grok-bot-setup) - 适配器命令行，以及 DeepSeek、Claude、Grok、OpenAI 的自定义模型桥。
+- [grokbot2api](https://github.com/taowen/grokbot2api) - 本机 OpenAI 兼容代理，让 Grok Build 经未公开的 Cursor 推理 protobuf 调托管 Grok 模型。
 
 ### CLI 和 SDK
 
@@ -473,6 +477,8 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 - [grok-bot-usage](https://github.com/Kargatharaakash/grok-bot-usage) - 零依赖的 `gbu` 命令，一次列出多个 Cursor 账号的 Grok Bot 周用量和按需花费。
 - [coolify-cursor-plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify 官方插件，把 Cursor 或 Grok Bot 接到实例 `/mcp`，让机器人查看服务器、应用、发布和日志。
 - [grok-bot-mcp](https://github.com/Kargatharaakash/grok-bot-mcp) - 零依赖 MCP，让 Claude 或 Cursor 经本机网关列出、发消息、读 Grok Bot 对话。
+- [Grok Usage Menu Bar](https://github.com/diegocp01/grok_bot_usage_menu_bar) - 原生 macOS 菜单栏小工具，看每周 Grok Bot 余量和重置倒计时。
+- [Convoy](https://github.com/Deploy-Forward/convoy) - 公开 MCP 加 hop 命令行。Grok Bot 当指挥，自带的 harness CLI 去干活。
 
 ### 聊天桥
 
@@ -484,6 +490,8 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 - [grokbot-cloudflare-inbox](https://github.com/ethanolivertroy/grokbot-cloudflare-inbox) - 架在 Cloudflare Workers 上的自托管收件箱，基于 Agentic Inbox。
 - [grokbot-hermes-bridge](https://github.com/iamsupersocks/grokbot-hermes-bridge) - 自托管 OAuth MCP 网关，让 Grok Bot 用 `hermes_ask` 和 `hermes_status` 去问本机 Hermes Agent。
 - [grokbot-obsidian-bridge](https://github.com/iamsupersocks/grokbot-obsidian-bridge) - 默认失败关闭的 OAuth 反代，经主人批准后才把本机 Obsidian MCP 暴露给 Grok Bot。
+- [grokbot-discord](https://github.com/RudeDude/grokbot-discord) - Python Discord 网关。一个 Discord bot 管多个 Grok Bot，webhook 叫醒，异步回帖。
+- [Discord for Grok Bot](https://github.com/NinjaProtocol/grokbot-discord-plugin) - 可粘贴的 Discord 插件。白名单频道里的 @ 会叫醒 Bot。
 
 ### 技能包和玩法
 
@@ -508,6 +516,10 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 - [learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非官方十六课，讲桌面代理骨架。Electron、回合循环、沙盒、MCP。
 - [PhoneZero](https://github.com/function1st/PhoneZero) - 可粘进 Grok Bot 的技能。用 Telnyx 和 xAI 语音打电话订位，先给方案再拨。
 - [tesla-fleet-mcp](https://github.com/supervised-nl/tesla-fleet-mcp) - Tesla Fleet MCP 加 .grok-plugin，Bot 能列车辆，配 tesla-http-proxy 后还能空调、充电、锁车。
+- [grokbot-skills](https://github.com/jeremybrasher/grokbot-skills) - 从 awesome-claude-skills 打分收进的技能架，许可证保留，只有过关的文件夹上架。
+- [grokbot-x](https://github.com/YannisKiefer/grokbot-x) - 自学习的 X 增长套件。找金帖、像人一样起草、经 Typefully 发，夜里 SkillOpt。
+- [heavy-lift-cloud-agents](https://github.com/napiermd/heavy-lift-cloud-agents) - 技能包。Grok Bot 当参谋长，重活交给 Cursor CloudAgent 或 Grok Build。
+- [grokbot-peekaboo](https://github.com/bcharleson/grokbot-peekaboo) - 技能。让 Bot 经 Peekaboo 开已注册 Mac 的屏幕、截图和 UI 输入。
 
 ### 索引
 
@@ -524,6 +536,7 @@ Bot 跑在云上托管的 Linux 电脑里。那不是你桌上的 App。官方 A
 - [orgbot-hub](https://github.com/AmitMirgal/orgbot-hub) - 团队包目录应用，只收官方 `https://x.ai/bot/…` 分享。
 - [grokory](https://github.com/andrewkittridge/grokory) - 公开的 Grok Bot 模板排行板。
 - [awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - 社区收的活 x.ai/bot 分享 ID，里面有几条 grokbot.dev 上没有。
+- [0xNyk/awesome-grok-bot](https://github.com/0xNyk/awesome-grok-bot) - 独立目录。技能、插件、MCP 和起步指南，带成熟度标签。
 
 ### 开源替代
 
