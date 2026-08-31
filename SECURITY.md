@@ -8,7 +8,7 @@ All bots on one account share one computer (files, browser sessions, logins). Do
 
 1. Inspect the profile and standing instructions.
 2. Connect one connector.
-3. Run the listed read-only first_safe_task.
+3. Run the featured template's first safe task when one is listed; otherwise choose a harmless read-only task.
 4. Only then enable routines or writes.
 
 Never paste API keys into SETUP. Reconnect plugins yourself. A share copies first-party marketplace plugins by plugin id, not your credentials.

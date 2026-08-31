@@ -4,13 +4,15 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![CC0](https://img.shields.io/badge/catalog-CC0-lightgrey.svg)](LICENSE-CC0)
 [![MIT](https://img.shields.io/badge/scripts-MIT-blue.svg)](LICENSE-MIT)
-[![GitHub stars](https://img.shields.io/github/stars/majiayu000/awesome-grok-bot?style=social)](https://github.com/majiayu000/awesome-grok-bot/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/majiayu000/awesome-grok-bot?style=social)](https://github.com/majiayu000/awesome-grok-bot)
 [![GitHub last commit](https://img.shields.io/github/last-commit/majiayu000/awesome-grok-bot)](https://github.com/majiayu000/awesome-grok-bot/commits/main)
 [![Live shares](https://img.shields.io/badge/x.ai%2Fbot-live%20shares-black.svg)](catalog.json)
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 可直接添加的官方分享链接，外加别人怎么用的真人记录。
+> 社区维护的 Grok Bot 公开分享索引。这里不是 Grok Bot 源码，也不是安装器。
+
+[Grok Bot](https://docs.x.ai/grok-bot/overview) 是一款让具名 AI 队友在共用云电脑上持续工作的应用。这个仓库帮你找到公开 Bot 配置，先在 `x.ai` 预览，再添加到自己的账号。
 
 ## 目录
 
@@ -43,7 +45,7 @@
 
 ## 怎么用
 
-在 Mac、Windows 或 iPhone 上装官方 Grok Bot。打开任意一条活分享，点 **Add to Grok Bot**。
+先在 Mac、Windows 或 iPhone 上[安装 Grok Bot](https://docs.x.ai/grok-bot/get-started)。打开一条分享，点 **Add to Grok Bot**。
 
 <p align="center">
   <img src="docs/screenshots/work.png" alt="一条活分享页。黑色按钮是 Add to Grok Bot。" width="420">
@@ -57,7 +59,23 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 > 社区分享是不可信的第三方软件。先看 profile，只接一个连接器，先跑只读任务，再开写入。不要把 API key 写进 SETUP。见 [SECURITY.md](SECURITY.md)。
 
-268 条在 2026 年 8 月 30 日还能打开，这里还没人工导入核过。[catalog.json](catalog.json)
+2026 年 8 月 31 日检查时，268 个分享页全部返回 HTTP 200。这只能证明页面能打开，不能证明 Bot 安全或能按描述工作。[catalog.json](catalog.json) 中的 `verified: true` 表示维护者已经导入并完成一次安全的首次任务。
+
+### 按工作类型找
+
+| 分类 | 收录数 |
+| --- | ---: |
+| [Coding & shipping](#coding--shipping) | 34 |
+| [Inbox & calendar](#inbox--calendar) | 20 |
+| [Research & briefings](#research--briefings) | 34 |
+| [Customer & sales](#customer--sales) | 20 |
+| [Finance & ops](#finance--ops) | 28 |
+| [Content & publishing](#content--publishing) | 47 |
+| [Personal admin](#personal-admin) | 41 |
+| [Teams & handoffs](#teams--handoffs) | 44 |
+| **合计** | **268** |
+
+当前核验状态：**0 条已核验 / 268 条已收录**。
 
 ## 真人案例
 

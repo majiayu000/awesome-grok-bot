@@ -10,6 +10,7 @@
   "import": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
   "source": "https://x.com/SawyerMerritt/status/2093384986162352495",
   "related": "https://grokbot.dev/bots/home-robots",
+  "mcp_custom": true,
   "category": "personal-admin",
   "tags": [
     "home",

@@ -1,6 +1,6 @@
 # Contributing
 
-This repo is a catalog of **live** official Grok Bot share links, plus field cases, official docs, gotchas, and community GitHub tools. Prompt dumps belong elsewhere. Meetup and Luma calendars do not belong here.
+This repo is a catalog of public Grok Bot share pages that were reachable when added, plus field cases, official docs, gotchas, and community GitHub tools. A reachable page is not a behavior verification. Prompt dumps belong elsewhere. Meetup and Luma calendars do not belong here.
 
 Chinese or English PRs are both fine.
 
@@ -12,7 +12,7 @@ PR a live `https://x.ai/bot/…` URL, a one-sentence summary, and a category.
 2. Append a matching object to `catalog.json` `entries`.
 3. Add one line to `README.md` and `README.zh-CN.md`.
 4. PROFILE.md / SETUP.md only if you have extra setup notes (featured style). Then also add `templates/<kebab-slug>/entry.json` that deep-equals the catalog object.
-5. Run `node scripts/lint.mjs`. It must print `OK N entries`.
+5. Run `node scripts/lint.mjs`. It checks the schema and the exact English/Chinese README projection, and must print `OK N entries`.
 6. Open a PR.
 
 PR title format: Add BotName. Do not start the title with Add Awesome.
@@ -28,7 +28,7 @@ Do not submit unpublished bots. `import` must be a live share link. Do not inven
 
 ## verified
 
-`verified: true` only after a maintainer imported the share and ran a first safe task. Submitters leave it false.
+`verified: true` only after a maintainer imported the share and ran a documented safe first task. Submitters leave it false.
 
 Skills can fail to travel (preview shows them, export ships `skills: []`).
 

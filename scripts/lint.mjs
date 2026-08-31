@@ -4,28 +4,20 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const CATEGORIES = new Set([
-  "coding-shipping",
-  "inbox-calendar",
-  "research-briefings",
-  "customer-sales",
-  "finance-ops",
-  "content-publishing",
-  "personal-admin",
-  "teams-handoffs",
-]);
-const REQUIRED = [
-  "slug",
-  "name",
-  "author",
-  "summary",
-  "import",
-  "tags",
-  "category",
-  "license",
-  "verified",
-  "updated",
-];
+const entrySchema = JSON.parse(readFileSync(join(root, "schema", "entry.schema.json"), "utf8"));
+const CATEGORY_META = {
+  "coding-shipping": { heading: "Coding & shipping", anchor: "coding--shipping" },
+  "inbox-calendar": { heading: "Inbox & calendar", anchor: "inbox--calendar" },
+  "research-briefings": { heading: "Research & briefings", anchor: "research--briefings" },
+  "customer-sales": { heading: "Customer & sales", anchor: "customer--sales" },
+  "finance-ops": { heading: "Finance & ops", anchor: "finance--ops" },
+  "content-publishing": { heading: "Content & publishing", anchor: "content--publishing" },
+  "personal-admin": { heading: "Personal admin", anchor: "personal-admin" },
+  "teams-handoffs": { heading: "Teams & handoffs", anchor: "teams--handoffs" },
+};
+for (const category of entrySchema.properties.category.enum) {
+  if (!CATEGORY_META[category]) throw new Error(`Missing README metadata for category: ${category}`);
+}
 const SECRET_RES = [
   /ghp_[A-Za-z0-9]{20,}/,
   /sk-[A-Za-z0-9]{20,}/,
@@ -34,13 +26,42 @@ const SECRET_RES = [
   /api[_-]?key\s*=/i,
 ];
 const PRIVATE_HOST = /\b(localhost|127\.0\.0\.1|10\.\d+\.\d+\.\d+|192\.168\.\d+\.\d+)\b/i;
-const DATE = /^\d{4}-\d{2}-\d{2}$/;
-const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
-const IMPORT = /^https:\/\/x\.ai\/bot\/[A-Za-z0-9_-]+$/;
-
 function fail(msg) {
   console.error(msg);
   process.exit(1);
+}
+
+function validateSchema(value, schema, label) {
+  const actualType = Array.isArray(value) ? "array" : value === null ? "null" : typeof value;
+  if (schema.type && actualType !== schema.type) {
+    fail(`${label}: expected ${schema.type}, got ${actualType}`);
+  }
+  if (schema.enum && !schema.enum.includes(value)) {
+    fail(`${label}: must be one of ${schema.enum.join(", ")}`);
+  }
+  if (typeof value === "string") {
+    if (schema.minLength != null && value.length < schema.minLength) fail(`${label}: too short`);
+    if (schema.maxLength != null && value.length > schema.maxLength) fail(`${label}: too long`);
+    if (schema.pattern && !new RegExp(schema.pattern).test(value)) fail(`${label}: bad format`);
+  }
+  if (Array.isArray(value)) {
+    if (schema.minItems != null && value.length < schema.minItems) fail(`${label}: too few items`);
+    if (schema.maxItems != null && value.length > schema.maxItems) fail(`${label}: too many items`);
+    if (schema.items) value.forEach((item, index) => validateSchema(item, schema.items, `${label}[${index}]`));
+  }
+  if (actualType === "object") {
+    for (const key of schema.required || []) {
+      if (!(key in value)) fail(`${label}: missing ${key}`);
+    }
+    if (schema.additionalProperties === false) {
+      for (const key of Object.keys(value)) {
+        if (!(key in (schema.properties || {}))) fail(`${label}: unexpected ${key}`);
+      }
+    }
+    for (const [key, child] of Object.entries(schema.properties || {})) {
+      if (key in value) validateSchema(value[key], child, `${label}.${key}`);
+    }
+  }
 }
 
 function readJson(path) {
@@ -69,37 +90,29 @@ function walkFiles(dir, acc = []) {
 }
 
 function checkEntry(entry, label) {
-  for (const key of REQUIRED) {
-    if (!(key in entry) || entry[key] === "" || entry[key] == null) {
-      fail(`${label}: missing ${key}`);
-    }
-  }
-  if (!SLUG.test(entry.slug) || entry.slug.startsWith("_")) {
-    fail(`${label}: bad slug ${entry.slug}`);
-  }
-  if (!entry.author || typeof entry.author.name !== "string" || !entry.author.name) {
-    fail(`${label}: author.name required`);
-  }
-  if (typeof entry.summary !== "string" || entry.summary.length < 1 || entry.summary.length > 160) {
-    fail(`${label}: summary must be 1–160 chars`);
-  }
-  if ("summary_zh" in entry) {
-    if (typeof entry.summary_zh !== "string" || entry.summary_zh.length < 1 || entry.summary_zh.length > 160) {
-      fail(`${label}: summary_zh must be 1–160 chars`);
-    }
-  }
-  if (!CATEGORIES.has(entry.category)) fail(`${label}: bad category ${entry.category}`);
-  if (!DATE.test(entry.updated)) fail(`${label}: updated must be YYYY-MM-DD`);
-  if (typeof entry.verified !== "boolean") fail(`${label}: verified must be boolean`);
-  if (!Array.isArray(entry.tags) || entry.tags.length < 1) fail(`${label}: tags must be an array of strings`);
-  for (const t of entry.tags) {
-    if (typeof t !== "string" || !t) fail(`${label}: tags must be an array of strings`);
-  }
-  if (!IMPORT.test(entry.import)) fail(`${label}: import must be https://x.ai/bot/…`);
+  validateSchema(entry, entrySchema, label);
   for (const urlField of ["import", "demo", "source", "related"]) {
     const value = entry[urlField] || "";
     if (value && PRIVATE_HOST.test(value)) fail(`${label}: ${urlField} is a private host`);
   }
+}
+
+function punctuate(text) {
+  return /[.!?。！？]$/.test(text) ? text : `${text}.`;
+}
+
+function expectedReadmeLine(entry, readmeName) {
+  const chinese = readmeName === "README.zh-CN.md";
+  const summary = entry[chinese ? "summary_zh" : "summary"];
+  if (!summary) fail(`${readmeName}: ${entry.slug} is missing ${chinese ? "summary_zh" : "summary"}`);
+  const author = entry.author.url
+    ? `[${entry.author.name}](${entry.author.url})`
+    : entry.author.name;
+  const hasTemplate = slugsOnDisk.includes(entry.slug);
+  const notes = hasTemplate
+    ? ` ${chinese ? "说明" : "Notes"}: [templates/${entry.slug}](templates/${entry.slug}/).`
+    : "";
+  return `- [${entry.name}](${entry.import}) - ${punctuate(summary)} ${author}.${notes}`;
 }
 
 const catalogPath = join(root, "catalog.json");
@@ -165,11 +178,37 @@ for (const slug of slugsOnDisk) {
 
 for (const readmeName of ["README.md", "README.zh-CN.md"]) {
   const text = readFileSync(join(root, readmeName), "utf8");
+  const lines = text.split("\n");
   for (const entry of catalog.entries) {
-    if (!text.includes(entry.import)) {
-      fail(`${readmeName} missing import ${entry.import} (${entry.slug})`);
+    const matches = lines
+      .map((line, index) => ({ line, index }))
+      .filter(({ line }) => line.startsWith("- [") && line.includes(`](${entry.import}) - `));
+    if (matches.length !== 1) {
+      fail(`${readmeName}: expected one catalog line for ${entry.slug}, found ${matches.length}`);
+    }
+    const expected = expectedReadmeLine(entry, readmeName);
+    if (matches[0].line !== expected) {
+      fail(`${readmeName}:${matches[0].index + 1}: catalog line does not match ${entry.slug}`);
+    }
+    const section = lines
+      .slice(0, matches[0].index + 1)
+      .reverse()
+      .find((line) => line.startsWith("## "));
+    if (section !== `## ${CATEGORY_META[entry.category].heading}`) {
+      fail(`${readmeName}:${matches[0].index + 1}: ${entry.slug} is under the wrong category`);
     }
   }
+
+  for (const [category, meta] of Object.entries(CATEGORY_META)) {
+    const count = catalog.entries.filter((entry) => entry.category === category).length;
+    const row = `| [${meta.heading}](#${meta.anchor}) | ${count} |`;
+    if (!text.includes(row)) fail(`${readmeName}: missing or stale category row: ${row}`);
+  }
+  const verified = catalog.entries.filter((entry) => entry.verified).length;
+  const status = readmeName === "README.md"
+    ? `**${verified} verified / ${catalog.entries.length} listed**`
+    : `**${verified} 条已核验 / ${catalog.entries.length} 条已收录**`;
+  if (!text.includes(status)) fail(`${readmeName}: missing or stale review status: ${status}`);
 }
 
 console.log(`OK ${catalog.entries.length} entries`);

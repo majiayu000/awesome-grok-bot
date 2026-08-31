@@ -9,7 +9,7 @@ Community templates are untrusted third-party software. A share link is public. 
 3. Inspect the imported profile against this repo's PROFILE.md paraphrase. If they disagree, trust the live bot and open an issue.
 4. Connect **one** connector.
 5. Inspect skills. Preview can show skills while the export ships `skills: []` (forum 169911).
-6. Run the listed `first_safe_task` read-only.
+6. If a featured template lists a first safe task, run it read-only. Otherwise choose a harmless read-only task that fits the Bot's job.
 7. Only then enable routines or writes.
 8. Do not paste API keys into SETUP. Reconnect plugins yourself.
 
@@ -24,4 +24,4 @@ Do not leave an hourly routine on after a trial unless you meant to.
 
 ## verified
 
-`verified: true` only after a maintainer imported the share and ran the listed first safe task. Rows in the README without that flag are live links we have not yet run.
+`verified: true` only after a maintainer imported the share and ran a documented safe first task. Rows in the README without that flag are reachable share pages we have not yet run.

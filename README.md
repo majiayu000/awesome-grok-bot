@@ -4,13 +4,15 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![CC0](https://img.shields.io/badge/catalog-CC0-lightgrey.svg)](LICENSE-CC0)
 [![MIT](https://img.shields.io/badge/scripts-MIT-blue.svg)](LICENSE-MIT)
-[![GitHub stars](https://img.shields.io/github/stars/majiayu000/awesome-grok-bot?style=social)](https://github.com/majiayu000/awesome-grok-bot/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/majiayu000/awesome-grok-bot?style=social)](https://github.com/majiayu000/awesome-grok-bot)
 [![GitHub last commit](https://img.shields.io/github/last-commit/majiayu000/awesome-grok-bot)](https://github.com/majiayu000/awesome-grok-bot/commits/main)
 [![Live shares](https://img.shields.io/badge/x.ai%2Fbot-live%20shares-black.svg)](catalog.json)
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> Live `x.ai/bot` shares you can Add, plus writeups of how people actually run them.
+> A community-maintained index of public Grok Bot shares. This is not the Grok Bot source code or an installer.
+
+[Grok Bot](https://docs.x.ai/grok-bot/overview) is an app for persistent, named AI teammates that work through a shared cloud computer. This repo helps you find public Bot configurations to preview on `x.ai` and add to your own account.
 
 ## Contents
 
@@ -43,7 +45,7 @@
 
 ## How to use
 
-Install Grok Bot on a Mac, a Windows PC, or an iPhone. Open any live share and hit **Add to Grok Bot**.
+[Install Grok Bot](https://docs.x.ai/grok-bot/get-started) on a Mac, a Windows PC, or an iPhone. Open a share and hit **Add to Grok Bot**.
 
 <p align="center">
   <img src="docs/screenshots/work.png" alt="A live share page. The black button is Add to Grok Bot." width="420">
@@ -57,7 +59,23 @@ Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/
 
 > Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
 
-268 links were live on 30 Aug 2026. None have been imported and smoke-tested here. [catalog.json](catalog.json).
+All 268 share pages returned HTTP 200 on 31 Aug 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
+
+### Browse by job
+
+| Category | Listed |
+| --- | ---: |
+| [Coding & shipping](#coding--shipping) | 34 |
+| [Inbox & calendar](#inbox--calendar) | 20 |
+| [Research & briefings](#research--briefings) | 34 |
+| [Customer & sales](#customer--sales) | 20 |
+| [Finance & ops](#finance--ops) | 28 |
+| [Content & publishing](#content--publishing) | 47 |
+| [Personal admin](#personal-admin) | 41 |
+| [Teams & handoffs](#teams--handoffs) | 44 |
+| **Total** | **268** |
+
+Current review status: **0 verified / 268 listed**.
 
 ## Field cases
 
