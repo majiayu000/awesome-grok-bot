@@ -48,7 +48,7 @@
 先在 Mac、Windows 或 iPhone 上[安装 Grok Bot](https://docs.x.ai/grok-bot/get-started)。打开一条分享，点 **Add to Grok Bot**。
 
 <p align="center">
-  <img src="docs/screenshots/work.png" alt="一条活分享页。黑色按钮是 Add to Grok Bot。" width="420">
+  <img src="docs/screenshots/add-button.png" alt="一条活分享页。黑色按钮是 Add to Grok Bot。" width="420">
 </p>
 
 分享会带上名字、技能、例行任务和官方市场插件。不会带上电脑、文件、登录或 API key。

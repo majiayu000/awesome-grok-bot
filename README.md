@@ -48,7 +48,7 @@
 [Install Grok Bot](https://docs.x.ai/grok-bot/get-started) on a Mac, a Windows PC, or an iPhone. Open a share and hit **Add to Grok Bot**.
 
 <p align="center">
-  <img src="docs/screenshots/work.png" alt="A live share page. The black button is Add to Grok Bot." width="420">
+  <img src="docs/screenshots/add-button.png" alt="A live share page. The black button is Add to Grok Bot." width="420">
 </p>
 
 A share copies the name, skills, routines, and first-party plugins. It does not copy the computer, files, logins, or API keys.
