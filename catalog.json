@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01",
+  "generated": "2026-09-02",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -23,6 +23,74 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "2nd-brain",
+      "name": "2nd Brain",
+      "author": {
+        "name": "LeTerryBZH",
+        "url": "https://x.com/LeTerryBZH"
+      },
+      "summary": "Distils everything you read into a linked wiki that answers your questions",
+      "summary_zh": "把你读过的东西收成可问答的链接维基。",
+      "import": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+      "source": "https://x.com/LeTerryBZH/status/2094616823803314592",
+      "related": "https://grokbot.dev/marketplace/2nd-brain/",
+      "category": "research-briefings",
+      "tags": [
+        "wiki",
+        "knowledge",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "4-panez",
+      "name": "4 Panez",
+      "author": {
+        "name": "Knock",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Turns one scene idea into a wide panorama sliced into four swipeable panels",
+      "summary_zh": "把一个场景创意铺成宽幅全景，再切成四张可滑动的分格。",
+      "import": "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d",
+      "source": "https://x.com/SuddenlyJon/status/2094179990782759104",
+      "related": "https://grokbot.dev/marketplace/4-panez/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "content",
+        "design",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "action-loop",
+      "name": "Action Loop",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "For anyone who ships once and then stalls, waiting to feel ready",
+      "summary_zh": "给那种发一次就停摆、总在等「准备好」的人。",
+      "import": "https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM",
+      "source": "https://x.com/thekuchh/status/2094103820687303057",
+      "related": "https://grokbot.dev/marketplace/action-loop/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity",
+        "decision-support",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "adaptlypost",
@@ -108,6 +176,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "ae-deal-bot",
+      "name": "AE deal bot",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Grades your open opportunities against MEDDPICC and names the next move to make",
+      "summary_zh": "按 MEDDPICC 给在谈的单打分，并指出下一步。",
+      "import": "https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe",
+      "source": "https://x.com/scottxmetcalf/status/2094802082750673227",
+      "related": "https://grokbot.dev/marketplace/ae-deal-bot/",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "meddpicc",
+        "deals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "agent-looper",
@@ -408,6 +498,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "austin-parent",
+      "name": "Austin Parent",
+      "author": {
+        "name": "Chad",
+        "url": "https://x.com/ChadWittman"
+      },
+      "summary": "A household chief of staff for families raising kids in Austin",
+      "summary_zh": "给奥斯汀带娃的家庭当家务总管。",
+      "import": "https://x.ai/bot/7yCzCeGQTMD6oNKSPcFqj",
+      "source": "https://x.com/ChadWittman/status/2094168314842935637",
+      "related": "https://grokbot.dev/marketplace/austin-parent/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity",
+        "family",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "bandit",
       "name": "Bandit",
       "author": {
@@ -448,6 +561,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "beatrix-kiddo",
+      "name": "Beatrix Kiddo",
+      "author": {
+        "name": "liam_fallen",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Watches your deliveries and speaks up the moment one stops moving",
+      "summary_zh": "盯着物流，包裹一停就提醒你。",
+      "import": "https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk",
+      "source": "https://x.com/liam_fallen/status/2094782517794529780",
+      "related": "https://grokbot.dev/marketplace/beatrix-kiddo/",
+      "category": "finance-ops",
+      "tags": [
+        "logistics",
+        "ops",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "best-video-editor",
@@ -512,6 +647,52 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "blockchain-data-expert",
+      "name": "Blockchain Data Expert",
+      "author": {
+        "name": "Derek",
+        "url": "https://x.com/data_nexus"
+      },
+      "summary": "Answers on-chain questions by querying The Graph's subgraphs directly",
+      "summary_zh": "直接查询 The Graph 子图，回答链上数据问题。",
+      "import": "https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx",
+      "source": "https://x.com/data_nexus/status/2094265024227192946",
+      "related": "https://grokbot.dev/marketplace/blockchain-data-expert/",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "crypto",
+        "data",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "blunt",
+      "name": "Blunt",
+      "author": {
+        "name": "Tal",
+        "url": "https://x.com/Talsiach"
+      },
+      "summary": "Paste a landing page address and get a senior marketer's unvarnished critique",
+      "summary_zh": "贴一个落地页地址，收到资深营销人毫不客气的点评。",
+      "import": "https://x.ai/bot/N0J32FbnVRuetJi1oJggh",
+      "source": "https://x.com/Talsiach/status/2094408059657326944",
+      "related": "https://grokbot.dev/marketplace/blunt/",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "business",
+        "growth",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "bodyguard",
@@ -600,6 +781,25 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "botoshi",
+      "name": "BOTOSHI",
+      "author": {
+        "name": "BOTCOIN",
+        "url": "https://x.com/MineBotcoin"
+      },
+      "summary": "Zero ETH BOTCOIN mining rig onboarding miner",
+      "summary_zh": "零 ETH 的 BOTCOIN 挖矿装置，带新矿工上手。",
+      "import": "https://x.ai/bot/29XazZFrrsJyI8LUnExDD",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "onboarding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "botsi-archivist",
       "name": "Botsi Archivist",
       "author": {
@@ -620,6 +820,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "bouncer",
+      "name": "Bouncer",
+      "author": {
+        "name": "Brad",
+        "url": "https://x.com/bradshannon"
+      },
+      "summary": "Vets another bot's share link before you let it into your fleet",
+      "summary_zh": "在把别的 Bot 放进你的舰队前，先把它的分享链接审一遍。",
+      "import": "https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE",
+      "source": "https://x.com/bradshannon/status/2094260531305578886",
+      "related": "https://grokbot.dev/marketplace/bouncer/",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal",
+        "developer",
+        "decision-support",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "bounty-hunter",
@@ -703,6 +926,25 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "butterbot",
+      "name": "ButterBot",
+      "author": {
+        "name": "Gabriele",
+        "url": "https://x.com/GabrieleMonni"
+      },
+      "summary": "Passes butter after each message",
+      "summary_zh": "每收到一条消息，就递一次黄油。",
+      "import": "https://x.ai/bot/h1tW8jfXzQIraT-_jNDjJ",
+      "category": "personal-admin",
+      "tags": [
+        "fun",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "canvas",
@@ -876,6 +1118,51 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "chief-growth-coach",
+      "name": "Chief (growth coach)",
+      "author": {
+        "name": "rafdotworks",
+        "url": "https://x.com/rafdotworks"
+      },
+      "summary": "A quiet daily check-in that keeps you to one habit at a time",
+      "summary_zh": "每天一次安静打卡，一次只盯一个习惯。",
+      "import": "https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx",
+      "source": "https://x.com/rafdotworks/status/2094791003760730132",
+      "related": "https://grokbot.dev/marketplace/chief-growth-coach/",
+      "category": "personal-admin",
+      "tags": [
+        "habits",
+        "wellbeing",
+        "coaching"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "chief-health",
+      "name": "Chief Health",
+      "author": {
+        "name": "AJAC",
+        "url": "https://x.com/AJA_Cortes"
+      },
+      "summary": "A daily check-in that keeps a training week on track when a session slips",
+      "summary_zh": "每天签到，一次训练掉链子也能把整周计划拉回正轨。",
+      "import": "https://x.ai/bot/6MHDA-LzErngNoRBaktLZ",
+      "source": "https://x.com/AJA_Cortes/status/2094144047073907019",
+      "related": "https://grokbot.dev/marketplace/chief-health/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health",
+        "wellbeing",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "chief-of-staff-aryaman",
       "name": "Chief of Staff (Aryaman)",
       "author": {
@@ -985,6 +1272,48 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "claude-code",
+      "name": "Claude Code",
+      "author": {
+        "name": "Daniel",
+        "url": "https://x.com/DanielZambrini"
+      },
+      "summary": "A dedicated coding agent that runs all software work through the Claude Code CLI",
+      "summary_zh": "专职编码代理，所有软件活都丢给 Claude Code CLI 跑。",
+      "import": "https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "cli"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "claudey",
+      "name": "Claudey",
+      "author": {
+        "name": "Farzad",
+        "url": "https://x.com/farzyness"
+      },
+      "summary": "Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR",
+      "summary_zh": "把前端和架构活交给 Claude Code CLI，干完直接开 PR。",
+      "import": "https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D",
+      "source": "https://x.com/farzyness/status/2094240859243913669",
+      "related": "https://grokbot.dev/marketplace/claudey/",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "engineering",
+        "automation",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "clip-bot",
       "name": "Clip Bot",
       "author": {
@@ -1004,6 +1333,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "clipmaker",
+      "name": "ClipMaker",
+      "author": {
+        "name": "Luigi",
+        "url": "https://x.com/r40_io"
+      },
+      "summary": "Cuts the section you want out of a YouTube video and transcribes it",
+      "summary_zh": "从 YouTube 视频里剪出你要的那一段，并转成文字稿。",
+      "import": "https://x.ai/bot/b986_CbfzB8jKLcU14LTi",
+      "source": "https://x.com/r40_io/status/2094165107886395638",
+      "related": "https://grokbot.dev/marketplace/clipmaker/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "content",
+        "youtube",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "clipper",
@@ -1070,6 +1422,52 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "collins",
+      "name": "Collins",
+      "author": {
+        "name": "Zach",
+        "url": "https://x.com/zachmllr"
+      },
+      "summary": "Works through Hercules Collins's 1680 catechism, one question a day",
+      "summary_zh": "带你走完 Hercules Collins 1680 年的教理问答，每天一题。",
+      "import": "https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3",
+      "source": "https://x.com/zachmllr/status/2094258928922116418",
+      "related": "https://grokbot.dev/marketplace/collins/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "family",
+        "learning",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "commercial-taste",
+      "name": "Commercial Taste",
+      "author": {
+        "name": "Smit",
+        "url": "https://x.com/thesmitpatel"
+      },
+      "summary": "Commercial judgment for technical founders deciding without complete data",
+      "summary_zh": "数据不齐时，替技术背景的创始人补上商业判断。",
+      "import": "https://x.ai/bot/vekulzIMXM8hDjkp-mDkX",
+      "source": "https://x.com/thesmitpatel/status/2094100307340857707",
+      "related": "https://grokbot.dev/marketplace/commercial-taste/",
+      "category": "research-briefings",
+      "tags": [
+        "business",
+        "developer",
+        "decision-support",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "competitor-watching",
       "name": "Competitor Watching",
       "author": {
@@ -1089,6 +1487,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "connection-audit",
+      "name": "Connection Audit",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Triages the saved-reading pile and ties each keeper to a live problem",
+      "summary_zh": "清理你的待读囤积，把每篇留下的都挂到一个真实问题上。",
+      "import": "https://x.ai/bot/qllnuXO-FDFBHZU4MSamY",
+      "source": "https://x.com/thekuchh/status/2094103797270503600",
+      "related": "https://grokbot.dev/marketplace/connection-audit/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "productivity",
+        "learning",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "construction-office-manager",
@@ -1111,6 +1532,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "consumption-autopsy",
+      "name": "Consumption Autopsy",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Post-mortems your study habits and swaps one passive input for practice",
+      "summary_zh": "复盘你的学习习惯，把一项被动输入换成动手练习。",
+      "import": "https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy",
+      "source": "https://x.com/thekuchh/status/2094103715070558493",
+      "related": "https://grokbot.dev/marketplace/consumption-autopsy/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "student",
+        "learning",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "content-growth-coach",
@@ -1195,6 +1639,74 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-01"
+    },
+    {
+      "slug": "copay-compass",
+      "name": "Copay Compass",
+      "author": {
+        "name": "MSaintjour",
+        "url": "https://x.com/MSaintjour"
+      },
+      "summary": "Chases down help with the price of a cancer prescription and preps the paperwork",
+      "summary_zh": "帮你找抗癌药援助并备好申请材料。",
+      "import": "https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD",
+      "source": "https://x.com/MSaintjour/status/2094802093622133104",
+      "related": "https://grokbot.dev/marketplace/copay-compass/",
+      "category": "personal-admin",
+      "tags": [
+        "health",
+        "finance",
+        "paperwork"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "copywriter",
+      "name": "Copywriter",
+      "author": {
+        "name": "Gabriel",
+        "url": "https://x.com/adamuchigabriel"
+      },
+      "summary": "Turns a ranked story into slide-by-slide carousel copy and a caption",
+      "summary_zh": "把选好的选题写成轮播图的逐页文案和整条配文。",
+      "import": "https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv",
+      "source": "https://x.com/adamuchigabriel/status/2094182045782073384",
+      "related": "https://grokbot.dev/marketplace/copywriter/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "marketer",
+        "content",
+        "social-media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "cos",
+      "name": "💼 CoS",
+      "author": {
+        "name": "A-A-ron",
+        "url": "https://x.com/theaaron"
+      },
+      "summary": "Keeps your agent bench, calendar and inbox on one weekday rhythm",
+      "summary_zh": "把你的 Bot 席位、日历和收件箱，收进同一套工作日节奏。",
+      "import": "https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D",
+      "source": "https://x.com/theaaron/status/2094547674766929996",
+      "related": "https://grokbot.dev/marketplace/cos/",
+      "category": "inbox-calendar",
+      "tags": [
+        "personal",
+        "productivity",
+        "back-office",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "cost-smart-health-brief",
@@ -1501,6 +2013,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "developer",
+      "name": "Developer",
+      "author": {
+        "name": "Matej",
+        "url": "https://x.com/m_check1B"
+      },
+      "summary": "Farms coding work out to build labs and mirrors every task on a Linear board",
+      "summary_zh": "把编码活外包给 build lab，每个任务同步到 Linear 看板。",
+      "import": "https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3",
+      "source": "https://x.com/m_check1B/status/2094337521123508268",
+      "related": "https://grokbot.dev/marketplace/developer/",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "engineering",
+        "automation",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "dewey",
       "name": "Dewey",
       "author": {
@@ -1587,6 +2122,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "doing-gap",
+      "name": "Doing Gap",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Counts what you have watched against what you have shipped, then makes you build",
+      "summary_zh": "把你看过的和真正做出来的放在一起算账，然后逼你动手。",
+      "import": "https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE",
+      "source": "https://x.com/thekuchh/status/2094103726764273916",
+      "related": "https://grokbot.dev/marketplace/doing-gap/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "student",
+        "learning",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "dr-eggbot",
       "name": "dr eggbot",
       "author": {
@@ -1669,6 +2227,52 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "engenheiro-audiovisual",
+      "name": "Engenheiro Audiovisual",
+      "author": {
+        "name": "Gabriel",
+        "url": "https://x.com/adamuchigabriel"
+      },
+      "summary": "Builds the carousel and single-post artwork from a finished copy brief",
+      "summary_zh": "拿定稿的文案简报，产出轮播图和单图的视觉素材。",
+      "import": "https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6",
+      "source": "https://x.com/adamuchigabriel/status/2094182045782073384",
+      "related": "https://grokbot.dev/marketplace/engenheiro-audiovisual/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "design",
+        "content",
+        "social-media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "errol",
+      "name": "Errol",
+      "author": {
+        "name": "Zach",
+        "url": "https://x.com/zachmllr"
+      },
+      "summary": "Drills a children's catechism twice a day for family worship",
+      "summary_zh": "每天两次带练儿童教理问答，用于家庭礼拜。",
+      "import": "https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ",
+      "source": "https://x.com/zachmllr/status/2094270994777030966",
+      "related": "https://grokbot.dev/marketplace/errol/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "family",
+        "learning",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "ethan",
@@ -1824,6 +2428,75 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "fantasy-gm",
+      "name": "Fantasy GM",
+      "author": {
+        "name": "Tyler",
+        "url": "https://x.com/TylerNishida"
+      },
+      "summary": "Answers roster and matchup questions through the assistant you already talk to",
+      "summary_zh": "在你已经在用的助手里，回答梦幻体育的阵容和对位问题。",
+      "import": "https://x.ai/bot/vmQChAUGO26cUDqdSqYlH",
+      "source": "https://x.com/TylerNishida/status/2094446128771342374",
+      "related": "https://grokbot.dev/marketplace/fantasy-gm/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "agent-team",
+        "news",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "feedback",
+      "name": "Feedback",
+      "author": {
+        "name": "NYTEMODE",
+        "url": "https://x.com/nytemodeonly"
+      },
+      "summary": "Turns a bug you have already confirmed into a clean report, filed with the right team",
+      "summary_zh": "把你已确认的 bug 整理成规范报告，提给对的团队。",
+      "import": "https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU",
+      "source": "https://x.com/nytemodeonly/status/2094225527984820492",
+      "related": "https://grokbot.dev/marketplace/feedback/",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "support",
+        "automation",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "feedback-clock",
+      "name": "Feedback Clock",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Closes the lag between an attempt and the verdict on it",
+      "summary_zh": "压缩「做一次」和「得到评判」之间的时间差。",
+      "import": "https://x.ai/bot/ySceLccAh5J8IVnq62mQl",
+      "source": "https://x.com/thekuchh/status/2094103738499969334",
+      "related": "https://grokbot.dev/marketplace/feedback-clock/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "student",
+        "learning",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "fenrir-paper-trading",
       "name": "Fenrir (Paper Trading)",
       "author": {
@@ -1906,6 +2579,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "flora",
+      "name": "Flora",
+      "author": {
+        "name": "Rich",
+        "url": "https://x.com/RichSilver"
+      },
+      "summary": "Tracks every houseplant you own and nudges you before one goes thirsty",
+      "summary_zh": "记住你养的每一盆植物，快缺水了提前提醒。",
+      "import": "https://x.ai/bot/HC7kphHSxDzb639YlmI6O",
+      "source": "https://x.com/RichSilver/status/2094267086591680962",
+      "related": "https://grokbot.dev/marketplace/flora/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home",
+        "monitoring",
+        "life-hacks"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "flowsery",
@@ -2147,6 +2843,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "github-trending-scout",
+      "name": "github 优秀仓库",
+      "author": {
+        "name": "umiastuti8329",
+        "url": "https://x.com/ios_1261142602"
+      },
+      "summary": "Sweeps GitHub's trending page each morning and writes up the repos that matter",
+      "summary_zh": "每天早上扫一遍 GitHub 趋势页，把值得看的仓库写成简报。",
+      "import": "https://x.ai/bot/D9HYH2jAmGiKw7e499mrE",
+      "source": "https://x.com/ios_1261142602/status/2094243852932776384",
+      "related": "https://grokbot.dev/marketplace/github-trending-scout/",
+      "category": "research-briefings",
+      "tags": [
+        "developer",
+        "monitoring",
+        "research",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "gonzalo-s-smb-manager",
       "name": "gonzalo's smb manager",
       "author": {
@@ -2278,6 +2997,51 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "grok-bot-knower",
+      "name": "Grok Bot Knower",
+      "author": {
+        "name": "Noah",
+        "url": "https://x.com/ngundotra"
+      },
+      "summary": "Answers what Grok Bot can actually do, checked rather than remembered",
+      "summary_zh": "回答 Grok Bot 究竟能做什么，，现查现证，不靠记忆。",
+      "import": "https://x.ai/bot/v13QjVZ83GcaitG_3j4su",
+      "source": "https://x.com/ngundotra/status/2094085203685785840",
+      "related": "https://grokbot.dev/marketplace/grok-bot-knower/",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "knowledge-base",
+        "research",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "grok-bot-post-watcher",
+      "name": "最值得关注的Grok Bot 推文？",
+      "author": {
+        "name": "MaiYangAI",
+        "url": "https://x.com/MaiYangAI"
+      },
+      "summary": "A twice-daily Chinese-language sweep of top Grok Bot accounts",
+      "summary_zh": "每天两次用中文扫一遍值得看的 Grok Bot 账号动态。",
+      "import": "https://x.ai/bot/lFDR77qKaT3Iglzv9pUac",
+      "source": "https://x.com/MaiYangAI/status/2094583123392761968",
+      "related": "https://grokbot.dev/marketplace/grok-bot-post-watcher/",
+      "category": "research-briefings",
+      "tags": [
+        "grok-bot",
+        "briefing",
+        "social"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "grok-bot-use-case-scout",
       "name": "GrokBot Awesome Use Cases",
       "author": {
@@ -2318,6 +3082,52 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "grok-deck",
+      "name": "Grok Deck",
+      "author": {
+        "name": "Mai",
+        "url": "https://x.com/MaiYangAI"
+      },
+      "summary": "Turns your talking points into a browser-ready HTML slide deck",
+      "summary_zh": "把你的讲稿要点变成浏览器里能直接放的 HTML 幻灯片。",
+      "import": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+      "source": "https://x.com/MaiYangAI/status/2094305288266666452",
+      "related": "https://grokbot.dev/marketplace/grok-deck/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "design",
+        "content",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "grok-for-seo-geo-paid-ads-and-shopify",
+      "name": "Grok for SEO, GEO, paid ads and Shopify",
+      "author": {
+        "name": "Dmitry",
+        "url": "https://x.com/irabukht"
+      },
+      "summary": "Reviews ads, search and Shopify performance from a single place",
+      "summary_zh": "在一个地方复盘广告、搜索和 Shopify 的表现。",
+      "import": "https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4",
+      "source": "https://x.com/irabukht/status/2094540233429619144",
+      "related": "https://grokbot.dev/marketplace/grok-for-seo-geo-paid-ads-and-shopify/",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "business",
+        "seo",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "grok-vm-maintenance",
       "name": "Grok VM maintenance",
       "author": {
@@ -2336,6 +3146,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-01"
+    },
+    {
+      "slug": "grokart",
+      "name": "Grokart",
+      "author": {
+        "name": "Luiz",
+        "url": "https://x.com/lamorim_net"
+      },
+      "summary": "Describe a purchase and get a shortlist plus a checkout link",
+      "summary_zh": "说出你要买什么，拿回一份候选清单和结账链接。",
+      "import": "https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG",
+      "source": "https://x.com/lamorim_net/status/2094079296705090017",
+      "related": "https://grokbot.dev/marketplace/grokart/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping",
+        "automation",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "growth-desk",
@@ -2379,6 +3212,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "gus-fring",
+      "name": "Gus Fring",
+      "author": {
+        "name": "liam_fallen",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Sits between finished work and the customer, and gives it a straight verdict",
+      "summary_zh": "成品出货前的最后一道关，给客户一个干脆的判定。",
+      "import": "https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k",
+      "source": "https://x.com/liam_fallen/status/2094782521095463198",
+      "related": "https://grokbot.dev/marketplace/gus-fring/",
+      "category": "customer-sales",
+      "tags": [
+        "qa",
+        "ops",
+        "customer"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "gym-bod",
@@ -2464,6 +3319,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "hermes-sdr",
+      "name": "Hermes SDR",
+      "author": {
+        "name": "Mauricio",
+        "url": "https://x.com/MGallmur"
+      },
+      "summary": "An outbound SDR agent that verifies each lead, then sends Instagram DMs and emails for a high-ticket offer",
+      "summary_zh": "外呼 SDR，逐条验证线索，再发 Instagram 私信和邮件推高客单价产品。",
+      "import": "https://x.ai/bot/EAlUWK8yH_xfsBcpdu7e_",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "outreach",
+        "sdr"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "holly-helpdesk",
@@ -2830,6 +3705,25 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "it-s-britney",
+      "name": "It's Britney",
+      "author": {
+        "name": "Hiten",
+        "url": "https://x.com/hnshah"
+      },
+      "summary": "Sends random Britney Spears internet dance clips, timed to significant hours of the day",
+      "summary_zh": "在一天里的整点时刻，随机发来 Britney Spears 的网络舞蹈片段。",
+      "import": "https://x.ai/bot/pNLwpHs8rmtMzAkUi-Zu2",
+      "category": "personal-admin",
+      "tags": [
+        "fun",
+        "music"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "japanese-travel-booking-agent",
       "name": "旅行手配エージェント",
       "author": {
@@ -2978,6 +3872,52 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "just-in-time-curriculum",
+      "name": "Just-in-Time Curriculum",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Drops the study backlog and teaches only what your next task needs",
+      "summary_zh": "丢掉学习积压，只教你下一个任务真正用得上的部分。",
+      "import": "https://x.ai/bot/rpkZERbKrIN_NlDl8ErVZ",
+      "source": "https://x.com/thekuchh/status/2094103762126455245",
+      "related": "https://grokbot.dev/marketplace/just-in-time-curriculum/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "student",
+        "learning",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "keach",
+      "name": "Keach",
+      "author": {
+        "name": "Zach",
+        "url": "https://x.com/zachmllr"
+      },
+      "summary": "A morning drill through Keach's 1693 catechism, one question at a time",
+      "summary_zh": "每天早上过一题 Keach 1693 年的教理问答。",
+      "import": "https://x.ai/bot/sAxCT93K8i7gwctmtAroD",
+      "source": "https://x.com/zachmllr/status/2094258800492429614",
+      "related": "https://grokbot.dev/marketplace/keach/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "family",
+        "learning",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "kerf",
@@ -3153,6 +4093,25 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "lauren",
+      "name": "Lauren",
+      "author": {
+        "name": "Emilio",
+        "url": "https://x.com/EmilioSchwaiger"
+      },
+      "summary": "A coding coordinator for builders: cloud agents write the code, each job gets a fresh agent, and work is not done until there is proof",
+      "summary_zh": "给开发者的编码协调员，云代理写码，每个活派一个新代理。",
+      "import": "https://x.ai/bot/PsJeduueXjha7521lhTSc",
+      "category": "teams-handoffs",
+      "tags": [
+        "coding",
+        "orchestration"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "lazy-tom",
       "name": "Lazy Tom",
       "author": {
@@ -3282,6 +4241,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "librarian",
+      "name": "Librarian",
+      "author": {
+        "name": "ShaneMac",
+        "url": "https://x.com/ShaneMac"
+      },
+      "summary": "Photograph your bookshelves and get a browsable personal library site",
+      "summary_zh": "拍下书架，生成可浏览的个人藏书站。",
+      "import": "https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw",
+      "source": "https://x.com/ShaneMac/status/2094582528203997514",
+      "related": "https://grokbot.dev/marketplace/librarian/",
+      "category": "personal-admin",
+      "tags": [
+        "books",
+        "library",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "life",
       "name": "Life",
       "author": {
@@ -3301,6 +4282,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "lina",
+      "name": "Lina",
+      "author": {
+        "name": "Gabriel",
+        "url": "https://x.com/gabe_onchain"
+      },
+      "summary": "Plans each YouTube upload as one promise the video has to keep",
+      "summary_zh": "把每条 YouTube 上传当成一个必须兑现的承诺来策划。",
+      "import": "https://x.ai/bot/PZQY6T6sKxrzhuYsclwap",
+      "source": "https://x.com/gabe_onchain/status/2094082997750284769",
+      "related": "https://grokbot.dev/marketplace/lina/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "youtube",
+        "content",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "lingxis-engineer-bot",
@@ -3667,6 +4671,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "mercury",
+      "name": "Mercury",
+      "author": {
+        "name": "Mujeeb",
+        "url": "https://x.com/chiefjeeb"
+      },
+      "summary": "A standing tech lead that holds the system picture and delegates the coding out",
+      "summary_zh": "常驻技术主管，握住系统全局，把具体编码派出去。",
+      "import": "https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L",
+      "source": "https://x.com/chiefjeeb/status/2094223658151502326",
+      "related": "https://grokbot.dev/marketplace/mercury/",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "engineering",
+        "agent-team",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "milybot",
       "name": "Milybot",
       "author": {
@@ -3687,6 +4714,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "minerador-de-conteudo",
+      "name": "Minerador de conteúdo",
+      "author": {
+        "name": "Gabriel",
+        "url": "https://x.com/adamuchigabriel"
+      },
+      "summary": "Mines a day of AI news and ranks what actually deserves a post",
+      "summary_zh": "挖一整天的 AI 新闻，排出真正值得发帖的那几条。",
+      "import": "https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX",
+      "source": "https://x.com/adamuchigabriel/status/2094182045782073384",
+      "related": "https://grokbot.dev/marketplace/minerador-de-conteudo/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "marketer",
+        "research",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "money-maker-bot",
@@ -3904,6 +4954,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "nyc-parent",
+      "name": "NYC Parent",
+      "author": {
+        "name": "Dennison",
+        "url": "https://x.com/DennisonBertram"
+      },
+      "summary": "Runs the school-and-activities logistics of raising kids in New York",
+      "summary_zh": "打理纽约带娃的上学和课外活动后勤。",
+      "import": "https://x.ai/bot/DiNI489Qte5ryNvZjOROb",
+      "source": "https://x.com/DennisonBertram/status/2094150767338832025",
+      "related": "https://grokbot.dev/marketplace/nyc-parent/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity",
+        "family",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "off-balance-atlas",
       "name": "Off-Balance Atlas",
       "author": {
@@ -4035,6 +5108,25 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "overwatch-htcl",
+      "name": "Overwatch",
+      "author": {
+        "name": "A-A-ron",
+        "url": "https://x.com/theaaron"
+      },
+      "summary": "Keeps a shared multi-bot workspace organized, git-backed, and portable, including layout conventions and cleanup",
+      "summary_zh": "让多 Bot 共用的工作区保持整洁、有 git 兜底、能整体搬走。",
+      "import": "https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "workspace"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "paddy",
       "name": "Paddy",
       "author": {
@@ -4079,6 +5171,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "palette",
+      "name": "Palette",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/subforti"
+      },
+      "summary": "Pulls a usable four-part colour scheme out of any reference photo",
+      "summary_zh": "从任意参考照片里提出一套能直接用的四色配色。",
+      "import": "https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V",
+      "source": "https://x.com/subforti/status/2094413257482080263",
+      "related": "https://grokbot.dev/marketplace/palette/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "design",
+        "productivity",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "paperwork",
       "name": "Paperwork",
       "author": {
@@ -4097,6 +5212,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "patch",
+      "name": "Patch",
+      "author": {
+        "name": "Benn",
+        "url": "https://x.com/benngarnish"
+      },
+      "summary": "Seasonal lawn and border care matched to your British plot",
+      "summary_zh": "按你在英国的园子，给出对应季节的草坪和花境养护。",
+      "import": "https://x.ai/bot/mZM210IvFxqswc9eaLjQa",
+      "source": "https://x.com/benngarnish/status/2094068114929393746",
+      "related": "https://grokbot.dev/marketplace/patch/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home",
+        "decision-support",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "peekaboo-mac",
@@ -4208,6 +5346,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "podcast-summary-bot",
+      "name": "Podcast Summary Bot",
+      "author": {
+        "name": "NM",
+        "url": "https://x.com/theadvisorbtc"
+      },
+      "summary": "Paste a podcast link and get a TLDR plus the takeaways worth keeping",
+      "summary_zh": "贴一条播客链接，拿回 TLDR 和值得留下的要点。",
+      "import": "https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA",
+      "source": "https://x.com/theadvisorbtc/status/2094388925523775694",
+      "related": "https://grokbot.dev/marketplace/podcast-summary-bot/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "creator",
+        "research",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "point-peddler",
       "name": "point peddler",
       "author": {
@@ -4251,6 +5412,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "porter",
+      "name": "Porter",
+      "author": {
+        "name": "darylbleach",
+        "url": "https://x.com/darylbleach"
+      },
+      "summary": "Lifts your whole line-up of bots across to another app or account",
+      "summary_zh": "把整支 Bot 花名册搬到另一个应用或账号。",
+      "import": "https://x.ai/bot/cl7kIRbcIuP6jj2Zt8z5K",
+      "source": "https://x.com/darylbleach/status/2094747777343324629",
+      "related": "https://grokbot.dev/marketplace/porter/",
+      "category": "teams-handoffs",
+      "tags": [
+        "migration",
+        "ops",
+        "fleet"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "post-call-assistant",
       "name": "Post Call Assistant",
       "author": {
@@ -4291,6 +5474,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "product-idea-stress-test",
+      "name": "Product Idea Stress Test",
+      "author": {
+        "name": "Hiten",
+        "url": "https://x.com/hnshah"
+      },
+      "summary": "Finds the one belief your startup idea cannot afford to have wrong",
+      "summary_zh": "找出你的创业点子里那个最不能出错的核心假设。",
+      "import": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+      "source": "https://x.com/hnshah/status/2094100862247502019",
+      "related": "https://grokbot.dev/marketplace/product-idea-stress-test/",
+      "category": "research-briefings",
+      "tags": [
+        "business",
+        "developer",
+        "decision-support",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "product-lead",
@@ -4395,6 +5601,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "pulse",
+      "name": "Pulse",
+      "author": {
+        "name": "Andrej",
+        "url": "https://x.com/GrokBotDev"
+      },
+      "summary": "A read-only X concierge that turns a day of feed into one skimmable 7am brief",
+      "summary_zh": "只读的 X 管家，把一整天的时间线压成早 7 点一份能扫完的简报。",
+      "import": "https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms",
+      "source": "https://x.com/GrokBotDev/status/2094029086490308904",
+      "related": "https://grokbot.dev/marketplace/pulse/",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "news",
+        "monitoring",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "qubits-toy-bot",
@@ -4655,6 +5884,52 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "researchy",
+      "name": "Researchy",
+      "author": {
+        "name": "Farzad",
+        "url": "https://x.com/farzyness"
+      },
+      "summary": "Checks claims against the live web and returns citations with dates",
+      "summary_zh": "拿实时网络核查说法，返回带日期的引用出处。",
+      "import": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+      "source": "https://x.com/farzyness/status/2094148803494391903",
+      "related": "https://grokbot.dev/marketplace/researchy/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "developer",
+        "research",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "retrieval-exam",
+      "name": "Retrieval Exam",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Closed-book questioning that separates real recall from mere familiarity",
+      "summary_zh": "闭卷提问，把真记住和只是眼熟区分开。",
+      "import": "https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI",
+      "source": "https://x.com/thekuchh/status/2094103773832737075",
+      "related": "https://grokbot.dev/marketplace/retrieval-exam/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "student",
+        "learning",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "returns-warranties",
       "name": "Returns & Warranties",
       "author": {
@@ -4674,6 +5949,52 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "revenuedog",
+      "name": "RevenueDog",
+      "author": {
+        "name": "Lex",
+        "url": "https://x.com/lexrus"
+      },
+      "summary": "Wake up to yesterday's subscription numbers and one fix worth trying",
+      "summary_zh": "早上醒来就有昨天的订阅数字，外加一条值得试的改进。",
+      "import": "https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT",
+      "source": "https://x.com/lexrus/status/2094285817221111992",
+      "related": "https://grokbot.dev/marketplace/revenuedog/",
+      "category": "finance-ops",
+      "tags": [
+        "developer",
+        "business",
+        "analytics",
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "review-this",
+      "name": "Review This",
+      "author": {
+        "name": "dogenorway",
+        "url": "https://x.com/DogecoinNorway"
+      },
+      "summary": "Name a product and get a straight buy, skip, or pick-this-instead verdict",
+      "summary_zh": "报一个产品名，给你买、别买、还是换这个的干脆结论。",
+      "import": "https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4",
+      "source": "https://x.com/DogecoinNorway/status/2094042874283471230",
+      "related": "https://grokbot.dev/marketplace/review-this/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping",
+        "decision-support",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "rewardsmaxxing",
@@ -4950,6 +6271,29 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "set-up",
+      "name": "🚦 Set Up",
+      "author": {
+        "name": "A-A-ron",
+        "url": "https://x.com/theaaron"
+      },
+      "summary": "Interview-style onboarding that assembles your first bot roster",
+      "summary_zh": "访谈式引导，帮你组出第一支 Bot 花名册。",
+      "import": "https://x.ai/bot/BsExflSUXpW0hs21OTBzu",
+      "source": "https://x.com/theaaron/status/2094547674766929996",
+      "related": "https://grokbot.dev/marketplace/set-up/",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal",
+        "productivity",
+        "automation",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "shane-hunter",
       "name": "shane hunter",
       "author": {
@@ -4992,6 +6336,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "shepherd",
+      "name": "Shepherd",
+      "author": {
+        "name": "Can",
+        "url": "https://x.com/herdrdev"
+      },
+      "summary": "A meta-bot that herds your whole fleet of Grok bots, paired with the herdr tool",
+      "summary_zh": "元 Bot，牧管你整支 Grok Bot 舰队，搭配 herdr 工具使用。",
+      "import": "https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J",
+      "source": "https://x.com/herdrdev/status/2094129284885467399",
+      "related": "https://grokbot.dev/marketplace/shepherd/",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "ops",
+        "monitoring",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "sherlock-holmes",
@@ -5144,6 +6511,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "shoppy",
+      "name": "shoppy",
+      "author": {
+        "name": "vandy",
+        "url": "https://x.com/vandymeares"
+      },
+      "summary": "Household shopper that finds a price, waits for a yes, then orders and tracks arrival",
+      "summary_zh": "家庭采购员，先比价，等你点头再下单，然后跟踪到货。",
+      "import": "https://x.ai/bot/26SigD00Ar-mArCvNwXN2",
+      "source": "https://x.com/vandymeares/status/2093864119741116483",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "household"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "shorty",
       "name": "Shorty",
       "author": {
@@ -5229,6 +6616,50 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "social-media",
+      "name": "Social Media",
+      "author": {
+        "name": "Gabriel",
+        "url": "https://x.com/adamuchigabriel"
+      },
+      "summary": "Queues the finished posts and pushes each one live at the right local hour",
+      "summary_zh": "把写好的帖子排队，按各地合适的时间点逐条推出去。",
+      "import": "https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz",
+      "source": "https://x.com/adamuchigabriel/status/2094182045782073384",
+      "related": "https://grokbot.dev/marketplace/social-media/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "marketer",
+        "social-media",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "social-media-gtm-bot",
+      "name": "Social Media GTM Bot",
+      "author": {
+        "name": "Antoine",
+        "url": "https://x.com/Antoine"
+      },
+      "summary": "A founder content lead that recycles posts, runs comment-to-DM magnets, and publishes after you approve",
+      "summary_zh": "给创始人当内容负责人，把内容循环发到 Instagram、TikTok、YouTube、X 和 LinkedIn。",
+      "import": "https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ",
+      "source": "https://x.com/Grok_Hub_IO/status/2093826224879747387",
+      "category": "content-publishing",
+      "tags": [
+        "social",
+        "scheduling",
+        "gtm"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "socials-short-form-scout",
       "name": "socials",
       "author": {
@@ -5248,6 +6679,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "sous-chef",
+      "name": "Sous Chef",
+      "author": {
+        "name": "Amber",
+        "url": "https://x.com/amberdawn1786"
+      },
+      "summary": "Plans the week's dinners, writes the shopping list, and can order it",
+      "summary_zh": "排一周的晚餐、写好购物清单，还能直接帮你下单。",
+      "import": "https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t",
+      "source": "https://x.com/amberdawn1786/status/2094527135608164462",
+      "related": "https://grokbot.dev/marketplace/sous-chef/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "food",
+        "shopping",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "spark-onboarding",
@@ -5338,6 +6792,97 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "steer",
+      "name": "STEER",
+      "author": {
+        "name": "bfrench",
+        "url": "https://x.com/bfrench"
+      },
+      "summary": "Mark up the flat, machine-sounding lines in a draft and get them rewritten",
+      "summary_zh": "标出稿子里平淡的机器腔，然后改写成能读的句子。",
+      "import": "https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz",
+      "source": "https://x.com/bfrench/status/2094591383080403402",
+      "related": "https://grokbot.dev/marketplace/steer/",
+      "category": "content-publishing",
+      "tags": [
+        "writing",
+        "editing",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "sterling",
+      "name": "Sterling",
+      "author": {
+        "name": "FSD",
+        "url": "https://x.com/jchybow"
+      },
+      "summary": "An understated money sidekick that watches the balances and stays hands-off",
+      "summary_zh": "低调的理财搭子，盯着账户余额，但不替你动手。",
+      "import": "https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k",
+      "source": "https://x.com/jchybow/status/2094256023498326357",
+      "related": "https://grokbot.dev/marketplace/sterling/",
+      "category": "finance-ops",
+      "tags": [
+        "personal",
+        "finance",
+        "decision-support",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "steve-j",
+      "name": "Steve J",
+      "author": {
+        "name": "Ahura",
+        "url": "https://x.com/AhuraDeus"
+      },
+      "summary": "A demanding boss for the rest of your bot roster",
+      "summary_zh": "给你其余那些 Bot 当一个不好糊弄的老板。",
+      "import": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
+      "source": "https://x.com/AhuraDeus/status/2094468731934003649",
+      "related": "https://grokbot.dev/marketplace/steve-j/",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "personal",
+        "meta-bot",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "steward",
+      "name": "Steward",
+      "author": {
+        "name": "Corey",
+        "url": "https://x.com/cjblev"
+      },
+      "summary": "Tracks Cursor spend across your bot fleet and finds the cheap wins",
+      "summary_zh": "跟踪整支 Bot 舰队的 Cursor 花费，挑出省钱的做法。",
+      "import": "https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA",
+      "source": "https://x.com/cjblev/status/2094100993923252291",
+      "related": "https://grokbot.dev/marketplace/steward/",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "ops",
+        "monitoring",
+        "analytics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "stitchy-personal-stylist",
       "name": "Stitchy (Personal Stylist)",
       "author": {
@@ -5380,6 +6925,139 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "struggle-gate",
+      "name": "Struggle Gate",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Withholds the answer for ten minutes so you have to attempt it first",
+      "summary_zh": "把答案压十分钟，逼你自己先试一遍。",
+      "import": "https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV",
+      "source": "https://x.com/thekuchh/status/2094103750399193493",
+      "related": "https://grokbot.dev/marketplace/struggle-gate/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "student",
+        "learning",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "stuck-cycle",
+      "name": "Stuck Cycle",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Runs one skill through repeated laps of attempt, snag, and targeted study",
+      "summary_zh": "让一项技能反复跑「尝试 → 卡壳 → 针对性补课」的循环。",
+      "import": "https://x.ai/bot/fihe4nAy0jFWoygo4JCAW",
+      "source": "https://x.com/thekuchh/status/2094103808985141546",
+      "related": "https://grokbot.dev/marketplace/stuck-cycle/",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "student",
+        "learning",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "subcut",
+      "name": "SubCut",
+      "author": {
+        "name": "Finiti",
+        "url": "https://x.com/tahaabuilds"
+      },
+      "summary": "Audits your email for silent subscription drain and names what to cut",
+      "summary_zh": "翻你的邮箱，揪出在悄悄扣费的订阅，并指名该砍哪些。",
+      "import": "https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0",
+      "source": "https://x.com/tahaabuilds/status/2094199255561089356",
+      "related": "https://grokbot.dev/marketplace/subcut/",
+      "category": "finance-ops",
+      "tags": [
+        "personal",
+        "saving-money",
+        "email",
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "substreams",
+      "name": "substreams",
+      "author": {
+        "name": "Graphtronauts",
+        "url": "https://x.com/graphtronauts_c"
+      },
+      "summary": "Build and run Substreams blockchain data pipelines from chat",
+      "summary_zh": "在聊天里搭建并运行 Substreams 区块链数据管道。",
+      "import": "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv",
+      "source": "https://x.com/graphtronauts_c/status/2094476749052555631",
+      "related": "https://grokbot.dev/marketplace/substreams/",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "engineering",
+        "data",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "sumosign",
+      "name": "SumoSign",
+      "author": {
+        "name": "SumoSign",
+        "url": "https://x.com/SumoSign"
+      },
+      "summary": "Route a document to a live person for signing, straight from chat",
+      "summary_zh": "从聊天里把文件送到真人签字。",
+      "import": "https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB",
+      "source": "https://x.com/SumoSign/status/2094633755004821890",
+      "related": "https://grokbot.dev/marketplace/sumosign/",
+      "category": "finance-ops",
+      "tags": [
+        "esign",
+        "ops",
+        "back-office"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "susan-miller",
+      "name": "Susan Miller",
+      "author": {
+        "name": "Inkwell",
+        "url": "https://x.com/cybrgalaxy"
+      },
+      "summary": "Daily horoscopes pulled from Susan Miller on Astrology Zone, as a short morning brief for sun and rising signs",
+      "summary_zh": "从 Astrology Zone 抓 Susan Miller 的每日运势，做成早间简报。",
+      "import": "https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu",
+      "category": "personal-admin",
+      "tags": [
+        "horoscope",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "sylvia-style",
@@ -5466,6 +7144,29 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "tech-lead",
+      "name": "Tech Lead",
+      "author": {
+        "name": "Ashish",
+        "url": "https://x.com/inqusit"
+      },
+      "summary": "Gates the merge on what the diff and the tests actually show",
+      "summary_zh": "只看 diff 和测试的实际结果，替你把住合并这一关。",
+      "import": "https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W",
+      "source": "https://x.com/inqusit/status/2094021157213348277",
+      "related": "https://grokbot.dev/marketplace/tech-lead/",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "engineering",
+        "automation",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "template-generator",
       "name": "template generator",
       "author": {
@@ -5532,6 +7233,50 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "testbench",
+      "name": "Testbench",
+      "author": {
+        "name": "useprismnetwork",
+        "url": "https://x.com/useprismnetwork"
+      },
+      "summary": "Gives a job too heavy for shared hardware its own GPU, then bills you the runtime",
+      "summary_zh": "给共享电脑扛不动的活租一块 GPU，按运行时长计费。",
+      "import": "https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q",
+      "source": "https://x.com/useprismnetwork/status/2094790128296239563",
+      "related": "https://grokbot.dev/marketplace/testbench/",
+      "category": "coding-shipping",
+      "tags": [
+        "gpu",
+        "compute",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "the-accountant",
+      "name": "The Accountant",
+      "author": {
+        "name": "brstorrie",
+        "url": "https://x.com/brstorrie"
+      },
+      "summary": "Finds the bots in your fleet quietly draining your token budget",
+      "summary_zh": "找出舰队里悄悄吞掉额度预算的那些 Bot。",
+      "import": "https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX",
+      "source": "https://x.com/brstorrie/status/2094654945488252959",
+      "related": "https://grokbot.dev/marketplace/the-accountant/",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "cost",
+        "fleet"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "thefounder",
       "name": "TheFounder",
       "author": {
@@ -5552,6 +7297,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "theta-vantage-desk",
+      "name": "Theta Vantage Desk",
+      "author": {
+        "name": "Joe",
+        "url": "https://x.com/ThetaVantage"
+      },
+      "summary": "An options briefing desk: gamma, flow and volatility on one ticker",
+      "summary_zh": "期权简报台，单只标的的 gamma、资金流和波动率。",
+      "import": "https://x.ai/bot/YbX8HTAePBjwpwP05CVJS",
+      "source": "https://x.com/ThetaVantage/status/2094150193042386996",
+      "related": "https://grokbot.dev/marketplace/theta-vantage-desk/",
+      "category": "finance-ops",
+      "tags": [
+        "investor",
+        "finance",
+        "analytics",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "thoth-researcher-archivist",
@@ -5596,6 +7364,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "token-ops",
+      "name": "Token Ops",
+      "author": {
+        "name": "adgapar",
+        "url": "https://x.com/adgapar"
+      },
+      "summary": "Audits every recurring job in your bot fleet and reins in the wasteful ones",
+      "summary_zh": "审计舰队里每项定时任务，把烧额度的浪费活勒住。",
+      "import": "https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj",
+      "source": "https://x.com/adgapar/status/2094734518687080758",
+      "related": "https://grokbot.dev/marketplace/token-ops/",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "fleet",
+        "cost"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "tradbot",
       "name": "Tradbot",
       "author": {
@@ -5616,6 +7406,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "trading",
+      "name": "Trading",
+      "author": {
+        "name": "Travis",
+        "url": "https://x.com/TravisWeathers"
+      },
+      "summary": "A news-driven day-trading bot that takes one liquid name at a time and messages every fill",
+      "summary_zh": "新闻驱动的日内交易 Bot，接实盘账户，单票重仓。风险极高，先读代码。",
+      "import": "https://x.ai/bot/XW2DibYh5BRunhH_f373u",
+      "source": "https://x.com/TravisWeathers/status/2093818846637666637",
+      "category": "finance-ops",
+      "tags": [
+        "trading",
+        "markets"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "travel-agent",
@@ -5704,6 +7514,51 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "twitter-automations",
+      "name": "Twitter Automations",
+      "author": {
+        "name": "NM",
+        "url": "https://x.com/theadvisorbtc"
+      },
+      "summary": "Three creator automations for X: reply-triggered DMs, follower screening and a watchlist",
+      "summary_zh": "X 上的三套创作者自动化，回复触发私信、粉丝筛查、关注清单。",
+      "import": "https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS",
+      "source": "https://x.com/theadvisorbtc/status/2094434891622457825",
+      "related": "https://grokbot.dev/marketplace/twitter-automations/",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "marketer",
+        "social-media",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "unifi-aq-trmnl-integration",
+      "name": "unifi AQ trmnl integration",
+      "author": {
+        "name": "rrrkren",
+        "url": "https://x.com/rrrkren"
+      },
+      "summary": "Puts your UniFi air-quality readings on a TRMNL e-ink display",
+      "summary_zh": "把 UniFi 空气质量读数送到 TRMNL 电子墨水屏上。",
+      "import": "https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT",
+      "source": "https://x.com/rrrkren/status/2094584750040388071",
+      "related": "https://grokbot.dev/marketplace/unifi-aq-trmnl-integration/",
+      "category": "personal-admin",
+      "tags": [
+        "home",
+        "iot",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "usage-auditor",
@@ -5812,6 +7667,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "watch-later-deck",
+      "name": "Watch Later Deck",
+      "author": {
+        "name": "Jordan",
+        "url": "https://x.com/jordanwcjackson"
+      },
+      "summary": "Splits a bloated YouTube Watch Later list into four swipeable decks",
+      "summary_zh": "把塞爆的 YouTube 稍后观看，拆成四叠可滑动的卡片。",
+      "import": "https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9",
+      "source": "https://x.com/jordanwcjackson/status/2094246245199995176",
+      "related": "https://grokbot.dev/marketplace/watch-later-deck/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "youtube",
+        "video",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "watchdog",
       "name": "Watchdog",
       "author": {
@@ -5917,6 +7795,29 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "wholefoods",
+      "name": "Wholefoods",
+      "author": {
+        "name": "Dennison",
+        "url": "https://x.com/DennisonBertram"
+      },
+      "summary": "Plans the week's groceries around whatever Whole Foods has marked down",
+      "summary_zh": "盯着 Whole Foods 的降价商品，来排这一周的采购。",
+      "import": "https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU",
+      "source": "https://x.com/DennisonBertram/status/2094150768550945000",
+      "related": "https://grokbot.dev/marketplace/wholefoods/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "saving-money",
+        "shopping",
+        "food"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "wing",
       "name": "wing",
       "author": {
@@ -5982,6 +7883,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "workshop-facilitator",
+      "name": "Workshop Facilitator",
+      "author": {
+        "name": "Paul",
+        "url": "https://x.com/OTNworld"
+      },
+      "summary": "Chairs a working session and refuses to close it while any question lacks an owner",
+      "summary_zh": "主持工作会，只要还有问题没人认领就不让散会。",
+      "import": "https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH",
+      "source": "https://x.com/OTNworld/status/2094033417646006646",
+      "related": "https://grokbot.dev/marketplace/workshop-facilitator/",
+      "category": "teams-handoffs",
+      "tags": [
+        "business",
+        "ops",
+        "meetings",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "x-account-crew",
       "name": "X Account Crew",
       "author": {
@@ -6045,6 +7969,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "x-high-coach-ee8s",
+      "name": "X High Coach",
+      "author": {
+        "name": "High",
+        "url": "https://x.com/Hightv"
+      },
+      "summary": "Drop an X username and get a score, health flags, unfollow watch, and punchy rewrites",
+      "summary_zh": "丢一个 X 用户名，拿到评分、健康预警、取关名单和更有力的改写。",
+      "import": "https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F",
+      "category": "content-publishing",
+      "tags": [
+        "social",
+        "analytics",
+        "coaching"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "x-strategist",
@@ -6196,6 +8140,25 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "zeus",
+      "name": "Zeus",
+      "author": {
+        "name": "Majd",
+        "url": "https://x.com/MajdKaid"
+      },
+      "summary": "A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go",
+      "summary_zh": "单一总部对话，挑下一个该押的方向，用你的口吻起草，你不点头就不发。",
+      "import": "https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP",
+      "category": "teams-handoffs",
+      "tags": [
+        "orchestration",
+        "writing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     }
   ]
 }
