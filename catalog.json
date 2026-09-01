@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30",
+  "generated": "2026-09-01",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -664,6 +664,25 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "brake",
+      "name": "Brake",
+      "author": {
+        "name": "FantomBuildz",
+        "url": "https://x.com/FantomBuildz"
+      },
+      "summary": "Names the one recurring job quietly draining the weekly Grok Bot allowance",
+      "summary_zh": "点名那个在默默吃掉每周用量的重复任务并让你停掉它。",
+      "import": "https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z",
+      "category": "coding-shipping",
+      "tags": [
+        "usage",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "brief",
       "name": "Brief",
       "author": {
@@ -1158,6 +1177,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "cookie-monster",
+      "name": "Cookie Monster",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Imports the right Chrome cookies onto the shared computer so browser bots stop dying at login walls",
+      "summary_zh": "把正确的 Chrome cookie 导入共享电脑让浏览器机器人别卡在登录墙。",
+      "import": "https://x.ai/bot/55t0IuxxlT7BWffNVOKai",
+      "category": "coding-shipping",
+      "tags": [
+        "cookies",
+        "browser",
+        "login"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "cost-smart-health-brief",
       "name": "Cost-Smart Health Brief",
       "author": {
@@ -1396,6 +1435,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "demo-video",
+      "name": "Demo Video",
+      "author": {
+        "name": "KdJadeja911",
+        "url": "https://x.com/KdJadeja911"
+      },
+      "summary": "Captures a live web app and returns a narrated, captioned 1080p demo",
+      "summary_zh": "录下正在跑的网页应用并交回带旁白字幕的演示片。",
+      "import": "https://x.ai/bot/htSXUJUQlVr60m9L_unBa",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "demo",
+        "captions"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
     },
     {
       "slug": "den",
@@ -1785,6 +1844,25 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "figma-bro",
+      "name": "figma bro",
+      "author": {
+        "name": "johnbai",
+        "url": "https://x.com/johnbai"
+      },
+      "summary": "Designs inside Figma with real components, not screenshots around it",
+      "summary_zh": "在 Figma 里用真组件做设计而不是在外面截图空谈。",
+      "import": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+      "category": "content-publishing",
+      "tags": [
+        "figma",
+        "design"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
     },
     {
       "slug": "fixer",
@@ -2221,6 +2299,45 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "grok-build",
+      "name": "Grok Build",
+      "author": {
+        "name": "BillZanetti",
+        "url": "https://x.com/BillZanetti"
+      },
+      "summary": "Dedicated machine for the real Grok Build CLI",
+      "summary_zh": "给真正的 Grok Build 命令行单独一台机器干活。",
+      "import": "https://x.ai/bot/eydijdzrfgtnmlnUyPSI-",
+      "category": "coding-shipping",
+      "tags": [
+        "grok-build",
+        "cli"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
+      "slug": "grok-vm-maintenance",
+      "name": "Grok VM maintenance",
+      "author": {
+        "name": "old_pgmrs_will",
+        "url": "https://x.com/old_pgmrs_will"
+      },
+      "summary": "Sysadmin for the Bot Linux VM covering CPU, disk, services, and named package updates",
+      "summary_zh": "给共享 Linux 电脑做健康检查磁盘服务和指定软件包更新。",
+      "import": "https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ",
+      "category": "coding-shipping",
+      "tags": [
+        "sysadmin",
+        "vm",
+        "maintenance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "growth-desk",
       "name": "growth desk",
       "author": {
@@ -2283,6 +2400,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "harry-dry",
+      "name": "Harry Dry",
+      "author": {
+        "name": "joseamijares",
+        "url": "https://x.com/joseamijares"
+      },
+      "summary": "Copy chief that rewrites landing pages and ads so every line is visual and falsifiable",
+      "summary_zh": "按 Harry Dry 路子改落地页和广告让每句可看见也可证伪。",
+      "import": "https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu",
+      "category": "customer-sales",
+      "tags": [
+        "copy",
+        "landing",
+        "ads"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
     },
     {
       "slug": "harvey-specter",
@@ -2351,6 +2488,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "home-front",
+      "name": "Home Front",
+      "author": {
+        "name": "Diego_F_Aguirre",
+        "url": "https://x.com/Diego_F_Aguirre"
+      },
+      "summary": "Tracks a veteran household's VA.gov claims, visits, and earned perks",
+      "summary_zh": "盯着退伍军人家庭的 VA 预约索赔和能用的福利。",
+      "import": "https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL",
+      "category": "personal-admin",
+      "tags": [
+        "veteran",
+        "va",
+        "benefits"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "home-robots",
       "name": "Home robots",
       "author": {
@@ -2372,6 +2529,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "homeroom",
+      "name": "Homeroom",
+      "author": {
+        "name": "ahalvor",
+        "url": "https://x.com/ahalvor"
+      },
+      "summary": "Nightly school board that logs into the family's own parent portal",
+      "summary_zh": "每晚用家长自己的学校门户拼出作业与活动看板。",
+      "import": "https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe",
+      "category": "personal-admin",
+      "tags": [
+        "school",
+        "parent",
+        "portal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
     },
     {
       "slug": "homework-checker",
@@ -2957,6 +3134,25 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "latch",
+      "name": "Latch",
+      "author": {
+        "name": "OliverKorzen",
+        "url": "https://x.com/OliverKorzen"
+      },
+      "summary": "First-sitting onboarding that connects tools and completes one real job in the same chat",
+      "summary_zh": "一次坐下来给新用户接好工具并当场做完第一件真活。",
+      "import": "https://x.ai/bot/9nbLm_04EvjnolE9oevTT",
+      "category": "teams-handoffs",
+      "tags": [
+        "onboarding",
+        "handoff"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "lazy-tom",
       "name": "Lazy Tom",
       "author": {
@@ -3105,6 +3301,25 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "lingxis-engineer-bot",
+      "name": "Lingxi's Engineer Bot",
+      "author": {
+        "name": "lingxi",
+        "url": "https://x.com/lingxi"
+      },
+      "summary": "Hands-off eng lead that launches cloud coding agents and only asks you to merge",
+      "summary_zh": "放手的工程主管拉起云端写码代理并只让你点合并。",
+      "import": "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "cloud-agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
     },
     {
       "slug": "linkedin-desk",
@@ -3648,6 +3863,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "nightly-audit-engineer",
+      "name": "Nightly Audit Engineer",
+      "author": {
+        "name": "lingxi",
+        "url": "https://x.com/lingxi"
+      },
+      "summary": "Overnight repo read that lands one small cleanup per area",
+      "summary_zh": "夜里通读仓库每个区域只交一个小清理。",
+      "import": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+      "category": "coding-shipping",
+      "tags": [
+        "audit",
+        "cleanup",
+        "overnight"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "nikita-bier",
       "name": "Nikita Bier",
       "author": {
@@ -4058,6 +4293,24 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "product-lead",
+      "name": "Product Lead",
+      "author": {
+        "name": "Prathit"
+      },
+      "summary": "Turns product evidence into a ship, iterate, hold, or stop memo",
+      "summary_zh": "用证据把产品决策写成上线迭代搁置或停掉的备忘。",
+      "import": "https://x.ai/bot/KHEDSnSW1R74FH9kmghlA",
+      "category": "teams-handoffs",
+      "tags": [
+        "product",
+        "decisions"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "product-ops",
       "name": "Product Ops",
       "author": {
@@ -4382,6 +4635,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "research-runner",
+      "name": "Research Runner",
+      "author": {
+        "name": "useprismnetwork",
+        "url": "https://x.com/useprismnetwork"
+      },
+      "summary": "Rents Prism Network GPUs for CUDA jobs the shared computer cannot run",
+      "summary_zh": "向 Prism Network 租 GPU 跑共享电脑扛不住的 CUDA 研究活。",
+      "import": "https://x.ai/bot/P2qgQokuPHVJhrkmRDmLv",
+      "category": "research-briefings",
+      "tags": [
+        "gpu",
+        "cuda",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "returns-warranties",
       "name": "Returns & Warranties",
       "author": {
@@ -4576,6 +4849,24 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "schooladminbot",
+      "name": "SchoolAdminBot",
+      "author": {
+        "name": "Tanner"
+      },
+      "summary": "Homeschool office for any US state. Walks the legal process and admits each child",
+      "summary_zh": "按美国各州现行法规办家庭学校手续并给每个孩子办入学。",
+      "import": "https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G",
+      "category": "personal-admin",
+      "tags": [
+        "homeschool",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "scout-competitive-intelligence",
       "name": "Scout (Competitive Intelligence)",
       "author": {
@@ -4598,6 +4889,25 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "se-call-bot",
+      "name": "SE call bot",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Live backup for solutions engineers on customer calls",
+      "summary_zh": "售前工程师客户通话时的现场备份。",
+      "import": "https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE",
+      "category": "customer-sales",
+      "tags": [
+        "sales-engineer",
+        "calls"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "segundo-c-rebro",
       "name": "Segundo Cérebro",
       "author": {
@@ -4618,6 +4928,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "senior-analyst",
+      "name": "Senior Analyst",
+      "author": {
+        "name": "tobias_pfuetze",
+        "url": "https://x.com/tobias_pfuetze"
+      },
+      "summary": "OCRs financial paperwork into a spreadsheet and drafts a cited memo",
+      "summary_zh": "把财务报表图片识别进表格并写出带出处的备忘。",
+      "import": "https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV",
+      "category": "finance-ops",
+      "tags": [
+        "ocr",
+        "finance",
+        "memo"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
     },
     {
       "slug": "shane-hunter",
@@ -5118,6 +5448,24 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "teacherbot",
+      "name": "TeacherBot",
+      "author": {
+        "name": "Tanner"
+      },
+      "summary": "Homeschool teacher for one child after SchoolAdminBot admits them",
+      "summary_zh": "孩子办入学后给这一人写学年计划并执行教学。",
+      "import": "https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W",
+      "category": "personal-admin",
+      "tags": [
+        "homeschool",
+        "teaching"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "template-generator",
       "name": "template generator",
       "author": {
@@ -5358,6 +5706,46 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "usage-auditor",
+      "name": "Usage Auditor",
+      "author": {
+        "name": "maxjean__",
+        "url": "https://x.com/maxjean__"
+      },
+      "summary": "Weekly inventory of every routine, ranked by cost, with duplicate and polling flags",
+      "summary_zh": "每周盘点所有例行任务按花费排序并标出重复轮询。",
+      "import": "https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2",
+      "category": "coding-shipping",
+      "tags": [
+        "usage",
+        "routines",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
+      "slug": "usage-pool-orchestrator",
+      "name": "Usage-pool orchestrator",
+      "author": {
+        "name": "JordanHall_dev",
+        "url": "https://x.com/JordanHall_dev"
+      },
+      "summary": "Sends heavy coding jobs to Cursor, Claude Code, or Codex pools instead of Grok Bot credits",
+      "summary_zh": "把重活派给 Cursor 或 Claude Code 额度而不是烧掉 Grok Bot 用量。",
+      "import": "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD",
+      "category": "coding-shipping",
+      "tags": [
+        "usage",
+        "orchestrator",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
+    },
+    {
       "slug": "vet",
       "name": "Vet",
       "author": {
@@ -5507,6 +5895,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "whatsapp-digest",
+      "name": "WhatsApp Digest",
+      "author": {
+        "name": "PetrusJvR",
+        "url": "https://x.com/PetrusJvR"
+      },
+      "summary": "Read-only daily summary of busy WhatsApp groups. Never sends",
+      "summary_zh": "只读汇总最忙的 WhatsApp 群当天真正要紧的事。",
+      "import": "https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-",
+      "category": "inbox-calendar",
+      "tags": [
+        "whatsapp",
+        "digest",
+        "readonly"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-01"
     },
     {
       "slug": "wing",
