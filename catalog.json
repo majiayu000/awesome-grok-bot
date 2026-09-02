@@ -1822,6 +1822,29 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "cost-optimizer",
+      "name": "Cost Optimizer",
+      "author": {
+        "name": "MadeItHappenX",
+        "url": "https://x.com/MadeItHappenX"
+      },
+      "summary": "Finds the less expensive route to the same result across your agent stack",
+      "summary_zh": "在你的智能体栈里找出同样结果更省钱的路径。",
+      "import": "https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv",
+      "source": "https://x.com/MadeItHappenX/status/2095072492700455159",
+      "related": "https://grokbot.dev/marketplace/cost-optimizer/",
+      "category": "finance-ops",
+      "tags": [
+        "ops",
+        "saving-money",
+        "analytics",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "cost-smart-health-brief",
       "name": "Cost-Smart Health Brief",
       "author": {
@@ -2428,6 +2451,29 @@
         "design",
         "content",
         "social-media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
+      "slug": "engineering-qa",
+      "name": "Engineering QA",
+      "author": {
+        "name": "andreleibovici",
+        "url": "https://x.com/andreleibovici"
+      },
+      "summary": "Guards the merge bar on repos you pick, escalating only the real judgment calls",
+      "summary_zh": "守住你指定仓库的合并门槛，只把真正要拍板的问题往上抛。",
+      "import": "https://x.ai/bot/b2tS8BNj8BhoQNDcB081S",
+      "source": "https://x.com/andreleibovici/status/2095035963978522719",
+      "related": "https://grokbot.dev/marketplace/engineering-qa/",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "engineering",
+        "automation",
+        "ops"
       ],
       "license": "CC0-1.0",
       "verified": false,
@@ -5100,6 +5146,29 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "meta-grok",
+      "name": "Meta Grok",
+      "author": {
+        "name": "FrankFindsOut",
+        "url": "https://x.com/FrankFindsOut"
+      },
+      "summary": "A weekday roundup of the five Grok bots people are actually talking about",
+      "summary_zh": "工作日汇总人们真正在聊的五个 Grok Bot。",
+      "import": "https://x.ai/bot/HAhgshU4r50gS81LCcpmk",
+      "source": "https://x.com/FrankFindsOut/status/2095092686906884164",
+      "related": "https://grokbot.dev/marketplace/meta-grok/",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "news",
+        "meta-bot",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
+    },
+    {
       "slug": "milybot",
       "name": "Milybot",
       "author": {
@@ -5209,6 +5278,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "my-krishna",
+      "name": "My Krishna",
+      "author": {
+        "name": "AKSHAYBHOPANI",
+        "url": "https://x.com/AKSHAYBHOPANI"
+      },
+      "summary": "A Bhagavad Gita companion that answers in Krishna's own voice",
+      "summary_zh": "用奎师那的口吻回答你的薄伽梵歌同伴。",
+      "import": "https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG",
+      "source": "https://x.com/AKSHAYBHOPANI/status/2095049479506538710",
+      "related": "https://grokbot.dev/marketplace/my-krishna/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "wellbeing",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "mystery-snack-agent",
@@ -5358,6 +5449,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "nomad",
+      "name": "Nomad",
+      "author": {
+        "name": "PedroAnibarro",
+        "url": "https://x.com/PedroAnibarro"
+      },
+      "summary": "Keeps a running register of your agents so the stack is never locked in",
+      "summary_zh": "持续登记你手上的智能体，避免整套栈被锁死在最初那套工具上。",
+      "import": "https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3",
+      "source": "https://x.com/PedroAnibarro/status/2095095116142666116",
+      "related": "https://grokbot.dev/marketplace/nomad/",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "ops",
+        "meta-bot",
+        "data"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02"
     },
     {
       "slug": "nyc-parent",
