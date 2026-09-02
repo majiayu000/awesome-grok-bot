@@ -1296,6 +1296,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "chief-of-staff-joseph",
+      "name": "Chief of Staff (Joseph)",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "A single coordinator that routes work to a small, deliberately lean bot bench",
+      "summary_zh": "一个总协调，把活分给一小张精简的 Bot 工作台。",
+      "import": "https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal",
+        "ops",
+        "productivity",
+        "agent-team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02",
+      "source": "https://x.com/BTC_Yogi/status/2094947816028381534",
+      "related": "https://grokbot.dev/marketplace/chief-of-staff-joseph/"
+    },
+    {
       "slug": "chief-router",
       "name": "Chief (Router)",
       "author": {
@@ -1466,6 +1489,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "code-red",
+      "name": "Code Red",
+      "author": {
+        "name": "Knock",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "A rehearsed emergency stop for systems you own, gated behind your own confirmation",
+      "summary_zh": "只停你自己的系统，先演练再确认的紧急急停开关。",
+      "import": "https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "ops",
+        "engineering",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02",
+      "source": "https://x.com/SuddenlyJon/status/2094970870871585096",
+      "related": "https://grokbot.dev/marketplace/code-red/"
     },
     {
       "slug": "cold-open",
@@ -1994,6 +2040,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "dead-man-s-bot",
+      "name": "Dead Man's Bot",
+      "author": {
+        "name": "Knock",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "A contingency trigger that fires only when you stop checking in",
+      "summary_zh": "只有你漏打卡时才会触发的预案开关，载荷由你事先装好。",
+      "import": "https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "ops",
+        "automation",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02",
+      "source": "https://x.com/SuddenlyJon/status/2094981472566288703",
+      "related": "https://grokbot.dev/marketplace/dead-man-s-bot/"
     },
     {
       "slug": "deal-hunting",
@@ -4983,6 +5052,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "memento",
+      "name": "Memento",
+      "author": {
+        "name": "Mahesh",
+        "url": "https://x.com/MaheshtheDev"
+      },
+      "summary": "Lasting recall for Grok Bot, backed by an external memory store",
+      "summary_zh": "给 Grok Bot 加持久记忆，存在外部记忆库里。",
+      "import": "https://x.ai/bot/_xZZE41svJdcq2w6ZWJan",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "knowledge-base",
+        "productivity",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-02",
+      "source": "https://x.com/MaheshtheDev/status/2094947237373890593",
+      "related": "https://grokbot.dev/marketplace/memento/"
     },
     {
       "slug": "mercury",

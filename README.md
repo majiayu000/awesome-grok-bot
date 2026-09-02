@@ -59,23 +59,23 @@ Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/
 
 > Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
 
-All 405 share pages returned HTTP 200 on 2 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
+All 409 share pages returned HTTP 200 on 2 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
 
 ### Browse by job
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 54 |
+| [Coding & shipping](#coding--shipping) | 55 |
 | [Inbox & calendar](#inbox--calendar) | 22 |
 | [Research & briefings](#research--briefings) | 58 |
 | [Customer & sales](#customer--sales) | 29 |
 | [Finance & ops](#finance--ops) | 40 |
 | [Content & publishing](#content--publishing) | 67 |
-| [Personal admin](#personal-admin) | 69 |
-| [Teams & handoffs](#teams--handoffs) | 66 |
+| [Personal admin](#personal-admin) | 71 |
+| [Teams & handoffs](#teams--handoffs) | 67 |
 | **Total** | **405** |
 
-Current review status: **0 verified / 405 listed**.
+Current review status: **0 verified / 409 listed**.
 
 ## Field cases
 
@@ -205,6 +205,7 @@ One share is one bot. Assemble the roster yourself.
 - [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) - Answers on-chain questions by querying The Graph's subgraphs directly. [Derek](https://x.com/data_nexus).
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) - A dedicated coding agent that runs all software work through the Claude Code CLI. [Daniel](https://x.com/DanielZambrini).
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) - Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. [Farzad](https://x.com/farzyness).
+- [Code Red](https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD) - A rehearsed emergency stop for systems you own, gated behind your own confirmation. [Knock](https://x.com/SuddenlyJon).
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) - A bot that builds other Grok bots for you. [Lauren](https://x.com/poteto). Notes: [templates/dr-eggbot](templates/dr-eggbot/).
 - [1000x Product Engineer](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) - A full-stack product engineer that ships Convex, TanStack and React apps. [Thomas](https://x.com/TomZarebczan).
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) - Keeps a local coding agent iterating until your acceptance test passes. [dancingteeth](https://x.com/dancingteeth).
@@ -496,6 +497,7 @@ One share is one bot. Assemble the roster yourself.
 - [Chief (growth coach)](https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx) - A quiet daily check-in that keeps you to one habit at a time. [rafdotworks](https://x.com/rafdotworks).
 - [Chief Health](https://x.ai/bot/6MHDA-LzErngNoRBaktLZ) - A daily check-in that keeps a training week on track when a session slips. [AJAC](https://x.com/AJA_Cortes).
 - [Copay Compass](https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD) - Chases down help with the price of a cancer prescription and preps the paperwork. [MSaintjour](https://x.com/MSaintjour).
+- [Dead Man's Bot](https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4) - A contingency trigger that fires only when you stop checking in. [Knock](https://x.com/SuddenlyJon).
 - [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) - Answers roster and matchup questions through the assistant you already talk to. [Tyler](https://x.com/TylerNishida).
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) - Tracks every houseplant you own and nudges you before one goes thirsty. [Rich](https://x.com/RichSilver).
 - [Grokart](https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG) - Describe a purchase and get a shortlist plus a checkout link. [Luiz](https://x.com/lamorim_net).
@@ -510,6 +512,7 @@ One share is one bot. Assemble the roster yourself.
 - [Job interview hunter](https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u) - Drafts tailored applications and referral notes on a weekday cadence. [Josh](https://x.com/joshkim).
 - [Deal Hunting](https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf) - Landed-cost shopping that compares real prices including shipping and tax. [Andrej](https://x.com/scheemunai).
 - [Librarian](https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw) - Photograph your bookshelves and get a browsable personal library site. [ShaneMac](https://x.com/ShaneMac).
+- [Memento](https://x.ai/bot/_xZZE41svJdcq2w6ZWJan) - Lasting recall for Grok Bot, backed by an external memory store. [Mahesh](https://x.com/MaheshtheDev).
 - [NYC Parent](https://x.ai/bot/DiNI489Qte5ryNvZjOROb) - Runs the school-and-activities logistics of raising kids in New York. [Dennison](https://x.com/DennisonBertram).
 - [Patch](https://x.ai/bot/mZM210IvFxqswc9eaLjQa) - Seasonal lawn and border care matched to your British plot. [Benn](https://x.com/benngarnish).
 - [Review This](https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4) - Name a product and get a straight buy, skip, or pick-this-instead verdict. [dogenorway](https://x.com/DogecoinNorway).
@@ -562,6 +565,7 @@ One share is one bot. Assemble the roster yourself.
 
 ## Teams & handoffs
 
+- [Chief of Staff (Joseph)](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) - A single coordinator that routes work to a small, deliberately lean bot bench. [Joseph](https://x.com/BTC_Yogi).
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).
 - [Bouncer](https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE) - Vets another bot's share link before you let it into your fleet. [Brad](https://x.com/bradshannon).
 - [Developer](https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3) - Farms coding work out to build labs and mirrors every task on a Linear board. [Matej](https://x.com/m_check1B).
