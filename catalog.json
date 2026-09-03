@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02",
+  "generated": "2026-09-03",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -566,6 +566,28 @@
       "source": "https://x.com/Andrew51786"
     },
     {
+      "slug": "babel-live-translator",
+      "name": "Babel - live translator",
+      "author": {
+        "name": "kunalsells",
+        "url": "https://x.com/kunalsells"
+      },
+      "summary": "Drops short English translations into the chat while an international call is still running",
+      "summary_zh": "国际电话还在打时，把简短英文翻译丢进会议聊天。",
+      "import": "https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4",
+      "source": "https://x.com/kunalsells/status/2095267534110900400",
+      "related": "https://grokbot.dev/marketplace/babel-live-translator/",
+      "category": "teams-handoffs",
+      "tags": [
+        "meetings",
+        "translator",
+        "voice"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "bandit",
       "name": "Bandit",
       "author": {
@@ -586,6 +608,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "baut",
+      "name": "Baut",
+      "author": {
+        "name": "XAmandaMoore",
+        "url": "https://x.com/XAmandaMoore"
+      },
+      "summary": "A copilot for shipping Grok.me games and making cash-honest product calls",
+      "summary_zh": "帮你把 Grok.me 游戏做出去，产品决策按真金白银来。",
+      "import": "https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx",
+      "category": "coding-shipping",
+      "tags": [
+        "games",
+        "shipping",
+        "grok-me"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "be-happier",
@@ -1078,6 +1120,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "charge-maestro",
+      "name": "Charge Maestro",
+      "author": {
+        "name": "JOwens254",
+        "url": "https://x.com/JOwens254"
+      },
+      "summary": "Sets EV charge amps from leftover solar so the Powerwall still fills before peak",
+      "summary_zh": "按剩下的光伏功率调电动车充电电流，先让 Powerwall 在高峰前充满。",
+      "import": "https://x.ai/bot/29uyQjSrZ3dTb4Ctf7S3w",
+      "category": "personal-admin",
+      "tags": [
+        "ev",
+        "solar",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "chatprd",
       "name": "ChatPRD",
       "author": {
@@ -1514,6 +1576,68 @@
       "related": "https://grokbot.dev/marketplace/code-red/"
     },
     {
+      "slug": "code-team-spawn",
+      "name": "Code Team Spawn",
+      "author": {
+        "name": "bryanofearth",
+        "url": "https://x.com/bryanofearth"
+      },
+      "summary": "Sits idle until you need a coding team, then interviews and spawns a hidden five-person crew",
+      "summary_zh": "平时闲着，你要编码团队时才面试并拉起一支隐藏的五人小队。",
+      "import": "https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3",
+      "category": "teams-handoffs",
+      "tags": [
+        "coding",
+        "roster",
+        "spawn"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
+      "slug": "code-team-spawn-conductor",
+      "name": "Code Team Spawn Conductor",
+      "author": {
+        "name": "bryanofearth",
+        "url": "https://x.com/bryanofearth"
+      },
+      "summary": "Updated spawn that interviews, then stands up a Conductor plus a hidden five-person coding crew",
+      "summary_zh": "更新版拉队，面试后立一个 Conductor，再加一支隐藏的五人编码小队。",
+      "import": "https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X",
+      "category": "teams-handoffs",
+      "tags": [
+        "coding",
+        "roster",
+        "conductor"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
+      "slug": "coffee-companion",
+      "name": "coffee companion",
+      "author": {
+        "name": "andymadrick",
+        "url": "https://x.com/andymadrick"
+      },
+      "summary": "Works out how to brew each new bag and keeps the log in Notion",
+      "summary_zh": "给每一袋新豆子算出冲法，并把冲煮记录写进 Notion。",
+      "import": "https://x.ai/bot/SqO-_5207iInz0iDSAFVW",
+      "source": "https://x.com/andymadrick/status/2095287853450399859",
+      "related": "https://grokbot.dev/marketplace/coffee-companion/",
+      "category": "personal-admin",
+      "tags": [
+        "coffee",
+        "notion",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "cold-open",
       "name": "Sitcom banger",
       "author": {
@@ -1732,6 +1856,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "convert-x-money-to-karma",
+      "name": "Convert X Money to Karma",
+      "author": {
+        "name": "ludiofelix",
+        "url": "https://x.com/ludiofelix"
+      },
+      "summary": "Converts money, tokens, and engagement into karmic accounting with a ten percent watermark up the royalty chain",
+      "summary_zh": "把钱、代币和互动记成因果账，并沿版权链上浮百分之十水印。",
+      "import": "https://x.ai/bot/iCn7r691OdtaB_o8MtHx_",
+      "category": "personal-admin",
+      "tags": [
+        "karma",
+        "tokens",
+        "accounting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "cookie-monster",
@@ -2109,6 +2253,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "deck-guy",
+      "name": "deck-guy",
+      "author": {
+        "name": "pavravi",
+        "url": "https://x.com/pavravi"
+      },
+      "summary": "Builds the post-call slide deck straight out of the transcript",
+      "summary_zh": "根据通话记录直接做出会后幻灯片。",
+      "import": "https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH",
+      "source": "https://x.com/pavravi/status/2095194505876316378",
+      "related": "https://grokbot.dev/marketplace/deck-guy/",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "decks",
+        "meetings"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "decklens-pitch-deck-analyzer",
       "name": "DeckLens (Pitch Deck Analyzer)",
       "author": {
@@ -2327,6 +2493,28 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "dosebot",
+      "name": "dosebot",
+      "author": {
+        "name": "onerinas",
+        "url": "https://x.com/onerinas"
+      },
+      "summary": "Tells you whether a business idea is a nice-to-have or a genuine ache",
+      "summary_zh": "判断一个生意点子是锦上添花还是真痛点。",
+      "import": "https://x.ai/bot/2euxntVrddHyA3c2hyxiZ",
+      "source": "https://x.com/onerinas/status/2095221346578186249",
+      "related": "https://grokbot.dev/marketplace/dosebot/",
+      "category": "research-briefings",
+      "tags": [
+        "founder",
+        "ideas",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "dr-eggbot",
       "name": "dr eggbot",
       "author": {
@@ -2346,6 +2534,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "dr-web-lp",
+      "name": "Dr Web LP",
+      "author": {
+        "name": "old_pgmrs_will",
+        "url": "https://x.com/old_pgmrs_will"
+      },
+      "summary": "Give it a picture of a web page and it builds that page in HTML and CSS",
+      "summary_zh": "给它一张网页图，它就用 HTML 和 CSS 把那页搭出来。",
+      "import": "https://x.ai/bot/xM153pKfXPLWagLi_O1vR",
+      "source": "https://x.com/old_pgmrs_will/status/2095140627252125835",
+      "related": "https://grokbot.dev/marketplace/dr-web-lp/",
+      "category": "coding-shipping",
+      "tags": [
+        "html",
+        "css",
+        "frontend"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "earnings-desk",
@@ -2568,6 +2778,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "fable-5-1-oracle",
+      "name": "Fable 5.1 Oracle",
+      "author": {
+        "name": "bossriceshark",
+        "url": "https://x.com/bossriceshark"
+      },
+      "summary": "Thinks the build through and checks the work, but never writes the code itself",
+      "summary_zh": "把怎么做想清楚并检查成品，自己从不写代码。",
+      "import": "https://x.ai/bot/tLSg4HxepSclMqbZUTRnX",
+      "source": "https://x.com/bossriceshark/status/2095151692706967931",
+      "related": "https://grokbot.dev/marketplace/fable-5-1-oracle/",
+      "category": "coding-shipping",
+      "tags": [
+        "planning",
+        "review",
+        "claude-code"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "facebook-group-scout",
       "name": "facebook group scout",
       "author": {
@@ -2677,6 +2909,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "farm",
+      "name": "Farm",
+      "author": {
+        "name": "mpieras",
+        "url": "https://x.com/mpieras"
+      },
+      "summary": "Sends the heavy coding work off to its own machine and brings back just the result",
+      "summary_zh": "把重编码活扔到自己的机器上，聊天里只带回结果。",
+      "import": "https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa",
+      "source": "https://x.com/mpieras/status/2095120187389263968",
+      "related": "https://grokbot.dev/marketplace/farm/",
+      "category": "coding-shipping",
+      "tags": [
+        "claude-code",
+        "usage",
+        "agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "feedback",
@@ -2852,6 +3106,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "fondi",
+      "name": "Fondi",
+      "author": {
+        "name": "naoufal_elh",
+        "url": "https://x.com/naoufal_elh"
+      },
+      "summary": "Reads your company's website and staffs you a leadership bench of bots",
+      "summary_zh": "读你公司网站，再给你配一套领导层机器人。",
+      "import": "https://x.ai/bot/qL920VjKyua3_u89UYnQL",
+      "source": "https://x.com/naoufal_elh/status/2095292060731396277",
+      "related": "https://grokbot.dev/marketplace/fondi/",
+      "category": "teams-handoffs",
+      "tags": [
+        "roster",
+        "founder",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "forge-dev-factory",
@@ -3115,6 +3391,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "global-macro-analyst",
+      "name": "全球宏观分析师",
+      "author": {
+        "name": "Fund_Monkey",
+        "url": "https://x.com/Fund_Monkey"
+      },
+      "summary": "Reads big macro events for what they do to rates, the dollar, gold, crypto and equities",
+      "summary_zh": "看大事对利率、美元、黄金、加密货币和股市会怎么传。",
+      "import": "https://x.ai/bot/08RSf587bOlWhbQai6A3I",
+      "source": "https://x.com/Fund_Monkey/status/2095172991223234844",
+      "related": "https://grokbot.dev/marketplace/global-macro-analyst/",
+      "category": "research-briefings",
+      "tags": [
+        "macro",
+        "markets",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "gonzalo-s-smb-manager",
@@ -3464,6 +3762,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "grokleros",
+      "name": "Grokleros",
+      "author": {
+        "name": "JayBuidl",
+        "url": "https://x.com/JayBuidl"
+      },
+      "summary": "A 24/7 Kleros V2 juror that reads evidence pixels-first and votes via AgentKit",
+      "summary_zh": "全天候的 Kleros V2 陪审员，先看证据像素，再用 AgentKit 投票。",
+      "import": "https://x.ai/bot/vsCDaIn2Od_BkfWp0Vehm",
+      "category": "finance-ops",
+      "tags": [
+        "kleros",
+        "crypto",
+        "juror"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "growth-desk",
@@ -4369,6 +4687,50 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "know-enemy",
+      "name": "Know Enemy",
+      "author": {
+        "name": "SaaSocalypse",
+        "url": "https://x.com/SaaSocalypse"
+      },
+      "summary": "Keeps a running read on the rivals you name, drawn only from what is already public",
+      "summary_zh": "只根据已经公开的材料，持续盯你点名的对手。",
+      "import": "https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz",
+      "source": "https://x.com/SaaSocalypse/status/2095145997613887825",
+      "related": "https://grokbot.dev/marketplace/know-enemy/",
+      "category": "customer-sales",
+      "tags": [
+        "osint",
+        "competitors",
+        "gtm"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
+      "slug": "know-yourself",
+      "name": "Know Yourself",
+      "author": {
+        "name": "SaaSocalypse",
+        "url": "https://x.com/SaaSocalypse"
+      },
+      "summary": "Turns your own company records into one answer everyone can quote",
+      "summary_zh": "把公司自己的记录收成大家都能引用的一个答案。",
+      "import": "https://x.ai/bot/mD27QOhXb_plMRSbsvMOv",
+      "source": "https://x.com/SaaSocalypse/status/2095145997613887825",
+      "related": "https://grokbot.dev/marketplace/know-yourself/",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "knowledge",
+        "company"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "koala",
       "name": "koala",
       "author": {
@@ -4645,6 +5007,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "likeness",
+      "name": "Likeness",
+      "author": {
+        "name": "Knock",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Locks a named person or animal from photos or a clip so later stills and clips still look like them",
+      "summary_zh": "用照片或片段锁住某个具体的人或动物，后面生成的图和视频还像他们。",
+      "import": "https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD",
+      "category": "content-publishing",
+      "tags": [
+        "image",
+        "video",
+        "likeness"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "lina",
       "name": "Lina",
       "author": {
@@ -4749,6 +5131,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "lite-intel-fetch",
+      "name": "Lite Intel Fetch",
+      "author": {
+        "name": "RandyWhitePDX",
+        "url": "https://x.com/RandyWhitePDX"
+      },
+      "summary": "Fetches an unpaid buy_intel_pack HTTP 402 on Base and returns the JSON for agents that can pay x402",
+      "summary_zh": "去拉 Base 上未付的 buy_intel_pack HTTP 402，把 JSON 交给会付 x402 的代理。",
+      "import": "https://x.ai/bot/FQRA5tERWsasaQGIZmBl_",
+      "category": "coding-shipping",
+      "tags": [
+        "x402",
+        "agents",
+        "fetch"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "local-deals",
@@ -5057,6 +5459,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "medical-bill-review",
+      "name": "Medical Bill Review",
+      "author": {
+        "name": "MSaintjour",
+        "url": "https://x.com/MSaintjour"
+      },
+      "summary": "Screens an itemized medical bill against published protections and drafts the dispute letter for you to send",
+      "summary_zh": "对照公开的保护条款看明细账单，起草争议信给你自己发。",
+      "import": "https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY",
+      "category": "finance-ops",
+      "tags": [
+        "billing",
+        "healthcare",
+        "dispute"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "melissa-fitness-nutrition-coach",
       "name": "Melissa",
       "author": {
@@ -5278,6 +5700,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "multibot",
+      "name": "multiBot",
+      "author": {
+        "name": "simo255",
+        "github": "simo255",
+        "url": "https://github.com/simo255"
+      },
+      "summary": "Spawns CLI-delegated teammates via CreateAgent so Grok only orchestrates and the CLI does the deep work",
+      "summary_zh": "用 CreateAgent 拉起把重活交给 CLI 的队友，Grok 只负责调度。",
+      "import": "https://x.ai/bot/Ey28W_8uyJPN_DS_M2CvD",
+      "source": "https://github.com/simo255/multiBot",
+      "related": "https://github.com/simo255/multiBot",
+      "category": "teams-handoffs",
+      "tags": [
+        "roster",
+        "cli",
+        "factory"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "my-krishna",
@@ -6017,6 +6462,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "price-error-agent",
+      "name": "Price Error Agent",
+      "author": {
+        "name": "yoda_FDE",
+        "url": "https://x.com/yoda_FDE"
+      },
+      "summary": "Spots pricing mistakes at Australian retailers and on flights out of Australia",
+      "summary_zh": "盯澳大利亚大商店和出境机票上的标价错误。",
+      "import": "https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L",
+      "source": "https://x.com/yoda_FDE/status/2095261094076207107",
+      "related": "https://grokbot.dev/marketplace/price-error-agent/",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "travel",
+        "deals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "private-desk",
@@ -7760,6 +8227,28 @@
       "source": "https://x.com/funkii"
     },
     {
+      "slug": "table-money",
+      "name": "Table Money",
+      "author": {
+        "name": "Andrew51786",
+        "url": "https://x.com/Andrew51786"
+      },
+      "summary": "Chases down invoices and refunds you never closed out, then drafts the follow-up without sending",
+      "summary_zh": "把没结清的发票和退款找出来，起草跟进信但不代发。",
+      "import": "https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM",
+      "source": "https://x.com/Andrew51786/status/2095176422767599794",
+      "related": "https://grokbot.dev/marketplace/table-money/",
+      "category": "finance-ops",
+      "tags": [
+        "invoices",
+        "refunds",
+        "collections"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "talent-matchmaker",
       "name": "Talent Matchmaker",
       "author": {
@@ -7865,6 +8354,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "tesla-bot",
+      "name": "Tesla Bot",
+      "author": {
+        "name": "mvanhorn",
+        "url": "https://x.com/mvanhorn"
+      },
+      "summary": "Runs your Tesla from a chat window once the two are paired",
+      "summary_zh": "配对之后，在聊天窗口里遥控你的 Tesla。",
+      "import": "https://x.ai/bot/l4EozO2deoaWFB8hOGwTY",
+      "source": "https://x.com/mvanhorn/status/2095297598450274524",
+      "related": "https://grokbot.dev/marketplace/tesla-bot/",
+      "category": "personal-admin",
+      "tags": [
+        "tesla",
+        "ev",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "teslascope",
@@ -8481,6 +8992,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "wall-street",
+      "name": "Wall Street",
+      "author": {
+        "name": "CoonInvestments",
+        "url": "https://x.com/CoonInvestments"
+      },
+      "summary": "Keeps a make-believe trading book with a running profit and loss log, never sending a real order",
+      "summary_zh": "做一本假想交易账，记下盈亏，从不真下单。",
+      "import": "https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm",
+      "source": "https://x.com/CoonInvestments/status/2095299431499182089",
+      "related": "https://grokbot.dev/marketplace/wall-street/",
+      "category": "finance-ops",
+      "tags": [
+        "paper-trading",
+        "journal",
+        "markets"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
+    },
+    {
       "slug": "walt",
       "name": "Walt",
       "author": {
@@ -8976,6 +9509,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "zettelkasten",
+      "name": "Zettelkasten",
+      "author": {
+        "name": "pohlipit",
+        "url": "https://x.com/pohlipit"
+      },
+      "summary": "A slip-box partner for an Obsidian vault that files atomic notes only after you say yes",
+      "summary_zh": "给 Obsidian 金库当卡片盒搭档，原子笔记只在你点头后才归档。",
+      "import": "https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c",
+      "category": "research-briefings",
+      "tags": [
+        "notes",
+        "obsidian",
+        "wiki"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-03"
     },
     {
       "slug": "zeus",
