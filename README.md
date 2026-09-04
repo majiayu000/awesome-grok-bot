@@ -59,23 +59,23 @@ Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/
 
 > Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
 
-All 485 share pages returned HTTP 200 on 4 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
+All 494 share pages returned HTTP 200 on 4 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
 
 ### Browse by job
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 70 |
+| [Coding & shipping](#coding--shipping) | 71 |
 | [Inbox & calendar](#inbox--calendar) | 23 |
-| [Research & briefings](#research--briefings) | 68 |
+| [Research & briefings](#research--briefings) | 69 |
 | [Customer & sales](#customer--sales) | 34 |
-| [Finance & ops](#finance--ops) | 51 |
+| [Finance & ops](#finance--ops) | 53 |
 | [Content & publishing](#content--publishing) | 72 |
-| [Personal admin](#personal-admin) | 86 |
-| [Teams & handoffs](#teams--handoffs) | 81 |
-| **Total** | **485** |
+| [Personal admin](#personal-admin) | 89 |
+| [Teams & handoffs](#teams--handoffs) | 83 |
+| **Total** | **494** |
 
-Current review status: **0 verified / 485 listed**.
+Current review status: **0 verified / 494 listed**.
 
 ## Field cases
 
@@ -272,6 +272,7 @@ One share is one bot. Assemble the roster yourself.
 - [Sworm](https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_) - Sealed family sketches and detection ideas, never a runnable malware sample. [Knock](https://x.com/SuddenlyJon).
 - [Twinwright](https://x.ai/bot/Hvli5amrlprtDS2KuFRBP) - Logs or it did not happen; static maps only, never runs the file. [Knock](https://x.com/SuddenlyJon).
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign watcher with no verdicts, part of Bottyguard SEAL Team 7. [Knock](https://x.com/SuddenlyJon).
+- [ASC Skill](https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta) - Walks an iOS release through App Store Connect step by step. [Phil_Holland](https://x.com/Phil_Holland).
 
 ## Inbox & calendar
 
@@ -369,6 +370,7 @@ One share is one bot. Assemble the roster yourself.
 - [しおり](https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt) - Morning digest of X bookmarks into themes and a next move in short Japanese. [marulimoai](https://x.com/marulimoai).
 - [The Amazing Randibot](https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx) - A cheerful skeptic that makes your other bots prove it. [russbroomell](https://x.com/russbroomell).
 - [voice of the people](https://x.ai/bot/8Snl1TovbMwClPoBiHrWT) - X watch bot that notifies only on new in-scope hits and stays quiet otherwise. [DenisLabelle](https://x.com/DenisLabelle).
+- [下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF) - Turns long videos and podcasts into searchable Chinese transcripts. [KinGao476942](https://x.com/KinGao476942).
 
 ## Customer & sales
 
@@ -460,6 +462,8 @@ One share is one bot. Assemble the roster yourself.
 - [Precog wARS](https://x.ai/bot/7M8RpppF2AistbVbeEPyN) - Reads Precog prediction-market odds in Spanish, and never trades. [ferminrp](https://x.com/ferminrp).
 - [Token Cop](https://x.ai/bot/Ml4ynlD6O1VT5CoYmFnEa) - Spend management across agents for token usage and optimization suggestions. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray desk for trading workflows. [Ortix008](https://x.com/Ortix008).
+- [The Bitcoin Layer](https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7) - Alerts only when The Bitcoin Layer Pulse indicator turns. [Tferriere](https://x.com/Tferriere).
+- [Arnold](https://x.ai/bot/ymoMdfvzdErOrclxCOaC_) - Watches Cursor usage cost and nudges agents onto cheaper models. [Kelseyshuo](https://x.com/Kelseyshuo).
 
 ## Content & publishing
 
@@ -624,6 +628,9 @@ One share is one bot. Assemble the roster yourself.
 - [orders](https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie) - A personal desk for every parcel, receipt and refund you are waiting on. [wafffls](https://x.com/wafffls).
 - [Tab Janitor](https://x.ai/bot/XOYBYmHQrUT_Ux88SS409) - Clears the abandoned tabs out of a shared cloud browser. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [The Fool](https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O) - Court jester that short-jokes and lightly roasts the hustle on a fixed cadence. [EvSlatts](https://x.com/EvSlatts).
+- [Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_) - Daily search-engine check for what is newly public about you. [gkamstra](https://x.com/gkamstra).
+- [Rosettabot](https://x.ai/bot/eegdusTdLPabH7xTLQfgG) - Explains a foreign-language bot card before you install it. [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) - Daily handful of early-stage jobs the big boards miss. [deysourav7091](https://x.com/deysourav7091).
 
 ## Teams & handoffs
 
@@ -708,6 +715,8 @@ One share is one bot. Assemble the roster yourself.
 - [Operator](https://x.ai/bot/YgM8FiKS0WczveQXe6edr) - One daily brief for founders, in place of forty open tabs. [mjjefford](https://x.com/mjjefford).
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) - Keeps watch over the fleet of bots you already run. [LeTerryBZH](https://x.com/LeTerryBZH).
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) - Founder chief of staff with hard authority boundaries on hiring, contracts, and budget. [JohnnyWang8802](https://x.com/JohnnyWang8802).
+- [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) - Audits your bot fleet against written rules and flags overlap. [rjdhardesty](https://x.com/rjdhardesty).
+- [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) - Front desk in front of a bench of specialist bots. [MitchTiler](https://x.com/MitchTiler).
 
 ## Skills and tools
 

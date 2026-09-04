@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04",
+  "generated": "2026-09-04T20:00:00+08:00",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -561,6 +561,50 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "arnold",
+      "name": "Arnold",
+      "author": {
+        "name": "Kelseyshuo",
+        "url": "https://x.com/Kelseyshuo"
+      },
+      "summary": "Watches Cursor usage cost and nudges agents onto cheaper models",
+      "summary_zh": "盯着 Cursor 用量花钱，该省时把 agent 换成更便宜的模型。",
+      "import": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+      "category": "finance-ops",
+      "tags": [
+        "cost",
+        "cursor",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/Kelseyshuo/status/2095701119355834859",
+      "related": "https://grokbot.dev/marketplace/arnold/"
+    },
+    {
+      "slug": "asc-skill",
+      "name": "ASC Skill",
+      "author": {
+        "name": "Phil_Holland",
+        "url": "https://x.com/Phil_Holland"
+      },
+      "summary": "Walks an iOS release through App Store Connect step by step",
+      "summary_zh": "一步步带着走完 App Store Connect 的 iOS 上架流程。",
+      "import": "https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta",
+      "category": "coding-shipping",
+      "tags": [
+        "ios",
+        "app-store",
+        "release"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/Phil_Holland/status/2095703454089990347",
+      "related": "https://grokbot.dev/marketplace/asc-skill/"
     },
     {
       "slug": "austin-parent",
@@ -1483,6 +1527,28 @@
       "updated": "2026-09-02",
       "source": "https://x.com/BTC_Yogi/status/2094947816028381534",
       "related": "https://grokbot.dev/marketplace/chief-of-staff-joseph/"
+    },
+    {
+      "slug": "chief-of-staff-tyler",
+      "name": "Chief",
+      "author": {
+        "name": "MitchTiler",
+        "url": "https://x.com/MitchTiler"
+      },
+      "summary": "Front desk in front of a bench of specialist bots",
+      "summary_zh": "一个前台对接整队专员 bot，用书面简报交接。",
+      "import": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+      "category": "teams-handoffs",
+      "tags": [
+        "agent-team",
+        "ops",
+        "chief-of-staff"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/MitchTiler/status/2095711121193996674",
+      "related": "https://grokbot.dev/marketplace/chief-of-staff-tyler/"
     },
     {
       "slug": "chief-router",
@@ -2659,6 +2725,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03"
+    },
+    {
+      "slug": "download-expert",
+      "name": "下载专家",
+      "author": {
+        "name": "KinGao476942",
+        "url": "https://x.com/KinGao476942"
+      },
+      "summary": "Turns long videos and podcasts into searchable Chinese transcripts",
+      "summary_zh": "把长视频和播客转成能搜可读的中文文稿，顺手捞公开论文。",
+      "import": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+      "category": "research-briefings",
+      "tags": [
+        "transcript",
+        "research",
+        "chinese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/KinGao476942/status/2095774247805472910",
+      "related": "https://grokbot.dev/marketplace/download-expert/"
     },
     {
       "slug": "dr-binary",
@@ -4012,6 +4100,28 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "grokbot-optimizer",
+      "name": "GrokBot Optimizer",
+      "author": {
+        "name": "rjdhardesty",
+        "url": "https://x.com/rjdhardesty"
+      },
+      "summary": "Audits your bot fleet against written rules and flags overlap",
+      "summary_zh": "对照你写的规则审计整队 bot，标出重叠和跑偏。",
+      "import": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+      "category": "teams-handoffs",
+      "tags": [
+        "meta-bot",
+        "ops",
+        "fleet"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/rjdhardesty/status/2095764915919458768",
+      "related": "https://grokbot.dev/marketplace/grokbot-optimizer/"
+    },
+    {
       "slug": "grokleros",
       "name": "Grokleros",
       "author": {
@@ -4859,6 +4969,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "join-a-startup-bot",
+      "name": "Join a Startup Bot",
+      "author": {
+        "name": "deysourav7091",
+        "url": "https://x.com/deysourav7091"
+      },
+      "summary": "Daily handful of early-stage jobs the big boards miss",
+      "summary_zh": "每天送来几条大板子上看不到的早期岗位。",
+      "import": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "startup",
+        "recruiting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/deysourav7091/status/2095719866691133940",
+      "related": "https://grokbot.dev/marketplace/join-a-startup-bot/"
     },
     {
       "slug": "jordan-belfort",
@@ -6458,6 +6590,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "online-identity-bot",
+      "name": "Online Identity Bot",
+      "author": {
+        "name": "gkamstra",
+        "url": "https://x.com/gkamstra"
+      },
+      "summary": "Daily search-engine check for what is newly public about you",
+      "summary_zh": "每天查一遍搜索引擎里新冒出来的你的公开信息。",
+      "import": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+      "category": "personal-admin",
+      "tags": [
+        "privacy",
+        "monitoring",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/gkamstra/status/2095837272687964512",
+      "related": "https://grokbot.dev/marketplace/online-identity-bot/"
+    },
+    {
       "slug": "openrobot",
       "name": "openrobot",
       "author": {
@@ -7743,6 +7897,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04"
+    },
+    {
+      "slug": "rosettabot",
+      "name": "Rosettabot",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Explains a foreign-language bot card before you install it",
+      "summary_zh": "装之前先用你的语言讲清楚一张外文 bot 卡片在干什么。",
+      "import": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+      "category": "personal-admin",
+      "tags": [
+        "meta-bot",
+        "translation",
+        "marketplace"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/SuddenlyJon/status/2095736749372649823",
+      "related": "https://grokbot.dev/marketplace/rosettabot/"
     },
     {
       "slug": "runtimewire",
@@ -9236,6 +9412,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04"
+    },
+    {
+      "slug": "the-bitcoin-layer",
+      "name": "The Bitcoin Layer",
+      "author": {
+        "name": "Tferriere",
+        "url": "https://x.com/Tferriere"
+      },
+      "summary": "Alerts only when The Bitcoin Layer Pulse indicator turns",
+      "summary_zh": "只在 The Bitcoin Layer 的 Pulse 指标拐头时提醒你。",
+      "import": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "liquidity",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-04",
+      "source": "https://x.com/Tferriere/status/2095770015723393337",
+      "related": "https://grokbot.dev/marketplace/the-bitcoin-layer/"
     },
     {
       "slug": "the-bobs",

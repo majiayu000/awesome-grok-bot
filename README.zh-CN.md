@@ -59,23 +59,23 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 > 社区分享是不可信的第三方软件。先看 profile，只接一个连接器，先跑只读任务，再开写入。不要把 API key 写进 SETUP。见 [SECURITY.md](SECURITY.md)。
 
-2026 年 9 月 4 日检查时，485 个分享页全部返回 HTTP 200。这只能证明页面能打开，不能证明 Bot 安全或能按描述工作。[catalog.json](catalog.json) 中的 `verified: true` 表示维护者已经导入并完成一次安全的首次任务。
+2026 年 9 月 4 日检查时，494 个分享页全部返回 HTTP 200。这只能证明页面能打开，不能证明 Bot 安全或能按描述工作。[catalog.json](catalog.json) 中的 `verified: true` 表示维护者已经导入并完成一次安全的首次任务。
 
 ### 按工作类型找
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 70 |
+| [Coding & shipping](#coding--shipping) | 71 |
 | [Inbox & calendar](#inbox--calendar) | 23 |
-| [Research & briefings](#research--briefings) | 68 |
+| [Research & briefings](#research--briefings) | 69 |
 | [Customer & sales](#customer--sales) | 34 |
-| [Finance & ops](#finance--ops) | 51 |
+| [Finance & ops](#finance--ops) | 53 |
 | [Content & publishing](#content--publishing) | 72 |
-| [Personal admin](#personal-admin) | 86 |
-| [Teams & handoffs](#teams--handoffs) | 81 |
-| **合计** | **485** |
+| [Personal admin](#personal-admin) | 89 |
+| [Teams & handoffs](#teams--handoffs) | 83 |
+| **合计** | **494** |
 
-当前核验状态：**0 条已核验 / 485 条已收录**。
+当前核验状态：**0 条已核验 / 494 条已收录**。
 
 ## 真人案例
 
@@ -272,6 +272,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Sworm](https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_) - 密封的家族草图和检测思路，从不给可运行样本。 [Knock](https://x.com/SuddenlyJon).
 - [Twinwright](https://x.ai/bot/Hvli5amrlprtDS2KuFRBP) - 没日志就算没发生，只出静态图，从不跑文件。 [Knock](https://x.com/SuddenlyJon).
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign 监视器，不下判决，属于 Bottyguard SEAL Team 7。 [Knock](https://x.com/SuddenlyJon).
+- [ASC Skill](https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta) - 一步步带着走完 App Store Connect 的 iOS 上架流程。 [Phil_Holland](https://x.com/Phil_Holland).
 
 ## Inbox & calendar
 
@@ -369,6 +370,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [しおり](https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt) - 把 X 书签收成主题和下一步，用简短日语做早间摘要。 [marulimoai](https://x.com/marulimoai).
 - [The Amazing Randibot](https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx) - 开朗的怀疑派，逼你其他 Bot 拿出证据。 [russbroomell](https://x.com/russbroomell).
 - [voice of the people](https://x.ai/bot/8Snl1TovbMwClPoBiHrWT) - 盯 X，只在范围内有新命中时通知，其余保持安静。 [DenisLabelle](https://x.com/DenisLabelle).
+- [下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF) - 把长视频和播客转成能搜可读的中文文稿，顺手捞公开论文。 [KinGao476942](https://x.com/KinGao476942).
 
 ## Customer & sales
 
@@ -460,6 +462,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Precog wARS](https://x.ai/bot/7M8RpppF2AistbVbeEPyN) - 用西班牙语读 Precog 预测市场赔率，从不下单。 [ferminrp](https://x.com/ferminrp).
 - [Token Cop](https://x.ai/bot/Ml4ynlD6O1VT5CoYmFnEa) - 管各代理的代币花销，并给出省用量建议。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray 交易工作台。 [Ortix008](https://x.com/Ortix008).
+- [The Bitcoin Layer](https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7) - 只在 The Bitcoin Layer 的 Pulse 指标拐头时提醒你。 [Tferriere](https://x.com/Tferriere).
+- [Arnold](https://x.ai/bot/ymoMdfvzdErOrclxCOaC_) - 盯着 Cursor 用量花钱，该省时把 agent 换成更便宜的模型。 [Kelseyshuo](https://x.com/Kelseyshuo).
 
 ## Content & publishing
 
@@ -624,6 +628,9 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [orders](https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie) - 把你在等的包裹、小票和退款收成一张个人台面。 [wafffls](https://x.com/wafffls).
 - [Tab Janitor](https://x.ai/bot/XOYBYmHQrUT_Ux88SS409) - 清掉共享云浏览器里废弃的标签页。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [The Fool](https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O) - 宫廷弄臣，按固定节奏讲冷笑话并轻损 hustle。 [EvSlatts](https://x.com/EvSlatts).
+- [Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_) - 每天查一遍搜索引擎里新冒出来的你的公开信息。 [gkamstra](https://x.com/gkamstra).
+- [Rosettabot](https://x.ai/bot/eegdusTdLPabH7xTLQfgG) - 装之前先用你的语言讲清楚一张外文 bot 卡片在干什么。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) - 每天送来几条大板子上看不到的早期岗位。 [deysourav7091](https://x.com/deysourav7091).
 
 ## Teams & handoffs
 
@@ -708,6 +715,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Operator](https://x.ai/bot/YgM8FiKS0WczveQXe6edr) - 给创始人一份日常简报，代替四十个开着的标签页。 [mjjefford](https://x.com/mjjefford).
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) - 盯着你已经在跑的那支 Bot 舰队。 [LeTerryBZH](https://x.com/LeTerryBZH).
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) - 创始人幕僚长，招聘、合同和预算有硬权限边界。 [JohnnyWang8802](https://x.com/JohnnyWang8802).
+- [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) - 对照你写的规则审计整队 bot，标出重叠和跑偏。 [rjdhardesty](https://x.com/rjdhardesty).
+- [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) - 一个前台对接整队专员 bot，用书面简报交接。 [MitchTiler](https://x.com/MitchTiler).
 
 ## 技能和工具
 
