@@ -59,23 +59,23 @@ Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/
 
 > Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
 
-All 440 share pages returned HTTP 200 on 3 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
+All 485 share pages returned HTTP 200 on 4 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
 
 ### Browse by job
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 61 |
-| [Inbox & calendar](#inbox--calendar) | 22 |
-| [Research & briefings](#research--briefings) | 62 |
-| [Customer & sales](#customer--sales) | 31 |
-| [Finance & ops](#finance--ops) | 45 |
-| [Content & publishing](#content--publishing) | 68 |
-| [Personal admin](#personal-admin) | 77 |
-| [Teams & handoffs](#teams--handoffs) | 74 |
-| **Total** | **440** |
+| [Coding & shipping](#coding--shipping) | 70 |
+| [Inbox & calendar](#inbox--calendar) | 23 |
+| [Research & briefings](#research--briefings) | 68 |
+| [Customer & sales](#customer--sales) | 34 |
+| [Finance & ops](#finance--ops) | 51 |
+| [Content & publishing](#content--publishing) | 72 |
+| [Personal admin](#personal-admin) | 86 |
+| [Teams & handoffs](#teams--handoffs) | 81 |
+| **Total** | **485** |
 
-Current review status: **0 verified / 440 listed**.
+Current review status: **0 verified / 485 listed**.
 
 ## Field cases
 
@@ -263,6 +263,15 @@ One share is one bot. Assemble the roster yourself.
 - [Fable 5.1 Oracle](https://x.ai/bot/tLSg4HxepSclMqbZUTRnX) - Thinks the build through and checks the work, but never writes the code itself. [bossriceshark](https://x.com/bossriceshark).
 - [Farm](https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa) - Sends the heavy coding work off to its own machine and brings back just the result. [mpieras](https://x.com/mpieras).
 - [Lite Intel Fetch](https://x.ai/bot/FQRA5tERWsasaQGIZmBl_) - Fetches an unpaid buy_intel_pack HTTP 402 on Base and returns the JSON for agents that can pay x402. [RandyWhitePDX](https://x.com/RandyWhitePDX).
+- [Buzzkill](https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh) - Writes a four-heading Grokumentary and waits for a human yes before any quarantine. [Knock](https://x.com/SuddenlyJon).
+- [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) - Reverse-engineering help for malware, firmware, and vuln-research binaries. [drbinaryai](https://x.com/drbinaryai).
+- [Grokologist](https://x.ai/bot/8vdHXq66kVvVlbACd-IDL) - Turns Wormsign into two intent graphs that chase motive, not vibe. [Knock](https://x.com/SuddenlyJon).
+- [Kinesis Portal Bot](https://x.ai/bot/-GgufM3GkZclfn9PuI17_) - Hands-on operator for portal.kinesis.network machines, Docker apps, and idle hardware. [4SimonSays](https://x.com/4SimonSays).
+- [Mirror](https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb) - Can pause anyone, including Bottyguard, while hunting injection and leash breaks. [Knock](https://x.com/SuddenlyJon).
+- [Omnibot](https://x.ai/bot/OzZrG8ek4AhutfTVhBCI0) - Runs any Cursor CLI model from Grok Bot after setup writes your intent table. [ericzakariasson](https://x.com/ericzakariasson).
+- [Sworm](https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_) - Sealed family sketches and detection ideas, never a runnable malware sample. [Knock](https://x.com/SuddenlyJon).
+- [Twinwright](https://x.ai/bot/Hvli5amrlprtDS2KuFRBP) - Logs or it did not happen; static maps only, never runs the file. [Knock](https://x.com/SuddenlyJon).
+- [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign watcher with no verdicts, part of Bottyguard SEAL Team 7. [Knock](https://x.com/SuddenlyJon).
 
 ## Inbox & calendar
 
@@ -288,6 +297,7 @@ One share is one bot. Assemble the roster yourself.
 - [Ship Note](https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL) - Turns a finished release into a changelog entry and an email. [sol_wright7](https://x.com/sol_wright7).
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) - A household chief of staff for family plans, school and home admin. [clairevo](https://x.com/clairevo).
 - [WhatsApp Digest](https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-) - Read-only daily summary of busy WhatsApp groups. Never sends. [PetrusJvR](https://x.com/PetrusJvR).
+- [TenderYearsbot](https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07) - Kids-under-5 household logistics from Gmail, Calendar, and Tender Years. [voeliz](https://x.com/voeliz).
 
 ## Research & briefings
 
@@ -353,6 +363,12 @@ One share is one bot. Assemble the roster yourself.
 - [dosebot](https://x.ai/bot/2euxntVrddHyA3c2hyxiZ) - Tells you whether a business idea is a nice-to-have or a genuine ache. [onerinas](https://x.com/onerinas).
 - [全球宏观分析师](https://x.ai/bot/08RSf587bOlWhbQai6A3I) - Reads big macro events for what they do to rates, the dollar, gold, crypto and equities. [Fund_Monkey](https://x.com/Fund_Monkey).
 - [Zettelkasten](https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c) - A slip-box partner for an Obsidian vault that files atomic notes only after you say yes. [pohlipit](https://x.com/pohlipit).
+- [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) - Mines your week for one startup idea worth chasing, every hour. [onerinas](https://x.com/onerinas).
+- [PickFu Insights](https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn) - Test a product idea on real shoppers before you build it. [GrokBotMoney](https://x.com/GrokBotMoney).
+- [Primer](https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe) - Straight answers about how Grok Bot actually behaves. [ambientstudio24](https://x.com/ambientstudio24).
+- [しおり](https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt) - Morning digest of X bookmarks into themes and a next move in short Japanese. [marulimoai](https://x.com/marulimoai).
+- [The Amazing Randibot](https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx) - A cheerful skeptic that makes your other bots prove it. [russbroomell](https://x.com/russbroomell).
+- [voice of the people](https://x.ai/bot/8Snl1TovbMwClPoBiHrWT) - X watch bot that notifies only on new in-scope hits and stays quiet otherwise. [DenisLabelle](https://x.com/DenisLabelle).
 
 ## Customer & sales
 
@@ -387,6 +403,9 @@ One share is one bot. Assemble the roster yourself.
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) - Autonomous SEO engineer that bootstraps SEOAgent in your site repo and grows organic traffic. [SEOAgent_](https://x.com/SEOAgent_).
 - [deck-guy](https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH) - Builds the post-call slide deck straight out of the transcript. [pavravi](https://x.com/pavravi).
 - [Know Enemy](https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz) - Keeps a running read on the rivals you name, drawn only from what is already public. [SaaSocalypse](https://x.com/SaaSocalypse).
+- [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) - Finds and qualifies LinkedIn people, then sequences views, requests, and DMs. [myphonely](https://x.com/myphonely).
+- [MyPhonely Phone Driver](https://x.ai/bot/00LpQytGgJbn3KTdUJREV) - Drives a real Android phone through MyPhonely for outreach without cloud credentials. [myphonely](https://x.com/myphonely).
+- [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) - Finds the revenue already sitting in your HubSpot pipeline. [ericosiu](https://x.com/ericosiu).
 
 ## Finance & ops
 
@@ -435,6 +454,12 @@ One share is one bot. Assemble the roster yourself.
 - [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) - Screens an itemized medical bill against published protections and drafts the dispute letter for you to send. [MSaintjour](https://x.com/MSaintjour).
 - [Table Money](https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM) - Chases down invoices and refunds you never closed out, then drafts the follow-up without sending. [Andrew51786](https://x.com/Andrew51786).
 - [Wall Street](https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm) - Keeps a make-believe trading book with a running profit and loss log, never sending a real order. [CoonInvestments](https://x.com/CoonInvestments).
+- [Appeal Desk](https://x.ai/bot/yOiPm69HN5FujdkvvysF9) - Turns denial letters and EOBs into appeal packages without treating the plan as orders. [MSaintjour](https://x.com/MSaintjour).
+- [Chained Oblivion](https://x.ai/bot/Loekv1uecl26wWW0lNyfR) - Finds the software you keep paying for and nobody uses. [mjjefford](https://x.com/mjjefford).
+- [Denial Desk](https://x.ai/bot/EgfoyJEx7bfDiHlZUwr3P) - Reads medical denial letters and codes, then builds an appeal package. [Andrew51786](https://x.com/Andrew51786).
+- [Precog wARS](https://x.ai/bot/7M8RpppF2AistbVbeEPyN) - Reads Precog prediction-market odds in Spanish, and never trades. [ferminrp](https://x.com/ferminrp).
+- [Token Cop](https://x.ai/bot/Ml4ynlD6O1VT5CoYmFnEa) - Spend management across agents for token usage and optimization suggestions. [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray desk for trading workflows. [Ortix008](https://x.com/Ortix008).
 
 ## Content & publishing
 
@@ -506,6 +531,10 @@ One share is one bot. Assemble the roster yourself.
 - [Universal Video Downloader](https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ) - Paste a video link and get a playable MP4 from X, Reels, YouTube, TikTok, and more. [ApexSMK](https://x.com/ApexSMK).
 - [Vidmoat Bot](https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc) - Cuts, previews, and renders videos in Vidmoat over MCP into an editable timeline. [vidmoat](https://x.com/vidmoat).
 - [Likeness](https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD) - Locks a named person or animal from photos or a clip so later stills and clips still look like them. [Knock](https://x.com/SuddenlyJon).
+- [AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f) - Turns one photograph into a short, moody film clip. [KinGao476942](https://x.com/KinGao476942).
+- [Shotcraft](https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F) - Builds a launch video for your product, storyboard to sound mix. [Tferriere](https://x.com/Tferriere).
+- [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) - Finds and downloads official video clips, then returns the file plus the source link. [DogecoinNorway](https://x.com/DogecoinNorway).
+- [X Algo](https://x.ai/bot/W0LrVwNwsRHhFY4PG7586) - Tells you whether to post now, quote something, or sit tight. [UziObi](https://x.com/UziObi).
 
 ## Personal admin
 
@@ -586,6 +615,15 @@ One share is one bot. Assemble the roster yourself.
 - [Convert X Money to Karma](https://x.ai/bot/iCn7r691OdtaB_o8MtHx_) - Converts money, tokens, and engagement into karmic accounting with a ten percent watermark up the royalty chain. [ludiofelix](https://x.com/ludiofelix).
 - [Price Error Agent](https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L) - Spots pricing mistakes at Australian retailers and on flights out of Australia. [yoda_FDE](https://x.com/yoda_FDE).
 - [Tesla Bot](https://x.ai/bot/l4EozO2deoaWFB8hOGwTY) - Runs your Tesla from a chat window once the two are paired. [mvanhorn](https://x.com/mvanhorn).
+- [Dean of Students](https://x.ai/bot/_hsyZUFgPzgxGxW2wIYAj) - Pulls one child's school admin into a single prepared queue. [ErinnFL](https://x.com/ErinnFL).
+- [Fantasy GM (blank slate)](https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A) - Fantasy football GM for draft, trades, and roster that does not arrive knowing a league. [TylerNishida](https://x.com/TylerNishida).
+- [Grok Customer Support](https://x.ai/bot/1PSI6qQln1PowM5reA_8L) - Sits on hold with customer support so you do not have to. [jakewlittle](https://x.com/jakewlittle).
+- [Grok Customer Support (Brent)](https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf) - Eggbot-pruned Twilio to Grok Voice bridge that calls customer support for you. [littletechbird](https://x.com/littletechbird).
+- [LRT Kelana Jaya Line](https://x.ai/bot/LLScxVm-la-ik4JJde3A1) - Transit helper for Malaysia's LRT Kelana Jaya Line. [shahrulestar](https://x.com/shahrulestar).
+- [Magnum Seiba](https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb) - Run your Tesla from a chat window for climate, charging, locks and routes. [Kamkom05](https://x.com/Kamkom05).
+- [orders](https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie) - A personal desk for every parcel, receipt and refund you are waiting on. [wafffls](https://x.com/wafffls).
+- [Tab Janitor](https://x.ai/bot/XOYBYmHQrUT_Ux88SS409) - Clears the abandoned tabs out of a shared cloud browser. [SuddenlyJon](https://x.com/SuddenlyJon).
+- [The Fool](https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O) - Court jester that short-jokes and lightly roasts the hustle on a fixed cadence. [EvSlatts](https://x.com/EvSlatts).
 
 ## Teams & handoffs
 
@@ -663,6 +701,13 @@ One share is one bot. Assemble the roster yourself.
 - [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) - Reads your company's website and staffs you a leadership bench of bots. [naoufal_elh](https://x.com/naoufal_elh).
 - [Know Yourself](https://x.ai/bot/mD27QOhXb_plMRSbsvMOv) - Turns your own company records into one answer everyone can quote. [SaaSocalypse](https://x.com/SaaSocalypse).
 - [multiBot](https://x.ai/bot/Ey28W_8uyJPN_DS_M2CvD) - Spawns CLI-delegated teammates via CreateAgent so Grok only orchestrates and the CLI does the deep work. [simo255](https://github.com/simo255).
+- [Bottyguard](https://x.ai/bot/PFI2o0ZcruL6vjjHAm5cF) - Squad lead for the Bottyguard SEAL Team 7 security bots. [Knock](https://x.com/SuddenlyJon).
+- [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) - Keeps a shared knowledge base and audits a multi-bot fleet for overlap. [FranciscoKemeny](https://x.com/FranciscoKemeny).
+- [Jarvis by Marquis](https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2) - Day-to-day partner for weekday briefs, open loops, mail watch, and connector setup. [DhalgrenMarquis](https://x.com/DhalgrenMarquis).
+- [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) - A stick-around Grok Bot partner for people used to Claude or Codex. [DhalgrenMarquis](https://x.com/DhalgrenMarquis).
+- [Operator](https://x.ai/bot/YgM8FiKS0WczveQXe6edr) - One daily brief for founders, in place of forty open tabs. [mjjefford](https://x.com/mjjefford).
+- [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) - Keeps watch over the fleet of bots you already run. [LeTerryBZH](https://x.com/LeTerryBZH).
+- [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) - Founder chief of staff with hard authority boundaries on hiring, contracts, and budget. [JohnnyWang8802](https://x.com/JohnnyWang8802).
 
 ## Skills and tools
 
@@ -679,6 +724,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [grokbot-shim](https://github.com/codeaashu/grokbot-shim) - Run Grok Bot locally with a computer desktop and configurable Codex or OpenAI-compatible models.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS. Study-only, archived.
 - [grok-bot-0.18-original](https://github.com/ChHsiching/grok-bot-0.18-original) - Unminified 0.18.0 runtime archive, split per module, byte-for-byte reproducible.
+- [omabot](https://github.com/njpatel/omabot) - Puts your Grok Bot roster in the Omarchy bar, read-only, faces and all.
 
 ### Model and factory
 
@@ -758,6 +804,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [unlist](https://github.com/shawnyeager/unlist) - Local data-broker removal playbook plus CLI tracker. Give BOT.md to a Grok Bot to drive opt-outs.
 - [pigeon-mcp](https://github.com/iXanadu/pigeon-mcp) - Self-hosted multi-account Gmail MCP with real MIME send and attachments, not Google's hosted MCP.
 - [multiBot](https://github.com/simo255/multiBot) - Factory pack that spawns CLI-delegated teammates through CreateAgent.
+- [GojiberryAI Sales OS](https://github.com/romangojiberryAI/gojiberryai-sales-os) - Open outbound sales roster for Grok Bot on the GojiberryAI MCP.
 
 ### Indexes
 
