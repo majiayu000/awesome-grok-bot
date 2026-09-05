@@ -859,6 +859,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory. Paste a listing into Grok Bot and it sets itself up.
 - [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent-run directory of prompts, plugins, and use cases. PRs are the write API.
+- [GrokMarket](https://grokmarket.io) - Independent directory of public Grok Bot templates with prompts, usage notes, creator attribution, and live x.ai previews.
 - [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - Day-one directory, strong on marketplace format and self-hosted runtimes.
 - [awesome-grok-bot-plugins](https://github.com/rdmgator12/awesome-grok-bot-plugins) - 219 in-app marketplace listings captured 2026-08-12, grouped by category.
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - Ready-to-paste prompt library across productivity, sales, marketing, and ops.
