@@ -59,7 +59,7 @@ Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/
 
 > Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
 
-All 532 share pages returned HTTP 200 on 5 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
+All 534 share pages returned HTTP 200 on 5 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
 
 ### Browse by job
 
@@ -69,13 +69,13 @@ All 532 share pages returned HTTP 200 on 5 Sep 2026. That proves the page was re
 | [Inbox & calendar](#inbox--calendar) | 24 |
 | [Research & briefings](#research--briefings) | 72 |
 | [Customer & sales](#customer--sales) | 38 |
-| [Finance & ops](#finance--ops) | 57 |
-| [Content & publishing](#content--publishing) | 76 |
+| [Finance & ops](#finance--ops) | 58 |
+| [Content & publishing](#content--publishing) | 77 |
 | [Personal admin](#personal-admin) | 99 |
 | [Teams & handoffs](#teams--handoffs) | 90 |
-| **Total** | **532** |
+| **Total** | **534** |
 
-Current review status: **0 verified / 532 listed**.
+Current review status: **0 verified / 534 listed**.
 
 ## Field cases
 
@@ -427,6 +427,7 @@ One share is one bot. Assemble the roster yourself.
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) - Watches your deliveries and speaks up the moment one stops moving. [liam_fallen](https://x.com/liam_fallen).
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) - Zero ETH BOTCOIN mining rig onboarding miner. [BOTCOIN](https://x.com/MineBotcoin).
 - [Cost Optimizer](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) - Finds the less expensive route to the same result across your agent stack. [MadeItHappenX](https://x.com/MadeItHappenX).
+- [Grant Packet Assembler](https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef) - Builds Georgia grant packets for a compliance read; drafts only, you submit. [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [Reaper](https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73) - Finds the subscriptions, meetings and processes that should be killed. [Liam](https://x.com/liam_fallen).
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) - Digs through your email and bills for refunds and credits you never chased. [Liam](https://x.com/liam_fallen).
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) - Finds money you are already owed but have not collected. [Lauren](https://x.com/poteto).
@@ -493,6 +494,7 @@ One share is one bot. Assemble the roster yourself.
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) - Reviews ads, search and Shopify performance from a single place. [Dmitry](https://x.com/irabukht).
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) - Plans each YouTube upload as one promise the video has to keep. [Gabriel](https://x.com/gabe_onchain).
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) - Mines a day of AI news and ranks what actually deserves a post. [Gabriel](https://x.com/adamuchigabriel).
+- [Music Video Release](https://x.ai/bot/vagsUEIt5s7lexKnSes2H) - Turns a track and lyrics into a timed shot list and prompt board. [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) - Pulls a usable four-part colour scheme out of any reference photo. [Michael](https://x.com/subforti).
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) - Queues the finished posts and pushes each one live at the right local hour. [Gabriel](https://x.com/adamuchigabriel).
 - [Social Media GTM Bot](https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ) - A founder content lead that recycles posts, runs comment-to-DM magnets, and publishes after you approve. [Antoine](https://x.com/Antoine).

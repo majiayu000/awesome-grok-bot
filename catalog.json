@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T09:00:00+08:00",
+  "generated": "2026-09-05T16:00:00+08:00",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -4022,6 +4022,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "grant-packet-assembler",
+      "name": "Grant Packet Assembler",
+      "author": {
+        "name": "OmgawdMadeit",
+        "url": "https://x.com/OmgawdMadeit"
+      },
+      "summary": "Builds Georgia grant packets for a compliance read; drafts only, you submit",
+      "summary_zh": "按佐治亚州项目要求起草合规申报包，只写稿不提交。",
+      "import": "https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef",
+      "source": "https://x.com/OmgawdMadeit/status/2096127964668629458",
+      "related": "https://grokbot.dev/marketplace/grant-packet-assembler/",
+      "category": "finance-ops",
+      "tags": [
+        "grants",
+        "compliance",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-05"
+    },
+    {
       "slug": "grimoire-s-tome-the-grim-council",
       "name": "Grimoire's Tome & The Grim Council",
       "author": {
@@ -6821,6 +6843,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03"
+    },
+    {
+      "slug": "music-video-release",
+      "name": "Music Video Release",
+      "author": {
+        "name": "OmgawdMadeit",
+        "url": "https://x.com/OmgawdMadeit"
+      },
+      "summary": "Turns a track and lyrics into a timed shot list and prompt board",
+      "summary_zh": "把成曲和歌词做成分镜时间表和可粘贴提示板，不拍不传。",
+      "import": "https://x.ai/bot/vagsUEIt5s7lexKnSes2H",
+      "source": "https://x.com/OmgawdMadeit/status/2096127964668629458",
+      "related": "https://grokbot.dev/marketplace/music-video-release/",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "creator",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-05"
     },
     {
       "slug": "my-krishna",

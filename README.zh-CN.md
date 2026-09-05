@@ -59,7 +59,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 > 社区分享是不可信的第三方软件。先看 profile，只接一个连接器，先跑只读任务，再开写入。不要把 API key 写进 SETUP。见 [SECURITY.md](SECURITY.md)。
 
-2026 年 9 月 5 日检查时，532 个分享页全部返回 HTTP 200。这只能证明页面能打开，不能证明 Bot 安全或能按描述工作。[catalog.json](catalog.json) 中的 `verified: true` 表示维护者已经导入并完成一次安全的首次任务。
+2026 年 9 月 5 日检查时，534 个分享页全部返回 HTTP 200。这只能证明页面能打开，不能证明 Bot 安全或能按描述工作。[catalog.json](catalog.json) 中的 `verified: true` 表示维护者已经导入并完成一次安全的首次任务。
 
 ### 按工作类型找
 
@@ -69,13 +69,13 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Inbox & calendar](#inbox--calendar) | 24 |
 | [Research & briefings](#research--briefings) | 72 |
 | [Customer & sales](#customer--sales) | 38 |
-| [Finance & ops](#finance--ops) | 57 |
-| [Content & publishing](#content--publishing) | 76 |
+| [Finance & ops](#finance--ops) | 58 |
+| [Content & publishing](#content--publishing) | 77 |
 | [Personal admin](#personal-admin) | 99 |
 | [Teams & handoffs](#teams--handoffs) | 90 |
-| **合计** | **532** |
+| **合计** | **534** |
 
-当前核验状态：**0 条已核验 / 532 条已收录**。
+当前核验状态：**0 条已核验 / 534 条已收录**。
 
 ## 真人案例
 
@@ -427,6 +427,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) - 盯着物流，包裹一停就提醒你。 [liam_fallen](https://x.com/liam_fallen).
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) - 零 ETH 的 BOTCOIN 挖矿装置，带新矿工上手。 [BOTCOIN](https://x.com/MineBotcoin).
 - [Cost Optimizer](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) - 在你的智能体栈里找出同样结果更省钱的路径。 [MadeItHappenX](https://x.com/MadeItHappenX).
+- [Grant Packet Assembler](https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef) - 按佐治亚州项目要求起草合规申报包，只写稿不提交。 [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [Reaper](https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73) - 找出该砍掉的订阅、会议和流程。 [Liam](https://x.com/liam_fallen).
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) - 翻邮件和账单，找你从没追过的退款和额度。 [Liam](https://x.com/liam_fallen).
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) - 找出你已经该收、却还没去要的钱。 [Lauren](https://x.com/poteto).
@@ -493,6 +494,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) - 在一个地方复盘广告、搜索和 Shopify 的表现。 [Dmitry](https://x.com/irabukht).
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) - 把每条 YouTube 上传当成一个必须兑现的承诺来策划。 [Gabriel](https://x.com/gabe_onchain).
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) - 挖一整天的 AI 新闻，排出真正值得发帖的那几条。 [Gabriel](https://x.com/adamuchigabriel).
+- [Music Video Release](https://x.ai/bot/vagsUEIt5s7lexKnSes2H) - 把成曲和歌词做成分镜时间表和可粘贴提示板，不拍不传。 [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) - 从任意参考照片里提出一套能直接用的四色配色。 [Michael](https://x.com/subforti).
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) - 把写好的帖子排队，按各地合适的时间点逐条推出去。 [Gabriel](https://x.com/adamuchigabriel).
 - [Social Media GTM Bot](https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ) - 给创始人当内容负责人，把内容循环发到 Instagram、TikTok、YouTube、X 和 LinkedIn。 [Antoine](https://x.com/Antoine).
