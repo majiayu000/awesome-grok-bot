@@ -10,13 +10,15 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 社区维护的 Grok Bot 公开分享索引。这里不是 Grok Bot 源码，也不是安装器。
+> 能在 `x.ai` 预览、再一键 Add 的公开 Grok Bot 分享，外加真人怎么跑的写法。
 
-[Grok Bot](https://docs.x.ai/grok-bot/overview) 是一款让具名 AI 队友在共用云电脑上持续工作的应用。这个仓库帮你找到公开 Bot 配置，先在 `x.ai` 预览，再添加到自己的账号。
+[Grok Bot](https://docs.x.ai/grok-bot/overview) 是让具名 AI 队友在共用云电脑上持续干活的应用。来这里找分享、预览，再 Add。
 
 ## 目录
 
 - [怎么用](#怎么用)
+  - [先试这几个](#先试这几个)
+  - [按工作类型找](#按工作类型找)
 - [真人案例](#真人案例)
   - [编制](#编制)
   - [电脑上手活](#电脑上手活)
@@ -59,7 +61,16 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 > 社区分享是不可信的第三方软件。先看 profile，只接一个连接器，先跑只读任务，再开写入。不要把 API key 写进 SETUP。见 [SECURITY.md](SECURITY.md)。
 
-2026 年 9 月 5 日检查时，534 个分享页全部返回 HTTP 200。这只能证明页面能打开，不能证明 Bot 安全或能按描述工作。[catalog.json](catalog.json) 中的 `verified: true` 表示维护者已经导入并完成一次安全的首次任务。
+### 先试这几个
+
+先加一个。打开分享，点 Add，跑一次只读任务。
+
+- **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · 把长视频和播客转成能搜可读的中文文稿。
+- **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · 每天查一遍搜索引擎里新冒出来的你的公开信息。
+- **[AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f)** · 把一张照片做成一小段有情绪的短片。
+- **[Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7)** · 每天送来几条大板子上看不到的早期岗位。
+
+完整列表在下面，按活分类。真人案例和踩坑在链接墙上面。
 
 ### 按工作类型找
 
@@ -75,7 +86,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Teams & handoffs](#teams--handoffs) | 90 |
 | **合计** | **534** |
 
-当前核验状态：**0 条已核验 / 534 条已收录**。
+2026 年 9 月 5 日检查时，534 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 534 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 

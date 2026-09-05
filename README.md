@@ -10,13 +10,15 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> A community-maintained index of public Grok Bot shares. This is not the Grok Bot source code or an installer.
+> Public Grok Bot shares you can preview on `x.ai` and Add. Plus writeups of how people actually run them.
 
-[Grok Bot](https://docs.x.ai/grok-bot/overview) is an app for persistent, named AI teammates that work through a shared cloud computer. This repo helps you find public Bot configurations to preview on `x.ai` and add to your own account.
+[Grok Bot](https://docs.x.ai/grok-bot/overview) is an app for persistent, named AI teammates on a shared cloud computer. Use this repo to find a share, preview it, then Add.
 
 ## Contents
 
 - [How to use](#how-to-use)
+  - [Try these first](#try-these-first)
+  - [Browse by job](#browse-by-job)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)
   - [Computer-use jobs](#computer-use-jobs)
@@ -59,7 +61,16 @@ Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/
 
 > Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
 
-All 534 share pages returned HTTP 200 on 5 Sep 2026. That proves the page was reachable, not that the Bot is safe or works as described. In [catalog.json](catalog.json), `verified: true` means a maintainer imported the Bot and completed a safe first task.
+### Try these first
+
+Start with one share. Open it, hit Add, run a read-only task.
+
+- **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · Turns long videos and podcasts into searchable Chinese transcripts.
+- **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · Daily search-engine check for what is newly public about you.
+- **[AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f)** · Turns one photograph into a short, moody film clip.
+- **[Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7)** · Daily handful of early-stage jobs the big boards miss.
+
+The full list is below, grouped by job. Field cases and gotchas sit above the wall of links.
 
 ### Browse by job
 
@@ -75,7 +86,7 @@ All 534 share pages returned HTTP 200 on 5 Sep 2026. That proves the page was re
 | [Teams & handoffs](#teams--handoffs) | 90 |
 | **Total** | **534** |
 
-Current review status: **0 verified / 534 listed**.
+All 534 share pages returned HTTP 200 on 5 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 534 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
