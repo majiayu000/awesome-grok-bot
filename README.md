@@ -82,11 +82,11 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Customer & sales](#customer--sales) | 44 |
 | [Finance & ops](#finance--ops) | 68 |
 | [Content & publishing](#content--publishing) | 82 |
-| [Personal admin](#personal-admin) | 107 |
+| [Personal admin](#personal-admin) | 108 |
 | [Teams & handoffs](#teams--handoffs) | 94 |
-| **Total** | **587** |
+| **Total** | **588** |
 
-All 587 share pages returned HTTP 200 on 6 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 587 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 588 share pages returned HTTP 200 on 6 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 588 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -642,6 +642,7 @@ One share is one bot. Assemble the roster yourself.
 - [My Krishna](https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG) - A Bhagavad Gita companion that answers in Krishna's own voice. [AKSHAYBHOPANI](https://x.com/AKSHAYBHOPANI).
 - [NYC Parent](https://x.ai/bot/DiNI489Qte5ryNvZjOROb) - Runs the school-and-activities logistics of raising kids in New York. [Dennison](https://x.com/DennisonBertram).
 - [Patch](https://x.ai/bot/mZM210IvFxqswc9eaLjQa) - Seasonal lawn and border care matched to your British plot. [Benn](https://x.com/benngarnish).
+- [Raven](https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs) - A sharp nutrition coach that logs meals from text or a photo. [Josiah](https://x.com/dezmathio).
 - [Review This](https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4) - Name a product and get a straight buy, skip, or pick-this-instead verdict. [dogenorway](https://x.com/DogecoinNorway).
 - [Shop](https://x.ai/bot/nlIApzau1qw0MNiRkqbPH) - Searches Shopify stores and hands back a short list, approval required. [Alex](https://x.com/alex_chehimi).
 - [Paperwork](https://x.ai/bot/mNN576TxXnc_XZu9aCsfr) - Works out what a boring document is and what you have to do about it. [Liam](https://x.com/liam_fallen).
