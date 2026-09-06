@@ -671,6 +671,26 @@
       "related": "https://grokbot.dev/marketplace/arnold/"
     },
     {
+      "slug": "arthur",
+      "name": "Arthur",
+      "author": {
+        "name": "LatchKeyLegend",
+        "url": "https://x.com/LatchKeyLegend"
+      },
+      "summary": "Writes a full children's picture book from a topic and an age range",
+      "summary_zh": "给主题和适读年龄，写出一整本儿童图画书。",
+      "import": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "writing",
+        "books"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-06"
+    },
+    {
       "slug": "article-access",
       "name": "Article Access",
       "author": {
@@ -2515,6 +2535,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "crew",
+      "name": "Crew",
+      "author": {
+        "name": "LatchKeyLegend",
+        "url": "https://x.com/LatchKeyLegend"
+      },
+      "summary": "Coaching for managers on how to actually run their team",
+      "summary_zh": "给管理者当教练，教怎么把团队真正带起来。",
+      "import": "https://x.ai/bot/RU2Y_7E3646T5IelLhnOq",
+      "category": "teams-handoffs",
+      "tags": [
+        "coaching",
+        "management",
+        "teams"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-06"
     },
     {
       "slug": "critiquito",
@@ -4878,6 +4918,26 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "habit-referee",
+      "name": "Habit Referee",
+      "author": {
+        "name": "GrokBotGod",
+        "url": "https://x.com/GrokBotGod"
+      },
+      "summary": "Holds you to exactly one small habit, and nothing else",
+      "summary_zh": "只盯着你定的那一个小习惯，别的不管。",
+      "import": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+      "category": "personal-admin",
+      "tags": [
+        "habit",
+        "wellbeing",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-06"
+    },
+    {
       "slug": "harry-dry",
       "name": "Harry Dry",
       "author": {
@@ -5278,6 +5338,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "illy",
+      "name": "Illy",
+      "author": {
+        "name": "LatchKeyLegend",
+        "url": "https://x.com/LatchKeyLegend"
+      },
+      "summary": "The illustrator half of a children's storybook bot pair",
+      "summary_zh": "儿童故事书机器人搭档里负责插画的那一半。",
+      "import": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "design",
+        "illustration"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-06"
     },
     {
       "slug": "imogen-alt-text",
@@ -8817,6 +8897,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "radar",
+      "name": "Radar",
+      "author": {
+        "name": "LatchKeyLegend",
+        "url": "https://x.com/LatchKeyLegend"
+      },
+      "summary": "Watches your city's public feeds and reports what is happening nearby",
+      "summary_zh": "盯着你所在城市的公开信息源，汇报附近正在发生的事。",
+      "import": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "news",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-06"
     },
     {
       "slug": "raily",
