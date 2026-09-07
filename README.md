@@ -82,11 +82,11 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Customer & sales](#customer--sales) | 45 |
 | [Finance & ops](#finance--ops) | 71 |
 | [Content & publishing](#content--publishing) | 91 |
-| [Personal admin](#personal-admin) | 118 |
+| [Personal admin](#personal-admin) | 119 |
 | [Teams & handoffs](#teams--handoffs) | 98 |
-| **Total** | **624** |
+| **Total** | **625** |
 
-All 624 share pages returned HTTP 200 on 7 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 624 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 625 share pages returned HTTP 200 on 7 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 625 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -651,6 +651,7 @@ One share is one bot. Assemble the roster yourself.
 - [Dead Man's Bot](https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4) - A contingency trigger that fires only when you stop checking in. [Knock](https://x.com/SuddenlyJon).
 - [Discogs-Bot](https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW) - Manages Discogs collection, wantlist and marketplace checks. [alexhawat](https://x.com/alexhawat).
 - [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) - Answers roster and matchup questions through the assistant you already talk to. [Tyler](https://x.com/TylerNishida).
+- [FireWatch](https://x.ai/bot/oWw62I6pd414i8xIO3azs) - Watches for wildfires near your home and only speaks up when something changes. [RobautoAI](https://x.com/RobautoAI).
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) - Tracks every houseplant you own and nudges you before one goes thirsty. [Rich](https://x.com/RichSilver).
 - [Golf Caddie](https://x.ai/bot/HAJavif4ssNOQku9JQsp-) - Pocket golf caddie for weekend players. [Brantley_Brum](https://x.com/Brantley_Brum).
 - [Grokart](https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG) - Describe a purchase and get a shortlist plus a checkout link. [Luiz](https://x.com/lamorim_net).

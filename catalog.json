@@ -4110,6 +4110,28 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "firewatch",
+      "name": "FireWatch",
+      "author": {
+        "name": "RobautoAI",
+        "url": "https://x.com/RobautoAI"
+      },
+      "summary": "Watches for wildfires near your home and only speaks up when something changes",
+      "summary_zh": "盯着你家附近的山火动态，有变化才开口。",
+      "import": "https://x.ai/bot/oWw62I6pd414i8xIO3azs",
+      "related": "https://grokbot.dev/marketplace/firewatch/",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "monitoring",
+        "home",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-07"
+    },
+    {
       "slug": "first-principles",
       "name": "First Principles",
       "author": {
