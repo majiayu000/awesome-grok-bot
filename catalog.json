@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08",
+  "generated": "2026-09-09",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -223,6 +223,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "adventure-bot",
+      "name": "Adventure Bot",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Suggests one outing pin sized to the free time and mood you name",
+      "summary_zh": "按你空闲时长和心情，只给一个出门玩的地点",
+      "import": "https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f",
+      "category": "personal-admin",
+      "tags": [
+        "outing",
+        "travel",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/SuddenlyJon/status/2097457053501407614",
+      "related": "https://grokbot.dev/bots/adventure-bot"
+    },
+    {
       "slug": "ae-deal-bot",
       "name": "AE deal bot",
       "author": {
@@ -330,6 +352,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "ai-fitness-coach",
+      "name": "AI fitness coach",
+      "author": {
+        "name": "debs_obrien",
+        "url": "https://x.com/debs_obrien"
+      },
+      "summary": "Builds a training and eating plan around the time and kit you actually have",
+      "summary_zh": "按你真实空闲时间和手头器械，写训练与饮食计划",
+      "import": "https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH",
+      "category": "personal-admin",
+      "tags": [
+        "fitness",
+        "health",
+        "habits"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/debs_obrien/status/2097431086443770027",
+      "related": "https://grokbot.dev/bots/ai-fitness-coach"
     },
     {
       "slug": "ai-harness-assistant",
@@ -609,6 +653,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "app-store-review-bot",
+      "name": "App Store Review Bot",
+      "author": {
+        "name": "stevederico",
+        "url": "https://x.com/stevederico"
+      },
+      "summary": "Audits iOS apps before App Review and guides rejection responses",
+      "summary_zh": "上架前审计 iOS 应用，并指导 App Review 被拒后的回复",
+      "import": "https://x.ai/bot/KzBEylM_3NFTjATszLICV",
+      "category": "coding-shipping",
+      "tags": [
+        "ios",
+        "app-store",
+        "review"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/stevederico"
     },
     {
       "slug": "appeal-desk",
@@ -989,6 +1054,28 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "benebot",
+      "name": "BeneBot",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Explains the benefits programmes open to you in plain language",
+      "summary_zh": "用白话讲清你能领到的福利项目，帮你看懂该用哪一项",
+      "import": "https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn",
+      "category": "personal-admin",
+      "tags": [
+        "benefits",
+        "hr",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/SuddenlyJon/status/2097460362522005595",
+      "related": "https://grokbot.dev/bots/benebot"
+    },
+    {
       "slug": "best-video-editor",
       "name": "Best Video Editor",
       "author": {
@@ -1096,6 +1183,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "blueberry-research-monitor",
+      "name": "藍苺守 織",
+      "author": {
+        "name": "Bizuayeu",
+        "url": "https://x.com/Bizuayeu"
+      },
+      "summary": "Morning blueberry research monitor that stays quiet when nothing new matters",
+      "summary_zh": "每天早上扫蓝莓论文与行业新闻，有干货才报，没料就安静",
+      "import": "https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "agriculture",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/Bizuayeu/status/2097338867154309585",
+      "related": "https://grokbot.dev/bots/blueberry-research-monitor"
     },
     {
       "slug": "blunt",
@@ -1478,6 +1587,28 @@
       "updated": "2026-09-04"
     },
     {
+      "slug": "calibre",
+      "name": "Calibre",
+      "author": {
+        "name": "doitian",
+        "url": "https://x.com/doitian"
+      },
+      "summary": "Converts ebooks between formats in chat using the Calibre toolchain",
+      "summary_zh": "在对话里用 Calibre 工具链互转电子书格式",
+      "import": "https://x.ai/bot/uaKyhDX_T3FY56jf6n4VL",
+      "category": "personal-admin",
+      "tags": [
+        "ebooks",
+        "calibre",
+        "conversion"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/doitian/status/2097173000705745308",
+      "related": "https://grokbot.dev/bots/calibre"
+    },
+    {
       "slug": "call-desk",
       "name": "Call Desk",
       "author": {
@@ -1561,6 +1692,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06"
+    },
+    {
+      "slug": "canonizer",
+      "name": "Canonizer",
+      "author": {
+        "name": "hudcos",
+        "url": "https://x.com/hudcos"
+      },
+      "summary": "Keeps one running status file that carries work between sessions",
+      "summary_zh": "把跨会话的进度收成一份持续更新的状态文件",
+      "import": "https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg",
+      "category": "teams-handoffs",
+      "tags": [
+        "continuity",
+        "status",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/hudcos/status/2097309182584094975",
+      "related": "https://grokbot.dev/bots/canonizer"
     },
     {
       "slug": "canvas",
@@ -2526,6 +2679,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "constitution-teacher",
+      "name": "Constitution Teacher",
+      "author": {
+        "name": "angie_kuaile",
+        "url": "https://x.com/angie_kuaile"
+      },
+      "summary": "Opens the US Constitution and teaches it in plain language with citations",
+      "summary_zh": "打开美国宪法原文，用白话讲解并附出处",
+      "import": "https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS",
+      "category": "research-briefings",
+      "tags": [
+        "constitution",
+        "civics",
+        "teaching"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/angie_kuaile"
     },
     {
       "slug": "construction-office-manager",
@@ -3754,6 +3928,27 @@
       "updated": "2026-09-06"
     },
     {
+      "slug": "dr-eggbot-jodb",
+      "name": "dr eggbot",
+      "author": {
+        "name": "poteto",
+        "url": "https://x.com/poteto"
+      },
+      "summary": "Designs high-quality Grok Bots and creates them after a few preference questions",
+      "summary_zh": "先问几道偏好，再帮你设计并创建高质量 Grok Bot",
+      "import": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+      "category": "coding-shipping",
+      "tags": [
+        "bot-builder",
+        "templates",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/poteto"
+    },
+    {
       "slug": "dr-web-lp",
       "name": "Dr Web LP",
       "author": {
@@ -4362,6 +4557,27 @@
       "updated": "2026-09-06"
     },
     {
+      "slug": "firstmate",
+      "name": "Firstmate",
+      "author": {
+        "name": "kunchenguid",
+        "url": "https://x.com/kunchenguid"
+      },
+      "summary": "A single front door that orchestrates your other agents so you stop context switching",
+      "summary_zh": "只跟这一个入口说话，由它调度其他代理，少切上下文",
+      "import": "https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+      "category": "teams-handoffs",
+      "tags": [
+        "orchestration",
+        "router",
+        "teams"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "related": "https://botdirectory.ai/bots/firstmate/"
+    },
+    {
       "slug": "fishing-bot",
       "name": "Fishing Bot",
       "author": {
@@ -4445,6 +4661,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04"
+    },
+    {
+      "slug": "flights",
+      "name": "Flights",
+      "author": {
+        "name": "truevis",
+        "url": "https://x.com/truevis"
+      },
+      "summary": "Compares return fares and watches your routes for a price drop",
+      "summary_zh": "比较往返机票价格，并盯着你关心的航线等降价",
+      "import": "https://x.ai/bot/xqinGTgeghdOyeYmzqO2m",
+      "category": "personal-admin",
+      "tags": [
+        "flights",
+        "travel",
+        "deals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/truevis/status/2097366733761937625",
+      "related": "https://grokbot.dev/bots/flights"
     },
     {
       "slug": "flora",
@@ -4666,6 +4904,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "fridge-cigs-meme-generator",
+      "name": "Fridge $CIGS Meme Generator",
+      "author": {
+        "name": "FridgeCigsSol",
+        "url": "https://x.com/FridgeCigsSol"
+      },
+      "summary": "Edits uploaded photos by swapping cigarettes for Diet Coke cans",
+      "summary_zh": "把上传照片里的香烟换成无糖可乐罐，做成梗图",
+      "import": "https://x.ai/bot/RrZNfN062oERy27w3kGhR",
+      "category": "content-publishing",
+      "tags": [
+        "meme",
+        "image-edit",
+        "cigs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/FridgeCigsSol"
+    },
+    {
       "slug": "friend-finders",
       "name": "friend finders",
       "author": {
@@ -4729,6 +4988,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "gamer-bro",
+      "name": "Gamer Bro",
+      "author": {
+        "name": "egcbatt",
+        "url": "https://x.com/egcbatt"
+      },
+      "summary": "Follows gaming news and deals, and alerts when watched stock lands",
+      "summary_zh": "盯游戏新闻与折扣，并在关注的货重新有货时提醒你",
+      "import": "https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk",
+      "category": "personal-admin",
+      "tags": [
+        "gaming",
+        "deals",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/egcbatt/status/2097457102092456442",
+      "related": "https://grokbot.dev/bots/gamer-bro"
     },
     {
       "slug": "gardener",
@@ -5483,6 +5764,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "guide",
+      "name": "Guide",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Turns a booked trip into a day-by-day plan you can follow",
+      "summary_zh": "把已订机票酒店整理成能跟着走的逐日行程",
+      "import": "https://x.ai/bot/TbFMZABkeH7gyIIGxjfdU",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "itinerary",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/SuddenlyJon/status/2097445564174528563",
+      "related": "https://grokbot.dev/bots/guide"
+    },
+    {
       "slug": "gus-fring",
       "name": "Gus Fring",
       "author": {
@@ -6115,6 +6418,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "influencer-marketing-deal-desk",
+      "name": "Influencer Marketing Deal Desk",
+      "author": {
+        "name": "itsmattreichard",
+        "url": "https://x.com/itsmattreichard"
+      },
+      "summary": "Prices and structures creator deals before you reply to the brand",
+      "summary_zh": "品牌合作回信前，帮你估报价与合作结构，只起草不代发",
+      "import": "https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx",
+      "category": "customer-sales",
+      "tags": [
+        "influencer",
+        "deals",
+        "pricing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/itsmattreichard/status/2097131577243250986",
+      "related": "https://grokbot.dev/bots/influencer-marketing-deal-desk"
+    },
+    {
       "slug": "insightfulpipe",
       "name": "InsightfulPipe",
       "author": {
@@ -6222,6 +6547,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "invention-detective",
+      "name": "Invention Detective",
+      "author": {
+        "name": "leuner",
+        "url": "https://x.com/leuner"
+      },
+      "summary": "Watches named GitHub repos for technical invention candidates you confirm",
+      "summary_zh": "盯你点名的 GitHub 仓库，找出可申报的技术发明候选供你确认",
+      "import": "https://x.ai/bot/61rNnnNcP2_LKaz8FXw7P",
+      "category": "coding-shipping",
+      "tags": [
+        "github",
+        "invention",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/leuner"
     },
     {
       "slug": "investor-bot",
@@ -7116,6 +7462,28 @@
       "updated": "2026-09-05"
     },
     {
+      "slug": "lg-laundry-specialist",
+      "name": "LG Laundry Specialist",
+      "author": {
+        "name": "Bwilson",
+        "url": "https://x.com/Bwilson"
+      },
+      "summary": "Maps plain-English laundry to LG ThinQ cycles and can start the machine",
+      "summary_zh": "用白话描述脏衣服，映射到 LG ThinQ 洗衣烘干程序并可开洗",
+      "import": "https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7",
+      "category": "personal-admin",
+      "tags": [
+        "smart-home",
+        "laundry",
+        "lg"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/Bwilson/status/2097121334748643683",
+      "related": "https://grokbot.dev/bots/lg-laundry-specialist"
+    },
+    {
       "slug": "lgtm-the-pr-closer",
       "name": "lgtm the pr closer",
       "author": {
@@ -7604,6 +7972,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06"
+    },
+    {
+      "slug": "macpowertools",
+      "name": "MacPowerTools",
+      "author": {
+        "name": "krisadipap",
+        "url": "https://x.com/krisadipap"
+      },
+      "summary": "Dry-run helper for user caches, Trash, and old Downloads on a Mac",
+      "summary_zh": "先预演再清理 Mac 用户缓存、废纸篓和旧下载，不擅自删除",
+      "import": "https://x.ai/bot/SktrYfnj1vy3eG90uQ971",
+      "category": "personal-admin",
+      "tags": [
+        "mac",
+        "cleanup",
+        "dry-run"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/krisadipap"
     },
     {
       "slug": "madmax-mode",
@@ -8382,6 +8771,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "neuralentropy",
+      "name": "NeuralEntropy",
+      "author": {
+        "name": "krisadipap",
+        "url": "https://x.com/krisadipap"
+      },
+      "summary": "Runs a labeled neural simulation mapping cosine-tuned spikes to a curve",
+      "summary_zh": "跑带标签的神经仿真，把余弦调谐脉冲映射成曲线",
+      "import": "https://x.ai/bot/KR-yPzr3sLAAlsnbnVPXs",
+      "category": "coding-shipping",
+      "tags": [
+        "demo",
+        "neural",
+        "simulation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/krisadipap"
+    },
+    {
       "slug": "neuroscience",
       "name": "Neuroscience",
       "author": {
@@ -8743,6 +9153,27 @@
       "updated": "2026-09-04"
     },
     {
+      "slug": "opticalkernel",
+      "name": "OpticalKernel",
+      "author": {
+        "name": "krisadipap",
+        "url": "https://x.com/krisadipap"
+      },
+      "summary": "Computes a labeled numeric kernel between two vectors, capped at eight modes",
+      "summary_zh": "在两个向量间算带标签的数值核，最多八个模式，偏演示用途",
+      "import": "https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv",
+      "category": "coding-shipping",
+      "tags": [
+        "demo",
+        "math",
+        "simulation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/krisadipap"
+    },
+    {
       "slug": "orders",
       "name": "orders",
       "author": {
@@ -8956,6 +9387,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "pappu",
+      "name": "pappu",
+      "author": {
+        "name": "krisadipap",
+        "url": "https://x.com/krisadipap"
+      },
+      "summary": "Cuts cinematic shorts and reviews GitHub and skill listings honestly",
+      "summary_zh": "剪电影感短片，并诚实点评 GitHub 与技能清单后重写",
+      "import": "https://x.ai/bot/_t_vyuhFM8ev2flbZoYnU",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "review",
+        "creative"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/krisadipap"
+    },
+    {
       "slug": "paste-ready",
       "name": "Paste Ready",
       "author": {
@@ -9081,6 +9533,28 @@
       "updated": "2026-09-07",
       "source": "https://x.com/gabe_onchain/status/2096600080665006584",
       "related": "https://grokbot.dev/marketplace/personal-assistant/"
+    },
+    {
+      "slug": "personal-brand-desk",
+      "name": "Personal Brand Desk",
+      "author": {
+        "name": "rlagos24",
+        "url": "https://x.com/rlagos24"
+      },
+      "summary": "Turns your posts that landed into five vetted personal-brand drafts",
+      "summary_zh": "回看你自己的爆款，整理出五条过审后的个人品牌草稿",
+      "import": "https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU",
+      "category": "content-publishing",
+      "tags": [
+        "branding",
+        "linkedin",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/rlagos24/status/2097329900126404773",
+      "related": "https://grokbot.dev/bots/personal-brand-desk"
     },
     {
       "slug": "petty-bot",
@@ -9277,6 +9751,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "polabea",
+      "name": "PolaBea",
+      "author": {
+        "name": "krisadipap",
+        "url": "https://x.com/krisadipap"
+      },
+      "summary": "Runs a labeled driving simulation that emergency-stops on low camera confidence",
+      "summary_zh": "跑带标签的驾驶仿真，摄像头置信度低时会紧急停车",
+      "import": "https://x.ai/bot/qYt504_yN3YBrxNhGaX7S",
+      "category": "content-publishing",
+      "tags": [
+        "simulation",
+        "demo",
+        "driving"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/krisadipap"
     },
     {
       "slug": "porshe",
@@ -9626,6 +10121,28 @@
       "related": "https://grokbot.dev/marketplace/product-promo-copywriter/"
     },
     {
+      "slug": "producthunter",
+      "name": "ProductHunter",
+      "author": {
+        "name": "Davidwuuu92",
+        "url": "https://x.com/Davidwuuu92"
+      },
+      "summary": "Morning and evening digest of what just launched on Product Hunt and HN",
+      "summary_zh": "早晚两班扫 Product Hunt 和 HN 新品，并补上访谈拆解",
+      "import": "https://x.ai/bot/Qsqan7PbltFggoJukvmtT",
+      "category": "research-briefings",
+      "tags": [
+        "product-hunt",
+        "digest",
+        "launches"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/Davidwuuu92/status/2097283714946670889",
+      "related": "https://grokbot.dev/bots/producthunter"
+    },
+    {
       "slug": "projects-manager",
       "name": "Projects Manager",
       "author": {
@@ -9645,6 +10162,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "promptmeme",
+      "name": "PromptMeme",
+      "author": {
+        "name": "krisadipap",
+        "url": "https://x.com/krisadipap"
+      },
+      "summary": "Runs a five-phase civilization debate and returns a prime meme",
+      "summary_zh": "跑五阶段文明辩论，最后交出一条主梗图文案",
+      "import": "https://x.ai/bot/PkziTZhwFzrUvMm3cqfeD",
+      "category": "content-publishing",
+      "tags": [
+        "meme",
+        "debate",
+        "creative"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/krisadipap"
     },
     {
       "slug": "prospecting-sheet-builder",
@@ -9667,6 +10205,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "proto",
+      "name": "Proto",
+      "author": {
+        "name": "5antoshernandez",
+        "url": "https://x.com/5antoshernandez"
+      },
+      "summary": "Answers one product problem with three distinct working prototypes",
+      "summary_zh": "对着一个产品问题交出三个方向不同且能跑的原型",
+      "import": "https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq",
+      "category": "coding-shipping",
+      "tags": [
+        "prototyping",
+        "design",
+        "ui"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/5antoshernandez/status/2097118731042492739",
+      "related": "https://grokbot.dev/bots/proto"
     },
     {
       "slug": "prototype-designer",
@@ -9842,6 +10402,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "ramp",
+      "name": "Ramp",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Finds remote-meal receipts in work email and attaches them to Ramp expenses",
+      "summary_zh": "在工作邮箱里找远程用餐小票，并挂到对应的 Ramp 报销单",
+      "import": "https://x.ai/bot/zMMAByt3oW_t2ua1NZa9X",
+      "category": "finance-ops",
+      "tags": [
+        "expenses",
+        "ramp",
+        "receipts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/scottxmetcalf"
     },
     {
       "slug": "ratio",
@@ -10387,6 +10968,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "rezbot",
+      "name": "RezBot",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Finds an open table and makes the restaurant booking for you",
+      "summary_zh": "按口味找空位，并帮你订下餐厅位子",
+      "import": "https://x.ai/bot/JnDyu7X7D2qZDR1R3IcPU",
+      "category": "personal-admin",
+      "tags": [
+        "dining",
+        "booking",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/SuddenlyJon/status/2097460362522005595",
+      "related": "https://grokbot.dev/bots/rezbot"
+    },
+    {
       "slug": "robauto-website-growth-agent",
       "name": "Robauto Website Growth Agent",
       "author": {
@@ -10707,6 +11310,27 @@
       "related": "https://grokbot.dev/marketplace/scout/"
     },
     {
+      "slug": "scouty",
+      "name": "Scouty",
+      "author": {
+        "name": "NickRoman",
+        "url": "https://x.com/NickRoman"
+      },
+      "summary": "Reverse-searches live jobs from a resume and target city, then returns matches",
+      "summary_zh": "按简历和目标城市反查在招岗位，并整理匹配结果",
+      "import": "https://x.ai/bot/jc0tOHuVUAn4MHuH2zyDn",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "search",
+        "resume"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/NickRoman"
+    },
+    {
       "slug": "scrub-gate-public",
       "name": "Scrub Gate Public",
       "author": {
@@ -10744,6 +11368,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-01"
+    },
+    {
+      "slug": "sean",
+      "name": "Sean",
+      "author": {
+        "name": "0xsuhas1",
+        "url": "https://x.com/0xsuhas1"
+      },
+      "summary": "Files Dice and career-portal job applications and screenshots each one",
+      "summary_zh": "替你在 Dice 和公司招聘页投递，并截图留证",
+      "import": "https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "applications",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/0xsuhas1/status/2097134223362548063",
+      "related": "https://grokbot.dev/bots/sean"
     },
     {
       "slug": "segundo-c-rebro",
@@ -11322,6 +11968,28 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "social-media-by-eclincher",
+      "name": "Social Media by Eclincher",
+      "author": {
+        "name": "eclincher",
+        "url": "https://x.com/eclincher"
+      },
+      "summary": "Schedules posts and answers comments, messages, and reviews across social networks",
+      "summary_zh": "跨社交网络排期发帖，并在一个收件箱里回复评论、私信和评价",
+      "import": "https://x.ai/bot/Xp5k82r21UvTani1ndv-b",
+      "category": "content-publishing",
+      "tags": [
+        "social",
+        "publishing",
+        "inbox"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/eclincher/status/2097462985090547884",
+      "related": "https://grokbot.dev/bots/social-media-by-eclincher"
+    },
+    {
       "slug": "social-media-gtm-bot",
       "name": "Social Media GTM Bot",
       "author": {
@@ -11407,6 +12075,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "spaceautonomy",
+      "name": "SpaceAutonomy",
+      "author": {
+        "name": "krisadipap",
+        "url": "https://x.com/krisadipap"
+      },
+      "summary": "Labels a sensor vector in a space simulation and may enter safe mode",
+      "summary_zh": "在太空仿真里给传感器向量打标签，必要时进入安全模式",
+      "import": "https://x.ai/bot/6X-ZITq7zfRZWpFz5MCme",
+      "category": "coding-shipping",
+      "tags": [
+        "demo",
+        "space",
+        "simulation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/krisadipap"
     },
     {
       "slug": "spacexai-bug-reporter",
@@ -11517,6 +12206,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "staypick",
+      "name": "Staypick",
+      "author": {
+        "name": "TuracTheThinker",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Ranks neighbourhoods and stay types before you book anything",
+      "summary_zh": "订房前先比较街区和住宿类型，只给建议不替你下单",
+      "import": "https://x.ai/bot/xhYtadt6BRbZh3MMEppLa",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "lodging",
+        "planning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/TuracTheThinker/status/2097404257288761682",
+      "related": "https://grokbot.dev/bots/staypick"
     },
     {
       "slug": "steal-this-business",
@@ -12124,6 +12835,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "telnyx",
+      "name": "Telnyx",
+      "author": {
+        "name": "traviscurnutte",
+        "url": "https://x.com/traviscurnutte"
+      },
+      "summary": "Walks you from an empty Telnyx account to a first live voice or messaging test",
+      "summary_zh": "带你从空账号走到 Telnyx 语音或消息的第一次联调",
+      "import": "https://x.ai/bot/l2RX-35tKxZXxgJldSBf0",
+      "category": "coding-shipping",
+      "tags": [
+        "telnyx",
+        "voip",
+        "onboarding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/traviscurnutte/status/2097443894040359281",
+      "related": "https://grokbot.dev/bots/telnyx"
     },
     {
       "slug": "template-generator",
@@ -13471,6 +14204,27 @@
       "updated": "2026-09-06"
     },
     {
+      "slug": "vps-vpn",
+      "name": "VPS & VPN",
+      "author": {
+        "name": "ProtocolXp94l",
+        "url": "https://x.com/ProtocolXp94l"
+      },
+      "summary": "Manages VPS and VPN setup on this computer, including Tailscale and tunnels",
+      "summary_zh": "在这台电脑上管 VPS 与 VPN，含 Tailscale、代理和 Cloudflare 隧道",
+      "import": "https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR",
+      "category": "coding-shipping",
+      "tags": [
+        "vps",
+        "vpn",
+        "networking"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/ProtocolXp94l"
+    },
+    {
       "slug": "wall-street",
       "name": "Wall Street",
       "author": {
@@ -13577,6 +14331,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "waveletworld",
+      "name": "WaveletWorld",
+      "author": {
+        "name": "krisadipap",
+        "url": "https://x.com/krisadipap"
+      },
+      "summary": "Runs one labeled Haar wavelet step on a numeric state vector for demos",
+      "summary_zh": "对数值状态向量跑一步带标签的 Haar 小波，偏演示",
+      "import": "https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE",
+      "category": "coding-shipping",
+      "tags": [
+        "demo",
+        "wavelet",
+        "math"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/krisadipap"
     },
     {
       "slug": "webby",
@@ -13771,6 +14546,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "wool-radar",
+      "name": "薅羊毛 (Wool Radar)",
+      "author": {
+        "name": "BenXlab",
+        "url": "https://x.com/BenXlab"
+      },
+      "summary": "Watches for deals on things you actually buy, and stays quiet otherwise",
+      "summary_zh": "只盯你真会买的东西和订阅优惠，没合适的就闭嘴",
+      "import": "https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w",
+      "category": "finance-ops",
+      "tags": [
+        "savings",
+        "deals",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/BenXlab/status/2097187265617580405",
+      "related": "https://grokbot.dev/bots/wool-radar"
+    },
+    {
       "slug": "work",
       "name": "Work",
       "author": {
@@ -13880,6 +14677,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "x-daily-posting-playbook",
+      "name": "推特运营方法论",
+      "author": {
+        "name": "KinGao476942",
+        "url": "https://x.com/KinGao476942"
+      },
+      "summary": "A daily X posting system for ideas, drafts, timing, and review",
+      "summary_zh": "给 X 日更搭选题库、草稿、发布时段和复盘，发布键仍由你按",
+      "import": "https://x.ai/bot/ScOhH1qaoq4XdoYhisagg",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "growth",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/KinGao476942/status/2097342929966866642",
+      "related": "https://grokbot.dev/bots/x-daily-posting-playbook"
+    },
+    {
       "slug": "x-high-coach",
       "name": "X High Coach",
       "author": {
@@ -13920,6 +14739,48 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "x-mute-desk",
+      "name": "X Mute Desk",
+      "author": {
+        "name": "ryanfoxeth",
+        "url": "https://x.com/ryanfoxeth"
+      },
+      "summary": "Scans X mentions for hostile or spam replies and shows mute candidates",
+      "summary_zh": "扫 X 提及里的敌意或垃圾回复，列出建议静音对象供你确认",
+      "import": "https://x.ai/bot/wGDy1T5eobC1hjqFC9-PI",
+      "category": "personal-admin",
+      "tags": [
+        "x",
+        "moderation",
+        "mute"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/ryanfoxeth"
+    },
+    {
+      "slug": "x-ops-expert",
+      "name": "X Ops Expert",
+      "author": {
+        "name": "mlangXie",
+        "url": "https://x.com/mlangXie"
+      },
+      "summary": "X growth ops for builders with daily review, topic bank, and gated drafts",
+      "summary_zh": "给建造者做 X 增长运营，含日报、选题库，草稿需你确认再发",
+      "import": "https://x.ai/bot/fePZGiWiTZP9n4BoKIlMY",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "growth",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-09",
+      "source": "https://x.com/mlangXie"
     },
     {
       "slug": "x-scout",

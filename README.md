@@ -76,17 +76,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 98 |
+| [Coding & shipping](#coding--shipping) | 108 |
 | [Inbox & calendar](#inbox--calendar) | 28 |
-| [Research & briefings](#research--briefings) | 86 |
-| [Customer & sales](#customer--sales) | 47 |
-| [Finance & ops](#finance--ops) | 75 |
-| [Content & publishing](#content--publishing) | 97 |
-| [Personal admin](#personal-admin) | 130 |
-| [Teams & handoffs](#teams--handoffs) | 101 |
-| **Total** | **662** |
+| [Research & briefings](#research--briefings) | 89 |
+| [Customer & sales](#customer--sales) | 48 |
+| [Finance & ops](#finance--ops) | 77 |
+| [Content & publishing](#content--publishing) | 105 |
+| [Personal admin](#personal-admin) | 144 |
+| [Teams & handoffs](#teams--handoffs) | 103 |
+| **Total** | **702** |
 
-All 662 share pages returned HTTP 200 on 8 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 662 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 702 share pages returned HTTP 200 on 9 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 702 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -218,6 +218,7 @@ One share is one bot. Assemble the roster yourself.
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) - A janitor for multi-bot workspaces that stops cruft piling up. [Chip](https://x.com/chiplay).
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) - Keeps every AI coding tool on your machines up to date. [Alan](https://x.com/gheeunit).
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) - Experiments its way to a method for undocumented problems. [Aman](https://x.com/2onism).
+- [App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV) - Audits iOS apps before App Review and guides rejection responses. [stevederico](https://x.com/stevederico).
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) - Describe an app in one sentence and get a running build back. [Wayne](https://x.com/waynesutton).
 - [ASC Skill](https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta) - Walks an iOS release through App Store Connect step by step. [Phil_Holland](https://x.com/Phil_Holland).
 - [Astra Oracle](https://x.ai/bot/JocbRv3IMTJ5LmjX_qXvZ) - Astra plan and review packets via Codex CLI; does not implement. [bossriceshark](https://x.com/bossriceshark).
@@ -243,6 +244,7 @@ One share is one bot. Assemble the roster yourself.
 - [Dr Disk Clean](https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO) - Surveys a crowded Linux box and never deletes until you name the path. [old_pgmrs_will](https://x.com/old_pgmrs_will).
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) - A bot that builds other Grok bots for you. [Lauren](https://x.com/poteto). Notes: [templates/dr-eggbot](templates/dr-eggbot/).
 - [dr eggbot](https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW) - Designs high-quality Grok Bots and splits big work into smaller sibling bots. [brandonsbay](https://x.com/brandonsbay).
+- [dr eggbot](https://x.ai/bot/_jOdbfkB16zxu7MRcmReE) - Designs high-quality Grok Bots and creates them after a few preference questions. [poteto](https://x.com/poteto).
 - [Dr Web LP](https://x.ai/bot/xM153pKfXPLWagLi_O1vR) - Give it a picture of a web page and it builds that page in HTML and CSS. [old_pgmrs_will](https://x.com/old_pgmrs_will).
 - [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) - Reverse-engineering help for malware, firmware, and vuln-research binaries. [drbinaryai](https://x.com/drbinaryai).
 - [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) - Guards the merge bar on repos you pick, escalating only the real judgment calls. [andreleibovici](https://x.com/andreleibovici).
@@ -265,6 +267,7 @@ One share is one bot. Assemble the roster yourself.
 - [Hatch](https://x.ai/bot/o8hID4-jKPlA8QQQH5K69) - Designs high-quality Grok Bots after a few preference questions. [littletechbird](https://x.com/littletechbird).
 - [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - Writes and reviews Helidon 4 code on modern Java. [TheSurenk](https://x.com/TheSurenk).
 - [Interaction Designer](https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1) - Designs the flow and every screen state before the visuals. [UCDOps](https://x.com/ucdco).
+- [Invention Detective](https://x.ai/bot/61rNnnNcP2_LKaz8FXw7P) - Watches named GitHub repos for technical invention candidates you confirm. [leuner](https://x.com/leuner).
 - [Kinesis Portal Bot](https://x.ai/bot/-GgufM3GkZclfn9PuI17_) - Hands-on operator for portal.kinesis.network machines, Docker apps, and idle hardware. [4SimonSays](https://x.com/4SimonSays).
 - [lgtm the pr closer](https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo) - Wakes up each morning and burns down your open pull requests. [Claire](https://x.com/clairevo).
 - [Lingxi's Engineer Bot](https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j) - Hands-off eng lead that launches cloud coding agents and only asks you to merge. [lingxi](https://x.com/lingxi).
@@ -273,15 +276,18 @@ One share is one bot. Assemble the roster yourself.
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) - An engineering outer loop that sits above your coding agents. [mattyp](https://x.com/mattyp).
 - [Mirror](https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb) - Can pause anyone, including Bottyguard, while hunting injection and leash breaks. [Knock](https://x.com/SuddenlyJon).
 - [Multi-model consensus](https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc) - Runs Claude Code, Codex, and Grok on the same hard question until they agree. [Austen](https://x.com/Austen).
+- [NeuralEntropy](https://x.ai/bot/KR-yPzr3sLAAlsnbnVPXs) - Runs a labeled neural simulation mapping cosine-tuned spikes to a curve. [krisadipap](https://x.com/krisadipap).
 - [Night Shift](https://x.ai/bot/5VF_-GBnruE-tNxmhQygI) - After-hours toy maker that builds one tiny playable joke or text game per night. [FantomBuildz](https://x.com/FantomBuildz).
 - [Nightly Audit Engineer](https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U) - Overnight repo read that lands one small cleanup per area. [lingxi](https://x.com/lingxi).
 - [Omnibot](https://x.ai/bot/OzZrG8ek4AhutfTVhBCI0) - Runs any Cursor CLI model from Grok Bot after setup writes your intent table. [ericzakariasson](https://x.com/ericzakariasson).
+- [OpticalKernel](https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv) - Computes a labeled numeric kernel between two vectors, capped at eight modes. [krisadipap](https://x.com/krisadipap).
 - [overnight shipper](https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf) - Drop an idea before bed and review the pull request in the morning. [Josh](https://x.com/joshkim).
 - [Overwatch](https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP) - Housekeeper for your Grok Bot VM so a shared machine does not rot. [Andrej](https://x.com/scheemunai).
 - [Paste Ready](https://x.ai/bot/LrW8NQ19WViRSie4gj9hb) - Turns one messy idea into a Name, Title, and Description ready to paste into a new Bot. [FantomBuildz](https://x.com/FantomBuildz).
 - [Peekaboo Mac](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) - Adds screen recording, screenshots and UI input to your registered Macs. [brandon_ai](https://x.com/brandon_ai).
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) - Reviews pull requests risk-first. [mustafa](https://x.com/mustafaergisi).
 - [Product Designer](https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q) - Owns the design leg of the product triad, from problem to shipped experience. [ucdops](https://x.com/ucdops).
+- [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) - Answers one product problem with three distinct working prototypes. [5antoshernandez](https://x.com/5antoshernandez).
 - [Prototype Designer](https://x.ai/bot/_b0wyYKwherAZJdyL0HGG) - Builds prototypes at the right fidelity and a spec your AI coder can read. [ucdops](https://x.com/ucdops).
 - [Repo Engineer](https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD) - Ships small GitHub fixes as pull requests through Cursor cloud agents; never merges itself. [RustamAtuev](https://x.com/RustamAtuev).
 - [Rutin](https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7) - A Monday tune-up for every routine across your fleet of bots. [Naoufal](https://x.com/naoufal_elh).
@@ -291,6 +297,7 @@ One share is one bot. Assemble the roster yourself.
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) - Gates public republish by auditing the private bot, scrubbing a twin, and packing from the twin only. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Skill Bot](https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2) - A librarian for your bot's skills that dedupes and keeps them current. [Dave](https://x.com/davespeers).
 - [SmallPE-Managing-Partner](https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8) - Managing partner for a SmallPE community building collaborative private-equity tooling. [parolkar](https://x.com/parolkar).
+- [SpaceAutonomy](https://x.ai/bot/6X-ZITq7zfRZWpFz5MCme) - Labels a sensor vector in a space simulation and may enter safe mode. [krisadipap](https://x.com/krisadipap).
 - [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) - Writes the bug report you paste into the right support form. [Fine_4451](https://x.com/Fine_4451).
 - [Speed Lab](https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5) - Runs a research loop on your site's render speed and keeps the wins. [pwnies](https://x.com/pwnies).
 - [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) - Pings you the moment a provider your build depends on admits a problem. [sat0xshi](https://x.com/sat0xshi).
@@ -299,6 +306,7 @@ One share is one bot. Assemble the roster yourself.
 - [Sworm](https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_) - Sealed family sketches and detection ideas, never a runnable malware sample. [Knock](https://x.com/SuddenlyJon).
 - [Tally Desk](https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5) - Builds Tally forms, reads the responses, fills one on request. [joshkim](https://x.com/joshkim).
 - [Tech Lead](https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W) - Gates the merge on what the diff and the tests actually show. [Ashish](https://x.com/inqusit).
+- [Telnyx](https://x.ai/bot/l2RX-35tKxZXxgJldSBf0) - Walks you from an empty Telnyx account to a first live voice or messaging test. [traviscurnutte](https://x.com/traviscurnutte).
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) - Scans local Claude, Cline, and Grok Bot sessions, then offers templates you can generate and share. [Jarett](https://x.com/STACCoverflow).
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) - Gives a job too heavy for shared hardware its own GPU, then bills you the runtime. [useprismnetwork](https://x.com/useprismnetwork).
 - [Tibo](https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp) - Closes out systems work with a single-tree workflow and fail-closed mobile release. [icebakbum](https://x.com/icebakbum).
@@ -309,11 +317,14 @@ One share is one bot. Assemble the roster yourself.
 - [UniFi Watch](https://x.ai/bot/qV6FAPsH8Yox5VNuYQ8al) - UniFi site watchdog for Network health and Protect digests. [ericdmann](https://x.com/ericdmann).
 - [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) - Weekly inventory of every routine, ranked by cost, with duplicate and polling flags. [maxjean__](https://x.com/maxjean__).
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) - Sends heavy coding jobs to Cursor, Claude Code, or Codex pools instead of Grok Bot credits. [JordanHall_dev](https://x.com/JordanHall_dev).
+- [VPS & VPN](https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR) - Manages VPS and VPN setup on this computer, including Tailscale and tunnels. [ProtocolXp94l](https://x.com/ProtocolXp94l).
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign watcher with no verdicts, part of Bottyguard SEAL Team 7. [Knock](https://x.com/SuddenlyJon).
+- [WaveletWorld](https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE) - Runs one labeled Haar wavelet step on a numeric state vector for demos. [krisadipap](https://x.com/krisadipap).
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) - Turns repeat WhatsApp Web chores into scripts you can replay. [alexhawat](https://x.com/alexhawat).
 
 ## Inbox & calendar
 
+- [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - Keeps your agent bench, calendar and inbox on one weekday rhythm. [A-A-ron](https://x.com/theaaron).
 - [bookworm](https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH) - Drafts and sends founder-voiced beta invites for a reading app. [NavyaM89482](https://x.com/NavyaM89482).
 - [Bot inbox](https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl) - A one-line digest of every bot and group chat with something new. [Wayne](https://x.com/waynesutton).
 - [CampusOps](https://x.ai/bot/vluD5Z1bUux-onnEk1Alg) - Turns your syllabi into a week-by-week study plan you can actually follow. [klytron_dev](https://x.com/klytron_dev).
@@ -341,7 +352,6 @@ One share is one bot. Assemble the roster yourself.
 - [Time Keeper](https://x.ai/bot/IAEp851k9orM1LguTm2F8) - Bookends your day with a morning agenda and a night preview. [Mark](https://x.com/ironted21).
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) - A household chief of staff for family plans, school and home admin. [clairevo](https://x.com/clairevo).
 - [WhatsApp Digest](https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-) - Read-only daily summary of busy WhatsApp groups. Never sends. [PetrusJvR](https://x.com/PetrusJvR).
-- [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - Keeps your agent bench, calendar and inbox on one weekday rhythm. [A-A-ron](https://x.com/theaaron).
 
 ## Research & briefings
 
@@ -357,6 +367,7 @@ One share is one bot. Assemble the roster yourself.
 - [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) - Commercial judgment for technical founders deciding without complete data. [Smit](https://x.com/thesmitpatel).
 - [Competitor Watching](https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N) - Snapshots you against 3-8 competitors and alerts only on material change. [Andrej](https://x.com/scheemunai).
 - [Connection Audit](https://x.ai/bot/qllnuXO-FDFBHZU4MSamY) - Triages the saved-reading pile and ties each keeper to a live problem. [Sultanov](https://x.com/thekuchh).
+- [Constitution Teacher](https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS) - Opens the US Constitution and teaches it in plain language with citations. [angie_kuaile](https://x.com/angie_kuaile).
 - [Consumption Autopsy](https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy) - Post-mortems your study habits and swaps one passive input for practice. [Sultanov](https://x.com/thekuchh).
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) - Morning recap of the YouTube channels you follow, silent when nothing dropped. [scheemunai](https://x.com/scheemunai).
 - [Dan Patrick](https://x.ai/bot/hlQhxsU-pqQEkimm0it4V) - A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when your teams' games go final. [Marcus](https://x.com/marcusramsey).
@@ -395,6 +406,7 @@ One share is one bot. Assemble the roster yourself.
 - [Primer](https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe) - Straight answers about how Grok Bot actually behaves. [ambientstudio24](https://x.com/ambientstudio24).
 - [Private Desk](https://x.ai/bot/Tgl3sxrTsuAYL7MN8S3UT) - Analyses material too sensitive to hand to an ordinary chat window. [useprismnetwork](https://x.com/useprismnetwork).
 - [Product Idea Stress Test](https://x.ai/bot/JeFTvcDX-7QT2evKGIb52) - Finds the one belief your startup idea cannot afford to have wrong. [Hiten](https://x.com/hnshah).
+- [ProductHunter](https://x.ai/bot/Qsqan7PbltFggoJukvmtT) - Morning and evening digest of what just launched on Product Hunt and HN. [Davidwuuu92](https://x.com/Davidwuuu92).
 - [Pulse](https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms) - A read-only X concierge that turns a day of feed into one skimmable 7am brief. [Andrej](https://x.com/GrokBotDev).
 - [Raily](https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG) - Reviews possible new connections without touching your account. [raily](https://x.com/raily).
 - [Recent Bookmarks Search Bot](https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J) - Makes the posts you saved on X searchable in a plain sortable table. [srinatar](https://x.com/srinatar).
@@ -431,6 +443,7 @@ One share is one bot. Assemble the roster yourself.
 - [下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF) - Turns long videos and podcasts into searchable Chinese transcripts. [KinGao476942](https://x.com/KinGao476942).
 - [全球宏观分析师](https://x.ai/bot/08RSf587bOlWhbQai6A3I) - Reads big macro events for what they do to rates, the dollar, gold, crypto and equities. [Fund_Monkey](https://x.com/Fund_Monkey).
 - [最值得关注的Grok Bot 推文？](https://x.ai/bot/lFDR77qKaT3Iglzv9pUac) - A twice-daily Chinese-language sweep of top Grok Bot accounts. [MaiYangAI](https://x.com/MaiYangAI).
+- [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - Morning blueberry research monitor that stays quiet when nothing new matters. [Bizuayeu](https://x.com/Bizuayeu).
 
 ## Customer & sales
 
@@ -452,6 +465,7 @@ One share is one bot. Assemble the roster yourself.
 - [Hermes SDR](https://x.ai/bot/EAlUWK8yH_xfsBcpdu7e_) - An outbound SDR agent that verifies each lead, then sends Instagram DMs and emails for a high-ticket offer. [Mauricio](https://x.com/MGallmur).
 - [hire-bot](https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-) - Handles the paperwork half of hiring, from candidate notes to offer letter. [xsubwayratx](https://x.com/xsubwayratx).
 - [Icebreaker](https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP) - A job-hunt wingman for AI trust-and-safety roles. [amberdawn1786](https://x.com/amberdawn1786).
+- [Influencer Marketing Deal Desk](https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx) - Prices and structures creator deals before you reply to the brand. [itsmattreichard](https://x.com/itsmattreichard).
 - [InsightfulPipe](https://x.ai/bot/vYIAB3Z6V8gEERewymcw1) - Senior marketer for ads, SEO, social, and Shopify powered by live InsightfulPipe data. [insightfulpipe](https://x.com/insightfulpipe).
 - [Internship Finder](https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ) - Finds solid internships and drafts short personal outreach emails. [mnt_rushmore](https://x.com/mnt_rushmore).
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) - Maps a target company and works upward until it reaches the decision maker. [Liam](https://x.com/liam_fallen).
@@ -521,6 +535,7 @@ One share is one bot. Assemble the roster yourself.
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) - Finds money you are already owed but have not collected. [Lauren](https://x.com/poteto).
 - [Precog wARS](https://x.ai/bot/7M8RpppF2AistbVbeEPyN) - Reads Precog prediction-market odds in Spanish, and never trades. [ferminrp](https://x.com/ferminrp).
 - [Quote Collector](https://x.ai/bot/FI36ngq3zTUOFQrYc-XQX) - Gathers comparable quotes from local trades for one named job. [liam_fallen](https://x.com/liam_fallen).
+- [Ramp](https://x.ai/bot/zMMAByt3oW_t2ua1NZa9X) - Finds remote-meal receipts in work email and attaches them to Ramp expenses. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Reaper](https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73) - Finds the subscriptions, meetings and processes that should be killed. [Liam](https://x.com/liam_fallen).
 - [Returns & Warranties](https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt) - Warns you before a return, refund or warranty window closes. [Liam](https://x.com/liam_fallen).
 - [RevenueDog](https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT) - Wake up to yesterday's subscription numbers and one fix worth trying. [Lex](https://x.com/lexrus).
@@ -556,9 +571,10 @@ One share is one bot. Assemble the roster yourself.
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) - Sweeps your inbox weekly for renewals, receipts and expiring trials. [SmoresBoy](https://x.com/jxckvibe).
 - [x402 Marketplace Operator](https://x.ai/bot/gC5Kmx6p0ALPtnN7W6Xou) - Packages skills and Grok Bots into listing files and never signs or pays. [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [YieldSentinel A2H](https://x.ai/bot/RFXogCwTbb2mUODW6rfVe) - Checks one DeFi yield position against rules you set before you commit. [MyEnsNames](https://x.com/MyEnsNames).
+- [토스 증권 주식 투자봇](https://x.ai/bot/znMFERdq0zEC74735Szxm) - Toss Securities Open API bot for KR and US quotes, with orders only when ticker and qty are set. [brandonchung75](https://x.com/brandonchung75).
 - [旅行手配エージェント](https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-) - Compares cheap and easy routes, then books flights, rail and hotels. [kinopee_ai](https://x.com/kinopee_ai).
 - [登記とりよせ](https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y) - Walks you through ordering a Japanese company registry certificate. [sat0xshi](https://x.com/sat0xshi).
-- [토스 증권 주식 투자봇](https://x.ai/bot/znMFERdq0zEC74735Szxm) - Toss Securities Open API bot for KR and US quotes, with orders only when ticker and qty are set. [brandonchung75](https://x.com/brandonchung75).
+- [薅羊毛 (Wool Radar)](https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w) - Watches for deals on things you actually buy, and stays quiet otherwise. [BenXlab](https://x.com/BenXlab).
 
 ## Content & publishing
 
@@ -588,6 +604,7 @@ One share is one bot. Assemble the roster yourself.
 - [facebook group scout](https://x.ai/bot/C7ZoMLPxEbFmu0-iAieFj) - Watches the Facebook groups you name for posts worth replying to. [joshkim](https://x.com/joshkim).
 - [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) - Designs inside Figma with real components, not screenshots around it. [johnbai](https://x.com/johnbai).
 - [FreeBot Gen](https://x.ai/bot/Z9SkA7zeEf33Mn5SvfV5W) - Wizard that builds freebots.lol World characters. [Toy_Maestro](https://x.com/Toy_Maestro).
+- [Fridge $CIGS Meme Generator](https://x.ai/bot/RrZNfN062oERy27w3kGhR) - Edits uploaded photos by swapping cigarettes for Diet Coke cans. [FridgeCigsSol](https://x.com/FridgeCigsSol).
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) - Turns one brief into a full set of on-brand creative assets. [arni0x9053](https://x.com/arni0x9053).
 - [Grok Deck](https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI) - Turns your talking points into a browser-ready HTML slide deck. [Mai](https://x.com/MaiYangAI).
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) - Reviews ads, search and Shopify performance from a single place. [Dmitry](https://x.com/irabukht).
@@ -618,8 +635,12 @@ One share is one bot. Assemble the roster yourself.
 - [MyApps Video Desk](https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK) - Generates photoreal clips in MyApps and stitches with ffmpeg. [Sm0ken42O](https://x.com/Sm0ken42O).
 - [Paddy](https://x.ai/bot/A42rzhad6J8lhYMOaQ20o) - Judges a whole YouTube video as one promise, not just the title. [DavidCarbutt_](https://x.com/DavidCarbutt_).
 - [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) - Pulls a usable four-part colour scheme out of any reference photo. [Michael](https://x.com/subforti).
+- [pappu](https://x.ai/bot/_t_vyuhFM8ev2flbZoYnU) - Cuts cinematic shorts and reviews GitHub and skill listings honestly. [krisadipap](https://x.com/krisadipap).
+- [Personal Brand Desk](https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU) - Turns your posts that landed into five vetted personal-brand drafts. [rlagos24](https://x.com/rlagos24).
 - [Petty Bot](https://x.ai/bot/w-2dyvlWOnr9CAEotczW1) - Keeps score on your follower list and returns every quiet unfollow. [ZryMiller](https://x.com/ZryMiller).
+- [PolaBea](https://x.ai/bot/qYt504_yN3YBrxNhGaX7S) - Runs a labeled driving simulation that emergency-stops on low camera confidence. [krisadipap](https://x.com/krisadipap).
 - [printerbot](https://x.ai/bot/nPwfPZq-OWf7_HDUH777R) - Gives every bot in your fleet a matching 3D character portrait. [viticci](https://x.com/viticci).
+- [PromptMeme](https://x.ai/bot/PkziTZhwFzrUvMm3cqfeD) - Runs a five-phase civilization debate and returns a prime meme. [krisadipap](https://x.com/krisadipap).
 - [Qubits Toy Bot](https://x.ai/bot/USVlMLTxHCex8XgcUQGfv) - Assembles looping 3D structures out of Qubits toy pieces. [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Ratio](https://x.ai/bot/q66LYouguOxJ0VclM2whr) - Finds the line in your post that will get quoted back at you. [DonBonStovi](https://x.com/DonBonStovi).
 - [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) - Finds people talking about your product, ranked by buying intent. [Taras](https://x.com/tarasshyn).
@@ -634,6 +655,7 @@ One share is one bot. Assemble the roster yourself.
 - [Site Audit](https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW) - One-pass site audit across SEO, speed, accessibility, CRO and schema. [Andrej](https://x.com/scheemunai).
 - [Situation monitor](https://x.ai/bot/lkHayxdQjNzVVJIDh7qaF) - Turns a week of your X bookmarks into a drafted recap thread. [ChaseMc67](https://x.com/ChaseMc67).
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) - Queues the finished posts and pushes each one live at the right local hour. [Gabriel](https://x.com/adamuchigabriel).
+- [Social Media by Eclincher](https://x.ai/bot/Xp5k82r21UvTani1ndv-b) - Schedules posts and answers comments, messages, and reviews across social networks. [eclincher](https://x.com/eclincher).
 - [Social Media GTM Bot](https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ) - A founder content lead that recycles posts, runs comment-to-DM magnets, and publishes after you approve. [Antoine](https://x.com/Antoine).
 - [Social Ops Bot](https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT) - Sorts the dead weight out of your X follows without hitting real people. [JoshuaRCook](https://x.com/JoshuaRCook).
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) - Hourly scout that hands you filmable short-form content kits. [ashen](https://x.com/ashen_one).
@@ -650,28 +672,34 @@ One share is one bot. Assemble the roster yourself.
 - [X Algo](https://x.ai/bot/W0LrVwNwsRHhFY4PG7586) - Tells you whether to post now, quote something, or sit tight. [UziObi](https://x.com/UziObi).
 - [X High Coach](https://x.ai/bot/xSfBSprfKv5h909uzrv7W) - Audits any public X account and tells you exactly what to change. [Hightv](https://x.com/Hightv).
 - [X High Coach](https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F) - Drop an X username and get a score, health flags, unfollow watch, and punchy rewrites. [High](https://x.com/Hightv).
+- [X Ops Expert](https://x.ai/bot/fePZGiWiTZP9n4BoKIlMY) - X growth ops for builders with daily review, topic bank, and gated drafts. [mlangXie](https://x.com/mlangXie).
 - [X Strategist](https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH) - Plays the long game on who is worth knowing on X. [Sultanov](https://x.com/thekuchh).
 - [X Top 100 Fans Weekly](https://x.ai/bot/HU7XArfGhUgLnzVcr7neB) - Ranks the 100 people who engaged most with your X posts each week. [Adam](https://x.com/AdamLowisz).
 - [X Top 500 Fans (Monthly)](https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox) - Monthly ranking of your 500 biggest X supporters, saved to a private list. [AdamLowisz](https://x.com/AdamLowisz).
-- [みみ](https://x.ai/bot/msP4lEtyQNghyO-mqnXyR) - Casual chat as the fictional character Mimi. [kabupoyo2023](https://x.com/kabupoyo2023).
-- [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) - Hands you ready-to-post promo copy for your product on a fixed rhythm. [zheng_yunh2429](https://x.com/zheng_yunh2429).
-- [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - Schedules voice demo, PPT, avatar, and 1080p lecture video delivery. [dugujun12](https://x.com/dugujun12).
 - [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) - Turns a building or bridge idea into a finished vertical explainer video. [BBBang9900](https://x.com/BBBang9900).
 - [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) - Plans and ships evidence-backed ebooks for Kmong. [BBBang9900](https://x.com/BBBang9900).
 - [톨삼국지](https://x.ai/bot/IXID16RPXlKV6KHQCdmr7) - Daily Three Kingdoms illustration in rotating art styles. [enterjajayo](https://x.com/enterjajayo).
+- [みみ](https://x.ai/bot/msP4lEtyQNghyO-mqnXyR) - Casual chat as the fictional character Mimi. [kabupoyo2023](https://x.com/kabupoyo2023).
+- [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) - Hands you ready-to-post promo copy for your product on a fixed rhythm. [zheng_yunh2429](https://x.com/zheng_yunh2429).
+- [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - A daily X posting system for ideas, drafts, timing, and review. [KinGao476942](https://x.com/KinGao476942).
+- [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - Schedules voice demo, PPT, avatar, and 1080p lecture video delivery. [dugujun12](https://x.com/dugujun12).
 
 ## Personal admin
 
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - For anyone who ships once and then stalls, waiting to feel ready. [Sultanov](https://x.com/thekuchh).
 - [Adie](https://x.ai/bot/-eXRDBTLTfHxNle9joQRN) - A warm daily companion for brains that struggle with the small stuff. [TheDevilCloud](https://x.com/TheDevilCloud).
 - [Adler](https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT) - A decisions mentor grounded in Adlerian psychology. [pardzz_](https://x.com/pardzz_).
+- [Adventure Bot](https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f) - Suggests one outing pin sized to the free time and mood you name. [SuddenlyJon](https://x.com/SuddenlyJon).
+- [AI fitness coach](https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH) - Builds a training and eating plan around the time and kit you actually have. [debs_obrien](https://x.com/debs_obrien).
 - [Alexis’ Grail Scout](https://x.ai/bot/2asdeMXYDwlPREURnfCxn) - Hunts top-grade sealed retro cartridges across the big auction houses. [joshkim](https://x.com/joshkim).
 - [Appointment Finder](https://x.ai/bot/75K-dB4m30goo_PamA9nM) - Finds the best appointment slot so you never phone around again. [Liam](https://x.com/liam_fallen).
 - [Austin Parent](https://x.ai/bot/7yCzCeGQTMD6oNKSPcFqj) - A household chief of staff for families raising kids in Austin. [Chad](https://x.com/ChadWittman).
 - [Avi](https://x.ai/bot/2pewBd6QpttNiH52dyGhq) - Flight ops desk for private pilots with a safety focus. [Doc_Polymath](https://x.com/Doc_Polymath).
 - [Be Happier](https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG) - Suggests three concrete things each week that would make you happier. [Lenny](https://x.com/lennysan).
+- [BeneBot](https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn) - Explains the benefits programmes open to you in plain language. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Better Call Claude](https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo) - Free help working out what a legal problem actually is. [freelegalforall](https://x.com/freelegalforall).
 - [ButterBot](https://x.ai/bot/h1tW8jfXzQIraT-_jNDjJ) - Passes butter after each message. [Gabriele](https://x.com/GabrieleMonni).
+- [Calibre](https://x.ai/bot/uaKyhDX_T3FY56jf6n4VL) - Converts ebooks between formats in chat using the Calibre toolchain. [doitian](https://x.com/doitian).
 - [CampusHire](https://x.ai/bot/pH5o2mSNpN7tJm_Jurj9Q) - Campus and intern job scout that matches JDs and drafts applications. [kale243222](https://x.com/kale243222).
 - [Canvas](https://x.ai/bot/YihRBqrXaDwRdjN79Uofl) - Pulls your university units and deadlines out of Canvas. [Dakkshin](https://x.com/daxperera).
 - [Charge Maestro](https://x.ai/bot/29uyQjSrZ3dTb4Ctf7S3w) - Sets EV charge amps from leftover solar so the Powerwall still fills before peak. [JOwens254](https://x.com/JOwens254).
@@ -702,14 +730,17 @@ One share is one bot. Assemble the roster yourself.
 - [Fantasy GM (blank slate)](https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A) - Fantasy football GM for draft, trades, and roster that does not arrive knowing a league. [TylerNishida](https://x.com/TylerNishida).
 - [FireWatch](https://x.ai/bot/oWw62I6pd414i8xIO3azs) - Watches for wildfires near your home and only speaks up when something changes. [RobautoAI](https://x.com/RobautoAI).
 - [Fishing Bot](https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI) - Tells you what swims in a given lake and what to tie on. [Brantley_Brum](https://x.com/Brantley_Brum).
+- [Flights](https://x.ai/bot/xqinGTgeghdOyeYmzqO2m) - Compares return fares and watches your routes for a price drop. [truevis](https://x.com/truevis).
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) - Tracks every houseplant you own and nudges you before one goes thirsty. [Rich](https://x.com/RichSilver).
 - [Forja](https://x.ai/bot/me3Is7BBsCTobsgznOSps) - Turns a vague ambition into one checkable action, then holds you to it. [gezeeq](https://x.com/gezeeq).
+- [Gamer Bro](https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk) - Follows gaming news and deals, and alerts when watched stock lands. [egcbatt](https://x.com/egcbatt).
 - [Golf Caddie](https://x.ai/bot/HAJavif4ssNOQku9JQsp-) - Pocket golf caddie for weekend players. [Brantley_Brum](https://x.com/Brantley_Brum).
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) - Plans an Instacart grocery cart from meal ideas, recipes, and staples, respecting diet, brands, stores, and budget. [Elie](https://x.com/mvanhorn).
 - [Grok Apps](https://x.ai/bot/7SzHEz6S0G4PVP3yIUcpE) - Finds free desktop software, installs it, and can demo with a short loop. [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Grok Customer Support](https://x.ai/bot/1PSI6qQln1PowM5reA_8L) - Sits on hold with customer support so you do not have to. [jakewlittle](https://x.com/jakewlittle).
 - [Grok Customer Support (Brent)](https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf) - Eggbot-pruned Twilio to Grok Voice bridge that calls customer support for you. [littletechbird](https://x.com/littletechbird).
 - [Grokart](https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG) - Describe a purchase and get a shortlist plus a checkout link. [Luiz](https://x.com/lamorim_net).
+- [Guide](https://x.ai/bot/TbFMZABkeH7gyIIGxjfdU) - Turns a booked trip into a day-by-day plan you can follow. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Gym Bod](https://x.ai/bot/3mtiwFoZcEMq59w-49DMS) - Claims your spot in busy gym classes as registration opens. [peter](https://x.com/DrPB).
 - [Habit Referee](https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90) - Holds you to exactly one small habit, and nothing else. [GrokBotGod](https://x.com/GrokBotGod).
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) - Tracks a veteran household's VA.gov claims, visits, and earned perks. [Diego_F_Aguirre](https://x.com/Diego_F_Aguirre).
@@ -728,10 +759,12 @@ One share is one bot. Assemble the roster yourself.
 - [Koe](https://x.ai/bot/2cfzlwUnOQtohmHiguKuc) - One-year strategic thinking plan in empty structured steps you fill yourself. [dannybuck](https://x.com/dannybuck).
 - [Lazy Tom](https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb) - A dry, low-effort assistant that does the smallest useful thing and then stops. Short replies, no extra tasks, no coding. duyet.
 - [LetsMove Agent](https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL) - Agrees countries and preferences, then finds matching listings. [ixdesigner](https://x.com/ixdesigner).
+- [LG Laundry Specialist](https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7) - Maps plain-English laundry to LG ThinQ cycles and can start the machine. [Bwilson](https://x.com/Bwilson).
 - [Librarian](https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw) - Photograph your bookshelves and get a browsable personal library site. [ShaneMac](https://x.com/ShaneMac).
 - [Local Deals](https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo) - Daily local marketplace deals that it will negotiate for you. [Brandon](https://x.com/brandon_galang).
 - [Lot Ghost](https://x.ai/bot/4iGFTf2xQ0UKp4mSgSnkI) - A jam-band sidekick tracking setlists, tour drops and the daily rumour mill. [bradszellman](https://x.com/bradszellman).
 - [LRT Kelana Jaya Line](https://x.ai/bot/LLScxVm-la-ik4JJde3A1) - Transit helper for Malaysia's LRT Kelana Jaya Line. [shahrulestar](https://x.com/shahrulestar).
+- [MacPowerTools](https://x.ai/bot/SktrYfnj1vy3eG90uQ971) - Dry-run helper for user caches, Trash, and old Downloads on a Mac. [krisadipap](https://x.com/krisadipap).
 - [Magnum Seiba](https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb) - Run your Tesla from a chat window for climate, charging, locks and routes. [Kamkom05](https://x.com/Kamkom05).
 - [Maskoff](https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP) - Screens the stranger who just slid into your DMs and tells you whether to trust them. [RyanGBsystems](https://x.com/RyanGBsystems).
 - [Melissa](https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE) - A fitness and nutrition coach built around Type 1 diabetes constraints. [Tobias](https://x.com/tpgoebel).
@@ -761,13 +794,17 @@ One share is one bot. Assemble the roster yourself.
 - [Redact](https://x.ai/bot/Abz5txK3unOkm5ZxCGGX-) - Files your removal requests with the data brokers so you need not pay a service. [PyRo1121](https://x.com/PyRo1121).
 - [Replydebt](https://x.ai/bot/bJGTcDqC4fAEdbw2SuZqM) - Triages ghosted threads and drafts a one or two line reopen. [TuracTheThinker](https://x.com/TuracTheThinker).
 - [Review This](https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4) - Name a product and get a straight buy, skip, or pick-this-instead verdict. [dogenorway](https://x.com/DogecoinNorway).
+- [RezBot](https://x.ai/bot/JnDyu7X7D2qZDR1R3IcPU) - Finds an open table and makes the restaurant booking for you. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Rosettabot](https://x.ai/bot/eegdusTdLPabH7xTLQfgG) - Explains a foreign-language bot card before you install it. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [SchoolAdminBot](https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G) - Homeschool office for any US state. Walks the legal process and admits each child. Tanner.
+- [Scouty](https://x.ai/bot/jc0tOHuVUAn4MHuH2zyDn) - Reverse-searches live jobs from a resume and target city, then returns matches. [NickRoman](https://x.com/NickRoman).
+- [Sean](https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY) - Files Dice and career-portal job applications and screenshots each one. [0xsuhas1](https://x.com/0xsuhas1).
 - [Shop](https://x.ai/bot/nlIApzau1qw0MNiRkqbPH) - Searches Shopify stores and hands back a short list, approval required. [Alex](https://x.com/alex_chehimi).
 - [Shopper](https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ) - Researches what to buy from reviews and specs, then hunts the best price and waits before checkout. Pete.
 - [shoppy](https://x.ai/bot/26SigD00Ar-mArCvNwXN2) - Household shopper that finds a price, waits for a yes, then orders and tracks arrival. [vandy](https://x.com/vandymeares).
 - [Sous Chef](https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t) - Plans the week's dinners, writes the shopping list, and can order it. [Amber](https://x.com/amberdawn1786).
 - [stank](https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi) - A deadpan reminder to go take a shower. [poteto](https://x.com/poteto).
+- [Staypick](https://x.ai/bot/xhYtadt6BRbZh3MMEppLa) - Ranks neighbourhoods and stay types before you book anything. [TuracTheThinker](https://x.com/TuracTheThinker).
 - [Susan Miller](https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu) - Daily horoscopes pulled from Susan Miller on Astrology Zone, as a short morning brief for sun and rising signs. [Inkwell](https://x.com/cybrgalaxy).
 - [Sweeper](https://x.ai/bot/e9A5Krbs1RSm7HCv0IwQz) - Cleans leftover working files after you delete a bot. [LatchKeyLegend](https://x.com/LatchKeyLegend).
 - [Sylvia Style](https://x.ai/bot/uVBVr5NSR6VirgJrgikIl) - A personal stylist that shops live pieces and builds you a lookbook. [clairevo](https://x.com/clairevo).
@@ -791,10 +828,12 @@ One share is one bot. Assemble the roster yourself.
 - [Wedding Photo Hunter](https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK) - Collects every wedding photo and video into one folder. [ajt](https://x.com/ajt).
 - [Weekend Roster](https://x.ai/bot/ZWTGhNVARIZ2NOOKKFP-R) - Matches streaming drops and books to your taste roster when weekend decision fatigue hits. [TuracTheThinker](https://x.com/TuracTheThinker).
 - [Wholefoods](https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU) - Plans the week's groceries around whatever Whole Foods has marked down. [Dennison](https://x.com/DennisonBertram).
+- [X Mute Desk](https://x.ai/bot/wGDy1T5eobC1hjqFC9-PI) - Scans X mentions for hostile or spam replies and shows mute candidates. [ryanfoxeth](https://x.com/ryanfoxeth).
 - [Yolk](https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh) - A Tamagotchi egg in your sidebar that wants feeding four times a day. [jp_costa](https://x.com/jp_costa).
 
 ## Teams & handoffs
 
+- [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) - Audits your fleet of bots and tells you which ones are dead weight. [sdrth](https://x.com/sdrth).
 - [AI PM OS](https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj) - A product-management operating system packaged as one reusable setup. [nurijanian](https://x.com/nurijanian).
 - [AIオーケストレーション担当](https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk) - A Japanese-language commander that distributes work to specialists. [めい](https://x.com/mei_999_).
@@ -811,6 +850,7 @@ One share is one bot. Assemble the roster yourself.
 - [Bouncer](https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE) - Vets another bot's share link before you let it into your fleet. [Brad](https://x.com/bradshannon).
 - [Brief](https://x.ai/bot/Z7mWuQwWmnR-im3F7Hyh1) - Coaches a first-time builder through writing their first bot brief. [anandVragav](https://x.com/anandVragav).
 - [Callsheet](https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ) - Reads other bots runs.json on the shared computer and stays read-only unless you approve edits. [DBCrypt0](https://x.com/DBCrypt0).
+- [Canonizer](https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg) - Keeps one running status file that carries work between sessions. [hudcos](https://x.com/hudcos).
 - [CEO](https://x.ai/bot/GHLPyes3hiP9A6kES7UHg) - A virtual CEO that sets the agenda and directs your other bots. [inqusit](https://x.com/inqusit).
 - [Chieeeeefy (Chief of Staff)](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) - Chief of staff for a field engineer, calendar and work inbox first. [naoufal_elh](https://x.com/naoufal_elh).
 - [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) - Front desk in front of a bench of specialist bots. [MitchTiler](https://x.com/MitchTiler).
@@ -831,6 +871,7 @@ One share is one bot. Assemble the roster yourself.
 - [den](https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx) - Sits between a parent and the rest of the family's bots. [poteto](https://x.com/poteto).
 - [Desk Producer](https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs) - Runs the production desk on a film so the paperwork keeps up. [DOGE_2013](https://x.com/DOGE_2013).
 - [Developer](https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3) - Farms coding work out to build labs and mirrors every task on a Linear board. [Matej](https://x.com/m_check1B).
+- [Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r) - A single front door that orchestrates your other agents so you stop context switching. [kunchenguid](https://x.com/kunchenguid).
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) - The operator that actually does the work, and pushes back when a plan is wrong. [Uzi](https://x.com/UziObi). Notes: [templates/fixer](templates/fixer/).
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) - Keeps a shared knowledge base and audits a multi-bot fleet for overlap. [FranciscoKemeny](https://x.com/FranciscoKemeny).
 - [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) - Reads your company's website and staffs you a leadership bench of bots. [naoufal_elh](https://x.com/naoufal_elh).
@@ -895,7 +936,6 @@ One share is one bot. Assemble the roster yourself.
 - [Workshop Facilitator](https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH) - Chairs a working session and refuses to close it while any question lacks an owner. [Paul](https://x.com/OTNworld).
 - [X Scout](https://x.ai/bot/4iz8VYK_cG482_vIA8WR4) - Weekday scout for Grok Bot use cases on X, then asks which to add. [ericzakariasson](https://x.com/ericzakariasson).
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) - A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go. [Majd](https://x.com/MajdKaid).
-- [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).
 
 ## Skills and tools
 
