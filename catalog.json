@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09",
+  "generated": "2026-09-10",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -23,6 +23,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "2a",
+      "name": "2A",
+      "author": {
+        "name": "ChiefBeers",
+        "url": "https://x.com/ChiefBeers"
+      },
+      "summary": "Interstate carry trip planner with state-by-state reciprocity for US gun owners",
+      "summary_zh": "美国持枪跨州出行规划，按州列明互认与携带规则。",
+      "import": "https://x.ai/bot/N9eJfkuupWb3EpWFt76va",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "legal",
+        "planning",
+        "usa"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "2nd-brain",
@@ -881,6 +902,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-05"
+    },
+    {
+      "slug": "austen",
+      "name": "Austen",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Converse as Jane Austen’s social intelligence on manners, money, and marriage",
+      "summary_zh": "用简·奥斯汀的社交智慧陪你谈礼仪、金钱和婚姻。",
+      "import": "https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "wit",
+        "society"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "austin-parent",
@@ -3568,6 +3609,27 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "devi-frame-type2-trial",
+      "name": "真Deviフレーム Type2トライアル",
+      "author": {
+        "name": "Fermion_Boson17",
+        "url": "https://x.com/Fermion_Boson17"
+      },
+      "summary": "Trial Devi frame connector for Hoshimiya; final judgment stays with the user",
+      "summary_zh": "星宮专用 Devi 框架连接试用，最终判断仍由本人拍板。",
+      "import": "https://x.ai/bot/aeE3iKjj5xfDmx_dolbll",
+      "category": "teams-handoffs",
+      "tags": [
+        "frame",
+        "trial",
+        "assistants",
+        "jp"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
+    },
+    {
       "slug": "devin",
       "name": "Devin",
       "author": {
@@ -3607,6 +3669,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "dickinson",
+      "name": "Dickinson",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Converse as Emily Dickinson’s compressed voltage on death, awe, and small eternity",
+      "summary_zh": "用狄金森压缩的电压陪你谈死亡、敬畏和小小的永恒。",
+      "import": "https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "poetry",
+        "awe"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "discogs-bot",
@@ -3690,6 +3772,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-07"
+    },
+    {
+      "slug": "distill-anyone",
+      "name": "Distill anyone",
+      "author": {
+        "name": "kunchenguid",
+        "url": "https://x.com/kunchenguid"
+      },
+      "summary": "Distills a public presence into a talkable bot you can keep daily updated",
+      "summary_zh": "把公开人物的言论收成一个可对话的 Bot，还能每天刷新。",
+      "import": "https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt",
+      "category": "teams-handoffs",
+      "tags": [
+        "distill",
+        "persona",
+        "meta-bot",
+        "assistants"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "dj-trevin",
@@ -3799,6 +3902,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03"
+    },
+    {
+      "slug": "dostoyevsky",
+      "name": "Dostoyevsky",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Converse as Dostoyevsky’s moral pressure on confession, freedom, and guilt",
+      "summary_zh": "用陀思妥耶夫斯基的道德压力陪你谈忏悔、自由和罪责。",
+      "import": "https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "conscience",
+        "reflection"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "download-expert",
@@ -6311,6 +6434,29 @@
       "updated": "2026-09-06"
     },
     {
+      "slug": "im-not-old-yet",
+      "name": "I'm not old yet",
+      "author": {
+        "name": "AdventureNLearn",
+        "url": "https://x.com/AdventureNLearn"
+      },
+      "summary": "Drafts memes that mock age-bait junk mail, never the people receiving it",
+      "summary_zh": "写梗图吐槽那些把你当老人推销的垃圾广告，不嘲讽收信人。",
+      "import": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
+      "category": "content-publishing",
+      "tags": [
+        "memes",
+        "comedy",
+        "content",
+        "creator"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10",
+      "source": "https://x.com/AdventureNLearn/status/2097741271456776259",
+      "related": "https://grokbot.dev/marketplace/i-m-not-old-yet/"
+    },
+    {
       "slug": "imogen-alt-text",
       "name": "Imogen (Alt Text)",
       "author": {
@@ -6438,6 +6584,27 @@
       "updated": "2026-09-09",
       "source": "https://x.com/itsmattreichard/status/2097131577243250986",
       "related": "https://grokbot.dev/bots/influencer-marketing-deal-desk"
+    },
+    {
+      "slug": "insidermillions",
+      "name": "InsiderMillions",
+      "author": {
+        "name": "rmarwah",
+        "url": "https://x.com/rmarwah"
+      },
+      "summary": "Brief digest of million-dollar-plus officer and director stock buys; not advice",
+      "summary_zh": "高管和大股东百万以上买入的短简报，不是投资建议。",
+      "import": "https://x.ai/bot/yaix3I-36pEloG1XpLVOb",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "stocks",
+        "digest",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "insightfulpipe",
@@ -6929,6 +7096,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "kafka",
+      "name": "Kafka",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Converse as Kafka’s clarity inside absurd systems of guilt without charge",
+      "summary_zh": "用卡夫卡在荒诞系统里的清醒陪你谈无罪名的罪责。",
+      "import": "https://x.ai/bot/ewFkIRV929jhuW5mHqL_a",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "systems",
+        "absurd"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "kantan-touki",
@@ -7974,6 +8161,27 @@
       "updated": "2026-09-06"
     },
     {
+      "slug": "macos-disk-cleaner",
+      "name": "MacOS Disk Cleaner",
+      "author": {
+        "name": "MapachesAlexis",
+        "url": "https://x.com/MapachesAlexis"
+      },
+      "summary": "Mac cleaner that scans with a rule catalog and deletes only what you approve",
+      "summary_zh": "按规则目录扫 Mac 磁盘，只删你点头的那些路径。",
+      "import": "https://x.ai/bot/Z0WBoK2sucsOAqAXRpRb8",
+      "category": "personal-admin",
+      "tags": [
+        "macos",
+        "disk",
+        "cleanup",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
+    },
+    {
       "slug": "macpowertools",
       "name": "MacPowerTools",
       "author": {
@@ -8253,6 +8461,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-05"
+    },
+    {
+      "slug": "meeting-prep",
+      "name": "Meeting prep",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Builds short phone-ready pre-meeting briefs from calendar and connected context",
+      "summary_zh": "按日历和已接上下文写短而能拿着打电话的会前简报。",
+      "import": "https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5",
+      "category": "inbox-calendar",
+      "tags": [
+        "meetings",
+        "calendar",
+        "briefs",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "melissa-fitness-nutrition-coach",
@@ -9557,6 +9786,29 @@
       "related": "https://grokbot.dev/bots/personal-brand-desk"
     },
     {
+      "slug": "personal-trainer",
+      "name": "Personal Trainer",
+      "author": {
+        "name": "nathanglass",
+        "url": "https://x.com/nathanglass"
+      },
+      "summary": "Between-session check-ins for one coaching client, with a weekly summary for the coach",
+      "summary_zh": "给单个学员做课间饮食和训练打卡，周末给教练一份周报。",
+      "import": "https://x.ai/bot/t9TIKE_igItEQd6tOyyRd",
+      "category": "personal-admin",
+      "tags": [
+        "health",
+        "coaching",
+        "meals",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10",
+      "source": "https://x.com/nathanglass/status/2097769379274326161",
+      "related": "https://grokbot.dev/marketplace/personal-trainer/"
+    },
+    {
       "slug": "petty-bot",
       "name": "Petty Bot",
       "author": {
@@ -9729,6 +9981,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "poe",
+      "name": "Poe",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "A gothic literary companion that sets a midnight puzzle and unpicks mysteries",
+      "summary_zh": "哥特文学搭子，半夜出谜题，也能帮你拆解眼前的谜。",
+      "import": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "puzzles",
+        "gothic",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10",
+      "source": "https://x.com/SuddenlyJon/status/2097706986187948143",
+      "related": "https://grokbot.dev/marketplace/poe/"
     },
     {
       "slug": "point-peddler",
@@ -10340,6 +10615,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "quotewise-daily",
+      "name": "Quotewise Daily",
+      "author": {
+        "name": "quotewiser",
+        "url": "https://x.com/quotewiser"
+      },
+      "summary": "Serves one sourced quotation a day and checks shaky attributions before you repeat them",
+      "summary_zh": "每天给一条带出处的名言，还能帮你核对不确定的署名。",
+      "import": "https://x.ai/bot/kmmBn74qwBr9lgedW4naf",
+      "category": "content-publishing",
+      "tags": [
+        "quotes",
+        "research",
+        "citations",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10",
+      "source": "https://x.com/quotewiser/status/2097819326506008642",
+      "related": "https://grokbot.dev/marketplace/quotewise-daily/"
+    },
+    {
       "slug": "radar",
       "name": "Radar",
       "author": {
@@ -10619,6 +10917,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "renewals-invoice-bot",
+      "name": "Renewals Invoice Bot",
+      "author": {
+        "name": "compileinstyle",
+        "url": "https://x.com/compileinstyle"
+      },
+      "summary": "Pays known renewals within a weekly budget and asks before anything new",
+      "summary_zh": "在周预算内付已知续费，新账单先问你再动。",
+      "import": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "renewals",
+        "invoices",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10",
+      "source": "https://x.com/compileinstyle/status/2097809676242956768",
+      "related": "https://grokbot.dev/marketplace/renewals-invoice-bot/"
     },
     {
       "slug": "rentals",
@@ -11392,6 +11713,27 @@
       "related": "https://grokbot.dev/bots/sean"
     },
     {
+      "slug": "security-bot",
+      "name": "Security Bot",
+      "author": {
+        "name": "mdashjames",
+        "url": "https://x.com/mdashjames"
+      },
+      "summary": "Scans a GitHub repo from chat via Midkernel and returns a report plus full log",
+      "summary_zh": "在聊天里用 Midkernel 扫 GitHub 仓库，回报报告和完整日志。",
+      "import": "https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "github",
+        "scanning",
+        "developer"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
+    },
+    {
       "slug": "segundo-c-rebro",
       "name": "Segundo Cérebro",
       "author": {
@@ -11519,6 +11861,26 @@
       "updated": "2026-09-08"
     },
     {
+      "slug": "shakespeare",
+      "name": "Shakespeare",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Converse as Shakespeare’s dramatic imagination on ambition, love, and fate",
+      "summary_zh": "用莎士比亚的戏剧想象力陪你谈野心、爱与命运。",
+      "import": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "drama",
+        "stage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
+    },
+    {
       "slug": "shane-hunter",
       "name": "shane hunter",
       "author": {
@@ -11561,6 +11923,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "shelley",
+      "name": "Shelley",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Converse as Mary Shelley’s gothic responsibility for creation and hubris",
+      "summary_zh": "用玛丽·雪莱的哥特责任感陪你谈创造与狂妄。",
+      "import": "https://x.ai/bot/SzGYytJglwB_dqRt5OaTO",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "gothic",
+        "creation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "shepherd",
@@ -11901,6 +12283,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "slack-radar",
+      "name": "slack radar",
+      "author": {
+        "name": "parkersmith",
+        "url": "https://x.com/parkersmith"
+      },
+      "summary": "Reads Slack quietly and nudges only when mentions or watched topics need you",
+      "summary_zh": "安静读 Slack，只在被点名或盯着的话题真正需要你时提醒。",
+      "import": "https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak",
+      "category": "inbox-calendar",
+      "tags": [
+        "slack",
+        "monitoring",
+        "mentions",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10",
+      "source": "https://x.com/parkersmith/status/2097827032646529500",
+      "related": "https://grokbot.dev/marketplace/slack-radar/"
     },
     {
       "slug": "slacker",
@@ -13310,6 +13715,27 @@
       "related": "https://grokbot.dev/marketplace/thrift/"
     },
     {
+      "slug": "throttle-token-officer",
+      "name": "Throttle · Token Officer",
+      "author": {
+        "name": "james_ailton",
+        "url": "https://x.com/james_ailton"
+      },
+      "summary": "Watches a Grok Bot fleet for token burn and wasteful loops with short reports",
+      "summary_zh": "盯着一队 Grok Bot 的 token 消耗和空转循环，短报告提醒你。",
+      "import": "https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP",
+      "category": "finance-ops",
+      "tags": [
+        "tokens",
+        "ops",
+        "monitoring",
+        "fleet"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
+    },
+    {
       "slug": "tibo",
       "name": "Tibo",
       "author": {
@@ -13565,6 +13991,29 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "tolstoy",
+      "name": "Tolstoy",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "A Tolstoy-voiced companion that weighs your week for honesty over display",
+      "summary_zh": "用托尔斯泰的口气陪你过一周，看哪些日子是真需要，哪些只是装样子。",
+      "import": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
+      "category": "personal-admin",
+      "tags": [
+        "reflection",
+        "literature",
+        "wellbeing",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10",
+      "source": "https://x.com/SuddenlyJon/status/2097706995507675535",
+      "related": "https://grokbot.dev/marketplace/tolstoy/"
+    },
+    {
       "slug": "toss-securities-bot",
       "name": "토스 증권 주식 투자봇",
       "author": {
@@ -13778,6 +14227,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "twain",
+      "name": "Twain",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Converse as Mark Twain’s American irony with river sense and fraud-spotting",
+      "summary_zh": "用马克·吐温的美式讽刺陪你识骗子、讲河上的道理。",
+      "import": "https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "irony",
+        "humor"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "twinwright",
@@ -14375,6 +14844,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "webhook-guide",
+      "name": "Webhook Guide",
+      "author": {
+        "name": "tobiasztop",
+        "url": "https://x.com/tobiasztop"
+      },
+      "summary": "Walks you through setting up and triggering Grok Bot webhook routines step by step",
+      "summary_zh": "一步步带你配好并触发 Grok Bot 的 webhook 例行任务。",
+      "import": "https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66",
+      "category": "coding-shipping",
+      "tags": [
+        "webhooks",
+        "routines",
+        "developer",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
+    },
+    {
       "slug": "website-agency-lead-scout",
       "name": "Website agency lead scout",
       "author": {
@@ -14566,6 +15056,26 @@
       "updated": "2026-09-09",
       "source": "https://x.com/BenXlab/status/2097187265617580405",
       "related": "https://grokbot.dev/bots/wool-radar"
+    },
+    {
+      "slug": "woolf",
+      "name": "Woolf",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Converse as Virginia Woolf’s attention to consciousness, rooms, and time",
+      "summary_zh": "用伍尔夫对意识、房间和时间的注意力陪你聊。",
+      "import": "https://x.ai/bot/4fP33DHTBJudWglJyeMB_",
+      "category": "personal-admin",
+      "tags": [
+        "literature",
+        "consciousness",
+        "rooms"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-10"
     },
     {
       "slug": "work",
