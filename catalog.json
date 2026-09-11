@@ -616,6 +616,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "albert",
+      "name": "Albert",
+      "author": {
+        "name": "Skyler_Miller56",
+        "url": "https://x.com/Skyler_Miller56"
+      },
+      "summary": "Pulls pay and benefits from police union contracts into side-by-side spreadsheets",
+      "summary_zh": "把各地警察工会合同里的薪酬福利抽出来，做成对照表。",
+      "import": "https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP",
+      "source": "https://x.com/Skyler_Miller56/status/2098360124494516261",
+      "related": "https://grokbot.dev/marketplace/albert/",
+      "category": "finance-ops",
+      "tags": [
+        "contracts",
+        "labor",
+        "spreadsheets",
+        "benchmark"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "alchemist",
       "name": "Alchemist",
       "author": {
@@ -698,6 +721,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-07"
+    },
+    {
+      "slug": "announcr-voice",
+      "name": "Announcr Voice",
+      "author": {
+        "name": "the_davey",
+        "url": "https://x.com/the_davey"
+      },
+      "summary": "Speaks other bots' alerts out loud through nearby speakers",
+      "summary_zh": "把其它机器人的提醒念出来，从旁边音箱播给你听。",
+      "import": "https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ",
+      "source": "https://x.com/the_davey/status/2098211142694764750",
+      "related": "https://grokbot.dev/marketplace/announcr-voice/",
+      "category": "teams-handoffs",
+      "tags": [
+        "voice",
+        "alerts",
+        "announcer",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "aoty",
@@ -1248,6 +1294,29 @@
       "updated": "2026-09-05",
       "source": "https://x.com/freelegalforall/status/2095994776625819949",
       "related": "https://grokbot.dev/marketplace/better-call-claude/"
+    },
+    {
+      "slug": "billionairebot",
+      "name": "Billionairebot",
+      "author": {
+        "name": "JeffreyLind",
+        "url": "https://x.com/JeffreyLind"
+      },
+      "summary": "Names a service and ballpark cost so you can pay someone to kill an annoying errand",
+      "summary_zh": "告诉你该雇哪类人、大概花多少，把烦人的杂事外包掉。",
+      "import": "https://x.ai/bot/jq-BFHkNoiJEtieswOYTc",
+      "source": "https://x.com/JeffreyLind/status/2098374638464077918",
+      "related": "https://grokbot.dev/marketplace/billionairebot/",
+      "category": "personal-admin",
+      "tags": [
+        "delegate",
+        "errands",
+        "life-admin",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "blair-personal-shopper",
@@ -2281,6 +2350,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "chief-of-staff-cursor-relay",
+      "name": "参谋长",
+      "author": {
+        "name": "0xlangeai",
+        "url": "https://x.com/0xlangeai"
+      },
+      "summary": "Chinese relay that hands planning and research to a Cursor Cloud Agent and brings the answer back",
+      "summary_zh": "中文参谋，把规划和研究转给 Cursor Cloud Agent，再把结果带回来。",
+      "import": "https://x.ai/bot/nSzhldgXfVuC93CjjQptM",
+      "source": "https://x.com/0xlangeai/status/2098313794179207552",
+      "related": "https://grokbot.dev/marketplace/chief-of-staff-cursor-relay/",
+      "category": "coding-shipping",
+      "tags": [
+        "cursor",
+        "relay",
+        "planning",
+        "zh"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "chief-of-staff-igor",
       "name": "chief of staff (igor)",
       "author": {
@@ -2493,6 +2585,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-05"
+    },
+    {
+      "slug": "clickbait-skipper",
+      "name": "Clickbait skipper",
+      "author": {
+        "name": "S_Padival",
+        "url": "https://x.com/S_Padival"
+      },
+      "summary": "Skips the padding and tells you what a video or podcast actually says",
+      "summary_zh": "跳过铺垫，直接告诉你视频或播客里真正在讲什么。",
+      "import": "https://x.ai/bot/i8WsjKB8KRL-kQ25VPwaB",
+      "source": "https://x.com/S_Padival/status/2098227132300452236",
+      "related": "https://grokbot.dev/marketplace/clickbait-skipper/",
+      "category": "research-briefings",
+      "tags": [
+        "youtube",
+        "podcast",
+        "summary",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "clip-bot",
@@ -4821,6 +4936,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03"
+    },
+    {
+      "slug": "fed-x-brief",
+      "name": "Fed + X Brief",
+      "author": {
+        "name": "0xashrk",
+        "url": "https://x.com/0xashrk"
+      },
+      "summary": "Weekday Fed and markets brief with a call on whether to post, quote, or wait",
+      "summary_zh": "工作日早间汇总美联储与市场，并建议今天该发帖、引用还是观望。",
+      "import": "https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM",
+      "source": "https://x.com/0xashrk/status/2098379882640142616",
+      "related": "https://grokbot.dev/marketplace/fed-x-brief/",
+      "category": "research-briefings",
+      "tags": [
+        "fed",
+        "markets",
+        "x",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "feedback",
@@ -8328,6 +8466,29 @@
       "updated": "2026-09-04"
     },
     {
+      "slug": "linkedin-watch",
+      "name": "LinkedIn Watch",
+      "author": {
+        "name": "AnnouncrFM",
+        "url": "https://x.com/AnnouncrFM"
+      },
+      "summary": "Scheduled LinkedIn digest covering feed, messages, invites, views, and jobs",
+      "summary_zh": "定时扫 LinkedIn 动态、私信、邀请、访客和职位，收成一份摘要。",
+      "import": "https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR",
+      "source": "https://x.com/AnnouncrFM/status/2098210496356680113",
+      "related": "https://grokbot.dev/marketplace/linkedin-watch/",
+      "category": "personal-admin",
+      "tags": [
+        "linkedin",
+        "digest",
+        "monitoring",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "linky",
       "name": "Linky",
       "author": {
@@ -9870,6 +10031,29 @@
       "verified": false,
       "updated": "2026-09-09",
       "source": "https://x.com/krisadipap"
+    },
+    {
+      "slug": "optima",
+      "name": "Optima",
+      "author": {
+        "name": "TOATspace",
+        "url": "https://x.com/TOATspace"
+      },
+      "summary": "Clears obsolete rules and instructions still stuck in your other bots' memory",
+      "summary_zh": "扫过其它机器人的记忆，挑出过时规则并建议清掉。",
+      "import": "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
+      "source": "https://x.com/TOATspace/status/2098378374905565625",
+      "related": "https://grokbot.dev/marketplace/optima/",
+      "category": "coding-shipping",
+      "tags": [
+        "cleanup",
+        "memory",
+        "meta-bot",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "orders",
@@ -12064,6 +12248,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "sales-orchestrator",
+      "name": "Sales Orchestrator",
+      "author": {
+        "name": "idleshubh",
+        "url": "https://x.com/idleshubh"
+      },
+      "summary": "Front-line traffic control so only one sales specialist answers each group request",
+      "summary_zh": "在销售机器人群里挡第一线，只放一个专家接每条请求。",
+      "import": "https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A",
+      "source": "https://x.com/idleshubh/status/2098352807858626561",
+      "related": "https://grokbot.dev/marketplace/sales-orchestrator/",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "orchestrator",
+        "agent-team",
+        "routing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "sam",
       "name": "Sam",
       "author": {
@@ -14168,6 +14375,29 @@
       "related": "https://grokbot.dev/marketplace/the-bobs/"
     },
     {
+      "slug": "the-chief",
+      "name": "The Chief",
+      "author": {
+        "name": "PolymarketPoke",
+        "url": "https://x.com/PolymarketPoke"
+      },
+      "summary": "Keeps a multi-bot team audited, seated, and reporting to one human",
+      "summary_zh": "盯着一整队机器人，做审计排班，并统一向你汇报。",
+      "import": "https://x.ai/bot/dlSO3hj__nTZlJwpQB6oP",
+      "source": "https://x.com/PolymarketPoke/status/2098257428244783508",
+      "related": "https://grokbot.dev/marketplace/the-chief/",
+      "category": "teams-handoffs",
+      "tags": [
+        "chief-of-staff",
+        "agent-team",
+        "ops",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "the-cleaner",
       "name": "The Cleaner",
       "author": {
@@ -14228,6 +14458,29 @@
       "updated": "2026-09-07",
       "source": "https://x.com/elyasalothman/status/2096736088756760847",
       "related": "https://grokbot.dev/marketplace/the-king/"
+    },
+    {
+      "slug": "the-morning-newspaper",
+      "name": "The Morning Newspaper",
+      "author": {
+        "name": "CodeChap",
+        "url": "https://x.com/CodeChap"
+      },
+      "summary": "Overnight personal newspaper from inbox and calendar, printed by breakfast",
+      "summary_zh": "夜里读收件箱和日程，排成一张小报，早餐前打出来。",
+      "import": "https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di",
+      "source": "https://x.com/CodeChap/status/2098372713614110964",
+      "related": "https://grokbot.dev/marketplace/the-morning-newspaper/",
+      "category": "inbox-calendar",
+      "tags": [
+        "newspaper",
+        "inbox",
+        "calendar",
+        "print"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "thefounder",
@@ -15106,6 +15359,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-01"
+    },
+    {
+      "slug": "usage-bot",
+      "name": "Usage Bot",
+      "author": {
+        "name": "realMattAbrams",
+        "url": "https://x.com/realMattAbrams"
+      },
+      "summary": "Watches shared Grok Bot quota and tells the rest of the team when to slow down",
+      "summary_zh": "盯着账号共用的 Grok Bot 额度，提醒其它机器人先慢下来。",
+      "import": "https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb",
+      "source": "https://x.com/realMattAbrams/status/2098246220099829823",
+      "related": "https://grokbot.dev/marketplace/usage-bot/",
+      "category": "teams-handoffs",
+      "tags": [
+        "quota",
+        "usage",
+        "agent-team",
+        "meter"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "usage-pool-orchestrator",
