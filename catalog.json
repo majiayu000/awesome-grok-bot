@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10",
+  "generated": "2026-09-11",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -286,6 +286,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "aeo-content-producer",
+      "name": "AEO Content Producer",
+      "author": {
+        "name": "Jingg_n_Tonic",
+        "url": "https://x.com/Jingg_n_Tonic"
+      },
+      "summary": "Turns AI-answer visibility data into rewrite plans and new pages aimed at citations",
+      "summary_zh": "按你在 AI 回答里的曝光数据，排改写计划和冲引用的新稿。",
+      "import": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+      "source": "https://x.com/Jingg_n_Tonic/status/2098115261861675268",
+      "related": "https://grokbot.dev/marketplace/aeo-content-producer/",
+      "category": "content-publishing",
+      "tags": [
+        "aeo",
+        "seo",
+        "content",
+        "citations"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "aeo-seo-bot",
@@ -738,6 +761,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04"
+    },
+    {
+      "slug": "apple-dev",
+      "name": "Apple Dev",
+      "author": {
+        "name": "Baconbrix",
+        "url": "https://x.com/Baconbrix"
+      },
+      "summary": "Drives Xcode, simulators, and Swift builds on a Mac you already paired",
+      "summary_zh": "在你已配对的 Mac 上驱动 Xcode、模拟器和 Swift 构建。",
+      "import": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+      "source": "https://x.com/Baconbrix/status/2098196516121002418",
+      "related": "https://grokbot.dev/marketplace/apple-dev/",
+      "category": "coding-shipping",
+      "tags": [
+        "xcode",
+        "swift",
+        "macos",
+        "builds"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "appointment-finder",
@@ -1466,6 +1512,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-10"
+    },
+    {
+      "slug": "bot-portal",
+      "name": "Bot Portal",
+      "author": {
+        "name": "JaimeBubblehead",
+        "url": "https://x.com/JaimeBubblehead"
+      },
+      "summary": "Keeps a running map of AI tools and bots worth knowing beside Grok Bot",
+      "summary_zh": "持续整理值得关注的 AI 工具和机器人，并记下彼此怎么接。",
+      "import": "https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o",
+      "source": "https://x.com/JaimeBubblehead/status/2098160562991505909",
+      "related": "https://grokbot.dev/marketplace/bot-portal/",
+      "category": "research-briefings",
+      "tags": [
+        "directory",
+        "meta-bot",
+        "tools",
+        "map"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "botops-u00b7-chief-of-staff",
@@ -2640,6 +2709,27 @@
       "updated": "2026-09-03"
     },
     {
+      "slug": "coin-bot-kr",
+      "name": "코인봇",
+      "author": {
+        "name": "BBBang9900",
+        "url": "https://x.com/BBBang9900"
+      },
+      "summary": "Trades majors on Bithumb with tight bands and five-minute position checks",
+      "summary_zh": "在 Bithumb 优先做主流币，少交易、设盈亏带，五分钟看一次仓位。",
+      "import": "https://x.ai/bot/ucu-nI-yeCdPeDp4cpL4X",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "bithumb",
+        "trading",
+        "kr"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "cold-open",
       "name": "Sitcom banger",
       "author": {
@@ -2702,6 +2792,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "colombia-move",
+      "name": "Colombia Move",
+      "author": {
+        "name": "michaelheredia",
+        "url": "https://x.com/michaelheredia"
+      },
+      "summary": "Bilingual help desk for the Colombia Move marketplace in Spanish or English",
+      "summary_zh": "给 Colombia Move 市集做客服，西语英语都能接。",
+      "import": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+      "source": "https://x.com/michaelheredia/status/2098070216701817322",
+      "related": "https://grokbot.dev/marketplace/colombia-move/",
+      "category": "customer-sales",
+      "tags": [
+        "support",
+        "bilingual",
+        "marketplace",
+        "travel"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "commercial-taste",
@@ -3719,6 +3832,29 @@
       "updated": "2026-09-05"
     },
     {
+      "slug": "devin-systems",
+      "name": "Devin",
+      "author": {
+        "name": "JaimeBubblehead",
+        "url": "https://x.com/JaimeBubblehead"
+      },
+      "summary": "Handles near-metal work like daemons, desktop apps, GPU pipelines, and ship scripts",
+      "summary_zh": "负责贴近底层的活，含守护进程、桌面应用、GPU 管线和发布脚本。",
+      "import": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+      "source": "https://x.com/JaimeBubblehead/status/2098149698032824663",
+      "related": "https://grokbot.dev/marketplace/devin/",
+      "category": "coding-shipping",
+      "tags": [
+        "systems",
+        "desktop",
+        "gpu",
+        "agent-team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "dewey",
       "name": "Dewey",
       "author": {
@@ -3738,6 +3874,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "dial-bot",
+      "name": "dial bot",
+      "author": {
+        "name": "mattyp",
+        "url": "https://x.com/mattyp"
+      },
+      "summary": "Places a real phone call for you and returns a written wrap-up after",
+      "summary_zh": "替你打一通真实电话，结束后交回一份书面通话纪要。",
+      "import": "https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi",
+      "source": "https://x.com/mattyp/status/2098156079620542639",
+      "related": "https://grokbot.dev/marketplace/dial-bot/",
+      "category": "customer-sales",
+      "tags": [
+        "phone",
+        "calls",
+        "outbound",
+        "voice"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "dickinson",
@@ -4423,6 +4582,28 @@
       "related": "https://grokbot.dev/marketplace/exec-cos-digest/"
     },
     {
+      "slug": "executive-coach",
+      "name": "Executive Coach",
+      "author": {
+        "name": "YanqingCheng",
+        "url": "https://x.com/YanqingCheng"
+      },
+      "summary": "Asks hard questions until you say the real issue out loud, without handing a model",
+      "summary_zh": "不停追问到你把真问题说出口，不塞现成框架。",
+      "import": "https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz",
+      "source": "https://x.com/YanqingCheng/status/2098069512830468252",
+      "related": "https://grokbot.dev/marketplace/executive-coach/",
+      "category": "personal-admin",
+      "tags": [
+        "coaching",
+        "leadership",
+        "questions"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "ezra",
       "name": "Ezra",
       "author": {
@@ -4487,6 +4668,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "facta",
+      "name": "Facta",
+      "author": {
+        "name": "JaimeBubblehead",
+        "url": "https://x.com/JaimeBubblehead"
+      },
+      "summary": "Grades claims from other bots as solid, shaky, overstated, or hold for a human",
+      "summary_zh": "给其他机器人说的话打分，标成扎实、含糊、夸大或留给人看。",
+      "import": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+      "source": "https://x.com/JaimeBubblehead/status/2098141022320533714",
+      "related": "https://grokbot.dev/marketplace/facta/",
+      "category": "research-briefings",
+      "tags": [
+        "fact-check",
+        "verification",
+        "agent-team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "family-wordpress-helpdesk",
@@ -4944,6 +5147,27 @@
       "updated": "2026-09-03"
     },
     {
+      "slug": "foreman",
+      "name": "Foreman",
+      "author": {
+        "name": "AdventureNLearn",
+        "url": "https://x.com/AdventureNLearn"
+      },
+      "summary": "Stands up a public-pack team and waits for YES before creating missing seats",
+      "summary_zh": "搭好一套公开团队编制，缺席位要等你点头才创建。",
+      "import": "https://x.ai/bot/XfQEI2uHGd496SLbjCvGw",
+      "category": "teams-handoffs",
+      "tags": [
+        "team-pack",
+        "onboarding",
+        "roster",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "forge-dev-factory",
       "name": "Forge (dev factory)",
       "author": {
@@ -5376,6 +5600,29 @@
       "updated": "2026-09-07"
     },
     {
+      "slug": "gong-call-coach",
+      "name": "Gong Call Coach",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Turns stored sales-call recordings into short coaching notes for the rep",
+      "summary_zh": "从已存的销售通话录音里抽出几条给销售看的短辅导。",
+      "import": "https://x.ai/bot/KpodhhBqjA4FHv47R1HrD",
+      "source": "https://x.com/scottxmetcalf/status/2098051251720335837",
+      "related": "https://grokbot.dev/marketplace/gong-call-coach/",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "coaching",
+        "gong",
+        "calls"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "gonzalo-s-smb-manager",
       "name": "gonzalo's smb manager",
       "author": {
@@ -5505,6 +5752,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "grocery-bot",
+      "name": "Grocery Bot",
+      "author": {
+        "name": "austinwcap",
+        "url": "https://x.com/austinwcap"
+      },
+      "summary": "Builds the cheapest review-ready Instacart carts from a list and stops before checkout",
+      "summary_zh": "按购物清单拼最便宜的 Instacart 车，结账前停下来给你看。",
+      "import": "https://x.ai/bot/JY9Ly_AvMkR8iGuzJ7EJ1",
+      "category": "personal-admin",
+      "tags": [
+        "grocery",
+        "instacart",
+        "shopping",
+        "prices"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "grocery-cart-planner",
@@ -6123,6 +6391,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "helloitsoctocat",
+      "name": "Helloitsoctocat",
+      "author": {
+        "name": "helloitsoctocat",
+        "url": "https://x.com/helloitsoctocat"
+      },
+      "summary": "Tidies a repo merge flow from main into master with Graph API change notes",
+      "summary_zh": "把 main 合进 master 的仓库整理顺，并记下 Graph API 变更。",
+      "import": "https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ",
+      "category": "coding-shipping",
+      "tags": [
+        "git",
+        "merge",
+        "repo",
+        "graph-api"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "herbet",
@@ -6994,6 +7283,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "job-applier",
+      "name": "Job applier",
+      "author": {
+        "name": "aroogle",
+        "url": "https://x.com/aroogle"
+      },
+      "summary": "Reads your CV, finds fitting roles, and drafts personalized applications at volume",
+      "summary_zh": "读你的简历找合适岗位，批量写出不千篇一律的申请稿。",
+      "import": "https://x.ai/bot/gfxH6sM_0QlxeDNFrRmep",
+      "source": "https://x.com/aroogle/status/2098134660677337595",
+      "related": "https://grokbot.dev/marketplace/job-applier/",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "applications",
+        "cv",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "job-interview-hunter",
       "name": "Job interview hunter",
       "author": {
@@ -7100,6 +7412,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "johnny-torche",
+      "name": "Johnny — Torche",
+      "author": {
+        "name": "LeBrasierVolant",
+        "url": "https://x.com/LeBrasierVolant"
+      },
+      "summary": "French X ghostwriter in Johnny / Torche voice for Fantastic Four fans",
+      "summary_zh": "用法语 Johnny 或 Torche 嗓音写可直接发的 X 帖，面向漫威粉。",
+      "import": "https://x.ai/bot/ZltFPZiC6e3L1nkg9dfEM",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "ghostwriter",
+        "french",
+        "marvel"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "join-a-startup-bot",
       "name": "Join a Startup Bot",
       "author": {
@@ -7142,6 +7475,27 @@
       "verified": false,
       "updated": "2026-09-02",
       "source": "https://x.com/liam_fallen"
+    },
+    {
+      "slug": "judd-the-bug",
+      "name": "Judd the Bug",
+      "author": {
+        "name": "sergical",
+        "url": "https://x.com/sergical"
+      },
+      "summary": "Investigates Sentry issues across MCP, CLI, and dashboard with sourced findings",
+      "summary_zh": "跨 MCP、Sentry CLI 和后台查问题，带回带出处的结论和动作。",
+      "import": "https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL",
+      "category": "coding-shipping",
+      "tags": [
+        "sentry",
+        "debugging",
+        "mcp",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "just-in-time-curriculum",
@@ -7316,6 +7670,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-05"
+    },
+    {
+      "slug": "kindling",
+      "name": "Kindling",
+      "author": {
+        "name": "FantomBuildz",
+        "url": "https://x.com/FantomBuildz"
+      },
+      "summary": "Turns a one-line app idea into a ready-to-paste Grok Build prompt",
+      "summary_zh": "把一句话的应用想法收成可直接粘贴进 Grok Build 的提示词。",
+      "import": "https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_",
+      "source": "https://x.com/FantomBuildz/status/2098199032237547648",
+      "related": "https://grokbot.dev/marketplace/kindling/",
+      "category": "coding-shipping",
+      "tags": [
+        "grok-build",
+        "prompt",
+        "meta-bot",
+        "apps"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "kinesis-portal-bot",
@@ -9878,6 +10255,29 @@
       "related": "https://grokbot.dev/bots/personal-brand-desk"
     },
     {
+      "slug": "personal-finance-log",
+      "name": "人生·财务",
+      "author": {
+        "name": "KinGao476942",
+        "url": "https://x.com/KinGao476942"
+      },
+      "summary": "Logs spending by voice, with a nightly summary and a monthly look back",
+      "summary_zh": "口头记一笔花销就能入账，夜里有摘要，月底再回看。",
+      "import": "https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB",
+      "source": "https://x.com/KinGao476942/status/2098083629088063897",
+      "related": "https://grokbot.dev/marketplace/personal-finance-log/",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "voice",
+        "ledger",
+        "habits"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "personal-trainer",
       "name": "Personal Trainer",
       "author": {
@@ -9984,6 +10384,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "photo-curator",
+      "name": "Photo Curator",
+      "author": {
+        "name": "jaharris13",
+        "url": "https://x.com/jaharris13"
+      },
+      "summary": "Picks keepers from a raw photo folder and applies light edits for review",
+      "summary_zh": "从一堆原片里挑出值得留的，再做一点轻修给你确认。",
+      "import": "https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z",
+      "source": "https://x.com/jaharris13/status/2098181437979578662",
+      "related": "https://grokbot.dev/marketplace/photo-curator/",
+      "category": "personal-admin",
+      "tags": [
+        "photos",
+        "curation",
+        "editing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "pickfu-insights",
@@ -10706,6 +11128,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "quency",
+      "name": "Quency",
+      "author": {
+        "name": "JaimeBubblehead",
+        "url": "https://x.com/JaimeBubblehead"
+      },
+      "summary": "Last release gate that asks if the work is good enough to ship and hold together",
+      "summary_zh": "发布前最后一道关，只问够不够上线、能不能站得住。",
+      "import": "https://x.ai/bot/JQu6e3mIfy588elZm7BTo",
+      "source": "https://x.com/JaimeBubblehead/status/2098139288160420168",
+      "related": "https://grokbot.dev/marketplace/quency/",
+      "category": "teams-handoffs",
+      "tags": [
+        "release",
+        "qa",
+        "gate",
+        "agent-team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "quote-collector",
@@ -12336,6 +12781,50 @@
       "updated": "2026-09-04"
     },
     {
+      "slug": "showrunner",
+      "name": "Showrunner",
+      "author": {
+        "name": "RedSpiceX",
+        "url": "https://x.com/RedSpiceX"
+      },
+      "summary": "Directs a music-video crew of specialist bots from look to shot list",
+      "summary_zh": "当音乐视频导演，给一小队专长机器人定风格和分镜。",
+      "import": "https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk",
+      "source": "https://x.com/RedSpiceX/status/2098108206321107418",
+      "related": "https://grokbot.dev/marketplace/showrunner/",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "music",
+        "crew",
+        "director"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
+      "slug": "side-hustle-bot-kr",
+      "name": "부업봇",
+      "author": {
+        "name": "BBBang9900",
+        "url": "https://x.com/BBBang9900"
+      },
+      "summary": "Validates demand, makes digital goods, and lists them without chasing dead channels",
+      "summary_zh": "验证需求、做数字商品并上架曝光，不做明显卖不掉的动作。",
+      "import": "https://x.ai/bot/g17AUEbD0Oo-5b1HDpuQB",
+      "category": "finance-ops",
+      "tags": [
+        "side-hustle",
+        "digital-goods",
+        "marketplace",
+        "kr"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "site-audit",
       "name": "Site Audit",
       "author": {
@@ -12398,6 +12887,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "skill-import",
+      "name": "Skill Import",
+      "author": {
+        "name": "Samuelflg1",
+        "url": "https://x.com/Samuelflg1"
+      },
+      "summary": "Imports and reviews agent skills from Claude Code, Codex, Hermes, and Grok Bot",
+      "summary_zh": "从 Claude Code、Codex、Hermes 和 Grok Bot 导入并审 agent 技能包。",
+      "import": "https://x.ai/bot/NhTYqcIBaPCSZtdTflnqa",
+      "category": "coding-shipping",
+      "tags": [
+        "skills",
+        "import",
+        "claude",
+        "codex"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "slack-radar",
@@ -14084,6 +14594,29 @@
       "updated": "2026-09-05"
     },
     {
+      "slug": "token-officer",
+      "name": "Token Officer",
+      "author": {
+        "name": "from_glasses",
+        "url": "https://x.com/from_glasses"
+      },
+      "summary": "Audits a bot fleet for overlapping jobs and chat loops that quietly burn tokens",
+      "summary_zh": "审计一队机器人里重叠的定时活和绕圈对话，点名白烧的 token。",
+      "import": "https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP",
+      "source": "https://x.com/from_glasses/status/2098042266308800908",
+      "related": "https://grokbot.dev/marketplace/token-officer/",
+      "category": "finance-ops",
+      "tags": [
+        "tokens",
+        "audit",
+        "fleet",
+        "cost"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
+    },
+    {
       "slug": "token-ops",
       "name": "Token Ops",
       "author": {
@@ -14593,6 +15126,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-01"
+    },
+    {
+      "slug": "usage-watch",
+      "name": "Usage Watch",
+      "author": {
+        "name": "compileinstyle",
+        "url": "https://x.com/compileinstyle"
+      },
+      "summary": "Tracks Grok Bot and Cursor spend against a daily ceiling and names expensive habits",
+      "summary_zh": "盯 Grok Bot 与 Cursor 花费对照日上限，点名烧钱习惯。",
+      "import": "https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j",
+      "source": "https://x.com/compileinstyle/status/2098106082681888931",
+      "related": "https://grokbot.dev/marketplace/usage-watch/",
+      "category": "finance-ops",
+      "tags": [
+        "cost",
+        "monitoring",
+        "cursor",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "user-researcher",
@@ -15510,6 +16066,26 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06"
+    },
+    {
+      "slug": "xhs-giveaway-helper",
+      "name": "小红书参与抽奖助手",
+      "author": {
+        "name": "selinqi",
+        "url": "https://x.com/selinqi"
+      },
+      "summary": "Finds Xiaohongshu giveaways, does the four-step entry, and logs them in Notion",
+      "summary_zh": "在小红书搜抽奖并按规则四连，足迹记进 Notion，躲开明显诈骗。",
+      "import": "https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP",
+      "category": "personal-admin",
+      "tags": [
+        "xiaohongshu",
+        "giveaway",
+        "notion"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-11"
     },
     {
       "slug": "yahoo-pulse",
