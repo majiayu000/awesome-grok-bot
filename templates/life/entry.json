@@ -10,6 +10,8 @@
   "import": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
   "source": "https://x.com/TylerNishida/status/2093426221732532457",
   "related": "https://grokbot.dev/bots/life-life-door",
+  "first_safe_task": "List the rooms or sibling bots you would open. Do not spawn anyone or send messages.",
+  "approval_boundary": "Never spawn bots, send messages, or create events without an explicit yes in chat.",
   "category": "teams-handoffs",
   "tags": [
     "two-door",

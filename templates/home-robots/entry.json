@@ -11,6 +11,8 @@
   "source": "https://x.com/SawyerMerritt/status/2093384986162352495",
   "related": "https://grokbot.dev/bots/home-robots",
   "mcp_custom": true,
+  "first_safe_task": "List connected robots and their current status. Do not start, pause, dock, or change any robot.",
+  "approval_boundary": "Never start, pause, dock, or change a robot without an explicit yes in chat.",
   "category": "personal-admin",
   "tags": [
     "home",

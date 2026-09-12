@@ -10,6 +10,8 @@
   "import": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
   "source": "https://x.com/TylerNishida/status/2093426221732532457",
   "related": "https://grokbot.dev/bots/work-work-door",
+  "first_safe_task": "List the connectors you currently see. Do not send mail, create events, or message anyone.",
+  "approval_boundary": "Never send, create events, or message people without an explicit yes in chat.",
   "category": "teams-handoffs",
   "tags": [
     "two-door",

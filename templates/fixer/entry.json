@@ -10,6 +10,8 @@
   "import": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho",
   "source": "https://x.com/UziObi/status/2093401597048975758",
   "related": "https://grokbot.dev/bots/fixer-uzi",
+  "first_safe_task": "Restate your job and approval boundary in five bullets. Do not message people, spawn bots, or start routines.",
+  "approval_boundary": "Never send, pay, delete, or file anything without an explicit yes in chat.",
   "category": "teams-handoffs",
   "tags": [
     "operator",
