@@ -101,18 +101,32 @@ function punctuate(text) {
   return /[.!?。！？]$/.test(text) ? text : `${text}.`;
 }
 
+/** Escape Markdown link-label breakers so `[label](url)` cannot be hijacked. */
+function escapeMarkdownLinkLabel(label) {
+  return String(label).replace(/([\\\]])/g, "\\$1");
+}
+
+/** Escape HTML/Markdown metacharacters in plain (non-link) author text. */
+function escapeMarkdownPlainText(text) {
+  return String(text).replace(/([\\`*_{}[\]()#+.!|<>])/g, "\\$1");
+}
+
+function markdownLink(label, url) {
+  return `[${escapeMarkdownLinkLabel(label)}](${url})`;
+}
+
 function expectedReadmeLine(entry, readmeName) {
   const chinese = readmeName === "README.zh-CN.md";
   const summary = entry[chinese ? "summary_zh" : "summary"];
   if (!summary) fail(`${readmeName}: ${entry.slug} is missing ${chinese ? "summary_zh" : "summary"}`);
   const author = entry.author.url
-    ? `[${entry.author.name}](${entry.author.url})`
-    : entry.author.name;
+    ? markdownLink(entry.author.name, entry.author.url)
+    : escapeMarkdownPlainText(entry.author.name);
   const hasTemplate = slugsOnDisk.includes(entry.slug);
   const notes = hasTemplate
     ? ` ${chinese ? "说明" : "Notes"}: [templates/${entry.slug}](templates/${entry.slug}/).`
     : "";
-  return `- [${entry.name}](${entry.import}) - ${punctuate(summary)} ${author}.${notes}`;
+  return `- ${markdownLink(entry.name, entry.import)} - ${punctuate(summary)} ${author}.${notes}`;
 }
 
 const catalogPath = join(root, "catalog.json");
