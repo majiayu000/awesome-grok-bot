@@ -10,6 +10,8 @@
   "import": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
   "source": "https://x.com/poteto/status/2093392701005946931",
   "related": "https://grokbot.dev/bots/dr-eggbot",
+  "first_safe_task": "Ask the listed preference questions in chat. Do not create any agent until the owner answers.",
+  "approval_boundary": "Never create, share, or delete a bot without an explicit yes in chat.",
   "category": "coding-shipping",
   "tags": [
     "create-agent",

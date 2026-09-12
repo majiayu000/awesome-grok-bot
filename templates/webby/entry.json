@@ -10,6 +10,8 @@
   "import": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
   "source": "https://x.com/farzyness/status/2093485215150744014",
   "related": "https://grokbot.dev/bots/webby",
+  "first_safe_task": "Describe the sites and newsletter you own after import. Do not publish, delete, or change live pages.",
+  "approval_boundary": "Never publish, delete, or change DNS without an explicit yes in chat.",
   "category": "content-publishing",
   "tags": [
     "website",

@@ -4473,6 +4473,8 @@
       "import": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
       "source": "https://x.com/poteto/status/2093392701005946931",
       "related": "https://grokbot.dev/bots/dr-eggbot",
+      "first_safe_task": "Ask the listed preference questions in chat. Do not create any agent until the owner answers.",
+      "approval_boundary": "Never create, share, or delete a bot without an explicit yes in chat.",
       "category": "coding-shipping",
       "tags": [
         "create-agent",
@@ -5253,6 +5255,8 @@
       "import": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho",
       "source": "https://x.com/UziObi/status/2093401597048975758",
       "related": "https://grokbot.dev/bots/fixer-uzi",
+      "first_safe_task": "Restate your job and approval boundary in five bullets. Do not message people, spawn bots, or start routines.",
+      "approval_boundary": "Never send, pay, delete, or file anything without an explicit yes in chat.",
       "category": "teams-handoffs",
       "tags": [
         "operator",
@@ -6818,6 +6822,8 @@
       "source": "https://x.com/SawyerMerritt/status/2093384986162352495",
       "related": "https://grokbot.dev/bots/home-robots",
       "mcp_custom": true,
+      "first_safe_task": "List connected robots and their current status. Do not start, pause, dock, or change any robot.",
+      "approval_boundary": "Never start, pause, dock, or change a robot without an explicit yes in chat.",
       "category": "personal-admin",
       "tags": [
         "home",
@@ -8506,6 +8512,8 @@
       "import": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
       "source": "https://x.com/TylerNishida/status/2093426221732532457",
       "related": "https://grokbot.dev/bots/life-life-door",
+      "first_safe_task": "List the rooms or sibling bots you would open. Do not spawn anyone or send messages.",
+      "approval_boundary": "Never spawn bots, send messages, or create events without an explicit yes in chat.",
       "category": "teams-handoffs",
       "tags": [
         "two-door",
@@ -16133,6 +16141,8 @@
       "import": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
       "source": "https://x.com/farzyness/status/2093485215150744014",
       "related": "https://grokbot.dev/bots/webby",
+      "first_safe_task": "Describe the sites and newsletter you own after import. Do not publish, delete, or change live pages.",
+      "approval_boundary": "Never publish, delete, or change DNS without an explicit yes in chat.",
       "category": "content-publishing",
       "tags": [
         "website",
@@ -16388,6 +16398,8 @@
       "import": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
       "source": "https://x.com/TylerNishida/status/2093426221732532457",
       "related": "https://grokbot.dev/bots/work-work-door",
+      "first_safe_task": "List the connectors you currently see. Do not send mail, create events, or message anyone.",
+      "approval_boundary": "Never send, create events, or message people without an explicit yes in chat.",
       "category": "teams-handoffs",
       "tags": [
         "two-door",

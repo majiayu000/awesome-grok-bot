@@ -161,6 +161,12 @@ for (const entry of catalog.entries) {
 
   const fileEntry = readJson(join(dir, "entry.json"));
   checkEntry(fileEntry, `${entry.slug}/entry.json`);
+  for (const field of ["first_safe_task", "approval_boundary"]) {
+    const value = fileEntry[field];
+    if (typeof value !== "string" || value.trim().length === 0) {
+      fail(`${entry.slug}/entry.json: templates/${entry.slug}/ requires non-empty ${field}`);
+    }
+  }
   if (JSON.stringify(fileEntry) !== JSON.stringify(entry)) {
     fail(`${entry.slug}/entry.json does not match catalog.json entry`);
   }
