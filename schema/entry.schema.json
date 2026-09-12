@@ -24,7 +24,8 @@
     },
     "name": {
       "type": "string",
-      "minLength": 1
+      "minLength": 1,
+      "pattern": "^[^\\[\\]]+$"
     },
     "author": {
       "type": "object",
@@ -35,13 +36,15 @@
       "properties": {
         "name": {
           "type": "string",
-          "minLength": 1
+          "minLength": 1,
+          "pattern": "^[^\\[\\]]+$"
         },
         "github": {
           "type": "string"
         },
         "url": {
-          "type": "string"
+          "type": "string",
+          "pattern": "^https://.+"
         }
       }
     },
