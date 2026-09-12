@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11",
+  "generated": "2026-09-12",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -2567,6 +2567,27 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "clay-guest-research",
+      "name": "Clay Guest Research",
+      "author": {
+        "name": "patel0phone",
+        "url": "https://x.com/patel0phone"
+      },
+      "summary": "Uses Clay on calendar or screenshots to research event guests into a face and name cheat sheet",
+      "summary_zh": "用 Clay 对照日历或截图查活动宾客，做成认人认名小抄。",
+      "import": "https://x.ai/bot/hEmSUvWxccmfAVDGri1R8",
+      "category": "research-briefings",
+      "tags": [
+        "clay",
+        "guests",
+        "research",
+        "events"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12"
+    },
+    {
       "slug": "cleaner",
       "name": "Cleaner",
       "author": {
@@ -3387,6 +3408,52 @@
       "updated": "2026-09-05"
     },
     {
+      "slug": "creador-de-facturas-arca",
+      "name": "Creador de facturas ARCA",
+      "author": {
+        "name": "tomidelu_",
+        "url": "https://x.com/tomidelu_"
+      },
+      "summary": "One-time ARCA setup for Argentine sellers, then monthly Factura C PDFs by email",
+      "summary_zh": "阿根廷独立卖家一次配好 ARCA，之后每月自动开 Factura C 并邮件发出。",
+      "import": "https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo",
+      "category": "finance-ops",
+      "tags": [
+        "invoicing",
+        "argentina",
+        "arca",
+        "tax"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12",
+      "source": "https://x.com/tomidelu_/status/2098487670687035412",
+      "related": "https://grokbot.dev/marketplace/creador-de-facturas-arca/"
+    },
+    {
+      "slug": "creator-shortlist-crew",
+      "name": "Creator Shortlist Crew",
+      "author": {
+        "name": "ShehjadTaus",
+        "url": "https://x.com/ShehjadTaus"
+      },
+      "summary": "Keeps topping up a shortlist of creators worth partnering with, including how to reach them",
+      "summary_zh": "按题材和平台持续补全值得合作的创作者名单，并写好怎么联系。",
+      "import": "https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D",
+      "category": "customer-sales",
+      "tags": [
+        "creators",
+        "partnerships",
+        "outreach",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12",
+      "source": "https://x.com/ShehjadTaus/status/2098538235303735484",
+      "related": "https://grokbot.dev/marketplace/creator-shortlist-crew/"
+    },
+    {
       "slug": "credit-card-max",
       "name": "Credit Card Max",
       "author": {
@@ -4014,6 +4081,27 @@
       "updated": "2026-09-11"
     },
     {
+      "slug": "dial-bot-maiyang",
+      "name": "dial bot",
+      "author": {
+        "name": "MaiYangAI",
+        "url": "https://x.com/MaiYangAI"
+      },
+      "summary": "Places outbound Bland AI phone calls and reports back with a written wrap-up",
+      "summary_zh": "用 Bland AI 打出站电话，打完把结果写成纪要带回来。",
+      "import": "https://x.ai/bot/tIas6udS9kSXpcAz6LFd1",
+      "category": "customer-sales",
+      "tags": [
+        "phone",
+        "bland",
+        "outbound",
+        "calls"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12"
+    },
+    {
       "slug": "dickinson",
       "name": "Dickinson",
       "author": {
@@ -4158,6 +4246,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "document-pm",
+      "name": "Document PM",
+      "author": {
+        "name": "ashvinn",
+        "url": "https://x.com/ashvinn"
+      },
+      "summary": "Closes the Discover, Define, Design, Document product loop into a handoff pack",
+      "summary_zh": "把发现、定义、设计、成文这条产品环收成可交接的文档包。",
+      "import": "https://x.ai/bot/xheAbAQYQT4esSGc8B3xX",
+      "category": "teams-handoffs",
+      "tags": [
+        "pm",
+        "docs",
+        "product",
+        "handoff"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12"
     },
     {
       "slug": "doing-gap",
@@ -6106,6 +6215,27 @@
       "source": "https://x.com/DAssetBuzz"
     },
     {
+      "slug": "grok-build-occupymars",
+      "name": "Grok Build",
+      "author": {
+        "name": "occupymars___",
+        "url": "https://x.com/occupymars___"
+      },
+      "summary": "Local-stack Grok Build seat shared from the Orbital Forge team pack",
+      "summary_zh": "Orbital Forge 团队包里的本机 Grok Build 工位，专跑本地构建。",
+      "import": "https://x.ai/bot/ENDVHWRcL1pcCZAy4whPJ",
+      "category": "coding-shipping",
+      "tags": [
+        "grok-build",
+        "local",
+        "shipping",
+        "cli"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12"
+    },
+    {
       "slug": "grok-customer-support",
       "name": "Grok Customer Support",
       "author": {
@@ -6866,6 +6996,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "icp-map-coach",
+      "name": "ICP Map Coach",
+      "author": {
+        "name": "ShehjadTaus",
+        "url": "https://x.com/ShehjadTaus"
+      },
+      "summary": "Sizes TAM, narrows to lookalike ICP accounts, and fills buying committees",
+      "summary_zh": "估市场规模，筛出最像优质客户的账户，并填好采购委员会。",
+      "import": "https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF",
+      "category": "customer-sales",
+      "tags": [
+        "icp",
+        "tam",
+        "sales",
+        "mapping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12",
+      "source": "https://x.com/ShehjadTaus/status/2098538235303735484",
+      "related": "https://grokbot.dev/marketplace/icp-map-coach/"
+    },
+    {
       "slug": "ideabot",
       "name": "ideabot",
       "author": {
@@ -7080,6 +7233,27 @@
       "updated": "2026-09-09",
       "source": "https://x.com/itsmattreichard/status/2097131577243250986",
       "related": "https://grokbot.dev/bots/influencer-marketing-deal-desk"
+    },
+    {
+      "slug": "infra-and-api-setup",
+      "name": "基础设施和api接入",
+      "author": {
+        "name": "Valstry",
+        "url": "https://x.com/Valstry"
+      },
+      "summary": "Wires shared LLM APIs and keys, then spins up agents with clear roles",
+      "summary_zh": "帮你接共用 LLM API、配密钥，并拉起职责清晰的 Agent。",
+      "import": "https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF",
+      "category": "coding-shipping",
+      "tags": [
+        "api",
+        "llm",
+        "setup",
+        "zh"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12"
     },
     {
       "slug": "insidermillions",
@@ -8596,6 +8770,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "lookalike-scout",
+      "name": "Lookalike Scout",
+      "author": {
+        "name": "ShehjadTaus",
+        "url": "https://x.com/ShehjadTaus"
+      },
+      "summary": "From one fit account, fans out lookalike businesses and confirms who would sign off",
+      "summary_zh": "从一个对口客户扩出同类公司，并确认里面谁能拍板。",
+      "import": "https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI",
+      "category": "customer-sales",
+      "tags": [
+        "lookalike",
+        "prospecting",
+        "sales",
+        "contacts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12",
+      "source": "https://x.com/ShehjadTaus/status/2098538235303735484",
+      "related": "https://grokbot.dev/marketplace/lookalike-scout/"
+    },
+    {
       "slug": "loom",
       "name": "loom",
       "author": {
@@ -9180,6 +9377,27 @@
       "related": "https://grokbot.dev/marketplace/memento/"
     },
     {
+      "slug": "memory-obsidian",
+      "name": "Memory",
+      "author": {
+        "name": "imohitmayank",
+        "url": "https://x.com/imohitmayank"
+      },
+      "summary": "Personal memory pipeline for an Obsidian-style vault with setup interview and daily ingest",
+      "summary_zh": "给类 Obsidian 笔记库搭个人记忆流水线，含建库访谈和每日入库。",
+      "import": "https://x.ai/bot/6KkkrATfxZYDFKOFVZzzh",
+      "category": "personal-admin",
+      "tags": [
+        "memory",
+        "obsidian",
+        "vault",
+        "ingest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12"
+    },
+    {
       "slug": "mercury",
       "name": "Mercury",
       "author": {
@@ -9715,6 +9933,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "newspaper",
+      "name": "Newspaper",
+      "author": {
+        "name": "Carbonthecoder",
+        "url": "https://x.com/Carbonthecoder"
+      },
+      "summary": "Each morning researches one corner of the world into a single printable broadsheet",
+      "summary_zh": "每天早上挑一个话题深挖，排成一页可打印的小报讲清楚。",
+      "import": "https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj",
+      "category": "research-briefings",
+      "tags": [
+        "newspaper",
+        "learning",
+        "briefing",
+        "daily"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12",
+      "source": "https://x.com/Carbonthecoder/status/2098497266482864275",
+      "related": "https://grokbot.dev/marketplace/newspaper/"
+    },
+    {
       "slug": "night-shift",
       "name": "Night Shift",
       "author": {
@@ -10054,6 +10295,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-11"
+    },
+    {
+      "slug": "optima-workflow",
+      "name": "Optima",
+      "author": {
+        "name": "TOATspace",
+        "url": "https://x.com/TOATspace"
+      },
+      "summary": "Erases old unused lines and files so new workflows do not mix with leftover rules",
+      "summary_zh": "清掉过期无用的行和文件，避免新流程和旧规则搅在一起。",
+      "import": "https://x.ai/bot/ppARM1W-tWcae_wryLH1z",
+      "category": "coding-shipping",
+      "tags": [
+        "cleanup",
+        "workflows",
+        "memory",
+        "hygiene"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12"
     },
     {
       "slug": "orders",
@@ -11834,6 +12096,29 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "researcher",
+      "name": "Researcher",
+      "author": {
+        "name": "occupymars___",
+        "url": "https://x.com/occupymars___"
+      },
+      "summary": "Turns a half-formed question into a checked brief and coaches other bots to search better",
+      "summary_zh": "把半成型问题收成核对过的简报，并教其它 Bot 怎么搜。",
+      "import": "https://x.ai/bot/cMNbUq3j5RsHg9mcPxtjM",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing",
+        "meta-bot",
+        "team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12",
+      "source": "https://x.com/occupymars___/status/2098559815173955642",
+      "related": "https://grokbot.dev/marketplace/researcher/"
+    },
+    {
       "slug": "researcher-tferriere",
       "name": "Researcher",
       "author": {
@@ -12053,6 +12338,29 @@
       "updated": "2026-09-09",
       "source": "https://x.com/SuddenlyJon/status/2097460362522005595",
       "related": "https://grokbot.dev/bots/rezbot"
+    },
+    {
+      "slug": "rival-watch-desk",
+      "name": "Rival Watch Desk",
+      "author": {
+        "name": "ShehjadTaus",
+        "url": "https://x.com/ShehjadTaus"
+      },
+      "summary": "Standing watch on named rivals for funding, hiring, press, and paid campaigns",
+      "summary_zh": "盯住你点名的对手，汇总融资、招人、报道和投放变化。",
+      "import": "https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW",
+      "category": "customer-sales",
+      "tags": [
+        "competitors",
+        "monitoring",
+        "gtm",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12",
+      "source": "https://x.com/ShehjadTaus/status/2098538235303735484",
+      "related": "https://grokbot.dev/marketplace/rival-watch-desk/"
     },
     {
       "slug": "robauto-website-growth-agent",
@@ -12583,6 +12891,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06"
+    },
+    {
+      "slug": "serp-watch-team",
+      "name": "SERP Watch Team",
+      "author": {
+        "name": "ShehjadTaus",
+        "url": "https://x.com/ShehjadTaus"
+      },
+      "summary": "Tracks brand visibility in search rankings and in AI answers, with a write-next digest",
+      "summary_zh": "盯搜索排名和 AI 回答里的品牌露脸，并给出下一篇该写什么。",
+      "import": "https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "serp",
+        "ai-answers",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12",
+      "source": "https://x.com/ShehjadTaus/status/2098538235303735484",
+      "related": "https://grokbot.dev/marketplace/serp-watch-team/"
     },
     {
       "slug": "set-up",
@@ -13399,6 +13730,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "stack-huddle",
+      "name": "Stack Huddle",
+      "author": {
+        "name": "occupymars___",
+        "url": "https://x.com/occupymars___"
+      },
+      "summary": "After-huddle draft seat that shapes answers and LEARN notes for the rest of the stack",
+      "summary_zh": "会后起草答复和 LEARN 笔记，交给团队里其它工位接着用。",
+      "import": "https://x.ai/bot/lGgfUTg6izL3TDzkgw6aE",
+      "category": "teams-handoffs",
+      "tags": [
+        "huddle",
+        "drafts",
+        "handoff",
+        "team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-12"
     },
     {
       "slug": "stack-sentinel",
