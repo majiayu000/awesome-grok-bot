@@ -106,6 +106,11 @@ function escapeMarkdownLinkLabel(label) {
   return String(label).replace(/([\\\]])/g, "\\$1");
 }
 
+/** Escape HTML/Markdown metacharacters in plain (non-link) author text. */
+function escapeMarkdownPlainText(text) {
+  return String(text).replace(/[\\`*_{}[\]()#+.!|<>]/g, "\\$1");
+}
+
 function markdownLink(label, url) {
   return `[${escapeMarkdownLinkLabel(label)}](${url})`;
 }
@@ -116,7 +121,7 @@ function expectedReadmeLine(entry, readmeName) {
   if (!summary) fail(`${readmeName}: ${entry.slug} is missing ${chinese ? "summary_zh" : "summary"}`);
   const author = entry.author.url
     ? markdownLink(entry.author.name, entry.author.url)
-    : entry.author.name;
+    : escapeMarkdownPlainText(entry.author.name);
   const hasTemplate = slugsOnDisk.includes(entry.slug);
   const notes = hasTemplate
     ? ` ${chinese ? "说明" : "Notes"}: [templates/${entry.slug}](templates/${entry.slug}/).`

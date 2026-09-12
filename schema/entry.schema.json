@@ -37,14 +37,14 @@
         "name": {
           "type": "string",
           "minLength": 1,
-          "pattern": "^[^\\[\\]]+$"
+          "pattern": "^[^\\[\\]<>]+$"
         },
         "github": {
           "type": "string"
         },
         "url": {
           "type": "string",
-          "pattern": "^https://.+"
+          "pattern": "^https://[A-Za-z0-9._~:/?#@!$&*+,;=%-]+$"
         }
       }
     },
