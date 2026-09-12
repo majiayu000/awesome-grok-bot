@@ -25,7 +25,7 @@
     "name": {
       "type": "string",
       "minLength": 1,
-      "pattern": "^[^\\[\\]]+$"
+      "pattern": "^[^\\[\\]<>]+$"
     },
     "author": {
       "type": "object",

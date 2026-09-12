@@ -108,7 +108,7 @@ function escapeMarkdownLinkLabel(label) {
 
 /** Escape HTML/Markdown metacharacters in plain (non-link) author text. */
 function escapeMarkdownPlainText(text) {
-  return String(text).replace(/[\\`*_{}[\]()#+.!|<>]/g, "\\$1");
+  return String(text).replace(/([\\`*_{}[\]()#+.!|<>])/g, "\\$1");
 }
 
 function markdownLink(label, url) {
