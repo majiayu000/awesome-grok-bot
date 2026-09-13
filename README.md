@@ -81,12 +81,12 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Research & briefings](#research--briefings) | 98 |
 | [Customer & sales](#customer--sales) | 66 |
 | [Finance & ops](#finance--ops) | 93 |
-| [Content & publishing](#content--publishing) | 116 |
+| [Content & publishing](#content--publishing) | 117 |
 | [Personal admin](#personal-admin) | 173 |
 | [Teams & handoffs](#teams--handoffs) | 119 |
-| **Total** | **819** |
+| **Total** | **820** |
 
-All 819 share pages returned HTTP 200 on 13 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 819 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 820 share pages returned HTTP 200 on 13 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 820 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -735,6 +735,7 @@ One share is one bot. Assemble the roster yourself.
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) - Mark up the flat, machine-sounding lines in a draft and get them rewritten. [bfrench](https://x.com/bfrench).
 - [Stellar Cartography](https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i) - Draws spacecraft and ships, then forces a second pair of eyes before release. [schweitzer_wil](https://x.com/schweitzer_wil).
 - [Sue Bouclier](https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0) - French X comment support that clarifies without attacking, adds a sourced fact, then a link. [LArchitecteuh](https://x.com/LArchitecteuh).
+- [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) - Cleans up writing you already have into one send-ready version. [GrokBotGod](https://x.com/GrokBotGod).
 - [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) - Three creator automations for X: reply-triggered DMs, follower screening and a watchlist. [NM](https://x.com/theadvisorbtc).
 - [Universal Video Downloader](https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ) - Paste a video link and get a playable MP4 from X, Reels, YouTube, TikTok, and more. [ApexSMK](https://x.com/ApexSMK).
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) - Finds and downloads official video clips, then returns the file plus the source link. [DogecoinNorway](https://x.com/DogecoinNorway).

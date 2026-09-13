@@ -81,12 +81,12 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Research & briefings](#research--briefings) | 98 |
 | [Customer & sales](#customer--sales) | 66 |
 | [Finance & ops](#finance--ops) | 93 |
-| [Content & publishing](#content--publishing) | 116 |
+| [Content & publishing](#content--publishing) | 117 |
 | [Personal admin](#personal-admin) | 173 |
 | [Teams & handoffs](#teams--handoffs) | 119 |
-| **合计** | **819** |
+| **合计** | **820** |
 
-2026 年 9 月 13 日检查时，819 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 819 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 13 日检查时，820 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 820 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -735,6 +735,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) - 标出稿子里平淡的机器腔，然后改写成能读的句子。 [bfrench](https://x.com/bfrench).
 - [Stellar Cartography](https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i) - 画飞船和舰艇，发布前强制再过一眼。 [schweitzer_wil](https://x.com/schweitzer_wil).
 - [Sue Bouclier](https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0) - 用法语在 X 评论区冷静澄清，补一条有来源的事实再附链接。 [LArchitecteuh](https://x.com/LArchitecteuh).
+- [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) - 把已有草稿收成一版能直接发出去的文字，不另起新稿。 [GrokBotGod](https://x.com/GrokBotGod).
 - [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) - X 上的三套创作者自动化，回复触发私信、粉丝筛查、关注清单。 [NM](https://x.com/theadvisorbtc).
 - [Universal Video Downloader](https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ) - 贴视频链接，从 X、Reels、YouTube、TikTok 等站点收回可播 MP4。 [ApexSMK](https://x.com/ApexSMK).
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) - 找到并下载官方视频片段，把文件和源链接一起交回。 [DogecoinNorway](https://x.com/DogecoinNorway).
