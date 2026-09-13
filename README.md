@@ -84,7 +84,7 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Content & publishing](#content--publishing) | 116 |
 | [Personal admin](#personal-admin) | 173 |
 | [Teams & handoffs](#teams--handoffs) | 119 |
-| **Total** | **819** |
+| **Total** | **820** |
 
 All 820 share pages returned HTTP 200 on 13 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 820 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
