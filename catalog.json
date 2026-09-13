@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13",
+  "generated": "2026-09-14",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -3656,6 +3656,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "cto-bot",
+      "name": "CTO Bot",
+      "author": {
+        "name": "Asm",
+        "url": "https://x.com/asmDevsit"
+      },
+      "summary": "Runs a read-only software org audit via specialized platform bots into one executive risk report",
+      "summary_zh": "只读审计软件组织，经各平台专长 Bot 汇总成一份高管风险报告。",
+      "import": "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5",
+      "source": "https://x.com/asmDevsit/status/2099072494032343546",
+      "category": "coding-shipping",
+      "tags": [
+        "cto",
+        "audit",
+        "risk",
+        "org"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "cue",
       "name": "Cue",
       "author": {
@@ -4728,6 +4750,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03"
+    },
+    {
+      "slug": "dungeon-master",
+      "name": "Dungeon Master",
+      "author": {
+        "name": "houjimmy",
+        "url": "https://x.com/houjimmy1"
+      },
+      "summary": "Runs an RPG table with roster, presence clock, sheets, and a dry judge voice that opens character agents",
+      "summary_zh": "主持 RPG 桌面局，管名册、在场时钟和角色卡，并按需拉起角色代理。",
+      "import": "https://x.ai/bot/35nt7fJwDslZSTKsBU0hE",
+      "source": "https://x.com/houjimmy1/status/2099106302328783016",
+      "category": "personal-admin",
+      "tags": [
+        "rpg",
+        "gaming",
+        "agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "early-stage-funding-scout",
@@ -6293,6 +6336,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "grok-bot-directory",
+      "name": "Grok Bot Directory",
+      "author": {
+        "name": "Leechael",
+        "url": "https://x.com/Leechael"
+      },
+      "summary": "Find public Grok bots by saying what you want to do, or ask how people actually use them",
+      "summary_zh": "按你想做的事找公开 Grok Bot，也可问别人都拿它们干什么。",
+      "import": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+      "source": "https://x.com/Leechael/status/2099070820270424210",
+      "category": "research-briefings",
+      "tags": [
+        "directory",
+        "discovery",
+        "templates"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "grok-bot-knower",
       "name": "Grok Bot Knower",
       "author": {
@@ -7848,6 +7912,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "ji-yi-guan-jia",
+      "name": "记忆管家",
+      "author": {
+        "name": "铁柱AGI",
+        "url": "https://x.com/cgnot996"
+      },
+      "summary": "Backs up each bot setting and memory to a private Git repo with a standard fleet layout",
+      "summary_zh": "把各 Bot 设定和独立记忆持续备份到私有 Git，含标准仓结构与定时查漏。",
+      "import": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+      "source": "https://x.com/AYi_AInotes/status/2099028909773693272",
+      "category": "teams-handoffs",
+      "tags": [
+        "memory",
+        "backup",
+        "git",
+        "fleet"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "job-applier",
       "name": "Job applier",
       "author": {
@@ -8040,6 +8126,28 @@
       "verified": false,
       "updated": "2026-09-02",
       "source": "https://x.com/liam_fallen"
+    },
+    {
+      "slug": "jre-campaign-bot",
+      "name": "JREキャンペーンbot",
+      "author": {
+        "name": "Daru",
+        "url": "https://x.com/countertek"
+      },
+      "summary": "Keeps Japan egress up and enters open JRE POINT campaigns in the areas you chose",
+      "summary_zh": "维持日本出口并在你选定地区自动报名开放中的 JRE POINT 活动。",
+      "import": "https://x.ai/bot/VkkObYeFAOWsAU9dzu7d1",
+      "source": "https://x.com/countertek/status/2099100042762334299",
+      "category": "personal-admin",
+      "tags": [
+        "japan",
+        "jre",
+        "campaigns",
+        "points"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "judd-the-bug",
@@ -10339,6 +10447,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "nuggetbot",
+      "name": "NuggetBot",
+      "author": {
+        "name": "Usama",
+        "url": "https://x.com/im_usamakhalid"
+      },
+      "summary": "Turns podcast episodes into social quote graphics and carousels via ContentDrips templates",
+      "summary_zh": "把播客金句做成社媒引用图和轮播图，走 ContentDrips 模板。",
+      "import": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+      "source": "https://x.com/im_usamakhalid/status/2099008636521771045",
+      "category": "content-publishing",
+      "tags": [
+        "podcast",
+        "graphics",
+        "social",
+        "contentdrips"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "nyc-parent",
@@ -14829,6 +14959,27 @@
       "related": "https://grokbot.dev/marketplace/sweeper/"
     },
     {
+      "slug": "sweeper-qing-dao-fu",
+      "name": "Sweeper / 清道夫",
+      "author": {
+        "name": "Mai",
+        "url": "https://x.com/MaiYangAI"
+      },
+      "summary": "Shows Grok Bot usage clearly, sweeps idle wakes, and helps your bots last longer",
+      "summary_zh": "看清 Grok Bot 用量，清掉空转唤醒，让额度更耐用。",
+      "import": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
+      "source": "https://x.com/MaiYangAI/status/2098970952092803583",
+      "category": "personal-admin",
+      "tags": [
+        "usage",
+        "cleanup",
+        "allowance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "sworm",
       "name": "Sworm",
       "author": {
@@ -16032,6 +16183,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "travel-agent-scott",
+      "name": "Travel Agent",
+      "author": {
+        "name": "Scott",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Plans trips and drafts bookings for your approval; never pays or confirms without you",
+      "summary_zh": "规划行程并起草预订供你审批，未经你同意不付款也不确认。",
+      "import": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
+      "source": "https://x.com/scottxmetcalf/status/2099161443455385977",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "booking",
+        "approval"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "travel-event-agency",
       "name": "Travel & Event Agency",
       "author": {
@@ -16632,6 +16804,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "visa-wari-bot",
+      "name": "Visa割bot",
+      "author": {
+        "name": "Daru",
+        "url": "https://x.com/countertek"
+      },
+      "summary": "Logs into Visa割 and spins every unused lottery or roulette offer it finds for you",
+      "summary_zh": "登录 Visa割 账户，把未使用的抽选和轮盘优惠逐个转完。",
+      "import": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+      "source": "https://x.com/countertek/status/2099118954799321172",
+      "category": "finance-ops",
+      "tags": [
+        "japan",
+        "visa",
+        "points",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "voice-of-the-people",
@@ -17682,6 +17876,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "zhang-dan-jin-kou",
+      "name": "账单进口",
+      "author": {
+        "name": "Tony"
+      },
+      "summary": "Imports WeChat and Alipay bill CSV or screenshots into a ledger after you confirm the preview",
+      "summary_zh": "把微信和支付宝账单 CSV 或截图解析去重分类，预览确认后再写入账本。",
+      "import": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+      "source": "https://x.com/coolbat1999/status/2099141007887777987",
+      "category": "finance-ops",
+      "tags": [
+        "bills",
+        "alipay",
+        "wechat",
+        "ledger"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     }
   ]
 }
