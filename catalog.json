@@ -1524,6 +1524,27 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "bo-provider-by-craig",
+      "name": "BO Provider by Craig",
+      "author": {
+        "name": "Craig Brown",
+        "url": "https://x.com/craigmbrown"
+      },
+      "summary": "A BlindOracle marketplace provider: registers itself, runs a daily heartbeat, bids on and delivers web-extraction jobs, and gets paid in USDC over x402 on Base.",
+      "summary_zh": "BlindOracle 市场服务方：自行注册、每日心跳、竞标并交付网页抽取任务，通过 x402 在 Base 上以 USDC 收款。",
+      "import": "https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd",
+      "source": "https://x.com/craigmbrown/status/2096644598634254397",
+      "category": "finance-ops",
+      "tags": [
+        "x402",
+        "payments",
+        "marketplace"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-06"
+    },
+    {
       "slug": "bodyguard",
       "name": "Bodyguard",
       "author": {
