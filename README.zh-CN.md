@@ -80,13 +80,13 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Inbox & calendar](#inbox--calendar) | 31 |
 | [Research & briefings](#research--briefings) | 98 |
 | [Customer & sales](#customer--sales) | 66 |
-| [Finance & ops](#finance--ops) | 93 |
+| [Finance & ops](#finance--ops) | 94 |
 | [Content & publishing](#content--publishing) | 116 |
 | [Personal admin](#personal-admin) | 173 |
 | [Teams & handoffs](#teams--handoffs) | 119 |
 | **合计** | **819** |
 
-2026 年 9 月 13 日检查时，819 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 819 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 13 日检查时，820 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 820 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -553,6 +553,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Arnold](https://x.ai/bot/ymoMdfvzdErOrclxCOaC_) - 盯着 Cursor 用量花钱，该省时把 agent 换成更便宜的模型。 [Kelseyshuo](https://x.com/Kelseyshuo).
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) - 盯着物流，包裹一停就提醒你。 [liam_fallen](https://x.com/liam_fallen).
 - [Blair (Personal Shopper)](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) - 私人买手，找二手设计师单品，还能下单。 [jediahkatz](https://x.com/jediahkatz).
+- [BO Provider by Craig](https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd) - BlindOracle 市场服务方：自行注册、每日心跳、竞标并交付网页抽取任务，通过 x402 在 Base 上以 USDC 收款。 [Craig Brown](https://x.com/craigmbrown).
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) - 零 ETH 的 BOTCOIN 挖矿装置，带新矿工上手。 [BOTCOIN](https://x.com/MineBotcoin).
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) - 翻邮件和账单，找你从没追过的退款和额度。 [Liam](https://x.com/liam_fallen).
 - [Chained Oblivion](https://x.ai/bot/Loekv1uecl26wWW0lNyfR) - 找出你还在付钱却没人用的软件。 [mjjefford](https://x.com/mjjefford).
