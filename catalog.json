@@ -10365,6 +10365,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "nessie",
+      "name": "Nessie",
+      "author": {
+        "name": "Alec",
+        "url": "https://x.com/AlecSnelling"
+      },
+      "summary": "Design partner for a U.S. citizen dividend and sovereign wealth package with floors, wage ladder, and pay-fors",
+      "summary_zh": "协助起草美国全民分红与主权财富方案，锁定下限、工资阶梯和真实筹资来源。",
+      "import": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+      "source": "https://x.com/AlecSnelling/status/2099377714600050708",
+      "category": "finance-ops",
+      "tags": [
+        "policy",
+        "dividend",
+        "treasury",
+        "drafting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "neuralentropy",
       "name": "NeuralEntropy",
       "author": {
@@ -12226,6 +12248,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-11"
+    },
+    {
+      "slug": "quiz-historyczny",
+      "name": "Quiz Historyczny",
+      "author": {
+        "name": "Brański",
+        "url": "https://x.com/vxel"
+      },
+      "summary": "Daily medium-hard history quizzes on Poland and Europe that reward thinking over date drills",
+      "summary_zh": "每天两道中等难度历史题，覆盖波兰与欧洲，重在理解而非死记日期。",
+      "import": "https://x.ai/bot/D5A4QbXMACLWWokY4r3i4",
+      "source": "https://x.com/vxel/status/2099390763515744339",
+      "category": "personal-admin",
+      "tags": [
+        "quiz",
+        "history",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "quote-collector",
@@ -17796,6 +17839,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "x-writer",
+      "name": "X Writer",
+      "author": {
+        "name": "Star",
+        "url": "https://x.com/starzq"
+      },
+      "summary": "Learn any X account's writing style, then draft tweets, edits, and long-form posts in that voice",
+      "summary_zh": "学习任意 X 账号的写作风格，再按同一口吻起草推文、改稿和长文。",
+      "import": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+      "source": "https://x.com/starzq/status/2099333570020122669",
+      "category": "content-publishing",
+      "tags": [
+        "writing",
+        "x",
+        "style",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "x402-marketplace-operator",
