@@ -78,15 +78,15 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 124 |
 | [Inbox & calendar](#inbox--calendar) | 31 |
-| [Research & briefings](#research--briefings) | 99 |
+| [Research & briefings](#research--briefings) | 100 |
 | [Customer & sales](#customer--sales) | 66 |
 | [Finance & ops](#finance--ops) | 97 |
-| [Content & publishing](#content--publishing) | 120 |
+| [Content & publishing](#content--publishing) | 122 |
 | [Personal admin](#personal-admin) | 183 |
 | [Teams & handoffs](#teams--handoffs) | 120 |
-| **合计** | **840** |
+| **合计** | **843** |
 
-2026 年 9 月 14 日检查时，840 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 840 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 14 日检查时，843 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 843 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -411,6 +411,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [First Principles](https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs) - 把问题剥到硬约束，再从第一性原理重建。 [greg_carbon](https://x.com/greg_carbon).
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) - 扫你自己的 X 私信，告诉你现在该回哪几条。 [pukerrainbrow](https://x.com/pukerrainbrow).
 - [github 优秀仓库](https://x.ai/bot/D9HYH2jAmGiKw7e499mrE) - 每天早上扫一遍 GitHub 趋势页，把值得看的仓库写成简报。 [umiastuti8329](https://x.com/ios_1261142602).
+- [Glasser](https://x.ai/bot/pYFETnU1TFsADlz0hJD1y) - 通过 Glasser.ai 统一查询公司与联系人 enrichment、SEO、广告、流量和融资等付费数据。 [iammutex](https://x.com/Glasserai).
 - [Grok Bot Directory](https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8) - 按你想做的事找公开 Grok Bot，也可问别人都拿它们干什么。 [Leechael](https://x.com/Leechael).
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) - 早上一小份值得动手搭的新 Grok Bot 用法。 [Andrej](https://x.com/scheemunai).
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) - 每小时从你这一周里挖一个值得追的创业点子。 [onerinas](https://x.com/onerinas).
@@ -724,6 +725,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Ratio](https://x.ai/bot/q66LYouguOxJ0VclM2whr) - 发出前挑出会被截图反击的那一句，并给更稳的改法。 [DonBonStovi](https://x.com/DonBonStovi).
 - [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) - 找出正在聊你产品的人，按购买意向排序。 [Taras](https://x.com/tarasshyn).
 - [RENTALS](https://x.ai/bot/JrnQAM0z-7SNI9UtIO3-Z) - 把 Facebook Marketplace 的租房线索从询价跟到带看。 [HandsomeHenry6](https://x.com/HandsomeHenry6).
+- [Reply Radar](https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc) - 在你选定的话题里找还在升温的帖子并起草短回复，帮你增长而不是乱评。 [Sam](https://x.com/sam_builds_ai).
 - [repost X posts everywhere](https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP) - 把每条新的 X 帖复制到你另外四个账号。 [jackfriks](https://x.com/jackfriks).
 - [Rude Bot](https://x.ai/bot/7z0WNYmnERTnXKmxI12gB) - 极不客气的喜剧 Bot，嘲讽你的请求并拒绝帮忙。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Scout (Competitive Intelligence)](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) - 盯对手网站、搜索排名和 AI 回答里的曝光。 [adamta](https://x.com/adamta).
@@ -765,6 +767,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [みみ](https://x.ai/bot/msP4lEtyQNghyO-mqnXyR) - 以虚构角色「みみ」身份陪你闲聊。 [kabupoyo2023](https://x.com/kabupoyo2023).
 - [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) - 按固定节奏交出可直接发的产品推广文案。 [zheng_yunh2429](https://x.com/zheng_yunh2429).
 - [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - 给 X 日更搭选题库、草稿、发布时段和复盘，发布键仍由你按. [KinGao476942](https://x.com/KinGao476942).
+- [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - 检查呈给上司或决裁者的日语文稿的语法、敬语和可读性，不改原意也不代写代发。 [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - 调度语音演示、PPT、虚拟形象和字幕对齐的 1080p 讲解片。 [dugujun12](https://x.com/dugujun12).
 - [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) - 把建筑或桥梁点子做成一支竖屏解说短视频。 [BBBang9900](https://x.com/BBBang9900).
 - [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) - 按法规与官方依据，独自策划上架克梦电子书。 [BBBang9900](https://x.com/BBBang9900).

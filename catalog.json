@@ -6141,6 +6141,28 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "glasser",
+      "name": "Glasser",
+      "author": {
+        "name": "iammutex",
+        "url": "https://x.com/Glasserai"
+      },
+      "summary": "Routes premium company and people research through one metered Glasser.ai account",
+      "summary_zh": "通过 Glasser.ai 统一查询公司与联系人 enrichment、SEO、广告、流量和融资等付费数据。",
+      "import": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+      "related": "https://grokbot.dev/marketplace/glasser/",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "enrichment",
+        "business",
+        "data"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "global-macro-analyst",
       "name": "全球宏观分析师",
       "author": {
@@ -10535,6 +10557,27 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "nihongo-check",
+      "name": "日本語チェック",
+      "author": {
+        "name": "24K",
+        "url": "https://x.com/gold24k9999"
+      },
+      "summary": "Checks Japanese grammar, keigo, and readability for boss-facing drafts without changing meaning",
+      "summary_zh": "检查呈给上司或决裁者的日语文稿的语法、敬语和可读性，不改原意也不代写代发。",
+      "import": "https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT",
+      "source": "https://x.com/gold24k9999/status/2099428518111400150",
+      "category": "content-publishing",
+      "tags": [
+        "japanese",
+        "proofreading",
+        "writing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "nikita-bier",
       "name": "Nikita Bier",
       "author": {
@@ -12707,6 +12750,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "reply-radar",
+      "name": "Reply Radar",
+      "author": {
+        "name": "Sam",
+        "url": "https://x.com/sam_builds_ai"
+      },
+      "summary": "Finds hot posts in your niches and drafts short replies so you grow without spraying comments",
+      "summary_zh": "在你选定的话题里找还在升温的帖子并起草短回复，帮你增长而不是乱评。",
+      "import": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+      "source": "https://x.com/sam_builds_ai/status/2099463729796755818",
+      "related": "https://grokbot.dev/marketplace/reply-radar/",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "growth",
+        "replies",
+        "creator"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "replydebt",

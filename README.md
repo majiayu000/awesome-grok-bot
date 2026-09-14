@@ -78,15 +78,15 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 124 |
 | [Inbox & calendar](#inbox--calendar) | 31 |
-| [Research & briefings](#research--briefings) | 99 |
+| [Research & briefings](#research--briefings) | 100 |
 | [Customer & sales](#customer--sales) | 66 |
 | [Finance & ops](#finance--ops) | 97 |
-| [Content & publishing](#content--publishing) | 120 |
+| [Content & publishing](#content--publishing) | 122 |
 | [Personal admin](#personal-admin) | 183 |
 | [Teams & handoffs](#teams--handoffs) | 120 |
-| **Total** | **840** |
+| **Total** | **843** |
 
-All 840 share pages returned HTTP 200 on 14 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 840 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 843 share pages returned HTTP 200 on 14 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 843 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -411,6 +411,7 @@ One share is one bot. Assemble the roster yourself.
 - [First Principles](https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs) - Strips a problem to hard constraints and rebuilds from first principles. [greg_carbon](https://x.com/greg_carbon).
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) - Scans your own X DMs and tells you which threads to answer now. [pukerrainbrow](https://x.com/pukerrainbrow).
 - [github 优秀仓库](https://x.ai/bot/D9HYH2jAmGiKw7e499mrE) - Sweeps GitHub's trending page each morning and writes up the repos that matter. [umiastuti8329](https://x.com/ios_1261142602).
+- [Glasser](https://x.ai/bot/pYFETnU1TFsADlz0hJD1y) - Routes premium company and people research through one metered Glasser.ai account. [iammutex](https://x.com/Glasserai).
 - [Grok Bot Directory](https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8) - Find public Grok bots by saying what you want to do, or ask how people actually use them. [Leechael](https://x.com/Leechael).
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) - A short morning list of new Grok Bot use cases worth setting up. [Andrej](https://x.com/scheemunai).
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) - Mines your week for one startup idea worth chasing, every hour. [onerinas](https://x.com/onerinas).
@@ -724,6 +725,7 @@ One share is one bot. Assemble the roster yourself.
 - [Ratio](https://x.ai/bot/q66LYouguOxJ0VclM2whr) - Finds the line in your post that will get quoted back at you. [DonBonStovi](https://x.com/DonBonStovi).
 - [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) - Finds people talking about your product, ranked by buying intent. [Taras](https://x.com/tarasshyn).
 - [RENTALS](https://x.ai/bot/JrnQAM0z-7SNI9UtIO3-Z) - Works your Facebook Marketplace rental leads from enquiry to showing. [HandsomeHenry6](https://x.com/HandsomeHenry6).
+- [Reply Radar](https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc) - Finds hot posts in your niches and drafts short replies so you grow without spraying comments. [Sam](https://x.com/sam_builds_ai).
 - [repost X posts everywhere](https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP) - Copies every new X post out to your other four accounts. [jackfriks](https://x.com/jackfriks).
 - [Rude Bot](https://x.ai/bot/7z0WNYmnERTnXKmxI12gB) - Extremely rude dismissive comedy bot that roasts your ask and refuses to help. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Scout (Competitive Intelligence)](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) - Watches rival sites, search rank and AI-answer visibility. [adamta](https://x.com/adamta).
@@ -765,6 +767,7 @@ One share is one bot. Assemble the roster yourself.
 - [みみ](https://x.ai/bot/msP4lEtyQNghyO-mqnXyR) - Casual chat as the fictional character Mimi. [kabupoyo2023](https://x.com/kabupoyo2023).
 - [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) - Hands you ready-to-post promo copy for your product on a fixed rhythm. [zheng_yunh2429](https://x.com/zheng_yunh2429).
 - [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - A daily X posting system for ideas, drafts, timing, and review. [KinGao476942](https://x.com/KinGao476942).
+- [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - Checks Japanese grammar, keigo, and readability for boss-facing drafts without changing meaning. [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - Schedules voice demo, PPT, avatar, and 1080p lecture video delivery. [dugujun12](https://x.com/dugujun12).
 - [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) - Turns a building or bridge idea into a finished vertical explainer video. [BBBang9900](https://x.com/BBBang9900).
 - [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) - Plans and ships evidence-backed ebooks for Kmong. [BBBang9900](https://x.com/BBBang9900).
