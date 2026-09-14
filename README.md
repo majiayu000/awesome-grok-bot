@@ -80,13 +80,13 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Inbox & calendar](#inbox--calendar) | 31 |
 | [Research & briefings](#research--briefings) | 99 |
 | [Customer & sales](#customer--sales) | 66 |
-| [Finance & ops](#finance--ops) | 95 |
-| [Content & publishing](#content--publishing) | 118 |
-| [Personal admin](#personal-admin) | 177 |
+| [Finance & ops](#finance--ops) | 96 |
+| [Content & publishing](#content--publishing) | 119 |
+| [Personal admin](#personal-admin) | 182 |
 | [Teams & handoffs](#teams--handoffs) | 120 |
 | **Total** | **830** |
 
-All 830 share pages returned HTTP 200 on 14 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 830 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 837 share pages returned HTTP 200 on 14 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 837 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -574,6 +574,7 @@ One share is one bot. Assemble the roster yourself.
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - Builds numbered, no-hype earnings tearsheets and a ticker watch list. Writes up when a watched name prints. [Sachiv](https://x.com/SachivM99).
 - [Fenrir (Paper Trading)](https://x.ai/bot/FReKiR82_-lF359lhshpR) - Runs a paper-trading tournament on NSE or NASDAQ. [shantanugoel](https://x.com/shantanugoel).
 - [Fixer (Liam)](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) - Hand it the admin thing you keep putting off and it gets it nearly solved. [liam_fallen](https://x.com/liam_fallen).
+- [Fomo Live Bot](https://x.ai/bot/4fmde5VhCGJGeCiqn96D3) - Hourly paper-first copy of FOMO traders you follow, with locked size and exits until you go live. [The Advisor.btc](https://x.com/theadvisorbtc).
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - Chases proposals, invoices and milestones for a solo freelancer. [Josh](https://x.com/joshkim).
 - [Gerente Ops](https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ) - Spanish back-office manager for till close, ledgers, stock and listings. [JASCPROVZ](https://x.com/JASCPROVZ).
 - [Grant Packet Assembler](https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef) - Builds Georgia grant packets for a compliance read; drafts only, you submit. [OmgawdMadeit](https://x.com/OmgawdMadeit).
@@ -742,6 +743,7 @@ One share is one bot. Assemble the roster yourself.
 - [Stellar Cartography](https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i) - Draws spacecraft and ships, then forces a second pair of eyes before release. [schweitzer_wil](https://x.com/schweitzer_wil).
 - [Sue Bouclier](https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0) - French X comment support that clarifies without attacking, adds a sourced fact, then a link. [LArchitecteuh](https://x.com/LArchitecteuh).
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) - Cleans up writing you already have into one send-ready version. [GrokBotGod](https://x.com/GrokBotGod).
+- [TIDAL](https://x.ai/bot/iH7-gcR-McO8Eel9frMUA) - Searches TIDAL tracks, radio, favorites, and playlists, returning name, link, and track count. [John](https://x.com/hottubjohn).
 - [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) - Three creator automations for X: reply-triggered DMs, follower screening and a watchlist. [NM](https://x.com/theadvisorbtc).
 - [Universal Video Downloader](https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ) - Paste a video link and get a playable MP4 from X, Reels, YouTube, TikTok, and more. [ApexSMK](https://x.com/ApexSMK).
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) - Finds and downloads official video clips, then returns the file plus the source link. [DogecoinNorway](https://x.com/DogecoinNorway).
@@ -769,6 +771,7 @@ One share is one bot. Assemble the roster yourself.
 
 
 - [2A](https://x.ai/bot/N9eJfkuupWb3EpWFt76va) - Interstate carry trip planner with state-by-state reciprocity for US gun owners. [ChiefBeers](https://x.com/ChiefBeers).
+- [About Me](https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN) - Keeps a running read on your energy and life context, then briefs the rest of your bots. [MAGS](https://x.com/TAftermath2020).
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - For anyone who ships once and then stalls, waiting to feel ready. [Sultanov](https://x.com/thekuchh).
 - [Adie](https://x.ai/bot/-eXRDBTLTfHxNle9joQRN) - A warm daily companion for brains that struggle with the small stuff. [TheDevilCloud](https://x.com/TheDevilCloud).
 - [Adler](https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT) - A decisions mentor grounded in Adlerian psychology. [pardzz_](https://x.com/pardzz_).
@@ -816,6 +819,7 @@ One share is one bot. Assemble the roster yourself.
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) - Sits down for one focused hour of LinkedIn applications and never repeats a listing. [HaseebMir91](https://x.com/HaseebMir91).
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) - Tracks a home EG4 solar and battery system and raises faults early. [Terry](https://x.com/look4terry).
 - [Executive Coach](https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz) - Asks hard questions until you say the real issue out loud, without handing a model. [YanqingCheng](https://x.com/YanqingCheng).
+- [Family Safety Monitor](https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy) - Reports which apps a child uses from history and Screen Time exports, without reading private messages. [Kevin Rank](https://x.com/KevinTweets1).
 - [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) - Answers roster and matchup questions through the assistant you already talk to. [Tyler](https://x.com/TylerNishida).
 - [Fantasy GM (blank slate)](https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A) - Fantasy football GM for draft, trades, and roster that does not arrive knowing a league. [TylerNishida](https://x.com/TylerNishida).
 - [FireWatch](https://x.ai/bot/oWw62I6pd414i8xIO3azs) - Watches for wildfires near your home and only speaks up when something changes. [RobautoAI](https://x.com/RobautoAI).
@@ -825,8 +829,10 @@ One share is one bot. Assemble the roster yourself.
 - [Forja](https://x.ai/bot/me3Is7BBsCTobsgznOSps) - Turns a vague ambition into one checkable action, then holds you to it. [gezeeq](https://x.com/gezeeq).
 - [Gamer Bro](https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk) - Follows gaming news and deals, and alerts when watched stock lands. [egcbatt](https://x.com/egcbatt).
 - [GB GF Victoria test](https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA) - Companion GF template with plain phone-texting, creative WFH life, and calendar-smart check-ins. [AaronInfinitea](https://x.com/AaronInfinitea).
+- [Gird Coach](https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1) - Coaches practice on Gird AI across fitness, music, language, art, or study with workouts and check-ins. [Rip Ryness](https://x.com/ryness).
 - [Golf Caddie](https://x.ai/bot/HAJavif4ssNOQku9JQsp-) - Pocket golf caddie for weekend players. [Brantley_Brum](https://x.com/Brantley_Brum).
 - [Grocery Bot](https://x.ai/bot/JY9Ly_AvMkR8iGuzJ7EJ1) - Builds the cheapest review-ready Instacart carts from a list and stops before checkout. [austinwcap](https://x.com/austinwcap).
+- [Grocery Bot](https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp) - Logs grocery receipts, flags perishables before they spoil, and builds lists from planned meals. [Brantley Brum](https://x.com/Brantley_Brum).
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) - Plans an Instacart grocery cart from meal ideas, recipes, and staples, respecting diet, brands, stores, and budget. [Elie](https://x.com/mvanhorn).
 - [Grok Apps](https://x.ai/bot/7SzHEz6S0G4PVP3yIUcpE) - Finds free desktop software, installs it, and can demo with a short loop. [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Grok Customer Support](https://x.ai/bot/1PSI6qQln1PowM5reA_8L) - Sits on hold with customer support so you do not have to. [jakewlittle](https://x.com/jakewlittle).
@@ -934,6 +940,7 @@ One share is one bot. Assemble the roster yourself.
 - [Twain](https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH) - Converse as Mark Twain’s American irony with river sense and fraud-spotting. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [UniFi](https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX) - Reports on your Ubiquiti network and cameras each morning. [j03xiii](https://x.com/j03xiii).
 - [unifi AQ trmnl integration](https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT) - Puts your UniFi air-quality readings on a TRMNL e-ink display. [rrrkren](https://x.com/rrrkren).
+- [Unstick me](https://x.ai/bot/EahHaI-kwO0hgWj6I45jC) - Asks one small question at a time until a stalled task is small enough to start. [Yanqing](https://x.com/YanqingCheng).
 - [Vigil](https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ) - Sweep Desk lead: paste a lure for a field brief, never builds attacks. [AdventureNLearn](https://x.com/AdventureNLearn).
 - [Vinted Seller](https://x.ai/bot/nqMcywYF0Bg35egak7dSh) - Turns a pile of wardrobe photos into finished Vinted listings. [trytocatchme98](https://x.com/trytocatchme98).
 - [Watch Later Deck](https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9) - Splits a bloated YouTube Watch Later list into four swipeable decks. [Jordan](https://x.com/jordanwcjackson).

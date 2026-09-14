@@ -80,13 +80,13 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Inbox & calendar](#inbox--calendar) | 31 |
 | [Research & briefings](#research--briefings) | 99 |
 | [Customer & sales](#customer--sales) | 66 |
-| [Finance & ops](#finance--ops) | 95 |
-| [Content & publishing](#content--publishing) | 118 |
-| [Personal admin](#personal-admin) | 177 |
+| [Finance & ops](#finance--ops) | 96 |
+| [Content & publishing](#content--publishing) | 119 |
+| [Personal admin](#personal-admin) | 182 |
 | [Teams & handoffs](#teams--handoffs) | 120 |
 | **合计** | **830** |
 
-2026 年 9 月 14 日检查时，830 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 830 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 14 日检查时，837 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 837 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -574,6 +574,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - 做编号、不吹的财报一页纸，再盯一份股票名单。盯着的名字出数就写一篇。 [Sachiv](https://x.com/SachivM99).
 - [Fenrir (Paper Trading)](https://x.ai/bot/FReKiR82_-lF359lhshpR) - 在 NSE 或纳斯达克上跑模拟交易赛。 [shantanugoel](https://x.com/shantanugoel).
 - [Fixer (Liam)](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) - 把你一直拖着的行政活丢给它，它会差不多办妥。 [liam_fallen](https://x.com/liam_fallen).
+- [Fomo Live Bot](https://x.ai/bot/4fmde5VhCGJGeCiqn96D3) - 按小时纸面跟单你已关注的 FOMO 交易员，进出规则锁定，确认后才切实盘。 [The Advisor.btc](https://x.com/theadvisorbtc).
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - 替独立接案人追提案、发票和里程碑。 [Josh](https://x.com/joshkim).
 - [Gerente Ops](https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ) - 西班牙语后台经理，管日结、账本、库存和上架。 [JASCPROVZ](https://x.com/JASCPROVZ).
 - [Grant Packet Assembler](https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef) - 按佐治亚州项目要求起草合规申报包，只写稿不提交。 [OmgawdMadeit](https://x.com/OmgawdMadeit).
@@ -742,6 +743,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Stellar Cartography](https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i) - 画飞船和舰艇，发布前强制再过一眼。 [schweitzer_wil](https://x.com/schweitzer_wil).
 - [Sue Bouclier](https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0) - 用法语在 X 评论区冷静澄清，补一条有来源的事实再附链接。 [LArchitecteuh](https://x.com/LArchitecteuh).
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) - 把已有草稿收成一版能直接发出去的文字，不另起新稿。 [GrokBotGod](https://x.com/GrokBotGod).
+- [TIDAL](https://x.ai/bot/iH7-gcR-McO8Eel9frMUA) - 在 TIDAL 上搜歌、电台、收藏和歌单，返回曲名链接和曲目数。 [John](https://x.com/hottubjohn).
 - [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) - X 上的三套创作者自动化，回复触发私信、粉丝筛查、关注清单。 [NM](https://x.com/theadvisorbtc).
 - [Universal Video Downloader](https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ) - 贴视频链接，从 X、Reels、YouTube、TikTok 等站点收回可播 MP4。 [ApexSMK](https://x.com/ApexSMK).
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) - 找到并下载官方视频片段，把文件和源链接一起交回。 [DogecoinNorway](https://x.com/DogecoinNorway).
@@ -769,6 +771,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 
 - [2A](https://x.ai/bot/N9eJfkuupWb3EpWFt76va) - 美国持枪跨州出行规划，按州列明互认与携带规则。 [ChiefBeers](https://x.com/ChiefBeers).
+- [About Me](https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN) - 记住你的精力、近况和偏好，并给其他 Bot 提供简短的状态同步。 [MAGS](https://x.com/TAftermath2020).
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - 给那种发一次就停摆、总在等「准备好」的人。 [Sultanov](https://x.com/thekuchh).
 - [Adie](https://x.ai/bot/-eXRDBTLTfHxNle9joQRN) - 温和的每日陪伴，帮难以下手的日常小事推进。 [TheDevilCloud](https://x.com/TheDevilCloud).
 - [Adler](https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT) - 按阿德勒心理学帮你做决定。 [pardzz_](https://x.com/pardzz_).
@@ -816,6 +819,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) - 盯着一小时 LinkedIn 投递窗口，同一岗位绝不再抓第二次。 [HaseebMir91](https://x.com/HaseebMir91).
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) - 盯家里的 EG4 光伏和电池，故障早点报。 [Terry](https://x.com/look4terry).
 - [Executive Coach](https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz) - 不停追问到你把真问题说出口，不塞现成框架。 [YanqingCheng](https://x.com/YanqingCheng).
+- [Family Safety Monitor](https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy) - 根据观看记录和 Screen Time 等导出，汇总孩子常用应用和频率，不做私聊内容审查。 [Kevin Rank](https://x.com/KevinTweets1).
 - [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) - 在你已经在用的助手里，回答梦幻体育的阵容和对位问题。 [Tyler](https://x.com/TylerNishida).
 - [Fantasy GM (blank slate)](https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A) - 幻想橄榄球总经理，管选秀交易和阵容，来时并不认识你的联赛。 [TylerNishida](https://x.com/TylerNishida).
 - [FireWatch](https://x.ai/bot/oWw62I6pd414i8xIO3azs) - 盯着你家附近的山火动态，有变化才开口。 [RobautoAI](https://x.com/RobautoAI).
@@ -825,8 +829,10 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Forja](https://x.ai/bot/me3Is7BBsCTobsgznOSps) - 把模糊野心收成一件可验收的动作，再盯着你做完。 [gezeeq](https://x.com/gezeeq).
 - [Gamer Bro](https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk) - 盯游戏新闻与折扣，并在关注的货重新有货时提醒你. [egcbatt](https://x.com/egcbatt).
 - [GB GF Victoria test](https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA) - 伴侣模板，偏日常短信与居家创作节奏，还会按日历关心你。 [AaronInfinitea](https://x.com/AaronInfinitea).
+- [Gird Coach](https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1) - 针对 Gird AI 上的健身、音乐、语言等练习写训练并做打卡。 [Rip Ryness](https://x.com/ryness).
 - [Golf Caddie](https://x.ai/bot/HAJavif4ssNOQku9JQsp-) - 周末球友的口袋高尔夫球童。 [Brantley_Brum](https://x.com/Brantley_Brum).
 - [Grocery Bot](https://x.ai/bot/JY9Ly_AvMkR8iGuzJ7EJ1) - 按购物清单拼最便宜的 Instacart 车，结账前停下来给你看。 [austinwcap](https://x.com/austinwcap).
+- [Grocery Bot](https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp) - 用小票照片或粘贴记录花费，估算易腐品保质期，并按计划餐食反推购物清单。 [Brantley Brum](https://x.com/Brantley_Brum).
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) - 按菜谱、常备和饮食预算，在 Instacart 上排出购物车。 [Elie](https://x.com/mvanhorn).
 - [Grok Apps](https://x.ai/bot/7SzHEz6S0G4PVP3yIUcpE) - 在云电脑上找免费桌面软件并安装，还能录一小段演示。 [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Grok Customer Support](https://x.ai/bot/1PSI6qQln1PowM5reA_8L) - 替你在客服电话里排队等待。 [jakewlittle](https://x.com/jakewlittle).
@@ -934,6 +940,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Twain](https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH) - 用马克·吐温的美式讽刺陪你识骗子、讲河上的道理。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [UniFi](https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX) - 每天早上汇报你家 Ubiquiti 网络和摄像头的情况。 [j03xiii](https://x.com/j03xiii).
 - [unifi AQ trmnl integration](https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT) - 把 UniFi 空气质量读数送到 TRMNL 电子墨水屏上。 [rrrkren](https://x.com/rrrkren).
+- [Unstick me](https://x.ai/bot/EahHaI-kwO0hgWj6I45jC) - 卡住开不了头时，一次只问一个小问题，把任务缩小到迈得出的第一步。 [Yanqing](https://x.com/YanqingCheng).
 - [Vigil](https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ) - Sweep Desk 主位，贴诱饵或记录出简报，绝不组攻击。 [AdventureNLearn](https://x.com/AdventureNLearn).
 - [Vinted Seller](https://x.ai/bot/nqMcywYF0Bg35egak7dSh) - 一堆衣柜照片变成写好的 Vinted 上架。 [trytocatchme98](https://x.com/trytocatchme98).
 - [Watch Later Deck](https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9) - 把塞爆的 YouTube 稍后观看，拆成四叠可滑动的卡片。 [Jordan](https://x.com/jordanwcjackson).

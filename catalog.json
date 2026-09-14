@@ -91,6 +91,28 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "about-me",
+      "name": "About Me",
+      "author": {
+        "name": "MAGS",
+        "url": "https://x.com/TAftermath2020"
+      },
+      "summary": "Keeps a running read on your energy and life context, then briefs the rest of your bots",
+      "summary_zh": "记住你的精力、近况和偏好，并给其他 Bot 提供简短的状态同步。",
+      "import": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
+      "source": "https://x.com/TAftermath2020/status/2099183022193123784",
+      "related": "https://grokbot.dev/bots/about-me",
+      "category": "personal-admin",
+      "tags": [
+        "memory",
+        "context",
+        "wellbeing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "action-loop",
       "name": "Action Loop",
       "author": {
@@ -5143,6 +5165,28 @@
       "updated": "2026-09-11"
     },
     {
+      "slug": "family-safety-monitor",
+      "name": "Family Safety Monitor",
+      "author": {
+        "name": "Kevin Rank",
+        "url": "https://x.com/KevinTweets1"
+      },
+      "summary": "Reports which apps a child uses from history and Screen Time exports, without reading private messages",
+      "summary_zh": "根据观看记录和 Screen Time 等导出，汇总孩子常用应用和频率，不做私聊内容审查。",
+      "import": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
+      "source": "https://x.com/KevinTweets1/status/2099251469266608138",
+      "related": "https://grokbot.dev/bots/family-safety-monitor",
+      "category": "personal-admin",
+      "tags": [
+        "family",
+        "screen-time",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "family-wordpress-helpdesk",
       "name": "family wordpress helpdesk",
       "author": {
@@ -5601,6 +5645,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "fomo-live-bot",
+      "name": "Fomo Live Bot",
+      "author": {
+        "name": "The Advisor.btc",
+        "url": "https://x.com/theadvisorbtc"
+      },
+      "summary": "Hourly paper-first copy of FOMO traders you follow, with locked size and exits until you go live",
+      "summary_zh": "按小时纸面跟单你已关注的 FOMO 交易员，进出规则锁定，确认后才切实盘。",
+      "import": "https://x.ai/bot/4fmde5VhCGJGeCiqn96D3",
+      "source": "https://x.com/theadvisorbtc/status/2099268257983455720",
+      "category": "finance-ops",
+      "tags": [
+        "trading",
+        "fomo",
+        "copy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "fondi",
       "name": "Fondi",
       "author": {
@@ -6012,6 +6077,27 @@
       "updated": "2026-09-06"
     },
     {
+      "slug": "gird-coach",
+      "name": "Gird Coach",
+      "author": {
+        "name": "Rip Ryness",
+        "url": "https://x.com/ryness"
+      },
+      "summary": "Coaches practice on Gird AI across fitness, music, language, art, or study with workouts and check-ins",
+      "summary_zh": "针对 Gird AI 上的健身、音乐、语言等练习写训练并做打卡。",
+      "import": "https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1",
+      "source": "https://x.com/ryness/status/2099189159776944510",
+      "category": "personal-admin",
+      "tags": [
+        "coaching",
+        "fitness",
+        "practice"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "github-bro",
       "name": "Github Bro",
       "author": {
@@ -6292,6 +6378,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "grocery-receipt-bot",
+      "name": "Grocery Bot",
+      "author": {
+        "name": "Brantley Brum",
+        "url": "https://x.com/Brantley_Brum"
+      },
+      "summary": "Logs grocery receipts, flags perishables before they spoil, and builds lists from planned meals",
+      "summary_zh": "用小票照片或粘贴记录花费，估算易腐品保质期，并按计划餐食反推购物清单。",
+      "import": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+      "source": "https://x.com/ZestStream/status/2099214073829499320",
+      "related": "https://grokbot.dev/bots/grocery-bot",
+      "category": "personal-admin",
+      "tags": [
+        "grocery",
+        "receipts",
+        "food"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "grok-apps",
@@ -15838,6 +15946,27 @@
       "updated": "2026-09-07"
     },
     {
+      "slug": "tidal",
+      "name": "TIDAL",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/hottubjohn"
+      },
+      "summary": "Searches TIDAL tracks, radio, favorites, and playlists, returning name, link, and track count",
+      "summary_zh": "在 TIDAL 上搜歌、电台、收藏和歌单，返回曲名链接和曲目数。",
+      "import": "https://x.ai/bot/iH7-gcR-McO8Eel9frMUA",
+      "source": "https://x.com/hottubjohn/status/2099220079242072575",
+      "category": "content-publishing",
+      "tags": [
+        "music",
+        "tidal",
+        "playlists"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
+    },
+    {
       "slug": "time-keeper",
       "name": "Time Keeper",
       "author": {
@@ -16547,6 +16676,28 @@
       "verified": false,
       "updated": "2026-09-02",
       "source": "https://x.com/ApexSMK"
+    },
+    {
+      "slug": "unstick-me",
+      "name": "Unstick me",
+      "author": {
+        "name": "Yanqing",
+        "url": "https://x.com/YanqingCheng"
+      },
+      "summary": "Asks one small question at a time until a stalled task is small enough to start",
+      "summary_zh": "卡住开不了头时，一次只问一个小问题，把任务缩小到迈得出的第一步。",
+      "import": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
+      "source": "https://x.com/YanqingCheng/status/2099206038368977179",
+      "related": "https://grokbot.dev/bots/unstick-me",
+      "category": "personal-admin",
+      "tags": [
+        "productivity",
+        "focus",
+        "habits"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-14"
     },
     {
       "slug": "us-law-index-builder",
