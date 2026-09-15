@@ -79,14 +79,14 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Coding & shipping](#coding--shipping) | 124 |
 | [Inbox & calendar](#inbox--calendar) | 32 |
 | [Research & briefings](#research--briefings) | 101 |
-| [Customer & sales](#customer--sales) | 67 |
-| [Finance & ops](#finance--ops) | 101 |
+| [Customer & sales](#customer--sales) | 68 |
+| [Finance & ops](#finance--ops) | 102 |
 | [Content & publishing](#content--publishing) | 123 |
 | [Personal admin](#personal-admin) | 186 |
 | [Teams & handoffs](#teams--handoffs) | 121 |
-| **合计** | **855** |
+| **合计** | **857** |
 
-2026 年 9 月 15 日检查时，855 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 855 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 15 日检查时，857 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 857 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -533,6 +533,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE 辖区管道 Bot，管账簿级外联、会议和潜在 ARR。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) - 让你的 Bot 能打也能接真正的电话。 [ibelevy](https://x.com/ibelevy).
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) - 每次会后放下待办和一封跟进草稿。 [Priya](https://x.com/itspriyaptl).
+- [Prospect Drafts](https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t) - 按地区、行业和你的报价找合适潜客，再用你的口吻写好首封 Gmail 草稿，由你发送。 [Sam](https://x.com/sam_builds_ai).
 - [Prospecting Sheet Builder](https://x.ai/bot/3Peagz3nzagjBRFhjrENd) - 醒来就有一份筛过的 B2B 客户表。 [thekuchh](https://x.com/thekuchh).
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) - 把简历改成能点开演示的活作品集。 [HouseHackerJon](https://x.com/HouseHackerJon).
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) - 赋能问题的统一入口，再路由到对的专项技能。 [nathanclark_](https://x.com/nathanclark_).
@@ -579,6 +580,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - 做编号、不吹的财报一页纸，再盯一份股票名单。盯着的名字出数就写一篇。 [Sachiv](https://x.com/SachivM99).
 - [Fenrir (Paper Trading)](https://x.ai/bot/FReKiR82_-lF359lhshpR) - 在 NSE 或纳斯达克上跑模拟交易赛。 [shantanugoel](https://x.com/shantanugoel).
 - [Fixer (Liam)](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) - 把你一直拖着的行政活丢给它，它会差不多办妥。 [liam_fallen](https://x.com/liam_fallen).
+- [Flippy](https://x.ai/bot/OfHECnXmPPavf-l_rZufo) - 每天盯着 OpenSea 铸造进度，提醒各钱包现在能打哪一阶段，并抓取相关热帖。 [DIEGO](https://x.com/diegoarmandoAD).
 - [Fomo Live Bot](https://x.ai/bot/4fmde5VhCGJGeCiqn96D3) - 按小时纸面跟单你已关注的 FOMO 交易员，进出规则锁定，确认后才切实盘。 [The Advisor.btc](https://x.com/theadvisorbtc).
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - 替独立接案人追提案、发票和里程碑。 [Josh](https://x.com/joshkim).
 - [Gerente Ops](https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ) - 西班牙语后台经理，管日结、账本、库存和上架。 [JASCPROVZ](https://x.com/JASCPROVZ).

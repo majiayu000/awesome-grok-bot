@@ -79,14 +79,14 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Coding & shipping](#coding--shipping) | 124 |
 | [Inbox & calendar](#inbox--calendar) | 32 |
 | [Research & briefings](#research--briefings) | 101 |
-| [Customer & sales](#customer--sales) | 67 |
-| [Finance & ops](#finance--ops) | 101 |
+| [Customer & sales](#customer--sales) | 68 |
+| [Finance & ops](#finance--ops) | 102 |
 | [Content & publishing](#content--publishing) | 123 |
 | [Personal admin](#personal-admin) | 186 |
 | [Teams & handoffs](#teams--handoffs) | 121 |
-| **Total** | **855** |
+| **Total** | **857** |
 
-All 855 share pages returned HTTP 200 on 15 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 855 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 857 share pages returned HTTP 200 on 15 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 857 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -533,6 +533,7 @@ One share is one bot. Assemble the roster yourself.
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE territory pipeline bot for book-level outreach, meetings, and potential ARR. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) - Lets your bot place and receive real phone calls. [ibelevy](https://x.com/ibelevy).
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) - Drops your to-dos and a draft follow-up after every meeting. [Priya](https://x.com/itspriyaptl).
+- [Prospect Drafts](https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t) - Finds fit prospects by geography, industry, and offer, then drafts first-touch Gmail notes in your voice. [Sam](https://x.com/sam_builds_ai).
 - [Prospecting Sheet Builder](https://x.ai/bot/3Peagz3nzagjBRFhjrENd) - Wakes you up to a fresh sheet of qualified B2B accounts. [thekuchh](https://x.com/thekuchh).
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) - Rebuilds a resume into a live portfolio of clickable work demos. [HouseHackerJon](https://x.com/HouseHackerJon).
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) - One front door for enablement asks, routed to the right specialist skill. [nathanclark_](https://x.com/nathanclark_).
@@ -579,6 +580,7 @@ One share is one bot. Assemble the roster yourself.
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - Builds numbered, no-hype earnings tearsheets and a ticker watch list. Writes up when a watched name prints. [Sachiv](https://x.com/SachivM99).
 - [Fenrir (Paper Trading)](https://x.ai/bot/FReKiR82_-lF359lhshpR) - Runs a paper-trading tournament on NSE or NASDAQ. [shantanugoel](https://x.com/shantanugoel).
 - [Fixer (Liam)](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) - Hand it the admin thing you keep putting off and it gets it nearly solved. [liam_fallen](https://x.com/liam_fallen).
+- [Flippy](https://x.ai/bot/OfHECnXmPPavf-l_rZufo) - Tracks OpenSea NFT mints daily and flags which phase each wallet can mint plus drop hype on X. [DIEGO](https://x.com/diegoarmandoAD).
 - [Fomo Live Bot](https://x.ai/bot/4fmde5VhCGJGeCiqn96D3) - Hourly paper-first copy of FOMO traders you follow, with locked size and exits until you go live. [The Advisor.btc](https://x.com/theadvisorbtc).
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - Chases proposals, invoices and milestones for a solo freelancer. [Josh](https://x.com/joshkim).
 - [Gerente Ops](https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ) - Spanish back-office manager for till close, ledgers, stock and listings. [JASCPROVZ](https://x.com/JASCPROVZ).

@@ -5687,6 +5687,28 @@
       "related": "https://grokbot.dev/bots/flights"
     },
     {
+      "slug": "flippy",
+      "name": "Flippy",
+      "author": {
+        "name": "DIEGO",
+        "url": "https://x.com/diegoarmandoAD"
+      },
+      "summary": "Tracks OpenSea NFT mints daily and flags which phase each wallet can mint plus drop hype on X",
+      "summary_zh": "每天盯着 OpenSea 铸造进度，提醒各钱包现在能打哪一阶段，并抓取相关热帖。",
+      "import": "https://x.ai/bot/OfHECnXmPPavf-l_rZufo",
+      "source": "https://x.com/diegoarmandoAD/status/2099830423853424860",
+      "category": "finance-ops",
+      "tags": [
+        "nft",
+        "opensea",
+        "alerts",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
+    },
+    {
       "slug": "flora",
       "name": "Flora",
       "author": {
@@ -12266,6 +12288,28 @@
       "verified": false,
       "updated": "2026-09-09",
       "source": "https://x.com/krisadipap"
+    },
+    {
+      "slug": "prospect-drafts",
+      "name": "Prospect Drafts",
+      "author": {
+        "name": "Sam",
+        "url": "https://x.com/sam_builds_ai"
+      },
+      "summary": "Finds fit prospects by geography, industry, and offer, then drafts first-touch Gmail notes in your voice",
+      "summary_zh": "按地区、行业和你的报价找合适潜客，再用你的口吻写好首封 Gmail 草稿，由你发送。",
+      "import": "https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t",
+      "source": "https://x.com/sam_builds_ai/status/2099824297573511622",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "email",
+        "prospecting",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
     },
     {
       "slug": "prospecting-sheet-builder",
