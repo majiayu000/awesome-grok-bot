@@ -80,13 +80,13 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Inbox & calendar](#inbox--calendar) | 32 |
 | [Research & briefings](#research--briefings) | 101 |
 | [Customer & sales](#customer--sales) | 67 |
-| [Finance & ops](#finance--ops) | 100 |
+| [Finance & ops](#finance--ops) | 101 |
 | [Content & publishing](#content--publishing) | 123 |
 | [Personal admin](#personal-admin) | 186 |
 | [Teams & handoffs](#teams--handoffs) | 121 |
-| **Total** | **854** |
+| **Total** | **855** |
 
-All 854 share pages returned HTTP 200 on 15 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 854 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 855 share pages returned HTTP 200 on 15 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 855 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -560,6 +560,7 @@ One share is one bot. Assemble the roster yourself.
 - [Arnold](https://x.ai/bot/ymoMdfvzdErOrclxCOaC_) - Watches Cursor usage cost and nudges agents onto cheaper models. [Kelseyshuo](https://x.com/Kelseyshuo).
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) - Watches your deliveries and speaks up the moment one stops moving. [liam_fallen](https://x.com/liam_fallen).
 - [Blair (Personal Shopper)](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) - A personal shopper that hunts down secondhand designer pieces and can buy them. [jediahkatz](https://x.com/jediahkatz).
+- [BO Provider by Craig](https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd) - A BlindOracle marketplace provider: registers itself, runs a daily heartbeat, bids on and delivers web-extraction jobs, and gets paid in USDC over x402 on Base. [Craig Brown](https://x.com/craigmbrown).
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) - Zero ETH BOTCOIN mining rig onboarding miner. [BOTCOIN](https://x.com/MineBotcoin).
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) - Digs through your email and bills for refunds and credits you never chased. [Liam](https://x.com/liam_fallen).
 - [Chained Oblivion](https://x.ai/bot/Loekv1uecl26wWW0lNyfR) - Finds the software you keep paying for and nobody uses. [mjjefford](https://x.com/mjjefford).
