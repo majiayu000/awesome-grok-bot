@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14",
+  "generated": "2026-09-15",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -3136,6 +3136,28 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "commitments",
+      "name": "Commitments",
+      "author": {
+        "name": "Sam Lambert",
+        "url": "https://x.com/samlambert"
+      },
+      "summary": "Catches promises in Slack, Notion, and email, then keeps Notion rows open until done",
+      "summary_zh": "抓住你在 Slack、Notion 和邮件里随口答应的事，并在 Notion 里盯到真正做完。",
+      "import": "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn",
+      "source": "https://x.com/samlambert/status/2099584402045210992",
+      "related": "https://grokbot.dev/marketplace/commitments/",
+      "category": "personal-admin",
+      "tags": [
+        "promises",
+        "notion",
+        "follow-through"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
+    },
+    {
       "slug": "competitor-watching",
       "name": "Competitor Watching",
       "author": {
@@ -3982,6 +4004,27 @@
       "updated": "2026-09-04"
     },
     {
+      "slug": "deck-builder",
+      "name": "Deck Builder",
+      "author": {
+        "name": "Scott Metcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Clones marketing GTM templates, picks on-brand layouts, and fills a customer deck for review",
+      "summary_zh": "套用营销 GTM 模板，选合品牌版式，填好客户讲稿给你审。",
+      "import": "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC",
+      "source": "https://x.com/scottxmetcalf/status/2099551915164217627",
+      "category": "customer-sales",
+      "tags": [
+        "decks",
+        "gtm",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
+    },
+    {
       "slug": "deck-guy",
       "name": "deck-guy",
       "author": {
@@ -4793,6 +4836,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-14"
+    },
+    {
+      "slug": "e-mail-organizer",
+      "name": "E-mail Organizer",
+      "author": {
+        "name": "Leendert Goedbloed",
+        "url": "https://x.com/leingoedbloed"
+      },
+      "summary": "Dutch Gmail housekeeper that labels by vendor, hides noise, and keeps invoices under Payments",
+      "summary_zh": "荷兰语 Gmail 管家，按供应商贴标签、清噪声，并把发票收到 Payments。",
+      "import": "https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd",
+      "source": "https://x.com/leingoedbloed/status/2099569404115624094",
+      "related": "https://grokbot.dev/marketplace/e-mail-organizer/",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "labels",
+        "invoices",
+        "dutch"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
     },
     {
       "slug": "early-stage-funding-scout",
@@ -6848,6 +6914,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04"
+    },
+    {
+      "slug": "grottle",
+      "name": "Grottle",
+      "author": {
+        "name": "BCORN",
+        "url": "https://x.com/BCornTexas"
+      },
+      "summary": "Turns weekly Grok Bot usage percent and reset time into an easier fuel gauge",
+      "summary_zh": "把每周 Grok Bot 用量百分比和重置时间，收成更好读的油表。",
+      "import": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+      "source": "https://x.com/BCornTexas/status/2099580443943227590",
+      "related": "https://grokbot.dev/marketplace/grottle/",
+      "category": "personal-admin",
+      "tags": [
+        "usage",
+        "meter",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
     },
     {
       "slug": "growth-desk",
@@ -9007,6 +9095,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "lienzo",
+      "name": "Lienzo",
+      "author": {
+        "name": "Fran Escob",
+        "url": "https://x.com/FrancoE114696"
+      },
+      "summary": "Drop design links into a markdown reference library, then ask it what to reuse later",
+      "summary_zh": "把设计链接收成可追问的 markdown 参考库，之后按收藏推荐可复用素材。",
+      "import": "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp",
+      "source": "https://x.com/FrancoE114696/status/2099646811992424632",
+      "related": "https://grokbot.dev/marketplace/lienzo/",
+      "category": "personal-admin",
+      "tags": [
+        "design",
+        "library",
+        "knowledge"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
     },
     {
       "slug": "life",
@@ -14318,6 +14428,27 @@
       "updated": "2026-09-11"
     },
     {
+      "slug": "skool-community-bot",
+      "name": "Skool Community Bot",
+      "author": {
+        "name": "Shawn Jooste",
+        "url": "https://x.com/shawnjooste"
+      },
+      "summary": "Helps Skool admins with members, posts, follow-ups, and Q&A through the browser",
+      "summary_zh": "帮 Skool 管理员管成员、帖子、跟进和问答，走浏览器操作。",
+      "import": "https://x.ai/bot/k52i6aFytc3an6PabakvN",
+      "source": "https://x.com/shawnjooste/status/2099536605396586527",
+      "category": "teams-handoffs",
+      "tags": [
+        "skool",
+        "community",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
+    },
+    {
       "slug": "skroutz",
       "name": "Skroutz",
       "author": {
@@ -16097,6 +16228,29 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "tin-el-investigador",
+      "name": "Tin El Investigador",
+      "author": {
+        "name": "Valentin Giuliani Valdemoros",
+        "url": "https://x.com/valengiulimor"
+      },
+      "summary": "Investigates a topic daily and returns a ready-to-post Spanish X draft",
+      "summary_zh": "每天就一个主题做调研，并交回可直接发的西语 X 草稿。",
+      "import": "https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd",
+      "source": "https://x.com/valengiulimor/status/2099607798766084217",
+      "related": "https://grokbot.dev/marketplace/tin-el-investigador/",
+      "category": "content-publishing",
+      "tags": [
+        "spanish",
+        "research",
+        "x",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
+    },
+    {
       "slug": "tinkabot",
       "name": "tinkabot",
       "author": {
@@ -16960,6 +17114,27 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "vetstack",
+      "name": "VetStack",
+      "author": {
+        "name": "kenashe",
+        "url": "https://x.com/kenashe"
+      },
+      "summary": "Military-household savings desk for purchases, subscriptions, receipts, and benefits",
+      "summary_zh": "面向军人家庭的省钱台，管采购、订阅、收据和福利提醒。",
+      "import": "https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL",
+      "related": "https://grokbot.dev/marketplace/vetstack/",
+      "category": "finance-ops",
+      "tags": [
+        "military",
+        "savings",
+        "benefits"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
+    },
+    {
       "slug": "video-clip",
       "name": "Video Clip",
       "author": {
@@ -17106,6 +17281,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04"
+    },
+    {
+      "slug": "voice-receipt-ledger",
+      "name": "记账管家",
+      "author": {
+        "name": "铁柱AGI",
+        "url": "https://x.com/cgnot996"
+      },
+      "summary": "Private ledger fed by text, receipt photos, or voice notes, with optional Feishu sync",
+      "summary_zh": "用文字、小票截图或语音入账的私人账本，可选同步飞书多维表。",
+      "import": "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE",
+      "source": "https://x.com/cgnot996/status/2099527147882942853",
+      "related": "https://grokbot.dev/marketplace/voice-receipt-ledger/",
+      "category": "finance-ops",
+      "tags": [
+        "ledger",
+        "receipts",
+        "voice",
+        "feishu"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
     },
     {
       "slug": "volt",
@@ -17929,6 +18127,27 @@
       "updated": "2026-09-14"
     },
     {
+      "slug": "x402-bot",
+      "name": "x402 bot",
+      "author": {
+        "name": "8Bit",
+        "url": "https://x.com/0rdlibrary"
+      },
+      "summary": "Solana NL trading desk via Jupiter, Pump, Phoenix and Backpack without storing keys in chat",
+      "summary_zh": "用自然语言做 Solana 交易台，走 Jupiter 等工具，不在聊天里存私钥。",
+      "import": "https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg",
+      "source": "https://x.com/0rdlibrary/status/2099643576774775290",
+      "category": "finance-ops",
+      "tags": [
+        "solana",
+        "trading",
+        "x402"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
+    },
+    {
       "slug": "x402-marketplace-operator",
       "name": "x402 Marketplace Operator",
       "author": {
@@ -18179,6 +18398,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-14"
+    },
+    {
+      "slug": "zuozuo-ai-intel",
+      "name": "左左的AI情报员",
+      "author": {
+        "name": "左左",
+        "url": "https://x.com/zuoyou_ai"
+      },
+      "summary": "Chinese AI intel daily from a fixed 46-source list with verify, dedupe, and importance scoring",
+      "summary_zh": "按固定 46 源做核验去重和重要性评分，输出简洁中文 AI 情报日报。",
+      "import": "https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt",
+      "source": "https://x.com/zuoyou_ai/status/2099515632752771227",
+      "category": "research-briefings",
+      "tags": [
+        "ai",
+        "intel",
+        "chinese",
+        "daily"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-15"
     }
   ]
 }
