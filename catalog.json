@@ -8689,6 +8689,28 @@
       "source": "https://x.com/darke_mike6767/status/2100004029526892681"
     },
     {
+      "slug": "elon-musk-algorithm-constraint",
+      "name": "Elon Musk (Algorithm & constraint)",
+      "author": {
+        "name": "Rasmus",
+        "url": "https://x.com/merirand"
+      },
+      "summary": "First-principles operator that finds your company biggest weekly constraint then question, delete, simplify, accelerate, automate",
+      "summary_zh": "每周找出公司最大约束，再按提问、删除、简化、加速、自动化推进的第一性原理运营机器人",
+      "import": "https://x.ai/bot/QCwGPAlho0dBvBds_IOWF",
+      "category": "teams-handoffs",
+      "tags": [
+        "constraint",
+        "ops",
+        "algorithm",
+        "first-principles"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/merirand/status/2100126233035931673"
+    },
+    {
       "slug": "elongated-musketeer",
       "name": "Elongated Musketeer",
       "author": {
@@ -15102,6 +15124,28 @@
       "related": "https://grokbot.dev/marketplace/korean-public-api/"
     },
     {
+      "slug": "labor-drift-catcher",
+      "name": "Labor Drift Catcher",
+      "author": {
+        "name": "Myke",
+        "url": "https://x.com/myke86d"
+      },
+      "summary": "Compares schedule vs clock-out to catch labor drift and overtime surprises before they stack up",
+      "summary_zh": "对照排班与打卡下班时间，抓住工时漂移，减少加班意外",
+      "import": "https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd",
+      "category": "finance-ops",
+      "tags": [
+        "labor",
+        "overtime",
+        "schedule",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/myke86d/status/2100120055929245738"
+    },
+    {
       "slug": "land",
       "name": "Land",
       "author": {
@@ -16799,6 +16843,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16"
+    },
+    {
+      "slug": "mdh-hill-charts",
+      "name": "MDH Hill Charts",
+      "author": {
+        "name": "Mark Hill",
+        "url": "https://x.com/MarinCountyman"
+      },
+      "summary": "Builds high-contrast, source-disciplined charts on Iran currency, oil collapse, and security-force payroll pressure",
+      "summary_zh": "用高对比、可核源的图表梳理伊朗汇率楔子、油价坍塌与安保薪酬压力，并做周度裁切",
+      "import": "https://x.ai/bot/Mmcfff6ubyzhSnqMAQ3NA",
+      "category": "research-briefings",
+      "tags": [
+        "charts",
+        "research",
+        "briefing",
+        "geopolitics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/MarinCountyman/status/2100132661218181170"
     },
     {
       "slug": "of-another-template",
