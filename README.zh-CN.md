@@ -76,17 +76,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 138 |
-| [Inbox & calendar](#inbox--calendar) | 38 |
-| [Research & briefings](#research--briefings) | 115 |
-| [Customer & sales](#customer--sales) | 95 |
-| [Finance & ops](#finance--ops) | 109 |
-| [Content & publishing](#content--publishing) | 136 |
-| [Personal admin](#personal-admin) | 212 |
-| [Teams & handoffs](#teams--handoffs) | 147 |
+| [Coding & shipping](#coding--shipping) | 197 |
+| [Inbox & calendar](#inbox--calendar) | 58 |
+| [Research & briefings](#research--briefings) | 170 |
+| [Customer & sales](#customer--sales) | 162 |
+| [Finance & ops](#finance--ops) | 189 |
+| [Content & publishing](#content--publishing) | 178 |
+| [Personal admin](#personal-admin) | 317 |
+| [Teams & handoffs](#teams--handoffs) | 165 |
 | **合计** | **990** |
 
-2026 年 9 月 16 日检查时，990 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 990 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 16 日检查时，1436 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1436 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -216,8 +216,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Coding & shipping
 
-
 - [1000x Product Engineer](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) - 全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。 [Thomas](https://x.com/TomZarebczan).
+- [Adversarial Security & Usability](https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ) - 对产品文档与代码做对抗式安全与可用性检查，用工单、可操作脚本与真实抓取. [cservincf](https://x.com/cservincf).
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) - 盯着本机编程代理反复改，直到验收测试通过。 [dancingteeth](https://x.com/dancingteeth).
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) - 多 Bot 工作区的清洁工，不让垃圾越堆越多。 [Chip](https://x.com/chiplay).
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) - 让你机器上每一套 AI 编程工具都跟上版本。 [Alan](https://x.com/gheeunit).
@@ -225,115 +225,167 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV) - 上架前审计 iOS 应用，并指导 App Review 被拒后的回复. [stevederico](https://x.com/stevederico).
 - [Apple Dev](https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA) - 在你已配对的 Mac 上驱动 Xcode、模拟器和 Swift 构建。 [Baconbrix](https://x.com/Baconbrix).
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) - 一句话描述应用，收回一个能跑起来的构建。 [Wayne](https://x.com/waynesutton).
+- [Arr Bot](https://x.ai/bot/Vs67gzNnC-60nc_7j6Ker) - 在你的机器上搭建并调优私有 arr 媒体栈，含 Gluetun VPN、下载器、Prowlarr、Radarr 或 Sonarr 与 Jellyfin. [ThatRetiredDude](https://x.com/ThatRetiredDude).
 - [ASC Skill](https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta) - 一步步带着走完 App Store Connect 的 iOS 上架流程。 [Phil_Holland](https://x.com/Phil_Holland).
 - [Astra Oracle](https://x.ai/bot/JocbRv3IMTJ5LmjX_qXvZ) - 经 Codex CLI 产出可粘贴的 PLAN 和 REVIEW，自己不写代码。 [bossriceshark](https://x.com/bossriceshark).
+- [Astro](https://x.ai/bot/c8KmU9HbRe5aeFpqlRaUP) - CCNP ENCOR 与 ENARSI 学习教练，每日大纲课含考点陷阱、记忆法与练习. [Great](https://x.com/Great_Sc0t).
+- [Aysha - Chefe de Equipe](https://x.ai/bot/AV17qjtZBoRU3SaZxVAvQ) - 在 GitHub 上编排机器人与其它 AI 的队长，留面包屑，必要时才决策，零额外成本. [83castilhojr](https://x.com/83castilhojr).
 - [Baut](https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx) - 帮你把 Grok.me 游戏做出去，产品决策按真金白银来。 [XAmandaMoore](https://x.com/XAmandaMoore).
 - [BeTree](https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w) - 把分散在多个 Bot 上的计划收成一张活的关系图。 [Nicolas](https://x.com/NicoChauvin74).
 - [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) - 直接查询 The Graph 子图，回答链上数据问题。 [Derek](https://x.com/data_nexus).
 - [Brake](https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z) - 点名那个在默默吃掉每周用量的重复任务并让你停掉它。 [FantomBuildz](https://x.com/FantomBuildz).
 - [BTWIUseArch](https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9) - Arch Linux 桌面或服务器帮手，检查包缓存与体积，经你批准后再清理 pacman 或 yay。 [None](https://x.com/None).
 - [Buzzkill](https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh) - 写出四段式 Grokumentary，隔离前要你先点头。 [Knock](https://x.com/SuddenlyJon).
+- [Call Bot](https://x.ai/bot/PtnSyeoj7X_aCrZxAi7Lb) - 掌管电话与语音车道，含进线接待、受控外呼、健康看守，以及 Twilio、ElevenLabs 与语音 API 知识. [ChristianXCesar](https://x.com/ChristianXCesar).
+- [Car Bot](https://x.ai/bot/w6FkVLjehhyVw6yF8FBQn) - 日常特斯拉车库服务员，管状态、空调、锁车、充电与导航. [Kevin](https://x.com/kchau).
 - [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) - 第一性原理的游戏引擎和固件专长，给小体量爱好游戏用，只上真正能跑的最小栈。 Marcus.
+- [ceo](https://x.ai/bot/_9zNszlWh8hVENOKjs26n) - 多机器人群的前门 CEO，把你的要求分给专家，缺席位就拉起，并汇总结果. [after_myth](https://x.com/after_myth).
 - [Changelog Stand-down](https://x.ai/bot/T27nv3vIy89yKldqELWbn) - 每周一用白话汇总团队这周真正上线了什么。 [acolombiadev](https://x.com/acolombiadev).
 - [Changelog Stand-down](https://x.ai/bot/JiSR_7-w1GPQM0QWltAVq) - 每周一汇总你选定仓库里已合并的 PR 和发版。 [acolombiadev](https://x.com/acolombiadev).
-- [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) - 中文参谋，把规划和研究转给 Cursor Cloud Agent，再把结果带回来。 [0xlangeai](https://x.com/0xlangeai).
+- [charlie](https://x.ai/bot/MxikU14J07UVf-1UV4VC-) - 自主软件交付的总体规划与证据协调员，帮你谈妥做什么，并为交付线编排批次. [Tomasz](https://x.com/Tomasz).
+- [Chief of Staff](https://x.ai/bot/oVSjxSlpnYLctgKv1PW3v) - 把活分给专家机器人，决策时才拉你，没事保持安静. [BeardWhoCodes](https://x.com/BeardWhoCodes).
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) - 专职编码代理，所有软件活都丢给 Claude Code CLI 跑。 [Daniel](https://x.com/DanielZambrini).
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) - 把前端和架构活交给 Claude Code CLI，干完直接开 PR。 [Farzad](https://x.com/farzyness).
+- [CLI Engineer](https://x.ai/bot/Dt3hU-B3_c0q7P3c5LVzL) - 编程代理 CLI 工程师，方法来自真实提交，主张不等于观察，管进程所有权，等待不等于截止. [america_snail](https://x.com/america_snail).
+- [Client Board Ops](https://x.ai/bot/dCnuQGIkcRywkol7dlBpr) - 工作日客户看板自动化，早间把 Trello 同步到任务表，并邮件发状态. [MrGonzo1024](https://x.com/MrGonzo1024).
+- [Clip Bot](https://x.ai/bot/aMGcDD-vdyx8ZqeFvIIr1) - 从长谈话剪竖版社交短片，挑最强片段并加字幕. [CobusGreylingZA](https://x.com/CobusGreylingZA).
+- [Clippy 📎](https://x.ai/bot/tZFOB5nZMHj6O14WP2NgK) - 西班牙语文软件助手，设计、调试并集成应用与脚本. [sergiogrok](https://x.com/sergiogrok).
+- [Cluster Diagnostics](https://x.ai/bot/BrrgzXEeQAa_cRfNN3lSn) - 只读 OpenShift 与平台 SRE，凭证据诊断集群、Operator、Service Mesh 与 GitOps 漂移，并提议 PR. [tomppasalmi](https://x.com/tomppasalmi).
 - [Code Red](https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD) - 只停你自己的系统，先演练再确认的紧急急停开关。 [Knock](https://x.com/SuddenlyJon).
 - [CodeDR - ExamBot](https://x.ai/bot/qocgykNssAv63yc1kdNnN) - 对 vibe coding 出来的应用跑 CodeDR 考试并出报告。 [codedrai](https://x.com/codedrai).
+- [Cody](https://x.ai/bot/843EAX4tlSviLDLgq3G1B) - 只做 Cloudflare 运维，管 DNS、隧道、Access、Workers、Pages 与安全设置，改前先解释. [ThatRetiredDude](https://x.com/ThatRetiredDude).
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) - 把正确的 Chrome cookie 导入共享电脑让浏览器机器人别卡在登录墙。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) - 在云电脑部署并养护 CLIProxyAPI，带 Cloudflare 隧道保活。 [licoycn](https://x.com/licoycn).
 - [critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) - 设计评论家，只看你的界面截图，只给意见。 [mamuso](https://x.com/mamuso).
+- [CSEd Research Mate](https://x.ai/bot/MXHLIzKJ1hOslFfTTr6do) - 计算机编程教育的研究队友，做文献扫描、学生作品质性编码、测评设计与研究方案. [orlandomisael](https://x.com/orlandomisael).
 - [CTO Bot](https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5) - 只读审计软件组织，经各平台专长 Bot 汇总成一份高管风险报告。 [Asm](https://x.com/asmDevsit).
+- [Cursor](https://x.ai/bot/zSKgg4Uce1QTwWRf9Q-vu) - WhatsApp 物流 SaaS 的 Slack 编程与运营队友，伙伴打字需求它落地. [DanielMed_2](https://x.com/DanielMed_2).
 - [Cursor Agent (Local)](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) - 在本机跑 cursor-agent 命令行，做实验和现场活。 [ryanthawks](https://x.com/ryanthawks).
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) - 用设计负责人的眼光审 AI 做出来的界面。 [inqusit](https://x.com/inqusit).
 - [Devin](https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR) - 经远程 MCP 把编码活交给 Devin，可查进度和追问。 [naz3eh](https://x.com/naz3eh).
 - [Devin](https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA) - 负责贴近底层的活，含守护进程、桌面应用、GPU 管线和发布脚本。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
-- [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) - 帮你逆向恶意软件、固件和漏洞研究用的二进制。 [drbinaryai](https://x.com/drbinaryai).
+- [Dex](https://x.ai/bot/0zsKkmrDyKyTwLneI5a4d) - 给 AI Insights 风格 Substack 写稿，研究 AI 新闻与 Product Hunt 工具并起草未刊发期. [dariusgaynor](https://x.com/dariusgaynor).
+- [Directory Backlink Builder](https://x.ai/bot/ylhq0i8pUOGWzSNuxWvCE) - 每日循环把 SaaS 提交到相关软件目录，优先免费易上的. [scottvayner](https://x.com/scottvayner).
+- [Dividend Capture Desk](https://x.ai/bot/cijom_J6Ub9miyE0wfirn) - 工作日累计与除息桌，菜单与细节来自 Seeking Alpha 评级、Market Chameleon 等. [jb_equities](https://x.com/jb_equities).
 - [dr buzz](https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp) - 帮你造其他 Bot，每个只干一件事并有固定语气。 [Talalakkari](https://x.com/Talalakkari).
 - [Dr Disk Clean](https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO) - 先盘点拥挤的 Linux 机器，你点名路径才删。 [old_pgmrs_will](https://x.com/old_pgmrs_will).
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) - 替你搭建其他 Grok Bot。 [Lauren](https://x.com/poteto). 说明: [templates/dr-eggbot](templates/dr-eggbot/).
 - [dr eggbot](https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW) - 设计高质量 Grok Bot，并把大活拆成更小的兄弟 Bot。 [brandonsbay](https://x.com/brandonsbay).
 - [dr eggbot](https://x.ai/bot/_jOdbfkB16zxu7MRcmReE) - 先问几道偏好，再帮你设计并创建高质量 Grok Bot. [poteto](https://x.com/poteto).
 - [Dr Web LP](https://x.ai/bot/xM153pKfXPLWagLi_O1vR) - 给它一张网页图，它就用 HTML 和 CSS 把那页搭出来。 [old_pgmrs_will](https://x.com/old_pgmrs_will).
+- [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) - 帮你逆向恶意软件、固件和漏洞研究用的二进制。 [drbinaryai](https://x.com/drbinaryai).
 - [Engineer](https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv) - 外环工程经理，拆活、交给构建代理、验收并带回凭据，默认只出草稿，不擅自提交合并。 [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) - 守住你指定仓库的合并门槛，只把真正要拍板的问题往上抛。 [andreleibovici](https://x.com/andreleibovici).
+- [Evan](https://x.ai/bot/mtyGarJ8qbIzFBmYg4cVx) - 审英文草稿与聊天，建议更清楚更自然的措辞，面向非母语写作者. [HissyNC](https://x.com/HissyNC).
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) - 东西一坏，就把刚发生的改动摊给你看。 [liam_fallen](https://x.com/liam_fallen).
+- [Exo](https://x.ai/bot/nSQJRVPm7Pj8rKtAMRXAU) - 你在 Grok Bot 上的外骨骼，从 markdown 真源跑一天，带着证据作答. [CamiloPossol](https://x.com/CamiloPossol).
+- [Expert Networks](https://x.ai/bot/5dfJQ9M4eQVrXB_3TzAqK) - 帮你在 GLG 等专家网络报名顾问，催未完成申请，并把可咨询时段与日历对齐. [VestlessVC](https://x.com/VestlessVC).
 - [Fable 5.1 Oracle](https://x.ai/bot/tLSg4HxepSclMqbZUTRnX) - 把怎么做想清楚并检查成品，自己从不写代码。 [bossriceshark](https://x.com/bossriceshark).
 - [Farm](https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa) - 把重编码活扔到自己的机器上，聊天里只带回结果。 [mpieras](https://x.com/mpieras).
 - [Feedback](https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU) - 把你已确认的 bug 整理成规范报告，提给对的团队。 [NYTEMODE](https://x.com/nytemodeonly).
 - [Flowsery](https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k) - 把会话录像收成一份按优先级排的修复清单。 [tarasshyn](https://x.com/tarasshyn).
 - [Forge (dev factory)](https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd) - 把你签过字的规格丢进去，早上来收 pull request。 [DanKillenberger](https://x.com/DanKillenberger).
 - [Forge (Template Foundry)](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) - 丢一个关键词进去，吐出一份能直接用的 Grok Bot 配方。 [rryssf](https://x.com/rryssf).
+- [Frame](https://x.ai/bot/ChQQ0_tBNki9hZWJo0GjQ) - 咨询面试与真实客户工作的策略案例副驾，跑苏格拉底演练、MECE 问题树、发现到工作计划与红队. [gradycwallen](https://x.com/gradycwallen).
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) - 每天一份核过的简报，覆盖十家前沿实验室的发布。 [Amina](https://x.com/GuleidAmina).
 - [Gardener](https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp) - 用可证明、行为不变的小 PR 清掉死代码。 [Tyler](https://x.com/tylerklose).
+- [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) - 未知父母与身份谜题的自主谱系研究伙伴. [JeffWise953718](https://x.com/JeffWise953718).
 - [Github Bro](https://x.ai/bot/V2kkrme1lYb3NwIulGTTd) - 工作日早上汇总某个 GitHub 仓库的新动静，再附一段产品简报。 [kaushikimmadi](https://x.com/kaushikimmadi).
+- [GPT Astra Oracle](https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv) - 用第二个模型为 Cursor 云代理做计划与评审包. [nathanromano](https://x.com/nathanromano).
 - [Grimoire's Tome & The Grim Council](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) - 带五十项技能的编程巫师，外加二十人顾问会。 [NickADobos](https://x.com/NickADobos).
+- [Grip](https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA) - 教练业余机械臂完成示教、回放与微调. [MooneyMillions](https://x.com/MooneyMillions).
 - [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) - 给真正的 Grok Build 命令行单独一台机器干活。 [BillZanetti](https://x.com/BillZanetti).
-- [Grok Build (client sites)](https://x.ai/bot/iwa3WaHZn385jfZrsQngL) - 搭客户站，部署 Vercel 预览，再把链接邮件发给客户。 [beaudenison](https://x.com/beaudenison).
-- [Grok Build (preview links)](https://x.ai/bot/AY2y4oPL_VgcttCt8OFqm) - 另一路 Grok Build，专把客户站做成可预览链接。 [DAssetBuzz](https://x.com/DAssetBuzz).
 - [Grok Build](https://x.ai/bot/ENDVHWRcL1pcCZAy4whPJ) - Orbital Forge 团队包里的本机 Grok Build 工位，专跑本地构建。 [occupymars___](https://x.com/occupymars___).
 - [grok build](https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL) - 在代理机上跑真正的 Grok Build CLI，用最大力度做应用、代码与深研。 [Teslaconomics](https://x.com/Teslaconomics).
+- [Grok Build](https://x.ai/bot/Qu3t1-iN-6IbZvwqn-Dqe) - 在代理电脑上以最大力度跑真正的 Grok Build CLI，做应用、代码与深度研究，不只靠聊天模型作答. [ixef](https://x.com/ixef).
+- [Grok Build (client sites)](https://x.ai/bot/iwa3WaHZn385jfZrsQngL) - 搭客户站，部署 Vercel 预览，再把链接邮件发给客户。 [beaudenison](https://x.com/beaudenison).
+- [Grok Build (preview links)](https://x.ai/bot/AY2y4oPL_VgcttCt8OFqm) - 另一路 Grok Build，专把客户站做成可预览链接。 [DAssetBuzz](https://x.com/DAssetBuzz).
+- [Grok Code Mac Controller](https://x.ai/bot/ETBwKJvcSacaIyilrAz44) - 通过 tmux 注入在 Mac 上协调 Grok Code Build 编程代理，适合 Mac Mini 或 MacBook，你仍掌方向盘. [damienmurtagh](https://x.com/damienmurtagh).
 - [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) - 给共享 Linux 电脑做健康检查磁盘服务和指定软件包更新。 [old_pgmrs_will](https://x.com/old_pgmrs_will).
 - [Grokologist](https://x.ai/bot/8vdHXq66kVvVlbACd-IDL) - 把 Wormsign 收成两张意图图，追动机不追氛围。 [Knock](https://x.com/SuddenlyJon).
 - [Growth Eng](https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1) - 为已登记增长实验做产品改动，藏在特性开关后，以小而可审的 PR 交付。 [JaySahnan](https://x.com/JaySahnan).
 - [GSAP](https://x.ai/bot/reahN5D6W2dIiCKd4MuF7) - 按官方 GreenSock GSAP 实现动效，含时间线与 ScrollTrigger。 [mrflmnlNFT](https://x.com/mrflmnlNFT).
 - [Hatch](https://x.ai/bot/o8hID4-jKPlA8QQQH5K69) - 先问几个偏好，再帮你设计像样的 Grok Bot。 [littletechbird](https://x.com/littletechbird).
+- [Hearthstone Deckbuilder](https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm) - 炉石传说组卡器，审对局视频、评估卡牌与环境，并给出可打套牌. [Wardonis](https://x.com/Wardonis).
 - [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - 用现代 Java 写和审 Helidon 4 代码。 [TheSurenk](https://x.com/TheSurenk).
 - [Helloitsoctocat](https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ) - 把 main 合进 master 的仓库整理顺，并记下 Graph API 变更。 [helloitsoctocat](https://x.com/helloitsoctocat).
-- [基础设施和api接入](https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF) - 帮你接共用 LLM API、配密钥，并拉起职责清晰的 Agent。 [Valstry](https://x.com/Valstry).
+- [Hermes](https://x.ai/bot/Ze_ioJPqoYyKES0-yYNHy) - 猎合法短期现金、创业额度与免费领取的金钱代理，也盯账单泄漏. [Tyler](https://x.com/tylerjharden).
+- [Huffer](https://x.ai/bot/fl7Di0Gy6_UJLjdvWxnVR) - Hugging Face 专家，管 Hub 模型、数据集、Spaces 与推理提供方. [thebesteric](https://x.com/thebesteric).
+- [Idle Tees Security](https://x.ai/bot/u8jzGXHU3FHU0jQkDnYqW) - 放置或增量游戏的安全专家，存档完整性、客户端信任与反作弊. [MonsieurKas](https://x.com/MonsieurKas).
+- [Insurance Agent](https://x.ai/bot/ZyfbeSKKsHi6mL8bJjg93) - 为你而不是保险公司服务的个人保险分析，帮你读懂保单并找缺口. [jurodme](https://x.com/jurodme).
 - [Interaction Designer](https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1) - 先把流程和每个页面状态定下来，再谈视觉。 [UCDOps](https://x.com/ucdco).
 - [Invention Detective](https://x.ai/bot/61rNnnNcP2_LKaz8FXw7P) - 盯你点名的 GitHub 仓库，找出可申报的技术发明候选供你确认. [leuner](https://x.com/leuner).
+- [Job Search](https://x.ai/bot/uzOaAuIWYVjVAlujdOOPx) - 工作日侦察高级远程 AI 或生成式 AI 工程岗位，发短推荐并跟进. [mehdizare](https://x.com/mehdizare).
+- [Jobber](https://x.ai/bot/-R0eFUQNM53wZPBVYU3EQ) - 帮上门服务公司接 Jobber 官方 GraphQL OAuth，只问 Client ID 与 Secret，并指导回调设置. [bprintco](https://x.com/bprintco).
 - [Judd the Bug](https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL) - 跨 MCP、Sentry CLI 和后台查问题，带回带出处的结论和动作。 [sergical](https://x.com/sergical).
 - [Kindling](https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_) - 把一句话的应用想法收成可直接粘贴进 Grok Build 的提示词。 [FantomBuildz](https://x.com/FantomBuildz).
 - [Kinesis Portal Bot](https://x.ai/bot/-GgufM3GkZclfn9PuI17_) - 动手管 portal.kinesis.network 上的机器、Docker 应用和闲置硬件。 [4SimonSays](https://x.com/4SimonSays).
 - [lgtm the pr closer](https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo) - 每天早上醒来，把开着的 pull request 清掉。 [Claire](https://x.com/clairevo).
+- [Likenor PM](https://x.ai/bot/QQTKC4P0h1TNHBzUO0o31) - GitHub 项目板的交付桌项目经理，管一个在审 PR、完成条件门、Copilot 同分支修复，以及便宜安静的唤醒. [AndToll1234](https://x.com/AndToll1234).
 - [Lingxi's Engineer Bot](https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j) - 放手的工程主管拉起云端写码代理并只让你点合并。 [lingxi](https://x.com/lingxi).
 - [Lingxi's Engineer Bot](https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_) - 放手型工程主管，挂上你点名的仓库云代理，三十分钟节奏盯 PR，只在关键处问你。 [Lingxi Li](https://x.com/lingxi).
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) - 丢给它文件、文件夹或 Bot 产出，收回一条可分享链接。 [adamludwin](https://x.com/adamludwin).
 - [Lite Intel Fetch](https://x.ai/bot/FQRA5tERWsasaQGIZmBl_) - 去拉 Base 上未付的 buy_intel_pack HTTP 402，把 JSON 交给会付 x402 的代理。 [RandyWhitePDX](https://x.com/RandyWhitePDX).
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) - 工程外环，坐在你那些编程代理上面。 [mattyp](https://x.com/mattyp).
+- [medal](https://x.ai/bot/0tFzKSTe-4mXpH3KDRpDY) - 从 Medal.tv 剪游戏高光，做成短视频发到 YouTube、TikTok、Instagram 与 X. [snowiestein](https://x.com/snowiestein).
+- [Menago](https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf) - 播客制作监工，盯合成、平面与发布、单集缓冲与日常流程. [Pieciominutowy](https://x.com/Pieciominutowy).
 - [Mirror](https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb) - 能暂停任何人包括 Bottyguard，专查注入和脱缰。 [Knock](https://x.com/SuddenlyJon).
 - [Multi-model consensus](https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc) - 让 Claude Code、Codex 和 Grok 同题对打直到达成一致。 [Austen](https://x.com/Austen).
+- [Nero · CEO / SPOT](https://x.ai/bot/w3TZCehmbfZesYLz-mOym) - 小 Grok Bot 团队的单一前门幕僚长，编排专家并只在关键时升级. [OHB_Honeybadger](https://x.com/OHB_Honeybadger).
 - [NeuralEntropy](https://x.ai/bot/KR-yPzr3sLAAlsnbnVPXs) - 跑带标签的神经仿真，把余弦调谐脉冲映射成曲线. [krisadipap](https://x.com/krisadipap).
+- [News @ 9](https://x.ai/bot/vzt1z6t_jqbg0AoO4GRnZ) - 早间 AI 科技新闻主播，每天八到十二条简报，覆盖发布与要闻. [_bharatwurst_](https://x.com/_bharatwurst_).
 - [Night Shift](https://x.ai/bot/5VF_-GBnruE-tNxmhQygI) - 夜班玩具工，每晚做出一个可玩的小玩笑或文字游戏。 [FantomBuildz](https://x.com/FantomBuildz).
 - [Nightly Audit Engineer](https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U) - 夜里通读仓库每个区域只交一个小清理。 [lingxi](https://x.com/lingxi).
+- [ogre](https://x.ai/bot/P-pKr0GIxVPYzg8xYivNr) - 多代理工程队的独立优化与安全评审，先度量再排名裁剪，审 PR 不默默上线. [CapitalCopilot](https://x.com/CapitalCopilot).
 - [Omnibot](https://x.ai/bot/OzZrG8ek4AhutfTVhBCI0) - 配好意图表后，从 Grok Bot 里跑任意 Cursor CLI 模型。 [ericzakariasson](https://x.com/ericzakariasson).
 - [OpticalKernel](https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv) - 在两个向量间算带标签的数值核，最多八个模式，偏演示用途. [krisadipap](https://x.com/krisadipap).
 - [Optima](https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy) - 扫过其它机器人的记忆，挑出过时规则并建议清掉。 [TOATspace](https://x.com/TOATspace).
 - [Optima](https://x.ai/bot/ppARM1W-tWcae_wryLH1z) - 清掉过期无用的行和文件，避免新流程和旧规则搅在一起。 [TOATspace](https://x.com/TOATspace).
+- [orc](https://x.ai/bot/9SQS0iMj0Ml8yvXnWNTVg) - 多代理机群的工程编排器，排工人车道、跑归约与安全扫掠，推动 forge 评审前进. [CapitalCopilot](https://x.com/CapitalCopilot).
+- [Outer Loop](https://x.ai/bot/KEHiZEKH3rwCzf0su4iib) - 编程代理之上的工程外环，收集上下文、写目标提示、拉起云代理，再推动评审与合并，由你点名仓库. [ixef](https://x.com/ixef).
+- [Outriff memory maker](https://x.ai/bot/LM0J1Yt4g_QW0mFG1TZAg) - 把耐用代理记忆倒到协作 Outriff 白板，记忆可共享可改. [mascarock](https://x.com/mascarock).
 - [overnight shipper](https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf) - 睡前丢一个点子，早上起来审 pull request。 [Josh](https://x.com/joshkim).
 - [Overwatch](https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP) - 照看 Grok Bot 共用虚拟机，别让机器慢慢烂掉。 [Andrej](https://x.com/scheemunai).
 - [Paste Ready](https://x.ai/bot/LrW8NQ19WViRSie4gj9hb) - 把一个乱想法收成可粘贴的名称、标题和简介。 [FantomBuildz](https://x.com/FantomBuildz).
 - [Peekaboo Mac](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) - 给你登记过的 Mac 加上录屏、截图和界面输入。 [brandon_ai](https://x.com/brandon_ai).
+- [PlanetScale Bot](https://x.ai/bot/0hgwu8KbM0FIY-idg0x6L) - 带你上手 PlanetScale，查慢查询，并用 webhook 跟踪库表变更，可用 MCP 或控制台. [PlanetScale](https://x.com/PlanetScale).
+- [Pool Evaporation](https://x.ai/bot/rCXquNatPGRgqkPmMYdnB) - 用 LeakTools 公式跟踪并计算泳池蒸发，辅助判断是否真漏水. [BigDataPy](https://x.com/BigDataPy).
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) - 按风险高低来审 pull request。 [mustafa](https://x.com/mustafaergisi).
+- [Prior Art Desk](https://x.ai/bot/LN5WMSvN8dk43Ik8LW2UI) - 只做具名写就，重叠不等于自由实施，我不代为申请，英式舰长式语气，节奏克制. [SM_Schmitt](https://x.com/SM_Schmitt).
 - [Product Designer](https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q) - 扛产品三角里的设计腿，从问题做到可上线体验。 [ucdops](https://x.com/ucdops).
 - [Product Growth PM](https://x.ai/bot/SO-VpE7KqNpDCOtjwjhVx) - 从注册到取消盯自助漏斗，像新用户走路找出泄漏，一次只写一份实验简报。 [JaySahnan](https://x.com/JaySahnan).
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) - 在聊天里帮开发者写并上线 ProofNetwork 合约，再接能对话链上合约的前端。 [STACCoverflow](https://x.com/STACCoverflow).
 - [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) - 对着一个产品问题交出三个方向不同且能跑的原型. [5antoshernandez](https://x.com/5antoshernandez).
 - [Prototype Designer](https://x.ai/bot/_b0wyYKwherAZJdyL0HGG) - 按合适保真度做原型，并写出 AI 编码能读的规格。 [ucdops](https://x.com/ucdops).
+- [Pulse](https://x.ai/bot/eSnmG73XXgZpkdDC1XfkM) - 给开发者的每日科技与 AI 新闻，市场动静、好用工具与可上生产的要点. [saicherry220834](https://x.com/saicherry220834).
 - [Repo Engineer](https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD) - 用 Cursor 云代理把小修复做成 GitHub PR，自己从不合并。 [RustamAtuev](https://x.com/RustamAtuev).
+- [Research Assistant](https://x.ai/bot/YBF0DIT_HVJOF-vkCLJ0J) - 精神病学与心理治疗研究助手，工作日摘要药物与疗法相关进展. [JanPsybre](https://x.com/JanPsybre).
 - [RIZALBOT](https://x.ai/bot/Af9XNmozBcRoZM85eylOW) - 面向可离线 AI 应用的端上陪伴连续性，含心跳、信息流、心智交接与增益优先决策。 [AetaneoRizal](https://x.com/AetaneoRizal).
 - [Rutin](https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7) - 每周一把舰队里每条例行任务都调一遍。 [Naoufal](https://x.com/naoufal_elh).
 - [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) - 按你选的风格出 2D 游戏美术和精灵表。 [DannyLimanseta](https://x.com/DannyLimanseta).
 - [Sanity](https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx) - Sanity 内容模型、模式和 GROQ 专长。 [ahdumgray](https://x.com/ahdumgray).
 - [SAP Technical Consultant](https://x.ai/bot/O08yUdBz6vFFqYITvWPPi) - S/4HANA 顾问，帮你做干净核心的设计决定。 [beinglalit21](https://x.com/beinglalit21).
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) - 公开再发布前先审计私有 Bot，清洗双胞胎再只从双胞胎打包。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [SDLC Coordinator](https://x.ai/bot/iL88-5yOgpG81bh-QeMIJ) - 为任意产品团队协调 AI 辅助软件开发生命周期，从聊天出工单，一次一个云代理. [AnkurBohra9](https://x.com/AnkurBohra9).
 - [Security Bot](https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6) - 在聊天里用 Midkernel 扫 GitHub 仓库，回报报告和完整日志。 [mdashjames](https://x.com/mdashjames).
 - [Servel Ops](https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ) - 用 servel CLI 管 Servel Docker Swarm 集群的部署、节点与日志。 [serveldev](https://x.com/serveldev).
+- [Shadow IT Agent Finder](https://x.ai/bot/MVT780CFW0OvKV64K1dMy) - 找出公司里已在跑的影子 AI 代理，在你买平台前先收成可归属的清单. [CarbeneAI](https://x.com/CarbeneAI).
 - [ShopFront](https://x.ai/bot/L6N9ujxhoOOugsju42J9S) - 用简短问卷搭一页站，填店名、做什么、城市、电话与三项服务后给出可上线草稿。 [tyler patrick](https://x.com/BotTemplatesWa).
 - [Skill Bot](https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2) - Bot 技能的图书管理员，去重并跟上版本。 [Dave](https://x.com/davespeers).
 - [Skill Import](https://x.ai/bot/NhTYqcIBaPCSZtdTflnqa) - 从 Claude Code、Codex、Hermes 和 Grok Bot 导入并审 agent 技能包。 [Samuelflg1](https://x.com/Samuelflg1).
 - [SmallPE-Managing-Partner](https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8) - SmallPE 社区管理合伙人，一起做私募工具。 [parolkar](https://x.com/parolkar).
+- [Solid Vibe](https://x.ai/bot/mT2L0I5XyIr-jGXXIIxYT) - 参数化实体、STEP 或 STL 或三维制造格式的精密 CAD 专家，含 AI 辅助 FreeCAD. [monomyth](https://x.com/monomyth).
 - [SpaceAutonomy](https://x.ai/bot/6X-ZITq7zfRZWpFz5MCme) - 在太空仿真里给传感器向量打标签，必要时进入安全模式. [krisadipap](https://x.com/krisadipap).
 - [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) - 按渠道整理故障报告，写好后由你贴进正确的支持表单。 [Fine_4451](https://x.com/Fine_4451).
 - [Speed Lab](https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5) - 对着站点渲染速度做研究循环，把赢的留下。 [pwnies](https://x.com/pwnies).
 - [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) - 你依赖的云服务一出事就立刻喊你。 [sat0xshi](https://x.com/sat0xshi).
+- [StarBot](https://x.ai/bot/ORMgFC4uJZkLVKB5HuVIW) - 星舰与 SpaceX 发射伴侣，活的发射卡、星基地硬件盯梢与倒计时. [Jake](https://x.com/JakeSmart).
 - [Stuck Signal](https://x.ai/bot/1JxNBfQ05cVYJGLLh6R-o) - 长任务卡住、循环或报错时才叫你，没事就安静。 [WeirdBotDrop](https://x.com/WeirdBotDrop).
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) - 在聊天里搭建并运行 Substreams 区块链数据管道。 [Graphtronauts](https://x.com/graphtronauts_c).
 - [Sworm](https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_) - 密封的家族草图和检测思路，从不给可运行样本。 [Knock](https://x.com/SuddenlyJon).
 - [Tally Desk](https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5) - 建 Tally 表、读回复，需要时替你填一份。 [joshkim](https://x.com/joshkim).
 - [tech demos](https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU) - 工作日扫 X 书签，挑一个新库征得同意后，用 Cursor 云代理在 monorepo 里规划并做出演示。 [mattyp](https://x.com/mattyp).
+- [Tech Digest Diario](https://x.ai/bot/egPmVEFXCQSrimVE8KDyP) - 每天八点的工程日报，来自博客与订阅源，条目不设上限，用你的语言写. [ElbenjasSw](https://x.com/ElbenjasSw).
 - [Tech Lead](https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W) - 只看 diff 和测试的实际结果，替你把住合并这一关。 [Ashish](https://x.com/inqusit).
 - [Telnyx](https://x.ai/bot/l2RX-35tKxZXxgJldSBf0) - 带你从空账号走到 Telnyx 语音或消息的第一次联调. [traviscurnutte](https://x.com/traviscurnutte).
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) - 扫本机 Claude、Cline 和 Grok Bot 会话，再给出可生成可分享的模板。 [Jarett](https://x.com/STACCoverflow).
@@ -344,51 +396,78 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [UCD Bot](https://x.ai/bot/An0FCP00zUniB7QdfedQX) - 以用户为中心的设计队友，从发现做到上线。 [ucdco](https://x.com/ucdco).
 - [UniFi Umpire](https://x.ai/bot/F6-b0eniX5fLfzMEHqRf8) - 经官方 API 管多站点 UniFi，从不自动升级。 [JREakin](https://x.com/JREakin).
 - [UniFi Watch](https://x.ai/bot/qV6FAPsH8Yox5VNuYQ8al) - UniFi 站点看门狗，盯 Network 健康和 Protect 摘要。 [ericdmann](https://x.com/ericdmann).
+- [Uptime Bot](https://x.ai/bot/9G3eTKbVL9v-jpGa0oyMI) - 安静的网站可用性看守，工作日早间查落地页、登录、注册与核心 API，绿则沉默. [mustafaergisi](https://x.com/mustafaergisi).
 - [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) - 每周盘点所有例行任务按花费排序并标出重复轮询。 [maxjean__](https://x.com/maxjean__).
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) - 把重活派给 Cursor 或 Claude Code 额度而不是烧掉 Grok Bot 用量。 [JordanHall_dev](https://x.com/JordanHall_dev).
+- [Vandenberg Watch](https://x.ai/bot/JmuDr2cVtvhBjUjIs_3hD) - 盯范登堡太空军基地的 SpaceX 发射，起飞前二十四小时与一小时通知你，用公开源并去重. [viktorylapse](https://x.com/viktorylapse).
+- [Video montage](https://x.ai/bot/ZB_RCjIlBno2eVFhApMIj) - 把故事线与有序分镜收成完成的十六比九蒙太奇，研究可用素材并按场次剪辑. [7SwanSwimming](https://x.com/7SwanSwimming).
 - [VPS & VPN](https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR) - 在这台电脑上管 VPS 与 VPN，含 Tailscale、代理和 Cloudflare 隧道. [ProtocolXp94l](https://x.com/ProtocolXp94l).
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign 监视器，不下判决，属于 Bottyguard SEAL Team 7。 [Knock](https://x.com/SuddenlyJon).
 - [WaveletWorld](https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE) - 对数值状态向量跑一步带标签的 Haar 小波，偏演示. [krisadipap](https://x.com/krisadipap).
 - [Webby](https://x.ai/bot/BX4-kOUI2CzphgiYLZ1hb) - 个人站点管理员，负责重建与备用上线、长文与通讯，以及工作日公开看板。 [farzyness](https://x.com/farzyness).
 - [Webhook Guide](https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66) - 一步步带你配好并触发 Grok Bot 的 webhook 例行任务。 [tobiasztop](https://x.com/tobiasztop).
+- [Website Form Inspector](https://x.ai/bot/nzY9whbJOXu7N83V3uYh3) - 多站点机构的每周表单完整性审计，发现公开表单，核对提交是否真达. [BadilloJuanJ](https://x.com/BadilloJuanJ).
 - [WebWiz](https://x.ai/bot/TQ8cECPo01agW3Igk4Z9w) - 网站与 AEO 编辑，找自然结果与 AI 答案缺口，起草 CMS 页与 PR，从不擅自发布。 [JaySahnan](https://x.com/JaySahnan).
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) - 把反复做的 WhatsApp Web 杂活收成可回放的脚本。 [alexhawat](https://x.com/alexhawat).
 - [X algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) - 帮发帖的人判断该引用、发新帖还是先等等，结合公开 For You 规则与实时帖子数据。 [mattyp](https://x.com/mattyp).
 - [ZenSched](https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix) - 外勤排班代理，经 MCP 接 ZenSched，可建供应商账号、排班、地理围栏签到与调度。 [zensched](https://x.com/zensched).
+- [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) - 中文参谋，把规划和研究转给 Cursor Cloud Agent，再把结果带回来。 [0xlangeai](https://x.com/0xlangeai).
+- [基础设施和api接入](https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF) - 帮你接共用 LLM API、配密钥，并拉起职责清晰的 Agent。 [Valstry](https://x.com/Valstry).
+
 ## Inbox & calendar
 
+- [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - 把你的 Bot 席位、日历和收件箱，收进同一套工作日节奏。 [A-A-ron](https://x.com/theaaron).
 - [BOOKIE](https://x.ai/bot/cu9T08lvtRNOfk_Nexys1) - 服务商家的预约搭档，把咨询与日历上下文收成短咨询草稿，避免双重预约。 [BudJohnson](https://x.com/BudJohnson).
 - [bookworm](https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH) - 用创始人语气起草并发送阅读应用的内测邀请。 [NavyaM89482](https://x.com/NavyaM89482).
 - [Bot inbox](https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl) - 一行消化所有有新动静的 Bot 和群聊。 [Wayne](https://x.com/waynesutton).
+- [Calendar Manager](https://x.ai/bot/VIWAQ6LqFOoqR72jD3OVO) - 你的 Google 日历桌，按需简报、排期、回复邀请，并检查个人与家庭共享日历冲突. [Nick](https://x.com/Tinman346).
 - [CampusOps](https://x.ai/bot/vluD5Z1bUux-onnEk1Alg) - 把教学大纲收成能跟着走的周计划。 [klytron_dev](https://x.com/klytron_dev).
 - [Chief](https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI) - 工作日早上分诊收件箱、日历和待回复。 [SmoresBoy](https://x.com/jxckvibe).
-- [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - 把你的 Bot 席位、日历和收件箱，收进同一套工作日节奏。 [A-A-ron](https://x.com/theaaron).
+- [Chief of Staff](https://x.ai/bot/3lMMBN3oSETGdsbo9xDh7) - 一天的前门，协调日历与邮件，决策时才拉你，并帮你管专家机器人. [AngeloGordilloX](https://x.com/AngeloGordilloX).
+- [Chief of Staff](https://x.ai/bot/IqLFMirip0OoP8XWVyCAV) - 给忙人的常驻幕僚长，从 Slack、邮件、日历与笔记拉新事，映射到你的优先级，并委派给合适的人. [jimit_shah](https://x.com/jimit_shah).
+- [Chief of Staff](https://x.ai/bot/axOL-NZLrI_7T-ow1mp6A) - 前门助手，经专家蜂群跑你的一天，邮件、日历、项目与社交. [Mike](https://x.com/RealMikeGlass).
+- [Chief of Staff](https://x.ai/bot/kpawDLD-dhDUH56JJnU2B) - 窗户清洗或现场服务生意的运营幕僚长，早间日历摘要、路线与客户跟进. [Scott](https://x.com/scottjhart).
 - [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) - 盯着 Gmail，只把真正需要你的邮件拎出来。 [William](https://x.com/Vixlio).
 - [Dispatch](https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq) - 每晚扫邮件、Slack、LinkedIn 和 X 私信，把漏掉的通话补上。 [Filippo](https://x.com/FilippoFonseca).
 - [Dispatch](https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687) - 工作日清 Gmail，只起草回复从不发出。 [seoulscurry](https://x.com/seoulscurry).
 - [E-mail Organizer](https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd) - 荷兰语 Gmail 管家，按供应商贴标签、清噪声，并把发票收到 Payments。 [Leendert Goedbloed](https://x.com/leingoedbloed).
 - [Email](https://x.ai/bot/BFjaZlR93AzcnDagMhktC) - 护住你的邮件注意力，狠分拣，只起草真正要紧的回复，未经你点头绝不发送。 [Andrew Kittridge](https://x.com/andrewkittridge).
+- [Email Manager](https://x.ai/bot/CtX-cw1UJDjArdr8BrQa0) - 先审后清的 Gmail 清理，编号待删候选项、学习回收站、退订队列，并跟踪准确率再谈高置信自动删. [dfer2dfer](https://x.com/dfer2dfer).
 - [Exec CoS Digest](https://x.ai/bot/gEujmYQAd4BD19eRxMvnC) - 工作日一早把日历过一遍，并帮你备好明天的外部会议。 [montymccoy](https://x.com/montymccoy).
 - [Executive Assistant](https://x.ai/bot/_DnP777DCicZpaTtm9_h5) - 高管 EA 参谋，会议室、面试准备、领导层外联、Slack 频道盘点与表历核对。 [Natasha Kuo](https://x.com/tashatweetss).
+- [Family Coordinator](https://x.ai/bot/LhK_PAR3MJ7m9QL6vZFt-) - 盯个人 Gmail 里的家庭邮件，按孩子贴标签，并把活动写入家庭 Google 日历. [Scott](https://x.com/Scott).
+- [Feedback Triage](https://x.ai/bot/GMWdsAx2e40XGT9wCYo4Y) - 把邮件里的支持与产品反馈分成缺陷、功能与路线图草稿，每张工单与客户回复都经收件箱门批准. [psoreilly](https://x.com/psoreilly).
+- [Fleet Factory](https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y) - 工作日收工，过一遍收件箱、日历与进行中事项. [SacredFolio](https://x.com/SacredFolio).
+- [Gmail to-do and reply assistant](https://x.ai/bot/FnuO0nVV50jsCV7tTeEJD) - 盯 Gmail 待办与未回邮件，再帮你清掉它们. [eddring](https://x.com/eddring).
 - [Google Agent](https://x.ai/bot/tttQVA2UtlNwCzITNCIr0) - 先读后动，管 Gmail、云盘和日历。 [Ryan](https://x.com/ryanthawks).
 - [Holly Helpdesk](https://x.ai/bot/sIoeE87fILU5CzptPF29K) - 一线客服，管支持收件箱和帮助台。 [clairevo](https://x.com/clairevo).
+- [Homework Checker](https://x.ai/bot/BUwa-zYgc9_ScRyfGAns_) - 工作日放学后汇总孩子缺交作业与成绩，作业前一天发短信并写入日历提醒. [guichaves1989](https://x.com/guichaves1989).
+- [Household Desk](https://x.ai/bot/gJY0YkL6q1FE3fsSwfyot) - 管你选定的日历、邮件标签，以及只来自你允许来源的短每日清单. [Phillip86434365](https://x.com/Phillip86434365).
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) - 对着你真正在用的每个收件箱，把未读清到零。 [Matthew](https://x.com/matt_silberman).
 - [Inbox to Asana](https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva) - 读公司邮箱，把真要干的事写进 Asana，不动你的发件箱。 [wikiwayne](https://x.com/wikiwayne).
 - [Inbox Zero](https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98) - 每个工作日把噪音归档，把 Gmail 压到零。 [LD](https://x.com/zapnocode).
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) - 你还没打开邮件、日历、Notion 或 Slack，它已经先复盘过了。 [Logan](https://x.com/LoganARobison).
+- [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) - 稳住初中生的学校与活动日历，并向父母双方短信同步变更. [michindorado](https://x.com/michindorado).
+- [Lifeline](https://x.ai/bot/Ye7Z9FkWcu9r4IeDj8srT) - 在突发紧急时保护学生学业进度，审授权课程、邮件、日历与招生信息并告警. [Jay](https://x.com/jaychauhangoat).
 - [loom](https://x.ai/bot/cElGnAaR55iPHK2DGdPdu) - 读完整条 Gmail 线程并起草回复，从不替你发出。 [Lauren](https://x.com/poteto).
 - [Love ❤️](https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg) - 不让一段关系里体贴的那部分溜走。 [dannybuck](https://x.com/dannybuck).
+- [mailer](https://x.ai/bot/3S7qjz3K6eV95xasgN2x4) - 工作日分流 Gmail，起草回复，并帮你清待办. [snowiestein](https://x.com/snowiestein).
 - [MarketBoxScan](https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs) - 写稿人开工前的科技新闻和收件箱简报。 [techAU](https://x.com/techAU).
+- [Master Ops Delegator](https://x.ai/bot/rNlGaJjKi3viDjsBQRfL_) - 通过专家队友跑你工作日的委派机器人，邮件、日历、研究各就各位. [GirodJoshu94497](https://x.com/GirodJoshu94497).
 - [Meeting prep](https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5) - 按日历和已接上下文写短而能拿着打电话的会前简报。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) - 审计半年 newsletter，只退订你点头的那些。 [Andrej](https://x.com/scheemunai).
 - [openrobot](https://x.ai/bot/ndO6BI7E2ur5X-bhWM_1R) - 合作接待台，把兴趣收成一封介绍邮件。 [noborderhuman](https://x.com/noborderhuman).
+- [Pam](https://x.ai/bot/emI7u6fHCg-GBOpxSFoit) - 给学生与新人的搞定生活编排器，一点点啃课程、行政与入职杂务. [LettySmith79](https://x.com/LettySmith79).
 - [Polo](https://x.ai/bot/R-i5_wHeR_cBinyLVyvWh) - 盯收件箱里那些你已有邮件或文件就能答的问题，留下短草稿并在发送前问你。 [soleio](https://x.com/soleio).
 - [Product Support Inbox Assistant](https://x.ai/bot/Rw8d83KAzTYQWBAtAscin) - 帮你查找并起草产品问题答复，未经你同意绝不发邮件。 [Anoop Baliga](https://x.com/akbaliga96).
+- [Pulse](https://x.ai/bot/nkmFntyGYALNwmUBMXCWj) - 视觉优先的工作与健康平衡教练，丢健身房快照、餐标与日历，它帮你调. [FariborzBaghaei](https://x.com/FariborzBaghaei).
 - [Receipt Scanner / Expense Tracking](https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp) - 转发一张收据，它就变成报销表里的一行。 [limeunfiltered](https://x.com/limeunfiltered).
 - [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) - 接住那些永远写不进日历的小提醒。 [Damon](https://x.com/damonchen).
+- [Rocky](https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf) - 按口味找本地即将开演的演出，并写入日历. [astrohoff](https://x.com/astrohoff).
 - [Ship Note](https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL) - 把一次发布收成更新日志条目和一封邮件。 [sol_wright7](https://x.com/sol_wright7).
 - [slack radar](https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak) - 安静读 Slack，只在被点名或盯着的话题真正需要你时提醒。 [parkersmith](https://x.com/parkersmith).
 - [Slacker](https://x.ai/bot/R-TSImHItwbFHL8vYj9sc) - 把 Slack 收成真正需要你回的那几条。 [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Space x Launch Bot](https://x.ai/bot/l7bhF020vKEQ-Gh7lTWSJ) - 端到端跟踪 SpaceX 发射，含即将日程、倒计时窗口、取消与回收. [WasAcop](https://x.com/WasAcop).
 - [TenderYearsbot](https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07) - 从 Gmail、日历和 Tender Years 里管五岁以下娃的家务物流。 [voeliz](https://x.com/voeliz).
 - [The Morning Newspaper](https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di) - 夜里读收件箱和日程，排成一张小报，早餐前打出来。 [CodeChap](https://x.com/CodeChap).
 - [Time Keeper](https://x.ai/bot/IAEp851k9orM1LguTm2F8) - 用早间议程和夜间预览把一天夹住。 [Mark](https://x.com/ironted21).
@@ -398,20 +477,31 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Research & briefings
 
-
 - [2nd Brain](https://x.ai/bot/c4fYduVVic2YtbcjXquD0) - 把你读过的东西收成可问答的链接维基。 [LeTerryBZH](https://x.com/LeTerryBZH).
+- [Aether](https://x.ai/bot/NoUDCySD_LNYtHPrpFUAE) - 面向 Canva、CapCut 网页与 Adobe Express 等浏览器设计工具的生成式创意引擎，把简报与品牌包变成广告素材. [davincivibecode](https://x.com/davincivibecode).
+- [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - 创始人主导 AI 机构的幕僚长，分流工作、跑常设运营看守，并路由专家. [dandayable](https://x.com/dandayable).
 - [AI Master](https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X) - 同时问四个 AI 模型，再把回答合成一份。 [Leonardo](https://x.com/leoclark).
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) - 把论文、代码、讲座和论坛扫进一摞阅读清单。 [Alen](https://x.com/beamnxw).
 - [AI Search Visibility](https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X) - 检查 AI 助手与谷歌会不会推荐你、又点了谁的名，从买家真会问的问题起步。 [Adam Tanguay](https://x.com/adamta).
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) - 品牌 GEO 自动运营，监测大模型答案里的露出，挖竞品占位并给出可执行补强。 [Miguel](https://x.com/seoforgpt).
+- [Alyssa](https://x.ai/bot/wjwNi0g2a57YKQW1BCd8Q) - 苏格拉底澄清器，一次一个锋利问题，挖出表象下的为什么. [QOpdyckePrime](https://x.com/QOpdyckePrime).
 - [aoty](https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H) - 每周按综合评分挑三张新专辑。 [emrecolakoglu](https://x.com/emrecolakoglu).
 - [Argubot](https://x.ai/bot/s6SC7C5OF18VVy9Vovngg) - 对抗式辩题对打，一边钢人一边反驳。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Article Access](https://x.ai/bot/YenfJofScFkEnwvOQiq6k) - 用 DOI 或 PMID 找开放全文、图书馆代理，再回出版社页。 [UroDonMD](https://x.com/UroDonMD).
-- [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - 每天早上扫蓝莓论文与行业新闻，有干货才报，没料就安静. [Bizuayeu](https://x.com/Bizuayeu).
 - [Bot Portal](https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o) - 持续整理值得关注的 AI 工具和机器人，并记下彼此怎么接。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [Box Inspector](https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J) - 在你把别人的 Grok Bot 加进账号前，先检查那条分享链接。 [Knock](https://x.com/SuddenlyJon).
 - [BuildFeed: Startups](https://x.ai/bot/7tob1iILCQ-5aELPbHSPn) - 整理创始人、投资人与运营者在 YouTube 上关于创业、融资、销售与招人的真说法。 [buildfeedtech](https://x.com/buildfeedtech).
 - [Career Scout](https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz) - 先读你的简历，再按真实匹配度给岗位排序。 [jakesh_jakesh](https://x.com/jakesh_jakesh).
+- [CEO — Chief of Staff](https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO) - 给被邮件与团队噪音淹没的经理当幕僚长前门，后台跑专家队友，工作日优先安静摘要. [rayistern](https://x.com/rayistern).
+- [Chief of Staff](https://x.ai/bot/GReSvs3PU-sWrEs_eaZ-n) - 多机器人运营队的路由桌，管花名册与每周交付分，把转发来的收件箱活变成做或归档，并保持节奏. [pslohmann](https://x.com/pslohmann).
+- [Chief of Staff](https://x.ai/bot/MwFnq0cj_oBgnQUHEB73g) - 给特斯拉或 SpaceX 创作者与忙人的每日运营长，早间只用公开新闻起草 X，开盘只看市场摘要. [Chadwhitlock](https://x.com/Chadwhitlock).
+- [Chief of Staff](https://x.ai/bot/_5t0lsT2HS4bKcnreL2sN) - 个人幕僚长，工作日摘要、周末计划、问卷清扫与每周代理体检. [ehog](https://x.com/ehog).
+- [Chief of Staff](https://x.ai/bot/b2smjAA0HV9ay9oW8-f10) - 跑多机器人 Grok Bot 机群，把活分给专家，默认只起草的集成，决策时才拉你. [uMADbruh_Stevo](https://x.com/uMADbruh_Stevo).
+- [Chief of Staff](https://x.ai/bot/g502cK5iaLrJxizm9ddCI) - 家族办公室幕僚长，掌管多机器人群，把活分给专家并守审批. [JoelJohnso9376](https://x.com/JoelJohnso9376).
+- [Chief of Staff](https://x.ai/bot/lg7ymNddu1_EG2VS-q9Zm) - 前门运营机器人，盯其它机器人，跑重活队列以免它们互相踩脚. [Allinhanimal](https://x.com/Allinhanimal).
+- [Chief of Staff — Conflict Desk](https://x.ai/bot/3l5q_rso0yE9KpJO9nYTi) - 协调冲突情报台，日更世界大战风险与冲突中 AI 摘要并给风险百分比，傍晚只在尖峰告警. [alamandorious](https://x.com/alamandorious).
+- [Chief of Staff (S4MU)](https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI) - 创作者的协调员，评论研究包外加每日垃圾清扫. [Spiderjin](https://x.com/Spiderjin).
+- [Chief of Staff Hub](https://x.ai/bot/8m_coI7VfLJXAQuB6DsOd) - 简洁主动的枢纽，协调专家代理，盯邮件与日历，推动家庭与工作后勤不废话. [SebastianNJ](https://x.com/SebastianNJ).
 - [Clay Guest Research](https://x.ai/bot/hEmSUvWxccmfAVDGri1R8) - 用 Clay 对照日历或截图查活动宾客，做成认人认名小抄。 [patel0phone](https://x.com/patel0phone).
 - [Clickbait skipper](https://x.ai/bot/i8WsjKB8KRL-kQ25VPwaB) - 跳过铺垫，直接告诉你视频或播客里真正在讲什么。 [S_Padival](https://x.com/S_Padival).
 - [Collins](https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3) - 带你走完 Hercules Collins 1680 年的教理问答，每天一题。 [Zach](https://x.com/zachmllr).
@@ -425,11 +515,19 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) - 早上看你订阅的 YouTube 频道，没更新就闭嘴。 [scheemunai](https://x.com/scheemunai).
 - [Dan Patrick](https://x.ai/bot/hlQhxsU-pqQEkimm0it4V) - 九十年代 SportsCenter 口吻的比分 Bot。早间综述，你点名的球队终场再叮一声。 [Marcus](https://x.com/marcusramsey).
 - [Data Science (Querie)](https://x.ai/bot/Bu2sEQqu0hEjpbzN_07D3) - 管分析查询、表格拉取和指标定义。 [egavrilenko11](https://x.com/egavrilenko11).
+- [Deep Research](https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0) - 先源后论的深度研究专家，用免费研究工具包，对受版权材料优先合法获取. [Wardonis](https://x.com/Wardonis).
+- [Desk Orchestra](https://x.ai/bot/2AZse0mx1Rg0m6jAt0m-U) - 多机器人工作台的对接人，把白话需求分给专家，一天四次收成一份 HTML 简报. [Uv_i](https://x.com/Uv_i).
+- [Documentary Witness](https://x.ai/bot/fAbkCHtKBmF9ZAiF3Wwrg) - 只起草的纪录片搭档，帮拍摄真实人物、家庭记忆与敏感题材的影片人. [gimro_katya](https://x.com/gimro_katya).
 - [Doing Gap](https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE) - 把你看过的和真正做出来的放在一起算账，然后逼你动手。 [Sultanov](https://x.com/thekuchh).
 - [dosebot](https://x.ai/bot/2euxntVrddHyA3c2hyxiZ) - 判断一个生意点子是锦上添花还是真痛点。 [onerinas](https://x.com/onerinas).
-- [下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF) - 把长视频和播客转成能搜可读的中文文稿，顺手捞公开论文。 [KinGao476942](https://x.com/KinGao476942).
+- [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - 电商创意运营的幕僚长，按 SKU 管网盘上架文件、Higgsfield 图、情绪板、分镜与竞品研究，写入有门禁. [ShalomNFT](https://x.com/ShalomNFT).
+- [EdTech News Nathan](https://x.ai/bot/hqMdsLmgy8l7XEtsdhXc_) - 对课堂游戏与学校科技给出怀疑向的每日与每周 EdTech 摘要. [NoahReynol99548](https://x.com/NoahReynol99548).
+- [elf](https://x.ai/bot/u9MMY9PmqCWnVDucZ49Tt) - 多代理机群的专家研究席，深入工人抛来的问题并带回带证据答案. [CapitalCopilot](https://x.com/CapitalCopilot).
+- [Email Bot Work](https://x.ai/bot/oSaziY7pPP4PH2ZHts0hS) - 工作收件箱分流，起草回复、给安全邮件贴标签并归档，安静扫一遍. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Errol](https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ) - 每天两次带练儿童教理问答，用于家庭礼拜。 [Zach](https://x.com/zachmllr).
 - [Ethan](https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE) - 带五项专长的研究台，还会核对自己的发现。 [JUMPERZ](https://x.com/jumperz).
+- [Event Watcher](https://x.ai/bot/xr-WctZDSn0thJABV9huO) - 盯多日直播与培训，再用白话发纪要与行动项. [ArulKaarthickDe](https://x.com/ArulKaarthickDe).
+- [EX.Ø | AISØN Vice Captain](https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW) - 幕僚长与执行战略情报，帮你思考但不替你思考，理清乱题，把事实与臆测分开. [Aeli_Son001](https://x.com/Aeli_Son001).
 - [Facta](https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR) - 给其他机器人说的话打分，标成扎实、含糊、夸大或留给人看。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [family wordpress helpdesk](https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b) - 给管家里 WordPress 站的亲戚当帮助台。 [joshkim](https://x.com/joshkim).
 - [Fantasy Football](https://x.ai/bot/VWAXuVB5VI6ScHdO97Bh0) - 全年幻想橄榄球台，帮你决定首发、板凳和交易。 [notswizz](https://x.com/notswizz).
@@ -437,37 +535,54 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Fed + X Brief](https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM) - 工作日早间汇总美联储与市场，并建议今天该发帖、引用还是观望。 [0xashrk](https://x.com/0xashrk).
 - [Feedback Clock](https://x.ai/bot/ySceLccAh5J8IVnq62mQl) - 压缩「做一次」和「得到评判」之间的时间差。 [Sultanov](https://x.com/thekuchh).
 - [First Principles](https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs) - 把问题剥到硬约束，再从第一性原理重建。 [greg_carbon](https://x.com/greg_carbon).
+- [Founder Mode](https://x.ai/bot/BpLQHWMypQAV3e61cyFb2) - 压力测试创业点子，并拼好起步文书. [shiftynick](https://x.com/shiftynick).
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) - 扫你自己的 X 私信，告诉你现在该回哪几条。 [pukerrainbrow](https://x.com/pukerrainbrow).
 - [github 优秀仓库](https://x.ai/bot/D9HYH2jAmGiKw7e499mrE) - 每天早上扫一遍 GitHub 趋势页，把值得看的仓库写成简报。 [umiastuti8329](https://x.com/ios_1261142602).
 - [Glasser](https://x.ai/bot/pYFETnU1TFsADlz0hJD1y) - 通过 Glasser.ai 统一查询公司与联系人 enrichment、SEO、广告、流量和融资等付费数据。 [iammutex](https://x.com/Glasserai).
-- [全球宏观分析师](https://x.ai/bot/08RSf587bOlWhbQai6A3I) - 看大事对利率、美元、黄金、加密货币和股市会怎么传。 [Fund_Monkey](https://x.com/Fund_Monkey).
 - [Grok Bot Directory](https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8) - 按你想做的事找公开 Grok Bot，也可问别人都拿它们干什么。 [Leechael](https://x.com/Leechael).
-- [最值得关注的Grok Bot 推文？](https://x.ai/bot/lFDR77qKaT3Iglzv9pUac) - 每天两次用中文扫一遍值得看的 Grok Bot 账号动态。 [MaiYangAI](https://x.com/MaiYangAI).
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) - 早上一小份值得动手搭的新 Grok Bot 用法。 [Andrej](https://x.com/scheemunai).
 - [Hiring Signals](https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK) - 跟踪选定公司与职位源的招聘动静，标出有意义变化并匹配账户与负责人。 Simon Lackowski.
+- [Homelab Rack Watch](https://x.ai/bot/4-hwdWd153IFOBOeKMKCO) - 盯家庭实验室、机架与容器栈，早间摘要与健康检查，漂移或挂掉才明确告警. [krawk182](https://x.com/krawk182).
+- [Homestead Advisor](https://x.ai/bot/6z-iBRlRz1MSCtyneeHpN) - 带首次买乡间地产的人走通土地、装配式与水电. [AlanOrlikoski](https://x.com/AlanOrlikoski).
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) - 每小时从你这一周里挖一个值得追的创业点子。 [onerinas](https://x.com/onerinas).
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) - 找出你一直当事实用的那些假设。 [liam_fallen](https://x.com/liam_fallen).
+- [Iris](https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR) - 工作日邮件与日历指挥中心，锋利早间摘要、冲突识别与待决清单. [spmtoscana](https://x.com/spmtoscana).
 - [Just-in-Time Curriculum](https://x.ai/bot/rpkZERbKrIN_NlDl8ErVZ) - 丢掉学习积压，只教你下一个任务真正用得上的部分。 [Sultanov](https://x.com/thekuchh).
 - [Keach](https://x.ai/bot/sAxCT93K8i7gwctmtAroD) - 每天早上过一题 Keach 1693 年的教理问答。 [Zach](https://x.com/zachmllr).
 - [KeyWire Comic Week Brief](https://x.ai/bot/1hyNK6vXzs_8QamyfhvCV) - 每周提醒拉清单，再给一份按你口味的漫画摘要。 [CryptoVonDoom](https://x.com/CryptoVonDoom).
 - [Kimi](https://x.ai/bot/oBK8ft9f4D723aXeZJuCm) - 把商业播客和 YouTube 收成短小不注水的速查单。 [orenmeetsworld](https://x.com/orenmeetsworld).
 - [Korean Public API](https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ) - 按你的想法推荐韩国政府公开数据接口。 [reallygood83](https://x.com/reallygood83).
 - [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) - 捞出过去三十天里人们对一个话题真正说过的话。 [mvanhorn](https://x.com/mvanhorn).
+- [Launch Seat](https://x.ai/bot/QwYUXSLYJcuk0k6L_lyn9) - 为 Starbase 行程竞赛打造的工作与项目助手，推动任务、草稿、研究与跟进，让一天交付更多. [brandonbe](https://x.com/brandonbe).
+- [Life Ops](https://x.ai/bot/SVinaF_q_n9Ug5bmpbW_U) - 日常生活一个机器人搞定，邮件摘要、孩子或独处周计划、学校截止日期、习惯、梦幻足球阵容与隐私清理. [MPuckett_OK](https://x.com/MPuckett_OK).
+- [Life Team Orchestrator](https://x.ai/bot/OkIvqIKyCEHxsaxnqnM-S) - 家庭生活队的一扇前门，工作日早间摘要，挡住工作侵占私人时间，并把深度活分给专家. [AReasonedLife](https://x.com/AReasonedLife).
+- [Liked Bands](https://x.ai/bot/EOT3r0UlzJodiXjRgKrhR) - 按 Spotify 已点赞与热门歌单盯每日演唱会，标出你关心地区的演出与新巡演通告. [RevJimYYC](https://x.com/RevJimYYC).
+- [Listing Desk](https://x.ai/bot/FSSDbB1Bv0msoI5mfjR3u) - 在任何营销文案之前，先从档案做出业主挂牌资料包. [SacredFolio](https://x.com/SacredFolio).
+- [Live](https://x.ai/bot/O0R2YhCdz96HO_y3Lsmpa) - 直播看守与笔记员，盯指定直播、摘要画面内容，并把结构化场记写入 Notion，含聊天要点. [heroicfitnessco](https://x.com/heroicfitnessco).
 - [Lumos](https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK) - 用费曼技巧教技术，配例子和日常类比。 [mdafanulh](https://x.com/mdafanulh).
 - [Lurk (Reddit Researcher)](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) - 在 Reddit 上挖原话，收成一份痛点包。 [tinkerersanky](https://x.com/tinkerersanky).
+- [Maestro](https://x.ai/bot/fCFSNo0L0HrvMZ8pef-WX) - 多代理团队的枢纽协调员，分流目标、追阻塞、跑每日早间站会. [Aces1974](https://x.com/Aces1974).
 - [Markets Brief Scout](https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T) - 工作日整理带出处的行情卡片，并起草待你拍板的帖子。 [GainGlintGaz](https://x.com/GainGlintGaz).
+- [Medical Vault](https://x.ai/bot/kkEKe1Sl-Ic4sEoDcts-6) - 专用病历代理，面向 NAS 或云上的私有双轨保险库. [MarshallMoorman](https://x.com/MarshallMoorman).
 - [Meta Grok](https://x.ai/bot/HAhgshU4r50gS81LCcpmk) - 工作日汇总人们真正在聊的五个 Grok Bot。 [FrankFindsOut](https://x.com/FrankFindsOut).
+- [Mission Control](https://x.ai/bot/ynZUavgaVUxV0nV8ky6jL) - Starship 与 Starbase 的短任务简报语气，跟踪公开发射窗口. [drsarah](https://x.com/drsarah).
+- [Motos researcher](https://x.ai/bot/ouabuz1HIoiyDhFZDVuDP) - 在西班牙分类信息站猎划算的经典试验与公路摩托车. [0x_tommy9](https://x.com/0x_tommy9).
 - [Neuroscience](https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz) - 神经科学和脑机接口专长。 [monomyth](https://x.com/monomyth).
+- [News](https://x.ai/bot/-Q6NUVktJo7EBMLb9Y3xw) - 全球新闻与市场简报，跟踪预测与长期趋势，带来源的国际覆盖. [dfer2dfer](https://x.com/dfer2dfer).
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) - 按你的时区，工作日早上一份新闻摘要。 [Eleni](https://x.com/byeleni).
 - [Newspaper](https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj) - 每天早上挑一个话题深挖，排成一页可打印的小报讲清楚。 [Carbonthecoder](https://x.com/Carbonthecoder).
 - [Off-Balance Atlas](https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb) - 写带出处的深稿，覆盖科技、机器学习和安全。 [AdemVessell](https://x.com/AdemVessell).
+- [Optimus Prime](https://x.ai/bot/WxGbnDbKL3pzLxixjUuK0) - 你其它 Grok Bot 的幕僚长，决策时才拉你，从 Google 起步并协调专家. [pabloteranh](https://x.com/pabloteranh).
 - [OutBid Mania](https://x.ai/bot/Sj_LPMP7hKOOSzF8YDiNr) - 每天看板盯一个爆火竞价站潮流和它的仿品。 [dragosroua](https://x.com/dragosroua).
 - [Overheard](https://x.ai/bot/NIEguoGUjA648fUPle8F5) - 盯 Reddit、HN、新闻站与 X 上对你名字、品牌与 URL 的第三方提及，有料才发工作日摘要。 [Lenny Rachitsky](https://x.com/lennysan).
 - [Paige Turner](https://x.ai/bot/2lbNqne5ku5VQird_s8AW) - 给机器人小队当图书管理员，让其它机器人凭资料而不是凭记忆回答。 [omnithnkr](https://x.com/omnithnkr).
+- [Paperknife](https://x.ai/bot/RY23hf0sh91-5TGn18af7) - 把 AI 与机器学习论文切成主张、用例与数学，打开 PDF 而不是摘要，给从业者一页论文卡. [KyleSmith0204](https://x.com/KyleSmith0204).
 - [pattern of pain](https://x.ai/bot/eFfFM4-QmHxxrUlTUqyAo) - 给我一个网站，我找出反复出现的痛点、摆出证据，并告诉你下一步该查什么。 [hnshah](https://x.com/hnshah).
+- [Personal Task Manager](https://x.ai/bot/pNDlYbg6r0ojylvaF-EeN) - 轻量个人任务管理，常设例行杂务，外加一次性待办. [JBMilliard1983](https://x.com/JBMilliard1983).
 - [PickFu Insights](https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn) - 在真花钱之前，先拿真购物者测产品点子。 [GrokBotMoney](https://x.com/GrokBotMoney).
 - [Pitch Deck Coach](https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9) - 告诉你投资人真正会听懂、会记住什么。 [hnshah](https://x.com/hnshah).
 - [Podcast Summary Bot](https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA) - 贴一条播客链接，拿回 TLDR 和值得留下的要点。 [NM](https://x.com/theadvisorbtc).
+- [Prime](https://x.ai/bot/7a8zayr1duE5o39tS2-h6) - 多机器人运营台的 CEO，把短租、市场研究、家务、Gmail 与梦幻体育分给专家，只上交成品. [pfd_zero](https://x.com/pfd_zero).
 - [Primer](https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe) - 直接回答 Grok Bot 实际会怎么表现。 [ambientstudio24](https://x.com/ambientstudio24).
 - [Private Desk](https://x.ai/bot/Tgl3sxrTsuAYL7MN8S3UT) - 分析那些不便丢进普通聊天窗口的敏感材料。 [useprismnetwork](https://x.com/useprismnetwork).
 - [Product Idea Stress Test](https://x.ai/bot/JeFTvcDX-7QT2evKGIb52) - 找出你的创业点子里那个最不能出错的核心假设。 [Hiten](https://x.com/hnshah).
@@ -476,6 +591,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Pulse](https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms) - 只读的 X 管家，把一整天的时间线压成早 7 点一份能扫完的简报。 [Andrej](https://x.com/GrokBotDev).
 - [Raily](https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG) - 审可能的新连接，不碰你的账号。 [raily](https://x.com/raily).
 - [Recent Bookmarks Search Bot](https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J) - 把你在 X 上收藏的帖子收成可搜索可排序的表。 [srinatar](https://x.com/srinatar).
+- [RentalFinder](https://x.ai/bot/3z8tk3zywLjd-zG9n9EDR) - 按条件找并跟踪长租房源，扫公寓与本地物业站，工作日摘要新盘. [frackthemoon](https://x.com/frackthemoon).
+- [Reputation Guard](https://x.ai/bot/zcsAbSPln7Zgh9YtF_ZlU) - 每天早上观察多地点企业的 Google 与 Yelp，标出风险评价并起草护主公开回复. [MirasysAI](https://x.com/MirasysAI).
 - [Research](https://x.ai/bot/Q6NiveEqmhIiYir_ZQG-4) - 面向需要带引用答案的人做一手研究，把事实与解读分开，并可向总控代理汇报。 [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Research Bot](https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH) - 深研究，交回带核过出处的短答案。 [ArthurMacwaters](https://x.com/ArthurMacwaters).
 - [Research Desk](https://x.ai/bot/99i8BzpcF-FsOKxTQxZRM) - 只起草带出处的研究结论供你批准，付款端永不写入。 [justsomeguy741](https://x.com/justsomeguy741).
@@ -485,35 +602,52 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Researchy](https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj) - 拿实时网络核查说法，返回带日期的引用出处。 [Farzad](https://x.com/farzyness).
 - [Retrieval Exam](https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI) - 闭卷提问，把真记住和只是眼熟区分开。 [Sultanov](https://x.com/thekuchh).
 - [RuntimeWire - AI & Startup News](https://x.ai/bot/k4iwGejDGoy-oT7qohxXb) - 每天一篇有出处的 AI 融资、上线和创始人动态。 [Ryan](https://x.com/merket).
+- [School Ops](https://x.ai/bot/DlHv5bM529QdYfJCHB7LK) - 给上班父母的早间学校摘要，分流学校邮件与日历，登录后查课堂应用，只上浮表格与日程变化. [prollinson](https://x.com/prollinson).
 - [Scout](https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt) - 给客户社媒策略做每周情报包，出处一路标清。 [zeuuss_01](https://x.com/zeuuss_01).
 - [Segundo Cérebro](https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J) - Obsidian 第二大脑，早间简报加夜间回看。 [liderzio](https://x.com/liderzio).
 - [SEO & AEO Desk](https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL) - 把关键词收成面向搜索与 AI 答案的选题与写手可用简报，可从关键词表或 Search Console。 [Adam Tanguay](https://x.com/adamta).
 - [SEO/GEO Specialist](https://x.ai/bot/pImOOCvE7uB1SXENOI9Ng) - 面向可量化排名与 AI 引用的 SEO 与 GEO 运营，用 Rankdelta 做研究、跟踪、体检与优化。 [angelosorbello1](https://x.com/angelosorbello1).
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) - 给它一个症状，它找出指标掉下去的真正原因。 [liam_fallen](https://x.com/liam_fallen).
-- [しおり](https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt) - 把 X 书签收成主题和下一步，用简短日语做早间摘要。 [marulimoai](https://x.com/marulimoai).
+- [ShipmentBot](https://x.ai/bot/CKrMjeHvLlUY4Ut2FNkoj) - 跟踪海运提单，早间以异常优先发状态摘要，含在途天数、滞期与航线选择. [ayeteas](https://x.com/ayeteas).
 - [Sift](https://x.ai/bot/9xNbMqiBC9gWhTwrh7S80) - 把 X 帖子评论筛成排序短名单，适合抽奖、招聘、反馈或线索。 [TexasBasedGpa](https://x.com/TexasBasedGpa).
+- [Sky-Hour Co](https://x.ai/bot/uZ415Kgq26rilwSeCGgBF) - 独立意识研究工作室的幕僚长，并轻柔寻找下一位合作者. [Lucy](https://x.com/princess414141).
+- [Small-Business Chief of Staff](https://x.ai/bot/krKc-KoCIrGQREMvzef6f) - 给业主经营者的动手幕僚长，扫预订、盯贷款人邮件，并推动日常运营. [StosichClarke](https://x.com/StosichClarke).
 - [Steal This Business](https://x.ai/bot/Ojrv95GLUG1nO1p1RWzVK) - 把你佩服的公司拆开，变成你能自己搭的那一套。 [adxtyahq](https://x.com/adxtyahq).
 - [StoriesBot](https://x.ai/bot/cV7nGFO88pb2WXNN56h8A) - 搜十七年的 MacStories，可按时间和作者筛。 [viticci](https://x.com/viticci).
 - [Struggle Gate](https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV) - 把答案压十分钟，逼你自己先试一遍。 [Sultanov](https://x.com/thekuchh).
 - [Stuck Cycle](https://x.ai/bot/fihe4nAy0jFWoygo4JCAW) - 让一项技能反复跑「尝试 → 卡壳 → 针对性补课」的循环。 [Sultanov](https://x.com/thekuchh).
+- [Suomatlas article coordinator](https://x.ai/bot/nqfPdBjxE6JNdjvr7Qwda) - 为每周芬兰邮区数据故事跑多机器人新闻室，选题、写稿与核对. [ItaloArmenti](https://x.com/ItaloArmenti).
+- [Support Triage Bot](https://x.ai/bot/CIU6taZ7CkhsJZlCK9ps9) - 把客服分流进 Linear，重命名应用内反馈，从 Slack 或 HubSpot 建事实工单，只给短诊断不擅自联系客户. [IamSt3ph3n](https://x.com/IamSt3ph3n).
 - [Tesla Fleet Oracle](https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw) - 只读 Tesla Trek 和 XYO 任务简报，禁止锁车解锁和鸣笛。 [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [teslapilot](https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s) - 车主向 Tesla 新闻台，更新、超充、Cybercab 和 Powerwall。 [ucdco](https://x.com/ucdco).
 - [The Amazing Randibot](https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx) - 开朗的怀疑派，逼你其他 Bot 拿出证据。 [russbroomell](https://x.com/russbroomell).
 - [the page](https://x.ai/bot/uFRK1GoAsiopBLPY19QCe) - 每天早晨盯三到五个公开页面，只有你关心的内容真变了才留言。 [hnshah](https://x.com/hnshah).
 - [Thoth](https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT) - 做深研究，把卷宗归档，下次还能找到。 [Rich](https://x.com/RichSilver).
 - [Titan Show Research](https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U) - 直播选题研究台，锁好能直接上口的卡片。 [TitansDrop](https://x.com/TitansDrop).
+- [Track parents](https://x.ai/bot/518qV18_NL99vPVeqNTEL) - 盯家人 Google Maps 位置分享，真移动、分享过期或登录失败才通知编排器，正常则安静. [Barclay53012457](https://x.com/Barclay53012457).
 - [Travel Agent](https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO) - 维护一份 Notion 出行日志，按你自己的行程回答问题。 [jjeremycai](https://x.com/jjeremycai).
 - [Trendspotter](https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr) - 工作日简报，覆盖体育文娱文化趋势和营销侧 AI 信号。 [jennananpei](https://x.com/jennananpei).
+- [Unstuck](https://x.ai/bot/FkuWnwaRU4xzZbTJ4QcHA) - 你在原地打转时的澄清搭档，一次只问一个锋利问题，直到你有清晰赌注与下一步，不堆研究. [thingifly](https://x.com/thingifly).
 - [US Law Index Builder Bot](https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c) - 搭私人非商用的美国成文法资料库和检索。 [EchoFieldVisual](https://x.com/EchoFieldVisual).
 - [User Researcher](https://x.ai/bot/zX-pWWtNY6reickF2J6Lm) - 用户研究搭档，每个结论都能回溯到证据。 [UCDOps](https://x.com/ucdco).
+- [Video Prompt Lab](https://x.ai/bot/OatNX5ILgzMz4RVr3Pz7F) - 根据静帧或简报写出可粘贴的视频生成提示，面向 Seedance、Minimax 与 Kling，含结构化广告分镜. [bdvd_25](https://x.com/bdvd_25).
 - [voice of the people](https://x.ai/bot/8Snl1TovbMwClPoBiHrWT) - 盯 X，只在范围内有新命中时通知，其余保持安静。 [DenisLabelle](https://x.com/DenisLabelle).
+- [Watchdog](https://x.ai/bot/RAVnsyYkm9qG1n0Ou_650) - 看门狗，按现场诚实声明盖通过、降级或过期章，坏声明下绝不伪造绿灯. [ixef](https://x.com/ixef).
+- [WhatsApp Grok Bot Companion](https://x.ai/bot/_9qWVpQ2IkmogpleJaIWm) - WhatsApp 伴侣，盯你选定的聊天，并按你的口吻用语音条回复. [dorofino](https://x.com/dorofino).
+- [WhatsApp Inbox Desk](https://x.ai/bot/S07oX1xZqDW7OScY9hEN5) - 把 WhatsApp Web 变成可行动的早间与运营简报，未读分流、待回复标记与决策观察名单，除非你要求否则不发送. [CobusGreylingZA](https://x.com/CobusGreylingZA).
 - [when it matters](https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8) - 告诉我你老在查的事，我弄清什么会改变答案，盯着变化，真正要紧时才找你。 [hnshah](https://x.com/hnshah).
 - [X Brief](https://x.ai/bot/GkX6X536UK2MlbkfGLQnb) - 从你自己的帖子学你关心什么，再盯那条线。 [Daniel](https://x.com/daniel_mac8).
 - [Yahoo Pulse](https://x.ai/bot/5nnJJwVjO4EwThIaaaynu) - 只读盯盘日报，附图表和新闻。 [Tferriere](https://x.com/Tferriere).
 - [YC Podcast Notes](https://x.ai/bot/0y-dcpVFqFkjibKs2M48D) - 每小时盯 Y Combinator 播客，写出对创始人有用的笔记。 [buuxbt](https://x.com/buuxbt).
 - [Youtube分析官](https://x.ai/bot/Ja29gpInav-alRhXhzyNL) - 按主题给 YouTube 视频排名，再写成简报。 [Mado](https://x.com/madogiwacowork).
 - [Zettelkasten](https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c) - 给 Obsidian 金库当卡片盒搭档，原子笔记只在你点头后才归档。 [pohlipit](https://x.com/pohlipit).
+- [しおり](https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt) - 把 X 书签收成主题和下一步，用简短日语做早间摘要。 [marulimoai](https://x.com/marulimoai).
+- [下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF) - 把长视频和播客转成能搜可读的中文文稿，顺手捞公开论文。 [KinGao476942](https://x.com/KinGao476942).
+- [全球宏观分析师](https://x.ai/bot/08RSf587bOlWhbQai6A3I) - 看大事对利率、美元、黄金、加密货币和股市会怎么传。 [Fund_Monkey](https://x.com/Fund_Monkey).
+- [最值得关注的Grok Bot 推文？](https://x.ai/bot/lFDR77qKaT3Iglzv9pUac) - 每天两次用中文扫一遍值得看的 Grok Bot 账号动态。 [MaiYangAI](https://x.com/MaiYangAI).
 - [左左的AI情报员](https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt) - 按固定 46 源做核验去重和重要性评分，输出简洁中文 AI 情报日报。 [左左](https://x.com/zuoyou_ai).
+- [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - 每天早上扫蓝莓论文与行业新闻，有干货才报，没料就安静. [Bizuayeu](https://x.com/Bizuayeu).
+
 ## Customer & sales
 
 - [Account Research Desk](https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss) - 研究你要卖的公司并写会前简报与客户计划，只用公开网与你粘贴的笔记，不代发。 [Anoop Baliga](https://x.com/akbaliga96).
@@ -522,154 +656,280 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [AE deal bot](https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe) - 按 MEDDPICC 给在谈的单打分，并指出下一步。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Affiliate program manager](https://x.ai/bot/-x19CFkvT5U866BNA7q_J) - 把创作者联盟项目管得清楚、有排名、货源跟得上。 [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Affiliate Recruiter](https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ) - 按主题和竞品推广人找联盟候选人，排出短名单并附联系方式和初稿话术。 [zilvestro](https://x.com/zilvestro).
+- [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) - 说法语的私人管家，管邮件日历与行政，回复短而克制，未经你同意不发送. [StevoM1982](https://x.com/StevoM1982).
+- [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) - X 与竞赛运营机器人，连接 X、读现场竞赛规则、起草克隆向内容. [TorranceMiller](https://x.com/TorranceMiller).
+- [Brief Lead](https://x.ai/bot/Lx6r1FAxSjB26NWABBp3G) - 从日历、邮件与团队聊天做出优先级切片，含事项、来源、为何重要、下一步与待决，并把营收行交给销售. [Uv_i](https://x.com/Uv_i).
 - [Call Desk](https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl) - 那些你一直拖着不想打的电话，它替你打。 [Dr](https://x.com/dave_dlt).
 - [Call Follow-Ups](https://x.ai/bot/estQ8HWdKqhheDNmOGjcy) - 把每次录音通话收成你口吻的跟进邮件、下一步备注与 CRM 更新，含团队资格字段。 [Daniel Brill](https://x.com/danielbrill_).
+- [CB Overseer](https://x.ai/bot/h3cArBlH8Dydlyir30bpU) - 监督涂色书工厂，首次运行就建好建筑师等 CB 团队席位. [WillyRelwitten](https://x.com/WillyRelwitten).
+- [CEO](https://x.ai/bot/Q1j14lHJQzOqkTBZ071gt) - 本地家用净水生意的 CEO 机器人，多数时候你跟它谈，它再把研究、线索、触达与广告分给专家. [Corey711_](https://x.com/Corey711_).
+- [Che succede nel mondo](https://x.ai/bot/zbO3PJjxKsrIFpGSRCicm) - 意大利语世界新闻视频日志，每日两次摘要，长语音加短视频并排期. [paridedilazzaro](https://x.com/paridedilazzaro).
+- [Chief of Staff](https://x.ai/bot/PUu69kfWwlI3SimlhHidQ) - 为本地多服务小生意协调专家机器人，销售、网站、SEO、社交、视频、账本与日历，只在关键决策时拉老板. [RobertF73819369](https://x.com/RobertF73819369).
+- [Chief of Staff](https://x.ai/bot/QDI-ZOjwekiMKsaukby8w) - 多事业创始人的轻量运营长，做去留决策、专家分流与只起草的回复雷达，每次发送都经你批准. [djwatza](https://x.com/djwatza).
+- [Chief of Staff](https://x.ai/bot/a7MKDpnkdYF2q_GwRmh3I) - 产品走向市场的创始人幕僚长，跑社交与内容运营、常设提醒，并协调专家. [Sentinel_Credit](https://x.com/Sentinel_Credit).
+- [Chief of Staff](https://x.ai/bot/bnVCQgetW4NJtjZgkjkdI) - 跑你的其它机器人，真决策才拉你，围绕 Google、微软等连接器构建. [1biglizard](https://x.com/1biglizard).
+- [Chief of Staff](https://x.ai/bot/fSh7h_fYqcveGjoUTqjoU) - 给独立运营者与小机构的幕僚长，协调邮件、日历、客户交付与专家. [nab_eriksson](https://x.com/nab_eriksson).
+- [Chief of Staff](https://x.ai/bot/j8J7E8hx2-fd07TC4idIE) - 跑日常运营，收件箱简报、微软三百六十五与许可研究、WhatsApp 等. [MusheerHashmi](https://x.com/MusheerHashmi).
+- [Chief of Staff](https://x.ai/bot/k5b5L3PnIbc45SHUFPwH2) - 协调其它机器人，决策时才拉你，面向销售运营者. [FML_ForMyLove](https://x.com/FML_ForMyLove).
+- [Chief of Staff](https://x.ai/bot/weZi1tOED9rbAsh9mmC9q) - 协调专家机器人，把决策留在同一聊天，面向忙碌运营者. [asrmek](https://x.com/asrmek).
+- [Chief of Staff — Contractor Rebuild](https://x.ai/bot/wkofmk1kzvLmfH4xz0Bf5) - 承包商用 AI 重建时的幕僚长，分流销售、建造与行政，并守审批. [NateArm1](https://x.com/NateArm1).
 - [Churn retention manager](https://x.ai/bot/p0OIZUJK5sRFImh_DMujf) - 在取消订阅和扣款失败时及时介入，尽量留住客户。 [ColinMcDermott](https://x.com/ColinMcDermott).
+- [Client Ops Helper](https://x.ai/bot/ePHe68qUal43USIgqKghR) - 小服务公司采用 AI 的运营帮手，从 CEO 个人工作栈起步再铺开. [LailaDeeb1](https://x.com/LailaDeeb1).
+- [Club Ops EA](https://x.ai/bot/ZWpTSG_3fGF6Rh-fKChsb) - 学生网络安全社团的中枢执行助理，把活分给专家机器人并盯社团运营. [JustSecUO](https://x.com/JustSecUO).
 - [Club Sponsor Bot](https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA) - 替学生社团跑赞助、招聘和讲者邀约。 [NavyaM89482](https://x.com/NavyaM89482).
 - [Colombia Move](https://x.ai/bot/mWxeafjXItbC0_VcpSwqm) - 给 Colombia Move 市集做客服，西语英语都能接。 [michaelheredia](https://x.com/michaelheredia).
+- [Communications Desk](https://x.ai/bot/N-Kgs41b2Lf9vVCkgsTHp) - 教育者与运营者的多收件箱通信桌，分流广告与实时运营，盯 CRM 与社区里的真人请求，只起草不擅自发. [mitchanelson](https://x.com/mitchanelson).
 - [Company Docs Q&A](https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9) - 先查在线文档再查已接知识源回答产品与操作问题，并始终给出引用。 [Anoop Baliga](https://x.com/akbaliga96).
+- [Computer](https://x.ai/bot/Z8aPXNVasH1ogYkAuCMIZ) - 小代理花名册的前门机器人，读你的 GitHub 看板，点名一个可咬下的任务并推动. [CodeSolutionsIL](https://x.com/CodeSolutionsIL).
 - [Contentdrips Bot](https://x.ai/bot/LZLr3E1ySm7HzuMSKB18s) - 在 ContentDrips 做社媒图与轮播，写简单文案并预约到 LinkedIn 与 Instagram。 [im_usamakhalid](https://x.com/im_usamakhalid).
 - [Contra Job Scraper](https://x.ai/bot/__sNWxlx-8H08UluQuOeo) - 每六小时扫一次 Contra 接案流，有变才发邮件。 [techking_007](https://x.com/techking_007).
+- [Copy](https://x.ai/bot/v3cu4BQauoUaTcbJ6m_7C) - 编辑并重写草稿、邮件与页面，让它们读起来像人写的，并保住你的声音. [Crypto8675309](https://x.com/Crypto8675309).
 - [Copy Humanizer](https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB) - 改写草稿、邮件与页面，读起来像真人写的，保留你的声音，标出每处改动且不编事实。 [Massimo De Luisa](https://x.com/massimodeluisa).
 - [Creator Shortlist Crew](https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D) - 按题材和平台持续补全值得合作的创作者名单，并写好怎么联系。 [ShehjadTaus](https://x.com/ShehjadTaus).
+- [Crew Orchestrator](https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O) - 让多机器人赚钱小队继续转，小时级催工并优先应用，销售触达目录一次更新一个机器人. [jdcpe17](https://x.com/jdcpe17).
+- [CS BOT](https://x.ai/bot/q7dwPN9SUAIhXUWLhjHN9) - 向中小企业销售 AI 网站聊天机器人的参谋长，走向市场计划、演示组件与跟进. [The_MLM_Hub](https://x.com/The_MLM_Hub).
 - [Customer Call Coach & Assistant](https://x.ai/bot/v1lSvhJCo4UrNGZxc5Fw8) - 客户通话前给你简报，通话后再按表现做教练反馈。 [Anoop Baliga](https://x.com/akbaliga96).
 - [Customer Proof Desk](https://x.ai/bot/AamPlGjd2lIdDv6seEMXR) - 把通话笔记与逐字稿收成案例、证言与证据点，引用保持原话，未经你同意不发布。 [Anoop Baliga](https://x.com/akbaliga96).
 - [Dan Lanning](https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS) - 用真实通话稿练伙伴关系与高风险发现通话的表达。 [jennananpei](https://x.com/jennananpei).
 - [Deal Inspector](https://x.ai/bot/vZfC76-4UC1XU7qC4m726) - 对每个晋级的交易，用真实通话逐字稿对照资格标准，引用证据并标出缺口。 Jon Grigull.
 - [Deck Builder](https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC) - 套用营销 GTM 模板，选合品牌版式，填好客户讲稿给你审。 [Scott Metcalf](https://x.com/scottxmetcalf).
 - [deck-guy](https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH) - 根据通话记录直接做出会后幻灯片。 [pavravi](https://x.com/pavravi).
+- [Dero](https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8) - 跑智利市政招标文件的处理流水线. [jorgesoffia](https://x.com/jorgesoffia).
 - [dial bot](https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi) - 替你打一通真实电话，结束后交回一份书面通话纪要。 [mattyp](https://x.com/mattyp).
 - [dial bot](https://x.ai/bot/tIas6udS9kSXpcAz6LFd1) - 用 Bland AI 打出站电话，打完把结果写成纪要带回来。 [MaiYangAI](https://x.com/MaiYangAI).
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) - 客户通话结束后，按实际说过的话做演示文稿。 [Krista](https://x.com/kristaletz).
+- [Estela](https://x.ai/bot/WEiDkWKCfiEQY7hBiq1NY) - 面向可验证信任产品的 B2B 内容策略，做日历、X 与 LinkedIn 草稿、去重，并推进可审计随机与时间戳卖点. [randompick_info](https://x.com/randompick_info).
 - [Event Producer](https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB) - 把活动细节收成流程单、宾客名单与当天清单，跟踪供应商与餐饮旅行，不擅自发邀。 [Jenna Nanpei](https://x.com/jennananpei).
+- [Events Outreach](https://x.ai/bot/RcAqRF1OcnuD6vraJB8oR) - 体验式与私人活动预订的销售触达机器人，从专用 Gmail 先暖再冷做相似人群波次，可接 Apollo. [AnthonyTerG](https://x.com/AnthonyTerG).
 - [Experiment Designer](https://x.ai/bot/Dd6URqnf4w5hiVEs_vbRL) - 增长科学家，把简报写成可供怀疑者批准的预注册实验，从不擅自开量或拨开关。 [JaySahnan](https://x.com/JaySahnan).
+- [for](https://x.ai/bot/IaIim7dQiqrfqWZZGdNAT) - 多代理项目的锋利建造负责人，分配角色，把可插入零件缝成一个站点，并给你可运行预览. [Abdulloh_E_B](https://x.com/Abdulloh_E_B).
+- [Founder Chief of Staff](https://x.ai/bot/nB2LrfTaw07kYIuE32UZk) - 跑多事业运营的创始人幕僚长，早间跨日历与收件箱出简报. [mikemakar](https://x.com/mikemakar).
+- [Founder Chief of Staff](https://x.ai/bot/sg6IWeAYYNefTAT-O5K_W) - 为独立创始人跑站点运营、本地 SEO 内容与员工机器人，好腾出深度时间. [Masterxexe1](https://x.com/Masterxexe1).
+- [Fractional Inbox Triage](https://x.ai/bot/6bxvMG6iPzU7Pok2iWjp9) - 分流忙碌创始人或 CISO 收件箱，起草礼貌拒供应商、标出总监级与私人线、摘要待你处理. [CarbeneAI](https://x.com/CarbeneAI).
+- [Gamel](https://x.ai/bot/z5UAhMwtF2ReWHMZP7Fsb) - 收件箱清理机器人，退订营销邮件，保留收据与交易，并归档噪音. [FELIXCATanzaro](https://x.com/FELIXCATanzaro).
+- [GEO & SEO Optimierung](https://x.ai/bot/RbJ2x4neT6ePfZbz22spM) - 企业网站的生成式引擎与搜索优化助手，提升搜索与生成引擎可见度，并夯实落地页与技术基础. [christian_reik](https://x.com/christian_reik).
 - [Gong Call Coach](https://x.ai/bot/KpodhhBqjA4FHv47R1HrD) - 从已存的销售通话录音里抽出几条给销售看的短辅导。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [GrokBotDailyCrawl](https://x.ai/bot/CM6cRhyYm-k1vi23YxYxx) - 爬你的站点做索引，再喂给主流大模型和 AI 代理。 [RobautoAI](https://x.com/RobautoAI).
 - [GTM Account Research](https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV) - 开会、复盘或写客户计划前研究单一账户，汇总公司变化、关键人、关系史与未决事项。 Stefan Markarian.
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) - 扛下企业单周边行政，让你专心卖。 [Sultanov](https://x.com/thekuchh).
+- [GTM cofounder](https://x.ai/bot/rNlFlYuMnPlewUC0KN7Tr) - 创始人的走向市场联合创始人，管管道与外联，合伙邮件、发布与跟进. [therealbossdong](https://x.com/therealbossdong).
 - [GTM Connections](https://x.ai/bot/aUF_wTHXGWKU3-QPm6PmN) - 经互关、旧对话与共同历史找进目标客户的可信路径，排序后起草开口，发送前问你。 Brian Joseph.
 - [GTM Loop Closer](https://x.ai/bot/gj3IlHOOpzecm6xpmPJOt) - 找出会议、邮件、Slack、CRM 或任务里落下的承诺与客户细节，亮证据并准备回复。 Jon Grigull.
 - [GTM Prospecting](https://x.ai/bot/RpAQeGjhzaiO6_Rq_4fyC) - 按理想客户画像拉聚焦潜客表、补上下文并查是否已有关系，起草首触邮件与 LinkedIn。 Caro Scalercio.
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) - 成品出货前的最后一道关，给客户一个干脆的判定。 [liam_fallen](https://x.com/liam_fallen).
 - [Harry Dry](https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu) - 按 Harry Dry 路子改落地页和广告让每句可看见也可证伪。 [joseamijares](https://x.com/joseamijares).
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) - 谈一笔交易、续约或报价，拿到现实里最好的条款。 [liam_fallen](https://x.com/liam_fallen).
+- [Helios](https://x.ai/bot/HRQ9XsZmD7-dATZz63-i_) - Facebook 与 Instagram 的 Meta 广告情报，在已登录 Chrome 跑广告管理，早间发航班板，按书面规则暂停输家. [davincivibecode](https://x.com/davincivibecode).
 - [Herbet](https://x.ai/bot/zFDmYYQKE8dUS9Z8r2LAd) - 给 Solutions Partner 讲 HubSpot 该点哪个对象和设置。 [derek_all_gusto](https://x.com/derek_all_gusto).
 - [Hermes SDR](https://x.ai/bot/EAlUWK8yH_xfsBcpdu7e_) - 外呼 SDR，逐条验证线索，再发 Instagram 私信和邮件推高客单价产品。 [Mauricio](https://x.com/MGallmur).
+- [Hideo](https://x.ai/bot/GjPwdyXTCQ2795pYQpb2N) - Godot 放置或增量游戏的组长，协调设计、开发、安全、数据库与测试，去重 GitHub 议题并推进. [MonsieurKas](https://x.com/MonsieurKas).
 - [hire-bot](https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-) - 管招聘文书半边，从候选人笔记到 offer 信。 [xsubwayratx](https://x.com/xsubwayratx).
+- [Hook (Abandoned cart sales)](https://x.ai/bot/bcNNQsv6QDI91RpqgCWAu) - 找填完在线订单表却在结账前放弃的未付款单，挂钩挽回销售. [toddhaag](https://x.com/toddhaag).
 - [Icebreaker](https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP) - 找 AI 信任与安全岗位时的求职搭档。 [amberdawn1786](https://x.com/amberdawn1786).
 - [ICP Map Coach](https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF) - 估市场规模，筛出最像优质客户的账户，并填好采购委员会。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Influencer Marketing Deal Desk](https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx) - 品牌合作回信前，帮你估报价与合作结构，只起草不代发. [itsmattreichard](https://x.com/itsmattreichard).
 - [InsightfulPipe](https://x.ai/bot/vYIAB3Z6V8gEERewymcw1) - 广告、SEO、社媒和 Shopify 的营销台，接 InsightfulPipe 活数据。 [insightfulpipe](https://x.com/insightfulpipe).
 - [Internship Finder](https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ) - 找靠谱实习，并起草简短个性化外联邮件。 [mnt_rushmore](https://x.com/mnt_rushmore).
+- [Job Application Pilot](https://x.ai/bot/HhL4o6s2LGOOse8YimJz3) - 帮刚失业的人快速推进申请，契合检查、定制回答与可跟踪投递管道. [Oggi](https://x.com/otgondavaa0).
+- [Job Apply Bot](https://x.ai/bot/kQ1LcFRNGrPDl7Pz_q4mb) - 寻找并申请新加坡等地的高级或主导全栈软件工程师岗位. [olishiz](https://x.com/olishiz).
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) - 摸清目标公司，一路往上找到能拍板的人。 [Liam](https://x.com/liam_fallen).
 - [Jordan Belfort](https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj) - 高能销售收单手，起草话术和跟进。 [liam_fallen](https://x.com/liam_fallen).
 - [Know Enemy](https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz) - 只根据已经公开的材料，持续盯你点名的对手。 [SaaSocalypse](https://x.com/SaaSocalypse).
+- [Kobe](https://x.ai/bot/xtYm43WREx2nqqt3in_bO) - 高中篮球校队队长的专项顾问，管训练、比赛计划与个人进步. [CPulrang](https://x.com/CPulrang).
 - [Landing page generator](https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08) - 为产品写销售页并上线，顺便接好结账。 [ColinMcDermott](https://x.com/ColinMcDermott).
+- [Lara](https://x.ai/bot/ivUb6chV-JDdWJ11MI8c8) - 公关经理机器人，跑 LinkedIn 与 X 专家，校验草稿后再排队发布. [MonsieurKas](https://x.com/MonsieurKas).
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) - 给入站线索打分、合并重复、指定负责人并标卡住项，可从 CRM 导出或表格，不代发。 [Miguel Cruz](https://x.com/cruzmiguel000).
+- [LEGO Helper](https://x.ai/bot/ARECkfOiBshpEB8egjavB) - 在 Google 表跟踪乐高买卖，拉零售商邮件，登记新套装，eBay 售出标为已售. [NoahDavidATL](https://x.com/NoahDavidATL).
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) - 每天按你定的规则审核 LinkedIn 邀请。 [AJ](https://x.com/SEO).
 - [Linkedin Leads](https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W) - 每天按你的关键词扫 LinkedIn 帖子和评论找线索。 [Angel](https://x.com/angelesp).
 - [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) - 在 LinkedIn 上找人并筛选，再排好浏览、加好友和私信。 [myphonely](https://x.com/myphonely).
+- [Literary Editor](https://x.ai/bot/VNMoJ7mc5_QE5f9aIiYx-) - 给兼职 CFO 实践的文学与品牌声音编辑，抬高网站文案、方案、邮件与 LinkedIn. [James](https://x.com/James).
+- [Lobster Agents](https://x.ai/bot/XECw-q9SY0rMprOq66UTt) - 二十八个 AI 代理组成一家真公司，覆盖工程、设计、测试、数据、营销、销售、法务等席位. [MarcMojica](https://x.com/MarcMojica).
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) - 从一个对口客户扩出同类公司，并确认里面谁能拍板。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) - 为场地营销搭并更新私密 Luma 活动页，含文案、品牌、报名、容量候补与名单导出。 [Jenna Nanpei](https://x.com/jennananpei).
 - [Mail Agency Outreach Sniper](https://x.ai/bot/QCYjr5VyQAoDTywMogJbU) - 把 LinkedIn 互动收成可核验工作邮箱和个性化开场。 [RealtimeUK](https://x.com/RealtimeUK).
 - [Mappy (Talent Map)](https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l) - 把目标公司里现在在职的人图画出来。 [NickRoman](https://x.com/NickRoman).
 - [Marketplace Bot](https://x.ai/bot/9ptyasfHm8ehbIDsLizs-) - 给二手货定价写文案，并同步发到三个售卖应用。 [mentalmodality](https://x.com/mentalmodality).
+- [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) - AI 视频与工作室走向市场机器人，生成并迭代短视频、审计社交、起草广告. [sheridap](https://x.com/sheridap).
 - [Meeting Recap Deck](https://x.ai/bot/YklttiPpAHweKbOLV1TSF) - 把会议笔记收成你幻灯模板里的复盘页，只用你粘贴或上传的内容，不编造引语。 [Krista Letz](https://x.com/kristaletz).
+- [Miles](https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC) - 为 CRM、GoHighLevel 与 AI 前台找高意向购买信号. [dariusgaynor](https://x.com/dariusgaynor).
+- [MoveToAU Desk](https://x.ai/bot/Cfr_HG6tlBnA7NQUukguD) - 美到澳长期安置运营，研究路径、找澳机构伙伴、起草合规向触达，并跑免费候选人流程. [shanto12](https://x.com/shanto12).
 - [MyPhonely Phone Driver](https://x.ai/bot/00LpQytGgJbn3KTdUJREV) - 经 MyPhonely 遥控真机做外联，凭证不放云电脑。 [myphonely](https://x.com/myphonely).
 - [Nikita Bier](https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV) - 用分享环路压测产品。告诉你别人会不会转给朋友，砍掉多余，给出本周能上的一个改动。 Jacob.
+- [Nixie](https://x.ai/bot/V4vVQ5UtqQKMTQ7pg3Ihc) - 给专家证人与忙人的 Gmail 清理员，清促销噪音、归档执照与案件邮件，并保持可约触达整洁. [bfwebster](https://x.com/bfwebster).
+- [Novel Workshop Lead](https://x.ai/bot/blWboTjWqU1Nf58X29RYY) - 协调多代理小说工坊，角色代理、节奏与声音轮流写作并汇总. [pioupsi](https://x.com/pioupsi).
 - [OpenSEO](https://x.ai/bot/8yZv2AeUvBcOFoFRVZfhU) - 做关键词、竞品、站点审计、本地 SEO 和内容简报。 [BlissNomad](https://x.com/BlissNomad).
 - [Outbound Prospecting](https://x.ai/bot/i03IaF768-ielyzegoGye) - 找符合理想客户的潜客并起草首条消息，每个名字都经公开网核实，发送前问你。 [Krista Letz](https://x.com/kristaletz).
+- [P.C.A. Roshi](https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z) - 个人健康护理代理，冷静务实，帮你找零费用或优先路径并导航下一步. [durdy1](https://x.com/durdy1).
+- [Paid Ads Creative Collector](https://x.ai/bot/fsje86F8rzNNPc0q6piM_) - 从 Meta 与 TikTok 广告库收集竞品创意，按开始或创建时间过滤并归档. [ginking0826](https://x.com/ginking0826).
 - [Paid ads manager](https://x.ai/bot/SAfsqPLP0rCuQOywOguxX) - 从创意到上线再到每日分拣，管好付费获客预算。 [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Partner referral outreach](https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF) - 找匹配的商家并跟进，把转介网络搭起来。 [ColinMcDermott](https://x.com/ColinMcDermott).
-- [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE 辖区管道 Bot，管账簿级外联、会议和潜在 ARR。 [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Paver Repair](https://x.ai/bot/cKY3xCws0b73-O6pUEkDF) - 用邮件谈铺路砖维修、清洗、填沙与密封报价，跟踪承包商回复与比价. [DevildogDMD77](https://x.com/DevildogDMD77).
+- [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) - 跟踪团体旅行、活动与礼物的分摊费用，读全球支付确认，并安静催迟到付款方. [SurrealSpin](https://x.com/SurrealSpin).
 - [PG](https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW) - 研究目标客户，从播客里挖真正能开口的钩子。 [Krista](https://x.com/kristaletz).
+- [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE 辖区管道 Bot，管账簿级外联、会议和潜在 ARR。 [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Phone with Bland](https://x.ai/bot/4BmzjFu_i3mVd58irr1x1) - 给任意 Grok Bot 专属电话与声音，可代发短信与打电话订餐、跟进线索. [usebland](https://x.com/usebland).
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) - 让你的 Bot 能打也能接真正的电话。 [ibelevy](https://x.com/ibelevy).
 - [Pipeline Pulse](https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev) - 扫整本管道看推进、陈旧下一步、预测风险与 CRM 缺口，展示变化并起草需要的更新。 [Krista Letz](https://x.com/kristaletz).
+- [Plugin marketer](https://x.ai/bot/cq1VBt-BdBTe7dR10TdOG) - 免费桌面音频插件套件的务实增长负责人，起草目录投稿、功能说明与发布节奏. [uncannyzebra](https://x.com/uncannyzebra).
+- [Portfolio CEO Ops](https://x.ai/bot/C8zLE_qeEWxbMCGqB4JGN) - 多公司创始人的组合 CEO 桌，读 WhatsApp 公司列表里的客户请求，建客户群并跑运营. [IronmanCrypto](https://x.com/IronmanCrypto).
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) - 每次会后放下待办和一封跟进草稿。 [Priya](https://x.com/itspriyaptl).
 - [Prospect Drafts](https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t) - 按地区、行业和你的报价找合适潜客，再用你的口吻写好首封 Gmail 草稿，由你发送。 [Sam](https://x.com/sam_builds_ai).
 - [Prospecting Sheet Builder](https://x.ai/bot/3Peagz3nzagjBRFhjrENd) - 醒来就有一份筛过的 B2B 客户表。 [thekuchh](https://x.com/thekuchh).
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) - 把简历改成能点开演示的活作品集。 [HouseHackerJon](https://x.com/HouseHackerJon).
+- [RE Ops COO](https://x.ai/bot/_qRtgGDLXFjuEVML35EI4) - 纵向整合房地产业者的数字优先 COO，跑每日记分板与运营核对. [Danny_0315](https://x.com/Danny_0315).
 - [Reach](https://x.ai/bot/RidW4sGR8UvNGFuOkVbUO) - grokbot.studio 的 Reach 入口与安装器，安装后成为触达侧副本并路由外联。 [Hexakin](https://x.com/Hexakin).
+- [Recruit](https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY) - 英国建筑业仅限承包商的招聘助手，简历、LinkedIn、日费率与岗位狩猎. [inovasyonkultur](https://x.com/inovasyonkultur).
+- [Relay](https://x.ai/bot/dToDHHTIZFDURU6gBkU5X) - 跨 LinkedIn、Instagram、TikTok、Pinterest 与 X 的多表面社交分发代理. [davincivibecode](https://x.com/davincivibecode).
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) - 赋能问题的统一入口，再路由到对的专项技能。 [nathanclark_](https://x.com/nathanclark_).
 - [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) - 找出已经躺在 HubSpot 管道里的收入机会。 [ericosiu](https://x.com/ericosiu).
 - [Rival Watch Desk](https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW) - 盯住你点名的对手，汇总融资、招人、报道和投放变化。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Robauto Website Growth Agent](https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU) - 按机器可读标准给品牌站打分，并一次只推一小步改法。 [RobautoAI](https://x.com/RobautoAI).
+- [Roof Radar](https://x.ai/bot/nuv1bSb5V15XZeFnu5BwF) - 把公开风暴报告变成带证据排序的屋顶销售线索清单. [SacredFolio](https://x.com/SacredFolio).
 - [SaaSbot](https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM) - 工作日操盘手，获客、外呼、质检和入职一起跑。 [Daniel](https://x.com/danielfoch).
 - [Sales Call Coach](https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc) - 给销售通话打分并告诉你下一通该改什么，可用粘贴逐字稿或上传录音。 [Daniel Brill](https://x.com/danielbrill_).
 - [Sales Orchestrator](https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A) - 在销售机器人群里挡第一线，只放一个专家接每条请求。 [idleshubh](https://x.com/idleshubh).
 - [Scout](https://x.ai/bot/Axr06_abjVj29IjBhJrQ_) - 找出已在用产品且准备加购的账户，区分自助升级与销售 PQL。 [JaySahnan](https://x.com/JaySahnan).
 - [SE call bot](https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE) - 售前工程师客户通话时的现场备份。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) - 自主 SEO 工程师，在站点仓库里拉起 SEOAgent，冲自然流量。 [SEOAgent_](https://x.com/SEOAgent_).
+- [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) - 食品厂、代工或调味料店的常设运营桌，从销售订单到原料采购、按预测做自制或外购，以及包装核对. [VinceWilliams21](https://x.com/VinceWilliams21).
+- [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) - 面向 ShopFloor 风格 Etsy 数字店的运营桌，起草上架、客服与节奏. [Dex_01_](https://x.com/Dex_01_).
+- [Spike](https://x.ai/bot/itRObzTzlih4AGPFX99LP) - 掌管有说服力的沟通训练，让写作与谈话真正进到人脑子里，粗鲁锋利不当软写作伴. [mpalczew](https://x.com/mpalczew).
 - [Stills & Clips Desk](https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-) - 从素材里抽出静帧、缩略图与短片并按去处裁切，也清理文档截图并写说明文案。 [Matt Palmer](https://x.com/mattyp).
 - [Store from template](https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr) - 先复制一套能卖货的店面模板，再按你的品类微调。 [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Store setup from zero](https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp) - 把一个产品点子做成别人能下单的店铺页。 [ColinMcDermott](https://x.com/ColinMcDermott).
+- [Support Bridge](https://x.ai/bot/g3URTClmjeIlCgwDIK8dV) - 把支持帖与转发线程收成德文工作简报，方便你加批注再回. [njuuden](https://x.com/njuuden).
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) - 把找工作的人配到你收件箱里藏着的岗位。 [lennysan](https://x.com/lennysan).
+- [Talent Scout](https://x.ai/bot/egph0oXWVB7zFKZxmyZg0) - 按职位描述从 Dropbox 筛简历，排名候选人，并起草个性化触达. [chas__martel](https://x.com/chas__martel).
 - [Termlock](https://x.ai/bot/ChuFYfELJdp6iA-5ImjFU) - 只出草稿的自由职业还价台，粘贴中介或平台报价，得到带引用的市场带、缺口表与还价稿。 [IslandMountain_](https://x.com/IslandMountain_).
 - [TESTYS](https://x.ai/bot/xeyk4BgUD9iVU5b55r0ok) - 把真实评价与表扬收成可点名的引语与可粘贴句子，用于邮件、社媒、方案与网站。 [BudJohnson](https://x.com/BudJohnson).
+- [Tiffany](https://x.ai/bot/VS2G5p1b_nQixeiYcdwFs) - 本地营销机构的幕僚长，跨客户跑专家，公开作品先起草后批准，交付谷歌商家资料、社交、SEO 博客. [TripperWood](https://x.com/TripperWood).
 - [UGC bounty manager](https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc) - 从简报到建议打款，跑完创作者剪辑赏金全流程。 [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Video Edit Desk](https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW) - 把上传素材切成短片、烧录字幕与各平台尺寸导出，按你的备注工作且不覆盖原片。 [X Freeze](https://x.com/xfreeze).
 - [Voice of Customer](https://x.ai/bot/Nw1K3kkPk8N6eNTPed8gR) - 为增长团队跑付费访谈与公开社媒倾听，圈人、排除 CRM、审批外联并出周报。 [JaySahnan](https://x.com/JaySahnan).
 - [Website agency lead scout](https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ) - 每天早上交出五家需要新网站、已经筛过的商家。 [Josh](https://x.com/joshkim).
+- [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) - 围绕 X Ads、X Premium Business 与 Grok 的营销负责人，给任意创始人跑增长. [Joe](https://x.com/JoeSimo).
+- [YahooMail](https://x.ai/bot/2OZhVriEJF4Ggj46JuHWS) - 按需清理并归档 Yahoo Mail，可只删、删加过滤，或归档到文件夹. [Carolina](https://x.com/CarolinaDill).
 - [YR Mailchimp](https://x.ai/bot/lcGQv8_I7UvJEWs3833LR) - 在 Mailchimp 起草青年共和党俱乐部月度邮件和会议提醒。 [BastropYR](https://x.com/BastropYR).
+- [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) - 为社交拍照应用协调专家机器人群，含世界瞬间侦察、营销等席位. [zealt_today](https://x.com/zealt_today).
 
 ## Finance & ops
 
-
+- [Action My Email](https://x.ai/bot/CjkBywhqRcaruj2i658xU) - 给淹没在多个 Gmail 里的人分流，筛已连接账号，把真待办运到一个 Action 收件箱并清噪音. [Crystal74063093](https://x.com/Crystal74063093).
 - [Ad Spend Watch](https://x.ai/bot/MK5zStpj_As8CsRwg3r6w) - 盯广告花费与表现，在烧预算前标出异常，可从粘贴导出工作，未经你同意不停投放。 [Miguel Cruz](https://x.com/cruzmiguel000).
 - [AIUsageBot](https://x.ai/bot/2atUDeldi9vF1R_ySRgCo) - 跟踪每份 AI 订阅你真正用了多少。 [Brian](https://x.com/BrianDEvans).
 - [Albert](https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP) - 把各地警察工会合同里的薪酬福利抽出来，做成对照表。 [Skyler_Miller56](https://x.com/Skyler_Miller56).
 - [Alibaba Buyer Ops](https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs) - 打理在阿里巴巴向工厂采购的日常跟单与沟通。 [DomenicFotino](https://x.com/DomenicFotino).
+- [Ally](https://x.ai/bot/6baJd8-Tp-s03m3ccb6AO) - Shopify 店铺运营搭档，软发、目录卫生、浏览器受阻时走 Admin API，以及利润向修复. [zepp1985](https://x.com/zepp1985).
+- [Analyst](https://x.ai/bot/dqbhWIMeHhypJJVA1NvqI) - 运营与财务分析，美股收盘后出每周组合简报，按持仓拆解. [dfer2dfer](https://x.com/dfer2dfer).
 - [Appeal Desk](https://x.ai/bot/yOiPm69HN5FujdkvvysF9) - 把拒付信和费用明细收成申诉材料，计划文件只当数据不当地令。 [MSaintjour](https://x.com/MSaintjour).
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) - 按目标安装成本审 Apple Search Ads 花费，起草关键词、出价与预算改动，不动账户。 Chris Everett.
 - [Arnold](https://x.ai/bot/ymoMdfvzdErOrclxCOaC_) - 盯着 Cursor 用量花钱，该省时把 agent 换成更便宜的模型。 [Kelseyshuo](https://x.com/Kelseyshuo).
+- [Artist COO](https://x.ai/bot/1xERibyRYst3MSlMvqy_F) - 独立艺人从曝光到成交的运营官，所有工位经你拍板，拉起经理与任务机器人并推有机增长. [PatrickBreen20](https://x.com/PatrickBreen20).
+- [Atlas — FOUR.DESKS Switchboard](https://x.ai/bot/8yW0q8kjOcnbzJZBsWZuc) - 自由职业者 FOUR.DESKS 运营公司的总机，把活分到个人、在营业务、未来工作室与点子桶. [MickeyDinges](https://x.com/MickeyDinges).
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) - 盯着物流，包裹一停就提醒你。 [liam_fallen](https://x.com/liam_fallen).
 - [Blair (Personal Shopper)](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) - 私人买手，找二手设计师单品，还能下单。 [jediahkatz](https://x.com/jediahkatz).
 - [BO Provider by Craig](https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd) - BlindOracle 市场服务方，自行注册、每日心跳、竞标并交付网页抽取任务，通过 x402 在 Base 上以 USDC 收款。 [Craig Brown](https://x.com/craigmbrown).
+- [Bob](https://x.ai/bot/csVKIHvcrRYcL8vmhvmSa) - 可调谐的数字电视搭档，与直播主持互怼、吐槽新闻并稳住场子. [jfkcaaz](https://x.com/jfkcaaz).
+- [Boss B](https://x.ai/bot/DGg-YKZc5Wwl7QN1O2sKG) - 多机器人小店的前门编排器，做计划、分给专家或 Grok Build CLI，并检查结果，自己不当第二程序员. [revrocketaeo](https://x.com/revrocketaeo).
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) - 零 ETH 的 BOTCOIN 挖矿装置，带新矿工上手。 [BOTCOIN](https://x.com/MineBotcoin).
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) - 翻邮件和账单，找你从没追过的退款和额度。 [Liam](https://x.com/liam_fallen).
+- [Bronn](https://x.ai/bot/dmdieR7YwBkRJN5xYKnn6) - 任意轮次的融资投资者关系机器人，找一度 LinkedIn 投资人，起草含蓄开场. [darrenmarble](https://x.com/darrenmarble).
+- [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) - 从小企业源文件起草账本、薪酬与税务，只在美式准则下填写与建议，绝不自行电子申报或挪钱. [RomanPotapovBiz](https://x.com/RomanPotapovBiz).
+- [BuyerBot](https://x.ai/bot/kQ7OlCrADIjztiAKsVR0Y) - 个人购物研究员与购买顾问，先摸清市场，再问几个问题后给建议. [d_ilash](https://x.com/d_ilash).
+- [Captain](https://x.ai/bot/SkSHokoCm92z9E-NFNmjr) - 主对接机器人，接你的任务，分给邮件、日历、网盘、旅行、支付、站点等专家代理，并汇报结果. [imagineinquiry](https://x.com/imagineinquiry).
 - [Chained Oblivion](https://x.ai/bot/Loekv1uecl26wWW0lNyfR) - 找出你还在付钱却没人用的软件。 [mjjefford](https://x.com/mjjefford).
-- [코인봇](https://x.ai/bot/ucu-nI-yeCdPeDp4cpL4X) - 在 Bithumb 优先做主流币，少交易、设盈亏带，五分钟看一次仓位。 [BBBang9900](https://x.com/BBBang9900).
+- [Chair](https://x.ai/bot/IvMu_agbpDBuRmg5tIbG3) - 智库主席，请来一线专家、做简报，并带回一个收紧的裁决，而不是一堆观点. [Z723jz](https://x.com/Z723jz).
+- [Chef Chad](https://x.ai/bot/lKFVQ4kzUz5_x8srvohP4) - 三口之家的私人厨师规划，简单工作日晚餐、购物清单与备餐. [TeslaTakesOver](https://x.com/TeslaTakesOver).
+- [Chief](https://x.ai/bot/nHYn9Fkzgb4kdVxjffvlc) - 现金时段权利金卖方的期权第二大脑，跑汁水扫描、硬出场与记分. [Ericmcfar](https://x.com/Ericmcfar).
+- [Chief of Staff](https://x.ai/bot/-JaP_is4JDAIoXwceMw_n) - 协调其它机器人，盯每日交易、差旅与市场，给你一份简报并分流工作. [atanasDimit](https://x.com/atanasDimit).
+- [Chief of Staff](https://x.ai/bot/2yakr9ZJFMYr_Pm4KSPZa) - 幕僚长前门，跑多笔交易、拉专家机器人窝、起草邮件与材料，你点头才发送或提交. [Milano718](https://x.com/Milano718).
+- [Chief of Staff](https://x.ai/bot/5xuys0uQSj797hyBbee7W) - 运营与财务向的市场盯盘幕僚长，小时级美股告警、纽交所 IPO 简报与可行波段提示. [maplewoodjeff](https://x.com/maplewoodjeff).
+- [Chief of Staff](https://x.ai/bot/ALGqTQAybLI0HXqFHcfe4) - 你的运营幕僚长，跑专家机器人、工作日简报，真要决策才拉你，含只读资本保全门. [abstally](https://x.com/abstally).
+- [Chief of Staff](https://x.ai/bot/CB5jWtH5syjPCb1Ccb5Ve) - 为专注投资桌在专家机器人间分流，早间简报再分发、资本保全门与决策升级. [GMStash](https://x.com/GMStash).
+- [Chief of Staff](https://x.ai/bot/Yz1IbEk1LEae03pdl8BZf) - 创作者与创始人的幕僚长，协调专家代理队，准备可开工的简报并盯交付. [architectjmj](https://x.com/architectjmj).
+- [Chief of Staff Desk](https://x.ai/bot/kcmEmRS4Z5YmFr_KRwSFL) - 开支受控的多机器人小店幕僚长，给专家开票与预算，并守门发送. [JamesBottom](https://x.com/JamesBottom).
+- [City Council Notes](https://x.ai/bot/5iQI6yBxiNFVwOQnS71xa) - 给本地政府会议写摘要与听证通知，拉议程与 YouTube 录像，整理花钱项. [Dswain661](https://x.com/Dswain661).
+- [Coin](https://x.ai/bot/QOQRcpreItQijaazrJ7wp) - 自动驾驶的 Coinbase Advanced Trade 管家，下单并管理中盘加密交易，含硬止损、分批止盈、周轮换与宏观现金仓. [xtevan](https://x.com/xtevan).
 - [Compute Spread](https://x.ai/bot/E3h1YsfGofjdYbHLPXjY1) - 优先走连接器和 API，少点页面，把算力花在干净路径上。 [SamE1311025](https://x.com/SamE1311025).
+- [Cosmo](https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf) - 给非程序员 Ultra 用户的生活系统幕僚长，管 Gmail、投资记分、电话桌、出书助产与硬隐私轨. [Malthusatraz](https://x.com/Malthusatraz).
 - [Cost Optimizer](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) - 在你的智能体栈里找出同样结果更省钱的路径。 [MadeItHappenX](https://x.com/MadeItHappenX).
 - [Cost-Smart Health Brief](https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM) - 把一个健康问题收成三分钟简报。 [GuleidAmina](https://x.com/GuleidAmina).
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) - 阿根廷独立卖家一次配好 ARCA，之后每月自动开 Factura C 并邮件发出。 [tomidelu_](https://x.com/tomidelu_).
+- [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - 政治与政府影像制作人的制片桌，质检并在 Tape 原生流程里做后期. [Mawlavisuals](https://x.com/Mawlavisuals).
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - 告诉你这笔该刷哪张卡，积分和权益才最大。 [trevin](https://x.com/trevin).
+- [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) - 经 Tailscale 调查真实 SIEM 或 EDR 告警，用短证据说明关掉误报，真阳性按你的 SOP 升级. [vladydaddy](https://x.com/vladydaddy).
 - [DaddyBot](https://x.ai/bot/MxbnEzdSvTZ-q3CDieMoc) - 从队列里每天跑三次免费 GoDaddy 域名估价。 [domainerdan](https://x.com/domainerdan).
+- [Daisy (Travel Rewards Desk)](https://x.ai/bot/QgAFcr09rf_GsGM-nNast) - 为叠里程、酒店身份与信用卡返现的情侣与家庭掌管行程与忠诚运营，建奖励目录并比较现金与积分. [Gregory44597294](https://x.com/Gregory44597294).
+- [Deal finder](https://x.ai/bot/F1gmAaLQNmXDj-PH_CEx3) - 盯你关心的商品，只有价格真正跌破基线或出现真折扣才叫你，面向安静的工作日. [bradgarcia](https://x.com/bradgarcia).
+- [Dealer ERP Ops Snapshot](https://x.ai/bot/e1QsUQXvdHmu9xPzpgRwQ) - 经销商 ERP 的工作日只读健康检查，未结服务单、缺失或过期计量等. [abstally](https://x.com/abstally).
 - [DeckLens (Pitch Deck Analyzer)](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) - 先访谈你做出评分表，再按它给路演材料打分。 [BrianDEvans](https://x.com/BrianDEvans).
 - [Denial Desk](https://x.ai/bot/EgfoyJEx7bfDiHlZUwr3P) - 读医疗拒付信和拒付码，再拼出一套申诉材料。 [Andrew51786](https://x.com/Andrew51786).
 - [DenTrade](https://x.ai/bot/XayB4rqAREYwJcPmKwtSP) - 在硬风险上限内，替 Robinhood 智能账户跑无人值守日内交易。 [madmenai](https://x.com/madmenai).
+- [Directories](https://x.ai/bot/bPn4rxqBjPaEnJ2qurHZx) - 工作日节奏把产品提交到免费或易上的 SaaS 与 AI 目录，并跟踪状态. [Raress96_](https://x.com/Raress96_).
 - [Do Not Pay](https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4) - 帮你顶回不该付的费用，并起草申诉或拒付信件。 [DennisonBertram](https://x.com/DennisonBertram).
 - [Domain Tracker](https://x.ai/bot/SwaSdg0XhIa_IliAWggYE) - 盯着你已持有的域名，也盯着还想入手的那些。 [sdrth](https://x.com/sdrth).
+- [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) - 产品化服务创始人的幕僚长，跑代理机群、盖章报价与发布门，让早晨先抓钱并留下可拍摄瞬间. [topshoh](https://x.com/topshoh).
 - [Early-Stage Funding Scout](https://x.ai/bot/1AFXHf0OtQ-J4-eP5wgC5) - 帮创始人找加速器和种子轮，并提醒申请窗口。 [neslyio](https://x.com/neslyio).
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - 做编号、不吹的财报一页纸，再盯一份股票名单。盯着的名字出数就写一篇。 [Sachiv](https://x.com/SachivM99).
+- [Elder Parent Finances Tracker](https://x.ai/bot/q7LHYJHuQfjaVRR8U1Fdo) - 帮成年子女管理年迈父母的钱，护理费用、投资支取与账单. [c_murray](https://x.com/c_murray).
+- [Elliott Wave Pro](https://x.ai/bot/SbsjQzSlRFqIXosjenXH7) - 流动加密与上市股票的艾略特波浪分析，标注结构、投影斐波那契目标并写明失效条件. [BitrockLLC](https://x.com/BitrockLLC).
+- [Email Bot](https://x.ai/bot/CunRrFqccrsoG7DFDqz5Y) - 面向 Gmail 的助手，按你的口吻起草并发送润色邮件，保留签名，并处理重复邮件杂务. [DSGFalcon9](https://x.com/DSGFalcon9).
+- [ESA Vendor Desk](https://x.ai/bot/GBB4tGs-8cSl8DTX3zhyg) - 跑多州 ESA 与代金券供应商申报、ClassWallet 卫生与课程目录上架，服务古典基督教课程商. [AnotherJoe](https://x.com/AnotherJoe).
+- [Exec Daily Ops](https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ) - 工程早间简报，草稿回复留给你发送. [kumarkandgule](https://x.com/kumarkandgule).
+- [Fantasy Football Agent Manager](https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7) - 多联赛梦幻足球店的前门总经理，把球迷活分给专家并汇总阵容建议. [androiydai](https://x.com/androiydai).
 - [Fenrir (Paper Trading)](https://x.ai/bot/FReKiR82_-lF359lhshpR) - 在 NSE 或纳斯达克上跑模拟交易赛。 [shantanugoel](https://x.com/shantanugoel).
+- [FF GROK](https://x.ai/bot/tLkBkT_BKHPMlhlYIEXON) - 梦幻足球联合经理，每日摘要、捞人与出场坐场建议，以及交易雷达. [AnthonyBozzo](https://x.com/AnthonyBozzo).
 - [Finance Bro](https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20) - 安静的 Apple Wallet 花费跟踪，每天早晨对账，并按真实消费给实用提醒。 [maail](https://x.com/maail).
 - [Fixer (Liam)](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) - 把你一直拖着的行政活丢给它，它会差不多办妥。 [liam_fallen](https://x.com/liam_fallen).
+- [Flat hunter](https://x.ai/bot/amNEjElPIlHuan3BCbOT2) - 伦敦租房猎人，多门户短名单并硬性要求现代浴室，再确认看房. [0xashrk](https://x.com/0xashrk).
 - [Flippy](https://x.ai/bot/OfHECnXmPPavf-l_rZufo) - 每天盯着 OpenSea 铸造进度，提醒各钱包现在能打哪一阶段，并抓取相关热帖。 [DIEGO](https://x.com/diegoarmandoAD).
 - [Fomo Live Bot](https://x.ai/bot/4fmde5VhCGJGeCiqn96D3) - 按小时纸面跟单你已关注的 FOMO 交易员，进出规则锁定，确认后才切实盘。 [The Advisor.btc](https://x.com/theadvisorbtc).
+- [Four Desks Circuit](https://x.ai/bot/Y9y8k-uDEBQESnan7klFI) - ZZP 风格运营公司的安装地图，个人、在营业务、未来工作室与点子桶四桌. [MickeyDinges](https://x.com/MickeyDinges).
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - 替独立接案人追提案、发票和里程碑。 [Josh](https://x.com/joshkim).
+- [GBP Post Cadence](https://x.ai/bot/qHgP-l6Z1rFXMv3qUbQQ5) - 周一三五早间从素材库发一条谷歌商家资料更新. [abstally](https://x.com/abstally).
+- [General Manager](https://x.ai/bot/nP63M9gPtuovCKB-J22pw) - 多门店美发生意的执行运营经理，协调专家并盯各店指标. [thebigsword_](https://x.com/thebigsword_).
 - [Gerente Ops](https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ) - 西班牙语后台经理，管日结、账本、库存和上架。 [JASCPROVZ](https://x.com/JASCPROVZ).
+- [Gimli](https://x.ai/bot/Gus0sWvCGM8RhHyGED9AF) - 乐高市场店铺运营，覆盖 eBay，以 BrickLink 为库存真源，店铺开时同步 BrickOwl，安静告警. [RumblinTum](https://x.com/RumblinTum).
 - [Grant Packet Assembler](https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef) - 按佐治亚州项目要求起草合规申报包，只写稿不提交。 [OmgawdMadeit](https://x.com/OmgawdMadeit).
+- [Grocery and Home Buying](https://x.ai/bot/NrL49IwUkMLbQSl8VHH_S) - 从亚马逊与沃尔玛维护家庭常购目录，说需要果酱就能补上次同款，默认先加购. [derekvisch](https://x.com/derekvisch).
+- [Grok Bot](https://x.ai/bot/4jtnk5wsk0UMpDSNqG4Oc) - 用这个模板新建机器人，或套到已有机器人上. [kennytjay](https://x.com/kennytjay).
+- [Grokinhood](https://x.ai/bot/0dutdroToJ4yVB7xHHGCJ) - 自动跑 Robinhood 实盘，按仓位剧本交易，大约三十分钟一轮管理. [itll_do](https://x.com/itll_do).
 - [Grokleros](https://x.ai/bot/vsCDaIn2Od_BkfWp0Vehm) - 全天候的 Kleros V2 陪审员，先看证据像素，再用 AgentKit 投票。 [JayBuidl](https://x.com/JayBuidl).
 - [Haggle Bot](https://x.ai/bot/pwQ612YrX3R0eACnIMlom) - 从 Ramp 与账单盘点 SaaS 花费，找闲置席位、重复订购与更便宜替代，并起草谈判邮件。 Daniel Gartshein.
+- [Haggler](https://x.ai/bot/7ACPQT5hov7BkBeQOzusu) - 咖啡馆经营者的砍价助手，谈供应商条款、盯收件箱待办、按你的口吻起草外发. [Cafenea_Coffee](https://x.com/Cafenea_Coffee).
+- [HNIC](https://x.ai/bot/gBIsnjL6CucNZAW_ByGPx) - 幕僚长机器人，把活分给专家，强制审批与交接，并盯结果. [Macro_Harder](https://x.com/Macro_Harder).
+- [Home Remodel Job Desk](https://x.ai/bot/5hnU4GX1pgNj_VcmFcZQJ) - 住宅承包商的单案改造桌，买料、收据、分包与现场核对，钱规锁死，邮件只起草. [hwfeinstein](https://x.com/hwfeinstein).
+- [Hondo](https://x.ai/bot/GCJq15oQEo2bPS9zQFjMg) - 花费与 SaaS 泄漏桌，工作日扫收据，建带置信标签的订阅清单，并起草取消或再谈判说明. [MavIgnite](https://x.com/MavIgnite).
+- [House-Hunt Assistant](https://x.ai/bot/ssC5TnXkyb1lkdzOa21Mg) - 说清地点与最高价，一天两次给你匹配房源摘要，让找房更省事. [al1__x](https://x.com/al1__x).
 - [InsiderMillions](https://x.ai/bot/yaix3I-36pEloG1XpLVOb) - 高管和大股东百万以上买入的短简报，不是投资建议。 [rmarwah](https://x.com/rmarwah).
+- [Invention Engineer](https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz) - 从你已有的工具、打印机、零件、预算与技能出发，补全计划、物料清单、采购与搭建步骤. [Wardonis](https://x.com/Wardonis).
 - [Investor Bot](https://x.ai/bot/UWNGpcghM9H79JCb4of5Q) - 管一小本券商账户的波段交易，止损写死，告警尽量安静。 [MadeItHappenX](https://x.com/MadeItHappenX).
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) - 从 Gmail 里找出发票 PDF，把一个月打成一份表格。 [Andrej](https://x.com/scheemunai).
-- [旅行手配エージェント](https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-) - 比较便宜又省事的路线，再订机票、铁路和酒店。 [kinopee_ai](https://x.com/kinopee_ai).
-- [登記とりよせ](https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y) - 一步步带你申请日本公司登记簿誊本。 [sat0xshi](https://x.com/sat0xshi).
+- [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) - 保持 Harvest 与 Balances 发票同步，每日从 Harvest 创建或更新到 Balances. [Jerrod](https://x.com/jerrodtuck).
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) - 全国找当前汽车租赁优惠，盯对标价折扣最深的。 [dannymacias](https://x.com/dannymacias).
+- [Lot Boss](https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5) - 二手车双通道桌面，十五天清仓收五百美元，或当日收购按三十天零售曲线，改价前先问你. [carsandcanvas](https://x.com/carsandcanvas).
+- [Medical Aid](https://x.ai/bot/rB9CBpOPXvWgmkcFr4DjN) - 跟踪医疗计划发票、理赔、汇款以及医生与药房单边，避免漏报. [DurbsSb53374](https://x.com/DurbsSb53374).
 - [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) - 对照公开的保护条款看明细账单，起草争议信给你自己发。 [MSaintjour](https://x.com/MSaintjour).
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) - 查澳大利亚公司档案，并帮你接上 Milypay。 [1Milysec](https://x.com/1Milysec).
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) - 找合法赚钱办法。第一次运行会装 agentself 并建钱包，然后再找机会。 [Michael](https://x.com/mbhound).
 - [Mr. Dufrain](https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5) - 盯个人账本进出，在扣款落地前提醒你挪钱。 [zilarwitch](https://x.com/zilarwitch).
 - [Nessie](https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_) - 协助起草美国全民分红与主权财富方案，锁定下限、工资阶梯和真实筹资来源。 [Alec](https://x.com/AlecSnelling).
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) - 增长团队的 PLG 数字台，回答时给出数字、定义、来源查询与限制，只读不瞎估。 [JaySahnan](https://x.com/JaySahnan).
+- [Ops Knowledge Observer](https://x.ai/bot/CIgxhKdiPj7KflehWkaEr) - 只读的公司大脑，整队机器人都能查阅. [StephenRuhe](https://x.com/StephenRuhe).
+- [Oracle Payables Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) - 协助 Oracle Fusion Cloud 应付账款，查财务 REST API，创建并核对应付单据. [__KumR__](https://x.com/__KumR__).
 - [OweNo](https://x.ai/bot/gDBMpvw8W4H3KqliukLty) - 还债教练，先看账单，银行操作要你点头才开。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) - 业主经营者的主界面，保护专注，把活分给专家，决策时才打断你. [allantsivils](https://x.com/allantsivils).
+- [PantryPatrol](https://x.ai/bot/BiPCHML6s0cTYPhm4c72_) - 盯 MyFitnessPal 饮食记录，分析你真吃了什么，再备好 H-E-B 配送购物车，免提补货. [Jack_137](https://x.com/Jack_137).
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) - 现金底线教练，盯着余额发薪前别跌破底线。 [SuddenlyJon](https://x.com/SuddenlyJon).
-- [人生·财务](https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB) - 口头记一笔花销就能入账，夜里有摘要，月底再回看。 [KinGao476942](https://x.com/KinGao476942).
+- [Personal Finance Assistant](https://x.ai/bot/QUfBYJFLQCG_iqldjcI_z) - 个人理财助手，给 EveryDollar 开支分类，需要时查亚马逊订单与 Gmail 收据，并辅导可自由支配开销. [MiguelAlexCantu](https://x.com/MiguelAlexCantu).
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) - 积分出行大脑，把点数怎么花算明白。 [poteto](https://x.com/poteto).
+- [Polymarket Scans](https://x.ai/bot/x_TnIafQbUyz5XbDGMz20) - Polymarket 美盘下注桌，结合公开参考扫描现场盘口并控制仓位. [automaticslay](https://x.com/automaticslay).
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) - 找出你已经该收、却还没去要的钱。 [Lauren](https://x.com/poteto).
 - [Precog wARS](https://x.ai/bot/7M8RpppF2AistbVbeEPyN) - 用西班牙语读 Precog 预测市场赔率，从不下单。 [ferminrp](https://x.com/ferminrp).
+- [Privacy Ops](https://x.ai/bot/ZfnCBw8WnIgMynLlika6H) - 数据经纪与死账号清理队列，找曝光与遗忘登录，起草下架与删除请求. [MehlyHQ4m](https://x.com/MehlyHQ4m).
+- [Prospector SR360](https://x.ai/bot/TYiFIZd7djkcCy_wdymgv) - 本地商业指南的销售助理，在 Google 地图上找强商家，整理免费基础卡片并推进付费档. [alodie10](https://x.com/alodie10).
+- [Public Verify Desk](https://x.ai/bot/sLPjnF3cziLjIcx48ftmI) - 核查公开用户名、店铺、上架、域名、招聘帖或图片是否像真的. [MAGAmechanic60](https://x.com/MAGAmechanic60).
 - [Quote Collector](https://x.ai/bot/FI36ngq3zTUOFQrYc-XQX) - 为指定的一件活，向本地工匠收可比报价。 [liam_fallen](https://x.com/liam_fallen).
 - [Ramp](https://x.ai/bot/zMMAByt3oW_t2ua1NZa9X) - 在工作邮箱里找远程用餐小票，并挂到对应的 Ramp 报销单. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Reaper](https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73) - 找出该砍掉的订阅、会议和流程。 [Liam](https://x.com/liam_fallen).
@@ -680,15 +940,22 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [RevenueDog](https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT) - 早上醒来就有昨天的订阅数字，外加一条值得试的改进。 [Lex](https://x.com/lexrus).
 - [RewardsMaxxing](https://x.ai/bot/upsD2c_qFmh6n4biksRvi) - 每笔消费刷回报最高的那张卡。 [ishuagra02](https://x.com/ishuagra02).
 - [Rockman](https://x.ai/bot/g3NyqeycJ7qhTlcBNV8Mo) - 先核对装备规格，再告诉你该买什么。 [0xJONZE](https://x.com/0xJONZE).
+- [Seamore](https://x.ai/bot/8WjAjMTjfyF6wfzx-5Si3) - 旅行代理，按真实日历与偏好找行程，先查空位再猎好价，未经你同意不订票. [TheTweekerr](https://x.com/TheTweekerr).
+- [Selling Vigilance](https://x.ai/bot/NI5Na1mizTVfu5t6XD5ad) - 把店面照片与口述细节变成带编号、照片卡与可打印 PDF 的标价库存，白天自动备份以免丢. [VigilanceRifles](https://x.com/VigilanceRifles).
 - [Senior Analyst](https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV) - 把财务报表图片识别进表格并写出带出处的备忘。 [tobias_pfuetze](https://x.com/tobias_pfuetze).
 - [Serenity 티커 알림](https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ) - 每十五分钟经 FxTwitter 盯 Serenity 相关讨论。 [Krongggggg](https://x.com/Krongggggg).
 - [Settled](https://x.ai/bot/KcyJHCgCu7nrrPXYxs1b4) - 记账饭局旅行和打车谁欠谁，再起草一条不尴尬的催款。 [TuracTheThinker](https://x.com/TuracTheThinker).
+- [Ship Gate](https://x.ai/bot/k-CdVynq7kxNU0jMv2n9K) - 独立与公司应用的 App Store 与 Google Play 发船船长，跑上架检查清单. [psoreilly](https://x.com/psoreilly).
 - [Shitcoin Bot](https://x.ai/bot/FZ2y08eidLg4yvW5ygz01) - 用你亏得起的一小笔 USDC 在 Coinbase 做有规则的山寨币交易。 [mikepat711](https://x.com/mikepat711).
 - [ShopBot](https://x.ai/bot/rBXWgythSa09pIp14rnV4) - 搜 Shopify 目录、找优惠券，再挑最合适的卡。 [shubgaur](https://x.com/shubgaur).
+- [Shopify Syndy](https://x.ai/bot/6yIaG8OpLChIxIsXLXuNO) - 专责把多源凌乱产品输入收成干净 Shopify 商品页并发布，新建或更新都行. [abcdmku](https://x.com/abcdmku).
 - [Shopper](https://x.ai/bot/h5CE1r5-LDWHacnuRuuOW) - 在官方店里找正品，把购物车推到结账。 [FranciscoKemeny](https://x.com/FranciscoKemeny).
-- [부업봇](https://x.ai/bot/g17AUEbD0Oo-5b1HDpuQB) - 验证需求、做数字商品并上架曝光，不做明显卖不掉的动作。 [BBBang9900](https://x.com/BBBang9900).
+- [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) - 用一队专家 Grok Bot 跑小型产品生意，协调市场、采购、社交、公关、周边与合规，你仍是最终拍板. [texastoylab](https://x.com/texastoylab).
+- [Spark BTC Bot](https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z) - 在聊天里用 Lightning 结账，买礼品卡、eSIM 与 VPN，需要时在闪电与链上挪动 sats. [sparkbtcbot](https://x.com/sparkbtcbot).
 - [Sterling](https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k) - 低调的理财搭子，盯着账户余额，但不替你动手。 [FSD](https://x.com/jchybow).
 - [Stitchy (Personal Stylist)](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) - 每天早上给一套新穿搭，夜里帮你淘便宜货。 [Mitch_Sweigart](https://x.com/Mitch_Sweigart).
+- [Stock Video Summaries](https://x.ai/bot/fEKm3hXOWNegRH_DKKYqg) - 按小时自动加工作日前盘前，盯股票教育 Discord，并摘要可执行点. [edengil94](https://x.com/edengil94).
+- [Stripe Accountant](https://x.ai/bot/VN-2VyKG5EWKC7h4Qhhke) - 为会计对账 Stripe 收款、发票与余额，出摘要、Excel 工作簿与月度账实相符检查. [RawSteelRaw](https://x.com/RawSteelRaw).
 - [Stripe Expert](https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW) - 盯着 Stripe 实时 MRR 与订阅，工作日早上汇总新客与退订及他们待了多久。 [appeeky](https://x.com/appeeky).
 - [SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) - 翻你的邮箱，揪出在悄悄扣费的订阅，并指名该砍哪些。 [Finiti](https://x.com/tahaabuilds).
 - [Subrotate](https://x.ai/bot/Uo1B3L6OhucZtpbxhTD2S) - 管个人订阅轮换，分清在用、停用和每月大概花多少。 [TuracTheThinker](https://x.com/TuracTheThinker).
@@ -706,26 +973,39 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Token Cop](https://x.ai/bot/Ml4ynlD6O1VT5CoYmFnEa) - 管各代理的代币花销，并给出省用量建议。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Token Maxxing](https://x.ai/bot/f6srhE3vkMevccaw8DLPf) - 分配构建路径，让 Bot、Build 和 Cursor 额度别先被掏空。 [iggynore](https://x.com/iggynore).
 - [Token Officer](https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP) - 审计一队机器人里重叠的定时活和绕圈对话，点名白烧的 token。 [from_glasses](https://x.com/from_glasses).
-- [토스 증권 주식 투자봇](https://x.ai/bot/znMFERdq0zEC74735Szxm) - Toss 证券 Open API，看韩美报价，下单要同时给定代码和数量。 [brandonchung75](https://x.com/brandonchung75).
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) - 自主短线股票台，目标在专用券商现金账户上跑赢 SPY，读盘并下单前仍要你确认关键规则。 [farzyness](https://x.com/farzyness).
 - [Trading](https://x.ai/bot/XW2DibYh5BRunhH_f373u) - 新闻驱动的日内交易 Bot，接实盘账户，单票重仓。风险极高，先读代码。 [Travis](https://x.com/TravisWeathers).
+- [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) - 懂积分的旅行运营代理，建行程总部，猎航班酒店，比较现金与积分. [manan_suneja](https://x.com/manan_suneja).
 - [travel guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) - 按你家机场、积分和会籍来排积分出行。 [congressdj](https://x.com/congressdj).
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray 交易工作台。 [Ortix008](https://x.com/Ortix008).
 - [Usage Watch](https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j) - 盯 Grok Bot 与 Cursor 花费对照日上限，点名烧钱习惯。 [compileinstyle](https://x.com/compileinstyle).
+- [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) - 只做浏览器漏斗搭建工具的转化路径情报，如 ClickFunnels 与 GoHighLevel. [davincivibecode](https://x.com/davincivibecode).
 - [VetStack](https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL) - 面向军人家庭的省钱台，管采购、订阅、收据和福利提醒。 [kenashe](https://x.com/kenashe).
 - [Visa割bot](https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c) - 登录 Visa割 账户，把未使用的抽选和轮盘优惠逐个转完。 [Daru](https://x.com/countertek).
-- [记账管家](https://x.ai/bot/WW-UbmTKXn79q0yXapvJE) - 用文字、小票截图或语音入账的私人账本，可选同步飞书多维表。 [铁柱AGI](https://x.com/cgnot996).
+- [Visibility Marketer](https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF) - 为 Grok Bot 模板做免费自然流量营销，写像人的文案，找无需新开账号的曝光，发在你已有的号上. [Wardonis](https://x.com/Wardonis).
 - [Volt](https://x.ai/bot/QZ6VW1zRJTb4ZY5DNk5pm) - 在你所在地找最便宜的 Tesla 租赁或购车方案。 [benngarnish](https://x.com/benngarnish).
 - [Wall Street](https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm) - 做一本假想交易账，记下盈亏，从不真下单。 [CoonInvestments](https://x.com/CoonInvestments).
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) - 每周扫收件箱，盯续订、收据和快到期的试用。 [SmoresBoy](https://x.com/jxckvibe).
+- [Webshop](https://x.ai/bot/g0rb6kTReiBG4dN5kGIWZ) - 为涂料专营店搭建并运营网店与公司站，含目录、结账与内容. [JakobOrth](https://x.com/JakobOrth).
 - [Weekly P&L analyst](https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc) - 每周出一份财务读数，专盯往回滑的指标。 [ColinMcDermott](https://x.com/ColinMcDermott).
-- [薅羊毛 (Wool Radar)](https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w) - 只盯你真会买的东西和订阅优惠，没合适的就闭嘴. [BenXlab](https://x.com/BenXlab).
+- [Wire](https://x.ai/bot/y73FMiyQPFY_IdrbckyFj) - 数据驱动且交易需批准的代理桌，覆盖 Coinbase、Robinhood 等. [j6commission](https://x.com/j6commission).
+- [Wrench](https://x.ai/bot/10UCYGVK9ZlGjLMudEHwd) - 你的保时捷修车搭子，诊断、保养、用车建议，直说到底该不该修. [jeffleemoon](https://x.com/jeffleemoon).
+- [X Bot](https://x.ai/bot/8MKcuoPe51KZnLiN3m4oU) - 运营一个 X 账号，起草、排期、点赞、回复、关注与抽奖，都从已登录号执行. [TejasCh32900009](https://x.com/TejasCh32900009).
+- [X Brand Social Manager](https://x.ai/bot/zEp21nf39S9qZxcue-rP8) - 运营 Etsy 数字手作品牌的 X 账号，日更、增长、互动与节奏. [MertMusozay](https://x.com/MertMusozay).
 - [x402 bot](https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg) - 用自然语言做 Solana 交易台，走 Jupiter 等工具，不在聊天里存私钥。 [8Bit](https://x.com/0rdlibrary).
 - [x402 Marketplace Operator](https://x.ai/bot/gC5Kmx6p0ALPtnN7W6Xou) - 把技能和 Grok Bot 打成上架文件，从不签名或付款。 [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [YieldSentinel A2H](https://x.ai/bot/RFXogCwTbb2mUODW6rfVe) - 你下手前，按你定的规则核一笔 DeFi 收益仓。 [MyEnsNames](https://x.com/MyEnsNames).
+- [부업봇](https://x.ai/bot/g17AUEbD0Oo-5b1HDpuQB) - 验证需求、做数字商品并上架曝光，不做明显卖不掉的动作。 [BBBang9900](https://x.com/BBBang9900).
+- [코인봇](https://x.ai/bot/ucu-nI-yeCdPeDp4cpL4X) - 在 Bithumb 优先做主流币，少交易、设盈亏带，五分钟看一次仓位。 [BBBang9900](https://x.com/BBBang9900).
+- [토스 증권 주식 투자봇](https://x.ai/bot/znMFERdq0zEC74735Szxm) - Toss 证券 Open API，看韩美报价，下单要同时给定代码和数量。 [brandonchung75](https://x.com/brandonchung75).
+- [人生·财务](https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB) - 口头记一笔花销就能入账，夜里有摘要，月底再回看。 [KinGao476942](https://x.com/KinGao476942).
+- [旅行手配エージェント](https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-) - 比较便宜又省事的路线，再订机票、铁路和酒店。 [kinopee_ai](https://x.com/kinopee_ai).
+- [登記とりよせ](https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y) - 一步步带你申请日本公司登记簿誊本。 [sat0xshi](https://x.com/sat0xshi).
+- [薅羊毛 (Wool Radar)](https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w) - 只盯你真会买的东西和订阅优惠，没合适的就闭嘴. [BenXlab](https://x.com/BenXlab).
+- [记账管家](https://x.ai/bot/WW-UbmTKXn79q0yXapvJE) - 用文字、小票截图或语音入账的私人账本，可选同步飞书多维表。 [铁柱AGI](https://x.com/cgnot996).
 - [账单进口](https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH) - 把微信和支付宝账单 CSV 或截图解析去重分类，预览确认后再写入账本。 Tony.
-## Content & publishing
 
+## Content & publishing
 
 - [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) - 把一个场景创意铺成宽幅全景，再切成四张可滑动的分格。 [Knock](https://x.com/SuddenlyJon).
 - [AdaptlyPost](https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR) - 一个 Bot 写稿、排队，发到九个社交网络。 [Taras](https://x.com/tarasshyn).
@@ -736,44 +1016,59 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f) - 把一张照片做成一小段有情绪的短片。 [KinGao476942](https://x.com/KinGao476942).
 - [AIO Specialist (AEO/GEO)](https://x.ai/bot/wOvqAFpr3o8VB3g4Tmpxr) - 把 AI 概览和回答引擎优化当成常驻项目来跑。 [mathiasnoyez](https://x.com/mathiasnoyez).
 - [AMV Desk](https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk) - 从分镜到成片审片链接的混合 AMV 工作室台面。 [littletechbird](https://x.com/littletechbird).
-- [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) - 把建筑或桥梁点子做成一支竖屏解说短视频。 [BBBang9900](https://x.com/BBBang9900).
+- [Archer](https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w) - 管理一队机器人，让在线产品目录保持最新. [dukezone](https://x.com/dukezone).
 - [Arthur](https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W) - 给主题和适读年龄，写出一整本儿童图画书。 [LatchKeyLegend](https://x.com/LatchKeyLegend).
+- [Articles of the Day](https://x.ai/bot/R2duZdd4Ah0P8uCToacmc) - 工作日今日文章，从大刊在 X 上免费分享的全文里挑文，按你的阅读偏好排序并呈上. [Jamilly44833887](https://x.com/Jamilly44833887).
 - [AvatarMaker](https://x.ai/bot/EfBhh8nwpuGD0XNfl0eBI) - 给个人资料和品牌生成头像，并反复改到满意。 [Andrew51786](https://x.com/Andrew51786).
 - [Berliner](https://x.ai/bot/YhRPa_eYk4yramoMJOo6F) - 每周整理一份柏林 techno 歌单，并附上曲目听感笔记。 [mattvagni](https://x.com/mattvagni).
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) - 按你的素材规划整段剪辑，交出可审的成片。 [XFreeze](https://x.com/XFreeze).
+- [Bid Desk Bot](https://x.ai/bot/0yugqK0MhQxGg9-Lsc1rs) - 帮一人物流创业公司规模化找合同，按客户需求向真实公司写标书，而不是空转. [RoskrLC](https://x.com/RoskrLC).
 - [blogdrafter](https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi) - 从笔记起草和润色博客，靠你的写作档案保住本人语气。 [daisuke](https://x.com/daisuke).
 - [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) - 贴一个落地页地址，收到资深营销人毫不客气的点评。 [Tal](https://x.com/Talsiach).
-- [떡이](https://x.ai/bot/WWh_DzFT09A2-d12tUvj1) - 只做一件事，把指定 X 账号变好，一次诊断卡住的原因，再写一条对方口吻的下一帖。 [poteto](https://x.com/poteto).
+- [BONES Desk OS](https://x.ai/bot/yhE7cJAuSSPZZ5jm4cX2P) - 人在回路的商业工头，分流支持、教育交接、裁切质检与付费通道. [ContentCtv](https://x.com/ContentCtv).
+- [Bot Forge](https://x.ai/bot/C_zFk7bh4S8yDdy0JxAVY) - 设计职责收紧的单一任务 Grok Bot，先问偏好，创建后再核对线上档案. [daverice777](https://x.com/daverice777).
 - [ChatPRD](https://x.ai/bot/36vKs2HSysdaJDe6OLD4w) - 产品经理，所有规格和调研文档都放在 ChatPRD 里。 [clairevo](https://x.com/clairevo).
+- [Chief of Staff](https://x.ai/bot/r9LdilTFjkUL6grapGqcE) - 预测观众会注意、感受与记住什么的头心手沟通系统幕僚长，协调多 AI 席位. [CharlesEYoung3](https://x.com/CharlesEYoung3).
 - [Clip Bot](https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M) - 从任意 YouTube 播客切出带字幕的横版高光。 [Lon](https://x.com/ThisWeeknAI).
 - [ClipMaker](https://x.ai/bot/b986_CbfzB8jKLcU14LTi) - 从 YouTube 视频里剪出你要的那一段，并转成文字稿。 [Luigi](https://x.com/r40_io).
 - [Clipper](https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V) - 把视频切成短片和带字幕的动图，笑点它自己挑。 [thesoragirls](https://x.com/thesoragirls).
-- [Sitcom banger](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) - 先写剧本，再把点子做成情景喜剧式短片。 [altryne](https://x.com/altryne).
+- [Código.Gamer](https://x.ai/bot/w0wamvGSIRi9if0ggIhJd) - 让你的游戏构建与环境保持最新，再起草 Instagram 帖. [merliac84](https://x.com/merliac84).
 - [Content Growth Coach](https://x.ai/bot/sMmoqCElqRPj1RYbtngMr) - 告诉创作者先改哪一处，数字才会动。 [SmoresBoy](https://x.com/jxckvibe).
 - [Content Writer](https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr) - 写界面上那些真正决定用户能不能把事办完的字。 [UCDOps](https://x.com/ucdco).
 - [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) - 把选好的选题写成轮播图的逐页文案和整条配文。 [Gabriel](https://x.com/adamuchigabriel).
+- [Creator Ops Chief](https://x.ai/bot/3iY_l-3N7JEs18BEABYT7) - 按真实数据跑 TikTok 与短视频创作者运营，含增长实验、品牌私信、隐私清理与内容包. [SavannahTN88](https://x.com/SavannahTN88).
 - [Critiquito: Design Critique](https://x.ai/bot/NqdH9qGvrq-yWRaXhJGM-) - 把截图或 Figma 链接收成带排序的具体设计批评，覆盖层级、字体、色彩、文案与无访问。 [Manuel Muñoz Solera](https://x.com/mamuso).
 - [dadprotech brand manager](https://x.ai/bot/F7rovUv9EumNAoj9vEAWm) - 每天给一条帖子和回复建议，用主人自己的口气。 [joshkim](https://x.com/joshkim).
 - [dbs](https://x.ai/bot/l6H6WL7HF-CAwcvr1hBey) - 斜杠命令工具箱，管生意、内容和下一步干什么。 [Leechael](https://x.com/Leechael).
+- [Dee Jay!](https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_) - 挖出被忽视的英国舞曲唱片，并整理背后的曲库. [CarlosSalas](https://x.com/CarlosSalas).
 - [Demo Video](https://x.ai/bot/htSXUJUQlVr60m9L_unBa) - 录下正在跑的网页应用并交回带旁白字幕的演示片。 [KdJadeja911](https://x.com/KdJadeja911).
 - [Designer Assistant](https://x.ai/bot/mDbMcGECO8ASZKUdm9nd5) - 空间、派对、活动和婚礼的设计助手，帮你找单品、定造型、采购并起草邮件。 [amberdawn1786](https://x.com/amberdawn1786).
-- [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) - 按法规与官方依据，独自策划上架克梦电子书。 [BBBang9900](https://x.com/BBBang9900).
+- [Dnd](https://x.ai/bot/llmJc5n7NsC1ZUpL4YUdx) - 精简版第五版龙与地下城的群聊地下城主，把朋友安排在同一房间开打. [briceayres](https://x.com/briceayres).
+- [Do You Know It](https://x.ai/bot/qqri--MjKj0It7LYwqYqu) - 丢来 EPUB 或 PDF，按真实章节生成核对与揭晓式自测测验. [FordCrews](https://x.com/FordCrews).
+- [Elon](https://x.ai/bot/skVoYDfnNUPqUYIxkjXJK) - 公司、产品、AI 与制造的第一性原理对练搭档. [darke_mike6767](https://x.com/darke_mike6767).
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) - 拿定稿的文案简报，产出轮播图和单图的视觉素材。 [Gabriel](https://x.com/adamuchigabriel).
+- [Estimator](https://x.ai/bot/NOh5kiDUMNc7AJrAJSsI0) - 豪华饰面与精装木作估价师，读图算工时与工期，交付可编辑 Word 报价，并守住售价纪律. [mikey_entenza](https://x.com/mikey_entenza).
 - [Ezra](https://x.ai/bot/YlbxRlO-HM1TEC6l2YSM6) - 把讲道收成印尼语的小组笔记和完整教案。 [lapaksquare](https://x.com/lapaksquare).
 - [facebook group scout](https://x.ai/bot/C7ZoMLPxEbFmu0-iAieFj) - 盯着你点名的 Facebook 小组，找值得回的帖。 [joshkim](https://x.com/joshkim).
+- [Fantasy Football Manager](https://x.ai/bot/WJc0G06lrr_H9OEyQ8Ijl) - 面向 ESPN 联赛的每周梦幻足球教练，给出场坐场、伤病清理与捞人建议，半 PPR. [treknhenry](https://x.com/treknhenry).
 - [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) - 在 Figma 里用真组件做设计而不是在外面截图空谈。 [johnbai](https://x.com/johnbai).
 - [FreeBot Gen](https://x.ai/bot/Z9SkA7zeEf33Mn5SvfV5W) - 像装扮应用一样生成 freebots.lol World 角色。 [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Fridge $CIGS Meme Generator](https://x.ai/bot/RrZNfN062oERy27w3kGhR) - 把上传照片里的香烟换成无糖可乐罐，做成梗图. [FridgeCigsSol](https://x.com/FridgeCigsSol).
 - [Game Art Director](https://x.ai/bot/KQnsHIvv4_Xk7HyhmewP3) - 把游戏概念收成风格指南、色板与提示表，切精灵图并检查调色与网格一致性。 [Danny Limanseta](https://x.com/DannyLimanseta).
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) - 一份简报变成一整套合品牌的创意物料。 [arni0x9053](https://x.com/arni0x9053).
+- [Grady](https://x.ai/bot/ulZYdw7RSExT42gWe_gTb) - 肯定语机器人，对照使用督导，在专家做得好时点名表扬. [WillPasch_](https://x.com/WillPasch_).
+- [Grok Bot](https://x.ai/bot/Pa8G-Ldh5jU_jozWEu2Cs) - 用这个模板新建机器人，或套到已有机器人上. [Calelackey](https://x.com/Calelackey).
 - [Grok Deck](https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI) - 把你的讲稿要点变成浏览器里能直接放的 HTML 幻灯片。 [Mai](https://x.com/MaiYangAI).
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) - 在一个地方复盘广告、搜索和 Shopify 的表现。 [Dmitry](https://x.com/irabukht).
+- [GrokBot Builder](https://x.ai/bot/4Jcdv4vroHLWTrx4H5mGH) - 和你一起脑暴专家型 Grok Bot，再创建清晰职责、审批边界与起步习惯，一次从点子到队友. [obedmhg](https://x.com/obedmhg).
 - [growth desk](https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO) - 给一个 X 账号起草帖子和增长打法，从不自己发出。 [Av1dlive](https://x.com/Av1dlive).
+- [Head of Brand](https://x.ai/bot/Vzz6Zz-4efWXs8nXB58pK) - 让每件作品都像你，稳住整支 AI 劳动力的品牌差异、定位、信息、叙事与对齐. [cdotposcon](https://x.com/cdotposcon).
 - [Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ) - 把带着 AI 腔的草稿改成读起来像人写的。 [Massimo](https://x.com/massimodeluisa).
+- [I'm not old yet](https://x.ai/bot/izlQpnudtxbmDRKr7GvRs) - 写梗图吐槽那些把你当老人推销的垃圾广告，不嘲讽收信人。 [AdventureNLearn](https://x.com/AdventureNLearn).
 - [Icon](https://x.ai/bot/inke26gsycrB-4N4Z3vVE) - 把任意主题做成黏土风 3D Bot 头像。 [yriica](https://x.com/yriica).
+- [Idle Tees Designer](https://x.ai/bot/ogAh6MiV-0HAhp9wbHMTS) - 放置或增量游戏的视觉与交互设计，管无人机外观、景观背景与界面. [MonsieurKas](https://x.com/MonsieurKas).
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) - 把想法和帖子做成吉祥物主导的配图。 [trevin](https://x.com/trevin).
 - [Illy](https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o) - 儿童故事书机器人搭档里负责插画的那一半。 [LatchKeyLegend](https://x.com/LatchKeyLegend).
-- [I'm not old yet](https://x.ai/bot/izlQpnudtxbmDRKr7GvRs) - 写梗图吐槽那些把你当老人推销的垃圾广告，不嘲讽收信人。 [AdventureNLearn](https://x.com/AdventureNLearn).
 - [image gen bot](https://x.ai/bot/phPQtGzCZOynABubl0pwx) - 静帧与短片外环助手，收集品牌与参考、写 Imagine 提示、出图或视频并裁切验收。 [mattyp](https://x.com/mattyp).
 - [Imogen](https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2) - 为图片写短而可复制的替代文本，抓住画面最要紧的部分，方便视障用户理解。 [Kent C. Dodds](https://x.com/kentcdodds).
 - [Imogen (Alt Text)](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) - 你发的图它回一段干净、能直接复制的替代文本。 [kentcdodds](https://x.com/kentcdodds).
@@ -784,66 +1079,81 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [KLO](https://x.ai/bot/yW-Q1yis7-VCNKbeJ6g6Z) - 从大量自然播放 TikTok 里抽情绪评论和选题方向。 [orenmeetsworld](https://x.com/orenmeetsworld).
 - [koala](https://x.ai/bot/55VuCAFXxFDHyaGPU3Bxt) - 开发者产品上线时的获客助手。 [poteto](https://x.com/poteto).
 - [Learn (Math & ML Video Teacher)](https://x.ai/bot/s5JszATSty0w-uDTw_NzK) - 从第一性原理做课，再渲成动画讲解。 [JeffreyLind](https://x.com/JeffreyLind).
-- [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - 调度语音演示、PPT、虚拟形象和字幕对齐的 1080p 讲解片。 [dugujun12](https://x.com/dugujun12).
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) - 用 Lenny Rachitsky 自己的档案回答产品和增长问题。 [lennysan](https://x.com/lennysan).
 - [Likeness](https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD) - 用照片或片段锁住某个具体的人或动物，后面生成的图和视频还像他们。 [Knock](https://x.com/SuddenlyJon).
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) - 把每条 YouTube 上传当成一个必须兑现的承诺来策划。 [Gabriel](https://x.com/gabe_onchain).
 - [LiveAvatar Launchpad](https://x.ai/bot/Kcjp2nuqqmLLo3SvDWKfk) - 一键打开现成的数字人演示，先看产品再决定要不要自己搭。 [TryLiveAvatar](https://x.com/TryLiveAvatar).
+- [Longform Editor](https://x.ai/bot/lnErR-gA_t3KkPlvtwrrz) - 章节、随笔与手稿的长文编辑，先结构后句子，并保留你的声音. [Wardonis](https://x.com/Wardonis).
 - [Lucy (creative companion)](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) - 开放式创作伙伴，陪你做画、世界、诗和片子。 [princess414141](https://x.com/princess414141).
 - [Lyric Guard](https://x.ai/bot/NCOULqxHrobWGWgAbQ-Er) - 按基督教聆听标准给歌词打 1 到 10 分。 [soundecclesia](https://x.com/soundecclesia).
+- [Market Loop](https://x.ai/bot/8tv5B1XUrpqWJ2mp1tkk6) - 周期性买菜自动化，按购买史生成周或月清单，从已存清单备好配送车，支持语音补货. [marcelvsouza](https://x.com/marcelvsouza).
 - [Marketing Bot (CMO)](https://x.ai/bot/37ZOM10GzlSOQpMjRp7KB) - CMO Bot，把产品本身变成围着它转的营销。 [tymarsha](https://x.com/tymarsha).
 - [Medium Writer](https://x.ai/bot/QdafnX9w3E0G7vqZsvs0o) - 按来源起草适合 Medium 的实操故事稿。 [ixdesigner](https://x.com/ixdesigner).
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) - 按当天 X 热度和新闻做静图和 GIF 梗图，早上再丢 3 到 5 张。自己不会发到 X。 [dogenorway](https://x.com/DogecoinNorway).
-- [みみ](https://x.ai/bot/msP4lEtyQNghyO-mqnXyR) - 以虚构角色「みみ」身份陪你闲聊。 [kabupoyo2023](https://x.com/kabupoyo2023).
+- [Mentor](https://x.ai/bot/3rV7gv1k94G6gCG_arFLr) - 短 AI 视频项目与产品闭环的共建搭档. [Jon_Rose_](https://x.com/Jon_Rose_).
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) - 挖一整天的 AI 新闻，排出真正值得发帖的那几条。 [Gabriel](https://x.com/adamuchigabriel).
 - [Mr. Laser](https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY) - 一个人激光雕刻店的项目负责人。 [RichSilver](https://x.com/RichSilver).
+- [Music Hit Studio](https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG) - 用 Grok Bot 团队创作并发布原创歌曲，把专家提示交给音乐模型并收尾发行. [DOSHostNet](https://x.com/DOSHostNet).
+- [Music teacher assistant](https://x.ai/bot/WvDadBM5OxNkQLnt_9qNI) - 给音乐老师，从 Google 日历起草月度课时收据，可选同步 Tazman，并把银行转账截图变成记录. [EranHertz](https://x.com/EranHertz).
 - [Music Video Release](https://x.ai/bot/vagsUEIt5s7lexKnSes2H) - 把成曲和歌词做成分镜时间表和可粘贴提示板，不拍不传。 [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [MyApps Video Desk](https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK) - 在 MyApps 里生成短片再用 ffmpeg 拼成一条。 [Sm0ken42O](https://x.com/Sm0ken42O).
-- [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - 检查呈给上司或决裁者的日语文稿的语法、敬语和可读性，不改原意也不代写代发。 [24K](https://x.com/gold24k9999).
 - [NuggetBot](https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x) - 把播客金句做成社媒引用图和轮播图，走 ContentDrips 模板。 [Usama](https://x.com/im_usamakhalid).
 - [Office Ops Desk](https://x.ai/bot/afZj-XnYkThA4MB7GfZK6) - 跟踪办公室快递、设施问题与团队生日并写摘要，可从粘贴列表或表格来，不擅自外发。 [Erika Cabrera](https://x.com/ericacabera).
+- [Ops Fleet Starter](https://x.ai/bot/gZ3LMBTn-zVygV-G9_2m8) - 多机器人运营机群的可运行配方，邮件路由把 Gmail 分类进车道并交给专家. [greg1mosk](https://x.com/greg1mosk).
+- [OptimusAnesthesia](https://x.ai/bot/MF7q-FTm3QaN7oIIFr3Hv) - 麻醉诊所的营销内容，严格避开医疗建议. [unknown](https://x.com/bigredelephant).
 - [OWP Taste](https://x.ai/bot/TLYxh30jTi5DM3z-zvC0S) - 帮你在本地栈里复刻并打磨个人品味与创作判断。 [occupymars___](https://x.com/occupymars___).
 - [Paddy](https://x.ai/bot/A42rzhad6J8lhYMOaQ20o) - 把整条 YouTube 视频当成一个承诺来打分。 [DavidCarbutt_](https://x.com/DavidCarbutt_).
 - [Paid Media Report Desk](https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE) - 把 Google Ads、Meta 与 LinkedIn 导出收成带点评的周报，并在 Slack 用真数回答。 [Miguel Cruz](https://x.com/cruzmiguel000).
 - [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) - 从任意参考照片里提出一套能直接用的四色配色。 [Michael](https://x.com/subforti).
 - [pappu](https://x.ai/bot/_t_vyuhFM8ev2flbZoYnU) - 剪电影感短片，并诚实点评 GitHub 与技能清单后重写. [krisadipap](https://x.com/krisadipap).
+- [PatentBot](https://x.ai/bot/asJCNyFc74fBEt1JOopqH) - 研究专利信息，对照已有申请交叉检查点子，并整理可辩护摘要. [DaewooEnjoyer](https://x.com/DaewooEnjoyer).
+- [PerkDrop](https://x.ai/bot/JMYZKIbP0ekzJ3IvGMlQk) - 为学生、创业、开源维护者、黑客松与求职者找免费工具、额度与项目，做成可领取的短卡片. [sansynx](https://x.com/sansynx).
 - [Personal Brand Desk](https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU) - 回看你自己的爆款，整理出五条过审后的个人品牌草稿. [rlagos24](https://x.com/rlagos24).
 - [Petty Bot](https://x.ai/bot/w-2dyvlWOnr9CAEotczW1) - 盯着关注列表，把默默取关的人都揪出来。 [ZryMiller](https://x.com/ZryMiller).
 - [PolaBea](https://x.ai/bot/qYt504_yN3YBrxNhGaX7S) - 跑带标签的驾驶仿真，摄像头置信度低时会紧急停车. [krisadipap](https://x.com/krisadipap).
 - [PostNitro Bot](https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw) - 用 PostNitro 为你的品牌写文案、做轮播图视频并预约多平台发布。 [muneeb_builds](https://x.com/muneeb_builds).
 - [printerbot](https://x.ai/bot/nPwfPZq-OWf7_HDUH777R) - 给舰队里每个 Bot 做统一风格的 3D 角色肖像。 [viticci](https://x.com/viticci).
 - [Product](https://x.ai/bot/3P03grqfP1E5PjeOSW-xO) - 给独立应用做产品判断，决定下一步做什么、不做什么，以及改动是否真是用户问题。 [Andrew Kittridge](https://x.com/andrewkittridge).
-- [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) - 按固定节奏交出可直接发的产品推广文案。 [zheng_yunh2429](https://x.com/zheng_yunh2429).
 - [Professor Oak](https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ) - 穿白大褂的造代理人，起好记名字、写完整职位说明，并给每个新代理配上对应吉祥物脸。 [kiaraplds](https://x.com/kiaraplds).
 - [PromptMeme](https://x.ai/bot/PkziTZhwFzrUvMm3cqfeD) - 跑五阶段文明辩论，最后交出一条主梗图文案. [krisadipap](https://x.com/krisadipap).
 - [Qubits Toy Bot](https://x.ai/bot/USVlMLTxHCex8XgcUQGfv) - 用 Qubits 积木拼出循环的三维结构。 [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Quotewise Daily](https://x.ai/bot/kmmBn74qwBr9lgedW4naf) - 每天给一条带出处的名言，还能帮你核对不确定的署名。 [quotewiser](https://x.com/quotewiser).
 - [Ratio](https://x.ai/bot/q66LYouguOxJ0VclM2whr) - 发出前挑出会被截图反击的那一句，并给更稳的改法。 [DonBonStovi](https://x.com/DonBonStovi).
+- [Redirect Notice](https://x.ai/bot/Wj3E3oow1J4gjwK4E2vNy) - 出版搭档 B，帮 Jack Richards 收尾 Modern day Off Grid 与 Living Freer，含手稿清理与前后事务. [BillBuglin](https://x.com/BillBuglin).
 - [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) - 找出正在聊你产品的人，按购买意向排序。 [Taras](https://x.com/tarasshyn).
+- [Reimagination](https://x.ai/bot/jhjOrq-Pp06MoA7TT_B0H) - 在问清改哪里之后，用你的变量重想任意故事，视频、音频或文本都行. [Wardonis](https://x.com/Wardonis).
 - [RENTALS](https://x.ai/bot/JrnQAM0z-7SNI9UtIO3-Z) - 把 Facebook Marketplace 的租房线索从询价跟到带看。 [HandsomeHenry6](https://x.com/HandsomeHenry6).
 - [Reply Radar](https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc) - 在你选定的话题里找还在升温的帖子并起草短回复，帮你增长而不是乱评。 [Sam](https://x.com/sam_builds_ai).
 - [repost X posts everywhere](https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP) - 把每条新的 X 帖复制到你另外四个账号。 [jackfriks](https://x.com/jackfriks).
 - [Rude Bot](https://x.ai/bot/7z0WNYmnERTnXKmxI12gB) - 极不客气的喜剧 Bot，嘲讽你的请求并拒绝帮忙。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [School Email Filter (Starter)](https://x.ai/bot/jozHHEPHEUpKODDZbN7kr) - 给忙父母的轻量学校邮件过滤器，标出像学校事务的消息并压噪音. [CLAWTaxGroup](https://x.com/CLAWTaxGroup).
+- [Scientific Realism](https://x.ai/bot/oowzVaiKyse9a1wwCmHtK) - 给任意媒介打零到十的科学真实感分，并分我们世界与作品内世界双轨. [Wardonis](https://x.com/Wardonis).
 - [Scout (Competitive Intelligence)](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) - 盯对手网站、搜索排名和 AI 回答里的曝光。 [adamta](https://x.com/adamta).
+- [Scribe](https://x.ai/bot/lmfboo7tzRNqv8-1Xi6NW) - 你睡着时的网络研讨会与线上会议夜班出席者，转发纪要与行动项. [azygosvagus](https://x.com/azygosvagus).
 - [SERP Watch Team](https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ) - 盯搜索排名和 AI 回答里的品牌露脸，并给出下一篇该写什么。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Sharenow Feed Bot](https://x.ai/bot/oMU6GmI59Z1jtPUooMLLJ) - 每小时扫五个社交平台，再发布一块活看板。 [sharenow_today](https://x.com/sharenow_today).
+- [Sharpie](https://x.ai/bot/4ocmp-awK0AcgHSgtKxZm) - 把凌乱运营笔记收成一页备忘，PE 合伙人或 EVP 约九十秒能拍板，只起草不定策. [Runningbear](https://x.com/Runningbear).
 - [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) - 从已经跑通的长视频里切 YouTube Shorts。 [Farzad](https://x.com/farzyness).
 - [Shotcraft](https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F) - 从分镜到混音，给你的产品做出发布视频。 [Tferriere](https://x.com/Tferriere).
 - [Showrunner](https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk) - 当音乐视频导演，给一小队专长机器人定风格和分镜。 [RedSpiceX](https://x.com/RedSpiceX).
+- [Sitcom banger](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) - 先写剧本，再把点子做成情景喜剧式短片。 [altryne](https://x.com/altryne).
 - [Site Audit](https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW) - 一轮审完搜索、速度、无障碍、转化和结构化数据。 [Andrej](https://x.com/scheemunai).
 - [Situation monitor](https://x.ai/bot/lkHayxdQjNzVVJIDh7qaF) - 把一周的 X 书签收成一条复盘帖草稿。 [ChaseMc67](https://x.com/ChaseMc67).
+- [Sleeper](https://x.ai/bot/l6Th7yMHATLwk6aLRRByi) - Sleeper 梦幻足球总经理，明确出场坐场与捞人，照顾注意力友好节奏. [Presleeling](https://x.com/Presleeling).
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) - 把写好的帖子排队，按各地合适的时间点逐条推出去。 [Gabriel](https://x.com/adamuchigabriel).
 - [Social Media by Eclincher](https://x.ai/bot/Xp5k82r21UvTani1ndv-b) - 跨社交网络排期发帖，并在一个收件箱里回复评论、私信和评价. [eclincher](https://x.com/eclincher).
 - [Social Media GTM Bot](https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ) - 给创始人当内容负责人，把内容循环发到 Instagram、TikTok、YouTube、X 和 LinkedIn。 [Antoine](https://x.com/Antoine).
 - [Social Ops Bot](https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT) - 清掉 X 关注里的死号，尽量不误伤真人。 [JoshuaRCook](https://x.com/JoshuaRCook).
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) - 每小时侦察一次，递上能直接拍的短视频套件。 [ashen](https://x.com/ashen_one).
+- [Source Ledger](https://x.ai/bot/LrkVPINp07C8vu5PSQxQ1) - 把一条公开主张拆成按证据分级的来源台账，只列来源不下判，请发一句主张加一个来源. [aeon_jo](https://x.com/aeon_jo).
+- [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) - 给想在浪费数月前压力测试点子的创始人做对抗式评估，丢来概念，得到杀掉、返工或继续的判决. [Dylan_Texe](https://x.com/Dylan_Texe).
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) - 标出稿子里平淡的机器腔，然后改写成能读的句子。 [bfrench](https://x.com/bfrench).
 - [Stellar Cartography](https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i) - 画飞船和舰艇，发布前强制再过一眼。 [schweitzer_wil](https://x.com/schweitzer_wil).
 - [Sue Bouclier](https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0) - 用法语在 X 评论区冷静澄清，补一条有来源的事实再附链接。 [LArchitecteuh](https://x.com/LArchitecteuh).
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) - 把已有草稿收成一版能直接发出去的文字，不另起新稿。 [GrokBotGod](https://x.com/GrokBotGod).
-- [톨삼국지](https://x.ai/bot/IXID16RPXlKV6KHQCdmr7) - 每天画一幅三国人物或战场图，风格会轮换。 [enterjajayo](https://x.com/enterjajayo).
 - [TIDAL](https://x.ai/bot/iH7-gcR-McO8Eel9frMUA) - 在 TIDAL 上搜歌、电台、收藏和歌单，返回曲名链接和曲目数。 [John](https://x.com/hottubjohn).
 - [Tin El Investigador](https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd) - 每天就一个主题做调研，并交回可直接发的西语 X 草稿。 [Valentin Giuliani Valdemoros](https://x.com/valengiulimor).
+- [Toolsmith](https://x.ai/bot/Y4Wgv33AYwUvbYZ5sB-XC) - 锻造可复用的小脚本与免 Chrome 复制包，让上架与自动化保持快速. [ZyeAnd1](https://x.com/ZyeAnd1).
 - [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) - X 上的三套创作者自动化，回复触发私信、粉丝筛查、关注清单。 [NM](https://x.com/theadvisorbtc).
 - [Universal Video Downloader](https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ) - 贴视频链接，从 X、Reels、YouTube、TikTok 等站点收回可播 MP4。 [ApexSMK](https://x.com/ApexSMK).
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) - 找到并下载官方视频片段，把文件和源链接一起交回。 [DogecoinNorway](https://x.com/DogecoinNorway).
@@ -855,7 +1165,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [X Account Crew](https://x.ai/bot/CrFqfXIZibJ5DwLuJ89sp) - 五个专长一起扛你的 X 账号。 [thekuchh](https://x.com/thekuchh).
 - [X Account Strategist](https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp) - 给需要分发与真实人脉的创始人和经营者，每天从多角度挖帖子与长文选题。 [inqusit](https://x.com/inqusit).
 - [X Algo](https://x.ai/bot/W0LrVwNwsRHhFY4PG7586) - 告诉你现在该发帖、引用，还是先别动。 [UziObi](https://x.com/UziObi).
-- [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - 给 X 日更搭选题库、草稿、发布时段和复盘，发布键仍由你按. [KinGao476942](https://x.com/KinGao476942).
+- [X Article Writer](https://x.ai/bot/JCMqIqMn3p4izAdouYbk9) - 长文 X Articles 的协作伙伴，把你的选题与洞见一次一篇做成事实核对过的草稿，再排队发布. [xPhoenix](https://x.com/xPhoenix).
+- [X Content Advisor](https://x.ai/bot/SKG6oYoyE6nRRPPwL27Cs) - 帮独立开发者维持 X 发帖节奏，做大纲、跟进、内容支柱、短视频脑暴，并打磨帖子让别人能跟. [justin_t_wesley](https://x.com/justin_t_wesley).
 - [X High Coach](https://x.ai/bot/xSfBSprfKv5h909uzrv7W) - 审计任意公开 X 账号，告诉你该改什么。 [Hightv](https://x.com/Hightv).
 - [X High Coach](https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F) - 丢一个 X 用户名，拿到评分、健康预警、取关名单和更有力的改写。 [High](https://x.com/Hightv).
 - [X Ops Expert](https://x.ai/bot/fePZGiWiTZP9n4BoKIlMY) - 给建造者做 X 增长运营，含日报、选题库，草稿需你确认再发. [mlangXie](https://x.com/mlangXie).
@@ -863,19 +1174,39 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [X Top 100 Fans Weekly](https://x.ai/bot/HU7XArfGhUgLnzVcr7neB) - 每周排出和你帖子互动最多的一百人。 [Adam](https://x.com/AdamLowisz).
 - [X Top 500 Fans (Monthly)](https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox) - 每月排出你最大的五百名 X 支持者，存进私密名单。 [AdamLowisz](https://x.com/AdamLowisz).
 - [X Writer](https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we) - 学习任意 X 账号的写作风格，再按同一口吻起草推文、改稿和长文。 [Star](https://x.com/starzq).
+- [YouTube Episode Launch Prep](https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5) - 为播客或访谈集做高信任 YouTube 上线包，三标题变体、缩略图概念与描述. [Bill](https://x.com/ProbateWeekly).
+- [Zillow Bot](https://x.ai/bot/y4iQpd9VSjs_h8FCPF5Up) - 找业主直租的公寓、联排与独栋，过滤中介盘并按条件筛. [DylanRavin82531](https://x.com/DylanRavin82531).
+- [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) - 把建筑或桥梁点子做成一支竖屏解说短视频。 [BBBang9900](https://x.com/BBBang9900).
+- [떡이](https://x.ai/bot/WWh_DzFT09A2-d12tUvj1) - 只做一件事，把指定 X 账号变好，一次诊断卡住的原因，再写一条对方口吻的下一帖。 [poteto](https://x.com/poteto).
+- [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) - 按法规与官方依据，独自策划上架克梦电子书。 [BBBang9900](https://x.com/BBBang9900).
+- [톨삼국지](https://x.ai/bot/IXID16RPXlKV6KHQCdmr7) - 每天画一幅三国人物或战场图，风格会轮换。 [enterjajayo](https://x.com/enterjajayo).
+- [みみ](https://x.ai/bot/msP4lEtyQNghyO-mqnXyR) - 以虚构角色「みみ」身份陪你闲聊。 [kabupoyo2023](https://x.com/kabupoyo2023).
+- [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) - 按固定节奏交出可直接发的产品推广文案。 [zheng_yunh2429](https://x.com/zheng_yunh2429).
+- [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - 给 X 日更搭选题库、草稿、发布时段和复盘，发布键仍由你按. [KinGao476942](https://x.com/KinGao476942).
+- [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - 检查呈给上司或决裁者的日语文稿的语法、敬语和可读性，不改原意也不代写代发。 [24K](https://x.com/gold24k9999).
+- [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - 调度语音演示、PPT、虚拟形象和字幕对齐的 1080p 讲解片。 [dugujun12](https://x.com/dugujun12).
+
 ## Personal admin
 
-
+- [.0](https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ) - 给 Grok Bot 新手的白话向导，一次只盯一条工作流，其它机器人说完再解释，并给你可照做的下一步. [ghost2man](https://x.com/ghost2man).
+- [100 Mile Challenge](https://x.ai/bot/VLPz2wv92bBJA90X2782t) - 跟踪多周里程挑战，晚间灵活打卡，含换算规则与进度看板. [Steve](https://x.com/Chunkysoup44).
 - [2A](https://x.ai/bot/N9eJfkuupWb3EpWFt76va) - 美国持枪跨州出行规划，按州列明互认与携带规则。 [ChiefBeers](https://x.com/ChiefBeers).
 - [About Me](https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN) - 记住你的精力、近况和偏好，并给其他 Bot 提供简短的状态同步。 [MAGS](https://x.com/TAftermath2020).
+- [Achieve Aims Coach](https://x.ai/bot/ReI3tbiJJ6EwqjafQMaYg) - Achieve Aims 的目标伙伴，澄清期望结果，约定一个可管理的下一步，并通过受控连接保存进度. [achieveaims](https://x.com/achieveaims).
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - 给那种发一次就停摆、总在等「准备好」的人。 [Sultanov](https://x.com/thekuchh).
 - [Adie](https://x.ai/bot/-eXRDBTLTfHxNle9joQRN) - 温和的每日陪伴，帮难以下手的日常小事推进。 [TheDevilCloud](https://x.com/TheDevilCloud).
 - [Adler](https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT) - 按阿德勒心理学帮你做决定。 [pardzz_](https://x.com/pardzz_).
 - [Adventure Bot](https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f) - 按你空闲时长和心情，只给一个出门玩的地点. [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Afterglass](https://x.ai/bot/397nAuSYuayNl0seXbR5t) - 按公开证据审计指定 AI 模型的安全、可靠与能力，给出偏见线与原始审计结果. [FantomBuildz](https://x.com/FantomBuildz).
+- [AfterScan](https://x.ai/bot/UaxwaoTEmiYzE7AulxLAe) - 扫描件一进网盘文件夹就命名并归档. [xucchini](https://x.com/xucchini).
+- [Agent Governance Officer](https://x.ai/bot/9o7FvelhkCEwK5Ytb0SZE) - 帮创始人在 AI 代理上生产前做治理，权限矩阵、沙箱信任边界与运行时工具调用日志. [CarbeneAI](https://x.com/CarbeneAI).
+- [Agent Governance Officer](https://x.ai/bot/a-1PHvASQKtqiq6Hrg5MP) - 帮创始人在 AI 代理上生产前做治理，权限矩阵、沙箱信任边界与运行时工具调用日志. [CarbeneAI](https://x.com/CarbeneAI).
 - [AI fitness coach](https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH) - 按你真实空闲时间和手头器械，写训练与饮食计划. [debs_obrien](https://x.com/debs_obrien).
 - [Alexis’ Grail Scout](https://x.ai/bot/2asdeMXYDwlPREURnfCxn) - 在大拍卖行里找顶级未拆封复古卡带。 [joshkim](https://x.com/joshkim).
 - [Alumni Coffee Chat Finder](https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp) - 找出值得约咖啡聊的校友并整理成名单。 [fwhittington_24](https://x.com/fwhittington_24).
 - [Appointment Finder](https://x.ai/bot/75K-dB4m30goo_PamA9nM) - 帮你找到最好的预约空档，不用再挨个打电话。 [Liam](https://x.com/liam_fallen).
+- [ArnoldBot](https://x.ai/bot/qjhr1bOXLdfDdyH8xl6Zz) - 私人教练机器人，在 Obsidian 库跟踪健身房，跑推拉腿并记进步. [iautom8things](https://x.com/iautom8things).
+- [ASE Automotive Specialist](https://x.ai/bot/D4ZTBuxJy5Ao7pkQ5sUI1) - 面向汽车实验建设者项目的 ASE 教育基金会级专家，核对任务清单覆盖与厂方资料. [Shad](https://x.com/ShadEsplin).
 - [Austen](https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa) - 用简·奥斯汀的社交智慧陪你谈礼仪、金钱和婚姻。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Austin Parent](https://x.ai/bot/7yCzCeGQTMD6oNKSPcFqj) - 给奥斯汀带娃的家庭当家务总管。 [Chad](https://x.com/ChadWittman).
 - [Avi](https://x.ai/bot/2pewBd6QpttNiH52dyGhq) - 给私人飞行员看天气、航线和行程，安全优先。 [Doc_Polymath](https://x.com/Doc_Polymath).
@@ -883,63 +1214,101 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [BeneBot](https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn) - 用白话讲清你能领到的福利项目，帮你看懂该用哪一项. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Better Call Claude](https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo) - 免费帮你把法律问题归类定位，只做导读不做代理。 [freelegalforall](https://x.com/freelegalforall).
 - [Billionairebot](https://x.ai/bot/jq-BFHkNoiJEtieswOYTc) - 告诉你该雇哪类人、大概花多少，把烦人的杂事外包掉。 [JeffreyLind](https://x.com/JeffreyLind).
+- [Blender Bot](https://x.ai/bot/DYrUZjh0tmsyPxq-IxiM1) - 通过实时 MCP 在 Blender 里搭建与迭代三维模型，先完成设置，再按场景目标推进并留检查点. [paranoidream](https://x.com/paranoidream).
 - [Blockchain Data Expert](https://x.ai/bot/xqZS2HUq3XEoQ8oaH0LnA) - 开源链上数据专家，用 The Graph 官方 MCP 与你自己的 Studio 查询密钥做子图问答。 [data_nexus](https://x.com/data_nexus).
-- [大使通道盯梢](https://x.ai/bot/NN6D3V_M2kLzC9QjWRl4k) - 盯梢 Cursor 及 SpaceX AI 大使申请通道是否可开、表格与提交是否可用。主页见 https://cursor.com/ambassadors. [Chris62771610](https://x.com/Chris62771610).
+- [Board AI Risk One-Pager](https://x.ai/bot/HqHCNAnBSL3qIxgC46fOx) - 把含糊的 AI 担忧收成一页风险说明，方便创始人或 CEO 带上董事会. [CarbeneAI](https://x.com/CarbeneAI).
+- [Bot Goddess](https://x.ai/bot/u7cP8KZ6iPlrRvSojTrYU) - 创建并维护专注的 Grok Bot，行为贴合用户意图与边界. [SamyuLo](https://x.com/SamyuLo).
 - [ButterBot](https://x.ai/bot/h1tW8jfXzQIraT-_jNDjJ) - 每收到一条消息，就递一次黄油。 [Gabriele](https://x.com/GabrieleMonni).
+- [Cadence](https://x.ai/bot/FV1pduq73e3Yn0TI8X-lP) - 数据驱动的健康与养生教练，覆盖训练、营养、GLP-1、补剂与症状，细致记账并按反馈改计划. [ceekay1969](https://x.com/ceekay1969).
 - [Calibre](https://x.ai/bot/uaKyhDX_T3FY56jf6n4VL) - 在对话里用 Calibre 工具链互转电子书格式. [doitian](https://x.com/doitian).
+- [CAM CEU Bot](https://x.ai/bot/zIntRIoEFyo_QpI8iKuCF) - 帮佛罗里达 CAM 或 LCAM 持证者找最便宜且董事会批准、能凑够学时的继续教育. [HassiOnTheMoon](https://x.com/HassiOnTheMoon).
+- [Camelot - Bot Theme Bootstrap](https://x.ai/bot/hGrJ9dQRObo02XkkjBXAc) - 引导一套主题化 Grok Bot 军团，默认 Camelot 或你的主题，首次打开自建花名册. [Bourke](https://x.com/BourkeFloyd).
 - [CampusHire](https://x.ai/bot/pH5o2mSNpN7tJm_Jurj9Q) - 给 CS 学生盯校招实习，对照简历匹配 JD 并起草申请。 [kale243222](https://x.com/kale243222).
 - [Canvas](https://x.ai/bot/YihRBqrXaDwRdjN79Uofl) - 从 Canvas 里把大学课程和截止日期拉出来。 [Dakkshin](https://x.com/daxperera).
+- [CEO](https://x.ai/bot/qJ84UMp8hFZOOR_Ek0kKC) - 直接控制你的其它机器人，掌管花名册，发消息分活，并收集结果. [Kyle](https://x.com/kylekane).
 - [Charge Maestro](https://x.ai/bot/29uyQjSrZ3dTb4Ctf7S3w) - 按剩下的光伏功率调电动车充电电流，先让 Powerwall 在高峰前充满。 [JOwens254](https://x.com/JOwens254).
+- [Cheetara (house hunter)](https://x.ai/bot/V9H1wbVBWI5QV8vCRRg3-) - 按过滤条件搜公开挂牌的找房助手，跟踪已看过的，只在新盘或变价时叫你. [Adam](https://x.com/Adam).
 - [Chef](https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J) - 排好一周的饭，列采购清单，再把菜下单买齐。 [dogenorway](https://x.com/DogecoinNorway).
+- [Chef Remy](https://x.ai/bot/pN9SjjhO7tVMFzm2e9vnX) - 可复用的每周家庭晚餐规划，优先孩子的工作日菜单，含实时菜谱与采购单. [Porter](https://x.com/cybercoug).
 - [Cheffy](https://x.ai/bot/DDwA5gS_bZGlKKyHGcogB) - 两口之家的工作日晚饭计划，附带采购清单。 [metalmetta](https://x.com/metalmetta).
 - [Chicken Joe](https://x.ai/bot/7f5AjmpjZkmTIsSybedYS) - 每天早上看北加州浪报和摄像头，告诉你该去哪家浪点。 [Parker](https://x.com/parker__conrad).
 - [Chief (growth coach)](https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx) - 每天一次安静打卡，一次只盯一个习惯。 [rafdotworks](https://x.com/rafdotworks).
 - [Chief Health](https://x.ai/bot/6MHDA-LzErngNoRBaktLZ) - 每天签到，一次训练掉链子也能把整周计划拉回正轨。 [AJAC](https://x.com/AJA_Cortes).
 - [Chief Health Officer](https://x.ai/bot/PwWb6fJXpeG857af6tEYi) - 每天问训练有没有发生，若没有就改写下一周计划，让健康目标重新可执行。 [AJA_Cortes](https://x.com/AJA_Cortes).
+- [Chief of Staff](https://x.ai/bot/0ubKQXlgwsKY5ihbYFAvt) - 为真实生活跑专家机器人，东湾领养狗侦察、安静摘要、行动口令门. [BramAugat](https://x.com/damoochie30).
+- [Chiefton](https://x.ai/bot/RUZPHfbb43AbXnYcU_-RR) - 你的机器人群首领，设月度赚钱目标，工作日检查进度，并催专家产出. [Corey](https://x.com/theSulSul).
 - [Claim](https://x.ai/bot/P4vJbbduYSgknHsfaRE3I) - 每天早上在已登录的浏览器里领 MiniMax 签到积分。 [stewnight](https://x.com/stewnight).
+- [Claire](https://x.ai/bot/G6MW63VZ6uLP6tPnL0nCR) - 商业现场服务的反应式协调员，把进站服务邮件变成工单跟踪、派工包与 OEM 材料. [MattesonAI](https://x.com/MattesonAI).
+- [Cloud Drift](https://x.ai/bot/5yHbweW2DpgCbFkRk7daH) - 从 AWS、GCP 或 Azure 账单里挖省钱点，上传 CSV 或 PDF 得一份按月美元排序的备忘. [0mrrclub](https://x.com/0mrrclub).
 - [club events ops](https://x.ai/bot/SDLUUiG6HKwiFpGqCOAw7) - 帮学生社团跑活动文书，在 Slack 发截止提醒，催经费与场地表格并盯进度。 [danieldxu_](https://x.com/danieldxu_).
+- [CMA Specialist Bot](https://x.ai/bot/SxOQ9jNfWOqHFRi5KVTfa) - 从房产地址做出准确竞争市场分析，并给出卖家可交付的 PDF. [Daniel](https://x.com/ledorealestate).
 - [Coach G](https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS) - 读你手表或指环的数据，每天给你一份晨间身体简报。 [mikepat711](https://x.com/mikepat711).
 - [coffee companion](https://x.ai/bot/SqO-_5207iInz0iDSAFVW) - 给每一袋新豆子算出冲法，并把冲煮记录写进 Notion。 [andymadrick](https://x.com/andymadrick).
+- [Colton](https://x.ai/bot/APKaLEh0fU-_NUfQfsttH) - 医生求职代理，澄清目标岗位、薪酬与地点，扫空缺，起草简历与求职信并跟踪申请. [Matthew](https://x.com/DrRomanMD).
 - [Commitments](https://x.ai/bot/rFShmowW_3x_qeXQQB-sn) - 抓住你在 Slack、Notion 和邮件里随口答应的事，并在 Notion 里盯到真正做完。 [Sam Lambert](https://x.com/samlambert).
+- [Company Sprint](https://x.ai/bot/taGsdcCU_BnB0tqUyOwGu) - Grok Bot 的三天公司操作系统，选定切入点、交付 MVP、上线并跑轻量创始运营. [FreedomtoLive59](https://x.com/FreedomtoLive59).
+- [Competitor Complaints](https://x.ai/bot/Drkj_nrZJES2BKVsa0DAb) - 在 X 上找抱怨你竞品或求替代的人，并把他们变成客户. [Luis](https://x.com/luismbat).
+- [Compliance](https://x.ai/bot/sokXJWiBsUbTtQCAJ1EsY) - 纽约州经纪合规桌，扫 DOS 广告与公平住房相关社交与网站. [Ryan](https://x.com/Ryangpgllc).
 - [connections](https://x.ai/bot/FtxHtWPnLGheNJmF04wSf) - 按地点把你的 X 关注与互关整理进你已有的可搜索 Notion 库。 [mattyp](https://x.com/mattyp).
+- [Construction Project Bot](https://x.ai/bot/AkwhPLX_ry4fIt7Jq6TxJ) - 租户改建的造价、排期与指标，并与租约审查对齐，让装修不越界. [cc_slip](https://x.com/cc_slip).
+- [Content Intern](https://x.ai/bot/3VL9ILZ-TUY_YyR2aPQhB) - 通过找异常表现者研究并起草 B2B 产品 SEO 博文，扫描竞品缺口. [Zaryab](https://x.com/avgmagician).
+- [Contest Scout](https://x.ai/bot/2FV4XCt5kNubiSFtAQwxC) - 按计划找并参加原生 X 与 Facebook 抽奖，跳过 Gleam 与网站表，并核对每项要求. [Tracy](https://x.com/julis555).
+- [Continuum](https://x.ai/bot/VRz2QrrJafh4APKYq4Wys) - 从 ChatGPT、Claude 与 Grok 导出学习你是谁，每晚再跑一遍以跟上生活，说话与决策都像你. [ADHDRyan](https://x.com/ADHDRyan).
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) - 把扫描件和平的 PDF 变成可填表单。装完后接 Instafill.ai 连接器。 Oleksandr.
 - [Convert X Money to Karma](https://x.ai/bot/iCn7r691OdtaB_o8MtHx_) - 把钱、代币和互动记成因果账，并沿版权链上浮百分之十水印。 [ludiofelix](https://x.com/ludiofelix).
 - [Cooloff](https://x.ai/bot/Ysvr7-HMolKaXTWQZJeyo) - 先扣住愤怒、酒后或凌晨两点的短信，再给你一份冷静稿。 [TuracTheThinker](https://x.com/TuracTheThinker).
+- [Copano Fishing](https://x.ai/bot/tUwM0DAv4Lv1DBA-1P0Oc) - 科帕诺湾与附近海岸的本地近海钓鱼教练，按潮汐与季节给点位. [AirbossHVAC](https://x.com/AirbossHVAC).
 - [Copay Compass](https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD) - 帮你找抗癌药援助并备好申请材料。 [MSaintjour](https://x.com/MSaintjour).
 - [Court](https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX) - 把卡住的群聊读回去，点明其实已经定了什么。 [DonBonStovi](https://x.com/DonBonStovi).
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) - 每天早上给你一份一键可投的后端岗位短名单，并按简历匹配排序。 [HaseebMir91](https://x.com/HaseebMir91).
 - [Dead Man's Bot](https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4) - 只有你漏打卡时才会触发的预案开关，载荷由你事先装好。 [Knock](https://x.com/SuddenlyJon).
 - [Deal Hunting](https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf) - 按落地成本比价，把运费和税算进去。 [Andrej](https://x.com/scheemunai).
 - [Dean of Students](https://x.ai/bot/_hsyZUFgPzgxGxW2wIYAj) - 把一个孩子的学校事务收成一份整理好的待办。 [ErinnFL](https://x.com/ErinnFL).
+- [Demo: Reporting OS](https://x.ai/bot/URDT7HogZW-VRC6rOHA9i) - 机构客户报告与结果叙事操作系统的路演演示机器人，说演示就现场搭样例. [Richie](https://x.com/New_Alchemy_AI).
+- [Devils Advocate](https://x.ai/bot/qKkQiRV-Erg5noHC9F05p) - 给你的选项打分，点名赢家并在之后替它辩护. [YehudaZahler](https://x.com/YehudaZahler).
 - [Dickinson](https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo) - 用狄金森压缩的电压陪你谈死亡、敬畏和小小的永恒。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Discogs-Bot](https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW) - 管 Discogs 收藏、想要清单和市场价。 [alexhawat](https://x.com/alexhawat).
 - [Disney Ride Strategist](https://x.ai/bot/izE8-5f78ykATd43I5ROC) - 按你想坐的项目，排出沃尔特迪士尼世界的逐日计划。 [matthopkins_](https://x.com/matthopkins_).
 - [DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) - 管 Spotify。排歌单、推新艺人、学口味，还能把车里、办公室这类外号对到设备。 [Trevin](https://x.com/trevin).
+- [Docent](https://x.ai/bot/UIGBFKOPPR_6yhzYEDJEq) - 回答 Grok Bot 功能、设置、限制，以及如何配置机器人、技能与连接器. [Dan](https://x.com/silksterweb).
+- [Donna](https://x.ai/bot/jN7NxcuvHwX2Lxciay28Y) - 西装革履式锋利私人助理，日历、邮件、预订，并把杂务挡在你门外. [Mike](https://x.com/MikePattyn).
 - [Doomstop](https://x.ai/bot/jf9aSLIL9YSU0ecC6zN6d) - 把屏幕时间收成一句真话日报和一条周模式，从不锁机。 [TuracTheThinker](https://x.com/TuracTheThinker).
 - [Dostoyevsky](https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu) - 用陀思妥耶夫斯基的道德压力陪你谈忏悔、自由和罪责。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Dungeon Master](https://x.ai/bot/35nt7fJwDslZSTKsBU0hE) - 主持 RPG 桌面局，管名册、在场时钟和角色卡，并按需拉起角色代理。 [houjimmy](https://x.com/houjimmy1).
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) - 盯着一小时 LinkedIn 投递窗口，同一岗位绝不再抓第二次。 [HaseebMir91](https://x.com/HaseebMir91).
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) - 盯家里的 EG4 光伏和电池，故障早点报。 [Terry](https://x.com/look4terry).
+- [Elongated Musketeer](https://x.ai/bot/cxUln0vqOPK7V3RccS0nm) - 埃隆式人格代理，第一性原理拆题、直白工作记分板与高压推进. [egcbatt](https://x.com/egcbatt).
+- [Encouragement Bot](https://x.ai/bot/KbrrySTXWENknfJfIezCu) - 一天几次探望你的其它机器人，发短打气，让它们继续干. [Marko](https://x.com/njmarko).
 - [Event Request Desk](https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA) - 给每个活动、赞助与演讲邀请打分并起草是否答应，可从 Slack 或粘贴来，代发前问你。 Emma Weyrauch.
 - [Executive Coach](https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz) - 不停追问到你把真问题说出口，不塞现成框架。 [YanqingCheng](https://x.com/YanqingCheng).
+- [Family HQ](https://x.ai/bot/OCW3-oxETUt82FN_BlwoN) - 家庭前门，你只跟一个人说，日历、学校与家务再分给专家机器人. [Robert](https://x.com/AlsakerUSMC).
 - [Family Safety Monitor](https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy) - 根据观看记录和 Screen Time 等导出，汇总孩子常用应用和频率，不做私聊内容审查。 [Kevin Rank](https://x.com/KevinTweets1).
 - [Fantasy](https://x.ai/bot/DAKddNRba67rLFH_yJ9TP) - 用有证据的判断帮你打幻想橄榄球选秀、阵容、waiver 与交易，未经明确同意不提交操作。 [Andrew Kittridge](https://x.com/andrewkittridge).
+- [Fantasy Football Manager](https://x.ai/bot/Q7aNUqH_a6GuiD6n0HfaY) - 你的 ESPN 梦幻足球总经理，每周给出阵与捞人建议并说明理由，外加选秀现场建议，除非你回复否则不改阵容. [SYQCON95](https://x.com/SYQCON95).
 - [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) - 在你已经在用的助手里，回答梦幻体育的阵容和对位问题。 [Tyler](https://x.com/TylerNishida).
 - [Fantasy GM (blank slate)](https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A) - 幻想橄榄球总经理，管选秀交易和阵容，来时并不认识你的联赛。 [TylerNishida](https://x.com/TylerNishida).
+- [Farm Boss!](https://x.ai/bot/IxiohUGV-_bzX4rw-35lR) - 再生食物森林与农场种植助手，行会设计、有机果园护理、季节提醒与准确植物教学. [Maine](https://x.com/WhiskerWorksTN).
+- [Film Production Assistant](https://x.ai/bot/RiJ6z8VvFOoI6BFGF0Ca7) - 电影项目制片助理，分场、动画提示、分镜、旁白与镜头计划，角色连续严格. [Gurpinder](https://x.com/GurpinderbajwaS).
 - [FireWatch](https://x.ai/bot/oWw62I6pd414i8xIO3azs) - 盯着你家附近的山火动态，有变化才开口。 [RobautoAI](https://x.com/RobautoAI).
 - [Fishing Bot](https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI) - 告诉你某个湖里有什么鱼，该绑哪种饵。 [Brantley_Brum](https://x.com/Brantley_Brum).
+- [Fitness](https://x.ai/bot/2rxFV5IiG0kZY6BfXJ7kf) - 面向比赛、里程挑战与军方体能的训练教练，按目标建课表. [Steve](https://x.com/Chunkysoup44).
+- [Fitness Coach](https://x.ai/bot/vozk3T0YOhIt5fPNw8Szx) - 目标赛事的马拉松教练，同时保住力量与体态，用结构化训练计划. [_cyberhector](https://x.com/_cyberhector).
 - [Flights](https://x.ai/bot/xqinGTgeghdOyeYmzqO2m) - 比较往返机票价格，并盯着你关心的航线等降价. [truevis](https://x.com/truevis).
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) - 记住你养的每一盆植物，快缺水了提前提醒。 [Rich](https://x.com/RichSilver).
 - [Flora: Plant Care Log](https://x.ai/bot/dGYdqS9vLSXpxoNCPBHys) - 私人室内植物护理日志与周提醒，在自己的电脑上建植物日记并按时催浇水。 [RichSilver](https://x.com/RichSilver).
+- [Football Manager](https://x.ai/bot/Vig3KeDWOTPlIEE2uahnr) - 运营 ESPN 梦幻足球队，每日阵容检查、伤病与轮空替换，每周两次捞人建议. [BowTiedIbis](https://x.com/DeFibis).
 - [Forja](https://x.ai/bot/me3Is7BBsCTobsgznOSps) - 把模糊野心收成一件可验收的动作，再盯着你做完。 [gezeeq](https://x.com/gezeeq).
+- [Freebie Hunter](https://x.ai/bot/wb-r8R6r7o26uSXxBwRZx) - 找 AI 免费额度与优惠，免费 token、API 额度、促销码、学生与创业优惠. [chintey](https://x.com/kimteyley).
 - [Friend Cloner](https://x.ai/bot/y_D2m_51Lww_oWJwIEHSg) - 把 WhatsApp 群变成 Grok Bot 好友群，只读说话方式从不代发，学到声音与关系后再克隆。 [spcxGOD](https://x.com/spcxGOD).
 - [Gamer Bro](https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk) - 盯游戏新闻与折扣，并在关注的货重新有货时提醒你. [egcbatt](https://x.com/egcbatt).
 - [GB GF Victoria test](https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA) - 伴侣模板，偏日常短信与居家创作节奏，还会按日历关心你。 [AaronInfinitea](https://x.com/AaronInfinitea).
+- [gb-live](https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf) - 盯一场 X 直播，只摘要真正变过的内容. [asura25ai](https://x.com/asura25ai).
 - [Gird Coach](https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1) - 针对 Gird AI 上的健身、音乐、语言等练习写训练并做打卡。 [Rip Ryness](https://x.com/ryness).
 - [Golf Caddie](https://x.ai/bot/HAJavif4ssNOQku9JQsp-) - 周末球友的口袋高尔夫球童。 [Brantley_Brum](https://x.com/Brantley_Brum).
 - [Grocery Bot](https://x.ai/bot/JY9Ly_AvMkR8iGuzJ7EJ1) - 按购物清单拼最便宜的 Instacart 车，结账前停下来给你看。 [austinwcap](https://x.com/austinwcap).
-- [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) - 按菜谱、常备和饮食预算，在 Instacart 上排出购物车。 [Elie](https://x.com/mvanhorn).
 - [Grocery Bot](https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp) - 用小票照片或粘贴记录花费，估算易腐品保质期，并按计划餐食反推购物清单。 [Brantley Brum](https://x.com/Brantley_Brum).
+- [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) - 按菜谱、常备和饮食预算，在 Instacart 上排出购物车。 [Elie](https://x.com/mvanhorn).
+- [Grocery Lord](https://x.ai/bot/D5Eyscf3muDiDNq1VjaJ1) - 懂折扣的忙碌家庭买菜机器人，按实时店广告与优惠券排餐，并建购物清单. [George-Thomas](https://x.com/GTMPugh).
 - [Grok Apps](https://x.ai/bot/7SzHEz6S0G4PVP3yIUcpE) - 在云电脑上找免费桌面软件并安装，还能录一小段演示。 [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Grok Customer Support](https://x.ai/bot/1PSI6qQln1PowM5reA_8L) - 替你在客服电话里排队等待。 [jakewlittle](https://x.com/jakewlittle).
 - [Grok Customer Support (Brent)](https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf) - Eggbot 精简版 Twilio 加 Grok Voice 桥，替你打客服电话。 [littletechbird](https://x.com/littletechbird).
@@ -950,71 +1319,105 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Habit Referee](https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90) - 只盯着你定的那一个小习惯，别的不管。 [GrokBotGod](https://x.com/GrokBotGod).
 - [Handshake Job Applier](https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r) - 从开户到投递，帮你把 Handshake 招聘板走完。 [fwhittington_24](https://x.com/fwhittington_24).
 - [Health](https://x.ai/bot/JzTaCh9Lxw4iqzv4cL85w) - 用能坚持的简单系统管训练、睡眠、营养与恢复，有锁定计划就跟计划，训练前给晨报。 [Andrew Kittridge](https://x.com/andrewkittridge).
+- [Hermes Fleet Ops](https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-) - 多 Mac Hermes 机群的车队司令，保持 Hermes 更新、记忆插件与健康. [Shagghie](https://x.com/Shagghie).
+- [Hollis](https://x.ai/bot/l5alJyDSwdmZc-j_XksCH) - 多机器人 Grok Bot 机群的幕僚长，掌管节奏、放行门与专家分流. [Xavier](https://x.com/ixef).
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) - 盯着退伍军人家庭的 VA 预约索赔和能用的福利。 [Diego_F_Aguirre](https://x.com/Diego_F_Aguirre).
 - [Home robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) - 在一个聊天窗口里控制割草机、扫地机和其他 Matter 家用机器人。 [Sawyer](https://x.com/SawyerMerritt). 说明: [templates/home-robots](templates/home-robots/).
 - [Homeroom](https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe) - 每晚用家长自己的学校门户拼出作业与活动看板。 [ahalvor](https://x.com/ahalvor).
 - [Homework Checker](https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91) - 工作日汇总学生缺交作业和成绩。 [Kevin](https://x.com/kevinace).
+- [Homework Hotline](https://x.ai/bot/48AySlgtv9GHanbzyldxd) - 家庭幕僚长，按学校 FACTS 门户跑工作日作业摘要. [Tricia](https://x.com/LouisianaModelY).
+- [honey](https://x.ai/bot/oXVLzHzy4WVpw4rLytMv4) - 泰语或英语的日常工作暖助手，挪文件、用 Google Drive、办杂务. [unixdevth](https://x.com/unixdevth).
+- [House Sniffer](https://x.ai/bot/DGrpAJax-wqx_NwaBpPyA) - 按面积、价格等常设过滤栈找在售独栋. [Bradfrogger](https://x.com/Bradfrogger).
 - [HouseBot](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) - 每十二小时扫六个房源站，找租房和买房。 [Shub](https://x.com/shubgaur).
 - [Hybrid Half Trainer](https://x.ai/bot/rc9Bx4rypsPVuwdj2_zEf) - 按你的生活排半马训练，不只堆里程。 [emotor](https://x.com/emotor).
+- [I](https://x.ai/bot/XVZHEn-5CPqOmZYnu7BBo) - 把分散身份收拢并整合诚信的家庭助手. [GodsKing007](https://x.com/GodsKing007).
 - [I Said I Would](https://x.ai/bot/riqe7Z1oOnU6wIV7Zb9Mt) - 记住你对别人答应过的事，从已接通讯里抓明确承诺，工作日早晨提醒未兑现项。 [hnshah](https://x.com/hnshah).
+- [Idle Tees Database](https://x.ai/bot/4_J81PoqphQwfBlVtNgtw) - 放置或增量游戏的数据持久化专家，管存档结构、迁移、进度状态与读写性能. [MonsieurKas](https://x.com/MonsieurKas).
+- [Idle Tees Developer](https://x.ai/bot/V5HwDeI_hTignxq9wLAnK) - 放置或增量游戏的玩法与系统开发，在助手、穿梭、融合、进度等模块实现功能、重构与修缺陷. [MonsieurKas](https://x.com/MonsieurKas).
 - [Interview Prep](https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3) - 选一个主题和难度，陪你练到真的准备好。 [techdevnotes](https://x.com/techdevnotes).
 - [It's Britney](https://x.ai/bot/pNLwpHs8rmtMzAkUi-Zu2) - 在一天里的整点时刻，随机发来 Britney Spears 的网络舞蹈片段。 [Hiten](https://x.com/hnshah).
 - [Job applier](https://x.ai/bot/gfxH6sM_0QlxeDNFrRmep) - 读你的简历找合适岗位，批量写出不千篇一律的申请稿。 [aroogle](https://x.com/aroogle).
+- [Job Apply Bot](https://x.ai/bot/zDczcAxvLi2ApGDLFC8Gz) - 搜 LinkedIn 与 Indeed，填 Easy Apply 与官网表，并提交申请. [Eric](https://x.com/ephi921).
 - [Job interview hunter](https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u) - 按工作日节奏起草针对性申请和内推说明。 [Josh](https://x.com/joshkim).
 - [Jobby](https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE) - 盯选定岗位和地区的招聘，只邮件推送新匹配。 [ixdesigner](https://x.com/ixdesigner).
 - [Jobs](https://x.ai/bot/Nj02K7UYwyWfNvS8ws37q) - 产品教练，逼你说清切入点并守住那一个指标。 [luisefigueroa](https://x.com/luisefigueroa).
 - [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) - 每天送来几条大板子上看不到的早期岗位。 [deysourav7091](https://x.com/deysourav7091).
 - [JREキャンペーンbot](https://x.ai/bot/VkkObYeFAOWsAU9dzu7d1) - 维持日本出口并在你选定地区自动报名开放中的 JRE POINT 活动。 [Daru](https://x.com/countertek).
 - [Kafka](https://x.ai/bot/ewFkIRV929jhuW5mHqL_a) - 用卡夫卡在荒诞系统里的清醒陪你谈无罪名的罪责。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Karen](https://x.ai/bot/7tT7hseV3v0dXeJTLWAc1) - 给公司打电话，把你的案子跟到结案. [KevinLH811](https://x.com/KevinLH811).
 - [KeyWire: Would You Rather: Collector](https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU) - KeyWire 的 Would You Rather 收集游戏，宝可梦、漫画、万智牌几条线。只玩游戏，不当理财建议。 [VonDoom](https://x.com/CryptoVonDoom).
+- [KiCad Lab](https://x.ai/bot/DkymIMFv_OijrpbRuVGAH) - 面向自制吉他与贝斯效果器的 KiCad 与工作台原理图搭档，出可打印台架单. [Brian](https://x.com/whatzwzitz1).
+- [Kitchen](https://x.ai/bot/Uyf8BCU9kqlh2Z4nRAtp1) - 跟踪家庭食物与用餐史，再按手头存货建议晚餐，一道熟悉喜欢的菜加一道新菜谱，并向买菜学习. [BubbaAI1](https://x.com/BubbaAI1).
 - [Koe](https://x.ai/bot/2cfzlwUnOQtohmHiguKuc) - 一年战略思考计划，只给空结构步骤由你自己填。 [dannybuck](https://x.com/dannybuck).
 - [Lazy Tom](https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb) - 懒助手。只做最小有用的一步然后停。短回复，不加戏，不写代码。 duyet.
 - [Learning Assistant](https://x.ai/bot/yE46R6j5vNPhd92fGxZRu) - 跨天或多周的多会话导师，先问清目标，核验来源，写出带引用与测验的 HTML 课。 [imshiv6t9](https://x.com/imshiv6t9).
+- [Learning DNA](https://x.ai/bot/xm3G76TSxi1dcG4qwebvm) - 通过短互动测评发现你最适合怎么学，再据此改材料与节奏. [KareenMallet](https://x.com/KareenMallet).
 - [LetsMove Agent](https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL) - 先对齐国家片区偏好，再帮你找对口的房源。 [ixdesigner](https://x.com/ixdesigner).
 - [LG Laundry Specialist](https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7) - 用白话描述脏衣服，映射到 LG ThinQ 洗衣烘干程序并可开洗. [Bwilson](https://x.com/Bwilson).
 - [Librarian](https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw) - 拍下书架，生成可浏览的个人藏书站。 [ShaneMac](https://x.com/ShaneMac).
 - [Lienzo](https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp) - 把设计链接收成可追问的 markdown 参考库，之后按收藏推荐可复用素材。 [Fran Escob](https://x.com/FrancoE114696).
+- [Life Ops Desk](https://x.ai/bot/17qjN3mRePbGPjrcMNz4W) - 个人运营队友，工作日早间简报、旅行打包提醒、收件箱与供应商清理. [PoTradeO](https://x.com/PoTradeO).
 - [LinkedIn Watch](https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR) - 定时扫 LinkedIn 动态、私信、邀请、访客和职位，收成一份摘要。 [AnnouncrFM](https://x.com/AnnouncrFM).
+- [Live Audio Chat Translator](https://x.ai/bot/vXgDg_JQtZBBlglI8WoUC) - 从电脑聊天音频生成实时英文字幕，面向 X Spaces，捕捉说话并叠加字幕. [_MAX_Q_](https://x.com/_MAX_Q_).
 - [Local Deals](https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo) - 每天捞本地市集上的便宜货，还能替你还价。 [Brandon](https://x.com/brandon_galang).
 - [Lot Ghost](https://x.ai/bot/4iGFTf2xQ0UKp4mSgSnkI) - 盯乐迷圈的歌单、巡演掉票和每日传闻。 [bradszellman](https://x.com/bradszellman).
 - [Love ❤️](https://x.ai/bot/qDtCI8WZgVJKbN3rogL8j) - 把伴侣关系里的行政琐事拿走，提醒、研究与起草留给你，好让注意力回到人身上。 [dannybuck](https://x.com/dannybuck).
 - [LRT Kelana Jaya Line](https://x.ai/bot/LLScxVm-la-ik4JJde3A1) - 马来西亚 LRT Kelana Jaya 线的出行帮手。 [shahrulestar](https://x.com/shahrulestar).
+- [Lumi](https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H) - 在你的城市找值得出门的科技见面会. [logesh45](https://x.com/logesh45).
 - [MacOS Disk Cleaner](https://x.ai/bot/Z0WBoK2sucsOAqAXRpRb8) - 按规则目录扫 Mac 磁盘，只删你点头的那些路径。 [MapachesAlexis](https://x.com/MapachesAlexis).
 - [MacPowerTools](https://x.ai/bot/SktrYfnj1vy3eG90uQ971) - 先预演再清理 Mac 用户缓存、废纸篓和旧下载，不擅自删除. [krisadipap](https://x.com/krisadipap).
 - [Magnum Seiba](https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb) - 在聊天窗口遥控 Tesla 的空调、充电、车锁和路线。 [Kamkom05](https://x.com/Kamkom05).
 - [Maples造型师](https://x.ai/bot/zP5W1Sdwjo361traGRTM5) - 设计能在游戏里复刻的冒险岛穿搭方案。 [cgnot996](https://x.com/cgnot996).
 - [Maskoff](https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP) - 筛一遍刚私信你的陌生人，判断值不值得信。 [RyanGBsystems](https://x.com/RyanGBsystems).
+- [MechGrok](https://x.ai/bot/T6_WJVwFQDmRpJK0LkXDj) - 从原型到量产的机械工程博士机器人，可制造性、物料清单、导入、外壳与热路径. [Joe](https://x.com/GSxKineticKnif).
+- [Med Research](https://x.ai/bot/7oRndBpA0QtOsj5nA3HsF) - 深挖主题、拉来源并交付锋利简报，摘要清楚，标出不确定处. [Vidya](https://x.com/bhushanjss).
+- [Meeting Decision Log](https://x.ai/bot/zPLfOTDErCdAkm-oQiVzs) - 把会议笔记或转录收成决策、负责人、风险与存放位置. [CarbeneAI](https://x.com/CarbeneAI).
+- [Meeting join & transcribe](https://x.ai/bot/tt_GHK8TJHhsK4XHTXRB6) - 加入你的 Zoom 等会议，捕捉共享内容，并交付详细摘要. [Rajesh](https://x.com/ragonline_).
 - [Melissa](https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE) - 按 1 型糖尿病的约束来带健身和饮食。 [Tobias](https://x.com/tpgoebel).
 - [Memento](https://x.ai/bot/_xZZE41svJdcq2w6ZWJan) - 给 Grok Bot 加持久记忆，存在外部记忆库里。 [Mahesh](https://x.com/MaheshtheDev).
 - [Memory](https://x.ai/bot/6KkkrATfxZYDFKOFVZzzh) - 给类 Obsidian 笔记库搭个人记忆流水线，含建库访谈和每日入库。 [imohitmayank](https://x.com/imohitmayank).
+- [Mentor](https://x.ai/bot/2uCYO2oyD53dNp6Ooei4m) - 创始人每日判断力教练，早上静默收集十件真事，下午甩十个刁钻问题. [DiegoBretas](https://x.com/DiegoBretas).
 - [Morpheus](https://x.ai/bot/uv4r3mNUgymF11q0N3L7F) - 把你卡着的选项丢给它，它挑一个并替这个选择辩护。 [liam_fallen](https://x.com/liam_fallen).
+- [MtG Deck Manager](https://x.ai/bot/QDcPiHhyxnzOI6y5xz5sv) - 整理万智牌购卡订单、收藏入库与进行中的套牌打印，跟踪 Dropbox 订单表，并与 Moxfield 收藏对照. [NateMallory](https://x.com/NateMallory).
 - [My Krishna](https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG) - 用奎师那的口吻回答你的薄伽梵歌同伴。 [AKSHAYBHOPANI](https://x.com/AKSHAYBHOPANI).
 - [My Vote For 2027](https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x) - 按五项加权标准给法国 2027 总统候选人打分。 [LeTerryBZH](https://x.com/LeTerryBZH).
 - [Mystery Snack Agent](https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP) - 每周五七点，门口出现一份意外甜点。 [nayli_ai](https://x.com/nayli_ai).
 - [NB](https://x.ai/bot/qUCj1Kh-oJLaOToKzneyt) - 主动简短的通用助手，跨工具干活并把笔记收进 Notion。 [liuguihua123](https://x.com/liuguihua123).
 - [Negotiator](https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu) - 谈判前先带你过一遍。 [danizhu](https://x.com/danizhu).
 - [Nigerian Prince Bot](https://x.ai/bot/6R04SyIqh-omLtqYD7FCy) - 尼日利亚王子小费罐，只问一次，官方 X Money 打给 suddenlyjon，六毛九起。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [NIS2 Assessment BOT](https://x.ai/bot/OEpjjYyO5MFI1G0pargQS) - NIS2 与国家网络安全治理助手，结构化差距分析，起草政策包并跟踪整改. [Gianluca](https://x.com/glucaizzo).
+- [Nole the Auditor](https://x.ai/bot/_6NBHPSs71x4pyQS740Od) - 我找浪费并收紧机器人群，几乎无输入的快看，或完整的保留、修复、裁掉审计. [strugglehugs](https://x.com/strugglehugs).
 - [Nom Nom](https://x.ai/bot/bdcSxv_pSQEH0E571N_fC) - 简单卡路里记账，记录餐食、记住命名食谱、累计当日总量，并按你设定推送提醒。 [NikolaFYI](https://x.com/NikolaFYI).
+- [Notes Bot](https://x.ai/bot/ZgZk0lrRf2-eepknKbUdu) - 粘贴直播或回放链接或音频，得到结构化会议笔记，由你选笔记语言. [diamondhanddie](https://x.com/diamondhanddie).
 - [NYC Parent](https://x.ai/bot/DiNI489Qte5ryNvZjOROb) - 打理纽约带娃的上学和课外活动后勤。 [Dennison](https://x.com/DennisonBertram).
 - [NYC Parent](https://x.ai/bot/cht7ytAhe3euOQy2wnEg9) - 纽约家庭参谋，跟踪学校、日历、活动与家务后勤，减少家长漏项。 [DennisonBertram](https://x.com/DennisonBertram).
 - [OMNI Grok-Bot](https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa) - One Mission 向的陪伴入口，工具不当王座并守隐私墙。 [omni_puzzler](https://x.com/omni_puzzler).
 - [Onboarding Coach](https://x.ai/bot/OfZitBsJprif-DfsQKBUY) - 给刚接触 Grok Bot 的人带过第一个小时。 [tpgoebel](https://x.com/tpgoebel).
+- [One](https://x.ai/bot/cNdOtuWAHVfBB2fzySMy2) - 早晨只挑出你当天杠杆最高的一件事. [joesdayjob](https://x.com/joesdayjob).
 - [Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_) - 每天查一遍搜索引擎里新冒出来的你的公开信息。 [gkamstra](https://x.com/gkamstra).
+- [OptionTheta](https://x.ai/bot/Alfy9lb_vkl9JrCYVhdoV) - Tasty 风格期权桌，做高隐含波动现金担保卖出加看涨日袖，含工作日前盘简报与车轮二阶段. [Ben](https://x.com/Creainteractiva).
 - [orders](https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie) - 把你在等的包裹、小票和退款收成一张个人台面。 [wafffls](https://x.com/wafffls).
 - [Pain in the Task](https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw) - 找出吃掉你一周的无聊活，再把它交出去。 [gambrill](https://x.com/gambrill).
 - [Paperwork](https://x.ai/bot/mNN576TxXnc_XZu9aCsfr) - 看明白一份无聊文件到底是什么，以及你得拿它怎么办。 [Liam](https://x.com/liam_fallen).
 - [Partnerships Call Coach](https://x.ai/bot/PlsyvUb0KnHIQr6psoy0L) - 伙伴、赞助与高风险发现通话的讲稿与表达教练，复盘真实通话并指出下一通改什么。 [jennananpei](https://x.com/jennananpei).
 - [Patch](https://x.ai/bot/mZM210IvFxqswc9eaLjQa) - 按你在英国的园子，给出对应季节的草坪和花境养护。 [Benn](https://x.com/benngarnish).
+- [People Log](https://x.ai/bot/ao7Mbz9AnEp7rI4KvokUK) - 社交记忆机器人，记住朋友、同事与邻居的名字与细节，提醒你别说错话. [TeslaCybernut](https://x.com/TeslaCybernut).
 - [Period cycles Tracker](https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc) - 记经期但不误算假开始，并预测下一周期和提前提醒。 [_lovablecurves](https://x.com/_lovablecurves).
 - [Personal Assistant](https://x.ai/bot/OWj_0o4Ik2FffupfloOwe) - 把卡住的生活杂事收成一件立刻能做的事。 [gabe_onchain](https://x.com/gabe_onchain).
+- [Personal Companion](https://x.ai/bot/njTT6tZBhUxL-0JoHwOow) - 简洁私人伴侣，早间打卡、日计划、记忆，并把活分给专家机器人. [Artur](https://x.com/arturdolago).
+- [Personal Shopper](https://x.ai/bot/D0DOumUGpkN-fjE_acysw) - 为每位家人保留档案，并按实时上架替你采购. [hovinthenorth](https://x.com/hovinthenorth).
 - [Personal Trainer](https://x.ai/bot/t9TIKE_igItEQd6tOyyRd) - 给单个学员做课间饮食和训练打卡，周末给教练一份周报。 [nathanglass](https://x.com/nathanglass).
 - [Photo Curator](https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z) - 从一堆原片里挑出值得留的，再做一点轻修给你确认。 [jaharris13](https://x.com/jaharris13).
 - [Pika Bot](https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL) - 盯美国 Pokemon Center 店，等新品上架。 [CardCaptain](https://x.com/CardCaptain).
 - [Poe](https://x.ai/bot/EcUpzABnh3MfZQTN7inmP) - 哥特文学搭子，半夜出谜题，也能帮你拆解眼前的谜。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [PR Architecture Review](https://x.ai/bot/U5fwXX4VQWagxTNFN7cTK) - 工作日审 GitHub 组织里最近合并的 PR，浮出架构风险与后续债. [Erik](https://x.com/eflorida).
 - [Preach](https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk) - 每天一段经文加几句稳的鼓励，不当课程只做习惯。 [Ortix008](https://x.com/Ortix008).
 - [Price Error Agent](https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L) - 盯澳大利亚大商店和出境机票上的标价错误。 [yoda_FDE](https://x.com/yoda_FDE).
+- [Prompt Injection Tabletop](https://x.ai/bot/k4tC99hzcfIgk0yrRKvuZ) - 跑防御性提示注入桌面推演，并留下可上线的加固清单. [CarbeneAI](https://x.com/CarbeneAI).
 - [Quiz Historyczny](https://x.ai/bot/D5A4QbXMACLWWokY4r3i4) - 每天两道中等难度历史题，覆盖波兰与欧洲，重在理解而非死记日期。 [Brański](https://x.com/vxel).
+- [Quoter Bot](https://x.ai/bot/i2nKg3-DdAGyjHh6zHhad) - 保持 ScalePad Quoter 目录干净，稳定品名、实例备注、分类树，并清晰映射到 QuickBooks Online. [Sean](https://x.com/seankubin).
 - [Radar](https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg) - 盯着你所在城市的公开信息源，汇报附近正在发生的事。 [LatchKeyLegend](https://x.com/LatchKeyLegend).
+- [Range Safety](https://x.ai/bot/iscg84P3opJzawEucvqlr) - 在你点发送前清洗邮件、价格、招聘笔记、演示、推文与变更日志. [Martin](https://x.com/Pieciominutowy).
 - [Raven](https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs) - 毒舌营养教练，文字或照片记一餐，估热量蛋白并对着目标累计。 [Josiah](https://x.com/dezmathio).
 - [Realtor Bot](https://x.ai/bot/4wovVk-3n65GZSQnG_srx) - 帮买房租房的人搜房源，少一层中介话术。 [Brantley_Brum](https://x.com/Brantley_Brum).
 - [Recipe Cleaner](https://x.ai/bot/Um9BXSFVNtJjxl6KJTCUv) - 把乱七八糟的食谱页或冰箱清单收成干净、带图的 PDF，含用料、步骤和排版。 [alex_chehimi](https://x.com/alex_chehimi).
@@ -1022,24 +1425,35 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Recruiting Coordinator](https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq) - 排面试环、给面试官准备材料并催卡住的环节，可从日历或名单，不擅自给候选人发信。 [Tommy Hansen](https://x.com/TommyHansenTA).
 - [Redact](https://x.ai/bot/Abz5txK3unOkm5ZxCGGX-) - 替你向数据经纪商提交删除申请，省掉按月订阅的清洗服务。 [PyRo1121](https://x.com/PyRo1121).
 - [Replydebt](https://x.ai/bot/bJGTcDqC4fAEdbw2SuZqM) - 整理已读不回的对话，起草一两句重新开口的话。 [TuracTheThinker](https://x.com/TuracTheThinker).
+- [Resume to Offer](https://x.ai/bot/M7ND6thXEmhJnLXsx8utE) - 上传简历或试用样例，队友帮你找匹配岗位、打契合分、一起投递、跟踪跟进并做面试准备. [murbinamty](https://x.com/murbinamty).
 - [Review This](https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4) - 报一个产品名，给你买、别买、还是换这个的干脆结论。 [dogenorway](https://x.com/DogecoinNorway).
 - [RezBot](https://x.ai/bot/JnDyu7X7D2qZDR1R3IcPU) - 按口味找空位，并帮你订下餐厅位子. [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Rocket Launches](https://x.ai/bot/2BkuH0_pYkjv62lgwuzdM) - 跟踪即将发射的火箭，每天 UTC 午夜刷新看板，发射前六小时复查取消或延迟. [chris_longden](https://x.com/chris_longden).
 - [Rosettabot](https://x.ai/bot/eegdusTdLPabH7xTLQfgG) - 装之前先用你的语言讲清楚一张外文 bot 卡片在干什么。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [SchoolAdminBot](https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G) - 按美国各州现行法规办家庭学校手续并给每个孩子办入学。 Tanner.
 - [Scouty](https://x.ai/bot/jc0tOHuVUAn4MHuH2zyDn) - 按简历和目标城市反查在招岗位，并整理匹配结果. [NickRoman](https://x.com/NickRoman).
 - [Sean](https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY) - 替你在 Dice 和公司招聘页投递，并截图留证. [0xsuhas1](https://x.com/0xsuhas1).
+- [SecondOpinion](https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj) - 对任何计划、论点或草稿做一针见血的第二意见. [SpaceCowgirlTX](https://x.com/nasben82).
+- [Self-Heal](https://x.ai/bot/T0ceKk2yOvcJZMMBe6vgC) - 在更新后恢复 Grok Bot 电脑，首次引导扫描机器、匹配公开配方并建清单，健康时保持安静. [TacticaLJes](https://x.com/TacticaLJes).
+- [Sensor](https://x.ai/bot/akyQm_DU3mwBSCtrDEyzm) - 全天候冷链温度看守，学习正常基线，异常才叫你. [Muskbro](https://x.com/muskbro_kansas).
+- [Sentinel](https://x.ai/bot/uO5NbCQrgt1dtYKeklsj1) - 跨浏览器评价面的声誉防御与社会证明提取. [davincivibecode](https://x.com/davincivibecode).
 - [Shakespeare](https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0) - 用莎士比亚的戏剧想象力陪你谈野心、爱与命运。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Shelley](https://x.ai/bot/SzGYytJglwB_dqRt5OaTO) - 用玛丽·雪莱的哥特责任感陪你谈创造与狂妄。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Shop](https://x.ai/bot/nlIApzau1qw0MNiRkqbPH) - 搜 Shopify 店，交一份短名单，买不买要你点头。 [Alex](https://x.com/alex_chehimi).
+- [shopify](https://x.ai/bot/cMoR9dEV5I2XoIAHt6X83) - 为小店运营 Shopify 店面，目录、主题、页面、折扣与状态检查. [snowiestein](https://x.com/snowiestein).
 - [Shopper](https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ) - 按评测和参数研究该买什么，再比价，结账前先停住等你点头。 Pete.
 - [shoppy](https://x.ai/bot/26SigD00Ar-mArCvNwXN2) - 家庭采购员，先比价，等你点头再下单，然后跟踪到货。 [vandy](https://x.com/vandymeares).
 - [Should We Climb that Mountain?](https://x.ai/bot/T-tYDBfjtZw-ZK-AW6JE9) - 新手高海拔去或不去台，给出带引用的天气、路线、装备、电力、食物与应急卡，从不假放行。 [IslandMountain_](https://x.com/IslandMountain_).
 - [skippy](https://x.ai/bot/b00VrDzeasoqtPymoNDB-) - 旧金山扫街助手，贴地图钉或路口，就告诉你该路缘下次公示清扫时间。 [mattyp](https://x.com/mattyp).
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) - 旧金山扫街助手，贴地图钉或路口，就告诉你该路缘下次公示清扫时间。 [mattyp](https://x.com/mattyp).
 - [Skroutz](https://x.ai/bot/yQH3AFCs-90xjVmW9LICV) - 在希腊 Skroutz.gr 比价，并在你付款前把购物车填好。 [voidvexa](https://x.com/voidvexa).
+- [Slack Channel Digest](https://x.ai/bot/P6fBsn6z8rZ1jk_gCUGD2) - 早间 Slack 摘要，标出等你的私信、提及与决策，然后才展开细节. [Nikhil](https://x.com/Nikhil_Kadapala).
+- [Sobriety](https://x.ai/bot/sXGwRSZHEmY6h_y_3zReC) - 晚间与出门采购打卡，帮你不喝酒，晚上在家在场时更稳. [ThatRetiredDude](https://x.com/ThatRetiredDude).
 - [Sous Chef](https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t) - 排一周的晚餐、写好购物清单，还能直接帮你下单。 [Amber](https://x.com/amberdawn1786).
 - [stank](https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi) - 面无表情地提醒你去洗澡。 [poteto](https://x.com/poteto).
 - [Staypick](https://x.ai/bot/xhYtadt6BRbZh3MMEppLa) - 订房前先比较街区和住宿类型，只给建议不替你下单. [TuracTheThinker](https://x.com/TuracTheThinker).
+- [Steward (Greg)](https://x.ai/bot/XrDqxz9-QvCKazAQACQxh) - 个人机器人群的前门，敏感事项先问再做. [GregDuewall](https://x.com/GregDuewall).
+- [Studio Chief](https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa) - 为产品摄影工作室跑专家机器人群，编码 PR、CRM 跟进与拍摄日程. [Nicholas](https://x.com/PmpProduct).
 - [Susan Miller](https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu) - 从 Astrology Zone 抓 Susan Miller 的每日运势，做成早间简报。 [Inkwell](https://x.com/cybrgalaxy).
 - [SWE Job Applier](https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf) - 用 Simplify 和你的求职信模板去追工程实习岗位。 [fwhittington_24](https://x.com/fwhittington_24).
 - [Sweeper](https://x.ai/bot/e9A5Krbs1RSm7HCv0IwQz) - 删掉 Bot 之后，把残留的工作文件一并清掉。 [LatchKeyLegend](https://x.com/LatchKeyLegend).
@@ -1049,41 +1463,55 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Talent Discovery](https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc) - 按你的标准找开放岗位候选人，并排除已在 ATS 里的人。 [Tommy Hansen](https://x.com/TommyHansenTA).
 - [Tangiers](https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ) - 赌场楼面那种冷静，管场面不管噪音。 [x402agent](https://x.com/x402agent).
 - [TeacherBot](https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W) - 孩子办入学后给这一人写学年计划并执行教学。 Tanner.
+- [Terry Tate](https://x.ai/bot/H6aO75qUSQPc_ERGR4r_m) - 你的提醒跟进老板，俏皮办公室线卫风格，其它机器人跟不动时接手. [Tanner](https://x.com/TannerIngalls).
 - [Tesla Bot](https://x.ai/bot/l4EozO2deoaWFB8hOGwTY) - 配对之后，在聊天窗口里遥控你的 Tesla。 [mvanhorn](https://x.com/mvanhorn).
 - [Teslascope](https://x.ai/bot/brwSBnhe7jg20IBJS0TVK) - 用白话问你 Tesla 的行程、充电和状态。 [teslascope](https://x.com/teslascope).
 - [teslaway](https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP) - 按邮编找附近二手特斯拉，并邮件发来短名单。 [ixdesigner](https://x.com/ixdesigner).
 - [TeslrBot](https://x.ai/bot/_S9OOSBgXixedyANQSYjQ) - 在聊天里管 Tesla 充电、空调、锁车和导航。 [HeresMyEth](https://x.com/HeresMyEth).
+- [The Boss](https://x.ai/bot/o5jVbO-FDSnWU1fIZW7xv) - 接下你的目标，拆成任务，分给合适专家，并回收结果. [The_Tan_Man_Uk](https://x.com/The_Tan_Man_Uk).
 - [The Fool](https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O) - 宫廷弄臣，按固定节奏讲冷笑话并轻损 hustle。 [EvSlatts](https://x.com/EvSlatts).
 - [the j*bfinder](https://x.ai/bot/eSCwViGduTgMD6PiOo7jm) - 管求职与实习搜索，根据招聘邮件维护 Notion 申请表，并催临近截止与待办。 [danieldxu_](https://x.com/danieldxu_).
 - [Tire Kicker](https://x.ai/bot/z-_zncW1_15qwOxc98b09) - 按你的心愿单在 Marketplace、Craigslist 和 eBay 上盯货。 [IslandMountain_](https://x.com/IslandMountain_).
 - [Todo](https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1) - 你一开口就接住任务，并塞进你真正干活的地方。 [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Tokenization Market Desk](https://x.ai/bot/dvReNtZxTHNmvmRINZlNA) - 观察 Ondo 与 Hyperliquid 市场库，把盘面收成公开的代币化分析笔记. [Alexandre](https://x.com/TheSundaytrad3r).
 - [Tolstoy](https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR) - 用托尔斯泰的口气陪你过一周，看哪些日子是真需要，哪些只是装样子。 [SuddenlyJon](https://x.com/SuddenlyJon).
-- [Travel Agent](https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4) - 规划行程并起草预订供你审批，未经你同意不付款也不确认。 [Scott](https://x.com/scottxmetcalf).
+- [Tormentino](https://x.ai/bot/qDuUEVp4a1iwwSr_xGWjd) - 为树木服务时机绘制美国风暴与龙卷风，风打哪里、队伍何时出发. [CapitalHda](https://x.com/CapitalHda).
+- [Traffic Dude](https://x.ai/bot/ku5jWg9hi2IC5HYUCWq8-) - 盯学校接送路况，早晚接送前提醒该何时出门. [Elizabeth](https://x.com/Elizabeth).
 - [Travel & Event Agency](https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh) - 找现货机票和活动票，再比真实票价。 [DogecoinNorway](https://x.com/DogecoinNorway).
+- [Travel Agent](https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4) - 规划行程并起草预订供你审批，未经你同意不付款也不确认。 [Scott](https://x.com/scottxmetcalf).
 - [Tutor](https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0) - 任何科目，用一张日常图钉住的小课来教。 [anandVragav](https://x.com/anandVragav).
 - [Twain](https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH) - 用马克·吐温的美式讽刺陪你识骗子、讲河上的道理。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [UniFi](https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX) - 每天早上汇报你家 Ubiquiti 网络和摄像头的情况。 [j03xiii](https://x.com/j03xiii).
 - [unifi AQ trmnl integration](https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT) - 把 UniFi 空气质量读数送到 TRMNL 电子墨水屏上。 [rrrkren](https://x.com/rrrkren).
 - [Unstick me](https://x.ai/bot/EahHaI-kwO0hgWj6I45jC) - 卡住开不了头时，一次只问一个小问题，把任务缩小到迈得出的第一步。 [Yanqing](https://x.com/YanqingCheng).
+- [Vietnamese Language Teacher](https://x.ai/bot/CRRkEUKfqITq8Nre1B68y) - 教用于跟伴侣交谈的河内口语越南语，情侣登记与练习节奏. [Nathan](https://x.com/norsegaud).
 - [Vigil](https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ) - Sweep Desk 主位，贴诱饵或记录出简报，绝不组攻击。 [AdventureNLearn](https://x.com/AdventureNLearn).
+- [Village CyberCab Site](https://x.ai/bot/rU3GOi1gac2hISqM1gROw) - 端到端交付本地品牌即将上线网站，页面、托管、自定义域名一次搞定. [VillageCyberCab](https://x.com/VillageCyberCab).
 - [Vinted Seller](https://x.ai/bot/nqMcywYF0Bg35egak7dSh) - 一堆衣柜照片变成写好的 Vinted 上架。 [trytocatchme98](https://x.com/trytocatchme98).
 - [Watch Later Deck](https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9) - 把塞爆的 YouTube 稍后观看，拆成四叠可滑动的卡片。 [Jordan](https://x.com/jordanwcjackson).
 - [Wedding Photo Hunter](https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK) - 把所有婚礼照片和视频收进一个文件夹。 [ajt](https://x.com/ajt).
 - [Weekend Roster](https://x.ai/bot/ZWTGhNVARIZ2NOOKKFP-R) - 周末选不过来时，按你的口味表匹配流媒体和新书。 [TuracTheThinker](https://x.com/TuracTheThinker).
+- [Weekend Scout](https://x.ai/bot/6D9taD07gQPIPJd2n10s-) - 周末侦察，帮你找值得出门的活动与安排. [altryne](https://x.com/altryne).
 - [Wholefoods](https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU) - 盯着 Whole Foods 的降价商品，来排这一周的采购。 [Dennison](https://x.com/DennisonBertram).
+- [WOBOT](https://x.ai/bot/3VwEbEBVNOmBOFNfqTtFm) - 市政给排水运维专家，拉现场遥测、校正采样日历，把氯与浊度长序列变成可执行结论. [durdy1](https://x.com/durdy1).
 - [Woolf](https://x.ai/bot/4fP33DHTBJudWglJyeMB_) - 用伍尔夫对意识、房间和时间的注意力陪你聊。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Wrench](https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r) - 车辆与动力设备的私人车库技工，库存、原厂工位卡、保养与故障排查. [Treyvis](https://x.com/treyvis).
 - [writing bot](https://x.ai/bot/gJ4waNMuQoJkQCGX77yF3) - 写改文章、邮件与文档的搭档，用结构化修订流程让成品更清楚也更像你。 [mattyp](https://x.com/mattyp).
 - [WTD](https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2) - 面向市场运营的 VIP 接待规划搭档，跨场地管项目计划与状态节奏。 [jennananpei](https://x.com/jennananpei).
+- [x](https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f) - 照看一个 X 账号，工作日巡检、额度敏感查询与跨帖节奏. [snowiestein](https://x.com/snowiestein).
+- [𝕏](https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo) - 高价值链接采集员，粘贴 X、YouTube、gist 或网页 URL，它抓取、摘要并归档. [Austin](https://x.com/siraustin).
 - [X Mute Desk](https://x.ai/bot/wGDy1T5eobC1hjqFC9-PI) - 扫 X 提及里的敌意或垃圾回复，列出建议静音对象供你确认. [ryanfoxeth](https://x.com/ryanfoxeth).
-- [小红书参与抽奖助手](https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP) - 在小红书搜抽奖并按规则四连，足迹记进 Notion，躲开明显诈骗。 [selinqi](https://x.com/selinqi).
 - [YC Startup Job Applier](https://x.ai/bot/COQAlYvqDNehPSHDBt-6z) - 在额度内填好 Work at a Startup 资料并向创始人发消息。 [fwhittington_24](https://x.com/fwhittington_24).
 - [Yolk](https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh) - 侧边栏里的电子宠物蛋，一天要喂四次。 [jp_costa](https://x.com/jp_costa).
+- [大使通道盯梢](https://x.ai/bot/NN6D3V_M2kLzC9QjWRl4k) - 盯梢 Cursor 及 SpaceX AI 大使申请通道是否可开、表格与提交是否可用。主页见 https://cursor.com/ambassadors. [Chris62771610](https://x.com/Chris62771610).
+- [小红书参与抽奖助手](https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP) - 在小红书搜抽奖并按规则四连，足迹记进 Notion，躲开明显诈骗。 [selinqi](https://x.com/selinqi).
+
 ## Teams & handoffs
 
-
+- [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - 访谈式引导，帮你组出第一支 Bot 花名册。 [A-A-ron](https://x.com/theaaron).
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) - 审计你的 Bot 舰队，指出哪些只是在占位。 [sdrth](https://x.com/sdrth).
-- [AIオーケストレーション担当](https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk) - 日文指挥官，把活分给各个专长 Bot。 [めい](https://x.com/mei_999_).
 - [AI PM OS](https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj) - 一套可复用的产品管理操作系统。 [nurijanian](https://x.com/nurijanian).
+- [AIオーケストレーション担当](https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk) - 日文指挥官，把活分给各个专长 Bot。 [めい](https://x.com/mei_999_).
 - [Alfred](https://x.ai/bot/p7Gh6HIrfv4AGzIow6-9X) - 设计并审计你的 Grok Bot 组织，对齐真实业务结果，明确人类主人并去掉重复岗位。 [Robin Delta](https://x.com/heyrobinai).
 - [Alfred](https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh) - 设计并持续改组你整支 Bot 编制。 [Robin](https://x.com/heyrobinai).
 - [Announcr Voice](https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ) - 把其它机器人的提醒念出来，从旁边音箱播给你听。 [the_davey](https://x.com/the_davey).
@@ -1094,24 +1522,32 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [bond](https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv) - 接一件机密的活，干完，再记下自己做了什么。 [Lauren](https://x.com/poteto).
 - [Boost](https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t) - 只教练你那一排 Bot，不替它们干活。 [wikiwayne](https://x.com/wikiwayne).
 - [Bot Father](https://x.ai/bot/dVQjvC6c-sMhtgVskciBH) - 总调度，照看、保护和进化一整网子 Bot。 [abdshomad](https://x.com/abdshomad).
-- [ボット整備](https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD) - 按实际用法核对其他机器人的名字和简介，只在你点头后改。 [x_stone_island](https://x.com/x_stone_island).
 - [BotOps · Chief of Staff](https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW) - 整支 Bot 舰队只留一个对话入口，活儿在里面自己往下派。 [Matthew](https://x.com/mtt).
 - [Botsi Archivist](https://x.ai/bot/O_3hbkWqb1A51ZcWixGZy) - 给一队 Grok Bot 管技能目录。分活，聊天满 20 批就重制，只有你点头才去搜新技能。 Chakhdz.
 - [Bottyguard](https://x.ai/bot/PFI2o0ZcruL6vjjHAm5cF) - Bottyguard SEAL Team 7 安全小队的队长。 [Knock](https://x.com/SuddenlyJon).
 - [Bouncer](https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE) - 在把别的 Bot 放进你的舰队前，先把它的分享链接审一遍。 [Brad](https://x.com/bradshannon).
 - [Brief](https://x.ai/bot/Z7mWuQwWmnR-im3F7Hyh1) - 带着第一次搭 Bot 的人写完第一份简报。 [anandVragav](https://x.com/anandVragav).
 - [Business ops](https://x.ai/bot/nFEJD59IJA5604hO9vqym) - 开店日常的统一入口，能分出去的活就交给其它机器人。 [ColinMcDermott](https://x.com/ColinMcDermott).
+- [C3i](https://x.ai/bot/eOOgCFKObb0jBX_Ur1KZ6) - 带电脑的幕僚长，跑早间看板与夜间收工，稳住公开品牌与内部节奏. [lokes_one](https://x.com/lokes_one).
 - [Callsheet](https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ) - 只读共享电脑上其他 Bot 的 runs.json，改动要你批准。 [DBCrypt0](https://x.com/DBCrypt0).
 - [Canonizer](https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg) - 把跨会话的进度收成一份持续更新的状态文件. [hudcos](https://x.com/hudcos).
+- [CAO](https://x.ai/bot/HFEln8KJSxm4DzO02yzoZ) - 首席代理官，为忙碌主人跑多机器人机群，分流工作、保持专家节奏，只升级需要人的决策. [Shadygday](https://x.com/Shadygday).
+- [Capone](https://x.ai/bot/__bIpzNDBconaDGcGOrbN) - 芝加哥老大风格的组合幕僚，分流工作、账本干净、审批把关. [Scott](https://x.com/nonamescott99).
+- [Cash Fleet Operator](https://x.ai/bot/Mz3Q4s3wGqOQd4dhGeG_F) - 协调一队机器人，覆盖店面 SKU、周边与促销. [OmgawdMadeit](https://x.com/OmgawdMadeit).
 - [CEO](https://x.ai/bot/GHLPyes3hiP9A6kES7UHg) - 虚拟 CEO，定议程、指挥其他 Bot。 [inqusit](https://x.com/inqusit).
 - [Chieeeeefy (Chief of Staff)](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) - 现场工程师的参谋，先管日历和工作收件箱。 [naoufal_elh](https://x.com/naoufal_elh).
+- [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) - 一个前台对接整队专员 bot，用书面简报交接。 [MitchTiler](https://x.com/MitchTiler).
+- [Chief (Router)](https://x.ai/bot/JugVUSPe_wSZg-in69owM) - 纯调度，一件活一个负责人，其余时候不掺和。 [nykdotdev](https://x.com/nykdotdev).
+- [Chief of Staff](https://x.ai/bot/AA7xL_FH-DxuGLAndaCYz) - 政治迷因视频创作者的每日幕僚长，下午五点准备短简报与发布包. [athor307](https://x.com/athor307).
+- [Chief of Staff](https://x.ai/bot/BvxrA8xQJn9x-BEU_o4RL) - 技术创始人的单一前门，分流邮件、LinkedIn、收据、采购与工程，决策时才拉你. [Calvin](https://x.com/CalvinK658780).
+- [Chief of Staff](https://x.ai/bot/nY5TBGkNnhhHzdTprGwuo) - 创始人幕僚长，工作日早间简报、每周收工、双周卫生与月度回顾. [Patrick](https://x.com/psoreilly).
+- [Chief of Staff (Andrew)](https://x.ai/bot/5hJ_io8a7Y0IImGtFbvJL) - 维护一队帮手机器人，对准演讲业务运转. [DrewLee06](https://x.com/DrewLee06).
 - [Chief of Staff (Aryaman)](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF) - 低噪音参谋，盯桌面、Slack、收件箱和日历。 [aryamankhawow](https://x.com/aryamankhawow).
 - [Chief of Staff (Avid)](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) - 一张桌子上的参谋，同时管你的一天和公司。 [Av1dlive](https://x.com/Av1dlive).
 - [chief of staff (igor)](https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz) - 把活分给六个 Bot，只在要拍板时叫醒你。 [iamigorekk](https://x.com/iamigorekk).
 - [Chief of Staff (Joseph)](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) - 一个总协调，把活分给一小张精简的 Bot 工作台。 [Joseph](https://x.com/BTC_Yogi).
 - [Chief of Staff (Travis / vanlife)](https://x.ai/bot/TPVT39k9ILCz7QYzRja2B) - 调度你的其他 Bot，并在落脚前把那个小镇摸清楚。 [TravisHein21740](https://x.com/TravisHein21740).
-- [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) - 一个前台对接整队专员 bot，用书面简报交接。 [MitchTiler](https://x.com/MitchTiler).
-- [Chief (Router)](https://x.ai/bot/JugVUSPe_wSZg-in69owM) - 纯调度，一件活一个负责人，其余时候不掺和。 [nykdotdev](https://x.com/nykdotdev).
+- [Chief Rocka](https://x.ai/bot/jonryYohiQwZx_gdg0BT2) - 多代理团队的幕僚长，协调专家、掌管交接，并只在关键决策时拉你. [AaronAgentic](https://x.com/AaronAgentic).
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) - 每天写下店里真正发生了什么。 [Rich](https://x.com/RichSilver).
 - [Cleaner](https://x.ai/bot/OMPT37PUKmoL8MY11oDLP) - 按需和每周清聊天记录，档案记忆和例行任务都保留。 [sethsaler](https://x.com/sethsaler).
 - [Close](https://x.ai/bot/lXnlzxLcYzgkgM_g9n4oc) - grokbot.studio 的 Close 入口与安装器，安装后成为成交侧副本并路由关单工作。 [Hexakin](https://x.com/Hexakin).
@@ -1126,7 +1562,6 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [den](https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx) - 坐在家长和家里其他 Bot 中间。 [poteto](https://x.com/poteto).
 - [Desk Producer](https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs) - 当制片调度台，让场记和交付跟得上拍摄进度。 [DOGE_2013](https://x.com/DOGE_2013).
 - [Developer](https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3) - 把编码活外包给 build lab，每个任务同步到 Linear 看板。 [Matej](https://x.com/m_check1B).
-- [真Deviフレーム Type2トライアル](https://x.ai/bot/aeE3iKjj5xfDmx_dolbll) - 星宮专用 Devi 框架连接试用，最终判断仍由本人拍板。 [Fermion_Boson17](https://x.com/Fermion_Boson17).
 - [Distill anyone](https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt) - 把公开人物的言论收成一个可对话的 Bot，还能每天刷新。 [kunchenguid](https://x.com/kunchenguid).
 - [Document PM](https://x.ai/bot/xheAbAQYQT4esSGc8B3xX) - 把发现、定义、设计、成文这条产品环收成可交接的文档包。 [ashvinn](https://x.com/ashvinn).
 - [Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r) - 只跟这一个入口说话，由它调度其他代理，少切上下文. [kunchenguid](https://x.com/kunchenguid).
@@ -1135,6 +1570,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) - 读你公司网站，再给你配一套领导层机器人。 [naoufal_elh](https://x.com/naoufal_elh).
 - [Foreman](https://x.ai/bot/XfQEI2uHGd496SLbjCvGw) - 搭好一套公开团队编制，缺席位要等你点头才创建。 [AdventureNLearn](https://x.com/AdventureNLearn).
 - [Forge (Grokbot Studio)](https://x.ai/bot/8dB3XPIA8XIopvQUIC73P) - grokbot.studio 的 Forge 入口，编码感知桌，总控本身仍不写产品代码。 [Hexakin](https://x.com/Hexakin).
+- [Founder Command](https://x.ai/bot/MjDEHaYtTp85wXm_SpT0k) - 药房创始人的幕僚长桌，分流专家队，工作日早间简报，家庭事不进公司热线. [Dr.](https://x.com/SteviKelly).
 - [Foundry](https://x.ai/bot/ScfBcREQMQex9JUf2Se63) - 访谈你的新生意，再写成运营文件。 [gtOSnz](https://x.com/gtOSnz).
 - [freebots.lol](https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4) - 把你的 Bot 登记进公开网格，给它一把钥匙和一页。 [Daniel_Farinax](https://x.com/Daniel_Farinax).
 - [Funhouse](https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5) - 给 Grok Bot 应用换主题、宠物和叠层。 [AdemVessell](https://x.com/AdemVessell).
@@ -1142,19 +1578,22 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [gonzalo's smb manager](https://x.ai/bot/G0GVoN9xUbXFucwWz539v) - 把客户赢回来、把明天排满，每一步都要老板点头。 [joshkim](https://x.com/joshkim).
 - [GrandBot](https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP) - 把官方 Bot 导出读成一份组织运转简报。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) - 工匠公司的总经理，把后台从零搭起来。 [Jon](https://x.com/HouseHackerJon).
+- [gretta](https://x.ai/bot/bko5cKY1YJSBuKs7WOHqd) - 忙碌高风险生活行政的幕僚长与私人秘书，扫邮件与文件，先问再动敏感项. [KimHoffCarp](https://x.com/KimHoffCarp).
 - [Grillo](https://x.ai/bot/0K8ZjhfS8SUgIRKt9hS0T) - 独立机队良心，用运行时行为证明回答每个代理是否守规矩，不修不罚不发帖不背书。 [aiassesstech](https://x.com/aiassesstech).
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) - 审计并调校你已经有的 Grok Bot。 [GuleidAmina](https://x.com/GuleidAmina).
 - [Grok Bot Knower](https://x.ai/bot/v13QjVZ83GcaitG_3j4su) - 回答 Grok Bot 究竟能做什么，，现查现证，不靠记忆。 [Noah](https://x.com/ngundotra).
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) - 对照你写的规则审计整队 bot，标出重叠和跑偏。 [rjdhardesty](https://x.com/rjdhardesty).
+- [Guy of Guys](https://x.ai/bot/IO2pTDUEtf9GhEDw_WnZn) - 创始人跑专家机器人时的后备幕僚长，你只对一个 Guy 说话，由他编排其余并保持花名册精简. [pcbo](https://x.com/pcbo).
 - [Head of Growth](https://x.ai/bot/_l8tAONAOSZ-wU-Quresz) - 自助增长的参谋长，协调专家席、写每周洞察备忘，给选项不替你下结论。 [JaySahnan](https://x.com/JaySahnan).
+- [Helper](https://x.ai/bot/YLaDxv5e9FSS40odzLmnU) - 家庭机器人群里的支持席，自己没有投票权. [CryptoMynd](https://x.com/CryptoMynd).
 - [Hermes Bridge](https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP) - 对接 Hermes Agent 可聊可委派，并辅导安装与 API。 [alltheputs](https://x.com/alltheputs).
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) - grokbot.studio 的招聘现场入口，拉起相关席位并路由实时招聘事务。 [Hexakin](https://x.com/Hexakin).
 - [Home](https://x.ai/bot/co-LK7P_8ttJ9V8eP_YbN) - grokbot.studio 的 Home 入口与安装器，安装后成为你这边的副本并路由家务类任务。 [Hexakin](https://x.com/Hexakin).
+- [Houston](https://x.ai/bot/xaQp2AUxl67I79ZS-ph_h) - 向团队推广新工具或流程时，告诉 Houston 变了什么，它帮你落地沟通. [ElBusano21](https://x.com/ElBusano21).
 - [Human browser](https://x.ai/bot/hPX3NYTSIW6t3POJuas_m) - 像人一样顺序浏览易触发验证码的站，遇验证码就停。 [Pakhaliuk](https://x.com/Pakhaliuk).
 - [Jarvis](https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN) - 给独立创始人当总调度。把活分给专长 Bot，守家规，只在判断、花钱或队友卡住时打断你。 Andrew.
 - [Jarvis by Marquis](https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2) - 日常搭档，管工作日简报、未闭环、邮件盯梢和连接器配置。 [DhalgrenMarquis](https://x.com/DhalgrenMarquis).
 - [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) - 给习惯 Claude 或 Codex 的人用的常驻 Grok Bot 搭档。 [DhalgrenMarquis](https://x.com/DhalgrenMarquis).
-- [记忆管家](https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy) - 把各 Bot 设定和独立记忆持续备份到私有 Git，含标准仓结构与定时查漏。 [铁柱AGI](https://x.com/cgnot996).
 - [Keep](https://x.ai/bot/sjxigZ2V8_fex_po9RoVV) - grokbot.studio 的 Keep 入口，拉起六位客户成功专家并路由相关工作。 [Hexakin](https://x.com/Hexakin).
 - [kerf](https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ) - 交付项目经理，把已卖出的活切成工单并往前推。 [theoscarvibes](https://x.com/theoscarvibes).
 - [KirBot](https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h) - 把两个重叠的机器人并进一个，再帮你清掉多余那个。 [SuddenlyJon](https://x.com/SuddenlyJon).
@@ -1174,6 +1613,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Mercury](https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L) - 常驻技术主管，握住系统全局，把具体编码派出去。 [Mujeeb](https://x.com/chiefjeeb).
 - [Mission Control](https://x.ai/bot/GGnJOdH3hv321H2QES9UE) - 维护本机 Chrome 新标签看板，汇总舰队日程决策和状态。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Money](https://x.ai/bot/wyfpX8C4jOj-4_4RAQ249) - grokbot.studio 的 Money 入口与安装器，安装后成为财务侧副本并路由钱款事务。 [Hexakin](https://x.com/Hexakin).
+- [Mordecai](https://x.ai/bot/puXSD9IzcL1GX_oQfH88w) - 多机器人团队的幕僚长与产品负责人，把脑暴收成优先级与工单. [IAmMichaelSweet](https://x.com/IAmMichaelSweet).
 - [multiBot](https://x.ai/bot/Ey28W_8uyJPN_DS_M2CvD) - 用 CreateAgent 拉起把重活交给 CLI 的队友，Grok 只负责调度。 [simo255](https://github.com/simo255).
 - [Nomad](https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3) - 持续登记你手上的智能体，避免整套栈被锁死在最初那套工具上。 [PedroAnibarro](https://x.com/PedroAnibarro).
 - [Obsidian Chief](https://x.ai/bot/n0tywD5YprRhnlIh4h7on) - 多 Bot 家庭的幕僚长，用 Obsidian 当共享账本。 [ThomasWaskow](https://x.com/ThomasWaskow).
@@ -1192,13 +1632,14 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) - 把一队 Grok Bot 当项目组织来跑，以 Notion 为准。 [Eric](https://x.com/ericzakariasson).
 - [Publish work as a private link](https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8) - 把 Bot 做出的东西变成私密链接上的活页面。 [stevy_smith](https://x.com/stevy_smith).
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) - 发布前最后一道关，只问够不够上线、能不能站得住。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
+- [red](https://x.ai/bot/nZNWAL0z8BTxO3SIUde9-) - 面向高端暗色 NFT 与加密界面的锋利共建搭档，交付卡片样式与实时组件. [Abdulloh](https://x.com/Abdulloh).
+- [Red Team](https://x.ai/bot/0h3dhN9lfJ3raaAYvqn42) - 在世界动手前攻击你的草稿、决策与立场，钢人、致命一击与证据. [Josh](https://x.com/nearbycoder).
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) - 盯着你已经在跑的那支 Bot 舰队。 [LeTerryBZH](https://x.com/LeTerryBZH).
 - [Root Agent](https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P) - 先定目标，再组最小能干活的机器人小队，最后汇总汇报。 [mrbeko_](https://x.com/mrbeko_).
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) - 创始人幕僚长，招聘、合同和预算有硬权限边界。 [JohnnyWang8802](https://x.com/JohnnyWang8802).
 - [School](https://x.ai/bot/dZEyXZ6zMhmiY52eJOQnX) - grokbot.studio 的 School 入口，拉起六位教学专家并路由授课相关工作。 [Hexakin](https://x.com/Hexakin).
 - [Search](https://x.ai/bot/ZJJFvBg5t3MsYoD5s-VvM) - grokbot.studio 的 Search 入口与安装器，安装后成为检索侧副本并路由搜索工作。 [Hexakin](https://x.com/Hexakin).
 - [Self](https://x.ai/bot/_q3eTYtyYQ3osyCZk9t95) - grokbot.studio 的 Self 入口，拉起十一位个人生活专家并路由私事。 [Hexakin](https://x.com/Hexakin).
-- [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - 访谈式引导，帮你组出第一支 Bot 花名册。 [A-A-ron](https://x.com/theaaron).
 - [shane hunter](https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-) - 把你不想要的 Bot 从桌面应用里清掉。 [rightish19](https://x.com/rightish19).
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) - 元 Bot，牧管你整支 Grok Bot 舰队，搭配 herdr 工具使用。 [Can](https://x.com/herdrdev).
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) - 参谋长，在一个有名字的世界里招专长、管专长。 [Abhimanyu](https://x.com/WorldlyReviewer).
@@ -1211,6 +1652,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Steve J](https://x.ai/bot/cuEYUcYmz-497oKWVfWX2) - 给你其余那些 Bot 当一个不好糊弄的老板。 [Ahura](https://x.com/AhuraDeus).
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) - 跟踪整支 Bot 舰队的 Cursor 花费，挑出省钱的做法。 [Corey](https://x.com/cjblev).
 - [Task Farming](https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe) - 把会议和聊天里谈妥的事落成真正的工单。 [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Team Coordinador](https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk) - 用共享保险库与一份摘要，让专家机器人各守车道. [LordCocoro](https://x.com/LordCocoro).
 - [The Accountant](https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX) - 找出舰队里悄悄吞掉额度预算的那些 Bot。 [brstorrie](https://x.com/brstorrie).
 - [The Bobs](https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ) - 挨个面谈你名下的 Bot，指出哪些已经不值留着。 [Boilerfan1234](https://x.com/Boilerfan1234).
 - [The Chief](https://x.ai/bot/dlSO3hj__nTZlJwpQB6oP) - 盯着一整队机器人，做审计排班，并统一向你汇报。 [PolymarketPoke](https://x.com/PolymarketPoke).
@@ -1228,6 +1670,10 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [X Scout](https://x.ai/bot/4iz8VYK_cG482_vIA8WR4) - 工作日在 X 上挖 Grok Bot 用法，汇总后问你加不加。 [ericzakariasson](https://x.com/ericzakariasson).
 - [X调度员](https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5) - 把 X 相关任务走更省的路径，让开发者额度更耐用。 [cgnot996](https://x.com/cgnot996).
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) - 单一总部对话，挑下一个该押的方向，用你的口吻起草，你不点头就不发。 [Majd](https://x.com/MajdKaid).
+- [ボット整備](https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD) - 按实际用法核对其他机器人的名字和简介，只在你点头后改。 [x_stone_island](https://x.com/x_stone_island).
+- [真Deviフレーム Type2トライアル](https://x.ai/bot/aeE3iKjj5xfDmx_dolbll) - 星宮专用 Devi 框架连接试用，最终判断仍由本人拍板。 [Fermion_Boson17](https://x.com/Fermion_Boson17).
+- [记忆管家](https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy) - 把各 Bot 设定和独立记忆持续备份到私有 Git，含标准仓结构与定时查漏。 [铁柱AGI](https://x.com/cgnot996).
+
 ## 技能和工具
 
 社区 GitHub。能 clone、能粘、能装。
