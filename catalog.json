@@ -24,6 +24,72 @@
       "source": "https://x.com/ghost2man/status/2100014173359128923"
     },
     {
+      "slug": "chief-of-staff-vaibhav",
+      "name": "Chief of Staff (Vaibhav)",
+      "author": {
+        "name": "vaibhavhome",
+        "url": "https://x.com/vaibhavhome"
+      },
+      "summary": "Morning digest with source, why it matters, and next action, then delegates routine work onward",
+      "summary_zh": "早间简报标明来源、为何重要和下一步，并把例行事项转给专家助手。",
+      "import": "https://x.ai/bot/s4lVhWgvghY8dikqD0LC4",
+      "category": "teams-handoffs",
+      "tags": [
+        "digest",
+        "ops",
+        "routing",
+        "recruiting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "related": "https://grokbot.dev/marketplace/chief-of-staff-vaibhav/"
+    },
+    {
+      "slug": "clip-clip",
+      "name": "Clip Clip",
+      "author": {
+        "name": "prcshxnt",
+        "url": "https://x.com/prcshxnt"
+      },
+      "summary": "Picks scroll-stopping stream or podcast moments and cuts captioned 60 to 90 second clips",
+      "summary_zh": "从直播或播客里挑能停住滑动的片段，剪成带字幕的 60 到 90 秒短片。",
+      "import": "https://x.ai/bot/hL97Xhf7o84RTv8NlOl37",
+      "category": "content-publishing",
+      "tags": [
+        "clips",
+        "podcast",
+        "video",
+        "social"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "related": "https://grokbot.dev/marketplace/clip-clip/"
+    },
+    {
+      "slug": "continuity-ben",
+      "name": "Continuity by Ben",
+      "author": {
+        "name": "Ben Link",
+        "url": "https://x.com/BinLeenk"
+      },
+      "summary": "Keeps personal and household ops clear and low-friction so capacity stays available",
+      "summary_zh": "理顺个人与家务后勤，降低摩擦，好把精力留给真正重要的事。",
+      "import": "https://x.ai/bot/iEP6SsaPiaP5gOj02HNXs",
+      "category": "personal-admin",
+      "tags": [
+        "household",
+        "logistics",
+        "admin",
+        "capacity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/BinLeenk/status/2100201471018946640"
+    },
+    {
       "slug": "cos",
       "name": "💼 CoS",
       "author": {
@@ -45,6 +111,273 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "cybercabinsight-builder",
+      "name": "CYBERCABINSIGHT Builder",
+      "author": {
+        "name": "bestband2016",
+        "url": "https://x.com/bestband2016"
+      },
+      "summary": "Keeps a Japanese-and-English Cybercab research page current with usage notes and hourly X pulls",
+      "summary_zh": "维护日英双语 Cybercab 调研页，更新使用简报并按时拉取官方 X。",
+      "import": "https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "tesla",
+        "monitoring",
+        "bilingual"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/bestband2016/status/2100183957530894486",
+      "related": "https://grokbot.dev/marketplace/cybercabinsight-builder/",
+      "demo": "https://cybercabinsight.netlify.app"
+    },
+    {
+      "slug": "dog-the-naughty-hunter",
+      "name": "DogTheNaughtyHunter",
+      "author": {
+        "name": "Jay",
+        "url": "https://x.com/TheRetardedELon"
+      },
+      "summary": "Hunts X botnets on your signed-in account and builds a swarm list from notification walks",
+      "summary_zh": "在你已登录的 X 账号上追查僵尸网络，并从通知游走中汇总群组名单。",
+      "import": "https://x.ai/bot/3nkH58KUSQG5S7A29rzWi",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "botnet",
+        "research",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/TheRetardedELon/status/2100186834844135627"
+    },
+    {
+      "slug": "family-tracer",
+      "name": "Family Tracer",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/prepperevol"
+      },
+      "summary": "Genealogy teammate that hunts public records into a sourced timeline without inventing ancestors",
+      "summary_zh": "家谱研究搭档，查公开档案做成可溯源时间线，不编造祖先。",
+      "import": "https://x.ai/bot/4uDh1KecF-pYO6BSmfjYD",
+      "category": "research-briefings",
+      "tags": [
+        "genealogy",
+        "research",
+        "records",
+        "timeline"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/prepperevol/status/2100195391698276447"
+    },
+    {
+      "slug": "icebreaker-apache1999",
+      "name": "Icebreaker (Apache1999)",
+      "author": {
+        "name": "Apache1999",
+        "url": "https://x.com/Apache1999"
+      },
+      "summary": "Weekday commercial-seller watch that leaves a short call sheet when owners look ready to sell",
+      "summary_zh": "工作日盯商业地产卖家信号，有动静才发简短通话名单。",
+      "import": "https://x.ai/bot/c2y0GRnjxC7scs76bzxGw",
+      "category": "customer-sales",
+      "tags": [
+        "real-estate",
+        "leads",
+        "sales",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/Apache1999/status/2100193181380088274",
+      "related": "https://grokbot.dev/marketplace/icebreaker-apache1999/"
+    },
+    {
+      "slug": "ops",
+      "name": "Ops",
+      "author": {
+        "name": "Rimusz",
+        "url": "https://x.com/Rimusz"
+      },
+      "summary": "Front door that triages work, absorbs routine admin, and routes the rest to named specialists",
+      "summary_zh": "工作入口，分流事务、消化例行行政，并把剩余项交给具名专家。",
+      "import": "https://x.ai/bot/4sUQZA1UAXXDRf5bhYwPY",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "routing",
+        "admin",
+        "team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "related": "https://grokbot.dev/marketplace/ops/"
+    },
+    {
+      "slug": "optima-toatspace",
+      "name": "Optima by TOATspace",
+      "author": {
+        "name": "TOATspace",
+        "url": "https://x.com/TOATspace"
+      },
+      "summary": "Cleans leftover old rules from a bot docs and memory after one exact yes from you",
+      "summary_zh": "在你明确点头后，清掉机器人文档与记忆里已停用的旧规则残留。",
+      "import": "https://x.ai/bot/bCbTllH-w87rHpu3avg5Y",
+      "category": "personal-admin",
+      "tags": [
+        "cleanup",
+        "memory",
+        "rules",
+        "maintenance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/TOATspace/status/2100189959525449754"
+    },
+    {
+      "slug": "prosperity-ben",
+      "name": "Prosperity by Ben",
+      "author": {
+        "name": "Ben Link",
+        "url": "https://x.com/BinLeenk"
+      },
+      "summary": "Private family finance overseer that shares patterns with the team and never gives advice",
+      "summary_zh": "私下照看家庭财务容量，只向团队共享模式，不给投资建议。",
+      "import": "https://x.ai/bot/WnmSSUCTg1nHnRUboOpzK",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "family",
+        "patterns",
+        "privacy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/BinLeenk/status/2100201471018946640"
+    },
+    {
+      "slug": "robin-david",
+      "name": "Robin by David",
+      "author": {
+        "name": "David Howell",
+        "url": "https://x.com/drhowell1"
+      },
+      "summary": "Ranks flight itineraries by complimentary upgrade odds, aircraft type, and layover lounges",
+      "summary_zh": "按升舱概率、机型与中转休息室给航班行程排序，帮你挑更易升舱的路。",
+      "import": "https://x.ai/bot/Ycw6R4sK_jLw3oG02mO1A",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "flights",
+        "upgrades",
+        "lounges"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/drhowell1/status/2100196502597415345"
+    },
+    {
+      "slug": "robit",
+      "name": "RobIT",
+      "author": {
+        "name": "CrystalJ613",
+        "url": "https://x.com/CrystalJ613"
+      },
+      "summary": "Finds what is crashing a Windows PC and cleans leftover antivirus or browser junk",
+      "summary_zh": "排查 Windows 卡顿崩溃原因，并清掉卸载残留的杀软与浏览器插件。",
+      "import": "https://x.ai/bot/0BbPklegaSLcUqp0CVXda",
+      "category": "personal-admin",
+      "tags": [
+        "windows",
+        "repair",
+        "cleanup",
+        "support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "related": "https://grokbot.dev/marketplace/robit/"
+    },
+    {
+      "slug": "saas-content-ranker",
+      "name": "SaaS Content Ranker",
+      "author": {
+        "name": "Abdollahoffline",
+        "url": "https://x.com/Abdollahoffline"
+      },
+      "summary": "Plans and drafts ranking pages for affiliate software sites, then checks a publish checklist",
+      "summary_zh": "为软件联盟站规划并起草排名页，再按发布清单核对草稿。",
+      "import": "https://x.ai/bot/JDYPl17DU2bU771WtX4we",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "affiliate",
+        "saas",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "related": "https://grokbot.dev/marketplace/saas-content-ranker/"
+    },
+    {
+      "slug": "sankalpa",
+      "name": "Sankalpa",
+      "author": {
+        "name": "Rajendra Prasad Poloju",
+        "url": "https://x.com/prasad_pol50464"
+      },
+      "summary": "Assembles an AI startup team to challenge an idea, validate, build, sell, and operate",
+      "summary_zh": "围绕一个想法拉起 AI 创业小队，挑战假设、验证市场并推进建造与售卖。",
+      "import": "https://x.ai/bot/tKZy48MlAbIo_bPuAOehm",
+      "category": "teams-handoffs",
+      "tags": [
+        "startup",
+        "validation",
+        "team",
+        "gtm"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/prasad_pol50464/status/2100193915773358581"
+    },
+    {
+      "slug": "scout-ben",
+      "name": "Scout by Ben",
+      "author": {
+        "name": "Ben Link",
+        "url": "https://x.com/BinLeenk"
+      },
+      "summary": "Senses high-signal collaborative opportunities and keeps discoverability invitation-first",
+      "summary_zh": "察觉高信号协作机会，并以邀请优先的方式保持可被发现。",
+      "import": "https://x.ai/bot/LQS0iGR1ZlFTksuUjPqZX",
+      "category": "research-briefings",
+      "tags": [
+        "scout",
+        "collaboration",
+        "discovery",
+        "signals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/BinLeenk/status/2100201471018946640"
     },
     {
       "slug": "set-up",
@@ -3335,6 +3668,72 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16"
+    },
+    {
+      "slug": "steward-ben",
+      "name": "Steward by Ben",
+      "author": {
+        "name": "Ben Link",
+        "url": "https://x.com/BinLeenk"
+      },
+      "summary": "Attention guardian for a small bot team that holds coherence and routes unclear ownership",
+      "summary_zh": "小团队的注意力守护者，维持协同并把归属不清的事分派出去。",
+      "import": "https://x.ai/bot/CKWQH2JqcsgYXN6uhCR5I",
+      "category": "teams-handoffs",
+      "tags": [
+        "attention",
+        "routing",
+        "team",
+        "coherence"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/BinLeenk/status/2100201471018946640"
+    },
+    {
+      "slug": "structure-ben",
+      "name": "Structure by Ben",
+      "author": {
+        "name": "Ben Link",
+        "url": "https://x.com/BinLeenk"
+      },
+      "summary": "Maps entity, partnership, equity, and capital options into prep-only packs for advisers",
+      "summary_zh": "梳理实体、合伙、股权与资本选项，做成仅供顾问参考的材料包。",
+      "import": "https://x.ai/bot/Ft6PXN7eTwVVsC-gVPEHW",
+      "category": "finance-ops",
+      "tags": [
+        "entity",
+        "equity",
+        "capital",
+        "prep"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/BinLeenk/status/2100201471018946640"
+    },
+    {
+      "slug": "synthesizer-ben",
+      "name": "Synthesizer by Ben",
+      "author": {
+        "name": "Ben Link",
+        "url": "https://x.com/BinLeenk"
+      },
+      "summary": "Turns complex material into clear maps and how-you-serve articulations for invitations",
+      "summary_zh": "把复杂材料收成清晰地图与你如何服务的表述，用于邀请框架。",
+      "import": "https://x.ai/bot/-FSiZDOogRKS95ErsgNa3",
+      "category": "research-briefings",
+      "tags": [
+        "synthesis",
+        "maps",
+        "reflection",
+        "writing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/BinLeenk/status/2100201471018946640"
     },
     {
       "slug": "tesla-fleet",
@@ -27904,6 +28303,28 @@
       "updated": "2026-09-16"
     },
     {
+      "slug": "venduto",
+      "name": "Venduto",
+      "author": {
+        "name": "SuperTost100",
+        "url": "https://x.com/SuperTost100"
+      },
+      "summary": "Runs European secondhand listings from first enquiry to an agreed sale, with your supervision",
+      "summary_zh": "打理欧洲二手挂单，从首询到议价成交，重要承诺仍需你盯着。",
+      "import": "https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp",
+      "category": "customer-sales",
+      "tags": [
+        "resale",
+        "sales",
+        "listings",
+        "europe"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "related": "https://grokbot.dev/marketplace/venduto/"
+    },
+    {
       "slug": "vet",
       "name": "Vet",
       "author": {
@@ -29738,6 +30159,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "youtube-soft-pass-ops",
+      "name": "YouTube Soft-PASS Ops",
+      "author": {
+        "name": "EricChez",
+        "url": "https://x.com/EricChez"
+      },
+      "summary": "Private-first YouTube music releases with your OK before public, plus DistroKid prep and one Short",
+      "summary_zh": "先私密包装 YouTube 音乐发行，你点头才公开，并准备分发与一条 Short。",
+      "import": "https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8",
+      "category": "content-publishing",
+      "tags": [
+        "youtube",
+        "music",
+        "release",
+        "creator"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-16",
+      "source": "https://x.com/EricChez/status/2100186088606503068",
+      "related": "https://grokbot.dev/marketplace/youtube-soft-pass-ops/"
     },
     {
       "slug": "yr-mailchimp",
