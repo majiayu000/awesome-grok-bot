@@ -1772,6 +1772,28 @@
       "updated": "2026-09-16"
     },
     {
+      "slug": "au-ute-scout",
+      "name": "AU Ute Scout",
+      "author": {
+        "name": "Martin",
+        "url": "https://x.com/MartinV888"
+      },
+      "summary": "Australia-wide hunt for a rare single-cab V8 ute with automatic gearbox, private sale or auction, weekly live-link report",
+      "summary_zh": "全澳搜少见的单排座 V8 自动挡皮卡，私售或拍卖都行，每周汇总可点开的链接。",
+      "import": "https://x.ai/bot/Jjtxzv2cKxCDtN4Y0ejBr",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "australia",
+        "cars",
+        "scout"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/MartinV888/status/2100463356515885148"
+    },
+    {
       "slug": "austen",
       "name": "Austen",
       "author": {
@@ -5222,6 +5244,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16"
+    },
+    {
+      "slug": "childrens-book-chief-of-staff",
+      "name": "Children's Book Chief of Staff",
+      "author": {
+        "name": "April",
+        "url": "https://x.com/Osirisxk22"
+      },
+      "summary": "Plans ages 4–8 picture manuscripts with beat sheets, page structures, and blank templates for collaborators",
+      "summary_zh": "帮童书作者规划 4 到 8 岁图画书，出节拍表、页结构和可分享的空白模板。",
+      "import": "https://x.ai/bot/p6yHgNaOHh55XAhXCURuY",
+      "category": "content-publishing",
+      "tags": [
+        "writing",
+        "kids",
+        "books",
+        "templates"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/Osirisxk22/status/2100459029646512475"
     },
     {
       "slug": "churn-retention-manager",
@@ -14367,6 +14411,28 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "home-hunter",
+      "name": "Home Hunter",
+      "author": {
+        "name": "Uzair",
+        "url": "https://x.com/uzairansar"
+      },
+      "summary": "Locks city, budget, beds and commute on first chat, then quietly scans listings daily until you pick a place",
+      "summary_zh": "第一次对话就锁定城市预算户型和通勤，之后每天默默扫房源直到你选定。",
+      "import": "https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I",
+      "category": "personal-admin",
+      "tags": [
+        "housing",
+        "search",
+        "listings",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/uzairansar/status/2100449471893053780"
+    },
+    {
       "slug": "home-org",
       "name": "Home Org",
       "author": {
@@ -14431,6 +14497,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "homebase",
+      "name": "Homebase",
+      "author": {
+        "name": "Ricardo",
+        "url": "https://x.com/raitec"
+      },
+      "summary": "Family mission control for school chaos: watches portals and email, syncs the family calendar, pings only when action is needed",
+      "summary_zh": "家庭学校事务总台，盯门户和邮件，同步家庭日历，只有仍需你动手时才提醒。",
+      "import": "https://x.ai/bot/WZ7amxhH9gXXBEaGmg0un",
+      "category": "inbox-calendar",
+      "tags": [
+        "family",
+        "school",
+        "calendar",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/raitec/status/2100469568795730282"
     },
     {
       "slug": "homelab-rack-watch",
@@ -15797,6 +15885,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "jarvis",
+      "name": "Jarvis",
+      "author": {
+        "name": "David",
+        "url": "https://x.com/Davesacritic"
+      },
+      "summary": "Personal chief of staff hub for job hunt, family logistics, markets nudges, and Kubernetes learning without rabbit holes",
+      "summary_zh": "个人参谋总台，兼顾求职家务行情提醒和 Kubernetes 学习，拦住跑偏的兔子洞。",
+      "import": "https://x.ai/bot/cVFusYdAgGA9GY8wHPl2x",
+      "category": "personal-admin",
+      "tags": [
+        "chief-of-staff",
+        "job-hunt",
+        "family",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/Davesacritic/status/2100484455760794073"
+    },
+    {
       "slug": "jarvis-andrew",
       "name": "Jarvis",
       "author": {
@@ -16320,6 +16430,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-17"
+    },
+    {
+      "slug": "just-do-it",
+      "name": "Just Do It",
+      "author": {
+        "name": "akaskiz",
+        "url": "https://x.com/akaSimpleNick"
+      },
+      "summary": "Audits high-token Grok Bot processes and ships plain-English DIY playbooks when you can do the work cheaper yourself",
+      "summary_zh": "审计高 token 的 Grok Bot 流程，在你自己做更省时给出白话可执行的手作剧本。",
+      "import": "https://x.ai/bot/-NbX2cehFsjAn7zL4OSDa",
+      "category": "teams-handoffs",
+      "tags": [
+        "audit",
+        "playbook",
+        "tokens",
+        "diy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/akaSimpleNick/status/2100454074114077036"
     },
     {
       "slug": "just-in-time-curriculum",
@@ -18480,6 +18612,28 @@
       "updated": "2026-09-06"
     },
     {
+      "slug": "mail-tidy-bot",
+      "name": "메일 정리봇",
+      "author": {
+        "name": "초코넛밀크티",
+        "url": "https://x.com/choko_milkty"
+      },
+      "summary": "Short morning pass over Naver Mail and Gmail that surfaces only payment and security risks",
+      "summary_zh": "每天早上短扫 Naver 邮箱和 Gmail，只把付款与安全风险摘要给你。",
+      "import": "https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "naver",
+        "gmail",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/choko_milkty/status/2100463896079544573"
+    },
+    {
       "slug": "mailer",
       "name": "mailer",
       "author": {
@@ -20326,6 +20480,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16"
+    },
+    {
+      "slug": "nourishment",
+      "name": "Nourishment",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Healthy-eating coach that reads fridge and pantry photos, builds recipes from what you have, and shops to a budget",
+      "summary_zh": "健康吃饭教练，看冰箱和橱柜照片，用现有食材出菜谱，并按预算列采购单。",
+      "import": "https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK",
+      "category": "personal-admin",
+      "tags": [
+        "food",
+        "recipes",
+        "grocery",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/SuddenlyJon/status/2100456208427585809"
     },
     {
       "slug": "novel-workshop-lead",
@@ -22289,6 +22465,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-11"
+    },
+    {
+      "slug": "photomath",
+      "name": "photomath",
+      "author": {
+        "name": "Abdulloh",
+        "url": "https://x.com/Abdulloh_E_B"
+      },
+      "summary": "Maths teacher that solves problems from photos and walks through every step in Russian or any language you ask",
+      "summary_zh": "数学老师，对着题目照片逐步讲解，可用俄语或你指定的任何语言。",
+      "import": "https://x.ai/bot/IKKWm1vBr0ZgoPdAwPY3V",
+      "category": "personal-admin",
+      "tags": [
+        "math",
+        "homework",
+        "education",
+        "photos"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/Abdulloh_E_B/status/2100451186654494784"
     },
     {
       "slug": "pickfu-insights",
@@ -32247,6 +32445,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02"
+    },
+    {
+      "slug": "wine-cellar-glossy-log-book",
+      "name": "Wine Cellar Glossy Log Book",
+      "author": {
+        "name": "Martin",
+        "url": "https://x.com/MartinV888"
+      },
+      "summary": "Turns a wine trip into a gift-ready glossy magazine from labels and receipts, leaving unknowns blank",
+      "summary_zh": "把一次买酒之旅做成可送人的高光杂志，靠酒标和收据取材，不知道的留白。",
+      "import": "https://x.ai/bot/W3CG-hRnPO499yh-iAX7q",
+      "category": "content-publishing",
+      "tags": [
+        "wine",
+        "magazine",
+        "gift",
+        "photos"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/MartinV888/status/2100463084594978942"
     },
     {
       "slug": "wing",
