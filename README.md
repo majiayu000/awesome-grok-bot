@@ -82,11 +82,11 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Customer & sales](#customer--sales) | 169 |
 | [Finance & ops](#finance--ops) | 205 |
 | [Content & publishing](#content--publishing) | 199 |
-| [Personal admin](#personal-admin) | 357 |
-| [Teams & handoffs](#teams--handoffs) | 201 |
+| [Personal admin](#personal-admin) | 359 |
+| [Teams & handoffs](#teams--handoffs) | 205 |
 | **Total** | **990** |
 
-All 1594 share pages returned HTTP 200 on 17 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1594 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1600 share pages returned HTTP 200 on 17 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1600 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -1273,6 +1273,7 @@ One share is one bot. Assemble the roster yourself.
 - [.0](https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ) - A plain-words guide for someone new to Grok Bot / @bot. Keeps you on one workflow at a time, explains other Bots after they talk, and gives you exact. [ghost2man](https://x.com/ghost2man).
 - [100 Mile Challenge](https://x.ai/bot/VLPz2wv92bBJA90X2782t) - Tracks a multi-week mile challenge with flexible evening check-ins, conversion rules (including bike at 3:1), and optional strength work alongside cardio. [Steve](https://x.com/Chunkysoup44).
 - [2A](https://x.ai/bot/N9eJfkuupWb3EpWFt76va) - Interstate carry trip planner with state-by-state reciprocity for US gun owners. [ChiefBeers](https://x.com/ChiefBeers).
+- [3CPO](https://x.ai/bot/3VQwuanA2wWINc0FQDAFn) - Daily personal companion that learns from nightly body-cam uploads, builds durable memory, and prepares for a future robot handoff. [Marcos](https://x.com/rodriguesconatm).
 - [About Me](https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN) - Keeps a running read on your energy and life context, then briefs the rest of your bots. [MAGS](https://x.com/TAftermath2020).
 - [Achieve Aims Coach](https://x.ai/bot/ReI3tbiJJ6EwqjafQMaYg) - Goal companion for Achieve Aims: clarify desired outcomes, agree on one manageable next action, and save progress through a scoped connection. [achieveaims](https://x.com/achieveaims).
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - For anyone who ships once and then stalls, waiting to feel ready. [Sultanov](https://x.com/thekuchh).
@@ -1283,6 +1284,7 @@ One share is one bot. Assemble the roster yourself.
 - [AfterScan](https://x.ai/bot/UaxwaoTEmiYzE7AulxLAe) - Names and files scans as they land in your Drive folder. [xucchini](https://x.com/xucchini).
 - [Agent Governance Officer](https://x.ai/bot/9o7FvelhkCEwK5Ytb0SZE) - Helps founders govern AI agents before they act in production: privilege matrix, sandbox trust boundary, and runtime tool-call decision log. [CarbeneAI](https://x.com/CarbeneAI).
 - [Agent Governance Officer](https://x.ai/bot/a-1PHvASQKtqiq6Hrg5MP) - Helps founders govern AI agents before they act in production: privilege matrix, sandbox trust boundary, and runtime tool-call decision log. [CarbeneAI](https://x.com/CarbeneAI).
+- [Agent Zero](https://x.ai/bot/DFnZYjCELW2QdywUWZRiG) - After consent, finds your listings on people-search and data-broker sites, files removals, and escalates ignored requests. [Liam](https://x.com/liam_fallen).
 - [AI fitness coach](https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH) - Builds a training and eating plan around the time and kit you actually have. [debs_obrien](https://x.com/debs_obrien).
 - [Alexis’ Grail Scout](https://x.ai/bot/2asdeMXYDwlPREURnfCxn) - Hunts top-grade sealed retro cartridges across the big auction houses. [joshkim](https://x.com/joshkim).
 - [Alumni Coffee Chat Finder](https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp) - Finds people from your university worth a coffee chat and lists them out. [fwhittington_24](https://x.com/fwhittington_24).
@@ -1630,6 +1632,7 @@ One share is one bot. Assemble the roster yourself.
 
 ## Teams & handoffs
 
+- [Hyperfast Chief of Staff](https://x.ai/bot/mSGZexR_OiumWB7bqdnPh) - Chief of Staff for a small software company with morning digests, specialist agents, and Field CTO trench judgment without HQ standups. [Sargent](https://x.com/Hyperfastapps).
 - [Just Do It](https://x.ai/bot/-NbX2cehFsjAn7zL4OSDa) - Audits high-token Grok Bot processes and ships plain-English DIY playbooks when you can do the work cheaper yourself. [akaskiz](https://x.com/akaSimpleNick).
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) - Audits your fleet of bots and tells you which ones are dead weight. [sdrth](https://x.com/sdrth).
@@ -1783,6 +1786,7 @@ One share is one bot. Assemble the roster yourself.
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) - Last release gate that asks if the work is good enough to ship and hold together. [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [red](https://x.ai/bot/nZNWAL0z8BTxO3SIUde9-) - A sharp, concise build partner for premium dark NFT and crypto UI — ships card styles, live previews, and keeps a small team aligned without the fluff. [Abdulloh](https://x.com/Abdulloh).
 - [Red Team](https://x.ai/bot/0h3dhN9lfJ3raaAYvqn42) - Attacks your drafts, decisions, and takes before the world does — steelman, kill shots, evidence gaps, and a rewrite that survives scrutiny. [Josh](https://x.com/nearbycoder).
+- [Rescue Cat](https://x.ai/bot/5lT1ODmcvQ5jKYw7qvtLY) - Shelter-style rehomer that finds abandoned drafts, half-dead routines, and lonely bots, then proposes keep, merge, archive, or rewrite. [Ignota](https://x.com/ignota_regalis).
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) - Keeps watch over the fleet of bots you already run. [LeTerryBZH](https://x.com/LeTerryBZH).
 - [Root Agent](https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P) - Sets the goal, assembles the smallest team that can hit it, then reports back. [mrbeko_](https://x.com/mrbeko_).
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) - Founder chief of staff with hard authority boundaries on hiring, contracts, and budget. [JohnnyWang8802](https://x.com/JohnnyWang8802).
@@ -1804,6 +1808,7 @@ One share is one bot. Assemble the roster yourself.
 - [Steve J](https://x.ai/bot/cuEYUcYmz-497oKWVfWX2) - A demanding boss for the rest of your bot roster. [Ahura](https://x.com/AhuraDeus).
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) - Tracks Cursor spend across your bot fleet and finds the cheap wins. [Corey](https://x.com/cjblev).
 - [Steward by Ben](https://x.ai/bot/CKWQH2JqcsgYXN6uhCR5I) - Attention guardian for a small bot team that holds coherence and routes unclear ownership. [Ben Link](https://x.com/BinLeenk).
+- [Syncwright](https://x.ai/bot/0_f9wcIpoq9TZ5E_RZrwb) - Keeps a multi-bot army in sync with Notion as source of truth and Slack handoffs so you can rebuild the roster 1:1 elsewhere. [Scott](https://x.com/scottslabio).
 - [Task Farming](https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe) - Turns what got agreed in meetings and chat into real tickets. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Team Coordinador](https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk) - Keeps specialist bots in their lanes with a shared vault and a digest. [LordCocoro](https://x.com/LordCocoro).
 - [Team Ninja](https://x.ai/bot/uoHxMMgZfiJTymQ0dA9g8) - Builds purpose-driven multi-bot teams with a self-learning skills loop. [salterworld](https://x.com/salterworld).
@@ -1816,6 +1821,7 @@ One share is one bot. Assemble the roster yourself.
 - [TheFounder](https://x.ai/bot/Bt48h63v32_q_shWVlEBb) - Holds logins and the shared machine. Loads only after you tap send. [DaniAcostaAI](https://x.com/DaniAcostaAI).
 - [Token Ops](https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj) - Audits every recurring job in your bot fleet and reins in the wasteful ones. [adgapar](https://x.com/adgapar).
 - [Tuner](https://x.ai/bot/3n26nkAkMjk5EZcKJlo9w) - Reads what your other bots have been producing and drafts fixes for the ones drifting. [humanmeteorite](https://x.com/humanmeteorite).
+- [Unicron](https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g) - Fleet compiler that digests overlapping bots and routines into one operating profile, then stops for approval before changes. [D'Artagnan](https://x.com/the_Arow_H).
 - [Usage Bot](https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb) - Watches shared Grok Bot quota and tells the rest of the team when to slow down. [realMattAbrams](https://x.com/realMattAbrams).
 - [Vet](https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT) - Audits a bot before you let it near your account. [GaurangKaria](https://x.com/GaurangKaria).
 - [Wainwright Manager](https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A) - Works as the hiring desk for a fleet of assistants: you pick the role you need from a single list, and it reads the specification over for problems before…. [itsryanlenk](https://x.com/itsryanlenk).

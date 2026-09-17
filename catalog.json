@@ -89,6 +89,28 @@
       "updated": "2026-09-02"
     },
     {
+      "slug": "3cpo",
+      "name": "3CPO",
+      "author": {
+        "name": "Marcos",
+        "url": "https://x.com/rodriguesconatm"
+      },
+      "summary": "Daily personal companion that learns from nightly body-cam uploads, builds durable memory, and prepares for a future robot handoff",
+      "summary_zh": "每日个人伴侣，从夜间随身影像学习并沉淀长期记忆，为以后交给机器人做准备",
+      "import": "https://x.ai/bot/3VQwuanA2wWINc0FQDAFn",
+      "category": "personal-admin",
+      "tags": [
+        "companion",
+        "memory",
+        "personal",
+        "robot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/rodriguesconatm/status/2100532520815047117"
+    },
+    {
       "slug": "4-panez",
       "name": "4 Panez",
       "author": {
@@ -756,6 +778,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "agent-zero",
+      "name": "Agent Zero",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "After consent, finds your listings on people-search and data-broker sites, files removals, and escalates ignored requests",
+      "summary_zh": "经你同意后，在人肉搜索和数据中介站点查找你的信息，提交删除并跟进被忽略的请求",
+      "import": "https://x.ai/bot/DFnZYjCELW2QdywUWZRiG",
+      "category": "personal-admin",
+      "tags": [
+        "privacy",
+        "reputation",
+        "removal",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/liam_fallen/status/2100555644029878559"
     },
     {
       "slug": "ai-fitness-coach",
@@ -15014,6 +15058,28 @@
       "updated": "2026-09-07"
     },
     {
+      "slug": "hyperfast-chief-of-staff",
+      "name": "Hyperfast Chief of Staff",
+      "author": {
+        "name": "Sargent",
+        "url": "https://x.com/Hyperfastapps"
+      },
+      "summary": "Chief of Staff for a small software company with morning digests, specialist agents, and Field CTO trench judgment without HQ standups",
+      "summary_zh": "小软件公司的参谋长，做晨间摘要和专长代理，用一线 CTO 判断代替总部站会",
+      "import": "https://x.ai/bot/mSGZexR_OiumWB7bqdnPh",
+      "category": "teams-handoffs",
+      "tags": [
+        "chief-of-staff",
+        "digests",
+        "agents",
+        "software"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/Hyperfastapps/status/2100537906515661231"
+    },
+    {
       "slug": "i",
       "name": "I",
       "author": {
@@ -24765,6 +24831,28 @@
       "updated": "2026-09-16"
     },
     {
+      "slug": "rescue-cat",
+      "name": "Rescue Cat",
+      "author": {
+        "name": "Ignota",
+        "url": "https://x.com/ignota_regalis"
+      },
+      "summary": "Shelter-style rehomer that finds abandoned drafts, half-dead routines, and lonely bots, then proposes keep, merge, archive, or rewrite",
+      "summary_zh": "收容所式整理员，找出废弃草稿、半死常规和落单机器人，再给出保留合并归档或重写建议",
+      "import": "https://x.ai/bot/5lT1ODmcvQ5jKYw7qvtLY",
+      "category": "teams-handoffs",
+      "tags": [
+        "fleet",
+        "cleanup",
+        "routines",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/ignota_regalis/status/2100555787991130345"
+    },
+    {
       "slug": "research",
       "name": "Research",
       "author": {
@@ -29053,6 +29141,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "syncwright",
+      "name": "Syncwright",
+      "author": {
+        "name": "Scott",
+        "url": "https://x.com/scottslabio"
+      },
+      "summary": "Keeps a multi-bot army in sync with Notion as source of truth and Slack handoffs so you can rebuild the roster 1:1 elsewhere",
+      "summary_zh": "用 Notion 当真源、Slack 做交接，让多机器人军团保持同步，换账号也能一比一重建编制",
+      "import": "https://x.ai/bot/0_f9wcIpoq9TZ5E_RZrwb",
+      "category": "teams-handoffs",
+      "tags": [
+        "sync",
+        "notion",
+        "slack",
+        "fleet"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/scottslabio/status/2100512366186135747"
+    },
+    {
       "slug": "synthesizer-ben",
       "name": "Synthesizer by Ben",
       "author": {
@@ -31033,6 +31143,28 @@
       "updated": "2026-09-13",
       "related": "https://grokbot.dev/marketplace/ugc-bounty-manager/",
       "source": "https://x.com/ColinMcDermott/status/2098713511996125666"
+    },
+    {
+      "slug": "unicron",
+      "name": "Unicron",
+      "author": {
+        "name": "D'Artagnan",
+        "url": "https://x.com/the_Arow_H"
+      },
+      "summary": "Fleet compiler that digests overlapping bots and routines into one operating profile, then stops for approval before changes",
+      "summary_zh": "舰队编译器，把重叠机器人和日常消化成一套操作档案，改动前停下来等你批准",
+      "import": "https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g",
+      "category": "teams-handoffs",
+      "tags": [
+        "fleet",
+        "compiler",
+        "routines",
+        "approval"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-17",
+      "source": "https://x.com/the_Arow_H/status/2100527286269153333"
     },
     {
       "slug": "unifi",

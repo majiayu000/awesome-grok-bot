@@ -82,11 +82,11 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Customer & sales](#customer--sales) | 169 |
 | [Finance & ops](#finance--ops) | 205 |
 | [Content & publishing](#content--publishing) | 199 |
-| [Personal admin](#personal-admin) | 357 |
-| [Teams & handoffs](#teams--handoffs) | 201 |
+| [Personal admin](#personal-admin) | 359 |
+| [Teams & handoffs](#teams--handoffs) | 205 |
 | **合计** | **990** |
 
-2026 年 9 月 17 日检查时，1594 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1594 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 17 日检查时，1600 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1600 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -1273,6 +1273,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [.0](https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ) - 给 Grok Bot 新手的白话向导，一次只盯一条工作流，其它机器人说完再解释，并给你可照做的下一步. [ghost2man](https://x.com/ghost2man).
 - [100 Mile Challenge](https://x.ai/bot/VLPz2wv92bBJA90X2782t) - 跟踪多周里程挑战，晚间灵活打卡，含换算规则与进度看板. [Steve](https://x.com/Chunkysoup44).
 - [2A](https://x.ai/bot/N9eJfkuupWb3EpWFt76va) - 美国持枪跨州出行规划，按州列明互认与携带规则。 [ChiefBeers](https://x.com/ChiefBeers).
+- [3CPO](https://x.ai/bot/3VQwuanA2wWINc0FQDAFn) - 每日个人伴侣，从夜间随身影像学习并沉淀长期记忆，为以后交给机器人做准备. [Marcos](https://x.com/rodriguesconatm).
 - [About Me](https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN) - 记住你的精力、近况和偏好，并给其他 Bot 提供简短的状态同步。 [MAGS](https://x.com/TAftermath2020).
 - [Achieve Aims Coach](https://x.ai/bot/ReI3tbiJJ6EwqjafQMaYg) - Achieve Aims 的目标伙伴，澄清期望结果，约定一个可管理的下一步，并通过受控连接保存进度. [achieveaims](https://x.com/achieveaims).
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - 给那种发一次就停摆、总在等「准备好」的人。 [Sultanov](https://x.com/thekuchh).
@@ -1283,6 +1284,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [AfterScan](https://x.ai/bot/UaxwaoTEmiYzE7AulxLAe) - 扫描件一进网盘文件夹就命名并归档. [xucchini](https://x.com/xucchini).
 - [Agent Governance Officer](https://x.ai/bot/9o7FvelhkCEwK5Ytb0SZE) - 帮创始人在 AI 代理上生产前做治理，权限矩阵、沙箱信任边界与运行时工具调用日志. [CarbeneAI](https://x.com/CarbeneAI).
 - [Agent Governance Officer](https://x.ai/bot/a-1PHvASQKtqiq6Hrg5MP) - 帮创始人在 AI 代理上生产前做治理，权限矩阵、沙箱信任边界与运行时工具调用日志. [CarbeneAI](https://x.com/CarbeneAI).
+- [Agent Zero](https://x.ai/bot/DFnZYjCELW2QdywUWZRiG) - 经你同意后，在人肉搜索和数据中介站点查找你的信息，提交删除并跟进被忽略的请求. [Liam](https://x.com/liam_fallen).
 - [AI fitness coach](https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH) - 按你真实空闲时间和手头器械，写训练与饮食计划. [debs_obrien](https://x.com/debs_obrien).
 - [Alexis’ Grail Scout](https://x.ai/bot/2asdeMXYDwlPREURnfCxn) - 在大拍卖行里找顶级未拆封复古卡带。 [joshkim](https://x.com/joshkim).
 - [Alumni Coffee Chat Finder](https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp) - 找出值得约咖啡聊的校友并整理成名单。 [fwhittington_24](https://x.com/fwhittington_24).
@@ -1630,6 +1632,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Teams & handoffs
 
+- [Hyperfast Chief of Staff](https://x.ai/bot/mSGZexR_OiumWB7bqdnPh) - 小软件公司的参谋长，做晨间摘要和专长代理，用一线 CTO 判断代替总部站会. [Sargent](https://x.com/Hyperfastapps).
 - [Just Do It](https://x.ai/bot/-NbX2cehFsjAn7zL4OSDa) - 审计高 token 的 Grok Bot 流程，在你自己做更省时给出白话可执行的手作剧本。 [akaskiz](https://x.com/akaSimpleNick).
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - 访谈式引导，帮你组出第一支 Bot 花名册。 [A-A-ron](https://x.com/theaaron).
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) - 审计你的 Bot 舰队，指出哪些只是在占位。 [sdrth](https://x.com/sdrth).
@@ -1783,6 +1786,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) - 发布前最后一道关，只问够不够上线、能不能站得住。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [red](https://x.ai/bot/nZNWAL0z8BTxO3SIUde9-) - 面向高端暗色 NFT 与加密界面的锋利共建搭档，交付卡片样式与实时组件. [Abdulloh](https://x.com/Abdulloh).
 - [Red Team](https://x.ai/bot/0h3dhN9lfJ3raaAYvqn42) - 在世界动手前攻击你的草稿、决策与立场，钢人、致命一击与证据. [Josh](https://x.com/nearbycoder).
+- [Rescue Cat](https://x.ai/bot/5lT1ODmcvQ5jKYw7qvtLY) - 收容所式整理员，找出废弃草稿、半死常规和落单机器人，再给出保留合并归档或重写建议. [Ignota](https://x.com/ignota_regalis).
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) - 盯着你已经在跑的那支 Bot 舰队。 [LeTerryBZH](https://x.com/LeTerryBZH).
 - [Root Agent](https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P) - 先定目标，再组最小能干活的机器人小队，最后汇总汇报。 [mrbeko_](https://x.com/mrbeko_).
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) - 创始人幕僚长，招聘、合同和预算有硬权限边界。 [JohnnyWang8802](https://x.com/JohnnyWang8802).
@@ -1804,6 +1808,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Steve J](https://x.ai/bot/cuEYUcYmz-497oKWVfWX2) - 给你其余那些 Bot 当一个不好糊弄的老板。 [Ahura](https://x.com/AhuraDeus).
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) - 跟踪整支 Bot 舰队的 Cursor 花费，挑出省钱的做法。 [Corey](https://x.com/cjblev).
 - [Steward by Ben](https://x.ai/bot/CKWQH2JqcsgYXN6uhCR5I) - 小团队的注意力守护者，维持协同并把归属不清的事分派出去。 [Ben Link](https://x.com/BinLeenk).
+- [Syncwright](https://x.ai/bot/0_f9wcIpoq9TZ5E_RZrwb) - 用 Notion 当真源、Slack 做交接，让多机器人军团保持同步，换账号也能一比一重建编制. [Scott](https://x.com/scottslabio).
 - [Task Farming](https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe) - 把会议和聊天里谈妥的事落成真正的工单。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Team Coordinador](https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk) - 用共享保险库与一份摘要，让专家机器人各守车道. [LordCocoro](https://x.com/LordCocoro).
 - [Team Ninja](https://x.ai/bot/uoHxMMgZfiJTymQ0dA9g8) - 用自学技能循环搭建有目标的多机器人团队。 [salterworld](https://x.com/salterworld).
@@ -1816,6 +1821,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [TheFounder](https://x.ai/bot/Bt48h63v32_q_shWVlEBb) - 保管登录和共用机器，你点发送它才加载。 [DaniAcostaAI](https://x.com/DaniAcostaAI).
 - [Token Ops](https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj) - 审计舰队里每项定时任务，把烧额度的浪费活勒住。 [adgapar](https://x.com/adgapar).
 - [Tuner](https://x.ai/bot/3n26nkAkMjk5EZcKJlo9w) - 读其他 Bot 最近产出，给跑偏的那几个起草修正。 [humanmeteorite](https://x.com/humanmeteorite).
+- [Unicron](https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g) - 舰队编译器，把重叠机器人和日常消化成一套操作档案，改动前停下来等你批准. [D'Artagnan](https://x.com/the_Arow_H).
 - [Usage Bot](https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb) - 盯着账号共用的 Grok Bot 额度，提醒其它机器人先慢下来。 [realMattAbrams](https://x.com/realMattAbrams).
 - [Vet](https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT) - 在你让一个 Bot 靠近账号前先审计它。 [GaurangKaria](https://x.com/GaurangKaria).
 - [Wainwright Manager](https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A) - 唯一职责，引导用户加入 Wainwright，并编排他们的 Grok Bot 舰队，做到顺畅的首次运行。首次醒来时，用招聘口吻介绍……。 [itsryanlenk](https://x.com/itsryanlenk).
