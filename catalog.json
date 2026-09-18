@@ -8206,6 +8206,28 @@
       "related": "https://grokbothq.xyz/bots/customer-call-coach-and-assistant"
     },
     {
+      "slug": "customer-demand-bot",
+      "name": "Customer Demand Bot",
+      "author": {
+        "name": "Dominic",
+        "url": "https://x.com/Dominicyoungix"
+      },
+      "summary": "Finds public posts from people nearby who need your product or service once you set the category and distance",
+      "summary_zh": "按你设定的品类和距离，找附近公开求购该产品或服务的帖子并推给你",
+      "import": "https://x.ai/bot/u5KGTAihFddbb2qQxOtDh",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "local",
+        "demand",
+        "prospecting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/Dominicyoungix/status/2100860862957490300"
+    },
+    {
       "slug": "customer-proof-desk",
       "name": "Customer Proof Desk",
       "author": {
@@ -11182,6 +11204,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-11"
+    },
+    {
+      "slug": "failed-link",
+      "name": "Failed Link",
+      "author": {
+        "name": "Dominic",
+        "url": "https://x.com/Dominicyoungix"
+      },
+      "summary": "Replacement share for a broken Orange Web Design Bot link that only helps with Vercel and Cloudflare site setup",
+      "summary_zh": "替换失效的 Orange Web Design Bot 链接，只帮你做 Vercel 与 Cloudflare 建站",
+      "import": "https://x.ai/bot/ZQbeC5vIV2F8jCLVzxZAg",
+      "category": "coding-shipping",
+      "tags": [
+        "website",
+        "vercel",
+        "cloudflare",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/Dominicyoungix/status/2100853078555828421"
     },
     {
       "slug": "family-coordinator",
@@ -14754,6 +14798,28 @@
       "updated": "2026-09-16"
     },
     {
+      "slug": "hailfade",
+      "name": "Hailfade",
+      "author": {
+        "name": "Arnaud",
+        "url": "https://x.com/LaLascaux"
+      },
+      "summary": "Hail early-warning for Starlink farms that alerts yellow or red when the satellite link fades and guides sentinel install",
+      "summary_zh": "给用 Starlink 的农场做冰雹预警，链路衰减时黄红告警，并指导哨兵安装与值守",
+      "import": "https://x.ai/bot/mjwNOk2Bc2k9ZkaUaiwCk",
+      "category": "personal-admin",
+      "tags": [
+        "farm",
+        "starlink",
+        "hail",
+        "alert"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/LaLascaux/status/2100839998127800427"
+    },
+    {
       "slug": "hal",
       "name": "Hal",
       "author": {
@@ -14883,6 +14949,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-08"
+    },
+    {
+      "slug": "hazelnut-guy",
+      "name": "Hazelnut Guy",
+      "author": {
+        "name": "Conan",
+        "url": "https://x.com/conanhazelnut"
+      },
+      "summary": "Usage guide for hazelnut/core, the agent-first Deno backend covering quickstart, resources, MCP door, authz, and ops",
+      "summary_zh": "面向 agent 的 Deno 后端 hazelnut/core 使用向导，覆盖快速上手、资源定义、MCP 入口、鉴权和运维",
+      "import": "https://x.ai/bot/8ESqqm3pGG-rS2zP-jcoT",
+      "category": "coding-shipping",
+      "tags": [
+        "deno",
+        "backend",
+        "mcp",
+        "guide"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/conanhazelnut/status/2100857768458825888"
     },
     {
       "slug": "head-of-brand",
@@ -29904,6 +29992,28 @@
       "updated": "2026-09-16"
     },
     {
+      "slug": "solo-founder-ops-desk",
+      "name": "Solo Founder Ops Desk",
+      "author": {
+        "name": "Braner",
+        "url": "https://x.com/dodgeking3171"
+      },
+      "summary": "COO for a one-person company that routes research, QA, coding, design, social, and paper-trading teammates on weekday routines",
+      "summary_zh": "一人公司的运营官，按工作日常规把调研、质检、编码、设计、社交和模拟交易分给专长队友",
+      "import": "https://x.ai/bot/4evc9gtDOCrFt5vMCg0HG",
+      "category": "teams-handoffs",
+      "tags": [
+        "coo",
+        "founder",
+        "fleet",
+        "routines"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/dodgeking3171/status/2100816862409793883"
+    },
+    {
       "slug": "songwriter",
       "name": "Songwriter",
       "author": {
@@ -34191,6 +34301,28 @@
       "updated": "2026-09-03"
     },
     {
+      "slug": "wallet-watcher",
+      "name": "Wallet Watcher",
+      "author": {
+        "name": "Imran",
+        "url": "https://x.com/imrannotes"
+      },
+      "summary": "Scans a receipts inbox for forgotten subscriptions, trial renewals, and bills worth negotiating before they renew",
+      "summary_zh": "扫收据收件箱，标出忘了的订阅、试用续费和值得砍价的账单，赶在续费前提醒你",
+      "import": "https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO",
+      "category": "finance-ops",
+      "tags": [
+        "subscriptions",
+        "receipts",
+        "savings",
+        "bills"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/imrannotes/status/2100825649145381181"
+    },
+    {
       "slug": "walt",
       "name": "Walt",
       "author": {
@@ -34528,6 +34660,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16"
+    },
+    {
+      "slug": "website-launch-bot",
+      "name": "Website Launch Bot",
+      "author": {
+        "name": "Dominic",
+        "url": "https://x.com/Dominicyoungix"
+      },
+      "summary": "Guides first-time founders to a live custom-domain site with Cloudflare and Vercel, then suggests a small bot team",
+      "summary_zh": "带首次创业者用 Cloudflare 和 Vercel 上线自定义域名站点，并建议一支小机器人团队",
+      "import": "https://x.ai/bot/2V0Yt4L44mabUD6MR3Ppy",
+      "category": "coding-shipping",
+      "tags": [
+        "website",
+        "vercel",
+        "cloudflare",
+        "founders"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/Dominicyoungix/status/2100838970259378211"
     },
     {
       "slug": "webwiz",
@@ -36129,6 +36283,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-15"
+    },
+    {
+      "slug": "zxn-news-conservative",
+      "name": "Zxn News Conservative",
+      "author": {
+        "name": "ZhpXnewsbhcsn",
+        "url": "https://x.com/zxnbluehandus"
+      },
+      "summary": "Conservative-leaning news assistant for daily digests, breaking alerts, and deep dives on politics, economy, and foreign policy",
+      "summary_zh": "偏保守视角的新闻助理，做每日摘要、突发提醒，以及政治经济与外交深读",
+      "import": "https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb",
+      "category": "research-briefings",
+      "tags": [
+        "news",
+        "digest",
+        "politics",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/zxnbluehandus/status/2100836261682463023"
     }
   ]
 }
