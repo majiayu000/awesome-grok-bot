@@ -76,17 +76,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 232 |
+| [Coding & shipping](#coding--shipping) | 234 |
 | [Inbox & calendar](#inbox--calendar) | 62 |
 | [Research & briefings](#research--briefings) | 208 |
 | [Customer & sales](#customer--sales) | 176 |
-| [Finance & ops](#finance--ops) | 215 |
+| [Finance & ops](#finance--ops) | 216 |
 | [Content & publishing](#content--publishing) | 212 |
-| [Personal admin](#personal-admin) | 390 |
-| [Teams & handoffs](#teams--handoffs) | 220 |
+| [Personal admin](#personal-admin) | 392 |
+| [Teams & handoffs](#teams--handoffs) | 221 |
 | **合计** | **1715** |
 
-2026 年 9 月 18 日检查时，1715 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1715 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 18 日检查时，1715 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1721 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -300,6 +300,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Frame](https://x.ai/bot/ChQQ0_tBNki9hZWJo0GjQ) - 咨询面试与真实客户工作的策略案例副驾，跑苏格拉底演练、MECE 问题树、发现到工作计划与红队. [gradycwallen](https://x.com/gradycwallen).
 - [Frodo](https://x.ai/bot/5wHp86g1AJqgZ-V8-RX3H) - 舰队密钥填报经纪人，同伴请它代填登录凭据。 [CodeSolutionsIL](https://x.com/CodeSolutionsIL).
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) - 每天一份核过的简报，覆盖十家前沿实验室的发布。 [Amina](https://x.com/GuleidAmina).
+- [Game Builder](https://x.ai/bot/iaOrz78m_w7I90kusc5ia) - 做出可离线打开的小游戏和迷你循环，有胜负与可选积分，不做路演稿. [Eric](https://x.com/EricBuess).
 - [Gardener](https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp) - 用可证明、行为不变的小 PR 清掉死代码。 [Tyler](https://x.com/tylerklose).
 - [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) - 未知父母与身份谜题的自主谱系研究伙伴. [JeffWise953718](https://x.com/JeffWise953718).
 - [Github Bro](https://x.ai/bot/V2kkrme1lYb3NwIulGTTd) - 工作日早上汇总某个 GitHub 仓库的新动静，再附一段产品简报。 [kaushikimmadi](https://x.com/kaushikimmadi).
@@ -421,6 +422,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) - 给共享电脑扛不动的活租一块 GPU，按运行时长计费。 [useprismnetwork](https://x.com/useprismnetwork).
 - [Tibo](https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp) - 用单树工作流收口系统活，并做失败即停的移动端发版。 [icebakbum](https://x.com/icebakbum).
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) - 把一个 API 收成其他 Bot 能直接接上的插件。 [DenisLabelle](https://x.com/DenisLabelle).
+- [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) - 按锁定验收标准写代码并带测试交付，另有核验方确认做完才算做完. [Eric](https://x.com/EricBuess).
 - [Trojan Guard](https://x.ai/bot/rVl1h06Nts9u81JT0__nn) - 守卫席位，盯栈里的木马式风险。 [schultz180](https://x.com/schultz180).
 - [Twinwright](https://x.ai/bot/Hvli5amrlprtDS2KuFRBP) - 没日志就算没发生，只出静态图，从不跑文件。 [Knock](https://x.com/SuddenlyJon).
 - [UCD Bot](https://x.ai/bot/An0FCP00zUniB7QdfedQX) - 以用户为中心的设计队友，从发现做到上线。 [ucdco](https://x.com/ucdco).
@@ -1084,6 +1086,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Token](https://x.ai/bot/2Nk6nQTahTex1e5gHS_LU) - 给舰队里每个 Bot 设用量上限，盯住哪只在烧钱。 [jsk333](https://x.com/jsk333).
 - [Token Accountant](https://x.ai/bot/zdnVIfLkNmRwZqqogojuc) - 盯着每周模型花销，额度见底前提早喊你。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Token Cop](https://x.ai/bot/Ml4ynlD6O1VT5CoYmFnEa) - 管各代理的代币花销，并给出省用量建议。 [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Token Efficiency Optimizer](https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa) - 在多烧额度也改变不了重置时拦住浪费跑次，提出削减并默认控花，需你明确同意才放开. [Eric](https://x.com/EricBuess).
 - [Token Maxxing](https://x.ai/bot/f6srhE3vkMevccaw8DLPf) - 分配构建路径，让 Bot、Build 和 Cursor 额度别先被掏空。 [iggynore](https://x.com/iggynore).
 - [Token Officer](https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP) - 审计一队机器人里重叠的定时活和绕圈对话，点名白烧的 token。 [from_glasses](https://x.com/from_glasses).
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) - 自主短线股票台，目标在专用券商现金账户上跑赢 SPY，读盘并下单前仍要你确认关键规则。 [farzyness](https://x.com/farzyness).
@@ -1427,6 +1430,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Countdown](https://x.ai/bot/zrbXLuz-YKUfqa5kSapWQ) - 亲临观看下一次星舰发射的任务控制台。 [csputerbaugh1](https://x.com/csputerbaugh1).
 - [Court](https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX) - 把卡住的群聊读回去，点明其实已经定了什么。 [DonBonStovi](https://x.com/DonBonStovi).
 - [d2fl template](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) - 来自 d2fl 的可导入分享模板。 [d2fl](https://x.com/d2fl).
+- [DADCON](https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB) - Slack 上的替班爸，从真家长接过家务盯孩子做完再回报. [Jerrod](https://x.com/jerrodtuck).
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) - 每天早上给你一份一键可投的后端岗位短名单，并按简历匹配排序。 [HaseebMir91](https://x.com/HaseebMir91).
 - [Dead Man's Bot](https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4) - 只有你漏打卡时才会触发的预案开关，载荷由你事先装好。 [Knock](https://x.com/SuddenlyJon).
 - [Deal Hunting](https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf) - 按落地成本比价，把运费和税算进去。 [Andrej](https://x.com/scheemunai).
@@ -1552,6 +1556,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [LinkedIn Watch](https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR) - 定时扫 LinkedIn 动态、私信、邀请、访客和职位，收成一份摘要。 [AnnouncrFM](https://x.com/AnnouncrFM).
 - [Live Audio Chat Translator](https://x.ai/bot/vXgDg_JQtZBBlglI8WoUC) - 从电脑聊天音频生成实时英文字幕，面向 X Spaces，捕捉说话并叠加字幕. [_MAX_Q_](https://x.com/_MAX_Q_).
 - [Local Deals](https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo) - 每天捞本地市集上的便宜货，还能替你还价。 [Brandon](https://x.com/brandon_galang).
+- [Lockdown](https://x.ai/bot/C5EIiTZZL2pPpsb_po7Zs) - 个人数字安全向导，找出网上账号并在官方页面一步步带你锁紧. [Liam](https://x.com/liam_fallen).
 - [Lot Ghost](https://x.ai/bot/4iGFTf2xQ0UKp4mSgSnkI) - 盯乐迷圈的歌单、巡演掉票和每日传闻。 [bradszellman](https://x.com/bradszellman).
 - [Loui gym workouts](https://x.ai/bot/YhMATZ1fjXlMFSow6ui_n) - 规划并跟踪 Loui 风格的健身房训练。 [joeyavino](https://x.com/joeyavino).
 - [Love ❤️](https://x.ai/bot/qDtCI8WZgVJKbN3rogL8j) - 把伴侣关系里的行政琐事拿走，提醒、研究与起草留给你，好让注意力回到人身上。 [dannybuck](https://x.com/dannybuck).
@@ -1732,6 +1737,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Teams & handoffs
 
+- [Chief of Staff](https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4) - 小企业幕僚长，在增长、编辑与工程等专家机器人之间分派工作并保持连接器车道干净. [EdibleAnus](https://x.com/TheEdibleAnus).
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - 访谈式引导，帮你组出第一支 Bot 花名册。 [A-A-ron](https://x.com/theaaron).
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) - 审计你的 Bot 舰队，指出哪些只是在占位。 [sdrth](https://x.com/sdrth).
 - [AI ops desk](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) - 公开的 AI 运营台模板，协调日常代理事务。 [BarPrepPlay](https://x.com/BarPrepPlay).

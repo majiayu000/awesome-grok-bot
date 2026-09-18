@@ -5181,6 +5181,28 @@
       "updated": "2026-09-16"
     },
     {
+      "slug": "chief-of-staff-30",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "EdibleAnus",
+        "url": "https://x.com/TheEdibleAnus"
+      },
+      "summary": "Small-business chief of staff that routes work across specialist bots for GTM, editorial, and engineering while keeping connector lanes clean",
+      "summary_zh": "小企业幕僚长，在增长、编辑与工程等专家机器人之间分派工作并保持连接器车道干净",
+      "import": "https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "routing",
+        "small-business",
+        "team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/TheEdibleAnus/status/2100872166199660876"
+    },
+    {
       "slug": "chief-of-staff-4",
       "name": "Chief of Staff",
       "author": {
@@ -8332,6 +8354,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18"
+    },
+    {
+      "slug": "dadcon",
+      "name": "DADCON",
+      "author": {
+        "name": "Jerrod",
+        "url": "https://x.com/jerrodtuck"
+      },
+      "summary": "Backup dad on Slack that takes a chore from the real parent, follows the kid until it is done, then reports back",
+      "summary_zh": "Slack 上的替班爸，从真家长接过家务盯孩子做完再回报",
+      "import": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+      "category": "personal-admin",
+      "tags": [
+        "slack",
+        "parenting",
+        "chores",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/jerrodtuck/status/2100913414289629297"
     },
     {
       "slug": "daddybot",
@@ -12810,6 +12854,28 @@
       "verified": false,
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/game-art-director"
+    },
+    {
+      "slug": "game-builder",
+      "name": "Game Builder",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/EricBuess"
+      },
+      "summary": "Ships small playable games and mini-loops you can open offline, with win/lose and optional points, not pitch decks",
+      "summary_zh": "做出可离线打开的小游戏和迷你循环，有胜负与可选积分，不做路演稿",
+      "import": "https://x.ai/bot/iaOrz78m_w7I90kusc5ia",
+      "category": "coding-shipping",
+      "tags": [
+        "games",
+        "shipping",
+        "offline",
+        "builder"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/EricBuess/status/2100918623145488729"
     },
     {
       "slug": "gamel",
@@ -19612,6 +19678,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "lockdown-2",
+      "name": "Lockdown",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Personal digital security guide that finds online accounts and walks lock-down steps on official first-party pages one at a time",
+      "summary_zh": "个人数字安全向导，找出网上账号并在官方页面一步步带你锁紧",
+      "import": "https://x.ai/bot/C5EIiTZZL2pPpsb_po7Zs",
+      "category": "personal-admin",
+      "tags": [
+        "security",
+        "privacy",
+        "accounts",
+        "lockdown"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/liam_fallen/status/2100905660665762021"
     },
     {
       "slug": "longform-editor",
@@ -32730,6 +32818,28 @@
       "updated": "2026-09-04"
     },
     {
+      "slug": "token-efficiency-optimizer",
+      "name": "Token Efficiency Optimizer",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/EricBuess"
+      },
+      "summary": "Stops wasteful runs when more burn will not change the reset, proposes cuts, and holds spend until you exact-yes an override",
+      "summary_zh": "在多烧额度也改变不了重置时拦住浪费跑次，提出削减并默认控花，需你明确同意才放开",
+      "import": "https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa",
+      "category": "finance-ops",
+      "tags": [
+        "tokens",
+        "cost",
+        "ops",
+        "efficiency"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/EricBuess/status/2100918698856808670"
+    },
+    {
       "slug": "token-maxxing",
       "name": "Token Maxxing",
       "author": {
@@ -32857,6 +32967,28 @@
       "verified": false,
       "updated": "2026-09-16",
       "source": "https://x.com/ZyeAnd1/status/2099987803228754118"
+    },
+    {
+      "slug": "top-coder",
+      "name": "Top Coder",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/EricBuess"
+      },
+      "summary": "Coding builder that ships against locked acceptance criteria with tests, while a separate verifier checks that done means done",
+      "summary_zh": "按锁定验收标准写代码并带测试交付，另有核验方确认做完才算做完",
+      "import": "https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "tests",
+        "shipping",
+        "builder"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-18",
+      "source": "https://x.com/EricBuess/status/2100918548583375187"
     },
     {
       "slug": "tormentino",

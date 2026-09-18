@@ -76,17 +76,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 232 |
+| [Coding & shipping](#coding--shipping) | 234 |
 | [Inbox & calendar](#inbox--calendar) | 62 |
 | [Research & briefings](#research--briefings) | 208 |
 | [Customer & sales](#customer--sales) | 176 |
-| [Finance & ops](#finance--ops) | 215 |
+| [Finance & ops](#finance--ops) | 216 |
 | [Content & publishing](#content--publishing) | 212 |
-| [Personal admin](#personal-admin) | 390 |
-| [Teams & handoffs](#teams--handoffs) | 220 |
+| [Personal admin](#personal-admin) | 392 |
+| [Teams & handoffs](#teams--handoffs) | 221 |
 | **Total** | **1715** |
 
-All 1715 share pages returned HTTP 200 on 18 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1715 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1721 share pages returned HTTP 200 on 18 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1721 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -300,6 +300,7 @@ One share is one bot. Assemble the roster yourself.
 - [Frame](https://x.ai/bot/ChQQ0_tBNki9hZWJo0GjQ) - Strategy-case co-pilot for consulting interviews and real client work. Runs Socratic case drills, MECE issue trees, discovery→workplans, and red-teams. [gradycwallen](https://x.com/gradycwallen).
 - [Frodo](https://x.ai/bot/5wHp86g1AJqgZ-V8-RX3H) - Secrets fill-broker for a Grok Bot fleet that peers ask to fill logins. [CodeSolutionsIL](https://x.com/CodeSolutionsIL).
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) - One verified daily digest of releases from ten frontier AI labs. [Amina](https://x.com/GuleidAmina).
+- [Game Builder](https://x.ai/bot/iaOrz78m_w7I90kusc5ia) - Ships small playable games and mini-loops you can open offline, with win/lose and optional points, not pitch decks. [Eric](https://x.com/EricBuess).
 - [Gardener](https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp) - Pulls provable dead code in tiny behaviour-preserving pull requests. [Tyler](https://x.com/tylerklose).
 - [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) - Autonomous genealogical research partner for unknown-parentage and identity problems. Prefers primary evidence, inherits prior work, and reports concise. [JeffWise953718](https://x.com/JeffWise953718).
 - [Github Bro](https://x.ai/bot/V2kkrme1lYb3NwIulGTTd) - Weekday morning digest of what's new in a GitHub repo, plus a short PM brief. [kaushikimmadi](https://x.com/kaushikimmadi).
@@ -421,6 +422,7 @@ One share is one bot. Assemble the roster yourself.
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) - Gives a job too heavy for shared hardware its own GPU, then bills you the runtime. [useprismnetwork](https://x.com/useprismnetwork).
 - [Tibo](https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp) - Closes out systems work with a single-tree workflow and fail-closed mobile release. [icebakbum](https://x.com/icebakbum).
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) - Turns an API into a plugin your other bots can just pick up and use. [DenisLabelle](https://x.com/DenisLabelle).
+- [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) - Coding builder that ships against locked acceptance criteria with tests, while a separate verifier checks that done means done. [Eric](https://x.com/EricBuess).
 - [Trojan Guard](https://x.ai/bot/rVl1h06Nts9u81JT0__nn) - Guard seat that watches for Trojan-style risks in your stack. [schultz180](https://x.com/schultz180).
 - [Twinwright](https://x.ai/bot/Hvli5amrlprtDS2KuFRBP) - Logs or it did not happen; static maps only, never runs the file. [Knock](https://x.com/SuddenlyJon).
 - [UCD Bot](https://x.ai/bot/An0FCP00zUniB7QdfedQX) - A user-centred design teammate that runs a service from discovery to live. [ucdco](https://x.com/ucdco).
@@ -1084,6 +1086,7 @@ One share is one bot. Assemble the roster yourself.
 - [Token](https://x.ai/bot/2Nk6nQTahTex1e5gHS_LU) - Puts a spending limit on every bot in your fleet. [jsk333](https://x.com/jsk333).
 - [Token Accountant](https://x.ai/bot/zdnVIfLkNmRwZqqogojuc) - Watches your weekly model spend and warns you well before the allowance runs out. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Token Cop](https://x.ai/bot/Ml4ynlD6O1VT5CoYmFnEa) - Spend management across agents for token usage and optimization suggestions. [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Token Efficiency Optimizer](https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa) - Stops wasteful runs when more burn will not change the reset, proposes cuts, and holds spend until you exact-yes an override. [Eric](https://x.com/EricBuess).
 - [Token Maxxing](https://x.ai/bot/f6srhE3vkMevccaw8DLPf) - Routes builds so Grok Bot limits last across Bot, Build, and Cursor. [iggynore](https://x.com/iggynore).
 - [Token Officer](https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP) - Audits a bot fleet for overlapping jobs and chat loops that quietly burn tokens. [from_glasses](https://x.com/from_glasses).
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) - Autonomous short-term equity desk. North star: beat SPY on a dedicated brokerage cash account. Decides on its native model, reads the book, and places... [farzyness](https://x.com/farzyness).
@@ -1427,6 +1430,7 @@ One share is one bot. Assemble the roster yourself.
 - [Countdown](https://x.ai/bot/zrbXLuz-YKUfqa5kSapWQ) - Mission control for watching the next Starship launch in person. [csputerbaugh1](https://x.com/csputerbaugh1).
 - [Court](https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX) - Reads a stuck group chat and says what it actually decided. [DonBonStovi](https://x.com/DonBonStovi).
 - [d2fl template](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) - Shared Grok Bot template from d2fl. [d2fl](https://x.com/d2fl).
+- [DADCON](https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB) - Backup dad on Slack that takes a chore from the real parent, follows the kid until it is done, then reports back. [Jerrod](https://x.com/jerrodtuck).
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) - A morning shortlist of backend roles you can apply to in one click, ranked against your CV. [HaseebMir91](https://x.com/HaseebMir91).
 - [Dead Man's Bot](https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4) - A contingency trigger that fires only when you stop checking in. [Knock](https://x.com/SuddenlyJon).
 - [Deal Hunting](https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf) - Landed-cost shopping that compares real prices including shipping and tax. [Andrej](https://x.com/scheemunai).
@@ -1552,6 +1556,7 @@ One share is one bot. Assemble the roster yourself.
 - [LinkedIn Watch](https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR) - Scheduled LinkedIn digest covering feed, messages, invites, views, and jobs. [AnnouncrFM](https://x.com/AnnouncrFM).
 - [Live Audio Chat Translator](https://x.ai/bot/vXgDg_JQtZBBlglI8WoUC) - Live English captions from chat audio on your computer — built for X/Twitter Spaces. Captures what you hear, translates as people speak, and labels. [_MAX_Q_](https://x.com/_MAX_Q_).
 - [Local Deals](https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo) - Daily local marketplace deals that it will negotiate for you. [Brandon](https://x.com/brandon_galang).
+- [Lockdown](https://x.ai/bot/C5EIiTZZL2pPpsb_po7Zs) - Personal digital security guide that finds online accounts and walks lock-down steps on official first-party pages one at a time. [Liam](https://x.com/liam_fallen).
 - [Lot Ghost](https://x.ai/bot/4iGFTf2xQ0UKp4mSgSnkI) - A jam-band sidekick tracking setlists, tour drops and the daily rumour mill. [bradszellman](https://x.com/bradszellman).
 - [Loui gym workouts](https://x.ai/bot/YhMATZ1fjXlMFSow6ui_n) - Plans and tracks Loui-style gym workouts. [joeyavino](https://x.com/joeyavino).
 - [Love ❤️](https://x.ai/bot/qDtCI8WZgVJKbN3rogL8j) - Takes the admin out of being a good Partner so the attention can go where it counts. Reminds, researches, and queues dates, tables, and presents; you... [dannybuck](https://x.com/dannybuck).
@@ -1732,6 +1737,7 @@ One share is one bot. Assemble the roster yourself.
 
 ## Teams & handoffs
 
+- [Chief of Staff](https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4) - Small-business chief of staff that routes work across specialist bots for GTM, editorial, and engineering while keeping connector lanes clean. [EdibleAnus](https://x.com/TheEdibleAnus).
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) - Audits your fleet of bots and tells you which ones are dead weight. [sdrth](https://x.com/sdrth).
 - [AI ops desk](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) - Public AI ops desk template for coordinating day-to-day agent work. [BarPrepPlay](https://x.com/BarPrepPlay).
