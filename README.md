@@ -10,9 +10,9 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> Public Grok Bot shares you can preview on `x.ai` and Add. Plus writeups of how people actually run them.
+> 1802 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
-[Grok Bot](https://docs.x.ai/grok-bot/overview) is an app for persistent, named AI teammates on a shared cloud computer. Use this repo to find a share, preview it, then Add.
+[Grok Bot](https://docs.x.ai/grok-bot/overview) is an always-on AI teammate on a shared cloud computer. This bilingual catalog indexes public **live shares** (not prompt dumps): find a share, open it on x.ai, then Add.
 
 ## Contents
 
@@ -20,6 +20,7 @@
   - [Try these first](#try-these-first)
   - [Browse by job](#browse-by-job)
   - [Studio doors](docs/studio-doors.md)
+- [SEO notes](docs/seo.md)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)
   - [Computer-use jobs](#computer-use-jobs)

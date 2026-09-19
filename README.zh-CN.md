@@ -10,9 +10,9 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 能在 `x.ai` 预览、再一键 Add 的公开 Grok Bot 分享，外加真人怎么跑的写法。
+> 1802 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
-[Grok Bot](https://docs.x.ai/grok-bot/overview) 是让具名 AI 队友在共用云电脑上持续干活的应用。来这里找分享、预览，再 Add。
+[Grok Bot](https://docs.x.ai/grok-bot/overview) 是共用云电脑上的常驻 AI 队友。本双语目录收录公开 **活分享**（不是提示词合集）：找到链接、在 x.ai 预览，再 Add。
 
 ## 目录
 
@@ -20,6 +20,7 @@
   - [先试这几个](#先试这几个)
   - [按工作类型找](#按工作类型找)
   - [工作室门](docs/studio-doors.md)
+- [SEO 备忘](docs/seo.md)
 - [真人案例](#真人案例)
   - [编制](#编制)
   - [电脑上手活](#电脑上手活)
@@ -107,7 +108,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Teams & handoffs](#teams--handoffs) | 229 |
 | **合计** | **1802** |
 
-2026 年 9 月 19 日检查时，1800 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1802 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 19 日检查时，1802 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1802 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
