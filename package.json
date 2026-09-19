@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "lint": "node scripts/lint.mjs",
+    "build:pages": "node scripts/build-pages-index.mjs",
     "test": "node scripts/lint.mjs"
   },
   "type": "module"

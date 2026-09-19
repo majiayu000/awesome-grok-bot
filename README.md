@@ -20,6 +20,7 @@
   - [Try these first](#try-these-first)
   - [Browse by job](#browse-by-job)
   - [Studio doors](docs/studio-doors.md)
+  - [Searchable site](https://majiayu000.github.io/awesome-grok-bot/)
 - [SEO notes](docs/seo.md)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)
@@ -48,6 +49,8 @@
 - [Reviews](#reviews)
 
 ## How to use
+
+Live searchable catalog: [majiayu000.github.io/awesome-grok-bot](https://majiayu000.github.io/awesome-grok-bot/) (filter by category + shelf).
 
 [Install Grok Bot](https://docs.x.ai/grok-bot/get-started) on a Mac, a Windows PC, or an iPhone. Open a share and hit **Add to Grok Bot**.
 

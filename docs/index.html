@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Awesome Grok Bot — searchable live x.ai/bot shares</title>
+  <meta name="description" content="Searchable bilingual catalog of live x.ai/bot shares for Grok Bot. Filter by category and shelf. Reachable ≠ safe; verified is separate.">
+  <meta name="theme-color" content="#0a0a0a">
+  <link rel="canonical" href="https://majiayu000.github.io/awesome-grok-bot/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Awesome Grok Bot">
+  <meta property="og:description" content="Searchable catalog of live x.ai/bot shares — not prompt dumps. Filter by category and shelf.">
+  <meta property="og:url" content="https://majiayu000.github.io/awesome-grok-bot/">
+  <meta property="og:image" content="https://majiayu000.github.io/awesome-grok-bot/screenshots/social-preview.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Awesome Grok Bot">
+  <meta name="twitter:description" content="Searchable catalog of live x.ai/bot shares for Grok Bot.">
+  <meta name="twitter:image" content="https://majiayu000.github.io/awesome-grok-bot/screenshots/social-preview.png">
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --panel: #141414;
+      --panel2: #1a1a1a;
+      --border: #2a2a2a;
+      --text: #f2f2f2;
+      --muted: #9a9a9a;
+      --accent: #e8e8e8;
+      --feat: #f5c542;
+      --door: #7dd3fc;
+      --ok: #86efac;
+      --warn: #fbbf24;
+      --danger: #f87171;
+      --radius: 10px;
+      --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "PingFang SC", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: var(--font); }
+    a { color: var(--accent); }
+    a:hover { opacity: 0.85; }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
+    header { display: flex; flex-wrap: wrap; gap: 0.75rem 1.25rem; align-items: flex-start; justify-content: space-between; margin-bottom: 1rem; }
+    h1 { font-size: 1.35rem; margin: 0 0 0.35rem; letter-spacing: -0.02em; }
+    .lead { color: var(--muted); font-size: 0.92rem; line-height: 1.45; max-width: 42rem; margin: 0; }
+    .meta { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+    .pill {
+      display: inline-flex; align-items: center; gap: 0.35rem;
+      border: 1px solid var(--border); background: var(--panel);
+      border-radius: 999px; padding: 0.28rem 0.7rem; font-size: 0.78rem; color: var(--muted);
+    }
+    .pill strong { color: var(--text); font-weight: 600; }
+    .lang {
+      border: 1px solid var(--border); background: var(--panel2); color: var(--text);
+      border-radius: 8px; padding: 0.35rem 0.6rem; cursor: pointer; font-size: 0.85rem;
+    }
+    .lang[aria-pressed="true"] { border-color: #555; background: #222; }
+    .notice {
+      border: 1px solid #3a3218; background: #1a1608; color: #e8d9a0;
+      border-radius: var(--radius); padding: 0.75rem 0.9rem; font-size: 0.85rem; line-height: 1.45;
+      margin: 0.75rem 0 1rem;
+    }
+    .controls {
+      display: grid; gap: 0.65rem;
+      grid-template-columns: 1fr;
+      background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 0.85rem;
+      position: sticky; top: 0; z-index: 5;
+    }
+    @media (min-width: 720px) {
+      .controls { grid-template-columns: 1.4fr 1fr 1fr auto; align-items: end; }
+    }
+    label { display: block; font-size: 0.72rem; color: var(--muted); margin-bottom: 0.28rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    input[type="search"], select {
+      width: 100%; background: var(--bg); color: var(--text); border: 1px solid var(--border);
+      border-radius: 8px; padding: 0.55rem 0.65rem; font-size: 0.95rem;
+    }
+    input[type="search"]:focus, select:focus { outline: 1px solid #666; border-color: #666; }
+    .clear {
+      border: 1px solid var(--border); background: var(--panel2); color: var(--muted);
+      border-radius: 8px; padding: 0.55rem 0.75rem; cursor: pointer; font-size: 0.85rem; height: 2.45rem;
+    }
+    .clear:hover { color: var(--text); }
+    .stats { color: var(--muted); font-size: 0.82rem; margin: 0.75rem 0 0.5rem; }
+    section.block { margin-top: 1.25rem; }
+    section.block h2 { font-size: 1.05rem; margin: 0 0 0.65rem; display: flex; align-items: center; gap: 0.5rem; }
+    .grid { display: grid; gap: 0.65rem; grid-template-columns: 1fr; }
+    @media (min-width: 700px) { .grid { grid-template-columns: 1fr 1fr; } }
+    .card {
+      background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 0.85rem 0.9rem; display: flex; flex-direction: column; gap: 0.45rem;
+    }
+    .card.featured { border-color: #5a4a1a; box-shadow: inset 0 0 0 1px rgba(245, 197, 66, 0.15); }
+    .card.studio-door { border-color: #1e3a4a; }
+    .card-top { display: flex; justify-content: space-between; gap: 0.5rem; align-items: flex-start; }
+    .name { font-weight: 650; font-size: 0.98rem; margin: 0; line-height: 1.3; }
+    .name a { color: var(--text); text-decoration: none; }
+    .name a:hover { text-decoration: underline; }
+    .summary { color: var(--muted); font-size: 0.88rem; line-height: 1.4; margin: 0; flex: 1; }
+    .row { display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center; }
+    .tag {
+      font-size: 0.72rem; color: var(--muted); border: 1px solid var(--border);
+      border-radius: 999px; padding: 0.12rem 0.45rem; background: var(--bg);
+    }
+    .shelf-feat { color: #111; background: var(--feat); border-color: transparent; font-weight: 600; }
+    .shelf-door { color: #082f49; background: var(--door); border-color: transparent; font-weight: 600; }
+    .shelf-aka { color: #ddd; }
+    .shelf-solid { color: var(--ok); border-color: #245c3a; }
+    .shelf-raw { color: var(--muted); }
+    .verified-yes { color: var(--ok); }
+    .verified-no { color: var(--muted); }
+    .actions { display: flex; gap: 0.5rem; margin-top: 0.15rem; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: #f5f5f5; color: #111; text-decoration: none; font-weight: 650;
+      border-radius: 8px; padding: 0.4rem 0.7rem; font-size: 0.82rem;
+    }
+    .btn:hover { opacity: 0.9; }
+    .btn.ghost { background: transparent; color: var(--muted); border: 1px solid var(--border); font-weight: 500; }
+    footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--muted); font-size: 0.8rem; line-height: 1.5; }
+    .empty { color: var(--muted); padding: 1.5rem 0.25rem; }
+    .loading { color: var(--muted); padding: 2rem 0; }
+    .err { color: var(--danger); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Awesome Grok Bot</h1>
+        <p class="lead" id="lead">Searchable catalog of live <code>x.ai/bot</code> shares you can preview and Add. Not prompt dumps.</p>
+      </div>
+      <div class="meta">
+        <span class="pill"><strong id="count">—</strong>&nbsp;<span id="countLabel">listed</span></span>
+        <span class="pill"><strong id="verified">0</strong>&nbsp;<span id="verifiedLabel">verified</span></span>
+        <button type="button" class="lang" id="langEn" aria-pressed="true">EN</button>
+        <button type="button" class="lang" id="langZh" aria-pressed="false">中文</button>
+      </div>
+    </header>
+
+    <div class="notice" id="notice">
+      Community shares are untrusted. Reachable ≠ safe. <code>verified</code> is a separate maintainer flag (currently 0). Read the profile, connect one plugin, try a read-only task first.
+    </div>
+
+    <div class="controls" role="search">
+      <div>
+        <label for="q" id="labelQ">Search</label>
+        <input type="search" id="q" placeholder="name, summary, tags…" autocomplete="off" spellcheck="false">
+      </div>
+      <div>
+        <label for="category" id="labelCat">Category</label>
+        <select id="category"></select>
+      </div>
+      <div>
+        <label for="shelf" id="labelShelf">Shelf</label>
+        <select id="shelf"></select>
+      </div>
+      <div>
+        <label>&nbsp;</label>
+        <button type="button" class="clear" id="clearBtn">Clear</button>
+      </div>
+    </div>
+
+    <p class="stats" id="stats"></p>
+
+    <section class="block" id="featuredBlock" hidden>
+      <h2><span id="featuredTitle">Featured</span> <span class="tag shelf-feat" id="featuredBadge">featured</span></h2>
+      <div class="grid" id="featuredGrid"></div>
+    </section>
+
+    <section class="block" id="doorsBlock" hidden>
+      <h2><span id="doorsTitle">Studio doors</span> <span class="tag shelf-door" id="doorsBadge">studio-door</span></h2>
+      <div class="grid" id="doorsGrid"></div>
+    </section>
+
+    <section class="block" id="allBlock">
+      <h2 id="allTitle">All matches</h2>
+      <div class="grid" id="allGrid"></div>
+      <p class="empty" id="empty" hidden></p>
+    </section>
+
+    <footer id="footer">
+      Source: <a href="https://github.com/majiayu000/awesome-grok-bot">majiayu000/awesome-grok-bot</a>.
+      Catalog is CC0; product honesty: live shares only. Index regenerated from <code>catalog.json</code> — see <a href="seo.md">docs/seo.md</a>.
+    </footer>
+  </div>
+
+  <script>
+(function () {
+  const I18N = {
+    en: {
+      lead: 'Searchable catalog of live x.ai/bot shares you can preview and Add. Not prompt dumps.',
+      countLabel: 'listed',
+      verifiedLabel: 'verified',
+      notice: 'Community shares are untrusted. Reachable ≠ safe. verified is a separate maintainer flag (currently 0). Read the profile, connect one plugin, try a read-only task first.',
+      labelQ: 'Search',
+      labelCat: 'Category',
+      labelShelf: 'Shelf',
+      placeholder: 'name, summary, tags…',
+      clear: 'Clear',
+      featuredTitle: 'Featured',
+      doorsTitle: 'Studio doors',
+      allTitle: 'All matches',
+      empty: 'No matches. Try another query or clear filters.',
+      loading: 'Loading catalog…',
+      err: 'Failed to load catalog-index.json',
+      add: 'Open share',
+      by: 'by',
+      allCats: 'All categories',
+      allShelves: 'All shelves',
+      showing: (n, total) => `Showing ${n} of ${total}`,
+      footer: 'Source: majiayu000/awesome-grok-bot. Catalog is CC0; product honesty: live shares only. Index regenerated from catalog.json — see docs/seo.md.',
+      cats: {
+        'coding-shipping': 'Coding & shipping',
+        'inbox-calendar': 'Inbox & calendar',
+        'research-briefings': 'Research & briefings',
+        'customer-sales': 'Customer & sales',
+        'finance-ops': 'Finance & ops',
+        'content-publishing': 'Content & publishing',
+        'personal-admin': 'Personal admin',
+        'teams-handoffs': 'Teams & handoffs',
+      },
+      shelves: {
+        featured: 'featured',
+        solid: 'solid',
+        'studio-door': 'studio-door',
+        aka: 'aka',
+        raw: 'raw',
+      },
+    },
+    zh: {
+      lead: '可搜索的 Grok Bot 活分享目录（x.ai/bot），预览后一键 Add。不是提示词合集。',
+      countLabel: '已收录',
+      verifiedLabel: '已核验',
+      notice: '社区分享不可信。可达 ≠ 安全。verified 是维护者单独标记（当前为 0）。先看 profile，只接一个连接器，先跑只读任务。',
+      labelQ: '搜索',
+      labelCat: '分类',
+      labelShelf: '货架',
+      placeholder: '名称、简介、标签…',
+      clear: '清空',
+      featuredTitle: '精选',
+      doorsTitle: '工作室门',
+      allTitle: '全部匹配',
+      empty: '没有匹配。换个关键词或清空筛选。',
+      loading: '正在加载目录…',
+      err: '无法加载 catalog-index.json',
+      add: '打开分享',
+      by: '作者',
+      allCats: '全部分类',
+      allShelves: '全部货架',
+      showing: (n, total) => `显示 ${n} / ${total}`,
+      footer: '来源：majiayu000/awesome-grok-bot。目录 CC0；产品诚实：只收录活分享。索引由 catalog.json 生成 — 见 docs/seo.md。',
+      cats: {
+        'coding-shipping': 'Coding & shipping',
+        'inbox-calendar': 'Inbox & calendar',
+        'research-briefings': 'Research & briefings',
+        'customer-sales': 'Customer & sales',
+        'finance-ops': 'Finance & ops',
+        'content-publishing': 'Content & publishing',
+        'personal-admin': 'Personal admin',
+        'teams-handoffs': 'Teams & handoffs',
+      },
+      shelves: {
+        featured: 'featured 精选',
+        solid: 'solid',
+        'studio-door': 'studio-door 工作室门',
+        aka: 'aka',
+        raw: 'raw',
+      },
+    },
+  };
+
+  const SHELF_ORDER = ['featured', 'solid', 'studio-door', 'aka', 'raw'];
+  const CAT_ORDER = [
+    'coding-shipping', 'inbox-calendar', 'research-briefings', 'customer-sales',
+    'finance-ops', 'content-publishing', 'personal-admin', 'teams-handoffs',
+  ];
+
+  let locale = (navigator.language || 'en').toLowerCase().startsWith('zh') ? 'zh' : 'en';
+  let data = null;
+  let entries = [];
+
+  const $ = (id) => document.getElementById(id);
+  const t = () => I18N[locale];
+
+  function summaryOf(e) {
+    if (locale === 'zh' && e.summary_zh) return e.summary_zh;
+    return e.summary || '';
+  }
+
+  function shelfClass(shelf) {
+    if (shelf === 'featured') return 'shelf-feat';
+    if (shelf === 'studio-door') return 'shelf-door';
+    if (shelf === 'solid') return 'shelf-solid';
+    if (shelf === 'aka') return 'shelf-aka';
+    return 'shelf-raw';
+  }
+
+  function cardHTML(e, highlight) {
+    const i = t();
+    const cls = ['card'];
+    if (highlight === 'featured' || e.shelf === 'featured') cls.push('featured');
+    if (highlight === 'studio-door' || e.shelf === 'studio-door') cls.push('studio-door');
+    const tags = (e.tags || []).slice(0, 4).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join('');
+    return `<article class="${cls.join(' ')}">
+      <div class="card-top">
+        <h3 class="name"><a href="${escapeAttr(e.import)}" target="_blank" rel="noopener noreferrer">${escapeHtml(e.name)}</a></h3>
+        <span class="tag ${shelfClass(e.shelf)}">${escapeHtml(i.shelves[e.shelf] || e.shelf)}</span>
+      </div>
+      <p class="summary">${escapeHtml(summaryOf(e))}</p>
+      <div class="row">
+        <span class="tag">${escapeHtml(i.cats[e.category] || e.category)}</span>
+        <span class="tag ${e.verified ? 'verified-yes' : 'verified-no'}">${e.verified ? 'verified' : 'unverified'}</span>
+        ${tags}
+      </div>
+      <div class="row" style="color:var(--muted);font-size:0.78rem">${escapeHtml(i.by)} ${escapeHtml(e.author || '—')}</div>
+      <div class="actions">
+        <a class="btn" href="${escapeAttr(e.import)}" target="_blank" rel="noopener noreferrer">${escapeHtml(i.add)}</a>
+        <a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+    </article>`;
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+  function escapeAttr(s) {
+    return escapeHtml(s).replace(/`/g, '&#96;');
+  }
+
+  function applyI18n() {
+    const i = t();
+    $('lead').textContent = i.lead;
+    $('countLabel').textContent = i.countLabel;
+    $('verifiedLabel').textContent = i.verifiedLabel;
+    $('notice').textContent = i.notice;
+    $('labelQ').textContent = i.labelQ;
+    $('labelCat').textContent = i.labelCat;
+    $('labelShelf').textContent = i.labelShelf;
+    $('q').placeholder = i.placeholder;
+    $('clearBtn').textContent = i.clear;
+    $('featuredTitle').textContent = i.featuredTitle;
+    $('doorsTitle').textContent = i.doorsTitle;
+    $('allTitle').textContent = i.allTitle;
+    $('empty').textContent = i.empty;
+    $('langEn').setAttribute('aria-pressed', locale === 'en' ? 'true' : 'false');
+    $('langZh').setAttribute('aria-pressed', locale === 'zh' ? 'true' : 'false');
+    document.documentElement.lang = locale === 'zh' ? 'zh-CN' : 'en';
+    fillSelects();
+    render();
+  }
+
+  function fillSelects() {
+    const i = t();
+    const cat = $('category');
+    const shelf = $('shelf');
+    const curCat = cat.value || '';
+    const curShelf = shelf.value || '';
+    cat.innerHTML = `<option value="">${escapeHtml(i.allCats)}</option>` +
+      CAT_ORDER.map((c) => `<option value="${c}">${escapeHtml(i.cats[c] || c)}</option>`).join('');
+    shelf.innerHTML = `<option value="">${escapeHtml(i.allShelves)}</option>` +
+      SHELF_ORDER.map((s) => `<option value="${s}">${escapeHtml(i.shelves[s] || s)}</option>`).join('');
+    cat.value = curCat;
+    shelf.value = curShelf;
+  }
+
+  function filterEntries() {
+    const q = ($('q').value || '').trim().toLowerCase();
+    const cat = $('category').value;
+    const shelf = $('shelf').value;
+    return entries.filter((e) => {
+      if (cat && e.category !== cat) return false;
+      if (shelf && e.shelf !== shelf) return false;
+      if (!q) return true;
+      const hay = [
+        e.name, e.summary, e.summary_zh, e.author, e.slug, e.shelf, e.category,
+        ...(e.tags || []),
+      ].join(' ').toLowerCase();
+      return hay.includes(q);
+    });
+  }
+
+  function render() {
+    if (!data) {
+      $('stats').textContent = t().loading;
+      return;
+    }
+    const matched = filterEntries();
+    $('stats').textContent = t().showing(matched.length, entries.length);
+
+    const showFeaturedHighlight = !$('shelf').value || $('shelf').value === 'featured';
+    const showDoorsHighlight = !$('shelf').value || $('shelf').value === 'studio-door';
+    const qActive = !!($('q').value || '').trim() || !!$('category').value;
+
+    const featured = matched.filter((e) => e.shelf === 'featured');
+    const doors = matched.filter((e) => e.shelf === 'studio-door');
+
+    // Featured section on top when not narrowly filtered away
+    if (showFeaturedHighlight && featured.length && !qActive) {
+      $('featuredBlock').hidden = false;
+      $('featuredGrid').innerHTML = featured.map((e) => cardHTML(e, 'featured')).join('');
+    } else {
+      $('featuredBlock').hidden = true;
+      $('featuredGrid').innerHTML = '';
+    }
+
+    if (showDoorsHighlight && doors.length && !qActive && !$('shelf').value) {
+      // When browsing all, show a compact studio-door strip (cap) then all
+      const cap = 8;
+      $('doorsBlock').hidden = false;
+      $('doorsGrid').innerHTML = doors.slice(0, cap).map((e) => cardHTML(e, 'studio-door')).join('');
+    } else if ($('shelf').value === 'studio-door' && doors.length) {
+      $('doorsBlock').hidden = true;
+      $('doorsGrid').innerHTML = '';
+    } else {
+      $('doorsBlock').hidden = true;
+      $('doorsGrid').innerHTML = '';
+    }
+
+    // All matches: if no query and no shelf/cat, exclude featured already shown to reduce dupes in "all"
+    let list = matched;
+    if (!qActive && !$('shelf').value) {
+      list = matched.filter((e) => e.shelf !== 'featured');
+    }
+
+    // Prefer featured → studio-door → solid → aka → raw, then name
+    const rank = { featured: 0, 'studio-door': 1, solid: 2, aka: 3, raw: 4 };
+    list = list.slice().sort((a, b) => {
+      const ra = rank[a.shelf] ?? 9;
+      const rb = rank[b.shelf] ?? 9;
+      if (ra !== rb) return ra - rb;
+      return a.name.localeCompare(b.name);
+    });
+
+    // Cap render for raw browsing performance
+    const MAX = 200;
+    const sliced = list.slice(0, MAX);
+    $('allGrid').innerHTML = sliced.map((e) => cardHTML(e)).join('');
+    $('empty').hidden = list.length > 0;
+    if (list.length > MAX) {
+      $('stats').textContent += locale === 'zh'
+        ? `（仅渲染前 ${MAX} 条，请缩小筛选）`
+        : ` (showing first ${MAX}; narrow filters)`;
+    }
+  }
+
+  function wire() {
+    let timer = null;
+    const bump = () => {
+      clearTimeout(timer);
+      timer = setTimeout(render, 60);
+    };
+    $('q').addEventListener('input', bump);
+    $('category').addEventListener('change', render);
+    $('shelf').addEventListener('change', render);
+    $('clearBtn').addEventListener('click', () => {
+      $('q').value = '';
+      $('category').value = '';
+      $('shelf').value = '';
+      render();
+      $('q').focus();
+    });
+    $('langEn').addEventListener('click', () => { locale = 'en'; applyI18n(); });
+    $('langZh').addEventListener('click', () => { locale = 'zh'; applyI18n(); });
+  }
+
+  async function boot() {
+    $('stats').textContent = t().loading;
+    wire();
+    applyI18n();
+    try {
+      const res = await fetch('catalog-index.json', { cache: 'no-cache' });
+      if (!res.ok) throw new Error(String(res.status));
+      data = await res.json();
+      entries = data.entries || [];
+      $('count').textContent = String(data.count ?? entries.length);
+      $('verified').textContent = String(data.verified ?? 0);
+      render();
+    } catch (err) {
+      $('stats').innerHTML = `<span class="err">${escapeHtml(t().err)}</span>`;
+      console.error(err);
+    }
+  }
+
+  boot();
+})();
+  </script>
+</body>
+</html>

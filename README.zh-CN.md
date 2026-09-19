@@ -20,6 +20,7 @@
   - [先试这几个](#先试这几个)
   - [按工作类型找](#按工作类型找)
   - [工作室门](docs/studio-doors.md)
+  - [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/)
 - [SEO 备忘](docs/seo.md)
 - [真人案例](#真人案例)
   - [编制](#编制)
@@ -48,6 +49,8 @@
 - [评测](#评测)
 
 ## 怎么用
+
+在线可搜索目录：[majiayu000.github.io/awesome-grok-bot](https://majiayu000.github.io/awesome-grok-bot/)（按分类 + 货架筛选）。
 
 先在 Mac、Windows 或 iPhone 上[安装 Grok Bot](https://docs.x.ai/grok-bot/get-started)。打开一条分享，点 **Add to Grok Bot**。
 

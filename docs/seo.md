@@ -23,7 +23,7 @@ No README docs-map fix needed this pass (seo link already bilingual).
 ### GitHub About (`gh repo view`)
 
 - **description:** `1802 live x.ai/bot shares for Grok Bot you can Add — bilingual EN/中文 catalog with shelf navigation, field cases, and JSON schema. Not prompt dumps.` ✅
-- **homepageUrl:** empty (correct until Pages exists)
+- **homepageUrl:** `https://majiayu000.github.io/awesome-grok-bot/` (Pages from `/docs`)
 - **topics:** agents, awesome, awesome-list, grok, grok-bot, templates, catalog, xai, ai-agents, bot-templates, cursor, directory, grokbot, llm ✅
 - **stargazerCount:** 49
 
@@ -35,8 +35,8 @@ Aligned: 1802 entries; shelf `featured 20, studio-door 119, aka 95, raw 1568`; p
 
 What this repo still misses for organic discovery:
 
-1. **No GitHub Pages / searchable UI** — kyd-style filterable directory wins “Grok Bot templates / directory” intent; long README alone underperforms in Google.
-2. **Homepage empty** — no product-shaped landing in SERP/GitHub search cards.
+1. **GitHub Pages / searchable UI** — shipped at `/docs` (`index.html` + `catalog-index.json`); filter by category + shelf.
+2. **Homepage** — set to Pages URL after enable.
 3. **Stars ~1/6 of head lists** — content depth high; discovery weak.
 4. **No weekly “新进 N” hook** — growth is silent without a shareable delta.
 5. **Not yet on sindresorhus/awesome** — missing category authority backlink.
@@ -105,6 +105,46 @@ Install pack for humans: `/workspace/downloads/seo-bot-crew-install.md`.
 
 ---
 
+## GitHub Pages (maintainers)
+
+**URL:** https://majiayu000.github.io/awesome-grok-bot/
+
+**What ships**
+
+- `docs/index.html` — client-side searchable SPA (EN/中文 UI; uses `summary_zh` when locale is zh).
+- `docs/catalog-index.json` — slim index generated from root `catalog.json` (name, summaries, tags, category, shelf, import, author, verified).
+- `docs/.nojekyll` — serve as plain static files from the `/docs` folder on `main`.
+
+**Honesty (do not drift)**
+
+- Product is **live `x.ai/bot` shares**, not prompt dumps.
+- Reachable ≠ safe; `verified` stays separate (still 0 until maintainers flip flags).
+- Do not point readers at third-party directories as the share source.
+- Social preview reuses `docs/screenshots/social-preview.png` (no per-share screenshots).
+
+**Routine when catalog grows**
+
+1. Edit `catalog.json` (+ README projections as usual).
+2. `node scripts/lint.mjs` → must print `OK N entries`.
+3. `node scripts/build-pages-index.mjs` → refreshes `docs/catalog-index.json`.
+4. Commit both catalog and the regenerated index (and README if counts changed).
+5. Push `main`; Pages redeploys from `/docs` automatically.
+
+`npm run build:pages` is an alias for the index builder.
+
+**Enable / homepage (one-time)**
+
+```bash
+gh api -X POST repos/majiayu000/awesome-grok-bot/pages \
+  -f build_type=legacy -f source[branch]=main -f source[path]=/docs
+# or update if already exists:
+gh api -X PUT repos/majiayu000/awesome-grok-bot/pages \
+  -f build_type=legacy -f source[branch]=main -f source[path]=/docs
+gh repo edit majiayu000/awesome-grok-bot --homepage https://majiayu000.github.io/awesome-grok-bot/
+```
+
+---
+
 ## Concrete next edits (prioritized)
 
 ### P0 — done or keep green
@@ -117,7 +157,7 @@ Install pack for humans: `/workspace/downloads/seo-bot-crew-install.md`.
 
 ### P1 — still open (highest leverage)
 
-- [ ] **GitHub Pages** searchable UI from `catalog.json` (filter shelf/category); then set Homepage
+- [x] **GitHub Pages** searchable UI from `catalog.json` (filter shelf/category); Homepage set
 - [ ] Weekly「新进 N」README/Discussions blurb (manual; no auto-X)
 - [ ] Label「先试这几个」explicitly as `shelf=featured`
 - [ ] Contents → CONTRIBUTING one-liner
@@ -132,5 +172,5 @@ Install pack for humans: `/workspace/downloads/seo-bot-crew-install.md`.
 
 ## Optional next (product)
 
-- Searchable GitHub Pages — then Homepage = `https://majiayu000.github.io/awesome-grok-bot/` (or custom domain).
+- Pages live: `https://majiayu000.github.io/awesome-grok-bot/` (optional custom domain later).
 - Weekly discovery note, posted manually.
