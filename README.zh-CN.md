@@ -77,16 +77,16 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | 分类 | 收录数 |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 241 |
-| [Inbox & calendar](#inbox--calendar) | 64 |
-| [Research & briefings](#research--briefings) | 219 |
-| [Customer & sales](#customer--sales) | 179 |
-| [Finance & ops](#finance--ops) | 222 |
-| [Content & publishing](#content--publishing) | 218 |
-| [Personal admin](#personal-admin) | 416 |
-| [Teams & handoffs](#teams--handoffs) | 228 |
-| **合计** | **1787** |
+| [Inbox & calendar](#inbox--calendar) | 66 |
+| [Research & briefings](#research--briefings) | 221 |
+| [Customer & sales](#customer--sales) | 182 |
+| [Finance & ops](#finance--ops) | 223 |
+| [Content & publishing](#content--publishing) | 220 |
+| [Personal admin](#personal-admin) | 418 |
+| [Teams & handoffs](#teams--handoffs) | 229 |
+| **合计** | **1800** |
 
-2026 年 9 月 19 日检查时，1787 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1787 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 19 日检查时，1800 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1800 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -524,6 +524,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) - 家庭参谋，管家庭计划、学校和家务行政。 [clairevo](https://x.com/clairevo).
 - [WhatsApp Digest](https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-) - 只读汇总最忙的 WhatsApp 群当天真正要紧的事。 [PetrusJvR](https://x.com/PetrusJvR).
 - [Writing Bot](https://x.ai/bot/wtq-j01kD7o8gQFx7E9zv) - Writing Bot打理邮件或日程，分拣要事、起草回复或安排时间，未经你同意不发送。 [mattyp](https://x.com/mattyp).
+- [CEO Morning Secretary](https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX) - 工作日为 CEO 整理日程和重要邮件并朗读，草稿可交给例行任务处理. [jy Kim](https://x.com/JyKim90832).
+- [Daili](https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X) - 整合日历天气重要邮件和连接器的晨报，并按你指定的日期生成每周展望. [Paul L. McNeely](https://x.com/McNeely).
 
 ## Research & briefings
 
@@ -746,6 +748,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Zettelkasten](https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c) - 给 Obsidian 金库当卡片盒搭档，原子笔记只在你点头后才归档。 [pohlipit](https://x.com/pohlipit).
 - [左左的AI情报员](https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt) - 按固定 46 源做核验去重和重要性评分，输出简洁中文 AI 情报日报。 [左左](https://x.com/zuoyou_ai).
 - [Zxn News Conservative](https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb) - 偏保守视角的新闻助理，做每日摘要、突发提醒，以及政治经济与外交深读. [ZhpXnewsbhcsn](https://x.com/zxnbluehandus).
+- [Orbit Brief](https://x.ai/bot/EkX7yjLCie8Phae6Fh4nE) - 法语晨报聚焦 SpaceX Grok Bot 轨道架构和碎片，给出来源事实与行动. [V.Y@n](https://x.com/VYCanisMajori).
+- [Summarize Bot](https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7) - 把网页视频 PDF 图片和粘贴文字整理成简短的聊天摘要. [Vincent Peng](https://x.com/_VincentPeng).
 
 ## Customer & sales
 
@@ -928,6 +932,9 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) - 围绕 X Ads、X Premium Business 与 Grok 的营销负责人，给任意创始人跑增长. [Joe](https://x.com/JoeSimo).
 - [YR Mailchimp](https://x.ai/bot/lcGQv8_I7UvJEWs3833LR) - 在 Mailchimp 起草青年共和党俱乐部月度邮件和会议提醒。 [BastropYR](https://x.com/BastropYR).
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) - 为社交拍照应用协调专家机器人群，含世界瞬间侦察、营销等席位. [zealt_today](https://x.com/zealt_today).
+- [Fulcrum](https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH) - 只做草稿，筛选并排序适合自然互动的 X 回复和引用机会. [Code Solutions](https://x.com/CodeSolutionsIL).
+- [LinkedIn Lead Outreach](https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD) - 跟进 LinkedIn 引流评论，起草回复和私信，并在限额内处理连接请求. [Ethan Lee](https://x.com/ethan_leee9113).
+- [Travel Influencer Outreach](https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd) - 向旅行品牌争取住宿换内容合作，跟进回复并为创作者规划 Reels. [Lovable](https://x.com/_lovablecurves).
 
 ## Finance & ops
 
@@ -1153,6 +1160,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [YieldSentinel A2H](https://x.ai/bot/RFXogCwTbb2mUODW6rfVe) - 你下手前，按你定的规则核一笔 DeFi 收益仓。 [MyEnsNames](https://x.com/MyEnsNames).
 - [YVenture Bot](https://x.ai/bot/502iRcu35kF-eyMr7M1dZ) - 冷静分步的创业策略顾问，从点子走到早期运营。 [kittenworth](https://x.com/kittenworth).
 - [账单进口](https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH) - 把微信和支付宝账单 CSV 或截图解析去重分类，预览确认后再写入账本。 Tony.
+- [Tax Harbor](https://x.ai/bot/KxgpoMk2AH230cNwYUCcU) - 为没有 W-2 的家庭每周梳理收入 IRMAA RMD 和扣除项等税务年度信息. [R. Garrick](https://x.com/RGarrick2).
 
 ## Content & publishing
 
@@ -1374,6 +1382,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [YouTube Soft-PASS Ops](https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8) - 先私密包装 YouTube 音乐发行，你点头才公开，并准备分发与一条 Short。 [EricChez](https://x.com/EricChez).
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) - 在 Apple Silicon 上用 yue2-mlx 生成歌曲（非商业）。 [monomyth](https://x.com/monomyth).
 - [Zillow Bot](https://x.ai/bot/y4iQpd9VSjs_h8FCPF5Up) - 找业主直租的公寓、联排与独栋，过滤中介盘并按条件筛. [DylanRavin82531](https://x.com/DylanRavin82531).
+- [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) - 在 X 上寻找同题材 Argonaut 线程，为分支式多宇宙史诗续写一行. [BW](https://x.com/open_brady).
+- [Press](https://x.ai/bot/MZxv2GSWzNh8mXfMB0xla) - 对确认稿做最后质检，展示准确文本，得到明确同意后才发布. [Code Solutions](https://x.com/CodeSolutionsIL).
 
 ## Personal admin
 
@@ -1793,6 +1803,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [小红书参与抽奖助手](https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP) - 在小红书搜抽奖并按规则四连，足迹记进 Notion，躲开明显诈骗。 [selinqi](https://x.com/selinqi).
 - [YC Startup Job Applier](https://x.ai/bot/COQAlYvqDNehPSHDBt-6z) - 在额度内填好 Work at a Startup 资料并向创始人发消息。 [fwhittington_24](https://x.com/fwhittington_24).
 - [Yolk](https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh) - 侧边栏里的电子宠物蛋，一天要喂四次。 [jp_costa](https://x.com/jp_costa).
+- [Done](https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK) - 把日常杂事从比较预订确认做到写入日历，并返回一行凭证. [Paulo Pereira](https://x.com/paulovitorjp).
+- [Texas Pro Se Legal Matters](https://x.ai/bot/uV8ZjlR6ehlZ074hdvXG8) - 德州自诉案件管理中心，整理案卷期限提交提醒和文件架. [Lovable](https://x.com/_lovablecurves).
 
 ## Teams & handoffs
 
@@ -2024,6 +2036,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [X Scout](https://x.ai/bot/4iz8VYK_cG482_vIA8WR4) - 工作日在 X 上挖 Grok Bot 用法，汇总后问你加不加。 [ericzakariasson](https://x.com/ericzakariasson).
 - [X调度员](https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5) - 把 X 相关任务走更省的路径，让开发者额度更耐用。 [cgnot996](https://x.com/cgnot996).
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) - 单一总部对话，挑下一个该押的方向，用你的口吻起草，你不点头就不发。 [Majd](https://x.com/MajdKaid).
+- [Large Event Ops Bot](https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3) - 统筹募款和颁奖晚会的收件箱承诺事项运营表与截止提醒. [Lovable](https://x.com/_lovablecurves).
 
 ## 技能和工具
 

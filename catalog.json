@@ -1869,6 +1869,27 @@
       "related": "https://grokbot.dev/marketplace/architecture-shorts-master/"
     },
     {
+      "slug": "argonaut",
+      "name": "Argonaut",
+      "author": {
+        "name": "BW",
+        "url": "https://x.com/open_brady"
+      },
+      "summary": "Finds sibling #argonaut threads on X and appends one line to a branching multiverse epic",
+      "summary_zh": "在 X 上寻找同题材 Argonaut 线程，为分支式多宇宙史诗续写一行",
+      "import": "https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A",
+      "category": "content-publishing",
+      "tags": [
+        "writing",
+        "x",
+        "creative"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/open_brady/status/2101172562193465411"
+    },
+    {
       "slug": "argubot",
       "name": "Argubot",
       "author": {
@@ -4450,6 +4471,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16"
+    },
+    {
+      "slug": "ceo-morning-secretary",
+      "name": "CEO Morning Secretary",
+      "author": {
+        "name": "jy Kim",
+        "url": "https://x.com/JyKim90832"
+      },
+      "summary": "A weekday CEO brief that reads the calendar and important mail aloud, with routine-ready drafts",
+      "summary_zh": "工作日为 CEO 整理日程和重要邮件并朗读，草稿可交给例行任务处理",
+      "import": "https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX",
+      "category": "inbox-calendar",
+      "tags": [
+        "executive",
+        "briefing",
+        "calendar",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/JyKim90832/status/2101196598193635602"
     },
     {
       "slug": "certainty-tax",
@@ -8758,6 +8801,28 @@
       "updated": "2026-08-30"
     },
     {
+      "slug": "daili",
+      "name": "Daili",
+      "author": {
+        "name": "Paul L. McNeely",
+        "url": "https://x.com/McNeely"
+      },
+      "summary": "Morning briefs with calendar, weather, important mail, live connectors, and a weekly outlook",
+      "summary_zh": "整合日历天气重要邮件和连接器的晨报，并按你指定的日期生成每周展望",
+      "import": "https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X",
+      "category": "inbox-calendar",
+      "tags": [
+        "briefing",
+        "calendar",
+        "weather",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/McNeely/status/2101165259750773240"
+    },
+    {
       "slug": "daily-cash",
       "name": "OptionTheta",
       "author": {
@@ -10237,6 +10302,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06"
+    },
+    {
+      "slug": "done",
+      "name": "Done",
+      "author": {
+        "name": "Paulo Pereira",
+        "url": "https://x.com/paulovitorjp"
+      },
+      "summary": "Closes everyday errands from comparison through booking, confirmation, and calendar proof",
+      "summary_zh": "把日常杂事从比较预订确认做到写入日历，并返回一行凭证",
+      "import": "https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK",
+      "category": "personal-admin",
+      "tags": [
+        "errands",
+        "booking",
+        "calendar",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/paulovitorjp/status/2101142832304066836"
     },
     {
       "slug": "donna",
@@ -13298,6 +13385,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "fulcrum",
+      "name": "Fulcrum",
+      "author": {
+        "name": "Code Solutions",
+        "url": "https://x.com/CodeSolutionsIL"
+      },
+      "summary": "Draft-only X reply and quote opportunities ranked for high-fit organic outreach",
+      "summary_zh": "只做草稿，筛选并排序适合自然互动的 X 回复和引用机会",
+      "import": "https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH",
+      "category": "customer-sales",
+      "tags": [
+        "x",
+        "outreach",
+        "drafting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/CodeSolutionsIL/status/2101196444338192507"
     },
     {
       "slug": "funhouse",
@@ -19281,6 +19389,28 @@
       "updated": "2026-09-16"
     },
     {
+      "slug": "large-event-ops-bot",
+      "name": "Large Event Ops Bot",
+      "author": {
+        "name": "Lovable",
+        "url": "https://x.com/_lovablecurves"
+      },
+      "summary": "Runs fundraiser and awards-night operations with inbox, commitments, sheets, and reminders",
+      "summary_zh": "统筹募款和颁奖晚会的收件箱承诺事项运营表与截止提醒",
+      "import": "https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3",
+      "category": "teams-handoffs",
+      "tags": [
+        "events",
+        "operations",
+        "coordination",
+        "reminders"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/_lovablecurves/status/2101142291289079859"
+    },
+    {
       "slug": "last30days",
       "name": "last30days",
       "author": {
@@ -20120,6 +20250,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "linkedin-lead-outreach",
+      "name": "LinkedIn Lead Outreach",
+      "author": {
+        "name": "Ethan Lee",
+        "url": "https://x.com/ethan_leee9113"
+      },
+      "summary": "Tracks LinkedIn lead-magnet comments, drafts replies and DMs, and accepts connections with caps",
+      "summary_zh": "跟进 LinkedIn 引流评论，起草回复和私信，并在限额内处理连接请求",
+      "import": "https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD",
+      "category": "customer-sales",
+      "tags": [
+        "linkedin",
+        "outreach",
+        "leads",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/ethan_leee9113/status/2101189341242376366"
     },
     {
       "slug": "linkedin-leads",
@@ -23910,6 +24062,27 @@
       "updated": "2026-09-18"
     },
     {
+      "slug": "orbit-brief",
+      "name": "Orbit Brief",
+      "author": {
+        "name": "V.Y@n",
+        "url": "https://x.com/VYCanisMajori"
+      },
+      "summary": "French morning desk for sourced SpaceX, Grok Bot, orbital architecture, and debris updates",
+      "summary_zh": "法语晨报聚焦 SpaceX Grok Bot 轨道架构和碎片，给出来源事实与行动",
+      "import": "https://x.ai/bot/EkX7yjLCie8Phae6Fh4nE",
+      "category": "research-briefings",
+      "tags": [
+        "news",
+        "spacex",
+        "french"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/VYCanisMajori/status/2101150535105544351"
+    },
+    {
       "slug": "orc",
       "name": "orc",
       "author": {
@@ -25916,6 +26089,27 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04"
+    },
+    {
+      "slug": "press",
+      "name": "Press",
+      "author": {
+        "name": "Code Solutions",
+        "url": "https://x.com/CodeSolutionsIL"
+      },
+      "summary": "Runs a final quality gate on a confirmed draft and posts only after the user gives explicit approval",
+      "summary_zh": "对确认稿做最后质检，展示准确文本，得到明确同意后才发布",
+      "import": "https://x.ai/bot/MZxv2GSWzNh8mXfMB0xla",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "publishing",
+        "approval"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/CodeSolutionsIL/status/2101209944825458770"
     },
     {
       "slug": "price-error-agent",
@@ -32338,6 +32532,27 @@
       "updated": "2026-09-13"
     },
     {
+      "slug": "summarize-bot",
+      "name": "Summarize Bot",
+      "author": {
+        "name": "Vincent Peng",
+        "url": "https://x.com/_VincentPeng"
+      },
+      "summary": "Summarizes web pages, videos, PDFs, images, and pasted text into a short chat gist",
+      "summary_zh": "把网页视频 PDF 图片和粘贴文字整理成简短的聊天摘要",
+      "import": "https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7",
+      "category": "research-briefings",
+      "tags": [
+        "summaries",
+        "research",
+        "media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/_VincentPeng/status/2101214058431058358"
+    },
+    {
       "slug": "sumosign",
       "name": "SumoSign",
       "author": {
@@ -32786,6 +33001,28 @@
       "updated": "2026-09-13",
       "related": "https://grokbot.dev/marketplace/task-farming/",
       "source": "https://x.com/scottxmetcalf/status/2098802349649387896"
+    },
+    {
+      "slug": "tax-harbor",
+      "name": "Tax Harbor",
+      "author": {
+        "name": "R. Garrick",
+        "url": "https://x.com/RGarrick2"
+      },
+      "summary": "Weekly tax-year brief for households without a W-2, covering income, IRMAA, RMDs, and deductions",
+      "summary_zh": "为没有 W-2 的家庭每周梳理收入 IRMAA RMD 和扣除项等税务年度信息",
+      "import": "https://x.ai/bot/KxgpoMk2AH230cNwYUCcU",
+      "category": "finance-ops",
+      "tags": [
+        "tax",
+        "retirement",
+        "finance",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/RGarrick2/status/2101129085149696420"
     },
     {
       "slug": "taxx",
@@ -33246,6 +33483,28 @@
       "verified": false,
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/testys"
+    },
+    {
+      "slug": "texas-pro-se-legal-matters",
+      "name": "Texas Pro Se Legal Matters",
+      "author": {
+        "name": "Lovable",
+        "url": "https://x.com/_lovablecurves"
+      },
+      "summary": "Texas case-management hub for dockets, deadlines, filing nudges, and document shelves",
+      "summary_zh": "德州自诉案件管理中心，整理案卷期限提交提醒和文件架",
+      "import": "https://x.ai/bot/uV8ZjlR6ehlZ074hdvXG8",
+      "category": "personal-admin",
+      "tags": [
+        "legal",
+        "texas",
+        "deadlines",
+        "documents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/_lovablecurves/status/2101141197821505633"
     },
     {
       "slug": "text-cleanup",
@@ -34654,6 +34913,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30"
+    },
+    {
+      "slug": "travel-influencer-outreach",
+      "name": "Travel Influencer Outreach",
+      "author": {
+        "name": "Lovable",
+        "url": "https://x.com/_lovablecurves"
+      },
+      "summary": "Pitches travel brands for lodging-for-content deals and plans follow-up Reels for creators",
+      "summary_zh": "向旅行品牌争取住宿换内容合作，跟进回复并为创作者规划 Reels",
+      "import": "https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd",
+      "category": "customer-sales",
+      "tags": [
+        "travel",
+        "outreach",
+        "creator",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/_lovablecurves/status/2101139367091736589"
     },
     {
       "slug": "tray",

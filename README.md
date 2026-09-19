@@ -77,16 +77,16 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | Category | Listed |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 241 |
-| [Inbox & calendar](#inbox--calendar) | 64 |
-| [Research & briefings](#research--briefings) | 219 |
-| [Customer & sales](#customer--sales) | 179 |
-| [Finance & ops](#finance--ops) | 222 |
-| [Content & publishing](#content--publishing) | 218 |
-| [Personal admin](#personal-admin) | 416 |
-| [Teams & handoffs](#teams--handoffs) | 228 |
-| **Total** | **1787** |
+| [Inbox & calendar](#inbox--calendar) | 66 |
+| [Research & briefings](#research--briefings) | 221 |
+| [Customer & sales](#customer--sales) | 182 |
+| [Finance & ops](#finance--ops) | 223 |
+| [Content & publishing](#content--publishing) | 220 |
+| [Personal admin](#personal-admin) | 418 |
+| [Teams & handoffs](#teams--handoffs) | 229 |
+| **Total** | **1800** |
 
-All 1787 share pages returned HTTP 200 on 19 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1787 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1800 share pages returned HTTP 200 on 19 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1800 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -524,6 +524,8 @@ One share is one bot. Assemble the roster yourself.
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) - A household chief of staff for family plans, school and home admin. [clairevo](https://x.com/clairevo).
 - [WhatsApp Digest](https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-) - Read-only daily summary of busy WhatsApp groups. Never sends. [PetrusJvR](https://x.com/PetrusJvR).
 - [Writing Bot](https://x.ai/bot/wtq-j01kD7o8gQFx7E9zv) - A writing partner for drafting and revising essays, emails, docs, and other prose. It uses a structured revision workflow so the result is clearer and... [mattyp](https://x.com/mattyp).
+- [CEO Morning Secretary](https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX) - A weekday CEO brief that reads the calendar and important mail aloud, with routine-ready drafts. [jy Kim](https://x.com/JyKim90832).
+- [Daili](https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X) - Morning briefs with calendar, weather, important mail, live connectors, and a weekly outlook. [Paul L. McNeely](https://x.com/McNeely).
 
 ## Research & briefings
 
@@ -746,6 +748,8 @@ One share is one bot. Assemble the roster yourself.
 - [Zettelkasten](https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c) - A slip-box partner for an Obsidian vault that files atomic notes only after you say yes. [pohlipit](https://x.com/pohlipit).
 - [左左的AI情报员](https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt) - Chinese AI intel daily from a fixed 46-source list with verify, dedupe, and importance scoring. [左左](https://x.com/zuoyou_ai).
 - [Zxn News Conservative](https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb) - Conservative-leaning news assistant for daily digests, breaking alerts, and deep dives on politics, economy, and foreign policy. [ZhpXnewsbhcsn](https://x.com/zxnbluehandus).
+- [Orbit Brief](https://x.ai/bot/EkX7yjLCie8Phae6Fh4nE) - French morning desk for sourced SpaceX, Grok Bot, orbital architecture, and debris updates. [V.Y@n](https://x.com/VYCanisMajori).
+- [Summarize Bot](https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7) - Summarizes web pages, videos, PDFs, images, and pasted text into a short chat gist. [Vincent Peng](https://x.com/_VincentPeng).
 
 ## Customer & sales
 
@@ -928,6 +932,9 @@ One share is one bot. Assemble the roster yourself.
 - [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) - Marketing lead built around X Ads, X Premium Business, and Grok. Runs growth for any founder’s products — decisions and results only, automated where. [Joe](https://x.com/JoeSimo).
 - [YR Mailchimp](https://x.ai/bot/lcGQv8_I7UvJEWs3833LR) - Drafts a Young Republicans club monthly member email and meeting-night reminder in Mailchimp. [BastropYR](https://x.com/BastropYR).
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) - Coordinates a specialist bot team for a social photo app: Scout world moments, Marketing, Social, Idea Lab, and Knowledge. Keeps lanes clear and growth. [zealt_today](https://x.com/zealt_today).
+- [Fulcrum](https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH) - Draft-only X reply and quote opportunities ranked for high-fit organic outreach. [Code Solutions](https://x.com/CodeSolutionsIL).
+- [LinkedIn Lead Outreach](https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD) - Tracks LinkedIn lead-magnet comments, drafts replies and DMs, and accepts connections with caps. [Ethan Lee](https://x.com/ethan_leee9113).
+- [Travel Influencer Outreach](https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd) - Pitches travel brands for lodging-for-content deals and plans follow-up Reels for creators. [Lovable](https://x.com/_lovablecurves).
 
 ## Finance & ops
 
@@ -1153,6 +1160,7 @@ One share is one bot. Assemble the roster yourself.
 - [YieldSentinel A2H](https://x.ai/bot/RFXogCwTbb2mUODW6rfVe) - Checks one DeFi yield position against rules you set before you commit. [MyEnsNames](https://x.com/MyEnsNames).
 - [YVenture Bot](https://x.ai/bot/502iRcu35kF-eyMr7M1dZ) - Calm stepwise startup strategist from idea through early ops. [kittenworth](https://x.com/kittenworth).
 - [账单进口](https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH) - Imports WeChat and Alipay bill CSV or screenshots into a ledger after you confirm the preview. Tony.
+- [Tax Harbor](https://x.ai/bot/KxgpoMk2AH230cNwYUCcU) - Weekly tax-year brief for households without a W-2, covering income, IRMAA, RMDs, and deductions. [R. Garrick](https://x.com/RGarrick2).
 
 ## Content & publishing
 
@@ -1374,6 +1382,8 @@ One share is one bot. Assemble the roster yourself.
 - [YouTube Soft-PASS Ops](https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8) - Private-first YouTube music releases with your OK before public, plus DistroKid prep and one Short. [EricChez](https://x.com/EricChez).
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) - Produces a complete track from a style note and a set of words, running the music model on your own Apple-silicon hardware instead of in somebody else's…. [monomyth](https://x.com/monomyth).
 - [Zillow Bot](https://x.ai/bot/y4iQpd9VSjs_h8FCPF5Up) - Finds for-rent-by-owner apartments, townhouses, and houses, filters out realtor and property-management listings, looks up missing landlord phones, and. [DylanRavin82531](https://x.com/DylanRavin82531).
+- [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) - Finds sibling #argonaut threads on X and appends one line to a branching multiverse epic. [BW](https://x.com/open_brady).
+- [Press](https://x.ai/bot/MZxv2GSWzNh8mXfMB0xla) - Runs a final quality gate on a confirmed draft and posts only after the user gives explicit approval. [Code Solutions](https://x.com/CodeSolutionsIL).
 
 ## Personal admin
 
@@ -1793,6 +1803,8 @@ One share is one bot. Assemble the roster yourself.
 - [小红书参与抽奖助手](https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP) - Finds Xiaohongshu giveaways, does the four-step entry, and logs them in Notion. [selinqi](https://x.com/selinqi).
 - [YC Startup Job Applier](https://x.ai/bot/COQAlYvqDNehPSHDBt-6z) - Fills in your Work at a Startup profile and messages founders, within your limits. [fwhittington_24](https://x.com/fwhittington_24).
 - [Yolk](https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh) - A Tamagotchi egg in your sidebar that wants feeding four times a day. [jp_costa](https://x.com/jp_costa).
+- [Done](https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK) - Closes everyday errands from comparison through booking, confirmation, and calendar proof. [Paulo Pereira](https://x.com/paulovitorjp).
+- [Texas Pro Se Legal Matters](https://x.ai/bot/uV8ZjlR6ehlZ074hdvXG8) - Texas case-management hub for dockets, deadlines, filing nudges, and document shelves. [Lovable](https://x.com/_lovablecurves).
 
 ## Teams & handoffs
 
@@ -2024,6 +2036,7 @@ One share is one bot. Assemble the roster yourself.
 - [X Scout](https://x.ai/bot/4iz8VYK_cG482_vIA8WR4) - Weekday scout for Grok Bot use cases on X, then asks which to add. [ericzakariasson](https://x.com/ericzakariasson).
 - [X调度员](https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5) - Sends X tasks down the cheaper route so your developer credits last longer. [cgnot996](https://x.com/cgnot996).
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) - A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go. [Majd](https://x.com/MajdKaid).
+- [Large Event Ops Bot](https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3) - Runs fundraiser and awards-night operations with inbox, commitments, sheets, and reminders. [Lovable](https://x.com/_lovablecurves).
 
 ## Skills and tools
 
