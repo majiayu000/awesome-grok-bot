@@ -29329,6 +29329,28 @@
       "updated": "2026-09-01"
     },
     {
+      "slug": "schoolbag",
+      "name": "Schoolbag",
+      "author": {
+        "name": "Seth",
+        "url": "https://x.com/SethBuildsAI"
+      },
+      "summary": "Watches school mail and calendar, then lists what is due such as forms, permission slips, and field trips",
+      "summary_zh": "盯学校邮件和日历，列出待签表格、许可条与郊游等截止事项",
+      "import": "https://x.ai/bot/32Lf0iXCnPDE5n5eZp3he",
+      "category": "inbox-calendar",
+      "tags": [
+        "school",
+        "email",
+        "calendar",
+        "parents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/SethBuildsAI/status/2101272638639202349"
+    },
+    {
       "slug": "scientific-realism",
       "name": "Scientific Realism",
       "author": {
@@ -33189,6 +33211,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18"
+    },
+    {
+      "slug": "teeny-squigz",
+      "name": "Teeny Squigz",
+      "author": {
+        "name": "Ξ",
+        "url": "https://x.com/elizrdrake"
+      },
+      "summary": "Bratty desktop buddy that nudges you to check email and helps you actually deal with it",
+      "summary_zh": "会催你查邮件并帮你处理的桌面小助手",
+      "import": "https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "personal",
+        "desktop",
+        "nudge"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-19",
+      "source": "https://x.com/elizrdrake/status/2101280955948560651"
     },
     {
       "slug": "telnyx",

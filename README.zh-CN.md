@@ -77,16 +77,16 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | 分类 | 收录数 |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 241 |
-| [Inbox & calendar](#inbox--calendar) | 66 |
+| [Inbox & calendar](#inbox--calendar) | 68 |
 | [Research & briefings](#research--briefings) | 221 |
 | [Customer & sales](#customer--sales) | 182 |
 | [Finance & ops](#finance--ops) | 223 |
 | [Content & publishing](#content--publishing) | 220 |
 | [Personal admin](#personal-admin) | 418 |
 | [Teams & handoffs](#teams--handoffs) | 229 |
-| **合计** | **1800** |
+| **合计** | **1802** |
 
-2026 年 9 月 19 日检查时，1800 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1800 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 19 日检查时，1800 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1802 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -514,10 +514,12 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Receipt Scanner / Expense Tracking](https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp) - 转发一张收据，它就变成报销表里的一行。 [limeunfiltered](https://x.com/limeunfiltered).
 - [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) - 接住那些永远写不进日历的小提醒。 [Damon](https://x.com/damonchen).
 - [Rocky](https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf) - 按口味找本地即将开演的演出，并写入日历. [astrohoff](https://x.com/astrohoff).
+- [Schoolbag](https://x.ai/bot/32Lf0iXCnPDE5n5eZp3he) - 盯学校邮件和日历，列出待签表格、许可条与郊游等截止事项. [Seth](https://x.com/SethBuildsAI).
 - [Ship Note](https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL) - 把一次发布收成更新日志条目和一封邮件。 [sol_wright7](https://x.com/sol_wright7).
 - [slack radar](https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak) - 安静读 Slack，只在被点名或盯着的话题真正需要你时提醒。 [parkersmith](https://x.com/parkersmith).
 - [Slacker](https://x.ai/bot/R-TSImHItwbFHL8vYj9sc) - 把 Slack 收成真正需要你回的那几条。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Space x Launch Bot](https://x.ai/bot/l7bhF020vKEQ-Gh7lTWSJ) - 端到端跟踪 SpaceX 发射，含即将日程、倒计时窗口、取消与回收. [WasAcop](https://x.com/WasAcop).
+- [Teeny Squigz](https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2) - 会催你查邮件并帮你处理的桌面小助手. [Ξ](https://x.com/elizrdrake).
 - [TenderYearsbot](https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07) - 从 Gmail、日历和 Tender Years 里管五岁以下娃的家务物流。 [voeliz](https://x.com/voeliz).
 - [The Morning Newspaper](https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di) - 夜里读收件箱和日程，排成一张小报，早餐前打出来。 [CodeChap](https://x.com/CodeChap).
 - [Time Keeper](https://x.ai/bot/IAEp851k9orM1LguTm2F8) - 用早间议程和夜间预览把一天夹住。 [Mark](https://x.com/ironted21).
