@@ -30,6 +30,10 @@ Do not submit unpublished bots. `import` must be a live share link. Do not inven
 
 `verified: true` only after a maintainer imported the share and ran a documented safe first task. Submitters leave it false.
 
+## shelf
+
+`shelf` is editorial navigation (`featured`, `solid`, `studio-door`, `aka`, `raw`). Submitters leave it `raw`. Maintainers re-run `node scripts/apply-shelf.mjs` after bulk ingest. Reachable is not the same as safe; `verified` stays separate.
+
 Skills can fail to travel (preview shows them, export ships `skills: []`).
 
 ## Categories

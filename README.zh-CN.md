@@ -19,6 +19,7 @@
 - [怎么用](#怎么用)
   - [先试这几个](#先试这几个)
   - [按工作类型找](#按工作类型找)
+  - [工作室门](docs/studio-doors.md)
 - [真人案例](#真人案例)
   - [编制](#编制)
   - [电脑上手活](#电脑上手活)
@@ -65,10 +66,30 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 先加一个。打开分享，点 Add，跑一次只读任务。
 
-- **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · 把长视频和播客转成能搜可读的中文文稿。
+- **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · 把长视频和播客转成能搜可读的中文文稿，顺手捞公开论文。
 - **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · 每天查一遍搜索引擎里新冒出来的你的公开信息。
 - **[AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f)** · 把一张照片做成一小段有情绪的短片。
 - **[Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7)** · 每天送来几条大板子上看不到的早期岗位。
+- **[推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg)** · 给 X 日更搭选题库、草稿、发布时段和复盘，发布键仍由你按。
+- **[薅羊毛 (Wool Radar)](https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w)** · 只盯你真会买的东西和订阅优惠，没合适的就闭嘴。
+- **[记账管家](https://x.ai/bot/WW-UbmTKXn79q0yXapvJE)** · 用文字、小票截图或语音入账的私人账本，可选同步飞书多维表。
+- **[X Algo](https://x.ai/bot/W0LrVwNwsRHhFY4PG7586)** · 告诉你现在该发帖、引用，还是先别动。
+- **[X Ops Expert](https://x.ai/bot/fePZGiWiTZP9n4BoKIlMY)** · 给建造者做 X 增长运营，含日报、选题库，草稿需你确认再发。
+- **[Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ)** · 把带着 AI 腔的草稿改成读起来像人写的。
+- **[产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr)** · 按固定节奏交出可直接发的产品推广文案。
+- **[SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0)** · 翻你的邮箱，揪出在悄悄扣费的订阅，并指名该砍哪些。
+- **[Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf)** · 翻邮件和账单，找你从没追过的退款和额度。
+- **[Gmail Bot](https://x.ai/bot/4Kert6xnfaArPgZmyJi5M)** · 工作日早晨未读摘要、按你的口吻拟稿、分拣标签/垃圾。
+- **[Token Efficiency Optimizer](https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa)** · 在多烧额度也改变不了重置时拦住浪费跑次，提出削减并默认控花，需你明确同意才放开。
+- **[Raven](https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs)** · 毒舌营养教练，文字或照片记一餐，估热量蛋白并对着目标累计。
+- **[Nourishment](https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK)** · 健康吃饭教练，看冰箱和橱柜照片，用现有食材出菜谱，并按预算列采购单。
+- **[Home Hunter](https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I)** · 第一次对话就锁定城市预算户型和通勤，之后每天默默扫房源直到你选定。
+- **[Flight Deal Assistant](https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM)** · 按权衡而不是只看最便宜来查找和比较机票。
+- **[Prospect Drafts](https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t)** · 按地区、行业和你的报价找合适潜客，再用你的口吻写好首封 Gmail 草稿，由你发送。
+
+[catalog.json](catalog.json) 里的 `shelf` 是编辑导航（featured、solid、studio-door、aka、raw）。能打开不等于安全。`verified` 是另一套维护者核验标记。
+
+工作室门（调度、安装器、前台）共 **119** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
 
 完整列表在下面，按活分类。真人案例和踩坑在链接墙上面。
 

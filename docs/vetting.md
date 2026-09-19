@@ -25,3 +25,7 @@ Do not leave an hourly routine on after a trial unless you meant to.
 ## verified
 
 `verified: true` only after a maintainer imported the share and ran a documented safe first task. Rows in the README without that flag are reachable share pages we have not yet run.
+
+## shelf
+
+`shelf` (featured / solid / studio-door / aka / raw) is editorial navigation only. Submitters leave new rows `raw`. Reachable share pages are not automatically safe; `verified` is the separate maintainer flag after an import and a documented safe first task.

@@ -231,4 +231,11 @@ for (const readmeName of ["README.md", "README.zh-CN.md"]) {
   if (!text.includes(status)) fail(`${readmeName}: missing or stale review status: ${status}`);
 }
 
-console.log(`OK ${catalog.entries.length} entries`);
+const shelfCounts = { featured: 0, solid: 0, "studio-door": 0, aka: 0, raw: 0 };
+for (const entry of catalog.entries) {
+  if (!(entry.shelf in shelfCounts)) fail(`catalog.json:${entry.slug}: unexpected shelf ${entry.shelf}`);
+  shelfCounts[entry.shelf]++;
+}
+console.log(
+  `OK ${catalog.entries.length} entries (featured ${shelfCounts.featured}, solid ${shelfCounts.solid}, studio-door ${shelfCounts["studio-door"]}, aka ${shelfCounts.aka}, raw ${shelfCounts.raw})`
+);

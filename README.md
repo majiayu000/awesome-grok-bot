@@ -19,6 +19,7 @@
 - [How to use](#how-to-use)
   - [Try these first](#try-these-first)
   - [Browse by job](#browse-by-job)
+  - [Studio doors](docs/studio-doors.md)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)
   - [Computer-use jobs](#computer-use-jobs)
@@ -69,6 +70,26 @@ Start with one share. Open it, hit Add, run a read-only task.
 - **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · Daily search-engine check for what is newly public about you.
 - **[AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f)** · Turns one photograph into a short, moody film clip.
 - **[Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7)** · Daily handful of early-stage jobs the big boards miss.
+- **[推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg)** · A daily X posting system for ideas, drafts, timing, and review.
+- **[薅羊毛 (Wool Radar)](https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w)** · Watches for deals on things you actually buy, and stays quiet otherwise.
+- **[记账管家](https://x.ai/bot/WW-UbmTKXn79q0yXapvJE)** · Private ledger fed by text, receipt photos, or voice notes, with optional Feishu sync.
+- **[X Algo](https://x.ai/bot/W0LrVwNwsRHhFY4PG7586)** · Tells you whether to post now, quote something, or sit tight.
+- **[X Ops Expert](https://x.ai/bot/fePZGiWiTZP9n4BoKIlMY)** · X growth ops for builders with daily review, topic bank, and gated drafts.
+- **[Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ)** · Rewrites AI-sounding drafts into copy that reads like a person.
+- **[产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr)** · Hands you ready-to-post promo copy for your product on a fixed rhythm.
+- **[SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0)** · Audits your email for silent subscription drain and names what to cut.
+- **[Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf)** · Digs through your email and bills for refunds and credits you never chased.
+- **[Gmail Bot](https://x.ai/bot/4Kert6xnfaArPgZmyJi5M)** · Weekday morning unread digests, drafts in your voice, triage labels/trash.
+- **[Token Efficiency Optimizer](https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa)** · Stops wasteful runs when more burn will not change the reset, proposes cuts, and holds spend until you exact-yes an override.
+- **[Raven](https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs)** · A sharp nutrition coach that logs meals from text or a photo.
+- **[Nourishment](https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK)** · Healthy-eating coach that reads fridge and pantry photos, builds recipes from what you have, and shops to a budget.
+- **[Home Hunter](https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I)** · Locks city, budget, beds and commute on first chat, then quietly scans listings daily until you pick a place.
+- **[Flight Deal Assistant](https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM)** · Finds and compares flight deals by trade-offs, not just cheapest.
+- **[Prospect Drafts](https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t)** · Finds fit prospects by geography, industry, and offer, then drafts first-touch Gmail notes in your voice.
+
+`shelf` in [catalog.json](catalog.json) is editorial navigation (featured, solid, studio-door, aka, raw). Reachable is not the same as safe. `verified` is a separate maintainer flag.
+
+Studio doors (orchestrators, installers, front desks): **119** listed in [docs/studio-doors.md](docs/studio-doors.md).
 
 The full list is below, grouped by job. Field cases and gotchas sit above the wall of links.
 
