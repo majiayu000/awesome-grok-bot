@@ -102,16 +102,16 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | 分类 | 收录数 |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 251 |
-| [Inbox & calendar](#inbox--calendar) | 69 |
+| [Inbox & calendar](#inbox--calendar) | 70 |
 | [Research & briefings](#research--briefings) | 227 |
 | [Customer & sales](#customer--sales) | 185 |
 | [Finance & ops](#finance--ops) | 228 |
-| [Content & publishing](#content--publishing) | 226 |
+| [Content & publishing](#content--publishing) | 227 |
 | [Personal admin](#personal-admin) | 430 |
 | [Teams & handoffs](#teams--handoffs) | 238 |
-| **合计** | **1854** |
+| **合计** | **1856** |
 
-2026 年 9 月 20 日检查时，1854 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1854 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 20 日检查时，1856 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1856 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -502,6 +502,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Calendar Manager](https://x.ai/bot/VIWAQ6LqFOoqR72jD3OVO) - 你的 Google 日历桌，按需简报、排期、回复邀请，并检查个人与家庭共享日历冲突. [Nick](https://x.com/Tinman346).
 - [CampusOps](https://x.ai/bot/vluD5Z1bUux-onnEk1Alg) - 把教学大纲收成能跟着走的周计划。 [klytron_dev](https://x.com/klytron_dev).
 - [CEO Morning Secretary](https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX) - 工作日为 CEO 整理日程和重要邮件并朗读，草稿可交给例行任务处理. [jy Kim](https://x.com/JyKim90832).
+- [CEO용 아침 비서](https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z) - 非开发 CEO 的韩语工作日晨间简报，压缩日程与待决邮件，发送支付发布都要你确认. [jy Kim](https://x.com/JyKim90832).
 - [Chief](https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI) - 工作日早上分诊收件箱、日历和待回复。 [SmoresBoy](https://x.com/jxckvibe).
 - [Chief of Staff](https://x.ai/bot/3lMMBN3oSETGdsbo9xDh7) - 一天的前门，协调日历与邮件，决策时才拉你，并帮你管专家机器人. [AngeloGordilloX](https://x.com/AngeloGordilloX).
 - [Chief of Staff](https://x.ai/bot/IqLFMirip0OoP8XWVyCAV) - 给忙人的常驻幕僚长，从 Slack、邮件、日历与笔记拉新事，映射到你的优先级，并委派给合适的人. [jimit_shah](https://x.com/jimit_shah).
@@ -1310,6 +1311,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Lead Sheet / Music](https://x.ai/bot/_q5DAgD3--Z4osAVP3Qbg) - 按你的简报做出主旋律谱与编配。 [JeffreyMelvin](https://x.com/JeffreyMelvin).
 - [Learn (Math & ML Video Teacher)](https://x.ai/bot/s5JszATSty0w-uDTw_NzK) - 从第一性原理做课，再渲成动画讲解。 [JeffreyLind](https://x.com/JeffreyLind).
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) - 用 Lenny Rachitsky 自己的档案回答产品和增长问题。 [lennysan](https://x.com/lennysan).
+- [Lighting Specialist](https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA) - 剧场与建筑照明设计助手，覆盖灯具、光度、DMX/sACN/Art-Net、图纸与规范向规格. [kmkonline](https://x.com/kmkonline).
 - [Likeness](https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD) - 用照片或片段锁住某个具体的人或动物，后面生成的图和视频还像他们。 [Knock](https://x.com/SuddenlyJon).
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) - 把每条 YouTube 上传当成一个必须兑现的承诺来策划。 [Gabriel](https://x.com/gabe_onchain).
 - [LinkedIn Deck Desk](https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR) - 把通讯稿做成过质检的 LinkedIn 轮播图，再排进 Buffer。 [pareshdesai](https://x.com/pareshdesai).

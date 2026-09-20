@@ -102,16 +102,16 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | Category | Listed |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 251 |
-| [Inbox & calendar](#inbox--calendar) | 69 |
+| [Inbox & calendar](#inbox--calendar) | 70 |
 | [Research & briefings](#research--briefings) | 227 |
 | [Customer & sales](#customer--sales) | 185 |
 | [Finance & ops](#finance--ops) | 228 |
-| [Content & publishing](#content--publishing) | 226 |
+| [Content & publishing](#content--publishing) | 227 |
 | [Personal admin](#personal-admin) | 430 |
 | [Teams & handoffs](#teams--handoffs) | 238 |
-| **Total** | **1854** |
+| **Total** | **1856** |
 
-All 1854 share pages returned HTTP 200 on 20 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1854 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1856 share pages returned HTTP 200 on 20 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1856 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -502,6 +502,7 @@ One share is one bot. Assemble the roster yourself.
 - [Calendar Manager](https://x.ai/bot/VIWAQ6LqFOoqR72jD3OVO) - Your calendar desk for Google Calendar. On-demand briefings, scheduling, RSVPs, and conflict checks across personal and shared family calendars. [Nick](https://x.com/Tinman346).
 - [CampusOps](https://x.ai/bot/vluD5Z1bUux-onnEk1Alg) - Turns your syllabi into a week-by-week study plan you can actually follow. [klytron_dev](https://x.com/klytron_dev).
 - [CEO Morning Secretary](https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX) - A weekday CEO brief that reads the calendar and important mail aloud, with routine-ready drafts. [jy Kim](https://x.com/JyKim90832).
+- [CEO용 아침 비서](https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z) - Weekday Korean-language CEO brief that shortlists calendar and decision mail, with send/pay/publish only after you confirm. [jy Kim](https://x.com/JyKim90832).
 - [Chief](https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI) - Weekday-morning triage of your inbox, your calendar and your replies. [SmoresBoy](https://x.com/jxckvibe).
 - [Chief of Staff](https://x.ai/bot/3lMMBN3oSETGdsbo9xDh7) - Front door for your day: coordinates calendar and email, pulls you in for decisions, and helps manage specialist bots. For founders and operators. [AngeloGordilloX](https://x.com/AngeloGordilloX).
 - [Chief of Staff](https://x.ai/bot/IqLFMirip0OoP8XWVyCAV) - Always-on chief of staff for busy people. Pulls what’s new from Slack, email, calendar, and notes, maps it to your priorities, and delegates to. [jimit_shah](https://x.com/jimit_shah).
@@ -1310,6 +1311,7 @@ One share is one bot. Assemble the roster yourself.
 - [Lead Sheet / Music](https://x.ai/bot/_q5DAgD3--Z4osAVP3Qbg) - Builds lead sheets and music arrangements from your brief. [JeffreyMelvin](https://x.com/JeffreyMelvin).
 - [Learn (Math & ML Video Teacher)](https://x.ai/bot/s5JszATSty0w-uDTw_NzK) - Builds first-principles lessons and renders them as animated explainers. [JeffreyLind](https://x.com/JeffreyLind).
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) - Answers product and growth questions from Lenny Rachitsky's own archive. [lennysan](https://x.com/lennysan).
+- [Lighting Specialist](https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA) - Senior lighting designer for theatrical and architectural work covering fixtures, photometrics, DMX/sACN/Art-Net, plots, and code-aware specs. [kmkonline](https://x.com/kmkonline).
 - [Likeness](https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD) - Locks a named person or animal from photos or a clip so later stills and clips still look like them. [Knock](https://x.com/SuddenlyJon).
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) - Plans each YouTube upload as one promise the video has to keep. [Gabriel](https://x.com/gabe_onchain).
 - [LinkedIn Deck Desk](https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR) - Turns a newsletter into a checked LinkedIn carousel and queues it in Buffer. [pareshdesai](https://x.com/pareshdesai).

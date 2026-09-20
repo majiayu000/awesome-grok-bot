@@ -4871,6 +4871,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "ceo-morning-secretary-ko",
+      "name": "CEO용 아침 비서",
+      "author": {
+        "name": "jy Kim",
+        "url": "https://x.com/JyKim90832"
+      },
+      "summary": "Weekday Korean-language CEO brief that shortlists calendar and decision mail, with send/pay/publish only after you confirm",
+      "summary_zh": "非开发 CEO 的韩语工作日晨间简报，压缩日程与待决邮件，发送支付发布都要你确认",
+      "import": "https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z",
+      "category": "inbox-calendar",
+      "tags": [
+        "executive",
+        "briefing",
+        "korean",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/JyKim90832/status/2101633022197911828"
+    },
+    {
       "slug": "certainty-tax",
       "name": "Certainty Tax",
       "author": {
@@ -21667,6 +21690,29 @@
       "verified": false,
       "updated": "2026-09-18",
       "shelf": "raw"
+    },
+    {
+      "slug": "lighting-specialist",
+      "name": "Lighting Specialist",
+      "author": {
+        "name": "kmkonline",
+        "url": "https://x.com/kmkonline"
+      },
+      "summary": "Senior lighting designer for theatrical and architectural work covering fixtures, photometrics, DMX/sACN/Art-Net, plots, and code-aware specs",
+      "summary_zh": "剧场与建筑照明设计助手，覆盖灯具、光度、DMX/sACN/Art-Net、图纸与规范向规格",
+      "import": "https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA",
+      "category": "content-publishing",
+      "tags": [
+        "lighting",
+        "theatre",
+        "dmx",
+        "architecture"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/kmkonline/status/2101593722433745384"
     },
     {
       "slug": "liked-bands",
