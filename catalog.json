@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T01:10:02.257Z",
+  "generated": "2026-09-20",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -2372,6 +2372,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "astronomer",
+      "name": "Astronomer",
+      "author": {
+        "name": "DombiGato",
+        "url": "https://x.com/DombiGato"
+      },
+      "summary": "AI astronomy expert and observing companion for tonight’s targets, gear, and site tradeoffs",
+      "summary_zh": "天文观测伴侣，帮你定今晚目标、望远镜与是否值得跑暗点",
+      "import": "https://x.ai/bot/9orqw_IrUDeEaHo-w68j3",
+      "category": "research-briefings",
+      "tags": [
+        "astronomy",
+        "observing",
+        "research",
+        "night"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/DombiGato/status/2101534232946552984"
     },
     {
       "slug": "atlas-four-desks-switchboard",
@@ -12991,6 +13014,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "fashion-stylist",
+      "name": "Fashion Stylist",
+      "author": {
+        "name": "JennyMarquis",
+        "url": "https://x.com/JennyMarquis"
+      },
+      "summary": "Builds a virtual closet from photos with try-ons, outfit videos, assets, and a Style File",
+      "summary_zh": "用照片建虚拟衣橱，做试穿对比视频、单品素材与个人风格档案",
+      "import": "https://x.ai/bot/jaT7Eye5M1SvLygfLKmOq",
+      "category": "content-publishing",
+      "tags": [
+        "fashion",
+        "closet",
+        "try-on",
+        "style"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/JennyMarquis/status/2101576393662279942"
+    },
+    {
       "slug": "fed-x-brief",
       "name": "Fed + X Brief",
       "author": {
@@ -15634,6 +15680,29 @@
       "verified": false,
       "updated": "2026-09-02",
       "shelf": "raw"
+    },
+    {
+      "slug": "grok-bot-troubleshooter",
+      "name": "Grok Bot Troubleshooter",
+      "author": {
+        "name": "btgraham5",
+        "url": "https://x.com/btgraham5"
+      },
+      "summary": "Unsticks org Grok Bot specialists with diagnosis, next steps, and follow-through until fixed",
+      "summary_zh": "帮组织里卡住的 Grok Bot 专科排障，给下一步并跟到修好",
+      "import": "https://x.ai/bot/oJmfUiZ-BKe_Uzzbyl16y",
+      "category": "teams-handoffs",
+      "tags": [
+        "troubleshoot",
+        "ops",
+        "bots",
+        "org"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/btgraham5/status/2101499676931297536"
     },
     {
       "slug": "grok-bot-use-case-scout",
@@ -19484,6 +19553,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "jevify",
+      "name": "Jevify",
+      "author": {
+        "name": "bartasurba",
+        "url": "https://x.com/bartasurba"
+      },
+      "summary": "Turns classify/score/check Grok Bots into TypeSafe Jev Fast siblings for batched judgments",
+      "summary_zh": "把分类打分检查类 Grok Bot 收成 TypeSafe Jev Fast，做批量判定",
+      "import": "https://x.ai/bot/BQZO1Huih7uXStkjQ12ld",
+      "category": "coding-shipping",
+      "tags": [
+        "jev",
+        "typesafe",
+        "batch",
+        "devtools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/bartasurba/status/2101510596734910700"
+    },
+    {
       "slug": "ji-yi-guan-jia",
       "name": "记忆管家",
       "author": {
@@ -21193,6 +21285,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "raw"
+    },
+    {
+      "slug": "lee",
+      "name": "Lee",
+      "author": {
+        "name": "GallagherPreach",
+        "url": "https://x.com/GallagherPreach"
+      },
+      "summary": "Cart-first shopping teammate for Amazon, Sam’s Club, and Walmart lists that never checks out alone",
+      "summary_zh": "按清单先组好 Amazon、Sam’s Club、Walmart 购物车，结账前必经你确认",
+      "import": "https://x.ai/bot/QiLYZ-kp5PLnalntJjt9x",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "cart",
+        "retail",
+        "lists"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/GallagherPreach/status/2101502422237552742"
     },
     {
       "slug": "legend-lead-ops",
@@ -36396,6 +36511,30 @@
       "shelf": "raw"
     },
     {
+      "slug": "the-list",
+      "name": "The List",
+      "author": {
+        "name": "GrokBotGod",
+        "url": "https://x.com/GrokBotGod"
+      },
+      "summary": "Three-line in-chat drops when new bots or directory picks land, no email and no drafting",
+      "summary_zh": "新 bot 或目录精选落地时在对话里丢三行提醒，不发邮件也不代写",
+      "import": "https://x.ai/bot/U-eydTXJP7aN4W9dcUL5k",
+      "category": "personal-admin",
+      "tags": [
+        "directory",
+        "monitoring",
+        "newsletter",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/GrokBotGod/status/2101482157436751928",
+      "related": "https://grokbot.dev/marketplace/the-list/"
+    },
+    {
       "slug": "the-morning-newspaper",
       "name": "The Morning Newspaper",
       "author": {
@@ -39512,6 +39651,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "whm-multi-site-ops-bot",
+      "name": "WHM Multi-Site Ops Bot",
+      "author": {
+        "name": "brainflollc",
+        "url": "https://x.com/brainflollc"
+      },
+      "summary": "Watches cPanel/WHM multi-site health, drafts priority digests with fixes, waits for your OK",
+      "summary_zh": "盯 cPanel/WHM 多站健康，写优先摘要与修复建议，等你点头再动",
+      "import": "https://x.ai/bot/ARg7G2NtVZWu1TT05oS2w",
+      "category": "coding-shipping",
+      "tags": [
+        "whm",
+        "cpanel",
+        "ops",
+        "multi-site"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/brainflollc/status/2101525270503256265"
+    },
+    {
       "slug": "who-owns-what",
       "name": "Who-Owns-What",
       "author": {
@@ -40286,6 +40448,29 @@
       "updated": "2026-09-09",
       "source": "https://x.com/mlangXie",
       "shelf": "featured"
+    },
+    {
+      "slug": "x-reply-scout",
+      "name": "X Reply Scout",
+      "author": {
+        "name": "scientists_blog",
+        "url": "https://x.com/scientists_blog"
+      },
+      "summary": "Finds like-minded X accounts and posts to engage, tunes on feedback, never posts as you",
+      "summary_zh": "找同频 X 账号与帖子供你互动，按反馈调偏好，从不代你发帖",
+      "import": "https://x.ai/bot/DRZ2jU1GFwV8HS2_9Y6MA",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "replies",
+        "engagement",
+        "scout"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-20",
+      "shelf": "raw",
+      "source": "https://x.com/scientists_blog/status/2101542606769463504"
     },
     {
       "slug": "x-scout",
