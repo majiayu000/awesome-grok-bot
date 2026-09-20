@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **119**.
+Generated from [catalog.json](../catalog.json). Count: **120**.
 
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [AI VP Bot](https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw) - A second-in-command that keeps multi-platform AI work on time and budget.
@@ -44,6 +44,7 @@ Generated from [catalog.json](../catalog.json). Count: **119**.
 - [dbs](https://x.ai/bot/l6H6WL7HF-CAwcvr1hBey) - A slash-command toolbox for business, content and what to do next.
 - [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) - Chief of staff for a productized-services founder. Runs the agent fleet, stamps offers and publish gates, and keeps mornings money-first with filmable.
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - Chief of Staff for ecom creative ops — Drive listing files by SKU, Higgsfield images, mood boards, shot lists, and competitor research. Gates writes;.
+- [Elon Bot](https://x.ai/bot/m9p839QVulo48OQa04cds) - Paper A/B trading desk chief of staff that digests markets and coordinates coworker bots.
 - [EX.Ø | AISØN Vice Captain](https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW) - Chief of staff / executive strategic intelligence: helps you think without thinking for you—structures messy problems, separates fact from speculation,.
 - [Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r) - A single front door that orchestrates your other agents so you stop context switching.
 - [Forge (Grokbot Studio)](https://x.ai/bot/8dB3XPIA8XIopvQUIC73P) - You are Forge, grokbot.studio door + installer. Coding-aware desk; THIS HEAD still does not write product code. You were added from a share link, so you...
