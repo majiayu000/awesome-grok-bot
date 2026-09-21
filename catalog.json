@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-21",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -365,6 +365,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "ad-umbra",
+      "name": "Ad Umbra",
+      "author": {
+        "name": "elizrdrake",
+        "url": "https://x.com/elizrdrake"
+      },
+      "summary": "Motivational night-shift companion that reframes the daily grind with aspirational energy",
+      "summary_zh": "夜班向励志搭子，把日常苦活说成带一点冲劲的推进",
+      "import": "https://x.ai/bot/jja9KVFn--roWw_lY3fl1",
+      "category": "personal-admin",
+      "tags": [
+        "motivation",
+        "companion"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/elizrdrake/status/2101581662282789219",
+      "related": "https://grokbot.dev/marketplace/ad-umbra/"
+    },
+    {
       "slug": "adam",
       "name": "Adam",
       "author": {
@@ -497,6 +519,28 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "admiral-riker",
+      "name": "Admiral Riker",
+      "author": {
+        "name": "reuben740",
+        "url": "https://x.com/reuben740"
+      },
+      "summary": "Bobiverse-style fleet lead that spins up specialist bots and assigns missions instead of doing every job alone",
+      "summary_zh": "Bobiverse 风舰队长，拉起专长机器人并分派任务，而不是一人包办所有活",
+      "import": "https://x.ai/bot/5I2dvyODEBZ-kevaty6IO",
+      "category": "teams-handoffs",
+      "tags": [
+        "fleet",
+        "orchestration",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/reuben740/status/2101665269017874818"
     },
     {
       "slug": "ads-operator",
@@ -901,6 +945,29 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "agent-manage-bot",
+      "name": "Agent Manage Bot",
+      "author": {
+        "name": "raincoatrun",
+        "url": "https://x.com/raincoatrun"
+      },
+      "summary": "Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work",
+      "summary_zh": "双层代理团队的幕僚长，调度 Grok 机器人与 Mac 命令行，盯住研究与编码流水线",
+      "import": "https://x.ai/bot/XMYbnGwxPJUePeRWYOduO",
+      "category": "teams-handoffs",
+      "tags": [
+        "agents",
+        "orchestration",
+        "cli"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "studio-door",
+      "source": "https://x.com/raincoatrun/status/2101712459564229015",
+      "related": "https://grokbot.dev/marketplace/agent-manage-bot/"
     },
     {
       "slug": "agent-manager",
@@ -1443,6 +1510,29 @@
       "shelf": "aka"
     },
     {
+      "slug": "alfred-3",
+      "name": "Alfred",
+      "author": {
+        "name": "mmmllcadv3",
+        "url": "https://x.com/mmmllcadv3"
+      },
+      "summary": "Cheeky British chief of staff that watches email and Drive, builds daily briefings, and coordinates teammate bots",
+      "summary_zh": "嘴欠的英式幕僚长，盯邮箱与网盘，做每日简报并协调队友机器人",
+      "import": "https://x.ai/bot/moKscJ7PToJw_PVQWvkf_",
+      "category": "teams-handoffs",
+      "tags": [
+        "chief-of-staff",
+        "email",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "studio-door",
+      "source": "https://x.com/mmmllcadv3/status/2101753040415969422",
+      "related": "https://grokbot.dev/marketplace/alfred/"
+    },
+    {
       "slug": "alfred-bot-chief-advisor",
       "name": "Alfred",
       "author": {
@@ -1462,7 +1552,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "alfred-clone",
@@ -1910,6 +2000,28 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "approval-gated-role-desk",
+      "name": "Approval-Gated Role Desk",
+      "author": {
+        "name": "ElloForo8A",
+        "url": "https://x.com/ElloForo8A"
+      },
+      "summary": "Runs research fit-grade and draft for role searches then stops for your OK, never invents credentials or applies alone",
+      "summary_zh": "岗位搜索流水线，研究匹配度与草稿后停住等你确认，不编造履历也不擅自投递",
+      "import": "https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "recruiting",
+        "approval"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/ElloForo8A/status/2101775070029140132"
     },
     {
       "slug": "apps",
@@ -10500,6 +10612,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "dexter-the-home-lab-boss",
+      "name": "Dexter the home lab boss",
+      "author": {
+        "name": "RAMcgi",
+        "url": "https://x.com/RAMcgi"
+      },
+      "summary": "Maps a homelab, recommends how Grok Bot should reach each system, then spins focused specialist bots",
+      "summary_zh": "先摸清家庭实验室拓扑，建议 Grok Bot 怎么接各系统，再按需拉起专长机器人",
+      "import": "https://x.ai/bot/wsyMavZM6PYzV3lgklehG",
+      "category": "coding-shipping",
+      "tags": [
+        "homelab",
+        "ops",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/RAMcgi/status/2101536941321728339",
+      "related": "https://grokbot.dev/marketplace/dexter-the-home-lab-boss/"
+    },
+    {
       "slug": "dial-bot",
       "name": "dial bot",
       "author": {
@@ -12575,6 +12710,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "fail-dig",
+      "name": "Fail Dig",
+      "author": {
+        "name": "jason_bennitt",
+        "url": "https://x.com/jason_bennitt"
+      },
+      "summary": "FOIA-spirit dig into public US equity settlement data for structural smells, not trade advice",
+      "summary_zh": "按公开信息精神挖美国股票结算与空头数据，只找结构异味不做交易建议",
+      "import": "https://x.ai/bot/oEDvMidjbGpncvbLsROau",
+      "category": "research-briefings",
+      "tags": [
+        "markets",
+        "foia",
+        "shorts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/jason_bennitt/status/2101807690003382489",
+      "related": "https://grokbot.dev/marketplace/fail-dig/"
+    },
+    {
       "slug": "failed-link",
       "name": "Failed Link",
       "author": {
@@ -13236,6 +13394,29 @@
       "verified": false,
       "updated": "2026-09-01",
       "shelf": "raw"
+    },
+    {
+      "slug": "file-crawler",
+      "name": "File Crawler",
+      "author": {
+        "name": "Duncan Bob",
+        "url": "https://x.com/DuncanBob4wln"
+      },
+      "summary": "Finds permit and job files in Google Drive and answers with exact source maps for construction admin",
+      "summary_zh": "施工行政助手，在 Google Drive 里找许可证和工地文件，回答时带回可核对的来源路径",
+      "import": "https://x.ai/bot/bNv8Ii8E5LgmB39kN5uyj",
+      "category": "personal-admin",
+      "tags": [
+        "drive",
+        "permits",
+        "construction",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/DuncanBob4wln/status/2101844266699849806"
     },
     {
       "slug": "finance-bro",
@@ -14461,6 +14642,28 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "future-me",
+      "name": "Future Me",
+      "author": {
+        "name": "msunc1985",
+        "url": "https://x.com/msunc1985"
+      },
+      "summary": "Turns a photo into a cinematic 2050 Future Me look while keeping the same face",
+      "summary_zh": "上传照片生成电影感的 2050 未来版自己，脸还是同一张",
+      "import": "https://x.ai/bot/l8UqiLDRnttDGyoHAHNL2",
+      "category": "content-publishing",
+      "tags": [
+        "photo",
+        "future",
+        "image"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/msunc1985/status/2101671200258654631"
     },
     {
       "slug": "galaxy-watcher",
@@ -16881,6 +17084,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "hatch-2",
+      "name": "Hatch",
+      "author": {
+        "name": "TechHandPro",
+        "url": "https://x.com/littletechbird"
+      },
+      "summary": "Designs high-quality Grok Bots by asking preference questions then creating them with CreateAgent",
+      "summary_zh": "先问几句偏好再用 CreateAgent 设计并创建高质量 Grok Bot",
+      "import": "https://x.ai/bot/pUh2vgtmx-vszqjz6EsUB",
+      "category": "coding-shipping",
+      "tags": [
+        "bot-design",
+        "createagent",
+        "meta"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "aka",
+      "source": "https://x.com/littletechbird/status/2101636015782011248"
+    },
+    {
       "slug": "hazelnut-guy",
       "name": "Hazelnut Guy",
       "author": {
@@ -17911,6 +18136,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "hoop-homework",
+      "name": "Hoop Homework",
+      "author": {
+        "name": "SethBuildsAI",
+        "url": "https://x.com/SethBuildsAI"
+      },
+      "summary": "At-home basketball practice cards for parents with age-fit drills for the kid space gear and time budget",
+      "summary_zh": "给家长的居家篮球练习卡，按孩子年龄场地器材和当天时间排出一到三组训练",
+      "import": "https://x.ai/bot/8VmKN9vI4_M5yStOoMP8D",
+      "category": "personal-admin",
+      "tags": [
+        "basketball",
+        "kids",
+        "practice",
+        "parenting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/SethBuildsAI/status/2101718147568988571"
     },
     {
       "slug": "hopper",
@@ -19531,6 +19779,29 @@
       "related": "https://grokbot.dev/marketplace/jev/"
     },
     {
+      "slug": "jev-for-computer-use",
+      "name": "Jev for computer use",
+      "author": {
+        "name": "aris_grivas",
+        "url": "https://x.com/aris_grivas"
+      },
+      "summary": "Automates the web with TypeSafe Jev on a Chrome you can watch, falling back to screenshots when needed",
+      "summary_zh": "用可观看的 Chrome 跑 TypeSafe Jev 做网页自动化，卡住时再回退到截图操控",
+      "import": "https://x.ai/bot/gQD_ZhGhJ_e1aLHc3RPOT",
+      "category": "coding-shipping",
+      "tags": [
+        "computer-use",
+        "jev",
+        "browser"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/aris_grivas/status/2101757997429010581",
+      "related": "https://grokbot.dev/marketplace/jev-for-computer-use/"
+    },
+    {
       "slug": "jev-for-grok-bot",
       "name": "Jev for Grok Bot",
       "author": {
@@ -20150,6 +20421,29 @@
       "updated": "2026-09-19",
       "source": "https://x.com/WorkWithJodi/status/2101113469185474972",
       "shelf": "raw"
+    },
+    {
+      "slug": "kampalo-ads-assistant",
+      "name": "Kampalo ads assistant",
+      "author": {
+        "name": "kampalo",
+        "url": "https://x.com/kampalo"
+      },
+      "summary": "Briefs synced Google Ads, Meta, GA4, and Search Console, then proposes pauses and bids you approve",
+      "summary_zh": "同步 Google Ads、Meta、GA4 与 Search Console 的广告助手，先出简报再提你确认后的暂停与出价",
+      "import": "https://x.ai/bot/-dAZkLt112synO5muBOcp",
+      "category": "customer-sales",
+      "tags": [
+        "ads",
+        "seo",
+        "meta",
+        "ga4"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "related": "https://grokbot.dev/marketplace/kampalo-ads-assistant/"
     },
     {
       "slug": "kantan-touki",
@@ -25178,6 +25472,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "notion",
+      "name": "Notion",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Company-knowledge specialist for Notion that cites real pages and drafts updates without publishing unless you OK",
+      "summary_zh": "Notion 公司知识助手，引用真实页面并起草更新，未获你确认不发布不移动不删除",
+      "import": "https://x.ai/bot/-p3E1-AtfuoYitjQaBMVC",
+      "category": "teams-handoffs",
+      "tags": [
+        "notion",
+        "knowledge",
+        "docs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/scottxmetcalf/status/2101696695981494475",
+      "related": "https://grokbot.dev/marketplace/notion/"
+    },
+    {
       "slug": "nourishment",
       "name": "Nourishment",
       "author": {
@@ -25980,6 +26297,27 @@
       "verified": false,
       "updated": "2026-09-12",
       "shelf": "aka"
+    },
+    {
+      "slug": "optimist-prodigionous",
+      "name": "Optimist Prodigionous",
+      "author": {
+        "name": "KobiJohnson916",
+        "url": "https://x.com/KobiJohnson916"
+      },
+      "summary": "A continuity-first human-AI collaboration partner that stays positive and treats constraint as the frontier",
+      "summary_zh": "强调连续性的人机协作搭子，不带负向开场，把约束当成探索边界",
+      "import": "https://x.ai/bot/vkKmJAbl0DfUAnZV-WJ3D",
+      "category": "personal-admin",
+      "tags": [
+        "collaboration",
+        "companion"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/KobiJohnson916/status/2101791835454935479"
     },
     {
       "slug": "optimus-prime",
@@ -29578,6 +29916,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "real-estate-deal-scorecard",
+      "name": "Real Estate Deal Scorecard",
+      "author": {
+        "name": "TZitsnotjustAI",
+        "url": "https://x.com/TZitsnotjustAI"
+      },
+      "summary": "Scores a US address or listing link across six rental and flip strategies before you buy",
+      "summary_zh": "粘贴美国地址或房源链接，按六种租赁与翻修策略打分后再决定是否下手",
+      "import": "https://x.ai/bot/TWqD9x8MxUgT-0ab70aLA",
+      "category": "finance-ops",
+      "tags": [
+        "real-estate",
+        "scorecard",
+        "rental"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/TZitsnotjustAI/status/2101798329726197907",
+      "related": "https://grokbot.dev/marketplace/real-estate-deal-scorecard/"
+    },
+    {
       "slug": "real-place-play-mat-builder",
       "name": "Real-Place Play Mat Builder",
       "author": {
@@ -31303,6 +31664,29 @@
       "shelf": "raw",
       "source": "https://x.com/Cmillet77/status/2101426726748164478",
       "related": "https://grokbot.dev/marketplace/rv-trip-planner/"
+    },
+    {
+      "slug": "ryan-app-shop",
+      "name": "Ryan App Shop",
+      "author": {
+        "name": "BlakeKing777",
+        "url": "https://x.com/BlakeKing777"
+      },
+      "summary": "Builds beginner-friendly phone PWAs with warehouse-floor clarity and big tap targets",
+      "summary_zh": "面向新手的手机 PWA 设计与实现，偏仓库一线清晰文案和大点击区",
+      "import": "https://x.ai/bot/SUVGlpw-FxBi2BjnIHWGx",
+      "category": "coding-shipping",
+      "tags": [
+        "pwa",
+        "mobile",
+        "apps"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/BlakeKing777/status/2101471915114180715",
+      "related": "https://grokbot.dev/marketplace/ryan-app-shop/"
     },
     {
       "slug": "saas-content-ranker",
@@ -33606,6 +33990,30 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "slack-ceo",
+      "name": "Slack - CEO",
+      "author": {
+        "name": "lamps109",
+        "url": "https://x.com/lamps109"
+      },
+      "summary": "Weekday Slack scans that flag issues and wins, then posts approved company-wide kudos in #general",
+      "summary_zh": "工作日扫描 Slack 频道，标出问题与亮点，经你确认后在 #general 发全公司表扬",
+      "import": "https://x.ai/bot/4LjJV0yXRkfu0D5NfQyZz",
+      "category": "inbox-calendar",
+      "tags": [
+        "slack",
+        "ceo",
+        "kudos",
+        "exec"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/lamps109/status/2101738549754143164",
+      "related": "https://grokbot.dev/marketplace/slack-ceo/"
+    },
+    {
       "slug": "slack-channel-digest",
       "name": "Slack Channel Digest",
       "author": {
@@ -34068,6 +34476,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "sous",
+      "name": "Sous",
+      "author": {
+        "name": "Sabathius",
+        "url": "https://x.com/Sabathius"
+      },
+      "summary": "Kitchen co-pilot for weeknight dinners and meal plans from a fridge photo or a quick ask",
+      "summary_zh": "厨房副手，对着冰箱拍照或随口说一句就能出晚餐与周计划",
+      "import": "https://x.ai/bot/YuCkZU_ydajw1PFxyguAD",
+      "category": "personal-admin",
+      "tags": [
+        "cooking",
+        "meals",
+        "kitchen"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/Sabathius/status/2101492802844565884",
+      "related": "https://grokbot.dev/marketplace/sous/"
     },
     {
       "slug": "sous-chef",
@@ -34765,6 +35196,29 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "stock-research-desk",
+      "name": "Stock Research Desk",
+      "author": {
+        "name": "HassiOnTheMoon",
+        "url": "https://x.com/HassiOnTheMoon"
+      },
+      "summary": "Mid-to-long-term stock research desk that scores quality companies and stops at research with no trades",
+      "summary_zh": "中长期股票研究台，给优质公司打分，只做研究不下单",
+      "import": "https://x.ai/bot/Ubba16JRWPSR3Qi1QAmU2",
+      "category": "finance-ops",
+      "tags": [
+        "stocks",
+        "research",
+        "investing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/HassiOnTheMoon/status/2101739310500204922",
+      "related": "https://grokbot.dev/marketplace/stock-research-desk/"
     },
     {
       "slug": "stock-video-summaries",
@@ -40251,6 +40705,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "x-audit",
+      "name": "X Audit",
+      "author": {
+        "name": "Divine_machine",
+        "url": "https://x.com/Divine_machine"
+      },
+      "summary": "Audits your own X history for reputational-risk posts and sorts clear ambiguous and screenshot-risk findings",
+      "summary_zh": "审计你自己的 X 历史，标出明显、暧昧与截图风险帖，方便你决定删留",
+      "import": "https://x.ai/bot/s50oGLZfiPNSKuTlGsscA",
+      "category": "personal-admin",
+      "tags": [
+        "x",
+        "reputation",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/Divine_machine/status/2101764769401233732",
+      "related": "https://grokbot.dev/marketplace/x-audit/"
     },
     {
       "slug": "x-bot",
