@@ -6463,6 +6463,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "chief-of-staff-launch-ops",
+      "name": "Chief of Staff — Launch Ops",
+      "author": {
+        "name": "Dario",
+        "url": "https://x.com/PromptAlo"
+      },
+      "summary": "Runs a multi-bot launch and marketing team for strategy, publishing, paced community replies, and weekday digests",
+      "summary_zh": "多 Bot 发布与营销团队总控，管策略、发布、有节奏的社区回复和工作日摘要",
+      "import": "https://x.ai/bot/6Uqn1sN0LwXFp4YIqb8Xu",
+      "category": "teams-handoffs",
+      "tags": [
+        "launch",
+        "marketing",
+        "chief-of-staff",
+        "digests"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "studio-door",
+      "source": "https://x.com/PromptAlo/status/2101973337228419097"
+    },
+    {
       "slug": "chief-of-staff-s4mu",
       "name": "Chief of Staff (S4MU)",
       "author": {
@@ -11206,6 +11229,29 @@
       "verified": false,
       "updated": "2026-09-06",
       "shelf": "raw"
+    },
+    {
+      "slug": "domainsnip-bot",
+      "name": "DomainSnip Bot",
+      "author": {
+        "name": "Ward",
+        "url": "https://x.com/uxaistudio"
+      },
+      "summary": "Weekday morning DomainSnip digest that flags notable new or ending-soon .com matches from your saved keyword alerts",
+      "summary_zh": "工作日早间 DomainSnip 摘要，按你保存的关键词标出值得关注的新域名或快到期 .com",
+      "import": "https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q",
+      "category": "research-briefings",
+      "tags": [
+        "domains",
+        "digest",
+        "domainsnip",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/uxaistudio/status/2101964867338981468"
     },
     {
       "slug": "done",
@@ -19691,6 +19737,29 @@
       "shelf": "aka"
     },
     {
+      "slug": "jarvis-coordinator",
+      "name": "Jarvis Coordinator",
+      "author": {
+        "name": "Harald",
+        "url": "https://x.com/HBud69"
+      },
+      "summary": "German coordinator bot with specialist partners for news, office, sales, systems, and a security auditor under tight approvals",
+      "summary_zh": "德语协调 Bot，搭档新闻、办公、销售、系统与安全审计专家，默认谨慎批准",
+      "import": "https://x.ai/bot/vGBwBEELW79gSF340zJpb",
+      "category": "teams-handoffs",
+      "tags": [
+        "coordinator",
+        "german",
+        "security",
+        "desk"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/HBud69/status/2101966920404566208"
+    },
+    {
       "slug": "jarvis-marquis",
       "name": "Jarvis by Marquis",
       "author": {
@@ -24725,6 +24794,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "music-director",
+      "name": "Music Director",
+      "author": {
+        "name": "Niccolo",
+        "url": "https://x.com/niccolomgnll"
+      },
+      "summary": "Turns liked tracks into genre playlists, finds new releases with smart dedup, and builds event playlists from a prompt or brief",
+      "summary_zh": "把喜欢的曲目做成流派歌单，智能去重找新歌，还能按提示或简报做活动歌单",
+      "import": "https://x.ai/bot/uIFa_ha7ncN3AscQ0BBNK",
+      "category": "content-publishing",
+      "tags": [
+        "music",
+        "playlists",
+        "discovery",
+        "events"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/niccolomgnll/status/2102007929423397155"
+    },
+    {
       "slug": "music-hit-studio",
       "name": "Music Hit Studio",
       "author": {
@@ -25251,6 +25343,29 @@
       "source": "https://x.com/Carbonthecoder/status/2098497266482864275",
       "related": "https://grokbot.dev/marketplace/newspaper/",
       "shelf": "raw"
+    },
+    {
+      "slug": "newsroom-to-teleprompter",
+      "name": "Newsroom to Teleprompter",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/TechDadsLife"
+      },
+      "summary": "Builds a four-bot newsroom with two research Friends, an editor Desk, and a fact-checker, then delivers social plus teleprompter copy",
+      "summary_zh": "一键搭四 Bot 新闻台，含两名研究 Friend、编辑 Desk 与事实核对，再输出社交稿和提词器稿",
+      "import": "https://x.ai/bot/-SxKtRLmO7QcCk6kN0Jzy",
+      "category": "teams-handoffs",
+      "tags": [
+        "newsroom",
+        "teleprompter",
+        "research",
+        "publishing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/TechDadsLife/status/2101951098097369416"
     },
     {
       "slug": "nigerian-prince-bot",
@@ -27468,6 +27583,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "pearl",
+      "name": "Pearl",
+      "author": {
+        "name": "Vivek",
+        "url": "https://x.com/vivekk_tech"
+      },
+      "summary": "Chief of Staff for a creator content engine that plans work, delegates to specialist bots, reviews handoffs, and asks before shipping",
+      "summary_zh": "创作者内容引擎的幕僚长，规划工作、分派专家 Bot、审交接，发之前会先问你",
+      "import": "https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC",
+      "category": "teams-handoffs",
+      "tags": [
+        "content",
+        "chief-of-staff",
+        "creator",
+        "handoffs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "studio-door",
+      "source": "https://x.com/vivekk_tech/status/2101980385030869092"
     },
     {
       "slug": "peekaboo-mac",
@@ -41221,6 +41359,29 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "x-video-puller",
+      "name": "X Video Puller",
+      "author": {
+        "name": "Skyler",
+        "url": "https://x.com/blondetwink220"
+      },
+      "summary": "Hourly X video dropper that learns your taste on import, then sends matching timeline clips with rerun-if-seen filtering",
+      "summary_zh": "按小时投放 X 视频，导入时记下口味，再推匹配时间线片段并跳过已看过的",
+      "import": "https://x.ai/bot/2b-nu4HSnMh_x4ptop82S",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "video",
+        "clips",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw",
+      "source": "https://x.com/blondetwink220/status/2101994427744940286"
     },
     {
       "slug": "x-virality-score",

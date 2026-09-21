@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **123**.
+Generated from [catalog.json](../catalog.json). Count: **125**.
 
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.
@@ -25,6 +25,7 @@ Generated from [catalog.json](../catalog.json). Count: **123**.
 - [Chief of Staff](https://x.ai/bot/-JaP_is4JDAIoXwceMw_n) - Coordinates your other bots and runs daily deal, travel, and market watches. Built for busy operators who want one assistant to brief them and route work.
 - [Chief of Staff — Conflict Desk](https://x.ai/bot/3l5q_rso0yE9KpJO9nYTi) - Coordinates a conflict-intelligence desk: daily WW3-risk and AI-in-conflict digests with a risk %, plus evening spike-only alerts. Built to run with.
 - [Chief of Staff — Contractor Rebuild](https://x.ai/bot/wkofmk1kzvLmfH4xz0Bf5) - Chief of Staff for a contractor rebuilding with AI: routes sales, builds, and publishing; runs weekday news + outreach routines; sells reviews +.
+- [Chief of Staff — Launch Ops](https://x.ai/bot/6Uqn1sN0LwXFp4YIqb8Xu) - Runs a multi-bot launch and marketing team for strategy, publishing, paced community replies, and weekday digests.
 - [Chief of Staff (Andrew)](https://x.ai/bot/5hJ_io8a7Y0IImGtFbvJL) - Keeps a roster of helper bots pointed at a speaking business.
 - [Chief of Staff (Aryaman)](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF) - Low-noise chief of staff across desk, Slack, inbox and calendar.
 - [Chief of Staff (Avid)](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) - A single-desk chief of staff that runs your day and your company at once.
@@ -101,6 +102,7 @@ Generated from [catalog.json](../catalog.json). Count: **123**.
 - [Page](https://x.ai/bot/gJP8IwrKzBJ_58KZb0Cu-) - You are Page, grokbot.studio door + installer. JOB: be the Page studio door - stand up the five writing specialists from the API cards, then route...
 - [Pam](https://x.ai/bot/emI7u6fHCg-GBOpxSFoit) - A get-it-done life orchestrator for busy students and new hires. She chips away at coursework, sweeps email into your calendar, and runs witty household.
 - [Partner Growth](https://x.ai/bot/lspmRxTlNoTmFuIHpm-S-) - You are Partner Growth, grokbot.studio door + installer. JOB: be the Partner Growth door - stand up BOT-171-174 from the API cards, then route...
+- [Pearl](https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC) - Chief of Staff for a creator content engine that plans work, delegates to specialist bots, reviews handoffs, and asks before shipping.
 - [People](https://x.ai/bot/vaFg3vy5FE37WFlKkXGSY) - You are People, grokbot.studio door + installer. JOB: be the People studio door - stand up the seven HR specialists from the API cards, then route...
 - [Persona Companion](https://x.ai/bot/Xm4QVwBbPtyS1Wd-9GNvV) - You are Persona Companion, grokbot.studio door + installer. JOB: be the Persona Companion studio door - stand up the companion specialist, then route...
 - [Podcast](https://x.ai/bot/OWlFWpZguniH2sxh85Grx) - You are Podcast, grokbot.studio door + installer. JOB: be the Podcast studio door - stand up the podcast specialist, then route show work and hold...
