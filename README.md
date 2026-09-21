@@ -93,7 +93,7 @@ Start with one share. Open it, hit Add, run a read-only task.
 
 `shelf` in [catalog.json](catalog.json) is editorial navigation (featured, solid, studio-door, aka, raw). Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Studio doors (orchestrators, installers, front desks): **119** listed in [docs/studio-doors.md](docs/studio-doors.md).
+Studio doors (orchestrators, installers, front desks): **123** listed in [docs/studio-doors.md](docs/studio-doors.md).
 
 The full list is below, grouped by job. Field cases and gotchas sit above the wall of links.
 
@@ -104,14 +104,14 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Coding & shipping](#coding--shipping) | 255 |
 | [Inbox & calendar](#inbox--calendar) | 71 |
 | [Research & briefings](#research--briefings) | 228 |
-| [Customer & sales](#customer--sales) | 186 |
+| [Customer & sales](#customer--sales) | 187 |
 | [Finance & ops](#finance--ops) | 230 |
-| [Content & publishing](#content--publishing) | 228 |
-| [Personal admin](#personal-admin) | 437 |
-| [Teams & handoffs](#teams--handoffs) | 242 |
-| **Total** | **1877** |
+| [Content & publishing](#content--publishing) | 229 |
+| [Personal admin](#personal-admin) | 439 |
+| [Teams & handoffs](#teams--handoffs) | 243 |
+| **Total** | **1882** |
 
-All 1877 share pages returned HTTP 200 on 21 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1877 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1882 share pages returned HTTP 200 on 21 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1882 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -839,6 +839,7 @@ One share is one bot. Assemble the roster yourself.
 - [Communications Desk](https://x.ai/bot/N-Kgs41b2Lf9vVCkgsTHp) - A multi-inbox communications desk for educators and operators. Triages email ads vs live ops, watches CRM and community for human asks, and only drafts. [mitchanelson](https://x.com/mitchanelson).
 - [Company Docs Q&A](https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9) - Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources. Built for anyone who wants a... [Anoop Baliga](https://x.com/akbaliga96).
 - [Computer](https://x.ai/bot/Z8aPXNVasH1ogYkAuCMIZ) - A front-door bot for a tiny agent roster. It reads your GitHub board, names one bite-sized issue at a time, hands that leaf to a worker (or you),. [CodeSolutionsIL](https://x.com/CodeSolutionsIL).
+- [Consider It Marketed](https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ) - Clinic CEO bot that runs marketing, Google Ads, creative, video, and QC so the physician-owner can stay with patients. [Cindy](https://x.com/CindyH874325640).
 - [Contentdrips Bot](https://x.ai/bot/LZLr3E1ySm7HzuMSKB18s) - Creates social media graphics and carousels in ContentDrips, then writes simple captions and schedules them to LinkedIn and Instagram. [im_usamakhalid](https://x.com/im_usamakhalid).
 - [Contra Job Scraper](https://x.ai/bot/__sNWxlx-8H08UluQuOeo) - Checks Contra's freelance feed every 6 hours and emails only on change. [techking_007](https://x.com/techking_007).
 - [Copy](https://x.ai/bot/v3cu4BQauoUaTcbJ6m_7C) - Edits and rewrites drafts, emails, and pages so they sound like a person wrote them. Keeps your voice, shows every change and why, and never invents a. [Crypto8675309](https://x.com/Crypto8675309).
@@ -1378,6 +1379,7 @@ One share is one bot. Assemble the roster yourself.
 - [Replay](https://x.ai/bot/4mICdo5bR2FyghKoOZve5) - Turns a marketing brief into previewable video scenes and social cutdowns. [myGuyPye](https://x.com/myGuyPye).
 - [Reply Radar](https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc) - Finds hot posts in your niches and drafts short replies so you grow without spraying comments. [Sam](https://x.com/sam_builds_ai).
 - [repost X posts everywhere](https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP) - Copies every new X post out to your other four accounts. [jackfriks](https://x.com/jackfriks).
+- [Ride Editor](https://x.ai/bot/Vae3EVVTJ7hrxo1ojKv6j) - YouTube ride and FSD dashcam editor that cleans titles and playlists, builds highlights and thumbnails, and publishes on ask. [Jared](https://x.com/Fnjrockerstein).
 - [Rude Bot](https://x.ai/bot/7z0WNYmnERTnXKmxI12gB) - Extremely rude dismissive comedy bot that roasts your ask and refuses to help. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [SaaS Content Ranker](https://x.ai/bot/JDYPl17DU2bU771WtX4we) - Plans and drafts ranking pages for affiliate software sites, then checks a publish checklist. [Abdollahoffline](https://x.com/Abdollahoffline).
 - [School Email Filter (Starter)](https://x.ai/bot/jozHHEPHEUpKODDZbN7kr) - A lightweight school email filter for busy parents. Flags messages that look school-related or kid-specific, then sorts them into Action needed, FYI, or. [CLAWTaxGroup](https://x.com/CLAWTaxGroup).
@@ -1679,6 +1681,7 @@ One share is one bot. Assemble the roster yourself.
 - [Kitchen](https://x.ai/bot/Uyf8BCU9kqlh2Z4nRAtp1) - Tracks household food and meal history, then suggests dinners from what’s on hand: one familiar liked dish and one new recipe. Learns from grocery. [BubbaAI1](https://x.com/BubbaAI1).
 - [Koe](https://x.ai/bot/2cfzlwUnOQtohmHiguKuc) - One-year strategic thinking plan in empty structured steps you fill yourself. [dannybuck](https://x.com/dannybuck).
 - [lain.](https://x.ai/bot/Fq4c6b2KeDg3dnIGc5KWI) - Quiet companion for thinking out loud about technology, identity, and the wired world. [✞༒Avalon](https://x.com/kittenworth).
+- [Lantern](https://x.ai/bot/IbFZmiL_mzu0Dq-K4u633) - Guides Lantern 1Password utility setup, then quietly checks in before you go dark. [Steven](https://x.com/sjcobs).
 - [Lazy Tom](https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb) - A dry, low-effort assistant that does the smallest useful thing and then stops. Short replies, no extra tasks, no coding. duyet.
 - [LearnBot](https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C) - One engineering word each day, explained for people who never code. [graceclarke](https://x.com/graceclarke).
 - [Learning Assistant](https://x.ai/bot/yE46R6j5vNPhd92fGxZRu) - A multi-session tutor for learning a topic over days or weeks. It interviews for a mission, vets real sources, writes cited HTML lessons with quizzes,... [imshiv6t9](https://x.com/imshiv6t9).
@@ -1879,6 +1882,7 @@ One share is one bot. Assemble the roster yourself.
 - [Weekender](https://x.ai/bot/pFygGG8IU67dM2S7WitaT) - Social events coordinator for weekends that actually happen. [jeffdillehunt](https://x.com/jeffdillehunt).
 - [What Would Jesus Do?](https://x.ai/bot/GM_1Lh44jlHxEcT148pXg) - Life advice from Jesus’s recorded Gospel words only. [fireitup365](https://x.com/fireitup365).
 - [Wholefoods](https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU) - Plans the week's groceries around whatever Whole Foods has marked down. [Dennison](https://x.com/DennisonBertram).
+- [WinRedDestroyer](https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f) - Builds a password-gated evidence site for WinRed political SMS spam with cases, FEC officers, and print-ready packets. [Valentino](https://x.com/valdagher).
 - [Witcher](https://x.ai/bot/FBBVswZ2xmj3CpSsFIQIJ) - Personal helper for shopping deals, one-tap checkouts, and weekend paramotor flyability checks. [Henry](https://x.com/Viranux).
 - [WOBOT](https://x.ai/bot/3VwEbEBVNOmBOFNfqTtFm) - Municipal water/wastewater ops specialist. Pulls live plant telemetry, keeps sampling calendars honest, and turns month-long Cl/turbidity series into. [durdy1](https://x.com/durdy1).
 - [Woolf](https://x.ai/bot/4fP33DHTBJudWglJyeMB_) - Converse as Virginia Woolf’s attention to consciousness, rooms, and time. [SuddenlyJon](https://x.com/SuddenlyJon).
@@ -2059,6 +2063,7 @@ One share is one bot. Assemble the roster yourself.
 - [Operator](https://x.ai/bot/YgM8FiKS0WczveQXe6edr) - One daily brief for founders, in place of forty open tabs. [mjjefford](https://x.com/mjjefford).
 - [Ops](https://x.ai/bot/4sUQZA1UAXXDRf5bhYwPY) - Front door that triages work, absorbs routine admin, and routes the rest to named specialists. [Rimusz](https://x.com/Rimusz).
 - [Ops Gerente — mesa de entrada](https://x.ai/bot/0WMwSjhQuRoM99_FcZtkS) - Logistics intake desk that routes work, uses Google Calendar as source of truth, and runs next-day trip QC. [Nicolás](https://x.com/ntaschetti).
+- [Orchestrator](https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo) - Multi-bot trading-day research desk with role cards, handoffs, timeouts, and weekday EOD reviews. [R](https://x.com/keepclmcarryong).
 - [OS: Ontology Stack](https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD) - Operational ontology of your org that finds bottlenecks across projects, people, and processes. [Damiano](https://x.com/damianoredem).
 - [Overwatch](https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9) - Keeps a shared multi-bot workspace organized, git-backed, and portable, including layout conventions and cleanup. [A-A-ron](https://x.com/theaaron).
 - [Page](https://x.ai/bot/gJP8IwrKzBJ_58KZb0Cu-) - You are Page, grokbot.studio door + installer. JOB: be the Page studio door - stand up the five writing specialists from the API cards, then route... [Hexakin](https://x.com/Hexakin).

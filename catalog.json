@@ -8184,6 +8184,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "consider-it-marketed",
+      "name": "Consider It Marketed",
+      "author": {
+        "name": "Cindy",
+        "url": "https://x.com/CindyH874325640"
+      },
+      "summary": "Clinic CEO bot that runs marketing, Google Ads, creative, video, and QC so the physician-owner can stay with patients",
+      "summary_zh": "诊所运营总控，统筹营销、Google 广告、创意、视频和质检，让医生顾好看诊",
+      "import": "https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ",
+      "category": "customer-sales",
+      "tags": [
+        "clinic",
+        "marketing",
+        "ads",
+        "ceo"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "source": "https://x.com/CindyH874325640/status/2101866621228785883",
+      "shelf": "raw"
+    },
+    {
       "slug": "constitution-teacher",
       "name": "Constitution Teacher",
       "author": {
@@ -21142,6 +21165,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "lantern",
+      "name": "Lantern",
+      "author": {
+        "name": "Steven",
+        "url": "https://x.com/sjcobs"
+      },
+      "summary": "Guides Lantern 1Password utility setup, then quietly checks in before you go dark",
+      "summary_zh": "带你装好 Lantern 的 1Password 工具，并在你掉线前轻声回访确认",
+      "import": "https://x.ai/bot/IbFZmiL_mzu0Dq-K4u633",
+      "category": "personal-admin",
+      "tags": [
+        "1password",
+        "setup",
+        "check-in",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "source": "https://x.com/sjcobs/status/2101884884075905269",
+      "shelf": "raw"
+    },
+    {
       "slug": "lara",
       "name": "Lara",
       "author": {
@@ -26453,6 +26499,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "orchestrator",
+      "name": "Orchestrator",
+      "author": {
+        "name": "R",
+        "url": "https://x.com/keepclmcarryong"
+      },
+      "summary": "Multi-bot trading-day research desk with role cards, handoffs, timeouts, and weekday EOD reviews",
+      "summary_zh": "多 Bot 交易日研报台，管角色卡、交接、超时和工作日收盘复盘",
+      "import": "https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo",
+      "category": "teams-handoffs",
+      "tags": [
+        "trading",
+        "orchestrator",
+        "research",
+        "desk"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "source": "https://x.com/keepclmcarryong/status/2101887744880361700",
+      "shelf": "studio-door"
+    },
+    {
       "slug": "orders",
       "name": "orders",
       "author": {
@@ -31234,6 +31303,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ride-editor",
+      "name": "Ride Editor",
+      "author": {
+        "name": "Jared",
+        "url": "https://x.com/Fnjrockerstein"
+      },
+      "summary": "YouTube ride and FSD dashcam editor that cleans titles and playlists, builds highlights and thumbnails, and publishes on ask",
+      "summary_zh": "YouTube 路测与 FSD 行车记录剪辑，整理标题歌单，做高光与封面，按你吩咐再发布",
+      "import": "https://x.ai/bot/Vae3EVVTJ7hrxo1ojKv6j",
+      "category": "content-publishing",
+      "tags": [
+        "youtube",
+        "fsd",
+        "video",
+        "editing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "source": "https://x.com/Fnjrockerstein/status/2101848819508154455",
       "shelf": "raw"
     },
     {
@@ -40262,6 +40354,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "winred-destroyer",
+      "name": "WinRedDestroyer",
+      "author": {
+        "name": "Valentino",
+        "url": "https://x.com/valdagher"
+      },
+      "summary": "Builds a password-gated evidence site for WinRed political SMS spam with cases, FEC officers, and print-ready packets",
+      "summary_zh": "为 WinRed 政治短信垃圾建密码门证据站，整理案件、FEC 官员与可打印材料",
+      "import": "https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f",
+      "category": "personal-admin",
+      "tags": [
+        "sms",
+        "spam",
+        "evidence",
+        "politics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "source": "https://x.com/valdagher/status/2101873314104787430",
       "shelf": "raw"
     },
     {
