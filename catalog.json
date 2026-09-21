@@ -22789,6 +22789,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "longhand",
+      "name": "Longhand",
+      "author": {
+        "name": "Jeff",
+        "url": "https://x.com/VMVLAX"
+      },
+      "summary": "A governed personal-ops bot: inbox triage, watches, nightly memory commit, Sunday audit for config drift. Memory lives in plain files you can read and diff",
+      "summary_zh": "受治理的个人运营机器人：收件箱分拣、监视、夜间记忆提交，周日审计是否偏离自身配置。记忆存在可读写对比的明文文件中。",
+      "import": "https://x.ai/bot/N53am-rfjXPCA2UJ91kEG",
+      "related": "https://github.com/vanmaanenlax-vision/Longhand",
+      "category": "personal-admin",
+      "tags": [
+        "admin",
+        "memory",
+        "ops",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-21",
+      "shelf": "raw"
+    },
+    {
       "slug": "lookalike-scout",
       "name": "Lookalike Scout",
       "author": {
