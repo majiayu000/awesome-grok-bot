@@ -2532,6 +2532,29 @@
       "source": "https://x.com/DombiGato/status/2101534232946552984"
     },
     {
+      "slug": "atelier-building-taste",
+      "name": "Atelier: building taste",
+      "author": {
+        "name": "佳琪",
+        "url": "https://x.com/wnjiq1784632"
+      },
+      "summary": "Daily studio practice for visual taste: one museum reference, original homage images, then a short reading of thought and technique",
+      "summary_zh": "每日工作室练习，先看真实馆藏参考再做致敬图，并写短读笔记练视觉品味",
+      "import": "https://x.ai/bot/81QtrRxyI-rTSSefVJqts",
+      "category": "content-publishing",
+      "tags": [
+        "art",
+        "taste",
+        "studio",
+        "images"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "shelf": "studio-door",
+      "source": "https://x.com/wnjiq1784632/status/2102341373902872817"
+    },
+    {
       "slug": "atlas-four-desks-switchboard",
       "name": "Atlas — FOUR.DESKS Switchboard",
       "author": {
@@ -21019,6 +21042,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "kickbox-hubspot-importer",
+      "name": "Kickbox HubSpot Importer",
+      "author": {
+        "name": "pofabro",
+        "url": "https://x.com/pofabro"
+      },
+      "summary": "Runs Kickbox email hygiene on contacts from a Google Sheet or HubSpot view, then writes Deliverable results back as HubSpot updates",
+      "summary_zh": "对表格或 HubSpot 视图里的联系人跑 Kickbox 邮箱卫生，再把可投递结果写回 HubSpot",
+      "import": "https://x.ai/bot/PRc9UmcxySAv0UBU4g8fx",
+      "category": "customer-sales",
+      "tags": [
+        "email",
+        "hubspot",
+        "kickbox",
+        "hygiene"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "shelf": "raw",
+      "source": "https://x.com/pofabro/status/2102344924331159835"
+    },
+    {
       "slug": "kids-assistant",
       "name": "Kids Assistant",
       "author": {
@@ -22998,6 +23044,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "raw"
+    },
+    {
+      "slug": "loaf",
+      "name": "Loaf",
+      "author": {
+        "name": "Jenna",
+        "url": "https://x.com/JennaLiftsLife"
+      },
+      "summary": "Tamagotchi-style step pet: log steps in chat for soft HUDs and one evening nudge, with rest days counting and no guilt",
+      "summary_zh": "聊天里记步数的电子宠物，软 HUD 加晚间轻提醒，休息日也算数，不制造愧疚",
+      "import": "https://x.ai/bot/06l6Dds_nrWC-vaqyKLK9",
+      "category": "personal-admin",
+      "tags": [
+        "steps",
+        "habit",
+        "health",
+        "pet"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "shelf": "raw",
+      "source": "https://x.com/JennaLiftsLife/status/2102353128679252473"
     },
     {
       "slug": "lobster-agents",

@@ -1,11 +1,11 @@
 # Awesome Grok Bot
 
-> 1913 live x.ai/bot shares you can Add, plus writeups of how people actually run them.
+> 1916 live x.ai/bot shares you can Add, plus writeups of how people actually run them.
 
-1913 live shares in catalog.json: https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json
+1916 live shares in catalog.json: https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json
 Human index: https://github.com/majiayu000/awesome-grok-bot
 Chinese: https://github.com/majiayu000/awesome-grok-bot/blob/main/README.zh-CN.md
-Shelf (editorial): featured 20, studio-door 125, aka 99, raw 1645 — see docs/studio-doors.md
+Shelf (editorial): featured 20, studio-door 126, aka 104, raw 1666 — see docs/studio-doors.md
 Featured notes: templates/
 Vetting: docs/vetting.md
 Team recipes (one share = one bot): packs/
