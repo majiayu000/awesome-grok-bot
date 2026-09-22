@@ -104,14 +104,14 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Coding & shipping](#coding--shipping) | 260 |
 | [Inbox & calendar](#inbox--calendar) | 72 |
 | [Research & briefings](#research--briefings) | 232 |
-| [Customer & sales](#customer--sales) | 187 |
-| [Finance & ops](#finance--ops) | 230 |
+| [Customer & sales](#customer--sales) | 188 |
+| [Finance & ops](#finance--ops) | 232 |
 | [Content & publishing](#content--publishing) | 234 |
-| [Personal admin](#personal-admin) | 445 |
+| [Personal admin](#personal-admin) | 446 |
 | [Teams & handoffs](#teams--handoffs) | 249 |
-| **Total** | **1889** |
+| **Total** | **1913** |
 
-All 1909 share pages returned HTTP 200 on 22 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1909 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1913 share pages returned HTTP 200 on 22 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1913 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -920,6 +920,7 @@ One share is one bot. Assemble the roster yourself.
 - [Lara](https://x.ai/bot/ivUb6chV-JDdWJ11MI8c8) - Public Relations manager bot: runs LinkedIn + X specialists, validates drafts for human voice and employer-safe snark, and runs a short weekday PR standup. [MonsieurKas](https://x.com/MonsieurKas).
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) - Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends... [Miguel Cruz](https://x.com/cruzmiguel000).
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) - Finds nearby small firms whose sites are under-optimised for search. [itsryanlenk](https://x.com/itsryanlenk).
+- [Lead Vetting](https://x.ai/bot/eEfAacXdtzHANV5hVhG6o) - Vets collaboration and consulting leads from a watched inbox, writes a one-page fit brief, and DMs a five-bullet Slack decision summary. [Anze Voje](https://x.com/anzevoje).
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) - Owns roofing lead intake with SMS and email drafts plus Quick Quote handoffs. [Legend](https://x.com/legendRoofingCo).
 - [LEGO Helper](https://x.ai/bot/ARECkfOiBshpEB8egjavB) - Tracks LEGO purchases and sales in a Google Sheet: pulls retailer emails (and optional Target history), adds new sets, marks eBay sales Sold with. [NoahDavidATL](https://x.com/NoahDavidATL).
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) - Keeps your LinkedIn history searchable, from posts to private messages. [isb](https://x.com/isb).
@@ -1054,6 +1055,7 @@ One share is one bot. Assemble the roster yourself.
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) - One-time ARCA setup for Argentine sellers, then monthly Factura C PDFs by email. [tomidelu_](https://x.com/tomidelu_).
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - Production desk for political and government filmmakers: QC and post native Tape while you shoot, price RFPs from comps, draft partner one-pagers, run X. [Mawlavisuals](https://x.com/Mawlavisuals).
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - Tells you which card to use for a purchase to maximise points and perks. [trevin](https://x.com/trevin).
+- [CreditGrok](https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ) - Walks AnnualCreditReport.com for free Equifax, Experian, and TransUnion reports, handles email and phone OTP, then saves the PDFs. [Jered Taylor](https://x.com/jeredtaylor).
 - [CREW CHIEF MSP](https://x.ai/bot/o1WooIlDtZTeyXf9sigG-) - Crew chief desk for MSP day-to-day service work. [TechHandPro](https://x.com/TechHandPro).
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) - Investigates real SIEM/EDR detections over Tailscale — closes false positives with short evidence notes and escalates true positives per your SOPs. [vladydaddy](https://x.com/vladydaddy).
 - [DaddyBot](https://x.ai/bot/MxbnEzdSvTZ-q3CDieMoc) - Runs three free GoDaddy domain-value appraisals a day from a queue. [domainerdan](https://x.com/domainerdan).
@@ -1201,6 +1203,7 @@ One share is one bot. Assemble the roster yourself.
 - [Token Officer](https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP) - Audits a bot fleet for overlapping jobs and chat loops that quietly burn tokens. [from_glasses](https://x.com/from_glasses).
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) - Autonomous short-term equity desk. North star: beat SPY on a dedicated brokerage cash account. Decides on its native model, reads the book, and places... [farzyness](https://x.com/farzyness).
 - [Trading](https://x.ai/bot/XW2DibYh5BRunhH_f373u) - A news-driven day-trading bot that takes one liquid name at a time and messages every fill. [Travis](https://x.com/TravisWeathers).
+- [Trading](https://x.ai/bot/l82Fnugc2EEblUuMwyeaV) - Trading assistant for clear stock and ETF setups plus optional Solana spot, with risk rules and execution discipline and no gain promises. [Nick](https://x.com/GreenWay____).
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) - Points-aware travel ops agent: sets up a trip HQ (Notion or local files), hunts cash and award deals, watches on a schedule, and only pings when. [manan_suneja](https://x.com/manan_suneja).
 - [travel guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) - Plans award travel around your home airport, points and status. [congressdj](https://x.com/congressdj).
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray desk for trading workflows. [Ortix008](https://x.com/Ortix008).
@@ -1572,6 +1575,7 @@ One share is one bot. Assemble the roster yourself.
 - [d2fl template](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) - Shared Grok Bot template from d2fl. [d2fl](https://x.com/d2fl).
 - [DADCON](https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB) - Backup dad on Slack that takes a chore from the real parent, follows the kid until it is done, then reports back. [Jerrod](https://x.com/jerrodtuck).
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) - A morning shortlist of backend roles you can apply to in one click, ranked against your CV. [HaseebMir91](https://x.com/HaseebMir91).
+- [Data Broker Opt-Out Bot](https://x.ai/bot/92VG66mFtkdl7eqWiJLo6) - Removes or suppresses professional contact data from major B2B sales-intel databases through their official opt-out flows. [Jacky Heshi](https://x.com/JackyHeshi).
 - [DataBye](https://x.ai/bot/-M2E0mNqSbuPgYBEtU-Oa) - Spanish RGPD helper that connects Gmail or Outlook and sends official data-deletion requests in Spain. [686f6c61](https://x.com/686f6c61).
 - [Dead Man's Bot](https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4) - A contingency trigger that fires only when you stop checking in. [Knock](https://x.com/SuddenlyJon).
 - [Deal Finder Ops](https://x.ai/bot/LB1eE-TpCI5usMRe76izh) - Checks a coupon against a real cart and shows you the receipt math. [thewyattbrocato](https://x.com/thewyattbrocato).
@@ -1910,8 +1914,8 @@ One share is one bot. Assemble the roster yourself.
 - [Wrench](https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r) - Personal garage mechanic for vehicles and powered equipment — inventory, OEM bay cards, service history, connected meters when hooked up, what’s due,. [Treyvis](https://x.com/treyvis).
 - [writing bot](https://x.ai/bot/gJ4waNMuQoJkQCGX77yF3) - A writing partner for drafting and revising essays, emails, docs, and other prose. It uses a structured revision workflow so the result is clearer and... [mattyp](https://x.com/mattyp).
 - [WTD](https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2) - WTD is a VIP hospitality planning partner for marketing ops - project-plan and status rhythm across tentpoles and ticket banks, nomination-sheet... [jennananpei](https://x.com/jennananpei).
-- [𝕏](https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo) - Capture clerk for high-value links. Paste an X, YouTube, gist, or web URL and it fetches, extracts durable alpha, and commits an archive file via the. [Austin](https://x.com/siraustin).
 - [x](https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f) - Looks after an X account: weekday check-ins, credit-aware lookups, and cross-promo drafts you post yourself. [snowiestein](https://x.com/snowiestein).
+- [𝕏](https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo) - Capture clerk for high-value links. Paste an X, YouTube, gist, or web URL and it fetches, extracts durable alpha, and commits an archive file via the. [Austin](https://x.com/siraustin).
 - [X Audit](https://x.ai/bot/s50oGLZfiPNSKuTlGsscA) - Audits your own X history for reputational-risk posts and sorts clear ambiguous and screenshot-risk findings. [Divine_machine](https://x.com/Divine_machine).
 - [X Hygiene](https://x.ai/bot/joKOyN0KrQlgNHpda7iii) - Audits your followers, prices the cleanup, then lists who to cut. [bradshannon](https://x.com/bradshannon).
 - [X Mute Desk](https://x.ai/bot/wGDy1T5eobC1hjqFC9-PI) - Scans X mentions for hostile or spam replies and shows mute candidates. [ryanfoxeth](https://x.com/ryanfoxeth).

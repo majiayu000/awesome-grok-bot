@@ -104,14 +104,14 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Coding & shipping](#coding--shipping) | 260 |
 | [Inbox & calendar](#inbox--calendar) | 72 |
 | [Research & briefings](#research--briefings) | 232 |
-| [Customer & sales](#customer--sales) | 187 |
-| [Finance & ops](#finance--ops) | 230 |
+| [Customer & sales](#customer--sales) | 188 |
+| [Finance & ops](#finance--ops) | 232 |
 | [Content & publishing](#content--publishing) | 234 |
-| [Personal admin](#personal-admin) | 445 |
+| [Personal admin](#personal-admin) | 446 |
 | [Teams & handoffs](#teams--handoffs) | 249 |
-| **合计** | **1889** |
+| **合计** | **1913** |
 
-2026 年 9 月 22 日检查时，1909 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1909 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 22 日检查时，1913 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1913 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -920,6 +920,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Lara](https://x.ai/bot/ivUb6chV-JDdWJ11MI8c8) - 公关经理机器人，跑 LinkedIn 与 X 专家，校验草稿后再排队发布. [MonsieurKas](https://x.com/MonsieurKas).
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) - 给入站线索打分、合并重复、指定负责人并标卡住项，可从 CRM 导出或表格，不代发。 [Miguel Cruz](https://x.com/cruzmiguel000).
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) - 找出附近站点搜索优化不足的小企业线索. [itsryanlenk](https://x.com/itsryanlenk).
+- [Lead Vetting](https://x.ai/bot/eEfAacXdtzHANV5hVhG6o) - 盯邮箱筛协作与咨询线索，写一页匹配简报，并在 Slack 私信五条决策摘要. [Anze Voje](https://x.com/anzevoje).
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) - 承接屋顶线索，起草短信邮件并交接快速报价. [Legend](https://x.com/legendRoofingCo).
 - [LEGO Helper](https://x.ai/bot/ARECkfOiBshpEB8egjavB) - 在 Google 表跟踪乐高买卖，拉零售商邮件，登记新套装，eBay 售出标为已售. [NoahDavidATL](https://x.com/NoahDavidATL).
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) - 把 LinkedIn 导出做成可搜的记忆，含帖子与私信。 [isb](https://x.com/isb).
@@ -1054,6 +1055,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) - 阿根廷独立卖家一次配好 ARCA，之后每月自动开 Factura C 并邮件发出。 [tomidelu_](https://x.com/tomidelu_).
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - 政治与政府影像制作人的制片桌，质检并在 Tape 原生流程里做后期. [Mawlavisuals](https://x.com/Mawlavisuals).
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - 告诉你这笔该刷哪张卡，积分和权益才最大。 [trevin](https://x.com/trevin).
+- [CreditGrok](https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ) - 带你走完 AnnualCreditReport.com 免费三局征信报告流程，处理邮箱与手机验证码，并保存 PDF. [Jered Taylor](https://x.com/jeredtaylor).
 - [CREW CHIEF MSP](https://x.ai/bot/o1WooIlDtZTeyXf9sigG-) - MSP 日常服务的班组长台。 [TechHandPro](https://x.com/TechHandPro).
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) - 经 Tailscale 调查真实 SIEM 或 EDR 告警，用短证据说明关掉误报，真阳性按你的 SOP 升级. [vladydaddy](https://x.com/vladydaddy).
 - [DaddyBot](https://x.ai/bot/MxbnEzdSvTZ-q3CDieMoc) - 从队列里每天跑三次免费 GoDaddy 域名估价。 [domainerdan](https://x.com/domainerdan).
@@ -1201,6 +1203,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Token Officer](https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP) - 审计一队机器人里重叠的定时活和绕圈对话，点名白烧的 token。 [from_glasses](https://x.com/from_glasses).
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) - 自主短线股票台，目标在专用券商现金账户上跑赢 SPY，读盘并下单前仍要你确认关键规则。 [farzyness](https://x.com/farzyness).
 - [Trading](https://x.ai/bot/XW2DibYh5BRunhH_f373u) - 新闻驱动的日内交易 Bot，接实盘账户，单票重仓。风险极高，先读代码。 [Travis](https://x.com/TravisWeathers).
+- [Trading](https://x.ai/bot/l82Fnugc2EEblUuMwyeaV) - 交易助手，整理清晰的股票与 ETF 思路以及可选 Solana 现货，强调风险与执行纪律，不承诺收益. [Nick](https://x.com/GreenWay____).
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) - 懂积分的旅行运营代理，建行程总部，猎航班酒店，比较现金与积分. [manan_suneja](https://x.com/manan_suneja).
 - [travel guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) - 按你家机场、积分和会籍来排积分出行。 [congressdj](https://x.com/congressdj).
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray 交易工作台。 [Ortix008](https://x.com/Ortix008).
@@ -1572,6 +1575,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [d2fl template](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) - 来自 d2fl 的可导入分享模板。 [d2fl](https://x.com/d2fl).
 - [DADCON](https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB) - Slack 上的替班爸，从真家长接过家务盯孩子做完再回报. [Jerrod](https://x.com/jerrodtuck).
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) - 每天早上给你一份一键可投的后端岗位短名单，并按简历匹配排序。 [HaseebMir91](https://x.com/HaseebMir91).
+- [Data Broker Opt-Out Bot](https://x.ai/bot/92VG66mFtkdl7eqWiJLo6) - 走官方退出流程，从 Apollo、ZoomInfo 等主流 B2B 销售情报库删除或压制你的职业联系信息. [Jacky Heshi](https://x.com/JackyHeshi).
 - [DataBye](https://x.ai/bot/-M2E0mNqSbuPgYBEtU-Oa) - 西班牙语 GDPR 助手，连接 Gmail 或 Outlook，在西班牙代发正式的数据删除请求. [686f6c61](https://x.com/686f6c61).
 - [Dead Man's Bot](https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4) - 只有你漏打卡时才会触发的预案开关，载荷由你事先装好。 [Knock](https://x.com/SuddenlyJon).
 - [Deal Finder Ops](https://x.ai/bot/LB1eE-TpCI5usMRe76izh) - 对照真实购物车核优惠券并算出小票差额. [thewyattbrocato](https://x.com/thewyattbrocato).
@@ -1910,8 +1914,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Wrench](https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r) - 车辆与动力设备的私人车库技工，库存、原厂工位卡、保养与故障排查. [Treyvis](https://x.com/treyvis).
 - [writing bot](https://x.ai/bot/gJ4waNMuQoJkQCGX77yF3) - 写改文章、邮件与文档的搭档，用结构化修订流程让成品更清楚也更像你。 [mattyp](https://x.com/mattyp).
 - [WTD](https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2) - 面向市场运营的 VIP 接待规划搭档，跨场地管项目计划与状态节奏。 [jennananpei](https://x.com/jennananpei).
-- [𝕏](https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo) - 高价值链接采集员，粘贴 X、YouTube、gist 或网页 URL，它抓取、摘要并归档. [Austin](https://x.com/siraustin).
 - [x](https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f) - 照看一个 X 账号，工作日巡检、额度敏感查询与跨帖节奏. [snowiestein](https://x.com/snowiestein).
+- [𝕏](https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo) - 高价值链接采集员，粘贴 X、YouTube、gist 或网页 URL，它抓取、摘要并归档. [Austin](https://x.com/siraustin).
 - [X Audit](https://x.ai/bot/s50oGLZfiPNSKuTlGsscA) - 审计你自己的 X 历史，标出明显、暧昧与截图风险帖，方便你决定删留. [Divine_machine](https://x.com/Divine_machine).
 - [X Hygiene](https://x.ai/bot/joKOyN0KrQlgNHpda7iii) - 审计关注者，估清理成本，再列出该砍掉谁. [bradshannon](https://x.com/bradshannon).
 - [X Mute Desk](https://x.ai/bot/wGDy1T5eobC1hjqFC9-PI) - 扫 X 提及里的敌意或垃圾回复，列出建议静音对象供你确认. [ryanfoxeth](https://x.com/ryanfoxeth).

@@ -9166,6 +9166,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "creditgrok",
+      "name": "CreditGrok",
+      "author": {
+        "name": "Jered Taylor",
+        "url": "https://x.com/jeredtaylor"
+      },
+      "summary": "Walks AnnualCreditReport.com for free Equifax, Experian, and TransUnion reports, handles email and phone OTP, then saves the PDFs",
+      "summary_zh": "带你走完 AnnualCreditReport.com 免费三局征信报告流程，处理邮箱与手机验证码，并保存 PDF",
+      "import": "https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ",
+      "category": "finance-ops",
+      "tags": [
+        "credit",
+        "reports",
+        "personal-finance",
+        "pdf"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "shelf": "raw",
+      "source": "https://x.com/jeredtaylor/status/2102268858392555527"
+    },
+    {
       "slug": "crew",
       "name": "Crew",
       "author": {
@@ -9899,6 +9922,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "raw"
+    },
+    {
+      "slug": "data-broker-opt-out",
+      "name": "Data Broker Opt-Out Bot",
+      "author": {
+        "name": "Jacky Heshi",
+        "url": "https://x.com/JackyHeshi"
+      },
+      "summary": "Removes or suppresses professional contact data from major B2B sales-intel databases through their official opt-out flows",
+      "summary_zh": "走官方退出流程，从 Apollo、ZoomInfo 等主流 B2B 销售情报库删除或压制你的职业联系信息",
+      "import": "https://x.ai/bot/92VG66mFtkdl7eqWiJLo6",
+      "category": "personal-admin",
+      "tags": [
+        "privacy",
+        "opt-out",
+        "b2b",
+        "data-brokers"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "shelf": "raw",
+      "source": "https://x.com/JackyHeshi/status/2102274644174909819"
     },
     {
       "slug": "data-materializer",
@@ -21770,6 +21816,29 @@
       "verified": false,
       "updated": "2026-09-18",
       "shelf": "raw"
+    },
+    {
+      "slug": "lead-vetting",
+      "name": "Lead Vetting",
+      "author": {
+        "name": "Anze Voje",
+        "url": "https://x.com/anzevoje"
+      },
+      "summary": "Vets collaboration and consulting leads from a watched inbox, writes a one-page fit brief, and DMs a five-bullet Slack decision summary",
+      "summary_zh": "盯邮箱筛协作与咨询线索，写一页匹配简报，并在 Slack 私信五条决策摘要",
+      "import": "https://x.ai/bot/eEfAacXdtzHANV5hVhG6o",
+      "category": "customer-sales",
+      "tags": [
+        "leads",
+        "consulting",
+        "slack",
+        "inbox"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "shelf": "raw",
+      "source": "https://x.com/anzevoje/status/2102299536513245605"
     },
     {
       "slug": "leader-1-1-bot",
@@ -38681,6 +38750,29 @@
       "verified": false,
       "updated": "2026-09-02",
       "shelf": "raw"
+    },
+    {
+      "slug": "trading-nick",
+      "name": "Trading",
+      "author": {
+        "name": "Nick",
+        "url": "https://x.com/GreenWay____"
+      },
+      "summary": "Trading assistant for clear stock and ETF setups plus optional Solana spot, with risk rules and execution discipline and no gain promises",
+      "summary_zh": "交易助手，整理清晰的股票与 ETF 思路以及可选 Solana 现货，强调风险与执行纪律，不承诺收益",
+      "import": "https://x.ai/bot/l82Fnugc2EEblUuMwyeaV",
+      "category": "finance-ops",
+      "tags": [
+        "trading",
+        "stocks",
+        "etf",
+        "solana"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "shelf": "aka",
+      "source": "https://x.com/GreenWay____/status/2102249009305862536"
     },
     {
       "slug": "traffic-dude",
