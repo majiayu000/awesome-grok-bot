@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21",
+  "generated": "2026-09-22",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -91,6 +91,29 @@
       "verified": false,
       "updated": "2026-09-02",
       "shelf": "raw"
+    },
+    {
+      "slug": "2nd-brain-shared-canon",
+      "name": "2nd Brain",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Keeps a short shared work canon so peer bots start from the same role, goals, VIPs, systems, and decisions",
+      "summary_zh": "维护一份短的共享工作正典，让其它机器人从同一套角色、目标、关键人、系统和定论起步",
+      "import": "https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO",
+      "category": "teams-handoffs",
+      "tags": [
+        "knowledge-base",
+        "agent-team",
+        "ops",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/scottxmetcalf/status/2102052001542717882",
+      "shelf": "aka"
     },
     {
       "slug": "3cpo",
@@ -6281,6 +6304,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "chief-of-staff-construction",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "RoggyRyan",
+        "url": "https://x.com/RoggyRyan"
+      },
+      "summary": "Front door for a construction shop that reads mail and calendar, routes work to specialists, and never sends without approval",
+      "summary_zh": "工地或工程办公室的前门幕僚，读邮件与日历、分派专家桌，未经批准不发送也不采购",
+      "import": "https://x.ai/bot/dZfz-QuarMKqQo_mdPhbb",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "construction",
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/RoggyRyan/status/2102183469467975727",
+      "shelf": "aka"
+    },
+    {
       "slug": "chief-of-staff-contractor-rebuild",
       "name": "Chief of Staff — Contractor Rebuild",
       "author": {
@@ -7305,6 +7351,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "clipping-bot",
+      "name": "Clipping Bot",
+      "author": {
+        "name": "stevenvan_",
+        "url": "https://x.com/stevenvan_"
+      },
+      "summary": "Turns long-form video into short captioned clips with edit, export, and social copy, posting only after you approve",
+      "summary_zh": "把长视频剪成带字幕的短片，并准备导出与社媒文案，发布前必须你批准",
+      "import": "https://x.ai/bot/DqEVmbXRKLneHRrUihAfx",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "clips",
+        "captions",
+        "social"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/stevenvan_/status/2102114008337694755",
       "shelf": "raw"
     },
     {
@@ -9228,6 +9297,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "crux",
+      "name": "Crux",
+      "author": {
+        "name": "BobbyBacklogs",
+        "url": "https://x.com/BobbyBacklogs"
+      },
+      "summary": "Turns any Reel, YouTube, podcast clip, or video into a brutally concise brief of only what is worth knowing",
+      "summary_zh": "把任意 Reel、YouTube、播客片段或视频收成只留真正值得知道的极简摘要",
+      "import": "https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "summary",
+        "briefs",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/BobbyBacklogs",
+      "shelf": "raw"
+    },
+    {
       "slug": "cs-bot",
       "name": "CS BOT",
       "author": {
@@ -9583,6 +9675,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dag-helper",
+      "name": "dag-helper",
+      "author": {
+        "name": "xsubwayratx",
+        "url": "https://x.com/xsubwayratx"
+      },
+      "summary": "Keeps several coding agents honest about one repo conventions, source of truth, and model-router defaults",
+      "summary_zh": "让多个编码代理守住同一仓库的约定、真相层与模型路由默认值，减少悄然漂移",
+      "import": "https://x.ai/bot/kelV8jM8UkGgFG79M1TCL",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "conventions",
+        "agent-team",
+        "devtools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/xsubwayratx/status/2102125604459991416",
       "shelf": "raw"
     },
     {
@@ -13554,6 +13669,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "firstlight",
+      "name": "firstlight",
+      "author": {
+        "name": "PjBohica",
+        "url": "https://x.com/PjBohica"
+      },
+      "summary": "Onboards new Grok Bot users by doing small real tasks for first memory, first routine, and first automation",
+      "summary_zh": "用动手任务给 Grok Bot 新手做上手引导，完成第一次记忆、例行与自动化",
+      "import": "https://x.ai/bot/WcEvLjD12fIJCW7xjbuea",
+      "category": "personal-admin",
+      "tags": [
+        "onboarding",
+        "learning",
+        "meta-bot",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/PjBohica/status/2102119295417278762",
+      "shelf": "raw"
+    },
+    {
       "slug": "firstmate",
       "name": "Firstmate",
       "author": {
@@ -16132,6 +16270,29 @@
       "shelf": "aka"
     },
     {
+      "slug": "grok-build-zac70182",
+      "name": "Grok Build",
+      "author": {
+        "name": "zac70182",
+        "url": "https://x.com/zac70182"
+      },
+      "summary": "Runs the Grok Build CLI at full effort on an agent computer for apps, code, and deep research",
+      "summary_zh": "在代理电脑上以最大力度跑 Grok Build CLI，做应用、代码与深度研究",
+      "import": "https://x.ai/bot/wnFlIE6YpskdUekfkkwFO",
+      "category": "coding-shipping",
+      "tags": [
+        "grok-build",
+        "engineering",
+        "research",
+        "cli"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/zac70182/status/2102181050361237576",
+      "shelf": "aka"
+    },
+    {
       "slug": "grok-build-zrxm1o",
       "name": "grok build",
       "author": {
@@ -16947,6 +17108,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06",
+      "shelf": "raw"
+    },
+    {
+      "slug": "hackbot9000",
+      "name": "HackBot9000",
+      "author": {
+        "name": "fulg0re",
+        "url": "https://x.com/fulg0re"
+      },
+      "summary": "Reviews bot-written PRs and pre-ship apps for stale deps, fake packages, weak auth, and missing controls",
+      "summary_zh": "审查机器人写的 PR 与临上线应用，查过期依赖、假包、脆弱鉴权与缺失控制",
+      "import": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "code-review",
+        "shipping",
+        "devtools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/fulg0re/status/2102128466913292509",
       "shelf": "raw"
     },
     {
@@ -19115,6 +19299,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "inbox-gtd",
+      "name": "Inbox",
+      "author": {
+        "name": "Genseb7",
+        "url": "https://x.com/Genseb7"
+      },
+      "summary": "Weekday GTD triage for an Obsidian inbox that clarifies overnight captures into actions, waiting-fors, and calendar",
+      "summary_zh": "工作日早晨做 GTD 分拣，把一夜堆积整理成下一步、等待项与日历事项",
+      "import": "https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH",
+      "category": "inbox-calendar",
+      "tags": [
+        "gtd",
+        "inbox",
+        "obsidian",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/Genseb7/status/2102187055404982593",
+      "shelf": "raw"
+    },
+    {
       "slug": "inbox-to-asana",
       "name": "Inbox to Asana",
       "author": {
@@ -19914,6 +20121,52 @@
       "updated": "2026-09-19",
       "source": "https://x.com/ChrisAdcockMD/status/2101108297122418879",
       "shelf": "raw"
+    },
+    {
+      "slug": "jev-router",
+      "name": "Jev router",
+      "author": {
+        "name": "ColinMcDermott",
+        "url": "https://x.com/ColinMcDermott"
+      },
+      "summary": "Fast calibrated classifier for routing, urgency, labels, and rubrics so expensive models only run when needed",
+      "summary_zh": "用快速校准分类器做路由、紧急度、标签与评分，昂贵模型只在必要时上阵",
+      "import": "https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX",
+      "category": "coding-shipping",
+      "tags": [
+        "routing",
+        "classifier",
+        "automation",
+        "jev"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/ColinMcDermott/status/2102057530813735162",
+      "shelf": "raw"
+    },
+    {
+      "slug": "jev-visible-chrome",
+      "name": "Jev",
+      "author": {
+        "name": "shengguo7051",
+        "url": "https://x.com/shengguo7051"
+      },
+      "summary": "Visible-Chrome web automation with TypeSafe Jev, falling back to screenshots only when the action list is empty",
+      "summary_zh": "用可见 Chrome 和 TypeSafe Jev 做网页自动化，动作表空了才退回截图操作",
+      "import": "https://x.ai/bot/DSq_IJgpo9DZ9qcVcRNsi",
+      "category": "coding-shipping",
+      "tags": [
+        "automation",
+        "browser",
+        "jev",
+        "devtools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/shengguo7051/status/2102125290063302737",
+      "shelf": "aka"
     },
     {
       "slug": "jevbot",
@@ -23666,6 +23919,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "mason-gaming-laptop",
+      "name": "Mason",
+      "author": {
+        "name": "ZestStream",
+        "url": "https://x.com/ZestStream"
+      },
+      "summary": "Talks you through Windows gaming-laptop faults with risk-ranked fixes and a hard stop before invasive steps",
+      "summary_zh": "帮你排查 Windows 游戏本故障，给出风险排序的修复建议，侵入性操作前必须你点头",
+      "import": "https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj",
+      "category": "personal-admin",
+      "tags": [
+        "support",
+        "windows",
+        "laptop",
+        "diagnostics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/ZestStream/status/2102067819462713408",
+      "shelf": "raw"
+    },
+    {
       "slug": "master-ops-delegator",
       "name": "Master Ops Delegator",
       "author": {
@@ -23755,6 +24031,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "maxq-a-bot",
+      "name": "MaxQ&A Bot",
+      "author": {
+        "name": "buckwatia",
+        "url": "https://x.com/buckwatia"
+      },
+      "summary": "Turns a rocket mission into a grade-banded lesson kit with explainer, worksheet, and short class video",
+      "summary_zh": "把一次火箭任务做成分级教学包，含讲解、工作纸与短课堂视频",
+      "import": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+      "category": "research-briefings",
+      "tags": [
+        "education",
+        "space",
+        "learning",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/buckwatia/status/2102095745746624625",
+      "shelf": "raw"
+    },
+    {
       "slug": "mdh-hill-charts",
       "name": "MDH Hill Charts",
       "author": {
@@ -23840,6 +24139,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "mediation-bot",
+      "name": "Mediation Bot",
+      "author": {
+        "name": "SacredFolio",
+        "url": "https://x.com/SacredFolio"
+      },
+      "summary": "Coaches you through a hard conversation, then drafts a calmer reply in your voice that waits for your yes",
+      "summary_zh": "帮你把难聊的立场说清楚，再按你的口吻起草更冷静的回复，发出前必须你点头",
+      "import": "https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN",
+      "category": "personal-admin",
+      "tags": [
+        "wellbeing",
+        "conflict",
+        "drafts",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/SacredFolio/status/2102022703490257352",
+      "shelf": "raw"
     },
     {
       "slug": "medical-aid",
@@ -24681,6 +25003,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "movie-magic",
+      "name": "Movie Magic",
+      "author": {
+        "name": "king_rob_lo",
+        "url": "https://x.com/king_rob_lo"
+      },
+      "summary": "Film picks, a running watchlist, and a weekly domestic box-office roundup with charts you can reuse",
+      "summary_zh": "电影推荐、持续更新的待看清单，以及带可复用图表的每周北美票房汇总",
+      "import": "https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK",
+      "category": "personal-admin",
+      "tags": [
+        "movies",
+        "watchlist",
+        "analytics",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/king_rob_lo/status/2102103672901795965",
+      "shelf": "raw"
+    },
+    {
       "slug": "moving-concierge",
       "name": "Moving Concierge",
       "author": {
@@ -25341,6 +25686,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "newsletterbot-contentdrips",
+      "name": "NewsletterBot by Contentdrips",
+      "author": {
+        "name": "im_usamakhalid",
+        "url": "https://x.com/im_usamakhalid"
+      },
+      "summary": "Turns a newsletter issue link into branded social graphics and carousels after you approve the highlights",
+      "summary_zh": "把一期 newsletter 链接转成品牌社媒图与轮播，亮点先经你批准再出图",
+      "import": "https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8",
+      "category": "content-publishing",
+      "tags": [
+        "newsletter",
+        "social",
+        "design",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/im_usamakhalid/status/2102110261683552351",
       "shelf": "raw"
     },
     {
@@ -27675,6 +28043,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "penny",
+      "name": "Penny",
+      "author": {
+        "name": "minivan99",
+        "url": "https://x.com/minivan99"
+      },
+      "summary": "Reorders from your Amazon history on a short ask, compares alternatives, and holds every new buy for your yes",
+      "summary_zh": "按你的 Amazon 历史快速复购，比较替代品，任何新购买都等你点头再下单",
+      "import": "https://x.ai/bot/Gcpb0AM_Ix_r5jycu_3NL",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "amazon",
+        "saving-money",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/minivan99/status/2102183455228317727",
+      "shelf": "raw"
+    },
+    {
       "slug": "people",
       "name": "People",
       "author": {
@@ -28068,6 +28459,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "phare",
+      "name": "phare",
+      "author": {
+        "name": "kvncyf_",
+        "url": "https://x.com/kvncyf_"
+      },
+      "summary": "Teaches generative-AI basics from official coursework, then quietly follows up on priorities you named",
+      "summary_zh": "用官方课程教生成式 AI 基础，随后按你点过的优先级安静跟进",
+      "import": "https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H",
+      "category": "research-briefings",
+      "tags": [
+        "learning",
+        "ai",
+        "productivity",
+        "tutor"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/kvncyf_/status/2102154022404722934",
       "shelf": "raw"
     },
     {
@@ -28854,6 +29268,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "price-watch-scout",
+      "name": "Price Watch",
+      "author": {
+        "name": "mattdotson74",
+        "url": "https://x.com/mattdotson74"
+      },
+      "summary": "Tracks public US research-consumable list prices and pack sizes, with every number tied to a URL",
+      "summary_zh": "跟踪美国公开科研耗材标价与规格，每个数字都要挂上来源链接",
+      "import": "https://x.ai/bot/enoVHCmgV3gHhw4IPXvLW",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "pricing",
+        "data",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-22",
+      "source": "https://x.com/mattdotson74/status/2102047674887238141",
       "shelf": "raw"
     },
     {
