@@ -5617,6 +5617,28 @@
       "shelf": "aka"
     },
     {
+      "slug": "chief-cameron",
+      "name": "Chief",
+      "author": {
+        "name": "cameronchristo",
+        "url": "https://x.com/cameronchristo"
+      },
+      "summary": "Drafts-only chief of staff for open loops, reply drafts, and a morning inbox calendar scan",
+      "summary_zh": "只起草不外发的幕僚长，管开环、回复草稿和早间收件箱日历扫描",
+      "import": "https://x.ai/bot/UrO63RhN1LGXD3DzoMess",
+      "category": "inbox-calendar",
+      "tags": [
+        "chief-of-staff",
+        "inbox",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/cameronchristo/status/2102630359930139118",
+      "shelf": "aka"
+    },
+    {
       "slug": "chief-growth-coach",
       "name": "Chief (growth coach)",
       "author": {
@@ -8405,6 +8427,28 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "aka"
+    },
+    {
+      "slug": "connect-multiple-grok-bot-accounts",
+      "name": "Connect multiple Grok Bot accounts",
+      "author": {
+        "name": "pauloglez90",
+        "url": "https://x.com/pauloglez90"
+      },
+      "summary": "Run every Grok Bot seat under one roof after a single install and connect",
+      "summary_zh": "一次安装连接后，把所有 Grok Bot 席位收在同一屋檐下管理",
+      "import": "https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL",
+      "category": "coding-shipping",
+      "tags": [
+        "multi-account",
+        "ops",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/pauloglez90/status/2102631623468765633",
+      "shelf": "raw"
     },
     {
       "slug": "connection-audit",
@@ -11368,6 +11412,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "dmarc-specialist",
+      "name": "Dmarc Specialist",
+      "author": {
+        "name": "brettev",
+        "url": "https://x.com/brettev"
+      },
+      "summary": "Reviews DMARC aggregate reports and guides SPF DKIM DMARC policy from none toward enforce",
+      "summary_zh": "审 DMARC 汇总报告，把 SPF、DKIM、DMARC 策略从 none 往强制推",
+      "import": "https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05",
+      "category": "finance-ops",
+      "tags": [
+        "email",
+        "dmarc",
+        "deliverability"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/brettev/status/2102604923301204417",
+      "shelf": "raw"
+    },
+    {
       "slug": "dnd",
       "name": "Dnd",
       "author": {
@@ -11920,6 +11986,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "drop-radar",
+      "name": "Drop Radar",
+      "author": {
+        "name": "Steph_Pierson",
+        "url": "https://x.com/Steph_Pierson"
+      },
+      "summary": "Same-day DTC and beauty competitor product-drop watcher across Amazon, brand sites, and TikTok Shop",
+      "summary_zh": "当天盯 DTC 与美妆竞品上新，覆盖亚马逊、品牌站和 TikTok Shop",
+      "import": "https://x.ai/bot/KYM0C9BcyfXEP9uIyxlmE",
+      "category": "research-briefings",
+      "tags": [
+        "dtc",
+        "competitor",
+        "products",
+        "watch"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/Steph_Pierson/status/2102601597557817539",
       "shelf": "raw"
     },
     {
@@ -22817,6 +22906,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "liftoff",
+      "name": "Liftoff",
+      "author": {
+        "name": "Steph_Pierson",
+        "url": "https://x.com/Steph_Pierson"
+      },
+      "summary": "Adds SpaceX launches that lift off within an hour of local sunset to your Google Calendar",
+      "summary_zh": "把日落前后一小时内起飞的 SpaceX 发射加进你的谷歌日历",
+      "import": "https://x.ai/bot/nSNeVcwO0QZOrOdirgRAc",
+      "category": "inbox-calendar",
+      "tags": [
+        "spacex",
+        "calendar",
+        "launches"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/Steph_Pierson/status/2102601226185506959",
+      "shelf": "raw"
+    },
+    {
       "slug": "lighting-specialist",
       "name": "Lighting Specialist",
       "author": {
@@ -32926,6 +33037,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "roster",
+      "name": "Roster",
+      "author": {
+        "name": "Saint_Chevalier",
+        "url": "https://x.com/Saint_Chevalier"
+      },
+      "summary": "Tracks your people, AIs, projects, and tek, and flags who is stale on what from your own list",
+      "summary_zh": "按你自己的名单跟踪人、AI、项目与技术，标出谁在哪件事上落后了",
+      "import": "https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC",
+      "category": "teams-handoffs",
+      "tags": [
+        "roster",
+        "follow-up",
+        "teams"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/Saint_Chevalier/status/2102646488958701850",
+      "shelf": "raw"
+    },
+    {
       "slug": "routines",
       "name": "Routines",
       "author": {
@@ -36048,6 +36181,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "spark",
+      "name": "Spark",
+      "author": {
+        "name": "Steph_Pierson",
+        "url": "https://x.com/Steph_Pierson"
+      },
+      "summary": "Idea-probe interviewer that runs short sharp waves until a named insight and next experiment land",
+      "summary_zh": "用短促追问把半成品点子逼到一个命名洞见和下一步实验",
+      "import": "https://x.ai/bot/f0W4gAqrCJ0gRHJTlHOao",
+      "category": "personal-admin",
+      "tags": [
+        "ideas",
+        "interview",
+        "product"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/Steph_Pierson/status/2102601412454539565",
+      "shelf": "raw"
+    },
+    {
       "slug": "spark-btc-bot",
       "name": "Spark BTC Bot",
       "author": {
@@ -37467,6 +37622,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "tamago",
+      "name": "Tamago",
+      "author": {
+        "name": "knge_rstc",
+        "url": "https://x.com/knge_rstc"
+      },
+      "summary": "Designs high-quality Grok Bots with a faithful Japanese writing bar for people-facing copy",
+      "summary_zh": "设计高质量 Grok Bot，对人看的日文写作坚持忠实日语标准",
+      "import": "https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO",
+      "category": "coding-shipping",
+      "tags": [
+        "bot-design",
+        "japanese",
+        "writing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/knge_rstc/status/2102607543856226457",
+      "shelf": "raw"
+    },
+    {
       "slug": "tangiers",
       "name": "Tangiers",
       "author": {
@@ -37796,6 +37973,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tera",
+      "name": "Tera",
+      "author": {
+        "name": "vonsmear",
+        "url": "https://x.com/vonsmear"
+      },
+      "summary": "Warm household and personal-ops assistant for mail glances, morning recaps, and everyday follow-through",
+      "summary_zh": "温短的家务与个人运转助理，扫一眼邮件、早间回顾和日常跟进",
+      "import": "https://x.ai/bot/B1EPNTh_TsReIL-Y5Q278",
+      "category": "personal-admin",
+      "tags": [
+        "household",
+        "personal",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/vonsmear/status/2102653699239932236",
       "shelf": "raw"
     },
     {

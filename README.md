@@ -101,17 +101,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 265 |
-| [Inbox & calendar](#inbox--calendar) | 73 |
-| [Research & briefings](#research--briefings) | 235 |
+| [Coding & shipping](#coding--shipping) | 267 |
+| [Inbox & calendar](#inbox--calendar) | 75 |
+| [Research & briefings](#research--briefings) | 236 |
 | [Customer & sales](#customer--sales) | 192 |
-| [Finance & ops](#finance--ops) | 235 |
+| [Finance & ops](#finance--ops) | 236 |
 | [Content & publishing](#content--publishing) | 237 |
-| [Personal admin](#personal-admin) | 457 |
-| [Teams & handoffs](#teams--handoffs) | 252 |
-| **Total** | **1946** |
+| [Personal admin](#personal-admin) | 459 |
+| [Teams & handoffs](#teams--handoffs) | 253 |
+| **Total** | **1955** |
 
-All 1946 share pages returned HTTP 200 on 23 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1946 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1955 share pages returned HTTP 200 on 23 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1955 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -290,6 +290,7 @@ One share is one bot. Assemble the roster yourself.
 - [Cody](https://x.ai/bot/843EAX4tlSviLDLgq3G1B) - Cloudflare-only ops assistant for DNS, tunnels, Access, Workers, Pages, and security settings. Preserves configs, asks with explainers before changes,. [ThatRetiredDude](https://x.com/ThatRetiredDude).
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) - Audits pasted PR diffs with a >80% confidence gate: APPROVE / WARNING / BLOCK. [v_burgos_](https://x.com/v_burgos_).
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) - Confidence Gate Code Reviewer Grok Bot share template. community.
+- [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) - Run every Grok Bot seat under one roof after a single install and connect. [pauloglez90](https://x.com/pauloglez90).
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) - Imports the right Chrome cookies onto the shared computer so browser bots stop dying at login walls. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) - Deploys CLIProxyAPI on the cloud computer with a Cloudflare tunnel. [licoycn](https://x.com/licoycn).
 - [critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) - A design critic that reviews your UI screenshots and only has notes. [mamuso](https://x.com/mamuso).
@@ -467,6 +468,7 @@ One share is one bot. Assemble the roster yourself.
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) - Build and run Substreams blockchain data pipelines from chat. [Graphtronauts](https://x.com/graphtronauts_c).
 - [Sworm](https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_) - Sealed family sketches and detection ideas, never a runnable malware sample. [Knock](https://x.com/SuddenlyJon).
 - [Tally Desk](https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5) - Builds Tally forms, reads the responses, fills one on request. [joshkim](https://x.com/joshkim).
+- [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) - Designs high-quality Grok Bots with a faithful Japanese writing bar for people-facing copy. [knge_rstc](https://x.com/knge_rstc).
 - [tech demos](https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU) - Weekday X-bookmark scout that picks one new library to demo, asks for approval, then plans and builds it in a sticky monorepo with a Cursor cloud agent.... [mattyp](https://x.com/mattyp).
 - [Tech Digest Diario](https://x.ai/bot/egPmVEFXCQSrimVE8KDyP) - Daily engineering digest from blogs and feeds at 8:00 — no item cap — written in the user’s language, with an optional multilingual audio podcast. [ElbenjasSw](https://x.com/ElbenjasSw).
 - [Tech Lead](https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W) - Gates the merge on what the diff and the tests actually show. [Ashish](https://x.com/inqusit).
@@ -518,6 +520,7 @@ One share is one bot. Assemble the roster yourself.
 - [CEO Morning Secretary](https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX) - A weekday CEO brief that reads the calendar and important mail aloud, with routine-ready drafts. [jy Kim](https://x.com/JyKim90832).
 - [CEO용 아침 비서](https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z) - Weekday Korean-language CEO brief that shortlists calendar and decision mail, with send/pay/publish only after you confirm. [jy Kim](https://x.com/JyKim90832).
 - [Chief](https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI) - Weekday-morning triage of your inbox, your calendar and your replies. [SmoresBoy](https://x.com/jxckvibe).
+- [Chief](https://x.ai/bot/UrO63RhN1LGXD3DzoMess) - Drafts-only chief of staff for open loops, reply drafts, and a morning inbox calendar scan. [cameronchristo](https://x.com/cameronchristo).
 - [Chief of Staff](https://x.ai/bot/3lMMBN3oSETGdsbo9xDh7) - Front door for your day: coordinates calendar and email, pulls you in for decisions, and helps manage specialist bots. For founders and operators. [AngeloGordilloX](https://x.com/AngeloGordilloX).
 - [Chief of Staff](https://x.ai/bot/IqLFMirip0OoP8XWVyCAV) - Always-on chief of staff for busy people. Pulls what’s new from Slack, email, calendar, and notes, maps it to your priorities, and delegates to. [jimit_shah](https://x.com/jimit_shah).
 - [Chief of Staff](https://x.ai/bot/hyfj5RsTSPzP6llmi88iQ) - Job-search chief of staff for tailored CVs, calendar prep, and weekday follow-ups on Google. [Rut](https://x.com/Gigi_Coachh).
@@ -550,6 +553,7 @@ One share is one bot. Assemble the roster yourself.
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) - Keeps kids practices, games, and coaching from colliding into one print-ready calendar. [emilykuro2](https://x.com/emilykuro2).
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) - Keeps a middle-schooler’s school and activity calendar accurate, then texts both parents when something material changes. Built for Canvas homework,. [michindorado](https://x.com/michindorado).
 - [Lifeline](https://x.ai/bot/Ye7Z9FkWcu9r4IeDj8srT) - Helps protect a student’s academic progress during unexpected emergencies — reviews authorized course, email, calendar, and recruiting info, flags. [Jay](https://x.com/jaychauhangoat).
+- [Liftoff](https://x.ai/bot/nSNeVcwO0QZOrOdirgRAc) - Adds SpaceX launches that lift off within an hour of local sunset to your Google Calendar. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [loom](https://x.ai/bot/cElGnAaR55iPHK2DGdPdu) - Reads across Gmail threads and drafts the reply, never sends it. [Lauren](https://x.com/poteto).
 - [Love ❤️](https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg) - Keeps the thoughtful part of a relationship from slipping. [dannybuck](https://x.com/dannybuck).
 - [mailer](https://x.ai/bot/3S7qjz3K6eV95xasgN2x4) - A Gmail assistant that triages your inbox on weekdays, drafts replies for you to review, and keeps noisy alerts out of the way. [snowiestein](https://x.com/snowiestein).
@@ -648,6 +652,7 @@ One share is one bot. Assemble the roster yourself.
 - [Doing Gap](https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE) - Counts what you have watched against what you have shipped, then makes you build. [Sultanov](https://x.com/thekuchh).
 - [DomainSnip Bot](https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q) - Weekday morning DomainSnip digest that flags notable new or ending-soon .com matches from your saved keyword alerts. [Ward](https://x.com/uxaistudio).
 - [dosebot](https://x.ai/bot/2euxntVrddHyA3c2hyxiZ) - Tells you whether a business idea is a nice-to-have or a genuine ache. [onerinas](https://x.com/onerinas).
+- [Drop Radar](https://x.ai/bot/KYM0C9BcyfXEP9uIyxlmE) - Same-day DTC and beauty competitor product-drop watcher across Amazon, brand sites, and TikTok Shop. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - Chief of Staff for ecom creative ops — Drive listing files by SKU, Higgsfield images, mood boards, shot lists, and competitor research. Gates writes;. [ShalomNFT](https://x.com/ShalomNFT).
 - [EdTech News Nathan](https://x.ai/bot/hqMdsLmgy8l7XEtsdhXc_) - Delivers skeptical daily and weekly EdTech digests on classroom games, school tech policy, and notable platform developments for educators and EdTech. [NoahReynol99548](https://x.com/NoahReynol99548).
 - [elf](https://x.ai/bot/u9MMY9PmqCWnVDucZ49Tt) - Expert research seat for a multi-agent fleet. Deep-dives questions workers escalate, returns verdict-first recommendations with evidence, and never. [CapitalCopilot](https://x.com/CapitalCopilot).
@@ -1079,6 +1084,7 @@ One share is one bot. Assemble the roster yourself.
 - [Denial Desk](https://x.ai/bot/EgfoyJEx7bfDiHlZUwr3P) - Reads medical denial letters and codes, then builds an appeal package. [Andrew51786](https://x.com/Andrew51786).
 - [DenTrade](https://x.ai/bot/XayB4rqAREYwJcPmKwtSP) - Unattended day-trading desk for a Robinhood agentic account with hard risk caps. [madmenai](https://x.com/madmenai).
 - [Directories](https://x.ai/bot/bPn4rxqBjPaEnJ2qurHZx) - Submits your products to free/easy SaaS and AI directories on a weekday cadence. Tracks status, uses a dedicated agent inbox for signups, and stops. [Raress96_](https://x.com/Raress96_).
+- [Dmarc Specialist](https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05) - Reviews DMARC aggregate reports and guides SPF DKIM DMARC policy from none toward enforce. [brettev](https://x.com/brettev).
 - [Do Not Pay](https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4) - Pushes back on charges you should not be paying, and writes the letter. [DennisonBertram](https://x.com/DennisonBertram).
 - [Domain Tracker](https://x.ai/bot/SwaSdg0XhIa_IliAWggYE) - Watches the domains you hold and the ones you are still hoping to get. [sdrth](https://x.com/sdrth).
 - [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) - Chief of staff for a productized-services founder. Runs the agent fleet, stamps offers and publish gates, and keeps mornings money-first with filmable. [topshoh](https://x.com/topshoh).
@@ -1877,6 +1883,7 @@ One share is one bot. Assemble the roster yourself.
 - [Soulsie Riff](https://x.ai/bot/O-7W0uf0-_raG54kvXQcV) - Private joke desk that mashes a nuanced spy bit with dad groaners for a shared agent gag. [AdventureNLearn](https://x.com/AdventureNLearn).
 - [Sous](https://x.ai/bot/YuCkZU_ydajw1PFxyguAD) - Kitchen co-pilot for weeknight dinners and meal plans from a fridge photo or a quick ask. [Sabathius](https://x.com/Sabathius).
 - [Sous Chef](https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t) - Plans the week's dinners, writes the shopping list, and can order it. [Amber](https://x.com/amberdawn1786).
+- [Spark](https://x.ai/bot/f0W4gAqrCJ0gRHJTlHOao) - Idea-probe interviewer that runs short sharp waves until a named insight and next experiment land. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [stank](https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi) - A deadpan reminder to go take a shower. [poteto](https://x.com/poteto).
 - [Starpass Bot](https://x.ai/bot/-a3lO7uq0BioSgZChbiPL) - Helps with Starpass and launch-viewing logistics. [cjl_patriot](https://x.com/cjl_patriot).
 - [Starship schedule watcher](https://x.ai/bot/Q5fISdgRxIlzmlhyCKYhS) - Watches the Starship schedule and pings when the window moves. [lakshithak2](https://x.com/lakshithak2).
@@ -1893,6 +1900,7 @@ One share is one bot. Assemble the roster yourself.
 - [Talent Discovery](https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc) - Finds candidates for open roles that match your criteria and aren't already in your ATS. [Tommy Hansen](https://x.com/TommyHansenTA).
 - [Tangiers](https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ) - Casino-floor calm Ace Rothstein vibes that runs the room, not the noise. [x402agent](https://x.com/x402agent).
 - [TeacherBot](https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W) - Homeschool teacher for one child after SchoolAdminBot admits them. Tanner.
+- [Tera](https://x.ai/bot/B1EPNTh_TsReIL-Y5Q278) - Warm household and personal-ops assistant for mail glances, morning recaps, and everyday follow-through. [vonsmear](https://x.com/vonsmear).
 - [Terry Tate](https://x.ai/bot/H6aO75qUSQPc_ERGR4r_m) - Your reminder follow-up boss — playful office-linebacker energy that takes over when other bots' polite nags stop working, so commitments. [Tanner](https://x.com/TannerIngalls).
 - [Tesla Bot](https://x.ai/bot/l4EozO2deoaWFB8hOGwTY) - Runs your Tesla from a chat window once the two are paired. [mvanhorn](https://x.com/mvanhorn).
 - [Teslascope](https://x.ai/bot/brwSBnhe7jg20IBJS0TVK) - Ask plain questions about your Tesla's trips, charging and status. [teslascope](https://x.com/teslascope).
@@ -2150,6 +2158,7 @@ One share is one bot. Assemble the roster yourself.
 - [Rescue Cat](https://x.ai/bot/5lT1ODmcvQ5jKYw7qvtLY) - Shelter-style rehomer that finds abandoned drafts, half-dead routines, and lonely bots, then proposes keep, merge, archive, or rewrite. [Ignota](https://x.com/ignota_regalis).
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) - Keeps watch over the fleet of bots you already run. [LeTerryBZH](https://x.com/LeTerryBZH).
 - [Root Agent](https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P) - Sets the goal, assembles the smallest team that can hit it, then reports back. [mrbeko_](https://x.com/mrbeko_).
+- [Roster](https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC) - Tracks your people, AIs, projects, and tek, and flags who is stale on what from your own list. [Saint_Chevalier](https://x.com/Saint_Chevalier).
 - [Routines](https://x.ai/bot/tes3TMV3WjinLazIM9N_n) - Runs the scheduled-job layer cheaply so a coordinator setup stays quiet on weekends and only wakes pricey bots when needed. [compileinstyle](https://x.com/compileinstyle).
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) - Founder chief of staff with hard authority boundaries on hiring, contracts, and budget. [JohnnyWang8802](https://x.com/JohnnyWang8802).
 - [Sankalpa](https://x.ai/bot/tKZy48MlAbIo_bPuAOehm) - Assembles an AI startup team to challenge an idea, validate, build, sell, and operate. [Rajendra Prasad Poloju](https://x.com/prasad_pol50464).

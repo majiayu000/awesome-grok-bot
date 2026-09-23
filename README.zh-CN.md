@@ -101,17 +101,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 265 |
-| [Inbox & calendar](#inbox--calendar) | 73 |
-| [Research & briefings](#research--briefings) | 235 |
+| [Coding & shipping](#coding--shipping) | 267 |
+| [Inbox & calendar](#inbox--calendar) | 75 |
+| [Research & briefings](#research--briefings) | 236 |
 | [Customer & sales](#customer--sales) | 192 |
-| [Finance & ops](#finance--ops) | 235 |
+| [Finance & ops](#finance--ops) | 236 |
 | [Content & publishing](#content--publishing) | 237 |
-| [Personal admin](#personal-admin) | 457 |
-| [Teams & handoffs](#teams--handoffs) | 252 |
-| **合计** | **1946** |
+| [Personal admin](#personal-admin) | 459 |
+| [Teams & handoffs](#teams--handoffs) | 253 |
+| **合计** | **1955** |
 
-2026 年 9 月 23 日检查时，1946 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1946 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 23 日检查时，1955 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1955 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -290,6 +290,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Cody](https://x.ai/bot/843EAX4tlSviLDLgq3G1B) - 只做 Cloudflare 运维，管 DNS、隧道、Access、Workers、Pages 与安全设置，改前先解释. [ThatRetiredDude](https://x.com/ThatRetiredDude).
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) - 用 >80% 置信门槛审计粘贴的 PR diff，APPROVE / WARNING / BLOCK。 [v_burgos_](https://x.com/v_burgos_).
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) - Confidence Gate Code Reviewer 的可导入分享模板，按说明完成首次只读任务后再开写入。 community.
+- [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) - 一次安装连接后，把所有 Grok Bot 席位收在同一屋檐下管理. [pauloglez90](https://x.com/pauloglez90).
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) - 把正确的 Chrome cookie 导入共享电脑让浏览器机器人别卡在登录墙。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) - 在云电脑部署并养护 CLIProxyAPI，带 Cloudflare 隧道保活。 [licoycn](https://x.com/licoycn).
 - [critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) - 设计评论家，只看你的界面截图，只给意见。 [mamuso](https://x.com/mamuso).
@@ -467,6 +468,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) - 在聊天里搭建并运行 Substreams 区块链数据管道。 [Graphtronauts](https://x.com/graphtronauts_c).
 - [Sworm](https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_) - 密封的家族草图和检测思路，从不给可运行样本。 [Knock](https://x.com/SuddenlyJon).
 - [Tally Desk](https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5) - 建 Tally 表、读回复，需要时替你填一份。 [joshkim](https://x.com/joshkim).
+- [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) - 设计高质量 Grok Bot，对人看的日文写作坚持忠实日语标准. [knge_rstc](https://x.com/knge_rstc).
 - [tech demos](https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU) - 工作日扫 X 书签，挑一个新库征得同意后，用 Cursor 云代理在 monorepo 里规划并做出演示。 [mattyp](https://x.com/mattyp).
 - [Tech Digest Diario](https://x.ai/bot/egPmVEFXCQSrimVE8KDyP) - 每天八点的工程日报，来自博客与订阅源，条目不设上限，用你的语言写. [ElbenjasSw](https://x.com/ElbenjasSw).
 - [Tech Lead](https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W) - 只看 diff 和测试的实际结果，替你把住合并这一关。 [Ashish](https://x.com/inqusit).
@@ -518,6 +520,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [CEO Morning Secretary](https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX) - 工作日为 CEO 整理日程和重要邮件并朗读，草稿可交给例行任务处理. [jy Kim](https://x.com/JyKim90832).
 - [CEO용 아침 비서](https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z) - 非开发 CEO 的韩语工作日晨间简报，压缩日程与待决邮件，发送支付发布都要你确认. [jy Kim](https://x.com/JyKim90832).
 - [Chief](https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI) - 工作日早上分诊收件箱、日历和待回复。 [SmoresBoy](https://x.com/jxckvibe).
+- [Chief](https://x.ai/bot/UrO63RhN1LGXD3DzoMess) - 只起草不外发的幕僚长，管开环、回复草稿和早间收件箱日历扫描. [cameronchristo](https://x.com/cameronchristo).
 - [Chief of Staff](https://x.ai/bot/3lMMBN3oSETGdsbo9xDh7) - 一天的前门，协调日历与邮件，决策时才拉你，并帮你管专家机器人. [AngeloGordilloX](https://x.com/AngeloGordilloX).
 - [Chief of Staff](https://x.ai/bot/IqLFMirip0OoP8XWVyCAV) - 给忙人的常驻幕僚长，从 Slack、邮件、日历与笔记拉新事，映射到你的优先级，并委派给合适的人. [jimit_shah](https://x.com/jimit_shah).
 - [Chief of Staff](https://x.ai/bot/hyfj5RsTSPzP6llmi88iQ) - 求职参谋，改简历、准备日程，并在 Google 上做工作日跟进. [Rut](https://x.com/Gigi_Coachh).
@@ -550,6 +553,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) - 把孩子的训练、比赛和辅导排进一份可打印、互不撞车的日历. [emilykuro2](https://x.com/emilykuro2).
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) - 稳住初中生的学校与活动日历，并向父母双方短信同步变更. [michindorado](https://x.com/michindorado).
 - [Lifeline](https://x.ai/bot/Ye7Z9FkWcu9r4IeDj8srT) - 在突发紧急时保护学生学业进度，审授权课程、邮件、日历与招生信息并告警. [Jay](https://x.com/jaychauhangoat).
+- [Liftoff](https://x.ai/bot/nSNeVcwO0QZOrOdirgRAc) - 把日落前后一小时内起飞的 SpaceX 发射加进你的谷歌日历. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [loom](https://x.ai/bot/cElGnAaR55iPHK2DGdPdu) - 读完整条 Gmail 线程并起草回复，从不替你发出。 [Lauren](https://x.com/poteto).
 - [Love ❤️](https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg) - 不让一段关系里体贴的那部分溜走。 [dannybuck](https://x.com/dannybuck).
 - [mailer](https://x.ai/bot/3S7qjz3K6eV95xasgN2x4) - 工作日分流 Gmail，起草回复，并帮你清待办. [snowiestein](https://x.com/snowiestein).
@@ -648,6 +652,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Doing Gap](https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE) - 把你看过的和真正做出来的放在一起算账，然后逼你动手。 [Sultanov](https://x.com/thekuchh).
 - [DomainSnip Bot](https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q) - 工作日早间 DomainSnip 摘要，按你保存的关键词标出值得关注的新域名或快到期 .com. [Ward](https://x.com/uxaistudio).
 - [dosebot](https://x.ai/bot/2euxntVrddHyA3c2hyxiZ) - 判断一个生意点子是锦上添花还是真痛点。 [onerinas](https://x.com/onerinas).
+- [Drop Radar](https://x.ai/bot/KYM0C9BcyfXEP9uIyxlmE) - 当天盯 DTC 与美妆竞品上新，覆盖亚马逊、品牌站和 TikTok Shop. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - 电商创意运营的幕僚长，按 SKU 管网盘上架文件、Higgsfield 图、情绪板、分镜与竞品研究，写入有门禁. [ShalomNFT](https://x.com/ShalomNFT).
 - [EdTech News Nathan](https://x.ai/bot/hqMdsLmgy8l7XEtsdhXc_) - 对课堂游戏与学校科技给出怀疑向的每日与每周 EdTech 摘要. [NoahReynol99548](https://x.com/NoahReynol99548).
 - [elf](https://x.ai/bot/u9MMY9PmqCWnVDucZ49Tt) - 多代理机群的专家研究席，深入工人抛来的问题并带回带证据答案. [CapitalCopilot](https://x.com/CapitalCopilot).
@@ -1079,6 +1084,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Denial Desk](https://x.ai/bot/EgfoyJEx7bfDiHlZUwr3P) - 读医疗拒付信和拒付码，再拼出一套申诉材料。 [Andrew51786](https://x.com/Andrew51786).
 - [DenTrade](https://x.ai/bot/XayB4rqAREYwJcPmKwtSP) - 在硬风险上限内，替 Robinhood 智能账户跑无人值守日内交易。 [madmenai](https://x.com/madmenai).
 - [Directories](https://x.ai/bot/bPn4rxqBjPaEnJ2qurHZx) - 工作日节奏把产品提交到免费或易上的 SaaS 与 AI 目录，并跟踪状态. [Raress96_](https://x.com/Raress96_).
+- [Dmarc Specialist](https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05) - 审 DMARC 汇总报告，把 SPF、DKIM、DMARC 策略从 none 往强制推. [brettev](https://x.com/brettev).
 - [Do Not Pay](https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4) - 帮你顶回不该付的费用，并起草申诉或拒付信件。 [DennisonBertram](https://x.com/DennisonBertram).
 - [Domain Tracker](https://x.ai/bot/SwaSdg0XhIa_IliAWggYE) - 盯着你已持有的域名，也盯着还想入手的那些。 [sdrth](https://x.com/sdrth).
 - [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) - 产品化服务创始人的幕僚长，跑代理机群、盖章报价与发布门，让早晨先抓钱并留下可拍摄瞬间. [topshoh](https://x.com/topshoh).
@@ -1877,6 +1883,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Soulsie Riff](https://x.ai/bot/O-7W0uf0-_raG54kvXQcV) - 私人玩笑台，把细腻间谍梗和爸爸冷笑话揉进共享的机器人梗. [AdventureNLearn](https://x.com/AdventureNLearn).
 - [Sous](https://x.ai/bot/YuCkZU_ydajw1PFxyguAD) - 厨房副手，对着冰箱拍照或随口说一句就能出晚餐与周计划. [Sabathius](https://x.com/Sabathius).
 - [Sous Chef](https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t) - 排一周的晚餐、写好购物清单，还能直接帮你下单。 [Amber](https://x.com/amberdawn1786).
+- [Spark](https://x.ai/bot/f0W4gAqrCJ0gRHJTlHOao) - 用短促追问把半成品点子逼到一个命名洞见和下一步实验. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [stank](https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi) - 面无表情地提醒你去洗澡。 [poteto](https://x.com/poteto).
 - [Starpass Bot](https://x.ai/bot/-a3lO7uq0BioSgZChbiPL) - 帮你处理 Starpass 与看发射的行程杂务。 [cjl_patriot](https://x.com/cjl_patriot).
 - [Starship schedule watcher](https://x.ai/bot/Q5fISdgRxIlzmlhyCKYhS) - 盯星舰时刻表，窗口一变就通知你。 [lakshithak2](https://x.com/lakshithak2).
@@ -1893,6 +1900,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Talent Discovery](https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc) - 按你的标准找开放岗位候选人，并排除已在 ATS 里的人。 [Tommy Hansen](https://x.com/TommyHansenTA).
 - [Tangiers](https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ) - 赌场楼面那种冷静，管场面不管噪音。 [x402agent](https://x.com/x402agent).
 - [TeacherBot](https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W) - 孩子办入学后给这一人写学年计划并执行教学。 Tanner.
+- [Tera](https://x.ai/bot/B1EPNTh_TsReIL-Y5Q278) - 温短的家务与个人运转助理，扫一眼邮件、早间回顾和日常跟进. [vonsmear](https://x.com/vonsmear).
 - [Terry Tate](https://x.ai/bot/H6aO75qUSQPc_ERGR4r_m) - 你的提醒跟进老板，俏皮办公室线卫风格，其它机器人跟不动时接手. [Tanner](https://x.com/TannerIngalls).
 - [Tesla Bot](https://x.ai/bot/l4EozO2deoaWFB8hOGwTY) - 配对之后，在聊天窗口里遥控你的 Tesla。 [mvanhorn](https://x.com/mvanhorn).
 - [Teslascope](https://x.ai/bot/brwSBnhe7jg20IBJS0TVK) - 用白话问你 Tesla 的行程、充电和状态。 [teslascope](https://x.com/teslascope).
@@ -2150,6 +2158,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Rescue Cat](https://x.ai/bot/5lT1ODmcvQ5jKYw7qvtLY) - 收容所式整理员，找出废弃草稿、半死常规和落单机器人，再给出保留合并归档或重写建议. [Ignota](https://x.com/ignota_regalis).
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) - 盯着你已经在跑的那支 Bot 舰队。 [LeTerryBZH](https://x.com/LeTerryBZH).
 - [Root Agent](https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P) - 先定目标，再组最小能干活的机器人小队，最后汇总汇报。 [mrbeko_](https://x.com/mrbeko_).
+- [Roster](https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC) - 按你自己的名单跟踪人、AI、项目与技术，标出谁在哪件事上落后了. [Saint_Chevalier](https://x.com/Saint_Chevalier).
 - [Routines](https://x.ai/bot/tes3TMV3WjinLazIM9N_n) - 低成本扛起定时任务层，周末安静，只在有活动时再唤醒更贵的协调机器人. [compileinstyle](https://x.com/compileinstyle).
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) - 创始人幕僚长，招聘、合同和预算有硬权限边界。 [JohnnyWang8802](https://x.com/JohnnyWang8802).
 - [Sankalpa](https://x.ai/bot/tKZy48MlAbIo_bPuAOehm) - 围绕一个想法拉起 AI 创业小队，挑战假设、验证市场并推进建造与售卖。 [Rajendra Prasad Poloju](https://x.com/prasad_pol50464).
