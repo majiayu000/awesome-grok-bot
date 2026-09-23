@@ -105,13 +105,13 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Inbox & calendar](#inbox--calendar) | 75 |
 | [Research & briefings](#research--briefings) | 236 |
 | [Customer & sales](#customer--sales) | 192 |
-| [Finance & ops](#finance--ops) | 236 |
+| [Finance & ops](#finance--ops) | 237 |
 | [Content & publishing](#content--publishing) | 237 |
-| [Personal admin](#personal-admin) | 459 |
+| [Personal admin](#personal-admin) | 460 |
 | [Teams & handoffs](#teams--handoffs) | 253 |
-| **合计** | **1955** |
+| **合计** | **1957** |
 
-2026 年 9 月 23 日检查时，1955 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1955 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 23 日检查时，1957 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1957 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -1134,6 +1134,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) - 保持 Harvest 与 Balances 发票同步，每日从 Harvest 创建或更新到 Balances. [Jerrod](https://x.com/jerrodtuck).
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) - Kalshi 研究席位，专管单一市场并把下单记录在案. [Jodi](https://x.com/WorkWithJodi).
 - [Labor Drift Catcher](https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd) - 对照排班与打卡下班时间，抓住工时漂移，减少加班意外. [Myke](https://x.com/myke86d).
+- [Law Bot](https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ) - 德州律所运营助手，覆盖家事民事刑事与遗产，草稿标 SAMPLE，须律师审签. [JoshuaRCook](https://x.com/JoshuaRCook).
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) - 全国找当前汽车租赁优惠，盯对标价折扣最深的。 [dannymacias](https://x.com/dannymacias).
 - [Ledger](https://x.ai/bot/5ARm6x7aL6_5N1ETWr_sT) - 把 Gmail/Drive 收据记入支出台账，并做周一摘要。 [TheCiscoBryan](https://x.com/TheCiscoBryan).
 - [Little x](https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz) - 人不在时用邮件指挥发帖与文档任务。 [DonaldMoor91672](https://x.com/DonaldMoor91672).
@@ -1833,6 +1834,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Quoter Bot](https://x.ai/bot/i2nKg3-DdAGyjHh6zHhad) - 保持 ScalePad Quoter 目录干净，稳定品名、实例备注、分类树，并清晰映射到 QuickBooks Online. [Sean](https://x.com/seankubin).
 - [R Visualization Bot](https://x.ai/bot/Y2-3YXQhppPkm5IwYWqTE) - R Visualization Bot 的可导入分享模板，按说明完成首次只读任务后再开写入。 community.
 - [Radar](https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg) - 盯着你所在城市的公开信息源，汇报附近正在发生的事。 [LatchKeyLegend](https://x.com/LatchKeyLegend).
+- [Ranch Bot](https://x.ai/bot/Rv893FcX1cPsVnr-wJpo6) - 德州牧场运营助手，帮业主和现场经理管野生动物、道路、油面、水、设备和宅地. [JoshuaRCook](https://x.com/JoshuaRCook).
 - [Range Safety](https://x.ai/bot/iscg84P3opJzawEucvqlr) - 在你点发送前清洗邮件、价格、招聘笔记、演示、推文与变更日志. [Martin](https://x.com/Pieciominutowy).
 - [Raven](https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs) - 毒舌营养教练，文字或照片记一餐，估热量蛋白并对着目标累计。 [Josiah](https://x.com/dezmathio).
 - [Realtor Bot](https://x.ai/bot/4wovVk-3n65GZSQnG_srx) - 帮买房租房的人搜房源，少一层中介话术。 [Brantley_Brum](https://x.com/Brantley_Brum).

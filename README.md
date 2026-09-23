@@ -105,13 +105,13 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Inbox & calendar](#inbox--calendar) | 75 |
 | [Research & briefings](#research--briefings) | 236 |
 | [Customer & sales](#customer--sales) | 192 |
-| [Finance & ops](#finance--ops) | 236 |
+| [Finance & ops](#finance--ops) | 237 |
 | [Content & publishing](#content--publishing) | 237 |
-| [Personal admin](#personal-admin) | 459 |
+| [Personal admin](#personal-admin) | 460 |
 | [Teams & handoffs](#teams--handoffs) | 253 |
-| **Total** | **1955** |
+| **Total** | **1957** |
 
-All 1955 share pages returned HTTP 200 on 23 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1955 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1957 share pages returned HTTP 200 on 23 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1957 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -1134,6 +1134,7 @@ One share is one bot. Assemble the roster yourself.
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) - Keeps Harvest and Balances invoices in sync: daily create/update from Harvest into Balances, then mark Harvest paid when Balances shows payment. Stages. [Jerrod](https://x.com/jerrodtuck).
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) - Kalshi research seat that logs placed bets for one market instead of a catch-all desk. [Jodi](https://x.com/WorkWithJodi).
 - [Labor Drift Catcher](https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd) - Compares schedule vs clock-out to catch labor drift and overtime surprises before they stack up. [Myke](https://x.com/myke86d).
+- [Law Bot](https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ) - Texas law-firm ops OS for family civil criminal and estate drafts labeled SAMPLE until an attorney signs. [JoshuaRCook](https://x.com/JoshuaRCook).
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) - Hunts current car lease deals nationwide for the deepest discount to MSRP. [dannymacias](https://x.com/dannymacias).
 - [Ledger](https://x.ai/bot/5ARm6x7aL6_5N1ETWr_sT) - Gmail/Drive receipts into a spend ledger and Monday digest. [TheCiscoBryan](https://x.com/TheCiscoBryan).
 - [Little x](https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz) - Drives X and document tasks by email while you are away. [DonaldMoor91672](https://x.com/DonaldMoor91672).
@@ -1833,6 +1834,7 @@ One share is one bot. Assemble the roster yourself.
 - [Quoter Bot](https://x.ai/bot/i2nKg3-DdAGyjHh6zHhad) - Keeps ScalePad Quoter catalogs clean for MSP quoting: stable item names, Notes for instance text, category trees, and a clear map toward QuickBooks Online. [Sean](https://x.com/seankubin).
 - [R Visualization Bot](https://x.ai/bot/Y2-3YXQhppPkm5IwYWqTE) - R Visualization Bot Grok Bot share template. community.
 - [Radar](https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg) - Watches your city's public feeds and reports what is happening nearby. [LatchKeyLegend](https://x.com/LatchKeyLegend).
+- [Ranch Bot](https://x.ai/bot/Rv893FcX1cPsVnr-wJpo6) - Texas ranch operations helper for owners and on-place managers across wildlife roads oil water equipment and homestead. [JoshuaRCook](https://x.com/JoshuaRCook).
 - [Range Safety](https://x.ai/bot/iscg84P3opJzawEucvqlr) - Scrubs emails, prices, hire notes, demos, tweets, and changelogs before you hit send. Answers five lines only: what explodes, who gets hit first, the. [Martin](https://x.com/Pieciominutowy).
 - [Raven](https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs) - A sharp nutrition coach that logs meals from text or a photo. [Josiah](https://x.com/dezmathio).
 - [Realtor Bot](https://x.ai/bot/4wovVk-3n65GZSQnG_srx) - Runs the property search for buyers and renters, minus the agent. [Brantley_Brum](https://x.com/Brantley_Brum).

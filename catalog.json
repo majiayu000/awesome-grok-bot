@@ -22192,6 +22192,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "law-bot",
+      "name": "Law Bot",
+      "author": {
+        "name": "JoshuaRCook",
+        "url": "https://x.com/JoshuaRCook"
+      },
+      "summary": "Texas law-firm ops OS for family civil criminal and estate drafts labeled SAMPLE until an attorney signs",
+      "summary_zh": "德州律所运营助手，覆盖家事民事刑事与遗产，草稿标 SAMPLE，须律师审签",
+      "import": "https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ",
+      "category": "finance-ops",
+      "tags": [
+        "law",
+        "texas",
+        "ops",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/JoshuaRCook/status/2102734567626903780",
+      "shelf": "raw"
+    },
+    {
       "slug": "lazy-tom",
       "name": "Lazy Tom",
       "author": {
@@ -31196,6 +31219,29 @@
       "updated": "2026-09-23",
       "shelf": "raw",
       "source": "https://x.com/matthewbarge/status/2102526890879963587"
+    },
+    {
+      "slug": "ranch-bot",
+      "name": "Ranch Bot",
+      "author": {
+        "name": "JoshuaRCook",
+        "url": "https://x.com/JoshuaRCook"
+      },
+      "summary": "Texas ranch operations helper for owners and on-place managers across wildlife roads oil water equipment and homestead",
+      "summary_zh": "德州牧场运营助手，帮业主和现场经理管野生动物、道路、油面、水、设备和宅地",
+      "import": "https://x.ai/bot/Rv893FcX1cPsVnr-wJpo6",
+      "category": "personal-admin",
+      "tags": [
+        "ranch",
+        "ops",
+        "texas",
+        "homestead"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-23",
+      "source": "https://x.com/JoshuaRCook/status/2102734567626903780",
+      "shelf": "raw"
     },
     {
       "slug": "range-safety",
