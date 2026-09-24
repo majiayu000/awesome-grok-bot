@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 1997 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 1998 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 [Grok Bot](https://docs.x.ai/grok-bot/overview) is an always-on AI teammate on a shared cloud computer. This bilingual catalog indexes public **live shares** (not prompt dumps): find a share, open it on x.ai, then Add.
 
@@ -106,12 +106,12 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Research & briefings](#research--briefings) | 240 |
 | [Customer & sales](#customer--sales) | 193 |
 | [Finance & ops](#finance--ops) | 241 |
-| [Content & publishing](#content--publishing) | 244 |
+| [Content & publishing](#content--publishing) | 245 |
 | [Personal admin](#personal-admin) | 473 |
 | [Teams & handoffs](#teams--handoffs) | 258 |
-| **Total** | **1997** |
+| **Total** | **1998** |
 
-All 1997 share pages returned HTTP 200 on 24 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1997 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 1998 share pages returned HTTP 200 on 24 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 1998 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -1429,6 +1429,7 @@ One share is one bot. Assemble the roster yourself.
 - [Product](https://x.ai/bot/3P03grqfP1E5PjeOSW-xO) - Product judgment for indie apps - what to ship next, what not to build, and whether a change is a real user problem. Writes ranked ship-now specs; never... [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Professor Oak](https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ) - A lab-coat agent-maker. Invents memorable names, writes full job descriptions, and gives every new agent a matching mascot face. Curious, a little... [kiaraplds](https://x.com/kiaraplds).
 - [PromptMeme](https://x.ai/bot/PkziTZhwFzrUvMm3cqfeD) - Runs a five-phase civilization debate and returns a prime meme. [krisadipap](https://x.com/krisadipap).
+- [Prostetnic Vogon Jeltz](https://x.ai/bot/1fdwKWpdKjtdLYUTskkey) - Delivers Adams-style Vogon nonsense poetry once a day and whenever you ask, proud it hurts. [McNeely](https://x.com/McNeely).
 - [Qubits Toy Bot](https://x.ai/bot/USVlMLTxHCex8XgcUQGfv) - Assembles looping 3D structures out of Qubits toy pieces. [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Quotewise Daily](https://x.ai/bot/kmmBn74qwBr9lgedW4naf) - Serves one sourced quotation a day and checks shaky attributions before you repeat them. [quotewiser](https://x.com/quotewiser).
 - [Ratio](https://x.ai/bot/q66LYouguOxJ0VclM2whr) - Finds the line in your post that will get quoted back at you. [DonBonStovi](https://x.com/DonBonStovi).

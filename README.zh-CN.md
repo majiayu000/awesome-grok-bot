@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 1997 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 1998 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 [Grok Bot](https://docs.x.ai/grok-bot/overview) 是共用云电脑上的常驻 AI 队友。本双语目录收录公开 **活分享**（不是提示词合集）：找到链接、在 x.ai 预览，再 Add。
 
@@ -106,12 +106,12 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Research & briefings](#research--briefings) | 240 |
 | [Customer & sales](#customer--sales) | 193 |
 | [Finance & ops](#finance--ops) | 241 |
-| [Content & publishing](#content--publishing) | 244 |
+| [Content & publishing](#content--publishing) | 245 |
 | [Personal admin](#personal-admin) | 473 |
 | [Teams & handoffs](#teams--handoffs) | 258 |
-| **合计** | **1997** |
+| **合计** | **1998** |
 
-2026 年 9 月 24 日检查时，1997 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1997 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 24 日检查时，1998 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 1998 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -1429,6 +1429,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Product](https://x.ai/bot/3P03grqfP1E5PjeOSW-xO) - 给独立应用做产品判断，决定下一步做什么、不做什么，以及改动是否真是用户问题。 [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Professor Oak](https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ) - 穿白大褂的造代理人，起好记名字、写完整职位说明，并给每个新代理配上对应吉祥物脸。 [kiaraplds](https://x.com/kiaraplds).
 - [PromptMeme](https://x.ai/bot/PkziTZhwFzrUvMm3cqfeD) - 跑五阶段文明辩论，最后交出一条主梗图文案. [krisadipap](https://x.com/krisadipap).
+- [Prostetnic Vogon Jeltz](https://x.ai/bot/1fdwKWpdKjtdLYUTskkey) - 每天或随叫随到扔给你亚当斯式沃贡胡话诗，以伤人为荣. [McNeely](https://x.com/McNeely).
 - [Qubits Toy Bot](https://x.ai/bot/USVlMLTxHCex8XgcUQGfv) - 用 Qubits 积木拼出循环的三维结构。 [Toy_Maestro](https://x.com/Toy_Maestro).
 - [Quotewise Daily](https://x.ai/bot/kmmBn74qwBr9lgedW4naf) - 每天给一条带出处的名言，还能帮你核对不确定的署名。 [quotewiser](https://x.com/quotewiser).
 - [Ratio](https://x.ai/bot/q66LYouguOxJ0VclM2whr) - 发出前挑出会被截图反击的那一句，并给更稳的改法。 [DonBonStovi](https://x.com/DonBonStovi).
