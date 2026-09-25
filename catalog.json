@@ -32927,6 +32927,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "quote-chase-desk",
+      "name": "Quote Chase Desk",
+      "author": {
+        "name": "Liftably",
+        "url": "https://x.com/AraXsuper"
+      },
+      "summary": "Tracks open quotes for trades shops, drafts paced follow-ups for approval, stops when a customer replies, and reopens cold quotes at 30/60/90 days",
+      "summary_zh": "给工贸店盯报价跟进，起草跟催文案供你批准，客户一回就停，并按 30/60/90 天重开冷报价",
+      "import": "https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg",
+      "category": "customer-sales",
+      "tags": [
+        "quotes",
+        "sales",
+        "follow-up",
+        "trades"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/AraXsuper/status/2103370558238810376"
+    },
+    {
       "slug": "quote-collector",
       "name": "Quote Collector",
       "author": {
@@ -38174,6 +38197,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "solar-trailer-tesla-charge",
+      "name": "Solar Trailer → Tesla Charge",
+      "author": {
+        "name": "Electric",
+        "url": "https://x.com/ElectricTechAdv"
+      },
+      "summary": "Charges a Tesla from an off-grid Victron solar trailer by matching amps to PV and battery SOC on a daytime poll, with chat alerts for plug-in and end-of-day",
+      "summary_zh": "用离网 Victron 太阳能拖车给特斯拉充电，按光伏与电量白天轮询匹配电流，并聊天提醒插枪与收工",
+      "import": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
+      "category": "personal-admin",
+      "tags": [
+        "tesla",
+        "solar",
+        "victron",
+        "charging"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/ElectricTechAdv/status/2103306461262631340"
+    },
+    {
       "slug": "solid-vibe",
       "name": "Solid Vibe",
       "author": {
@@ -38549,6 +38595,29 @@
       "verified": false,
       "updated": "2026-09-18",
       "shelf": "raw"
+    },
+    {
+      "slug": "spruce",
+      "name": "Spruce",
+      "author": {
+        "name": "Brandi",
+        "url": "https://x.com/Brbaumhoff"
+      },
+      "summary": "Send a photo of a room to clean out or redecorate and get a concept after mockup plus easy step-by-step instructions",
+      "summary_zh": "发一张想清理或翻新的房间照片，返回概念改造效果图和易跟做的分步说明",
+      "import": "https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc",
+      "category": "personal-admin",
+      "tags": [
+        "home",
+        "redecorate",
+        "design",
+        "mockup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/Brbaumhoff/status/2103306013592146176"
     },
     {
       "slug": "squirrel",
@@ -44242,6 +44311,29 @@
       "related": "https://grokbot.dev/marketplace/weekly-p-l-analyst/",
       "source": "https://x.com/ColinMcDermott/status/2098713502043009438",
       "shelf": "raw"
+    },
+    {
+      "slug": "weekly-recap",
+      "name": "Weekly Recap",
+      "author": {
+        "name": "Christian",
+        "url": "https://x.com/Christian_O91"
+      },
+      "summary": "Collects what you and your bots actually did from bots, routines, calendar, GitHub, and notes, then drafts an honest emoji-led weekly recap for approval",
+      "summary_zh": "从机器人例行日历 GitHub 与笔记收集本周实绩，起草带表情的周报草稿，未经你同意绝不发",
+      "import": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+      "category": "content-publishing",
+      "tags": [
+        "recap",
+        "weekly",
+        "content",
+        "publishing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/Christian_O91/status/2103347545900507549"
     },
     {
       "slug": "what-would-jesus-do",
