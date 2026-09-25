@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24",
+  "generated": "2026-09-25",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -295,6 +295,50 @@
       "source": "https://x.com/ladybarrelmaker/status/2102766839130665262"
     },
     {
+      "slug": "account-health",
+      "name": "Account Health",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "See risk and expansion before the QBR. Reads usage and signals across your book and turns portfolio noise into a clear watch list",
+      "summary_zh": "季度复盘前就看清风险和增购机会 读完手上所有客户的用量和信号，理成一张关注清单",
+      "import": "https://x.ai/bot/s5465ebb9e192551741f7",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "analytics",
+        "monitoring",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "account-manager",
+      "name": "Account Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Preps every call from transcripts, notes, CRM and Slack, drafts the follow-up, and keeps context from one call to the next",
+      "summary_zh": "维护重点客户不用每次重建上下文 从转录、笔记、CRM、Slack 备会，跟进信也起好草稿",
+      "import": "https://x.ai/bot/sd4333bc337078a9752ac",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "productivity",
+        "meetings",
+        "back-office"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "account-research-desk",
       "name": "Account Research Desk",
       "author": {
@@ -315,6 +359,28 @@
       "verified": false,
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/account-research-desk",
+      "shelf": "raw"
+    },
+    {
+      "slug": "account-research-specialist",
+      "name": "Account Research Specialist",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Tier accounts before you touch them. Pulls Salesforce + live signals, scores fit and warmth, and builds a shareable research pack per account",
+      "summary_zh": "接触前先给客户分层 合 Salesforce 和实时信号打匹配度和热度，每家出一份可传阅的调研包",
+      "import": "https://x.ai/bot/sa7d7f82d0068c2367a17",
+      "category": "research-briefings",
+      "tags": [
+        "sales",
+        "research",
+        "analytics",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -474,6 +540,28 @@
       "updated": "2026-09-19",
       "source": "https://x.com/UnoMasReactor",
       "shelf": "raw"
+    },
+    {
+      "slug": "adam-edison",
+      "name": "Adam",
+      "author": {
+        "name": "EdisonTanEdtreo",
+        "url": "https://x.com/EdisonTanEdtreo"
+      },
+      "summary": "Name an outcome and Adam splits it across your bots, then returns one clear decision",
+      "summary_zh": "你说目标，Adam 拆给手下 bot，再收回一个清晰决定",
+      "import": "https://x.ai/bot/s8cUaz0aoomvjsIyOKANn",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal",
+        "productivity",
+        "agent-team",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "aka"
     },
     {
       "slug": "adaptlypost",
@@ -2026,6 +2114,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "apartment-scout",
+      "name": "Apartment Scout",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Filters new listings against your criteria, emails to book tour times, and applies for the ones that qualify",
+      "summary_zh": "房子一上市就约看 筛房源、发邮件订看房时间、符合条件的直接递申请",
+      "import": "https://x.ai/bot/sd6f165284d7fd2f25e56",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "real-estate",
+        "automation",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "app-store-review-bot",
       "name": "App Store Review Bot",
       "author": {
@@ -3196,6 +3306,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "beta-adoption-watcher",
+      "name": "Beta Adoption Watcher",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "See who's actually trying the new feature. Monitors usage and surfaces which customers are in, so the team can follow up",
+      "summary_zh": "看谁真在用新功能 盯用量、列出已上手的客户，方便团队跟进",
+      "import": "https://x.ai/bot/sfcf5d046a2784045938d",
+      "category": "coding-shipping",
+      "tags": [
+        "ops",
+        "analytics",
+        "monitoring",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "betree",
       "name": "BeTree",
       "author": {
@@ -4302,6 +4434,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "bug-reproduction",
+      "name": "Bug Reproduction",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Picks up the thread, clicks the same path in staging, captures the failure, and files a repro pack engineers can trust",
+      "summary_zh": "给工程师能信的缺陷报告 接过帖子、在预发环境点同样路径、抓下现场，产出复现包",
+      "import": "https://x.ai/bot/s2d62197e15bd11a1bd63",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "engineering",
+        "automation",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "buildfeed-startups",
       "name": "BuildFeed: Startups",
       "author": {
@@ -4496,6 +4650,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "calendar-coordinator",
+      "name": "Calendar Coordinator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Get people in the same room. Schedules across calendars and chases the holds nobody else has time to chase",
+      "summary_zh": "把人凑到一起 跨日历排期，没人有空去催的占位它去催",
+      "import": "https://x.ai/bot/s634fd63ee875502d8df9",
+      "category": "inbox-calendar",
+      "tags": [
+        "ops",
+        "calendar",
+        "meetings",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "calendar-manager",
       "name": "Calendar Manager",
       "author": {
@@ -4606,6 +4782,28 @@
       "updated": "2026-09-07",
       "source": "https://x.com/dave_dlt/status/2096518852909600839",
       "related": "https://grokbot.dev/marketplace/call-desk/",
+      "shelf": "raw"
+    },
+    {
+      "slug": "call-faq-miner",
+      "name": "Call FAQ Miner",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Keep enablement current from real calls. Tracks questions, timestamps answers, and links back to the source recording",
+      "summary_zh": "从真实通话维护问答库 记问题、给答案打时间戳、回链到原始录音",
+      "import": "https://x.ai/bot/s297976f738dc390d23df",
+      "category": "customer-sales",
+      "tags": [
+        "support",
+        "knowledge-base",
+        "learning",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -6866,6 +7064,28 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "chief-of-staff-sc0a",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Scans Slack, email, calendar and meeting notes, then reads out what is new and what maps to your own goals",
+      "summary_zh": "随时在线的幕僚 扫 Slack、邮件、日历、会议记录，简报新情况以及哪些跟你的目标相关",
+      "import": "https://x.ai/bot/sc0a0ec3ce9c675824106",
+      "category": "teams-handoffs",
+      "tags": [
+        "business",
+        "productivity",
+        "decision-support",
+        "back-office"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "aka"
+    },
+    {
       "slug": "chief-of-staff-travis-vanlife",
       "name": "Chief of Staff (Travis / vanlife)",
       "author": {
@@ -7090,6 +7310,25 @@
       "updated": "2026-09-13",
       "related": "https://grokbot.dev/marketplace/churn-retention-manager/",
       "source": "https://x.com/ColinMcDermott/status/2098713507046785199",
+      "shelf": "raw"
+    },
+    {
+      "slug": "cite-desk",
+      "name": "Cite Desk",
+      "author": {
+        "name": "ladybarrelmaker",
+        "url": "https://x.com/ladybarrelmaker"
+      },
+      "summary": "Citation and authority desk for an insurance-coverage bot fleet (part of the Bridge + Fleet map)",
+      "summary_zh": "保险承保 bot 舰队的引用与权威台，属于 Bridge 与 Fleet 图谱",
+      "import": "https://x.ai/bot/RRrKgAtNJ1Zdl8QTUkipi",
+      "category": "research-briefings",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -7795,6 +8034,28 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "cloud-agent-orchestrator",
+      "name": "Cloud Agent Orchestrator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Keep many cloud agent runs moving without babysitting each one. Kicks off runs, monitors, chases what's stuck, and summarizes the report",
+      "summary_zh": "同时跑一堆云端 agent 不用盯 起任务、看状态、推卡住的，最后汇总报告",
+      "import": "https://x.ai/bot/s20b2c65ebeebb7362fa7",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "automation",
+        "agent-team",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "studio-door"
+    },
+    {
       "slug": "cloud-drift",
       "name": "Cloud Drift",
       "author": {
@@ -8373,6 +8634,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "community-operations-manager",
+      "name": "Community Operations Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Keep the ambassador loop moving. Screens apps, triages DMs across channels, and drafts nurture on a cadence so community isn't a full-time chase",
+      "summary_zh": "大使计划转起来 审申请、跨渠道分拣私信、按节奏起草维护内容，社区不用专人盯",
+      "import": "https://x.ai/bot/seb9d6ba6765c64113941",
+      "category": "teams-handoffs",
+      "tags": [
+        "marketer",
+        "social-media",
+        "automation",
+        "back-office"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "commute-comrade",
       "name": "Commute Comrade",
       "author": {
@@ -8459,6 +8742,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "compelling-events-monitor",
+      "name": "Compelling Events Monitor",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Watches leadership posts for awards, launches and hiring signals, then digests the ones worth engaging with",
+      "summary_zh": "有真事再去搭话 盯高管发言里的获奖、发布、招人信号，汇总成一份可互动清单",
+      "import": "https://x.ai/bot/sdeb02761a9d185e5899f",
+      "category": "research-briefings",
+      "tags": [
+        "sales",
+        "monitoring",
+        "growth",
+        "social-media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "competition-winna",
       "name": "Competition Winna",
       "author": {
@@ -8481,6 +8786,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "competitive-intelligence-analyst",
+      "name": "Competitive Intelligence Analyst",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Monitors overnight for competitor launches and audits your own site for fatigued creative and stale messaging",
+      "summary_zh": "看清格局的真变化 夜里盯对手上新，同时体检自家站点的素材疲劳和过时说法",
+      "import": "https://x.ai/bot/sa2d131975aaab07e43f2",
+      "category": "research-briefings",
+      "tags": [
+        "marketer",
+        "research",
+        "monitoring",
+        "seo"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "competitor-complaints",
       "name": "Competitor Complaints",
       "author": {
@@ -8499,6 +8826,25 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16",
+      "shelf": "raw"
+    },
+    {
+      "slug": "competitor-monitor",
+      "name": "Competitor Monitor",
+      "author": {
+        "name": "iammutex",
+        "url": "https://x.com/iammutex"
+      },
+      "summary": "Glasser-powered competitor monitoring bot for ongoing competitive intel inside Grok Bot",
+      "summary_zh": "用 Glasser 持续盯竞品动态，把情报沉在 Grok Bot 里",
+      "import": "https://x.ai/bot/9msshkJeF5cnzAw8tF4vi",
+      "category": "research-briefings",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -9030,6 +9376,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "contract-desk",
+      "name": "Contract Desk",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "See the week of paper at a glance. Summarizes by stage and owner, pulls key terms, and flags blocked reviews",
+      "summary_zh": "一眼看完这周的合同 按阶段和责任人汇总、提炼关键条款、标出卡住的审查",
+      "import": "https://x.ai/bot/sd358e6cf5e8bed188eec",
+      "category": "finance-ops",
+      "tags": [
+        "ops",
+        "back-office",
+        "productivity",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -9763,6 +10131,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "crm-operations-manager",
+      "name": "CRM Operations Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Keep the pipeline clean. Handles CRM and org-chart hygiene before and after meetings so records stay current without a manual pass",
+      "summary_zh": "保持管道干净 会前会后自动整理 CRM 和组织架构，记录不用手工补",
+      "import": "https://x.ai/bot/s162b4ed38d6cf1d56731",
+      "category": "customer-sales",
+      "tags": [
+        "ops",
+        "back-office",
+        "automation",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "crux",
       "name": "Crux",
       "author": {
@@ -10190,6 +10580,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "daily-briefing-writer",
+      "name": "Daily Briefing Writer",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Start the day with high quality inputs instead of noise. Delivers a tight daily brief of only the stories that matter to you",
+      "summary_zh": "开工先看高质量输入而不是噪音 每天一份只含与你相关的简报",
+      "import": "https://x.ai/bot/sb94d44175e650dbb703e",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "news",
+        "learning",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "daily-cash",
       "name": "OptionTheta",
       "author": {
@@ -10504,6 +10916,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "deal-desk-coordinator",
+      "name": "Deal Desk Coordinator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Draft contextual internal deal notes from past emails, Salesforce, and calls, then submit in Salesforce once you approve",
+      "summary_zh": "从历史邮件、Salesforce、通话里起草内部交易说明，你批了再提交回 Salesforce",
+      "import": "https://x.ai/bot/sb434ef300dea2b88aa58",
+      "category": "finance-ops",
+      "tags": [
+        "sales",
+        "back-office",
+        "automation",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "deal-finder",
       "name": "Deal finder",
       "author": {
@@ -10744,6 +11178,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "deck-updater",
+      "name": "Deck Updater",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Leave the room with the slide already moving. Updates your deck from discovery notes mid-call or right after, with next steps baked in",
+      "summary_zh": "散会时片子已经改好 通话中或刚结束就按调研笔记更新，下一步动作一并写进去",
+      "import": "https://x.ai/bot/s2a289081613e5e361c79",
+      "category": "coding-shipping",
+      "tags": [
+        "sales",
+        "design",
+        "productivity",
+        "meetings"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -11762,6 +12218,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18",
+      "shelf": "raw"
+    },
+    {
+      "slug": "docs-auditor",
+      "name": "Docs Auditor",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Diffs the help center and internal notes against what actually shipped, flags stale pages, and drafts the fix",
+      "summary_zh": "揪出跟产品脱节的文档 拿帮助中心和内部笔记比上周发了什么，标出过期页并起草修订",
+      "import": "https://x.ai/bot/s1025e1ebe0b11f048bd4",
+      "category": "coding-shipping",
+      "tags": [
+        "ops",
+        "knowledge-base",
+        "content",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -12804,6 +13282,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "enablement-fulfillment-specialist",
+      "name": "Enablement Fulfillment Specialist",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Answer \"send me the recordings\" without digging. Finds Zoom assets, builds one-pagers, uploads to Drive, and drafts the reply with links",
+      "summary_zh": "有人要录像不用翻 找出 Zoom 素材、做成一页纸、传到 Drive，回信草稿带好链接",
+      "import": "https://x.ai/bot/s0dfd5486dc759d409d69",
+      "category": "customer-sales",
+      "tags": [
+        "ops",
+        "back-office",
+        "automation",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "encouragement-grook",
       "name": "Encouragement Bot",
       "author": {
@@ -13113,6 +13613,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "event-guest-screener",
+      "name": "Event Guest Screener",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Fill the room with the right people. Scores event applicants against your ICP and batch-approves strong fits in the invite tool",
+      "summary_zh": "让活动坐的是对的人 按理想客户画像给报名者打分，强匹配的在邀请系统里批量放行",
+      "import": "https://x.ai/bot/s47ebc74c9fcf9359b5a9",
+      "category": "customer-sales",
+      "tags": [
+        "marketer",
+        "events",
+        "automation",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "event-producer",
       "name": "Event Producer",
       "author": {
@@ -13334,6 +13856,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "executive-assistant-sf81",
+      "name": "Executive Assistant",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Delivers a morning briefing, plus an automatic catch-up summary whenever you join a new room",
+      "summary_zh": "不用泡在群里也不掉线 每早一份简报，进新群自动补一份前情摘要",
+      "import": "https://x.ai/bot/sf813cbd3aadad1cfda46",
+      "category": "inbox-calendar",
+      "tags": [
+        "business",
+        "productivity",
+        "meetings",
+        "back-office"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "aka"
+    },
+    {
       "slug": "executive-coach",
       "name": "Executive Coach",
       "author": {
@@ -13375,6 +13919,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16",
+      "shelf": "raw"
+    },
+    {
+      "slug": "expense-manager",
+      "name": "Expense Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Builds the weekly summary from your expense tool and sheets, logs receipts arriving by email, and chases missing ones",
+      "summary_zh": "盯住钱 从报销系统和表格出周报，邮箱里的新票据自动记账，缺的去催人",
+      "import": "https://x.ai/bot/s50bb9361d891bd788a23",
+      "category": "finance-ops",
+      "tags": [
+        "business",
+        "finance",
+        "productivity",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -14020,6 +14586,50 @@
       "updated": "2026-09-20",
       "shelf": "raw",
       "source": "https://x.com/JennyMarquis/status/2101576393662279942"
+    },
+    {
+      "slug": "fastart-ceo-bot",
+      "name": "FaStart CEO Bot",
+      "author": {
+        "name": "enesteve_",
+        "url": "https://x.com/enesteve_"
+      },
+      "summary": "One executive voice over your bot crew: a single decision queue, no question asked twice",
+      "summary_zh": "用一个决策队列统领整组 bot，同一问题不问第二遍",
+      "import": "https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt",
+      "category": "teams-handoffs",
+      "tags": [
+        "business",
+        "agent-team",
+        "productivity",
+        "meta-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "feature-request-tracker",
+      "name": "Feature Request Tracker",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Never lose \"who asked for this.\" Mines Slack and calls into a living list tied to customers, so the spec has a real demand trail",
+      "summary_zh": "记住需求是谁提的 从 Slack 和通话里挖出来，挂到客户身上，让规格有真实出处",
+      "import": "https://x.ai/bot/s229dcca5bc0eaa01b09c",
+      "category": "coding-shipping",
+      "tags": [
+        "ops",
+        "research",
+        "monitoring",
+        "knowledge-base"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
     },
     {
       "slug": "fed-x-brief",
@@ -17044,6 +17654,28 @@
       "shelf": "aka"
     },
     {
+      "slug": "grok-build-sandesh",
+      "name": "Grok Build",
+      "author": {
+        "name": "SandeshAndrade",
+        "url": "https://x.com/SandeshAndrade"
+      },
+      "summary": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort - for anyone who wants Grok Build on an agent computer",
+      "summary_zh": "在代理电脑上跑真 Grok Build CLI，做应用、代码与深度研究",
+      "import": "https://x.ai/bot/ueh9gw-9jtl-VjwQ1m0Ph",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "grok-build",
+        "cli",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "aka"
+    },
+    {
       "slug": "grok-build-zac70182",
       "name": "Grok Build",
       "author": {
@@ -18703,6 +19335,28 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "hiring-screener",
+      "name": "Hiring Screener",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Interview the strong ones, not the whole pile. Scores applications or work samples against a defined bar and hands off an ATS-ready review",
+      "summary_zh": "只面强的那批 按设定标准给简历或作品打分，产出可直接进 ATS 的评审意见",
+      "import": "https://x.ai/bot/scfddc8ad204a669484d0",
+      "category": "customer-sales",
+      "tags": [
+        "recruiting",
+        "productivity",
+        "automation",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "hiring-signals",
       "name": "Hiring Signals",
       "author": {
@@ -20205,6 +20859,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "inbox-manager",
+      "name": "Inbox Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Triages the inbox into categories, surfaces urgent and blocked threads, and drafts replies. Every send waits for you",
+      "summary_zh": "让邮箱重新可用 分好类、挑出紧急和被卡住的，回复和清理都只给草稿",
+      "import": "https://x.ai/bot/s4f048c7b7da9e010c2c3",
+      "category": "inbox-calendar",
+      "tags": [
+        "business",
+        "email",
+        "productivity",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "inbox-to-asana",
       "name": "Inbox to Asana",
       "author": {
@@ -20452,6 +21128,25 @@
       "shelf": "raw"
     },
     {
+      "slug": "insurance-linkedin-desk",
+      "name": "Insurance LinkedIn Desk",
+      "author": {
+        "name": "ladybarrelmaker",
+        "url": "https://x.com/ladybarrelmaker"
+      },
+      "summary": "LinkedIn publish-gate desk for insurance coverage work (part of the Bridge + Fleet map)",
+      "summary_zh": "保险承保方向的 LinkedIn 发布闸口台，属于 Bridge 与 Fleet 图谱",
+      "import": "https://x.ai/bot/H8RbeHK0_q89uVZc2NiW0",
+      "category": "customer-sales",
+      "tags": [
+        "customer"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "interaction-designer",
       "name": "Interaction Designer",
       "author": {
@@ -20473,6 +21168,28 @@
       "updated": "2026-09-07",
       "source": "https://x.com/ucdco/status/2096525660311208204",
       "related": "https://grokbot.dev/marketplace/interaction-designer/",
+      "shelf": "raw"
+    },
+    {
+      "slug": "internal-communications-manager",
+      "name": "Internal Communications Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Draft clear, on-voice copy from your real context, matched to each audience and channel. Review-only so it never sends on its own",
+      "summary_zh": "按你的真实语境和各渠道口吻写内部通告，只出草稿，绝不自己发",
+      "import": "https://x.ai/bot/s066a9145d936e74d0c80",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "content",
+        "email",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -20587,6 +21304,25 @@
       "shelf": "raw"
     },
     {
+      "slug": "invest-dd",
+      "name": "Invest DD",
+      "author": {
+        "name": "iammutex",
+        "url": "https://x.com/iammutex"
+      },
+      "summary": "Glasser-powered investment due diligence bot for company and people enrichment before you commit",
+      "summary_zh": "用 Glasser 做投资尽调，在出手前补齐公司与人物画像",
+      "import": "https://x.ai/bot/S6LUcG5yeDYV-GglG7_FO",
+      "category": "finance-ops",
+      "tags": [
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "investment-research-stack",
       "name": "Investment research stack",
       "author": {
@@ -20629,6 +21365,28 @@
       "verified": false,
       "updated": "2026-09-02",
       "source": "https://x.com/MadeItHappenX",
+      "shelf": "raw"
+    },
+    {
+      "slug": "invoice-coordinator",
+      "name": "Invoice Coordinator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Stops invoices sitting. Forwards them, matches what it can, tracks campus and vendor actuals, and nudges the owner when something needs a human",
+      "summary_zh": "别让发票压着 转单、能配的自动配、盯实际支出，缺人处理就去催对应负责人",
+      "import": "https://x.ai/bot/s072bae9387b9fc03cac8",
+      "category": "finance-ops",
+      "tags": [
+        "ops",
+        "finance",
+        "back-office",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -22658,6 +23416,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "law-bot-eqgl",
+      "name": "Full-Spectrum Law Firm OS",
+      "author": {
+        "name": "JC",
+        "url": "https://x.com/JoshuaRCook"
+      },
+      "summary": "Texas law-firm OS: intake, conflict checks and service packages across family, civil, criminal and probate work",
+      "summary_zh": "德州律所运营系统，家事、民事、刑事、遗产四类案件全流程，从接案和利益冲突检查做起",
+      "import": "https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ",
+      "category": "teams-handoffs",
+      "tags": [
+        "business",
+        "back-office",
+        "productivity",
+        "knowledge-base"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "lazy-tom",
       "name": "Lazy Tom",
       "author": {
@@ -23011,6 +23791,28 @@
       "updated": "2026-09-20",
       "shelf": "raw",
       "source": "https://x.com/GallagherPreach/status/2101502422237552742"
+    },
+    {
+      "slug": "legal-advisor",
+      "name": "Legal Advisor",
+      "author": {
+        "name": "xpixeladventure",
+        "url": "https://x.com/xpixeladventure"
+      },
+      "summary": "Plain-language legal research that adapts to your jurisdiction and drafts your options",
+      "summary_zh": "用白话做法律检索，按你的法域起草可选方案",
+      "import": "https://x.ai/bot/0TmnKtakm--gYpX_1jcni",
+      "category": "research-briefings",
+      "tags": [
+        "business",
+        "research",
+        "decision-support",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
     },
     {
       "slug": "legend-lead-ops",
@@ -23588,6 +24390,28 @@
       "updated": "2026-09-18",
       "source": "https://x.com/isb/status/2100425188764713462",
       "related": "https://grokbot.dev/marketplace/linkedin-bot/",
+      "shelf": "raw"
+    },
+    {
+      "slug": "linkedin-campaign-manager",
+      "name": "LinkedIn Campaign Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Own lead-gen funnel consistency across ads, forms, follow-up, and UTMs. Drafts campaigns for approval and keeps every offer and handoff clean",
+      "summary_zh": "把广告、表单、跟进、UTM 串成一条一致的获客漏斗，投放先出草稿等你批",
+      "import": "https://x.ai/bot/s4d10d16bdbe2391aa753",
+      "category": "customer-sales",
+      "tags": [
+        "marketer",
+        "social-media",
+        "growth",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -24890,6 +25714,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "marketing-calendar-owner",
+      "name": "Marketing Calendar Owner",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Keep regional and global content, launch, and events calendars in sync. Pulls from Notion and keeps webinars and campaigns current without a weekly chase",
+      "summary_zh": "区域和全球的内容、发布、活动日历保持同步 从 Notion 取数，网课和投放不用每周催",
+      "import": "https://x.ai/bot/se318a72a31fad75c277e",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "calendar",
+        "content",
+        "events"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "marketplace-bot",
       "name": "Marketplace Bot",
       "author": {
@@ -25440,6 +26286,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "meeting-prep-buddy",
+      "name": "Meeting Prep Buddy",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Builds a prep pack from calendar, notes, CRM, Gong and Slack: who is in the room, last touch, and open threads",
+      "summary_zh": "每场会都有备而去 从日历、笔记、CRM、Gong、Slack 汇出与会人、上次接触和未决事项",
+      "import": "https://x.ai/bot/s445a0c9a2ca4bea7729e",
+      "category": "inbox-calendar",
+      "tags": [
+        "business",
+        "meetings",
+        "productivity",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "meeting-recap-deck",
       "name": "Meeting Recap Deck",
       "author": {
@@ -25638,6 +26506,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18",
+      "shelf": "raw"
+    },
+    {
+      "slug": "merch-fulfillment-operator",
+      "name": "Merch Fulfillment Operator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Runs the outreach, watches the redemption form, asks you to approve each submission in chat, and ships the swag",
+      "summary_zh": "周边寄给对的人 做触达、盯兑换表单、在聊天里问你批不批，通过了就发货",
+      "import": "https://x.ai/bot/se479952f3c9e373dfd64",
+      "category": "customer-sales",
+      "tags": [
+        "marketer",
+        "growth",
+        "automation",
+        "back-office"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -26017,6 +26907,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mono-lisa",
+      "name": "Mono Lisa",
+      "author": {
+        "name": "felixleezd",
+        "url": "https://x.com/felixleezd"
+      },
+      "summary": "A nightly design desk that investigates metric drops and files the fix",
+      "summary_zh": "夜间设计台，追查指标下跌并整理成可执行修复单",
+      "import": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
+      "category": "coding-shipping",
+      "tags": [
+        "business",
+        "analytics",
+        "design",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -26860,6 +27772,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "newsletter-writer",
+      "name": "Newsletter Writer",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Pulls what shipped from launches, wins and your calendar, writes the issue in your voice, and parks it for you to send",
+      "summary_zh": "月度通讯按时发 从发布、战绩、日历里取料，用你的口吻写好，先存着等你发",
+      "import": "https://x.ai/bot/s5d2839123b973b4480f9",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "content",
+        "email",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "newsletterbot-contentdrips",
       "name": "NewsletterBot by Contentdrips",
       "author": {
@@ -26928,6 +27862,26 @@
       "updated": "2026-09-21",
       "shelf": "raw",
       "source": "https://x.com/TechDadsLife/status/2101951098097369416"
+    },
+    {
+      "slug": "newt",
+      "name": "Newt",
+      "author": {
+        "name": "FireSmoke",
+        "url": "https://x.com/smoke_aa1010"
+      },
+      "summary": "A friendly nutrition coach that logs your meals from text or photos, tracks calories and macros against your own targets, and plans your week of meals",
+      "summary_zh": "友好的营养教练，用文字或照片记餐，对照目标跟踪热量与宏量",
+      "import": "https://x.ai/bot/l2X92A_HyqiLTIVbz7F7L",
+      "category": "personal-admin",
+      "tags": [
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/smoke_aa1010/status/2103153064337125490"
     },
     {
       "slug": "nigerian-prince-bot",
@@ -27397,6 +28351,28 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "obi",
+      "name": "Obi",
+      "author": {
+        "name": "bobpickettsr",
+        "url": "https://x.com/bobpickettsr"
+      },
+      "summary": "An overnight Obsidian housekeeper that files your notes and leaves a closing summary",
+      "summary_zh": "通宵整理 Obsidian 笔记，收尾时留下一份收工摘要",
+      "import": "https://x.ai/bot/7nAKZM0Wz9NXUcMg2sMNm",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity",
+        "knowledge-base",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "obsidian",
       "name": "obsidian",
       "author": {
@@ -27708,6 +28684,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "onboarding-manager",
+      "name": "Onboarding Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Builds the checklist, pulls the right docs, answers day-one questions, and routes anything else to whoever can answer",
+      "summary_zh": "新人拿到的是路径不是一堆链接 列清单、配文档、答第一天的问题，答不了的转给能答的人",
+      "import": "https://x.ai/bot/s9c881536413c0bbfa776",
+      "category": "customer-sales",
+      "tags": [
+        "ops",
+        "recruiting",
+        "knowledge-base",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "one",
       "name": "One",
       "author": {
@@ -27770,6 +28768,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "open-call-producer",
+      "name": "Open Call Producer",
+      "author": {
+        "name": "sashanaria",
+        "url": "https://x.com/sashanaria"
+      },
+      "summary": "Turns a photography open call into a checked submission pack built around your shots",
+      "summary_zh": "把摄影公开征件做成围绕你作品的可提交材料包",
+      "import": "https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "research",
+        "productivity",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -28376,6 +29396,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "outbound-scout",
+      "name": "Outbound Scout",
+      "author": {
+        "name": "iammutex",
+        "url": "https://x.com/iammutex"
+      },
+      "summary": "Builds a prospecting pipeline from your product link: buyer profile first, then companies",
+      "summary_zh": "从产品链接搭线索管线，先定买家画像再扫公司名单",
+      "import": "https://x.ai/bot/7FPx_GNADVyb36VRYoKz1",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business",
+        "growth",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "outer-loop",
       "name": "Outer Loop",
       "author": {
@@ -28725,6 +29767,50 @@
       "updated": "2026-09-13",
       "related": "https://grokbot.dev/marketplace/paid-ads-manager/",
       "source": "https://x.com/ColinMcDermott/status/2098713505444528315",
+      "shelf": "raw"
+    },
+    {
+      "slug": "paid-media",
+      "name": "Paid Media",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Pulls live channel and campaign data, Slacks a recommended reallocation against your monthly budget, and holds for your approval before making adjustments",
+      "summary_zh": "拉实时投放数据，按月度预算在 Slack 提一版调配建议，等你点头才动手",
+      "import": "https://x.ai/bot/s59facc90a46a8b4f59da",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "finance",
+        "analytics",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "paid-media-creative-strategist",
+      "name": "Paid Media Creative Strategist",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Spot early creative winners before they're obvious. Writes a sharp why-it-works hypothesis and proposes the next test. No invented metrics",
+      "summary_zh": "在数据明显之前就看出哪版素材会赢，讲清为什么、提出下一个测试，不编指标",
+      "import": "https://x.ai/bot/s45471f3a8af234c13047",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "analytics",
+        "content",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -29281,6 +30367,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "peep-txt",
+      "name": "Peep.txt",
+      "author": {
+        "name": "ericesoteric",
+        "url": "https://x.com/ericesoteric"
+      },
+      "summary": "Audits one URL the way AI crawlers see it and drafts an llms.txt patch list",
+      "summary_zh": "按 AI 爬虫视角审计单个网址，并起草一份 llms.txt 补丁清单",
+      "import": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "seo",
+        "engineering",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "pengzheng-bot",
       "name": "pengzheng bot",
       "author": {
@@ -29586,6 +30694,28 @@
       "updated": "2026-09-16",
       "source": "https://x.com/hovinthenorth/status/2099998794490536065",
       "related": "https://grokbot.dev/marketplace/personal-shopper/",
+      "shelf": "raw"
+    },
+    {
+      "slug": "personal-site-builder",
+      "name": "Personal Site Builder",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point",
+      "summary_zh": "按一段描述搭个人站点，顺手把域名问题理清，交给你一个已经上线的起点",
+      "import": "https://x.ai/bot/s3c76c85a840b32b8fed8",
+      "category": "coding-shipping",
+      "tags": [
+        "creator",
+        "design",
+        "engineering",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -29924,6 +31054,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "pipeline-analyst",
+      "name": "Pipeline Analyst",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Walk into pipe with a clean view. Scrubs Salesforce + sheets, flags stalls and commit risk, and drops a Monday scoreboard",
+      "summary_zh": "看管道有张干净的表 清洗 Salesforce 和表格，标出停滞和承诺风险，周一给你记分板",
+      "import": "https://x.ai/bot/s98af8b9dcde521e1a9fa",
+      "category": "finance-ops",
+      "tags": [
+        "sales",
+        "analytics",
+        "data",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "pipeline-pulse",
       "name": "Pipeline Pulse",
       "author": {
@@ -29969,6 +31121,28 @@
       "related": "https://grokbot.dev/marketplace/piper-etl-pipelines/"
     },
     {
+      "slug": "pit-crew",
+      "name": "Pit Crew",
+      "author": {
+        "name": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Tunes up the computer your bots run on: frees memory and disk, keeps updates flowing",
+      "summary_zh": "给 bot 所在电脑做保养，腾内存和磁盘，保持更新顺畅",
+      "import": "https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "ops",
+        "engineering",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "pitch-deck-coach",
       "name": "Pitch Deck Coach",
       "author": {
@@ -29990,6 +31164,26 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "plan-precheck-bot",
+      "name": "Plan Precheck Bot",
+      "author": {
+        "name": "Tina",
+        "url": "https://x.com/TinaDS61"
+      },
+      "summary": "Upload a plan set to identify potential issues, generate precise markups, and prepare an expert review package for licensed professional review",
+      "summary_zh": "上传图纸预检问题，生成精确批注，整理成供持证专家复核的材料包",
+      "import": "https://x.ai/bot/2AX61eyWkS5Z2JzMrgv7E",
+      "category": "personal-admin",
+      "tags": [
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/TinaDS61/status/2103233920422854888"
     },
     {
       "slug": "planetscale-bot",
@@ -30035,6 +31229,28 @@
       "shelf": "raw",
       "source": "https://x.com/Quantumcowgirl1/status/2101348217610756139",
       "related": "https://grokbot.dev/marketplace/plant-field-os/"
+    },
+    {
+      "slug": "playtest-operator",
+      "name": "Playtest Operator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Brute-force test the product path when APIs aren't enough. Drives the UI on a computer, captures failures, and returns a tight findings pack",
+      "summary_zh": "API 测不到的路径就硬来 在机器上直接操作界面，抓下失败，交一份精简发现清单",
+      "import": "https://x.ai/bot/s2cfcbb8a38b8e22b7d18",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "engineering",
+        "automation",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
     },
     {
       "slug": "plugin-marketer",
@@ -30552,6 +31768,28 @@
       "source": "https://x.com/ladybarrelmaker/status/2102767886674661537"
     },
     {
+      "slug": "presentation-designer",
+      "name": "Presentation Designer",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Builds on-brand decks from your master template and brand system, and hands back an editable link rather than a flat export",
+      "summary_zh": "不从空白页开始做品牌 PPT 套你的母版和品牌规范，交一个可继续改的链接",
+      "import": "https://x.ai/bot/s25997c2d0308b4e76024",
+      "category": "coding-shipping",
+      "tags": [
+        "business",
+        "design",
+        "productivity",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "press",
       "name": "Press",
       "author": {
@@ -30889,6 +32127,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "product-feedback-analyst",
+      "name": "Product Feedback Analyst",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Collects and clusters feedback from connected sources, weighs evidence against urgency, and drafts the prioritised view",
+      "summary_zh": "把零散的产品反馈理成优先级 多来源收集后聚类，按证据和紧急度权衡，再起草结论",
+      "import": "https://x.ai/bot/s9e2a2591b97ca74fbeaa",
+      "category": "research-briefings",
+      "tags": [
+        "ops",
+        "research",
+        "analytics",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "product-growth-pm",
       "name": "Product Growth PM",
       "author": {
@@ -30995,6 +32255,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "product-performance",
+      "name": "Product Performance",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Logs into your observability tools, walks the flamegraphs, and comes back with hotspots plus a short writeup",
+      "summary_zh": "看清真正要紧的指标 登可观测性平台、翻火焰图，回来给你热点加一段说明",
+      "import": "https://x.ai/bot/s6d5f1cc3a564c8da972a",
+      "category": "research-briefings",
+      "tags": [
+        "developer",
+        "engineering",
+        "analytics",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -31262,6 +32544,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "prospecting-plan-builder",
+      "name": "Prospecting Plan Builder",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Build the week's book of work. Seeds contacts, enriches email/mobile, and writes a ready-to-work tracker so outbound starts from a list",
+      "summary_zh": "攒出这周的活 找联系人、补全邮箱和手机、写成可直接开工的跟进表",
+      "import": "https://x.ai/bot/s8b59eb62f90871ac5c36",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "automation",
+        "productivity",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "prospecting-sheet-builder",
       "name": "Prospecting Sheet Builder",
       "author": {
@@ -31372,6 +32676,28 @@
       "updated": "2026-09-09",
       "source": "https://x.com/5antoshernandez/status/2097118731042492739",
       "related": "https://grokbot.dev/bots/proto",
+      "shelf": "raw"
+    },
+    {
+      "slug": "prototype-builder",
+      "name": "Prototype Builder",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Go from ask to something clickable fast. Writes on its computer and comes back with a screenshot plus a live URL",
+      "summary_zh": "从一句需求到能点的东西 自己在机器上写，回来给你截图加一个在线地址",
+      "import": "https://x.ai/bot/s2e4acfb8db3cc0669a1b",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "design",
+        "engineering",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -32554,6 +33880,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "renewal-desk-operator",
+      "name": "Renewal Desk Operator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Builds a 90-day pack per account from usage, tickets, calls and CRM, drafts the commercial note, and nudges the owner",
+      "summary_zh": "每次续约都已经摸过底 按用量、工单、通话、CRM 出 90 天材料，商务说明也起好草稿",
+      "import": "https://x.ai/bot/s4c86a54f188668096400",
+      "category": "finance-ops",
+      "tags": [
+        "sales",
+        "back-office",
+        "monitoring",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "renewals-invoice-bot",
       "name": "Renewals Invoice Bot",
       "author": {
@@ -33269,6 +34617,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-02",
+      "shelf": "raw"
+    },
+    {
+      "slug": "review-desk",
+      "name": "Review Desk",
+      "author": {
+        "name": "AraXsuper",
+        "url": "https://x.com/AraXsuper"
+      },
+      "summary": "Drafts review replies in your shop's own voice, star-sorted, with you approving each one",
+      "summary_zh": "按你店铺口吻起草评价回复，按星级分类，每条经你批准",
+      "import": "https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc",
+      "category": "customer-sales",
+      "tags": [
+        "business",
+        "support",
+        "back-office",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -33994,6 +35364,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "sales-call-coach-s817",
+      "name": "Sales Call Coach",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Leave every call with homework. Reviews Gong calls and leaves timestamped coaching on discovery, objections, and executive presence, plus a call score",
+      "summary_zh": "每通电话都留作业 复盘 Gong 录音，就挖需求、异议处理、临场气场打时间戳点评并评分",
+      "import": "https://x.ai/bot/s8173b3a9c49917de5b2d",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "learning",
+        "meetings",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "aka"
+    },
+    {
       "slug": "sales-orchestrator",
       "name": "Sales Orchestrator",
       "author": {
@@ -34016,6 +35408,28 @@
       "verified": false,
       "updated": "2026-09-11",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "sales-outbound",
+      "name": "Sales Outbound",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Researches accounts overnight, scores contacts on intent, drafts email and LinkedIn in your voice, and leaves it for review",
+      "summary_zh": "调研和外呼都交出去 夜里研究客户、按意图打分、用你的口吻写好邮件和领英，留给你过一遍",
+      "import": "https://x.ai/bot/s8ff03023f140bab479f7",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "growth",
+        "automation",
+        "social-media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
     },
     {
       "slug": "sam",
@@ -34790,6 +36204,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "security-questionnaire-filler",
+      "name": "Security Questionnaire Filler",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Logs into vendor security portals, pulls answers from your trust center and past RFPs, and drafts every field for review",
+      "summary_zh": "快速过供应商安全问卷 登门户、从信任中心和历史标书取答案，逐项填好草稿",
+      "import": "https://x.ai/bot/s1bde25ba45eca88ff276",
+      "category": "coding-shipping",
+      "tags": [
+        "ops",
+        "back-office",
+        "automation",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "segundo-c-rebro",
       "name": "Segundo Cérebro",
       "author": {
@@ -34942,6 +36378,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "seo-aeo-auditor",
+      "name": "SEO / AEO Auditor",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Tracks keyword, technical, AI-prompt and competitor movement in one place, and flags the site issues worth fixing",
+      "summary_zh": "关键词、技术项、AI 提问、对手动向盯在一处，告诉你是在涨还是在掉，并标出待修问题",
+      "import": "https://x.ai/bot/sb6d579c33f7a32d0e7af",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "seo",
+        "analytics",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "seo-and-aeo-desk",
       "name": "SEO & AEO Desk",
       "author": {
@@ -34983,6 +36441,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16",
+      "shelf": "raw"
+    },
+    {
+      "slug": "seo-expert",
+      "name": "SEO Expert",
+      "author": {
+        "name": "iammutex",
+        "url": "https://x.com/iammutex"
+      },
+      "summary": "Keeps watch on your site's search performance and plans fixes for your sign-off",
+      "summary_zh": "盯着站点搜索表现，规划修复方案等你拍板",
+      "import": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+      "category": "content-publishing",
+      "tags": [
+        "business",
+        "seo",
+        "growth",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -35601,6 +37081,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "shop-bot",
+      "name": "Shop Bot",
+      "author": {
+        "name": "paranoidream",
+        "url": "https://x.com/paranoidream"
+      },
+      "summary": "Reads your shopping bookmarks, flags restocks and prices, buys only when you say go",
+      "summary_zh": "盯你的购物收藏，标出补货与比价，只有你点头才下单",
+      "import": "https://x.ai/bot/j8g1F8J69QH42NmYbgb4l",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping",
+        "saving-money",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -36605,6 +38107,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "social-media-manager",
+      "name": "Social Media Manager",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Studies your posting history, drafts when something noteworthy ships, and parks the post for you to publish",
+      "summary_zh": "用你的口吻发帖但不用泡在草稿箱 学你历史发言，有值得说的就写好存着等你发",
+      "import": "https://x.ai/bot/s634cb1edf26493e86be2",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "social-media",
+        "content",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "social-ops-bot",
       "name": "Social Ops Bot",
       "author": {
@@ -37243,6 +38767,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-17",
+      "shelf": "raw"
+    },
+    {
+      "slug": "status-report-writer",
+      "name": "Status Report Writer",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Own the to-do so nothing slips. Pulls open action items from docs, meetings, and Slack into one living list and a morning digest",
+      "summary_zh": "待办不漏项 从文档、会议、Slack 收拢未完成事项，合成一张活清单和早报",
+      "import": "https://x.ai/bot/sde2c69536d2f2564fe1b",
+      "category": "teams-handoffs",
+      "tags": [
+        "business",
+        "productivity",
+        "back-office",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -37885,6 +39431,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "subscription-cleaner",
+      "name": "Subscription Cleaner",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Cut the noise you forgot about. Collates receipt and newsletter mail, suggests what to kill, and unsubscribes what you approve",
+      "summary_zh": "砍掉你早忘了的订阅 汇总账单和推送邮件、建议退哪些，你点头的它去退订",
+      "import": "https://x.ai/bot/sb36667ce9e1fdc00cfe7",
+      "category": "finance-ops",
+      "tags": [
+        "personal",
+        "email",
+        "saving-money",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "substreams",
       "name": "substreams",
       "author": {
@@ -38354,6 +39922,28 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "talent-scout-sac3",
+      "name": "Talent Scout",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Runs screen-to-offer: sources candidates, drafts outreach in your voice, and skips anyone already in the ATS",
+      "summary_zh": "招聘在你睡觉时也在走 从找人到发 offer 全程，用你的口吻写触达，已在库的自动跳过",
+      "import": "https://x.ai/bot/sac3a109dfe021c555c7c",
+      "category": "customer-sales",
+      "tags": [
+        "recruiting",
+        "automation",
+        "productivity",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "aka"
     },
     {
       "slug": "tally-desk",
@@ -39039,6 +40629,28 @@
       "verified": false,
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/testys",
+      "shelf": "raw"
+    },
+    {
+      "slug": "texas-lawyer",
+      "name": "Texas Lawyer",
+      "author": {
+        "name": "ladybarrelmaker",
+        "url": "https://x.com/ladybarrelmaker"
+      },
+      "summary": "Tracks Texas coverage rulings and quiet regulator moves in one standing briefing",
+      "summary_zh": "盯紧德州承保判例与监管静默动作，汇成一份常备简报",
+      "import": "https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y",
+      "category": "research-briefings",
+      "tags": [
+        "business",
+        "news",
+        "monitoring",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
       "shelf": "raw"
     },
     {
@@ -39761,6 +41373,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "ticket-triage-specialist",
+      "name": "Ticket Triage Specialist",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Clear the queue without living in it. Watches support on a cadence, drafts replies only, and stays quiet when it's clean",
+      "summary_zh": "清队列但不用守着 按节奏盯工单，只出回复草稿，没事的时候不吵你",
+      "import": "https://x.ai/bot/s7aaf6431077930df326f",
+      "category": "customer-sales",
+      "tags": [
+        "support",
+        "automation",
+        "productivity",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "tidal",
       "name": "TIDAL",
       "author": {
@@ -40298,6 +41932,25 @@
       "shelf": "raw"
     },
     {
+      "slug": "tou-jianli",
+      "name": "投简历",
+      "author": {
+        "name": "EdwinCh43136084",
+        "url": "https://x.com/EdwinCh43136084"
+      },
+      "summary": "Screens jobs on Chinese boards per your filter and applies, or emails open hiring inboxes, then reports blockers",
+      "summary_zh": "按筛选口径在招聘平台筛岗投递，也可向公开邮箱发简历，并回报卡点",
+      "import": "https://x.ai/bot/Xg1_LIUG80iz5065crarS",
+      "category": "personal-admin",
+      "tags": [
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "track-parents",
       "name": "Track parents",
       "author": {
@@ -40561,6 +42214,28 @@
       "verified": false,
       "updated": "2026-09-14",
       "shelf": "aka"
+    },
+    {
+      "slug": "travel-coordinator",
+      "name": "Travel Coordinator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Hold the best option before it expires. Compares flights and hotels to your rules, confirms before booking, and drops itinerary plus calendar",
+      "summary_zh": "趁好价还在就锁住 按你的规则比机票酒店，订之前先确认，最后给行程和日历",
+      "import": "https://x.ai/bot/sc693906bdeded166b7ba",
+      "category": "inbox-calendar",
+      "tags": [
+        "personal",
+        "travel",
+        "automation",
+        "saving-money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
     },
     {
       "slug": "travel-desk",
@@ -41368,6 +43043,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "vendor-portal-operator",
+      "name": "Vendor Portal Operator",
+      "author": {
+        "name": "SpaceX",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "summary": "Run renewals, seats, and procurement on portals with no clean API. Clicks the same path every week and comes back with exceptions only",
+      "summary_zh": "没有正经 API 的采购门户也能跑 续约、席位、下单每周点同一条路，只回报异常",
+      "import": "https://x.ai/bot/s98a7368e786130ad172b",
+      "category": "finance-ops",
+      "tags": [
+        "ops",
+        "back-office",
+        "automation",
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
       "slug": "venduto",
       "name": "Venduto",
       "author": {
@@ -41456,6 +43153,26 @@
       "verified": false,
       "updated": "2026-09-15",
       "shelf": "raw"
+    },
+    {
+      "slug": "vibe-check",
+      "name": "Vibe Check",
+      "author": {
+        "name": "Abby",
+        "url": "https://x.com/Abbee47145"
+      },
+      "summary": "A vibe check for project understanding. When friction or repeated points show you and AI may not be building the same thing, it slows in and recalibrates",
+      "summary_zh": "项目理解氛围检查，卡住或反复时帮你对齐人和 AI 是否同频",
+      "import": "https://x.ai/bot/CPOWEqxmLfmSsiMnw2qlD",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/Abbee47145/status/2103141856779370540"
     },
     {
       "slug": "video-clip",
@@ -44236,6 +45953,26 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "zenith",
+      "name": "Zenith",
+      "author": {
+        "name": "Jolene",
+        "url": "https://x.com/Miss_J91"
+      },
+      "summary": "A warm everyday personal assistant for quick questions by voice or chat, local weather and events, image generation, and editable templates",
+      "summary_zh": "温和的日常私人助理，语音或聊天答疑，并捎上本地天气与活动",
+      "import": "https://x.ai/bot/gZPPC04qoRf1pA71ubiYi",
+      "category": "personal-admin",
+      "tags": [
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/Miss_J91/status/2103252920548590046"
     },
     {
       "slug": "zensched",
