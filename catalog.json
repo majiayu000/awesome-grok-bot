@@ -27708,6 +27708,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "news-ear",
+      "name": "News Ear",
+      "author": {
+        "name": "Reeve",
+        "url": "https://x.com/Reeve_dev"
+      },
+      "summary": "One spoken line from real news with a tiny hint in your language, then one line to say aloud for English-by-ear practice",
+      "summary_zh": "每天从真新闻抽出一句口语让你听懂并跟说，母语只给一点提示不做翻译操练",
+      "import": "https://x.ai/bot/yvygjNLFai6vmSEVP0bhf",
+      "category": "personal-admin",
+      "tags": [
+        "english",
+        "listening",
+        "news",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/Reeve_dev/status/2103440960265028077"
+    },
+    {
       "slug": "news-scout",
       "name": "News Scout",
       "author": {
@@ -44334,6 +44357,29 @@
       "updated": "2026-09-25",
       "shelf": "raw",
       "source": "https://x.com/Christian_O91/status/2103347545900507549"
+    },
+    {
+      "slug": "weekly-usage",
+      "name": "Weekly Usage",
+      "author": {
+        "name": "Jacob",
+        "url": "https://x.com/London_Vista"
+      },
+      "summary": "Shows weekly Grok Bot usage on the Bot computer via BigUwidget, with optional cards for Grok, AGY, and ChatGPT",
+      "summary_zh": "在 Grok Bot 电脑上用 BigUwidget 一眼看本周用量，也可选 Grok AGY 与 ChatGPT 周卡",
+      "import": "https://x.ai/bot/TEWOTNV18AmN4GtqjtUSv",
+      "category": "finance-ops",
+      "tags": [
+        "usage",
+        "billing",
+        "monitoring",
+        "widget"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-25",
+      "shelf": "raw",
+      "source": "https://x.com/London_Vista/status/2103414245375570080"
     },
     {
       "slug": "what-would-jesus-do",
