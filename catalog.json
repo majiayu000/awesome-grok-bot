@@ -1596,6 +1596,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "airfield-electrical-bid-scout",
+      "name": "Airfield Electrical Bid Scout",
+      "author": {
+        "name": "thefit24couple",
+        "url": "https://x.com/thefit24couple"
+      },
+      "summary": "Finds and qualifies public bids for airfield lighting, NAVAIDs, FAA fiber, and underground electrical work, and sends a short recap plus a spreadsheet.",
+      "summary_zh": "搜筛机场照明、助航、FAA 光纤与地下电气的公开标讯，发摘要与表格",
+      "import": "https://x.ai/bot/PWBPqcCqUbEUPozXozRc3",
+      "category": "customer-sales",
+      "tags": [
+        "bids",
+        "airfield",
+        "electrical",
+        "bd"
+      ],
+      "source": "https://x.com/thefit24couple/status/2103777435087249670",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "albert",
       "name": "Albert",
       "author": {
@@ -2266,6 +2289,29 @@
       "updated": "2026-09-24",
       "shelf": "raw",
       "source": "https://x.com/mccune011/status/2102881859701227647"
+    },
+    {
+      "slug": "apply-bot",
+      "name": "Apply Bot",
+      "author": {
+        "name": "Kyle",
+        "url": "https://x.com/Kylebauer"
+      },
+      "summary": "Finds live JDs, remaps your proof onto each job scoring rubric, and applies at volume with queue pacing so quality survives busy days.",
+      "summary_zh": "找在招职位，按岗位评分表重写证据，并按队列节奏批量投递",
+      "import": "https://x.ai/bot/2GdkYgGlc91A6d6MPXCkZ",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "apply",
+        "resume",
+        "career"
+      ],
+      "source": "https://x.com/Kylebauer/status/2103765740642083259",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
     },
     {
       "slug": "appointment-finder",
@@ -10424,6 +10470,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "critique",
+      "name": "Critique",
+      "author": {
+        "name": "TNVOLMAN",
+        "url": "https://x.com/TNVOLMAN"
+      },
+      "summary": "Evaluates X posts and content ideas with a kill-or-pursue verdict so you only ship what is worth the attention.",
+      "summary_zh": "给 X 帖与内容点子做杀或追的裁决，只留下值得投入注意力的选题",
+      "import": "https://x.ai/bot/Dkl9wzI9FCt4EhqTHfsk2",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "content",
+        "critique",
+        "ideas"
+      ],
+      "source": "https://x.com/TNVOLMAN/status/2103815860079198470",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "critiquito",
       "name": "critiquito",
       "author": {
@@ -15261,6 +15330,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "find-an-apartment-with-budget",
+      "name": "Find an apartment with budget",
+      "author": {
+        "name": "Ayomide",
+        "url": "https://x.com/TheAyoFrancis"
+      },
+      "summary": "Finds budget apartments as close to your workplace as possible. Set your price range and maximum commute, and it balances price, commute time, and crime.",
+      "summary_zh": "按预算与通勤上限找公寓，并在价格、通勤与治安之间做权衡",
+      "import": "https://x.ai/bot/9iMoFiWKRlnobZbxxS8kx",
+      "category": "personal-admin",
+      "tags": [
+        "housing",
+        "apartment",
+        "budget",
+        "commute"
+      ],
+      "source": "https://x.com/TheAyoFrancis/status/2103780690395373997",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "firewatch",
       "name": "FireWatch",
       "author": {
@@ -16111,6 +16203,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fortnite-drop-brief",
+      "name": "Fortnite Drop Brief",
+      "author": {
+        "name": "Ivan",
+        "url": "https://x.com/IHybben"
+      },
+      "summary": "A daily Fortnite Battle Royale briefing covering the shop, patches, downtime, events, and labeled leaks, with a plain-language Patch Explainer.",
+      "summary_zh": "每日堡垒之夜简报，覆盖商店、补丁、停机、活动与标注来源的爆料",
+      "import": "https://x.ai/bot/QNiJmH32K4YqAEafHRF__",
+      "category": "personal-admin",
+      "tags": [
+        "fortnite",
+        "gaming",
+        "briefing",
+        "daily"
+      ],
+      "source": "https://x.com/IHybben/status/2103780983459959139",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -19805,6 +19920,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16",
+      "shelf": "raw"
+    },
+    {
+      "slug": "higgins",
+      "name": "Higgins",
+      "author": {
+        "name": "thefit24couple",
+        "url": "https://x.com/thefit24couple"
+      },
+      "summary": "A personal concierge for evenings and weekends. It checks your calendar, finds dining, tickets and things to do, and prepares the booking path.",
+      "summary_zh": "晚间与周末私人礼宾，看日历找餐饮票务与活动，并备好预订路径",
+      "import": "https://x.ai/bot/pobs233eUgpZLtlxoyyEn",
+      "category": "personal-admin",
+      "tags": [
+        "concierge",
+        "travel",
+        "dining",
+        "weekend"
+      ],
+      "source": "https://x.com/thefit24couple/status/2103780998437826823",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -35034,6 +35172,29 @@
       "source": "https://x.com/jarviscompany/status/2101415257285501417"
     },
     {
+      "slug": "requirement-engineer-bot",
+      "name": "Requirement Engineer Bot",
+      "author": {
+        "name": "Fish",
+        "url": "https://x.com/FishxCD"
+      },
+      "summary": "Turns a project brief into a clear, structured requirements spec another bot can implement and verify, for serious builds only.",
+      "summary_zh": "把项目目标译成可追踪的高层与实现需求，供其他机器人落地核验",
+      "import": "https://x.ai/bot/5KADFS8AIIDOlow5tS34Z",
+      "category": "coding-shipping",
+      "tags": [
+        "requirements",
+        "engineering",
+        "specs",
+        "shipping"
+      ],
+      "source": "https://x.com/FishxCD/status/2103810502510215640",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "res",
       "name": "Res",
       "author": {
@@ -35272,6 +35433,29 @@
       "source": "https://x.com/occupymars___/status/2098559815173955642",
       "related": "https://grokbot.dev/marketplace/researcher/",
       "shelf": "aka"
+    },
+    {
+      "slug": "researcher-ai-desk",
+      "name": "Researcher AI Desk",
+      "author": {
+        "name": "Original Tree",
+        "url": "https://x.com/original_Tree"
+      },
+      "summary": "Research Boss ops on Grok: live to-do, morning surface, Lit and Draft seats, grok.com Project paste, for academia and deep research support.",
+      "summary_zh": "学术与深度研究的 Grok 作战台，含待办、晨报、文献与草稿席位",
+      "import": "https://x.ai/bot/89JF_2TtrVf27zelZ8pZ8",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "academia",
+        "briefing",
+        "desk"
+      ],
+      "source": "https://x.com/original_Tree/status/2103806334953230846",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
     },
     {
       "slug": "researcher-tferriere",
@@ -36131,6 +36315,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06",
+      "shelf": "raw"
+    },
+    {
+      "slug": "running-coach",
+      "name": "Running Coach",
+      "author": {
+        "name": "Ivan",
+        "url": "https://x.com/IHybben"
+      },
+      "summary": "An on-demand running coach that reads your Garmin watch data. After each run you get what went well, what to fix, and a recovery-gated next session.",
+      "summary_zh": "读 Garmin 数据的跑步教练，每次跑完指出得失并给出恢复门控的下一练",
+      "import": "https://x.ai/bot/o4hvGfkH_LOiP0YbT22og",
+      "category": "personal-admin",
+      "tags": [
+        "running",
+        "garmin",
+        "fitness",
+        "coach"
+      ],
+      "source": "https://x.com/IHybben/status/2103818102014132424",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -41613,6 +41820,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "teddy",
+      "name": "Teddy",
+      "author": {
+        "name": "Jack Locke",
+        "url": "https://x.com/JackLocke"
+      },
+      "summary": "Your AI chief of staff. Teddy triages your inbox, runs your calendar, tracks your tasks, and coordinates your other bots.",
+      "summary_zh": "AI 幕僚长，分拣收件箱、管日历与任务，并协调你的其他机器人",
+      "import": "https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB",
+      "category": "teams-handoffs",
+      "tags": [
+        "chief-of-staff",
+        "inbox",
+        "calendar",
+        "orchestration"
+      ],
+      "source": "https://x.com/JackLocke/status/2103805162578231363",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "studio-door"
+    },
+    {
       "slug": "teeny-squigz",
       "name": "Teeny Squigz",
       "author": {
@@ -43642,6 +43872,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "travel-advisor",
+      "name": "Travel Advisor",
+      "author": {
+        "name": "thefit24couple",
+        "url": "https://x.com/thefit24couple"
+      },
+      "summary": "A travel advisor that plans multi-day trips (flights, stays, road trips, day-by-day itineraries, and reservation proposals) from live official sources.",
+      "summary_zh": "多日行程顾问，用官方活源规划航班住宿自驾与逐日行程及预订草案",
+      "import": "https://x.ai/bot/CO9aQ2BdGGHEJH0wXTGV7",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "itinerary",
+        "flights",
+        "planning"
+      ],
+      "source": "https://x.com/thefit24couple/status/2103779539235250191",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "travel-agent",
       "name": "Travel Agent",
       "author": {
@@ -44647,6 +44900,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "vern",
+      "name": "Vern",
+      "author": {
+        "name": "Austin H",
+        "url": "https://x.com/ahoop"
+      },
+      "summary": "A personal relationship CRM that keeps a private contact book and reminds you when a friend's birthday or follow-up is due, without burning weekly usage.",
+      "summary_zh": "私人关系 CRM，记联系人并提醒生日与跟进，尽量省每周用量",
+      "import": "https://x.ai/bot/rDEpX2aSCERCaVJACxNz7",
+      "category": "personal-admin",
+      "tags": [
+        "crm",
+        "contacts",
+        "personal",
+        "reminders"
+      ],
+      "source": "https://x.com/ahoop/status/2103809460972200282",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "vet",
       "name": "Vet",
       "author": {
@@ -45085,6 +45361,29 @@
       "verified": false,
       "updated": "2026-09-15",
       "shelf": "featured"
+    },
+    {
+      "slug": "volatile-stock-options",
+      "name": "Volatile Stock Options",
+      "author": {
+        "name": "KV",
+        "url": "https://x.com/KVTay316"
+      },
+      "summary": "Screens volatile US call options with multi-source checks and concrete contracts for personal research, not advice.",
+      "summary_zh": "多源筛查美股波动看涨期权并给出具体合约，仅供个人研究非建议",
+      "import": "https://x.ai/bot/kuhoazDWLEsY-kXvHBwtU",
+      "category": "finance-ops",
+      "tags": [
+        "options",
+        "stocks",
+        "screening",
+        "research"
+      ],
+      "source": "https://x.com/KVTay316/status/2103780405736587652",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
     },
     {
       "slug": "volt",
@@ -45843,6 +46142,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18",
+      "shelf": "raw"
+    },
+    {
+      "slug": "weekly-fair-mint-scanner",
+      "name": "每週公平分發代幣掃描",
+      "author": {
+        "name": "slowbtc",
+        "url": "https://x.com/slowbtc"
+      },
+      "summary": "Weekly scan of new fair-mint token projects, scores 0-10 against past breakout patterns, flags scam signals, and emails a research-only report.",
+      "summary_zh": "每周扫描公平分发代币，按爆发特征打分并查骗局迹象，只做研究不碰钱包",
+      "import": "https://x.ai/bot/kO0E0KzOkpUnPJQLmzBFm",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "fair-mint",
+        "research",
+        "scanner"
+      ],
+      "source": "https://x.com/slowbtc/status/2103802372984361061",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {

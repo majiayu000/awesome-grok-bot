@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **129**.
+Generated from [catalog.json](../catalog.json). Count: **130**.
 
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.
@@ -127,6 +127,7 @@ Generated from [catalog.json](../catalog.json). Count: **129**.
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) - Art studio assistant for scheduling, outreach, and captions.
 - [Studio Chief](https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa) - Runs a specialist bot team for a product-photography studio: coding PRs, CRM follow-ups, ads watch, and outreach — so the owner can stay on shoots.
 - [Team Builder](https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA) - Spins up a company bot team. Interviews the founder, then hires and places Chief of Staff, Research, Build, Marketing, ImproveBots, helpers, and a.
+- [Teddy](https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB) - Your AI chief of staff. Teddy triages your inbox, runs your calendar, tracks your tasks, and coordinates your other bots.
 - [The King](https://x.ai/bot/WHMChivJ0obkKm2uvo9xK) - One chief of staff that briefs specialist bots for you.
 - [Three files and a scoreboard run your crew of Bots, not a chat](https://x.ai/bot/0uOnsCTsoM8Rx9_yh2koe) - Runs a Bot crew from three files and a scoreboard, one job each, with receipts graded before you read.
 - [Tiffany](https://x.ai/bot/VS2G5p1b_nQixeiYcdwFs) - Chief of staff for a local marketing agency. Runs specialists across clients, drafts-then-approves public work, and ships GBP, social, SEO blogs, and.
