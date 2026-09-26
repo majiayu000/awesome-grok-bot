@@ -8567,6 +8567,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "codefix-buddy",
+      "name": "CodeFix Buddy",
+      "author": {
+        "name": "aibotmeme",
+        "url": "https://x.com/aibotmeme"
+      },
+      "summary": "Your all-in-one coding sidekick. Paste an error and get the fix, describe what to build and get working code, or ask about a concept and get a simple",
+      "summary_zh": "编程助手，贴报错给修法，说需求出代码，问概念给白话讲解",
+      "import": "https://x.ai/bot/-3H90YMhn2cE-CO1jj3-2",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "debugging",
+        "dev",
+        "shipping"
+      ],
+      "source": "https://x.com/aibotmeme/status/2103721602114326549",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "codex",
       "name": "Codex",
       "author": {
@@ -9376,6 +9399,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-17",
+      "shelf": "raw"
+    },
+    {
+      "slug": "construction-manager-bot",
+      "name": "Construction Manager Bot",
+      "author": {
+        "name": "HenryBeagle808",
+        "url": "https://x.com/HenryBeagle808"
+      },
+      "summary": "Owner-side or contractor-side CM for US civil work built for the phone in the field. Site-visit cards, photo to description to issue to RFI draft emailed to you",
+      "summary_zh": "面向美国土建现场的施工经理助手，拍照出描述与 RFI 草稿",
+      "import": "https://x.ai/bot/QrJpjStFV2WBIaI8wirO6",
+      "category": "finance-ops",
+      "tags": [
+        "ops",
+        "field",
+        "construction",
+        "productivity"
+      ],
+      "source": "https://x.com/HenryBeagle808/status/2103749805625536556",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -19478,6 +19524,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "heckler",
+      "name": "Heckler",
+      "author": {
+        "name": "XploreFutureX",
+        "url": "https://x.com/XploreFutureX"
+      },
+      "summary": "A retired garden-party entertainer who watches your other AI bots and roasts their real screwups, with a meme on every roast, in one sitting",
+      "summary_zh": "盯着你其他 AI 机器人真出错并吐槽，每条吐槽配一张梗图",
+      "import": "https://x.ai/bot/OkrPAOW9hkj4IGpOLrsGY",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "ops",
+        "humor",
+        "monitoring"
+      ],
+      "source": "https://x.com/XploreFutureX/status/2103727541835989108",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "helidon-engineer",
       "name": "helidon engineer",
       "author": {
@@ -21754,6 +21823,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "interview-to-book",
+      "name": "Interview to Book",
+      "author": {
+        "name": "jackhu_bangzhu",
+        "url": "https://x.com/jackhu_bangzhu"
+      },
+      "summary": "Choose a life arc. One question at a time. Turn spoken answers into a printable memoir with cover, from text, audio, or video",
+      "summary_zh": "选一条人生主线，一次只问一题，把口述整理成可打印书稿与封面",
+      "import": "https://x.ai/bot/XuGcpLoS77HdZoupGOlnp",
+      "category": "content-publishing",
+      "tags": [
+        "memoir",
+        "writing",
+        "content",
+        "publishing"
+      ],
+      "source": "https://x.com/jackhu_bangzhu/status/2103734020211442101",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "invention-detective",
       "name": "Invention Detective",
       "author": {
@@ -23216,6 +23308,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16",
+      "shelf": "raw"
+    },
+    {
+      "slug": "kids-daily-spark",
+      "name": "Kids Daily Spark",
+      "author": {
+        "name": "HelloBenL",
+        "url": "https://x.com/HelloBenL"
+      },
+      "summary": "Makes a sticky one-page STEM learning brief for each kid every day: real concept, memorable hook, 30-second try-it, soft hero art, and optional parent note",
+      "summary_zh": "每天给每个孩子做一页 STEM 学习简报，含概念钩子与三十秒动手",
+      "import": "https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf",
+      "category": "personal-admin",
+      "tags": [
+        "kids",
+        "education",
+        "stem",
+        "admin"
+      ],
+      "source": "https://x.com/HelloBenL/status/2103753503596564871",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -31371,6 +31486,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "personalized-localized-name-gen",
+      "name": "Personalized Localized Name Gen",
+      "author": {
+        "name": "MarioSaputra",
+        "url": "https://x.com/MarioSaputra"
+      },
+      "summary": "Generates localized first and last names plus a nickname when useful, personalized to you and a target country, with local script when the locale has one",
+      "summary_zh": "按目标国家生成本地化姓名与昵称，需要时用当地文字",
+      "import": "https://x.ai/bot/A5MrnZ1SGhd4yOX-ZlWBh",
+      "category": "personal-admin",
+      "tags": [
+        "names",
+        "localization",
+        "personal",
+        "admin"
+      ],
+      "source": "https://x.com/MarioSaputra/status/2103721921473077408",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "pet-care-incident-pack",
       "name": "Pet Care Incident Pack",
       "author": {
@@ -31613,6 +31751,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "source": "https://x.com/Abdulloh_E_B/status/2100451186654494784",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pick-buddy",
+      "name": "Pick Buddy",
+      "author": {
+        "name": "aibotmeme",
+        "url": "https://x.com/aibotmeme"
+      },
+      "summary": "Can't decide? Give 2 to 6 options. Scores each on fit, cost, time, risk, and upside, picks a winner with reasons, and can turn it into a step-by-step plan",
+      "summary_zh": "给两到六个选项，按匹配成本时间风险收益打分并选出赢家与理由",
+      "import": "https://x.ai/bot/TVm2a-XMbS82AU0MMLyHq",
+      "category": "personal-admin",
+      "tags": [
+        "decision",
+        "personal",
+        "admin",
+        "productivity"
+      ],
+      "source": "https://x.com/aibotmeme/status/2103724181300916298",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -33487,6 +33648,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "quant-backtest-lab",
+      "name": "Quant Backtest Lab",
+      "author": {
+        "name": "jackhu_bangzhu",
+        "url": "https://x.com/jackhu_bangzhu"
+      },
+      "summary": "Turns a trading idea into fixed rules, runs cost-aware backtests on A-shares, US stocks, or crypto spot, and returns research notes. Python only, never places",
+      "summary_zh": "把交易想法写成规则，在A股美股或加密现货上做含成本回测，只出Python不代下单",
+      "import": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE",
+      "category": "finance-ops",
+      "tags": [
+        "quant",
+        "backtest",
+        "finance",
+        "trading"
+      ],
+      "source": "https://x.com/jackhu_bangzhu/status/2103739894090829964",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "qubits-toy-bot",
       "name": "Qubits Toy Bot",
       "author": {
@@ -34669,6 +34853,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "reply-desk",
+      "name": "Reply Desk",
+      "author": {
+        "name": "lonzom10",
+        "url": "https://x.com/lonzom10"
+      },
+      "summary": "Drafts replies to customer emails, messages, and public reviews for local service businesses. Never sends or posts; you review and send yourself",
+      "summary_zh": "为本地服务生意起草客户邮件消息与评价回复，从不代发",
+      "import": "https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf",
+      "category": "customer-sales",
+      "tags": [
+        "customer",
+        "replies",
+        "reviews",
+        "sales"
+      ],
+      "source": "https://x.com/lonzom10/status/2103749418457681951",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
       "slug": "reply-radar",
       "name": "Reply Radar",
       "author": {
@@ -34734,6 +34941,29 @@
       "verified": false,
       "updated": "2026-09-02",
       "source": "https://x.com/RustamAtuev",
+      "shelf": "raw"
+    },
+    {
+      "slug": "repo-monkey",
+      "name": "Repo Monkey",
+      "author": {
+        "name": "Keranik",
+        "url": "https://x.com/Keranik"
+      },
+      "summary": "Works with GitHub: turns notifications, pull requests, and CI into a short list of what actually needs you, each with a next step. Nothing merges without your",
+      "summary_zh": "梳理 GitHub 通知、PR 与 CI，列出真正需要你拍板的事项与下一步",
+      "import": "https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ",
+      "category": "coding-shipping",
+      "tags": [
+        "github",
+        "prs",
+        "ci",
+        "shipping"
+      ],
+      "source": "https://x.com/Keranik/status/2103723687920669124",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -37736,6 +37966,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ship-desk",
+      "name": "Ship Desk",
+      "author": {
+        "name": "usgworld",
+        "url": "https://x.com/usgworld"
+      },
+      "summary": "Tip-locked staging-to-prod promote template that keeps commerce fail-closed until you flip the switch. Staging is not production",
+      "summary_zh": "用 tip 哈希锁定的预发到生产晋升模板，商务路径默认失败关闭",
+      "import": "https://x.ai/bot/thMhD-rbJ0Osd274RGohH",
+      "category": "coding-shipping",
+      "tags": [
+        "shipping",
+        "staging",
+        "devops",
+        "deploy"
+      ],
+      "source": "https://x.com/usgworld/status/2103747605503041761",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -41891,6 +42144,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "thaw",
+      "name": "Thaw",
+      "author": {
+        "name": "thebytorsnowdog",
+        "url": "https://x.com/thebytorsnowdog"
+      },
+      "summary": "Scores made-up water pipes for their chance of failing in the next 12 months using a synthetic-data random forest, and explains each result in plain English",
+      "summary_zh": "用合成数据随机森林给水管打未来十二个月失效分，并用白话解释",
+      "import": "https://x.ai/bot/CvO94wB4V27zmL1haDbQL",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "asset",
+        "ml",
+        "demo"
+      ],
+      "source": "https://x.com/thebytorsnowdog/status/2103743916964970548",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
@@ -46832,6 +47108,29 @@
       "updated": "2026-09-13",
       "related": "https://grokbot.dev/marketplace/x-task-dispatcher/",
       "source": "https://x.com/cgnot996/status/2098682795094876175",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-thread-article-writer",
+      "name": "X Thread & Article Writer",
+      "author": {
+        "name": "sigarellano",
+        "url": "https://x.com/sigarellano"
+      },
+      "summary": "Turns your ideas, links, or rough notes into X threads and X articles written in your own voice, ready to paste. It drafts only and never posts for you",
+      "summary_zh": "把想法链接或草稿写成你语气的 X 串文与长文，只起草不代发",
+      "import": "https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "threads",
+        "writing",
+        "content"
+      ],
+      "source": "https://x.com/sigarellano/status/2103737235413860615",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-26",
       "shelf": "raw"
     },
     {
