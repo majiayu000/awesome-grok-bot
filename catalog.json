@@ -4533,6 +4533,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "bot-foundry",
+      "name": "Bot Foundry",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "Turns an idea or repeated task into a ready bot template with persona, skills, and launch posts",
+      "summary_zh": "把想法或重复任务做成可发布的 Bot 模板，含人设、技能与发布文案",
+      "import": "https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv",
+      "category": "coding-shipping",
+      "tags": [
+        "grok-bot",
+        "templates",
+        "builder",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/BTC_Yogi/status/2104114828692648222",
+      "shelf": "raw"
+    },
+    {
       "slug": "bot-goddess",
       "name": "Bot Goddess",
       "author": {
@@ -8121,6 +8144,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "chop-bot",
+      "name": "Chop Bot",
+      "author": {
+        "name": "Calix",
+        "url": "https://x.com/CaliLumberJack"
+      },
+      "summary": "Chops inbox, calendar, and X replies into one daily brief with draft-only replies",
+      "summary_zh": "把收件箱、日历与 X 回复砍成一份日简报，并预备仅草稿的回复",
+      "import": "https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar",
+        "x",
+        "triage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/CaliLumberJack/status/2104082348547649547",
+      "shelf": "raw"
+    },
+    {
       "slug": "chuck",
       "name": "Chuck",
       "author": {
@@ -10959,6 +11005,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "coverage-desk",
+      "name": "Coverage Desk",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/lonzom10"
+      },
+      "summary": "Explains insurance declarations and coverage lists in plain English and never sells",
+      "summary_zh": "用白话拆解保单声明页与保障清单，只解释不销售",
+      "import": "https://x.ai/bot/Xf744EvEIun3bzP0zdp0u",
+      "category": "finance-ops",
+      "tags": [
+        "insurance",
+        "explain",
+        "personal",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/lonzom10/status/2104086012989477216",
+      "shelf": "raw"
+    },
+    {
       "slug": "cpa-assistant",
       "name": "CPA助手",
       "author": {
@@ -11022,6 +11091,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16",
+      "shelf": "raw"
+    },
+    {
+      "slug": "creator-desk",
+      "name": "Creator Desk",
+      "author": {
+        "name": "Stephen",
+        "url": "https://x.com/MadeItHappenX"
+      },
+      "summary": "Creator desk for X that plans, writes, and schedules posts, short clips, and reply picks",
+      "summary_zh": "服务原创作者的 X 工作台，策划撰写并安排帖子、短视频与值得回的评论",
+      "import": "https://x.ai/bot/dM43J1T44OmcRdAsNHsBf",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "creator",
+        "scheduling",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/MadeItHappenX/status/2104034337771417720",
       "shelf": "raw"
     },
     {
@@ -11841,6 +11933,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "daily-lingo",
+      "name": "Daily Lingo",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "Ten-minute daily language lesson around your interests with spaced review and a streak",
+      "summary_zh": "围绕兴趣的每日十分钟语言课，带间隔复习与连续打卡",
+      "import": "https://x.ai/bot/pegWv3F8t7KSEwQ3sxd6A",
+      "category": "personal-admin",
+      "tags": [
+        "language",
+        "learning",
+        "daily",
+        "streak"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/BTC_Yogi/status/2104026669145309643",
       "shelf": "raw"
     },
     {
@@ -14866,6 +14981,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "epigenetics-scout",
+      "name": "Epigenetics Scout",
+      "author": {
+        "name": "Javier",
+        "url": "https://x.com/AdeptusMec71933"
+      },
+      "summary": "Weekly plain-language scout of papers on partial epigenetic reprogramming; no DIY protocols",
+      "summary_zh": "每周用白话梳理部分表观遗传重编程新论文，只谈发现与安全，不给方案",
+      "import": "https://x.ai/bot/DOGHzBWngjPXdEqucbysc",
+      "category": "research-briefings",
+      "tags": [
+        "science",
+        "papers",
+        "weekly",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/AdeptusMec71933/status/2104099408996671984",
+      "shelf": "raw"
+    },
+    {
       "slug": "errol",
       "name": "Errol",
       "author": {
@@ -16044,6 +16182,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "fantasy-lineup-coach",
+      "name": "Fantasy Lineup Coach",
+      "author": {
+        "name": "Pixel",
+        "url": "https://x.com/JPipo86"
+      },
+      "summary": "Weekly fantasy football start/sit calls with confidence scores, waivers, and trade checks",
+      "summary_zh": "每周幻想橄榄球首发替补建议，带置信度，也管捡人与交易核对",
+      "import": "https://x.ai/bot/WupzkTCX86ymUAV1pz4J3",
+      "category": "personal-admin",
+      "tags": [
+        "fantasy-football",
+        "sports",
+        "lineup",
+        "weekly"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/JPipo86/status/2104025740320903559",
+      "shelf": "raw"
+    },
+    {
       "slug": "fantasy-manager",
       "name": "Fantasy Manager",
       "author": {
@@ -16152,6 +16313,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fat-loss-training",
+      "name": "减脂训练",
+      "author": {
+        "name": "Mai",
+        "url": "https://x.com/MaiYangAI"
+      },
+      "summary": "Training rhythm and session tips for busy people cutting fat; uses watch data or your notes",
+      "summary_zh": "给想稳减脂的上班族做训练节奏与单次课建议，有手表读表，没有就按口述",
+      "import": "https://x.ai/bot/4ZZ9ceqqYU4xkfdFW-QlC",
+      "category": "personal-admin",
+      "tags": [
+        "fitness",
+        "training",
+        "wearable",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/MaiYangAI/status/2104048943474905452",
       "shelf": "raw"
     },
     {
@@ -16378,6 +16562,29 @@
       "source": "https://x.com/DuncanBob4wln/status/2101844266699849806"
     },
     {
+      "slug": "finance-brad",
+      "name": "Finance",
+      "author": {
+        "name": "Brad",
+        "url": "https://x.com/bradshannon"
+      },
+      "summary": "Read-only money coach that watches spending, bills, and subscriptions and builds an HTML dashboard",
+      "summary_zh": "只读家庭财务教练，盯开支账单与订阅，并生成带图表的 HTML 看板",
+      "import": "https://x.ai/bot/-QmsSGUOmddnC9ZAm7zdR",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "dashboard",
+        "subscriptions",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/bradshannon/status/2104043108325556445",
+      "shelf": "raw"
+    },
+    {
       "slug": "finance-bro",
       "name": "Finance Bro",
       "author": {
@@ -16420,6 +16627,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "find-good-stocks",
+      "name": "Find Good Stocks",
+      "author": {
+        "name": "chen",
+        "url": "https://x.com/TSLARKLBTSM"
+      },
+      "summary": "Tests your stock thesis against public info and can track catalysts weekly; no trade advice",
+      "summary_zh": "用公开信息检验你的股票论点，并可按周跟踪催化剂，不做买卖建议",
+      "import": "https://x.ai/bot/2vgMdaQRj4mBWUMygUThf",
+      "category": "finance-ops",
+      "tags": [
+        "stocks",
+        "research",
+        "thesis",
+        "weekly"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/TSLARKLBTSM/status/2104065607524384822",
       "shelf": "raw"
     },
     {
@@ -19475,6 +19705,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "grok-bot-sv",
+      "name": "Grok Bot SV",
+      "author": {
+        "name": "CY",
+        "url": "https://x.com/Cman0006"
+      },
+      "summary": "Self-custody Bitcoin SV wallet on your Grok Bot computer with daily limits you control",
+      "summary_zh": "跑在 Grok Bot 电脑上的自托管 BSV 钱包，按你设的日限额收发",
+      "import": "https://x.ai/bot/MMbItyozZdJ2KyVFGF3He",
+      "category": "finance-ops",
+      "tags": [
+        "bitcoin",
+        "bsv",
+        "wallet",
+        "self-custody"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/Cman0006/status/2104028784349647276",
+      "shelf": "raw"
+    },
+    {
       "slug": "grok-bot-troubleshooter",
       "name": "Grok Bot Troubleshooter",
       "author": {
@@ -19644,6 +19897,29 @@
       "verified": false,
       "updated": "2026-09-02",
       "source": "https://x.com/DAssetBuzz",
+      "shelf": "raw"
+    },
+    {
+      "slug": "grok-build-manager",
+      "name": "Grok Build Manager",
+      "author": {
+        "name": "Fan",
+        "url": "https://x.com/GrokBotRadar"
+      },
+      "summary": "Runs Grok Build on one GitHub repo on the bot computer, plan first then a draft PR",
+      "summary_zh": "在 Bot 电脑上对单个 GitHub 仓库跑 Grok Build，先计划再出草稿 PR",
+      "import": "https://x.ai/bot/qah_D3sjhwC3O9WMQO9C9",
+      "category": "coding-shipping",
+      "tags": [
+        "grok-build",
+        "github",
+        "pr",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/GrokBotRadar/status/2104026752758514009",
       "shelf": "raw"
     },
     {
@@ -21742,6 +22018,29 @@
       "shelf": "featured"
     },
     {
+      "slug": "home-keeper",
+      "name": "Home Keeper",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "Builds a home maintenance plan from age, systems, and climate, then nudges you each month",
+      "summary_zh": "按房龄、系统与气候做维护计划，按月提醒并记录家电质保",
+      "import": "https://x.ai/bot/Q7jzCnVHMmVhhBC3hwyQb",
+      "category": "personal-admin",
+      "tags": [
+        "home",
+        "maintenance",
+        "calendar",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/BTC_Yogi/status/2104026829556470045",
+      "shelf": "raw"
+    },
+    {
       "slug": "home-org",
       "name": "Home Org",
       "author": {
@@ -23051,6 +23350,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "improve-my-odds",
+      "name": "Improve My Odds",
+      "author": {
+        "name": "Scott",
+        "url": "https://x.com/SkippyyTM"
+      },
+      "summary": "Daily decision helper that reads your goals and gives quick odds-style takes on everyday choices",
+      "summary_zh": "按你选定的目标，给日常选择做简短胜算式解读的决策助手",
+      "import": "https://x.ai/bot/zJNAdJq5w03aPWeegxiwk",
+      "category": "personal-admin",
+      "tags": [
+        "decisions",
+        "goals",
+        "personal",
+        "on-demand"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/SkippyyTM/status/2104094233951146039",
+      "shelf": "raw"
+    },
+    {
       "slug": "inbot",
       "name": "Inbot",
       "author": {
@@ -23200,6 +23522,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "inbox-scout",
+      "name": "Inbox Scout",
+      "author": {
+        "name": "Javier",
+        "url": "https://x.com/AdeptusMec71933"
+      },
+      "summary": "Morning unread Gmail brief grouped into Needs me, Can wait, and Noise; drafts only",
+      "summary_zh": "把近 24 小时未读邮件分成要我处理、可等、噪音三类，只起草不发送",
+      "import": "https://x.ai/bot/bxO47jo7w93LXNsBd7gGI",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "gmail",
+        "triage",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/AdeptusMec71933/status/2104085923835281827",
       "shelf": "raw"
     },
     {
@@ -23435,6 +23780,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ink-quinn",
+      "name": "Ink",
+      "author": {
+        "name": "Quinn",
+        "url": "https://x.com/QuinnWR"
+      },
+      "summary": "Game-art partner that uses Grok Imagine for pixel sprites, creature ladders, and tiny LCD assets",
+      "summary_zh": "用 Grok Imagine 做像素精灵、生物进化阶与小屏素材的游戏美术搭档",
+      "import": "https://x.ai/bot/jKCF30ndOxkjzXXdhFNzd",
+      "category": "content-publishing",
+      "tags": [
+        "game-art",
+        "sprites",
+        "imagine",
+        "indie"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/QuinnWR/status/2104025746213904564",
       "shelf": "raw"
     },
     {
@@ -25936,6 +26304,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "launch-sky-watch",
+      "name": "Launch & Sky Watch",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "Tracks rocket launches and sky events in your local time; independent, not SpaceX affiliated",
+      "summary_zh": "按你的本地时间跟踪火箭发射与值得仰望的天象，独立信息源",
+      "import": "https://x.ai/bot/jhwkYhWyRJbDs_-uHzGar",
+      "category": "research-briefings",
+      "tags": [
+        "space",
+        "launch",
+        "sky",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/BTC_Yogi/status/2104072671856365696",
+      "shelf": "raw"
+    },
+    {
       "slug": "lauren",
       "name": "Lauren",
       "author": {
@@ -26331,6 +26722,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "raw"
+    },
+    {
+      "slug": "ledger-uzi",
+      "name": "Ledger",
+      "author": {
+        "name": "Uzi",
+        "url": "https://x.com/UziObi"
+      },
+      "summary": "Personal money desk via Finance/Plaid for balances, spend, subscriptions, credit, and investing",
+      "summary_zh": "通过 Finance/Plaid 看余额、开支、订阅、信用与投资的个人账本",
+      "import": "https://x.ai/bot/MJ4hTLwCDjlLxs0GxFB0f",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "plaid",
+        "investments",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/UziObi/status/2104040393553661992",
+      "shelf": "aka"
     },
     {
       "slug": "lee",
@@ -28530,6 +28944,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "markets-digest",
+      "name": "Markets Digest",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/marksoze"
+      },
+      "summary": "Weekday morning and evening markets digests in plain language with sourced stories",
+      "summary_zh": "工作日早晚各一份白话市场新闻摘要，带出处，不荐股",
+      "import": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+      "category": "research-briefings",
+      "tags": [
+        "markets",
+        "news",
+        "digest",
+        "weekday"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/marksoze/status/2104099090514800942",
+      "shelf": "raw"
+    },
+    {
       "slug": "marlowe",
       "name": "Marlowe",
       "author": {
@@ -28858,6 +29295,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "media-ledger",
+      "name": "Media Ledger",
+      "author": {
+        "name": "Phillip.png",
+        "url": "https://x.com/phillipstewart"
+      },
+      "summary": "Catalogs ebooks, audiobooks, games, movies, and albums you bought digitally across stores",
+      "summary_zh": "汇总你在各数字商店买过的电子书、有声书、游戏、电影与专辑",
+      "import": "https://x.ai/bot/xpZm4ufgAWoCcYPAbugWE",
+      "category": "personal-admin",
+      "tags": [
+        "library",
+        "ebooks",
+        "games",
+        "catalog"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/phillipstewart/status/2104066615734104164",
+      "shelf": "raw"
     },
     {
       "slug": "media-manager",
@@ -29335,6 +29795,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18",
+      "shelf": "raw"
+    },
+    {
+      "slug": "meraki-health",
+      "name": "Meraki Health",
+      "author": {
+        "name": "Lee",
+        "url": "https://x.com/iamleevg"
+      },
+      "summary": "Read-only Cisco Meraki health checks with quiet monitoring and weekly digests",
+      "summary_zh": "只读检查 Cisco Meraki 网络健康，安静监控并出周报",
+      "import": "https://x.ai/bot/6jV9JYRKSoq4aaV-r-JvT",
+      "category": "coding-shipping",
+      "tags": [
+        "meraki",
+        "network",
+        "monitoring",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/iamleevg/status/2104040572373614717",
       "shelf": "raw"
     },
     {
@@ -31516,6 +31999,29 @@
       "verified": false,
       "updated": "2026-09-08",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "occasion-keeper",
+      "name": "Occasion Keeper",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "Remembers birthdays and anniversaries, reminds two weeks ahead, and drafts card messages",
+      "summary_zh": "记住生日与纪念日，提前两周提醒，并按预算兴趣给礼物与贺卡草稿",
+      "import": "https://x.ai/bot/ljvkTtXU7Qd20efplT1KN",
+      "category": "personal-admin",
+      "tags": [
+        "birthdays",
+        "gifts",
+        "reminders",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/BTC_Yogi/status/2104027121685504206",
+      "shelf": "raw"
     },
     {
       "slug": "occupationmars",
@@ -35091,6 +35597,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "pounce",
+      "name": "POUNCE",
+      "author": {
+        "name": "Thuong",
+        "url": "https://x.com/teeRex247"
+      },
+      "summary": "Scans AI companies daily for contests, grants, and free credits, then verifies each deadline",
+      "summary_zh": "每天扫描 AI 公司的竞赛、资助与免费额度，并核实截止日期",
+      "import": "https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18",
+      "category": "research-briefings",
+      "tags": [
+        "grants",
+        "contests",
+        "ai",
+        "credits"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/teeRex247/status/2104116099763556829",
+      "shelf": "raw"
+    },
+    {
       "slug": "pr-babysitter",
       "name": "PR Babysitter",
       "author": {
@@ -36259,6 +36788,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "provenance",
+      "name": "Provenance",
+      "author": {
+        "name": "riesling29",
+        "url": "https://x.com/WaterMixing"
+      },
+      "summary": "Process mining on event logs for discovery, conformance, and bottlenecks with labeled facts",
+      "summary_zh": "对事件日志做流程挖掘，标出发现、符合度与瓶颈，不编造数字",
+      "import": "https://x.ai/bot/BVB4ROqmz6xQon8KskyTI",
+      "category": "finance-ops",
+      "tags": [
+        "process-mining",
+        "logs",
+        "ops",
+        "analytics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/WaterMixing/status/2104049544526991684",
+      "shelf": "raw"
+    },
+    {
       "slug": "proxmox-home-lab-lead",
       "name": "Proxmox Home Lab Lead",
       "author": {
@@ -36431,6 +36983,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "quartermaster",
+      "name": "Quartermaster",
+      "author": {
+        "name": "James",
+        "url": "https://x.com/yoshih543"
+      },
+      "summary": "Household budget and credit-card assistant that runs a zero-sum budget in Google Sheets",
+      "summary_zh": "家庭预算与信用卡助手，在 Google 表格里跑零和预算并提醒账单",
+      "import": "https://x.ai/bot/JOeuvpFg4v2VAuYX8H0UM",
+      "category": "finance-ops",
+      "tags": [
+        "budget",
+        "credit-cards",
+        "sheets",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/yoshih543/status/2104072319190859796",
       "shelf": "raw"
     },
     {
@@ -39038,6 +39613,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "rugradar",
+      "name": "RugRadar",
+      "author": {
+        "name": "teabagno1",
+        "url": "https://x.com/teabagno1"
+      },
+      "summary": "Alpha scanner for Solana tokens that checks creator wallets and flags rug-pull risk",
+      "summary_zh": "扫描 Solana 代币与创建者钱包，标出潜在跑路风险，仍属早期 alpha",
+      "import": "https://x.ai/bot/8bejcAowVfEVjSuPSl1PT",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "solana",
+        "research",
+        "risk"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/teabagno1/status/2104094360522395686",
+      "shelf": "raw"
+    },
+    {
       "slug": "running-coach",
       "name": "Running Coach",
       "author": {
@@ -40479,6 +41077,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16",
+      "shelf": "raw"
+    },
+    {
+      "slug": "seo-content-desk-seodraft",
+      "name": "SEO Content Desk (seodraft)",
+      "author": {
+        "name": "Chorch"
+      },
+      "summary": "SEO writing desk for your own blog: topics, SERP briefs, drafts from sources via seodraft MCP",
+      "summary_zh": "面向自有博客的 SEO 写作台，选题、SERP 提纲并用 seodraft 从素材起草",
+      "import": "https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "blog",
+        "writing",
+        "mcp"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://grokbot.dev/marketplace/seo-content-desk-seodraft/",
       "shelf": "raw"
     },
     {
@@ -42836,6 +43456,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "spark-quinn",
+      "name": "Spark",
+      "author": {
+        "name": "Quinn",
+        "url": "https://x.com/QuinnWR"
+      },
+      "summary": "Ideation partner for app and game concepts that pushes each idea down to a core loop",
+      "summary_zh": "帮你头脑风暴应用与游戏点子，并把每个点子压到核心循环",
+      "import": "https://x.ai/bot/HR8oI4-p-DqwbAlPSwJ_4",
+      "category": "coding-shipping",
+      "tags": [
+        "ideation",
+        "games",
+        "apps",
+        "product"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/QuinnWR/status/2104025746213904564",
+      "shelf": "aka"
+    },
+    {
       "slug": "sparklegif",
       "name": "SparkleGIF",
       "author": {
@@ -42917,6 +43560,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sports-bet-prophet",
+      "name": "Sports bet prophet",
+      "author": {
+        "name": "BackWoods",
+        "url": "https://x.com/SGBackWoods"
+      },
+      "summary": "Researches disciplined 2-leg sports doubles with kill switches and pass rules",
+      "summary_zh": "做有纪律的两腿串关研究，带止损与弃投规则，不鼓励乱押",
+      "import": "https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv",
+      "category": "finance-ops",
+      "tags": [
+        "sports",
+        "betting",
+        "research",
+        "discipline"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/SGBackWoods/status/2104094659160977832",
       "shelf": "raw"
     },
     {
@@ -43869,6 +44535,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "stuff-politicians-said",
+      "name": "Stuff Politicians Said",
+      "author": {
+        "name": "Cliff",
+        "url": "https://x.com/PresupPoli"
+      },
+      "summary": "Finds politicians' recorded words from official transcripts with exact quotations in context",
+      "summary_zh": "从官方会议实录里找出政客原话，带上下文的精确引用",
+      "import": "https://x.ai/bot/QDCP86BUv33CoK4Agv4C1",
+      "category": "research-briefings",
+      "tags": [
+        "politics",
+        "transcripts",
+        "canada",
+        "quotes"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/PresupPoli/status/2104048368951628091",
+      "shelf": "raw"
+    },
+    {
       "slug": "subcut",
       "name": "SubCut",
       "author": {
@@ -44065,6 +44754,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sundial",
+      "name": "Sundial",
+      "author": {
+        "name": "riesling29",
+        "url": "https://x.com/WaterMixing"
+      },
+      "summary": "Calendar assistant for meetings, deadlines, and focus blocks; invites only when you ask",
+      "summary_zh": "管会议、截止与专注块的日历助手，只有你开口才发邀请",
+      "import": "https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM",
+      "category": "inbox-calendar",
+      "tags": [
+        "calendar",
+        "scheduling",
+        "meetings",
+        "focus"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/WaterMixing/status/2104049725897122212",
       "shelf": "raw"
     },
     {
@@ -44464,6 +45176,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "taleforge",
+      "name": "TaleForge",
+      "author": {
+        "name": "Avinash",
+        "url": "https://x.com/AvinashPeyyety"
+      },
+      "summary": "Turns a story idea into a finished comic, picture book, or short video with locked characters",
+      "summary_zh": "把故事点子做成完整漫画、绘本或短视频，角色设定保持一致",
+      "import": "https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko",
+      "category": "content-publishing",
+      "tags": [
+        "story",
+        "comic",
+        "video",
+        "creative"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/AvinashPeyyety/status/2104075408819851773",
       "shelf": "raw"
     },
     {
@@ -47459,6 +48194,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "trip-pilot",
+      "name": "Trip Pilot",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "Builds day-by-day itineraries and packing lists, and watches fares on routes you care about",
+      "summary_zh": "做逐日行程与打包清单，并盯你关心航线的票价与里程位",
+      "import": "https://x.ai/bot/lkfpeJX5Hg58yMFm0B0kb",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "itinerary",
+        "fares",
+        "packing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/BTC_Yogi/status/2104025762974327242",
+      "shelf": "raw"
+    },
+    {
       "slug": "tripscout",
       "name": "TripScout",
       "author": {
@@ -47525,6 +48283,29 @@
       "source": "https://x.com/humanmeteorite/status/2094888371147424048",
       "related": "https://grokbot.dev/marketplace/tuner/",
       "shelf": "raw"
+    },
+    {
+      "slug": "tuner-forrest",
+      "name": "Tuner",
+      "author": {
+        "name": "Forrest",
+        "url": "https://x.com/typicalfo"
+      },
+      "summary": "Finds free public TV streams in the iptv-org catalog and checks which ones actually load",
+      "summary_zh": "在公开 iptv-org 目录里找可播的免费电视流，并检查链接是否可用",
+      "import": "https://x.ai/bot/1LJHCwlTnAXBPkPo_Zbag",
+      "category": "personal-admin",
+      "tags": [
+        "iptv",
+        "tv",
+        "streams",
+        "catalog"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/typicalfo/status/2104032116400861565",
+      "shelf": "aka"
     },
     {
       "slug": "tutor",
@@ -49131,6 +49912,29 @@
       "source": "https://x.com/GrokBotGod/status/2102998072678903944"
     },
     {
+      "slug": "weather-scout",
+      "name": "Weather Scout",
+      "author": {
+        "name": "Javier",
+        "url": "https://x.com/AdeptusMec71933"
+      },
+      "summary": "Scores next-72h launch-commit weather for Vandenberg, Cape, and Starbase as GO/MARGINAL/NO-GO",
+      "summary_zh": "对照公开放飞标准，给范登堡、卡纳维拉尔角与星舰基地做 72 小时气象简报",
+      "import": "https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc",
+      "category": "research-briefings",
+      "tags": [
+        "weather",
+        "space",
+        "launch",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/AdeptusMec71933/status/2104102012602433803",
+      "shelf": "raw"
+    },
+    {
       "slug": "web-admin",
       "name": "Web Admin",
       "author": {
@@ -49969,6 +50773,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "wingman",
+      "name": "Wingman",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "Dating coach for profiles, prompts, openers, and date ideas; you send every message yourself",
+      "summary_zh": "约会教练，改资料与开场白并给约会点子，每条消息仍由你自己发送",
+      "import": "https://x.ai/bot/UbUz8dhpG1Gw7NDAokBXo",
+      "category": "personal-admin",
+      "tags": [
+        "dating",
+        "coaching",
+        "profile",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/BTC_Yogi/status/2104026975761567842",
       "shelf": "raw"
     },
     {
@@ -51348,6 +52175,29 @@
       "shelf": "raw",
       "source": "https://x.com/bdvd_25/status/2100971371337498841",
       "related": "https://grokbot.dev/marketplace/xpost/"
+    },
+    {
+      "slug": "xrpl-dex-desk",
+      "name": "XRPL DEX Desk",
+      "author": {
+        "name": "Peach",
+        "url": "https://x.com/PeachCobblr"
+      },
+      "summary": "Hobby XRPL desk for regular-key hygiene, tiny signed DEX demos, and xrpl.org-grounded explainers",
+      "summary_zh": "面向 XRPL 爱好者的桌面，做常规密钥卫生、小额签名演示与官方文档讲解",
+      "import": "https://x.ai/bot/fLlhdZ9If8ng8lJcTfgP3",
+      "category": "finance-ops",
+      "tags": [
+        "xrpl",
+        "crypto",
+        "dex",
+        "hobby"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/PeachCobblr/status/2104037106196922707",
+      "shelf": "raw"
     },
     {
       "slug": "xx-engineeringarteditor-xx",
