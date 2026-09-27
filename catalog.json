@@ -5776,6 +5776,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "capital-compass",
+      "name": "财报锦囊",
+      "author": {
+        "name": "CHENG",
+        "url": "https://x.com/kaixinluo6268"
+      },
+      "summary": "Chinese earnings reader for a US ticker: latest quarter, LSEG consensus, guidance, and call points in a 7-point brief",
+      "summary_zh": "给美股 ticker 做最新一季财报中文速读，对照 LSEG 一致预期与指引电话会要点，不给买卖建议",
+      "import": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
+      "category": "finance-ops",
+      "tags": [
+        "earnings",
+        "finance",
+        "research",
+        "brief"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/kaixinluo6268/status/2104179253310869673",
+      "shelf": "raw"
+    },
+    {
       "slug": "captain",
       "name": "Captain",
       "author": {
@@ -8398,6 +8421,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-17",
+      "shelf": "raw"
+    },
+    {
+      "slug": "claimed",
+      "name": "Claimed",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Deep sweep of official refunds, settlements, and compensation you may already be entitled to claim",
+      "summary_zh": "在你所在国家深扫官方退款、和解金与补偿，找出你可能已有资格申领的钱",
+      "import": "https://x.ai/bot/wIxb391-9pDKoWXQ8xrbD",
+      "category": "finance-ops",
+      "tags": [
+        "refunds",
+        "claims",
+        "money",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/liam_fallen/status/2104147556880064556",
       "shelf": "raw"
     },
     {
@@ -12667,6 +12713,29 @@
       "source": "https://x.com/TheRetardedELon/status/2104005666494951650"
     },
     {
+      "slug": "delta-x",
+      "name": "Delta-X",
+      "author": {
+        "name": "Courtney",
+        "url": "https://x.com/peoniesdragon"
+      },
+      "summary": "Weekly planner that finds forgotten subscriptions in email, cancels the ones you pick, and plans around sleep",
+      "summary_zh": "从邮件收据找出忘记的订阅，取消你点名的项，并按睡眠安排一周",
+      "import": "https://x.ai/bot/zReFhsDYUwyt8YM93ahNL",
+      "category": "personal-admin",
+      "tags": [
+        "subscriptions",
+        "planner",
+        "email",
+        "sleep"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/peoniesdragon/status/2104150894933925898",
+      "shelf": "raw"
+    },
+    {
       "slug": "demo-bot",
       "name": "Demo: Reporting OS",
       "author": {
@@ -16857,6 +16926,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fitboard",
+      "name": "Fitboard",
+      "author": {
+        "name": "etoo",
+        "url": "https://x.com/e2bitz_83"
+      },
+      "summary": "Five questions on budget and style, then a room proposal with real store prices and product photos",
+      "summary_zh": "用五个问题问清预算房间与风格，再按真实电商价格与实拍图给出布置方案",
+      "import": "https://x.ai/bot/rkHdbyaGbAbfAKO3ax7ID",
+      "category": "personal-admin",
+      "tags": [
+        "home",
+        "shopping",
+        "budget",
+        "design"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/e2bitz_83/status/2104126565013696813",
       "shelf": "raw"
     },
     {
@@ -21884,6 +21976,29 @@
       "updated": "2026-09-16",
       "source": "https://x.com/Macro_Harder/status/2100008284551819524",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "ho-be-gone",
+      "name": "Ho Be Gone",
+      "author": {
+        "name": "Jay",
+        "url": "https://x.com/TheRetardedELon"
+      },
+      "summary": "Blocks scam, impersonator, and spam-bot accounts among your X followers and interactions",
+      "summary_zh": "自动拉黑你关注者与互动里的诈骗、冒充与垃圾机器人账号",
+      "import": "https://x.ai/bot/zM69z4OgdFDSzWcFNsQqx",
+      "category": "personal-admin",
+      "tags": [
+        "x",
+        "spam",
+        "security",
+        "moderation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/TheRetardedELon/status/2104149765562957993",
+      "shelf": "raw"
     },
     {
       "slug": "hollis",
@@ -28449,6 +28564,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "lyric-guard-2",
+      "name": "Lyric Guard",
+      "author": {
+        "name": "Jerrod",
+        "url": "https://x.com/soundecclesia"
+      },
+      "summary": "Scripture-based lyric discernment that fetches lyrics and scores a song from 1 to 10 for Christians",
+      "summary_zh": "按圣经标准审视歌词，诚实抓取歌词后给歌曲打 1 到 10 分",
+      "import": "https://x.ai/bot/l4NfEcvgnDxLpDiS2nSH7",
+      "category": "content-publishing",
+      "tags": [
+        "music",
+        "christian",
+        "review",
+        "lyrics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/soundecclesia/status/2104128291623862434",
+      "shelf": "aka"
+    },
+    {
       "slug": "macos-disk-cleaner",
       "name": "MacOS Disk Cleaner",
       "author": {
@@ -29141,6 +29279,29 @@
       "shelf": "raw",
       "source": "https://x.com/damianoredem/status/2101436110408757412",
       "related": "https://grokbot.dev/marketplace/mat-analytics/"
+    },
+    {
+      "slug": "math-researcher",
+      "name": "Math Researcher",
+      "author": {
+        "name": "Nathan",
+        "url": "https://x.com/NathanAMeeks"
+      },
+      "summary": "Rigorous math-research partner for proofs and heat-flow bounds with honest LEM-NUM-HEUR tagging",
+      "summary_zh": "严谨的数学研究搭档，做证明与热流上界，并用 LEM-NUM-HEUR 诚实标注，避免过度宣称",
+      "import": "https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK",
+      "category": "research-briefings",
+      "tags": [
+        "math",
+        "research",
+        "proofs",
+        "academic"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/NathanAMeeks/status/2104140368635994382",
+      "shelf": "raw"
     },
     {
       "slug": "matters-global",
@@ -30881,6 +31042,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mystery-eshopper",
+      "name": "Mystery eShopper",
+      "author": {
+        "name": "Vic",
+        "url": "https://x.com/VicGellon"
+      },
+      "summary": "Mystery-shops any ecommerce site end to end and returns a scorecard plus developer-ready bug reports",
+      "summary_zh": "像真人顾客一样端到端神秘购物任意电商站，输出记分卡与可交付开发的缺陷报告",
+      "import": "https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad",
+      "category": "coding-shipping",
+      "tags": [
+        "ecommerce",
+        "qa",
+        "testing",
+        "scorecard"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-27",
+      "source": "https://x.com/VicGellon/status/2104124777850081574",
       "shelf": "raw"
     },
     {
