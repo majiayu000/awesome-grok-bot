@@ -12054,6 +12054,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "crosscheck",
+      "name": "Crosscheck",
+      "author": {
+        "name": "D'Artagnan",
+        "url": "https://x.com/the_Arow_H"
+      },
+      "summary": "Before you publish, checks key claims in two lanes: reasoning and live-source verification",
+      "summary_zh": "发布前用推理与实况来源两条线核对立论主张，给出对齐部分争议或证据不足与改法",
+      "import": "https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ",
+      "category": "content-publishing",
+      "tags": [
+        "factcheck",
+        "claims",
+        "publishing",
+        "research"
+      ],
+      "source": "https://x.com/the_Arow_H/status/2104542071097118779",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "crux",
       "name": "Crux",
       "author": {
@@ -12074,6 +12097,52 @@
       "verified": false,
       "updated": "2026-09-22",
       "source": "https://x.com/BobbyBacklogs",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crypto-budget-tax-keeper",
+      "name": "Crypto Budget & Tax Keeper",
+      "author": {
+        "name": "James",
+        "url": "https://x.com/allthemoney"
+      },
+      "summary": "Read-only money desk that builds a plain-English budget and net worth plus a CPA-ready crypto trail",
+      "summary_zh": "只读理财助手，从银行与交易所整理白话预算净资产并保留 CPA 可用的加密流水",
+      "import": "https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "tax",
+        "budget",
+        "finance"
+      ],
+      "source": "https://x.com/allthemoney/status/2104543617939636262",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crypto-creator-video-desk",
+      "name": "Crypto Creator Video Desk",
+      "author": {
+        "name": "James",
+        "url": "https://x.com/allthemoney"
+      },
+      "summary": "Turns a YouTube link into chapter timestamps, AI-voiced intros and outros, captions, and Shorts cuts",
+      "summary_zh": "粘贴 YouTube 链接即可生成章节时间戳、AI 口播片头片尾字幕和 Shorts 切片",
+      "import": "https://x.ai/bot/dS3EJo8pppavYU3vmafz4",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "youtube",
+        "crypto",
+        "creator"
+      ],
+      "source": "https://x.com/allthemoney/status/2104543876262309978",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
       "shelf": "raw"
     },
     {
@@ -19968,6 +20037,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "goal-delta",
+      "name": "Goal Delta",
+      "author": {
+        "name": "D'Artagnan",
+        "url": "https://x.com/the_Arow_H"
+      },
+      "summary": "Each evening compares where you want to end up with where you are and names one next decision",
+      "summary_zh": "每晚对照终点与现状，从更大更小与旁路视角检查计划，点明真实限制并给出下一步决策",
+      "import": "https://x.ai/bot/Y59F9aE64YO6Xk5FGUIjE",
+      "category": "personal-admin",
+      "tags": [
+        "goals",
+        "planning",
+        "personal",
+        "review"
+      ],
+      "source": "https://x.com/the_Arow_H/status/2104536524075434327",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "goal-getter",
       "name": "Goal Getter",
       "author": {
@@ -26687,6 +26779,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "keep-park-kill",
+      "name": "Keep Park Kill",
+      "author": {
+        "name": "D'Artagnan",
+        "url": "https://x.com/the_Arow_H"
+      },
+      "summary": "Scores launches, tools, and saved links against your goals into Keep, Park, or Kill",
+      "summary_zh": "对照目标与门槛给新工具发布和收藏链接打分，分成保留暂存或淘汰并记下复访日",
+      "import": "https://x.ai/bot/LDAD3kSZHqkfpaLMi9dHZ",
+      "category": "personal-admin",
+      "tags": [
+        "triage",
+        "tools",
+        "productivity",
+        "personal"
+      ],
+      "source": "https://x.com/the_Arow_H/status/2104539270551908777",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "keepkill-tester-bot",
       "name": "KeepKill Tester Bot",
       "author": {
@@ -29632,6 +29747,29 @@
       "shelf": "aka"
     },
     {
+      "slug": "loyalty",
+      "name": "Loyalty",
+      "author": {
+        "name": "Carlos",
+        "url": "https://x.com/carlosnoriega"
+      },
+      "summary": "Finds missing airline and hotel miles in your mail, files claims, and steers you toward status",
+      "summary_zh": "从航旅邮件里捞未入账里程并代填门户索赔，按接近升级的项目排优先与积分挪转建议",
+      "import": "https://x.ai/bot/6FxcOf5cgteUpdtd3g700",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "miles",
+        "loyalty",
+        "personal"
+      ],
+      "source": "https://x.com/carlosnoriega/status/2104527060245094894",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "lrt-kelana-jaya-line",
       "name": "LRT Kelana Jaya Line",
       "author": {
@@ -31194,6 +31332,29 @@
       "verified": false,
       "updated": "2026-09-28",
       "shelf": "aka"
+    },
+    {
+      "slug": "memory-cleanup",
+      "name": "记忆清理",
+      "author": {
+        "name": "Oviya",
+        "url": "https://x.com/lubo0923"
+      },
+      "summary": "Reviews agent memory by topic, shows the keep rule and old copies, then deletes only after you approve",
+      "summary_zh": "按主题复盘并收敛 Agent 记忆，先展示唯一规则与待删旧版，等你批准再删",
+      "import": "https://x.ai/bot/LzbEuYYioxCKhdpdIc7d8",
+      "category": "personal-admin",
+      "tags": [
+        "memory",
+        "agents",
+        "cleanup",
+        "personal"
+      ],
+      "source": "https://x.com/lubo0923/status/2104546171184455920",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
     },
     {
       "slug": "memory-obsidian",
@@ -42562,6 +42723,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "scroll-stitch",
+      "name": "Scroll Stitch / 长图拼接",
+      "author": {
+        "name": "Mai",
+        "url": "https://x.com/MaiYangAI"
+      },
+      "summary": "Stitches same-scroll overlapping screenshots into one clean long image without posting or deleting",
+      "summary_zh": "把同一滚动区的重叠截图裁掉栏后按内容对齐拼成干净长图，接不住就说明原因不硬接",
+      "import": "https://x.ai/bot/9tjPEGID_RAUWcU1Sh9HT",
+      "category": "content-publishing",
+      "tags": [
+        "screenshots",
+        "images",
+        "editing",
+        "content"
+      ],
+      "source": "https://x.com/MaiYangAI/status/2104526546866221279",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "scrub-gate-public",
       "name": "Scrub Gate Public",
       "author": {
@@ -45437,6 +45621,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "spacebot",
+      "name": "SpaceBOT",
+      "author": {
+        "name": "DIEGO",
+        "url": "https://x.com/diegoarmandoAD"
+      },
+      "summary": "Friendly space teacher for SpaceX missions, webcast calls, vehicles, orbits, and launch quizzes",
+      "summary_zh": "友好的太空老师，讲解 SpaceX 任务、直播用语、载具与轨道，并在发射前给课和测验",
+      "import": "https://x.ai/bot/_aoBzY_YprxKiXW34l5U9",
+      "category": "research-briefings",
+      "tags": [
+        "spacex",
+        "space",
+        "learning",
+        "research"
+      ],
+      "source": "https://x.com/diegoarmandoAD/status/2104542092336759266",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "spaces-host",
       "name": "Spaces Host",
       "author": {
@@ -45692,6 +45899,29 @@
       "verified": false,
       "updated": "2026-09-27",
       "source": "https://x.com/SGBackWoods/status/2104094659160977832",
+      "shelf": "raw"
+    },
+    {
+      "slug": "spottie",
+      "name": "Spottie",
+      "author": {
+        "name": "Paul",
+        "url": "https://x.com/PaulASundquist"
+      },
+      "summary": "Organizes Spotify into themed playlists, finds matching tracks, and builds artist deep-dives",
+      "summary_zh": "把 Spotify 曲库整理成主题歌单，发现匹配曲目并做艺人深挖，不动你的播放权限",
+      "import": "https://x.ai/bot/e3dOKUCIVNmyHas0OfpQW",
+      "category": "personal-admin",
+      "tags": [
+        "spotify",
+        "music",
+        "playlists",
+        "personal"
+      ],
+      "source": "https://x.com/PaulASundquist/status/2104542251221180789",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
       "shelf": "raw"
     },
     {
@@ -47933,6 +48163,29 @@
       "updated": "2026-09-09",
       "source": "https://x.com/traviscurnutte/status/2097443894040359281",
       "related": "https://grokbot.dev/bots/telnyx",
+      "shelf": "raw"
+    },
+    {
+      "slug": "temper",
+      "name": "Temper",
+      "author": {
+        "name": "D'Artagnan",
+        "url": "https://x.com/the_Arow_H"
+      },
+      "summary": "Publishes an invariant, proposes a patch, runs attackers, then re-runs your real test harness",
+      "summary_zh": "你发布不变量后由 Anvil 提补丁、攻击者试破、Stone 重跑真实测试套件并写入哈希链日志",
+      "import": "https://x.ai/bot/9Zp-JZWckPEjwBPp2EGtX",
+      "category": "coding-shipping",
+      "tags": [
+        "testing",
+        "security",
+        "code",
+        "dev"
+      ],
+      "source": "https://x.com/the_Arow_H/status/2104544872275595395",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
       "shelf": "raw"
     },
     {
@@ -54568,6 +54821,29 @@
       "verified": false,
       "updated": "2026-09-27",
       "source": "https://x.com/PeachCobblr/status/2104037106196922707",
+      "shelf": "raw"
+    },
+    {
+      "slug": "xrpl-range-trader",
+      "name": "XRPL Range Trader",
+      "author": {
+        "name": "James",
+        "url": "https://x.com/allthemoney"
+      },
+      "summary": "Places buy and sell limit orders on the XRP Ledger DEX for XRP/RLUSD from a small wallet you create",
+      "summary_zh": "在你为其创建的小钱包上，于 XRP Ledger 内置交易所为 XRP/RLUSD 挂买卖限价单",
+      "import": "https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "xrp",
+        "trading",
+        "finance"
+      ],
+      "source": "https://x.com/allthemoney/status/2104542449674699224",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
       "shelf": "raw"
     },
     {
