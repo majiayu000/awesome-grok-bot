@@ -1314,6 +1314,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "agentrail-research",
+      "name": "AgentRail Research",
+      "author": {
+        "name": "Bryan",
+        "url": "https://x.com/VolHawk1"
+      },
+      "summary": "Pay-per-call research agent that searches, synthesizes, and returns cited findings",
+      "summary_zh": "按次计费的研究代理负责检索综合并交回带出处的结论",
+      "import": "https://x.ai/bot/vT4SZvFmKSfQjHBrzHema",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "agents",
+        "api"
+      ],
+      "source": "https://x.com/VolHawk1/status/2104451922518519867",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "ai-boy",
       "name": "AI Boy",
       "author": {
@@ -17125,6 +17147,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "fare-watch",
+      "name": "Fare Watch",
+      "author": {
+        "name": "Austin",
+        "url": "https://x.com/ahoop"
+      },
+      "summary": "Watches booked trips for cheaper fares, stays, or better dates from your inbox",
+      "summary_zh": "盯着已订行程从收件箱里找更便宜机票住宿或更好日期",
+      "import": "https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "flights",
+        "savings",
+        "personal"
+      ],
+      "source": "https://x.com/ahoop/status/2104449084660629618",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "farm",
       "name": "Farm",
       "author": {
@@ -17458,6 +17503,28 @@
       "updated": "2026-09-21",
       "shelf": "raw",
       "source": "https://x.com/DuncanBob4wln/status/2101844266699849806"
+    },
+    {
+      "slug": "film-freddy",
+      "name": "Film Freddy",
+      "author": {
+        "name": "Frank",
+        "url": "https://x.com/FrankFindsOut"
+      },
+      "summary": "Learns your film taste, recommends matches, and helps unpack what you watched",
+      "summary_zh": "学习你的观影口味推荐匹配片子并帮你复盘刚看完的电影",
+      "import": "https://x.ai/bot/Ff8KTOWm4Y9_thCnSslcU",
+      "category": "personal-admin",
+      "tags": [
+        "movies",
+        "recommendations",
+        "personal"
+      ],
+      "source": "https://x.com/FrankFindsOut/status/2104476717968662887",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
     },
     {
       "slug": "finance-brad",
@@ -19287,6 +19354,28 @@
       "verified": false,
       "updated": "2026-09-18",
       "source": "https://x.com/EricBuess/status/2100918623145488729",
+      "shelf": "raw"
+    },
+    {
+      "slug": "game-gary",
+      "name": "Game Gary",
+      "author": {
+        "name": "Frank",
+        "url": "https://x.com/FrankFindsOut"
+      },
+      "summary": "Logs what you like in games and recommends titles you will actually finish",
+      "summary_zh": "记下你喜欢的游戏口味并推荐你真正会玩完的作品",
+      "import": "https://x.ai/bot/rVm8IS4-zeJMSbo5ln9OU",
+      "category": "personal-admin",
+      "tags": [
+        "games",
+        "recommendations",
+        "personal"
+      ],
+      "source": "https://x.com/FrankFindsOut/status/2104476821647692052",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
       "shelf": "raw"
     },
     {
@@ -24977,6 +25066,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "instagram-iris",
+      "name": "Instagram Iris",
+      "author": {
+        "name": "Frank",
+        "url": "https://x.com/FrankFindsOut"
+      },
+      "summary": "Qualifies Instagram creators against your ICP then drafts a hook and DM",
+      "summary_zh": "按你的理想客户画像筛选 Instagram 创作者并起草钩子和私信",
+      "import": "https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU",
+      "category": "customer-sales",
+      "tags": [
+        "instagram",
+        "outreach",
+        "creators",
+        "sales"
+      ],
+      "source": "https://x.com/FrankFindsOut/status/2104476341865460019",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "insurance-agent",
       "name": "Insurance Agent",
       "author": {
@@ -26504,6 +26616,29 @@
       "updated": "2026-09-16",
       "source": "https://x.com/KevinLH811/status/2100007881261072660",
       "related": "https://grokbot.dev/marketplace/karen/",
+      "shelf": "raw"
+    },
+    {
+      "slug": "kdp-bot",
+      "name": "KDP Bot",
+      "author": {
+        "name": "Optimus",
+        "url": "https://x.com/OptimusSk8er"
+      },
+      "summary": "Practical co-publisher that moves Amazon KDP books from idea to live listing",
+      "summary_zh": "实用的合著者帮手把 Amazon KDP 书从点子推到上架",
+      "import": "https://x.ai/bot/bb3jvQ2Vqz0GOftMpZViD",
+      "category": "content-publishing",
+      "tags": [
+        "publishing",
+        "kdp",
+        "books",
+        "creator"
+      ],
+      "source": "https://x.com/OptimusSk8er/status/2104458279711609216",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
       "shelf": "raw"
     },
     {
@@ -33202,6 +33337,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "nomad-pro-uk-residency-tracker",
+      "name": "Nomad Pro UK Residency Tracker",
+      "author": {
+        "name": "Komal",
+        "url": "https://x.com/citizen906"
+      },
+      "summary": "Keeps a UK day count and HMRC paper trail for British nomads one chat a night",
+      "summary_zh": "替英国数字游民记英国天数与税务材料每晚一条聊天即可",
+      "import": "https://x.ai/bot/A5PJWWubWq6RSITiu_tdG",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "tax",
+        "records",
+        "personal"
+      ],
+      "source": "https://x.com/citizen906/status/2104474969199788433",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
       "slug": "norm",
       "name": "Norm",
       "author": {
@@ -34098,6 +34256,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04",
+      "shelf": "raw"
+    },
+    {
+      "slug": "opportunities-research",
+      "name": "Opportunities Research",
+      "author": {
+        "name": "Oscar",
+        "url": "https://x.com/theoscarvibes"
+      },
+      "summary": "YC-style hunt for problems, gaps, and markets from your week and public signals",
+      "summary_zh": "按 YC 思路从你的一周与公开信号里猎问题缺口和市场",
+      "import": "https://x.ai/bot/w2Bi7X2d96hPeIYqlhzJJ",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "startup",
+        "markets"
+      ],
+      "source": "https://x.com/theoscarvibes/status/2104454608177320421",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
       "shelf": "raw"
     },
     {
@@ -52680,6 +52860,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-17",
+      "shelf": "raw"
+    },
+    {
+      "slug": "whats-for-dinner",
+      "name": "What's for Dinner?",
+      "author": {
+        "name": "Bryce",
+        "url": "https://x.com/CantBeatDees"
+      },
+      "summary": "Sends one dinner idea a day fitted to allergies, diets, time, kitchen, and budget",
+      "summary_zh": "按过敏忌口时间厨房和预算每天只推一个晚饭点子",
+      "import": "https://x.ai/bot/K0ks73uZiVozA3BT0XSs7",
+      "category": "personal-admin",
+      "tags": [
+        "cooking",
+        "meals",
+        "personal",
+        "family"
+      ],
+      "source": "https://x.com/CantBeatDees/status/2104462737661444398",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-28",
       "shelf": "raw"
     },
     {
