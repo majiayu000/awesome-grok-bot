@@ -1356,6 +1356,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "agent-zero-str8fun",
+      "name": "Agent Zero",
+      "author": {
+        "name": "Str8fun_",
+        "url": "https://x.com/Str8fun_"
+      },
+      "summary": "After consent, finds your listings on people-search and data-broker sites, files official removals, and follows up on ignored requests",
+      "summary_zh": "经你同意后在人肉搜索与数据中介站查找信息提交正式删除并跟进被忽略请求",
+      "import": "https://x.ai/bot/74dzSmLYzMoTvVkLef9Dw",
+      "category": "personal-admin",
+      "tags": [
+        "privacy",
+        "reputation",
+        "removal",
+        "personal"
+      ],
+      "source": "https://x.com/Str8fun_/status/2104899527895314451",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "aka"
+    },
+    {
       "slug": "agentrail-research",
       "name": "AgentRail Research",
       "author": {
@@ -2361,6 +2384,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-18",
+      "shelf": "raw"
+    },
+    {
+      "slug": "amazon-a-plus-content-creator-kdp",
+      "name": "Amazon A+ Content Creator (KDP)",
+      "author": {
+        "name": "Pieter Dohlen",
+        "url": "https://x.com/El_Tonio83"
+      },
+      "summary": "Builds Amazon KDP A+ Content modules, images, and paste-ready copy from your book and blurb claims only, with approve-before-submit upload help",
+      "summary_zh": "按书籍与简介中的已有主张生成 KDP A+ 模块图与可粘贴文案上传前需你批准",
+      "import": "https://x.ai/bot/M50zP05s02Y7cBzIc7i00",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "publishing",
+        "amazon",
+        "kdp"
+      ],
+      "source": "https://x.com/El_Tonio83/status/2104889582089126149",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
@@ -9559,6 +9605,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "claros-critical-thinking",
+      "name": "Claros : Critical Thinking",
+      "author": {
+        "name": "Yves Cavarec",
+        "url": "https://x.com/CavarecIA"
+      },
+      "summary": "Critical thinking coach that separates facts, hypotheses, and values on politics, power, and ideas, and asks the right question instead of selling an answer",
+      "summary_zh": "批判性思维教练帮你区分事实假设与价值判断追问关键问题而不推销答案",
+      "import": "https://x.ai/bot/UAr71_JUG-2r_vC8CcbBq",
+      "category": "personal-admin",
+      "tags": [
+        "learning",
+        "coaching",
+        "research",
+        "personal"
+      ],
+      "source": "https://x.com/CavarecIA/status/2104879927560655060",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "class-action-finder",
       "name": "Class Action Finder",
       "author": {
@@ -12877,6 +12946,28 @@
       "verified": false,
       "updated": "2026-09-22",
       "source": "https://x.com/BobbyBacklogs",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crypto-buddy",
+      "name": "Crypto Buddy",
+      "author": {
+        "name": "Joe",
+        "url": "https://x.com/JRNavarro75"
+      },
+      "summary": "Returns a sourced research package for a crypto ticker or coin: metrics, a plain-English tape read, and a scored research gauge",
+      "summary_zh": "输入加密货币代码或币名后返回带出处的研究包含指标白话盘面解读与评分量表",
+      "import": "https://x.ai/bot/TSgExceGHVJN9U2E4-_23",
+      "category": "research-briefings",
+      "tags": [
+        "crypto",
+        "research",
+        "finance"
+      ],
+      "source": "https://x.com/JRNavarro75/status/2104903749026435552",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
@@ -24715,6 +24806,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "home-assistant-bot",
+      "name": "Home Assistant Bot",
+      "author": {
+        "name": "Domenico Nicoli",
+        "url": "https://x.com/DomenicoNicoli"
+      },
+      "summary": "Home Assistant helper for live device control over MCP, solar and energy status, automations, and home routines for new owners",
+      "summary_zh": "通过 MCP 控制 Home Assistant 设备查看太阳能与能耗并协助自动化与家居例程",
+      "import": "https://x.ai/bot/ZwOyvMIIYuQBoBvnqYmER",
+      "category": "personal-admin",
+      "tags": [
+        "home",
+        "automation",
+        "iot",
+        "personal"
+      ],
+      "source": "https://x.com/DomenicoNicoli/status/2104888934123925711",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "home-electrical-coach",
       "name": "Home Electrical Coach",
       "author": {
@@ -27959,6 +28073,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "job-map-express",
+      "name": "Job Map Express",
+      "author": {
+        "name": "Mike Boysen",
+        "url": "https://x.com/mikeboysen"
+      },
+      "summary": "Builds Jobs-to-be-Done job maps and related analyses in chat: maps, metrics, related jobs, and consumption chains for innovators and PMs",
+      "summary_zh": "在对话里做 JTBD 工作地图与相关分析含指标关联工作与消费链",
+      "import": "https://x.ai/bot/f8P45KE_1HnIUPSqM-EEX",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "jtbd",
+        "product"
+      ],
+      "source": "https://x.com/mikeboysen/status/2104869199399051527",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
@@ -34913,6 +35049,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "nash",
+      "name": "Nash",
+      "author": {
+        "name": "D'Artagnan",
+        "url": "https://x.com/the_Arow_H"
+      },
+      "summary": "Maps the game behind a high-stakes negotiation or deal: who is involved, what each side wants, and where the trade-offs sit before you move",
+      "summary_zh": "梳理高风险谈判各方诉求与取舍在你行动前给出局势图与对策检查",
+      "import": "https://x.ai/bot/96mwrkqcL-8lqFvBUtejM",
+      "category": "customer-sales",
+      "tags": [
+        "negotiation",
+        "decision-support",
+        "sales"
+      ],
+      "source": "https://x.com/the_Arow_H/status/2104889749018464453",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "national-dialogue",
       "name": "National Dialogue",
       "author": {
@@ -37176,6 +37334,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "order-watch",
+      "name": "Order Watch",
+      "author": {
+        "name": "Gokul",
+        "url": "https://x.com/gokul_i"
+      },
+      "summary": "Watches a connected email account for delivery and order updates across providers, asks when unclear, and stays quiet unless you need to act",
+      "summary_zh": "监控已连接邮箱的物流与订单更新有疑点才问安静待你需要行动时再提醒",
+      "import": "https://x.ai/bot/5tvkGcgMHWuUkCBvH2od-",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "monitoring",
+        "shopping",
+        "admin"
+      ],
+      "source": "https://x.com/gokul_i/status/2104890136991559729",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
@@ -41633,6 +41814,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "quote-form-bot",
+      "name": "Quote Form Bot",
+      "author": {
+        "name": "Mike Boykin",
+        "url": "https://x.com/Mikeboykin131"
+      },
+      "summary": "Fills a building manufacturer's quote request from bid emails, drawings, and specs, color-codes confidence, and routes the draft to your pricing team",
+      "summary_zh": "从投标邮件图纸与规格填写建筑厂商询价表按置信度标色并交给报价团队",
+      "import": "https://x.ai/bot/K8w0ia5zbs3PAEGvAo6i0",
+      "category": "finance-ops",
+      "tags": [
+        "ops",
+        "quoting",
+        "construction",
+        "business"
+      ],
+      "source": "https://x.com/Mikeboykin131/status/2104902615943561661",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "quoter-bot",
       "name": "Quoter Bot",
       "author": {
@@ -41935,6 +42139,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
+      "slug": "rare-combo-catalog",
+      "name": "Rare Combo Catalog",
+      "author": {
+        "name": "Bianca Bell-Chambers",
+        "url": "https://x.com/BiancaBellChamb"
+      },
+      "summary": "Maps rare disease combinations into a gap table, kitchen-table page, and clinician discussion prompts for workup talk only, not diagnosis",
+      "summary_zh": "把罕见病组合映射成缺口表厨房桌面页与仅供讨论的临床谈话提示不做诊断",
+      "import": "https://x.ai/bot/9J6OME5--PpDmAuCxFYBG",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "health",
+        "learning"
+      ],
+      "source": "https://x.com/BiancaBellChamb/status/2104894587559150018",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
@@ -47321,6 +47547,28 @@
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/signal",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "signal-sleeve",
+      "name": "Signal Sleeve",
+      "author": {
+        "name": "Jonny.buffett_va",
+        "url": "https://x.com/JonnyBuffettVA"
+      },
+      "summary": "Turns one paid research subscription feed into risk-preset paper tickets on Robinhood so you review guidance against your own risk settings",
+      "summary_zh": "把一份付费研报订阅转成按风险预设的 Robinhood 纸上票据供你对照后再动手",
+      "import": "https://x.ai/bot/mrKPFB6yT13jZZITaCDEV",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "trading",
+        "research"
+      ],
+      "source": "https://x.com/JonnyBuffettVA/status/2104873495482040743",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
     },
     {
       "slug": "signup-alias-guard",
@@ -57938,6 +58186,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-05",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-stats-tracker",
+      "name": "X Stats Tracker",
+      "author": {
+        "name": "Serenejay",
+        "url": "https://x.com/Serenejaysew"
+      },
+      "summary": "Tracks your X account overnight for followers, engagement, mentions, and tips, then delivers a morning briefing with plus-minus deltas",
+      "summary_zh": "夜间追踪 X 账号粉丝互动提及与打赏早晨给出带增减变化的简报",
+      "import": "https://x.ai/bot/9wqZ8S-tTuXVSleduPQgK",
+      "category": "content-publishing",
+      "tags": [
+        "social",
+        "analytics",
+        "x",
+        "content"
+      ],
+      "source": "https://x.com/Serenejaysew/status/2104869702229000650",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
