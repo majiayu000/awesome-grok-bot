@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 2679 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 2692 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 [Grok Bot](https://docs.x.ai/grok-bot/overview) 是共用云电脑上的常驻 AI 队友。本双语目录收录公开 **活分享**（不是提示词合集）：找到链接、在 x.ai 预览，再 Add。
 
@@ -101,17 +101,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 354 |
+| [Coding & shipping](#coding--shipping) | 355 |
 | [Inbox & calendar](#inbox--calendar) | 105 |
-| [Research & briefings](#research--briefings) | 325 |
+| [Research & briefings](#research--briefings) | 328 |
 | [Customer & sales](#customer--sales) | 243 |
-| [Finance & ops](#finance--ops) | 341 |
+| [Finance & ops](#finance--ops) | 344 |
 | [Content & publishing](#content--publishing) | 330 |
-| [Personal admin](#personal-admin) | 628 |
+| [Personal admin](#personal-admin) | 634 |
 | [Teams & handoffs](#teams--handoffs) | 353 |
-| **合计** | **2679** |
+| **合计** | **2692** |
 
-2026 年 9 月 29 日检查时，2679 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 2679 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 9 月 29 日检查时，2692 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 2692 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -270,6 +270,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) - 直接查询 The Graph 子图，回答链上数据问题。 [Derek](https://x.com/data_nexus).
 - [Bot Builder](https://x.ai/bot/PbZjCYArwV393be1eCQRW) - 多机器人协作与编排助手. community.
 - [Bot Builder](https://x.ai/bot/MEkS4_qbQ0mbRdx90JCnc) - 带你搭新的 Grok Bot，少在空白页卡住. Joe.
+- [Bot Builder](https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy) - 按清晰职责、路由与核验设计专项 Grok Bot 与小舰队，用爬走跑推进，不做万能助手. [BeKs](https://x.com/beksvie).
 - [Bot Foundry](https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv) - 把想法或重复任务做成可发布的 Bot 模板，含人设、技能与发布文案. [Joseph](https://x.com/BTC_Yogi).
 - [Botsitter](https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g) - 确认其他机器人真做完，查产物、挑漏洞，只有过关才报完成. [AustinBrown1776](https://x.com/AustinBrown1776).
 - [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - 给 Grok Bot 模板做门禁审计，标出偷连与偷密风险。 [pcoxproductions](https://x.com/pcoxproductions).
@@ -729,6 +730,9 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Assistant for Home Assistant](https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X) - Home Assistant 值守，只在需人出手时开口. community.
 - [Astro](https://x.ai/bot/LtgFNOt7Y-bmSnixM1yAj) - 工作日汇总星舰发射与航天新闻简报. [Secalytica](https://x.com/Secalytica).
 - [Astronomer](https://x.ai/bot/9orqw_IrUDeEaHo-w68j3) - 天文观测伴侣，帮你定今晚目标、望远镜与是否值得跑暗点. [DombiGato](https://x.com/DombiGato).
+- [Burundi Sky Watch](https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp) - 用免费实时航班数据展示此刻飞越布隆迪的飞机，含航司机型起降地. [ambaza marcellin](https://x.com/Marcellin_dev).
+- [Cited Research](https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL) - 带出处的研究助手，区分证据与推断，并标出未核验主张. [BramForge](https://x.com/bramforge).
+- [Creative Opps Oracle](https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb) - 为独立创作者搜寻艺术游戏代码音乐写作影视等开放机会，并审计公开形象. [Empress Trash](https://x.com/EmpressTrash).
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - 每天早上扫蓝莓论文与行业新闻，有干货才报，没料就安静. [Bizuayeu](https://x.com/Bizuayeu).
 - [Bot Portal](https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o) - 持续整理值得关注的 AI 工具和机器人，并记下彼此怎么接。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [Bot Village Fleet](https://x.ai/bot/gzyyEpwF93BbHB8nxNAVI) - 负责线索联系、规格、Stripe、预订、社交与研究的舰队。 [asdennison](https://x.com/asdennison).
@@ -1317,6 +1321,9 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) - 从小企业源文件起草账本、薪酬与税务，只在美式准则下填写与建议，绝不自行电子申报或挪钱. [RomanPotapovBiz](https://x.com/RomanPotapovBiz).
 - [BuyerBot](https://x.ai/bot/kQ7OlCrADIjztiAKsVR0Y) - 个人购物研究员与购买顾问，先摸清市场，再问几个问题后给建议. [d_ilash](https://x.com/d_ilash).
 - [Call](https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG) - 经 SIP 语音桥拨打并操控真人电话通话。 [iserflott](https://x.com/iserflott).
+- [Freelancer Finance Desk](https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF) - 用上传流水收据与发票收束自由职业者一个月账本，交出可审阅包且发送仍由你定. [Omid](https://x.com/omidmasoom).
+- [Stock Stu](https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO) - 每日检查你的持股，标出涨跌与关注点，配早咖啡看的简报，非投资建议. [Frank](https://x.com/FrankFindsOut).
+- [X 投资情报助手](https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk) - 跟踪你在 X 关注的投资人与自选股讨论，并往飞书或 Lark 发带图日简报. [qishiya](https://x.com/qizhong_hu).
 - [财报锦囊](https://x.ai/bot/d48QaYERwvgtUmYsGlyz8) - 给美股 ticker 做最新一季财报中文速读，对照 LSEG 一致预期与指引电话会要点，不给买卖建议. [CHENG](https://x.com/kaixinluo6268).
 - [Captain](https://x.ai/bot/SkSHokoCm92z9E-NFNmjr) - 主对接机器人，接你的任务，分给邮件、日历、网盘、旅行、支付、站点等专家代理，并汇报结果. [imagineinquiry](https://x.com/imagineinquiry).
 - [Car Chaser](https://x.ai/bot/_xHffm8tWVvtVic-aJmwa) - 带站点筛选做不到的IF/THEN与OR规则的找车助手，例如三万七以下且车主不超过三人. [ibelevy](https://x.com/ibelevy).
@@ -1989,6 +1996,11 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Apply Bot](https://x.ai/bot/2GdkYgGlc91A6d6MPXCkZ) - 找在招职位，按岗位评分表重写证据，并按队列节奏批量投递. [Kyle](https://x.com/Kylebauer).
 - [Appointment Finder](https://x.ai/bot/75K-dB4m30goo_PamA9nM) - 帮你找到最好的预约空档，不用再挨个打电话。 [Liam](https://x.com/liam_fallen).
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) - 岗位搜索流水线，研究匹配度与草稿后停住等你确认，不编造履历也不擅自投递. [ElloForo8A](https://x.com/ElloForo8A).
+- [Devotion David](https://x.ai/bot/XyZFDGw9eKFocwkVNDeXS) - 每日灵修伙伴，按你的主题从各传统取材供默想，不推销信仰. [Frank](https://x.com/FrankFindsOut).
+- [Gluco](https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM) - 聊天记录血糖碳水与用药，汇总每日碳水并给简单日结，不做诊疗承诺. [Brian Hill](https://x.com/Brianhill).
+- [Hype Man](https://x.ai/bot/QVYB4aI8lO8-LgCNmFblE) - 专属打气伙伴，庆祝进展、保持动能，并按当日状态督促你兑现. [Mike Heckert](https://x.com/MichaelHeckert).
+- [Paul](https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1) - 圣经同伴，帮你每日读经并与耶稣同行，以圣经为真理之言. [Wilson Samiano](https://x.com/wilsonsamiano).
+- [Photo Paige](https://x.ai/bot/qye6GiC4AqhUjhGewdxUM) - 梳理 Apple 照片库，帮你建相册或删掉不需要的内容，减少相机胶卷杂乱. [Frank](https://x.com/FrankFindsOut).
 - [PR Architecture Review](https://x.ai/bot/U5fwXX4VQWagxTNFN7cTK) - 工作日审 GitHub 组织里最近合并的 PR，浮出架构风险与后续债. [Erik](https://x.com/eflorida).
 - [Arnold](https://x.ai/bot/Waw-nx8VWg1lxX8dMkfie) - 口袋健身教练，到场打卡并用文字记组数. [Eyeznskyz](https://x.com/Eyeznskyz).
 - [ArnoldBot](https://x.ai/bot/qjhr1bOXLdfDdyH8xl6Zz) - 私人教练机器人，在 Obsidian 库跟踪健身房，跑推拉腿并记进步. [iautom8things](https://x.com/iautom8things).
@@ -2015,6 +2027,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Board AI Risk One-Pager](https://x.ai/bot/HqHCNAnBSL3qIxgC46fOx) - 把含糊的 AI 担忧收成一页风险说明，方便创始人或 CEO 带上董事会. [CarbeneAI](https://x.com/CarbeneAI).
 - [Bonehead](https://x.ai/bot/X5OznsECCkLxuiiA9OOk3) - 日常乱局里的通用生产力搭子。 [RFashodi25](https://x.com/RFashodi25).
 - [Bookmark Miner](https://x.ai/bot/2KoI66uCOtx0PSf3do4tK) - 把你收藏的 X 帖排成真正值得动手的短清单. [therookiehacker](https://x.com/therookiehacker).
+- [Tesla Bot](https://x.ai/bot/PQhKM1G6t5kFI0ZwjIt1t) - 在不唤醒车辆下监控特斯拉，把电量与状态记到表格，并在上线或失联时提醒. [Quang](https://x.com/california_swe).
 - [大使通道盯梢](https://x.ai/bot/NN6D3V_M2kLzC9QjWRl4k) - 盯梢 Cursor 及 SpaceX AI 大使申请通道是否可开、表格与提交是否可用。主页见 https://cursor.com/ambassadors. [Chris62771610](https://x.com/Chris62771610).
 - [Bot Goddess](https://x.ai/bot/u7cP8KZ6iPlrRvSojTrYU) - 创建并维护专注的 Grok Bot，行为贴合用户意图与边界. [SamyuLo](https://x.com/SamyuLo).
 - [桜草メイ](https://x.ai/bot/IoAHIj45_pUJYsw7mqLP6) - 日语陪伴机器人，适合日常笔记与轻度创作热身. Masaki.

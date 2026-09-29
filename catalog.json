@@ -4939,6 +4939,29 @@
       "shelf": "aka"
     },
     {
+      "slug": "bot-builder-beks",
+      "name": "Bot Builder",
+      "author": {
+        "name": "BeKs",
+        "url": "https://x.com/beksvie"
+      },
+      "summary": "Designs focused Grok Bots and small fleets with clear jobs, routing, verification, and crawl-walk-run rollout, not catch-all helpers",
+      "summary_zh": "按清晰职责、路由与核验设计专项 Grok Bot 与小舰队，用爬走跑推进，不做万能助手",
+      "import": "https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy",
+      "category": "coding-shipping",
+      "tags": [
+        "grok-bot",
+        "meta-bot",
+        "automation",
+        "devtools"
+      ],
+      "source": "https://x.com/beksvie/status/2104841391184757218",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "aka"
+    },
+    {
       "slug": "bot-concierge",
       "name": "Bot-Concierge",
       "author": {
@@ -5783,6 +5806,28 @@
       "verified": false,
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/buildfeed-startups",
+      "shelf": "raw"
+    },
+    {
+      "slug": "burundi-sky-watch",
+      "name": "Burundi Sky Watch",
+      "author": {
+        "name": "ambaza marcellin",
+        "url": "https://x.com/Marcellin_dev"
+      },
+      "summary": "Shows which planes are flying over Burundi right now, with airline, aircraft type, origin, and destination from free live flight data",
+      "summary_zh": "用免费实时航班数据展示此刻飞越布隆迪的飞机，含航司机型起降地",
+      "import": "https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "monitoring",
+        "travel"
+      ],
+      "source": "https://x.com/Marcellin_dev/status/2104828414532399414",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
@@ -9152,6 +9197,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "cited-research",
+      "name": "Cited Research",
+      "author": {
+        "name": "BramForge",
+        "url": "https://x.com/bramforge"
+      },
+      "summary": "Research helper that answers with citations, separates facts from inference, and flags unverified claims",
+      "summary_zh": "带出处的研究助手，区分证据与推断，并标出未核验主张",
+      "import": "https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "decision-support",
+        "learning"
+      ],
+      "related": "https://grokbot.dev/api/v1/templates/cited-research.json",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "city-council-notes",
       "name": "City Council Notes",
       "author": {
@@ -12343,6 +12410,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "creative-opps-oracle",
+      "name": "Creative Opps Oracle",
+      "author": {
+        "name": "Empress Trash",
+        "url": "https://x.com/EmpressTrash"
+      },
+      "summary": "Finds live opportunities for one independent creative across art, games, code, music, writing, and film, then audits public presence",
+      "summary_zh": "为独立创作者搜寻艺术游戏代码音乐写作影视等开放机会，并审计公开形象",
+      "import": "https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "creator",
+        "creative",
+        "outreach"
+      ],
+      "source": "https://x.com/EmpressTrash/status/2104812647308767586",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "creative-ops-desk",
       "name": "Creative Ops Desk",
       "author": {
@@ -14648,6 +14738,28 @@
       "verified": false,
       "updated": "2026-09-11",
       "shelf": "aka"
+    },
+    {
+      "slug": "devotion-david",
+      "name": "Devotion David",
+      "author": {
+        "name": "Frank",
+        "url": "https://x.com/FrankFindsOut"
+      },
+      "summary": "Daily devotion companion that sources passages from any tradition for reflection on your terms, without pushing belief",
+      "summary_zh": "每日灵修伙伴，按你的主题从各传统取材供默想，不推销信仰",
+      "import": "https://x.ai/bot/XyZFDGw9eKFocwkVNDeXS",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "productivity"
+      ],
+      "source": "https://x.com/FrankFindsOut/status/2104803253087277380",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
     },
     {
       "slug": "dewey",
@@ -20282,6 +20394,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "freelancer-finance-desk",
+      "name": "Freelancer Finance Desk",
+      "author": {
+        "name": "Omid",
+        "url": "https://x.com/omidmasoom"
+      },
+      "summary": "Closes one month of freelance books from uploaded transactions, receipts, and invoices into a reviewed packet you keep control of",
+      "summary_zh": "用上传流水收据与发票收束自由职业者一个月账本，交出可审阅包且发送仍由你定",
+      "import": "https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "ops",
+        "business",
+        "productivity"
+      ],
+      "related": "https://grokbot.dev/api/v1/templates/freelancer-finance-desk.json",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "fridge-cigs-meme-generator",
       "name": "Fridge $CIGS Meme Generator",
       "author": {
@@ -21195,6 +21330,28 @@
         "personal",
         "productivity"
       ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gluco",
+      "name": "Gluco",
+      "author": {
+        "name": "Brian Hill",
+        "url": "https://x.com/Brianhill"
+      },
+      "summary": "Chat-based glucose, carb, and medication logger with a daily carb tally and a simple day summary, no clinic-grade claims",
+      "summary_zh": "聊天记录血糖碳水与用药，汇总每日碳水并给简单日结，不做诊疗承诺",
+      "import": "https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health",
+        "productivity"
+      ],
+      "source": "https://x.com/Brianhill/status/2104813988613926952",
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-29",
@@ -25569,6 +25726,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "hype-man",
+      "name": "Hype Man",
+      "author": {
+        "name": "Mike Heckert",
+        "url": "https://x.com/MichaelHeckert"
+      },
+      "summary": "Personal hype man that celebrates wins, keeps momentum, and holds you accountable with energy matched to your day",
+      "summary_zh": "专属打气伙伴，庆祝进展、保持动能，并按当日状态督促你兑现",
+      "import": "https://x.ai/bot/QVYB4aI8lO8-LgCNmFblE",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity",
+        "assistants"
+      ],
+      "source": "https://x.com/MichaelHeckert/status/2104794285073662117",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
@@ -38011,6 +38190,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "paul-bible-companion",
+      "name": "Paul",
+      "author": {
+        "name": "Wilson Samiano",
+        "url": "https://x.com/wilsonsamiano"
+      },
+      "summary": "Bible companion that helps you learn Scripture and walk with Jesus Christ daily, holding the Bible as the Word of Truth",
+      "summary_zh": "圣经同伴，帮你每日读经并与耶稣同行，以圣经为真理之言",
+      "import": "https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "assistants"
+      ],
+      "source": "https://x.com/wilsonsamiano/status/2104834380875305407",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "paver-repair",
       "name": "Paver Repair",
       "author": {
@@ -38905,6 +39106,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-11",
+      "shelf": "raw"
+    },
+    {
+      "slug": "photo-paige",
+      "name": "Photo Paige",
+      "author": {
+        "name": "Frank",
+        "url": "https://x.com/FrankFindsOut"
+      },
+      "summary": "Goes through your Apple Photos library and helps you build albums or delete what you do not need, with less camera-roll clutter",
+      "summary_zh": "梳理 Apple 照片库，帮你建相册或删掉不需要的内容，减少相机胶卷杂乱",
+      "import": "https://x.ai/bot/qye6GiC4AqhUjhGewdxUM",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity",
+        "admin"
+      ],
+      "source": "https://x.com/FrankFindsOut/status/2104803115765842411",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
       "shelf": "raw"
     },
     {
@@ -49299,6 +49522,29 @@
       "source": "https://x.com/sammya_sh/status/2102971805292167403"
     },
     {
+      "slug": "stock-stu",
+      "name": "Stock Stu",
+      "author": {
+        "name": "Frank",
+        "url": "https://x.com/FrankFindsOut"
+      },
+      "summary": "Checks your stock picks each day and surfaces what moved, what to watch, and what to consider with your morning coffee",
+      "summary_zh": "每日检查你的持股，标出涨跌与关注点，配早咖啡看的简报，非投资建议",
+      "import": "https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "monitoring",
+        "briefing",
+        "analytics"
+      ],
+      "source": "https://x.com/FrankFindsOut/status/2104803312659001480",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
       "slug": "stock-video-summaries",
       "name": "Stock Video Summaries",
       "author": {
@@ -51082,6 +51328,29 @@
       "verified": false,
       "updated": "2026-09-03",
       "shelf": "raw"
+    },
+    {
+      "slug": "tesla-bot-2",
+      "name": "Tesla Bot",
+      "author": {
+        "name": "Quang",
+        "url": "https://x.com/california_swe"
+      },
+      "summary": "Monitors your Teslas without waking them, logs battery and status changes to Google Sheets, and alerts when a car comes online or goes quiet",
+      "summary_zh": "在不唤醒车辆下监控特斯拉，把电量与状态记到表格，并在上线或失联时提醒",
+      "import": "https://x.ai/bot/PQhKM1G6t5kFI0ZwjIt1t",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "monitoring",
+        "automation",
+        "ops"
+      ],
+      "source": "https://x.com/california_swe/status/2104810726175232382",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "aka"
     },
     {
       "slug": "tesla-cabin-companion-bot",
@@ -57470,6 +57739,29 @@
       "shelf": "raw",
       "source": "https://x.com/bradshannon/status/2101316965469983174",
       "related": "https://grokbot.dev/marketplace/x-hygiene/"
+    },
+    {
+      "slug": "x-investment-intel",
+      "name": "X 投资情报助手",
+      "author": {
+        "name": "qishiya",
+        "url": "https://x.com/qizhong_hu"
+      },
+      "summary": "Tracks investors you follow on X and chatter on your stock watchlist, then publishes a chart-rich daily briefing to Feishu or Lark",
+      "summary_zh": "跟踪你在 X 关注的投资人与自选股讨论，并往飞书或 Lark 发带图日简报",
+      "import": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "monitoring",
+        "briefing",
+        "social"
+      ],
+      "source": "https://x.com/qizhong_hu/status/2104823627183268092",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-29",
+      "shelf": "raw"
     },
     {
       "slug": "x-livestream-moderator",

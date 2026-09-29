@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 2679 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 2692 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 [Grok Bot](https://docs.x.ai/grok-bot/overview) is an always-on AI teammate on a shared cloud computer. This bilingual catalog indexes public **live shares** (not prompt dumps): find a share, open it on x.ai, then Add.
 
@@ -101,17 +101,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 354 |
+| [Coding & shipping](#coding--shipping) | 355 |
 | [Inbox & calendar](#inbox--calendar) | 105 |
-| [Research & briefings](#research--briefings) | 325 |
+| [Research & briefings](#research--briefings) | 328 |
 | [Customer & sales](#customer--sales) | 243 |
-| [Finance & ops](#finance--ops) | 341 |
+| [Finance & ops](#finance--ops) | 344 |
 | [Content & publishing](#content--publishing) | 330 |
-| [Personal admin](#personal-admin) | 628 |
+| [Personal admin](#personal-admin) | 634 |
 | [Teams & handoffs](#teams--handoffs) | 353 |
-| **Total** | **2679** |
+| **Total** | **2692** |
 
-All 2679 share pages returned HTTP 200 on 29 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 2679 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 2692 share pages returned HTTP 200 on 29 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 2692 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -270,6 +270,7 @@ One share is one bot. Assemble the roster yourself.
 - [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) - Answers on-chain questions by querying The Graph's subgraphs directly. [Derek](https://x.com/data_nexus).
 - [Bot Builder](https://x.ai/bot/PbZjCYArwV393be1eCQRW) - Paste-ready one-bot or crew operator specs (alt share). community.
 - [Bot Builder](https://x.ai/bot/MEkS4_qbQ0mbRdx90JCnc) - Guides you through building a new Grok Bot without blank-page stall. Joe.
+- [Bot Builder](https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy) - Designs focused Grok Bots and small fleets with clear jobs, routing, verification, and crawl-walk-run rollout, not catch-all helpers. [BeKs](https://x.com/beksvie).
 - [Bot Foundry](https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv) - Turns an idea or repeated task into a ready bot template with persona, skills, and launch posts. [Joseph](https://x.com/BTC_Yogi).
 - [Botsitter](https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g) - Makes sure other bots actually finished. Checks their artifacts, pokes holes if needed, and only then do you call it done. [AustinBrown1776](https://x.com/AustinBrown1776).
 - [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - Door policy for Grok Bot templates that flags phone-home and secret harvest. [pcoxproductions](https://x.com/pcoxproductions).
@@ -729,6 +730,9 @@ One share is one bot. Assemble the roster yourself.
 - [Assistant for Home Assistant](https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X) - Watches Home Assistant and speaks up only when a person must act. community.
 - [Astro](https://x.ai/bot/LtgFNOt7Y-bmSnixM1yAj) - Weekday brief on Starship launches and space news. [Secalytica](https://x.com/Secalytica).
 - [Astronomer](https://x.ai/bot/9orqw_IrUDeEaHo-w68j3) - AI astronomy expert and observing companion for tonight’s targets, gear, and site tradeoffs. [DombiGato](https://x.com/DombiGato).
+- [Burundi Sky Watch](https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp) - Shows which planes are flying over Burundi right now, with airline, aircraft type, origin, and destination from free live flight data. [ambaza marcellin](https://x.com/Marcellin_dev).
+- [Cited Research](https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL) - Research helper that answers with citations, separates facts from inference, and flags unverified claims. [BramForge](https://x.com/bramforge).
+- [Creative Opps Oracle](https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb) - Finds live opportunities for one independent creative across art, games, code, music, writing, and film, then audits public presence. [Empress Trash](https://x.com/EmpressTrash).
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - Morning blueberry research monitor that stays quiet when nothing new matters. [Bizuayeu](https://x.com/Bizuayeu).
 - [Bot Portal](https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o) - Keeps a running map of AI tools and bots worth knowing beside Grok Bot. [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [Bot Village Fleet](https://x.ai/bot/gzyyEpwF93BbHB8nxNAVI) - Fleet for lead contact, specs, Stripe, booking, social, research. [asdennison](https://x.com/asdennison).
@@ -1317,6 +1321,9 @@ One share is one bot. Assemble the roster yourself.
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) - Books, payroll, and tax drafts from source docs for small businesses — fill and advise only under US GAAP/AICPA-style practice. Never e-files or moves. [RomanPotapovBiz](https://x.com/RomanPotapovBiz).
 - [BuyerBot](https://x.ai/bot/kQ7OlCrADIjztiAKsVR0Y) - Personal shopping researcher and buying adviser. Maps the market first, asks a few closed questions, shortlists best-fit options, then recommends. [d_ilash](https://x.com/d_ilash).
 - [Call](https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG) - Places and steers live phone calls through a SIP voice-model bridge. [iserflott](https://x.com/iserflott).
+- [Freelancer Finance Desk](https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF) - Closes one month of freelance books from uploaded transactions, receipts, and invoices into a reviewed packet you keep control of. [Omid](https://x.com/omidmasoom).
+- [Stock Stu](https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO) - Checks your stock picks each day and surfaces what moved, what to watch, and what to consider with your morning coffee. [Frank](https://x.com/FrankFindsOut).
+- [X 投资情报助手](https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk) - Tracks investors you follow on X and chatter on your stock watchlist, then publishes a chart-rich daily briefing to Feishu or Lark. [qishiya](https://x.com/qizhong_hu).
 - [财报锦囊](https://x.ai/bot/d48QaYERwvgtUmYsGlyz8) - Chinese earnings reader for a US ticker: latest quarter, LSEG consensus, guidance, and call points in a 7-point brief. [CHENG](https://x.com/kaixinluo6268).
 - [Captain](https://x.ai/bot/SkSHokoCm92z9E-NFNmjr) - A main point-of-contact bot that takes your tasks, delegates to specialist agents (email, calendar, drive, travel, payments, site), and reports results. [imagineinquiry](https://x.com/imagineinquiry).
 - [Car Chaser](https://x.ai/bot/_xHffm8tWVvtVic-aJmwa) - Car search with the IF/THEN and OR rules that site filters can't handle, like "under $37k with 3 owners or less, or up to $45k as a single owner." Car. [ibelevy](https://x.com/ibelevy).
@@ -1989,6 +1996,11 @@ One share is one bot. Assemble the roster yourself.
 - [Apply Bot](https://x.ai/bot/2GdkYgGlc91A6d6MPXCkZ) - Finds live JDs, remaps your proof onto each job scoring rubric, and applies at volume with queue pacing so quality survives busy days. [Kyle](https://x.com/Kylebauer).
 - [Appointment Finder](https://x.ai/bot/75K-dB4m30goo_PamA9nM) - Finds the best appointment slot so you never phone around again. [Liam](https://x.com/liam_fallen).
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) - Runs research fit-grade and draft for role searches then stops for your OK, never invents credentials or applies alone. [ElloForo8A](https://x.com/ElloForo8A).
+- [Devotion David](https://x.ai/bot/XyZFDGw9eKFocwkVNDeXS) - Daily devotion companion that sources passages from any tradition for reflection on your terms, without pushing belief. [Frank](https://x.com/FrankFindsOut).
+- [Gluco](https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM) - Chat-based glucose, carb, and medication logger with a daily carb tally and a simple day summary, no clinic-grade claims. [Brian Hill](https://x.com/Brianhill).
+- [Hype Man](https://x.ai/bot/QVYB4aI8lO8-LgCNmFblE) - Personal hype man that celebrates wins, keeps momentum, and holds you accountable with energy matched to your day. [Mike Heckert](https://x.com/MichaelHeckert).
+- [Paul](https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1) - Bible companion that helps you learn Scripture and walk with Jesus Christ daily, holding the Bible as the Word of Truth. [Wilson Samiano](https://x.com/wilsonsamiano).
+- [Photo Paige](https://x.ai/bot/qye6GiC4AqhUjhGewdxUM) - Goes through your Apple Photos library and helps you build albums or delete what you do not need, with less camera-roll clutter. [Frank](https://x.com/FrankFindsOut).
 - [PR Architecture Review](https://x.ai/bot/U5fwXX4VQWagxTNFN7cTK) - Weekday reviewer of recently merged pull requests across a GitHub org. Surfaces architecture, naming, and best-practice patterns as potentially-good and. [Erik](https://x.com/eflorida).
 - [Arnold](https://x.ai/bot/Waw-nx8VWg1lxX8dMkfie) - A gym coach in your pocket. Check in when you arrive, log sets by text or voice, and Arnold calls your next set from your last session, tracks your. [Eyeznskyz](https://x.com/Eyeznskyz).
 - [ArnoldBot](https://x.ai/bot/qjhr1bOXLdfDdyH8xl6Zz) - A personal trainer bot that tracks your gym in an Obsidian vault, runs Push/Pull/Legs suggestions, and checks in honestly without shaming missed days. [iautom8things](https://x.com/iautom8things).
@@ -2015,6 +2027,7 @@ One share is one bot. Assemble the roster yourself.
 - [Board AI Risk One-Pager](https://x.ai/bot/HqHCNAnBSL3qIxgC46fOx) - Turns vague AI worry into a one-page risk note a founder or CEO can take to the board. [CarbeneAI](https://x.com/CarbeneAI).
 - [Bonehead](https://x.ai/bot/X5OznsECCkLxuiiA9OOk3) - General productivity wingman for messy day-to-day work. [RFashodi25](https://x.com/RFashodi25).
 - [Bookmark Miner](https://x.ai/bot/2KoI66uCOtx0PSf3do4tK) - Turns the X posts you saved into a ranked list of things actually worth doing. [therookiehacker](https://x.com/therookiehacker).
+- [Tesla Bot](https://x.ai/bot/PQhKM1G6t5kFI0ZwjIt1t) - Monitors your Teslas without waking them, logs battery and status changes to Google Sheets, and alerts when a car comes online or goes quiet. [Quang](https://x.com/california_swe).
 - [大使通道盯梢](https://x.ai/bot/NN6D3V_M2kLzC9QjWRl4k) - 盯梢 Cursor（及若有獨立入口的 SpaceX AI）大使申請通道。主頁：https://cursor.com/ambassadors。每次檢查：頁面是否可開、申請表／Submit... [Chris62771610](https://x.com/Chris62771610).
 - [Bot Goddess](https://x.ai/bot/u7cP8KZ6iPlrRvSojTrYU) - Create and maintain focused Grok Bots whose behavior matches the user's intent and whose source can be inspected and reused. Carry an authorized. [SamyuLo](https://x.com/SamyuLo).
 - [桜草メイ](https://x.ai/bot/IoAHIj45_pUJYsw7mqLP6) - Japanese companion bot for daily notes and light creative warmups. Masaki.
