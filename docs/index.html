@@ -207,6 +207,7 @@
       allCats: 'All categories',
       allShelves: 'All shelves',
       showing: (n, total) => `Showing ${n} of ${total}`,
+      truncated: (shelves) => ` (truncated: ${shelves})`,
       footer: 'Source: majiayu000/awesome-grok-bot. Catalog is CC0; product honesty: live shares only. Index regenerated from catalog.json — see docs/seo.md.',
       cats: {
         'coding-shipping': 'Coding & shipping',
@@ -247,6 +248,7 @@
       allCats: '全部分类',
       allShelves: '全部货架',
       showing: (n, total) => `显示 ${n} / ${total}`,
+      truncated: (shelves) => `（截断：${shelves}）`,
       footer: '来源：majiayu000/awesome-grok-bot。目录 CC0；产品诚实：只收录活分享。索引由 catalog.json 生成 — 见 docs/seo.md。',
       cats: {
         'coding-shipping': 'Coding & shipping',
@@ -269,6 +271,8 @@
   };
 
   const SHELF_ORDER = ['featured', 'solid', 'studio-door', 'aka', 'raw'];
+  // aka is the demoted duplicate tier and sorts after raw, matching scripts/apply-shelf.mjs.
+  const SHELF_RANK = { featured: 0, solid: 1, 'studio-door': 2, raw: 3, aka: 4 };
   const CAT_ORDER = [
     'coding-shipping', 'inbox-calendar', 'research-briefings', 'customer-sales',
     'finance-ops', 'content-publishing', 'personal-admin', 'teams-handoffs',
@@ -378,13 +382,68 @@
     });
   }
 
+  function shelfRank(shelf) {
+    return SHELF_RANK[shelf] ?? 99;
+  }
+
+  function compareShelves(a, b) {
+    const diff = shelfRank(a) - shelfRank(b);
+    if (diff !== 0) return diff;
+    return String(a).localeCompare(String(b));
+  }
+
+  function countsByShelf(list) {
+    const counts = new Map();
+    for (const entry of list) counts.set(entry.shelf, (counts.get(entry.shelf) || 0) + 1);
+    return counts;
+  }
+
+  // Reserve one slot per shelf, then fill remaining slots in SHELF_RANK order.
+  function shelfWindow(pool, max) {
+    const groups = new Map();
+    for (const entry of pool) {
+      if (!groups.has(entry.shelf)) groups.set(entry.shelf, []);
+      groups.get(entry.shelf).push(entry);
+    }
+    for (const group of groups.values()) {
+      group.sort((a, b) => a.name.localeCompare(b.name));
+    }
+    const shelves = [...groups.keys()].sort(compareShelves);
+    if (pool.length <= max) return shelves.flatMap((shelf) => groups.get(shelf));
+
+    const quota = new Map();
+    let reserved = 0;
+    for (const shelf of shelves) {
+      if (reserved >= max) {
+        quota.set(shelf, 0);
+        continue;
+      }
+      quota.set(shelf, 1);
+      reserved += 1;
+    }
+    let leftover = max - reserved;
+    for (const shelf of shelves) {
+      if (leftover <= 0) break;
+      const room = groups.get(shelf).length - quota.get(shelf);
+      if (room <= 0) continue;
+      const take = Math.min(room, leftover);
+      quota.set(shelf, quota.get(shelf) + take);
+      leftover -= take;
+    }
+    const out = [];
+    for (const shelf of shelves) {
+      const count = quota.get(shelf) || 0;
+      if (count > 0) out.push(...groups.get(shelf).slice(0, count));
+    }
+    return out;
+  }
+
   function render() {
     if (!data) {
       $('stats').textContent = t().loading;
       return;
     }
     const matched = filterEntries();
-    $('stats').textContent = t().showing(matched.length, entries.length);
 
     const showFeaturedHighlight = !$('shelf').value || $('shelf').value === 'featured';
     const showDoorsHighlight = !$('shelf').value || $('shelf').value === 'studio-door';
@@ -394,7 +453,9 @@
     const doors = matched.filter((e) => e.shelf === 'studio-door');
 
     // Featured section on top when not narrowly filtered away
+    let featuredPainted = [];
     if (showFeaturedHighlight && featured.length && !qActive) {
+      featuredPainted = featured;
       $('featuredBlock').hidden = false;
       $('featuredGrid').innerHTML = featured.map((e) => cardHTML(e, 'featured')).join('');
     } else {
@@ -402,11 +463,13 @@
       $('featuredGrid').innerHTML = '';
     }
 
+    let strip = [];
     if (showDoorsHighlight && doors.length && !qActive && !$('shelf').value) {
       // When browsing all, show a compact studio-door strip (cap) then all
       const cap = 8;
+      strip = doors.slice(0, cap);
       $('doorsBlock').hidden = false;
-      $('doorsGrid').innerHTML = doors.slice(0, cap).map((e) => cardHTML(e, 'studio-door')).join('');
+      $('doorsGrid').innerHTML = strip.map((e) => cardHTML(e, 'studio-door')).join('');
     } else if ($('shelf').value === 'studio-door' && doors.length) {
       $('doorsBlock').hidden = true;
       $('doorsGrid').innerHTML = '';
@@ -415,31 +478,29 @@
       $('doorsGrid').innerHTML = '';
     }
 
-    // All matches: if no query and no shelf/cat, exclude featured already shown to reduce dupes in "all"
-    let list = matched;
+    // Unfiltered view already paints featured and the index-order door strip above.
+    let pool = matched;
     if (!qActive && !$('shelf').value) {
-      list = matched.filter((e) => e.shelf !== 'featured');
+      const stripSlugs = new Set(strip.map((e) => e.slug));
+      pool = matched.filter((e) => e.shelf !== 'featured' && !stripSlugs.has(e.slug));
     }
 
-    // Prefer featured → studio-door → solid → aka → raw, then name
-    const rank = { featured: 0, 'studio-door': 1, solid: 2, aka: 3, raw: 4 };
-    list = list.slice().sort((a, b) => {
-      const ra = rank[a.shelf] ?? 9;
-      const rb = rank[b.shelf] ?? 9;
-      if (ra !== rb) return ra - rb;
-      return a.name.localeCompare(b.name);
-    });
-
-    // Cap render for raw browsing performance
     const MAX = 200;
-    const sliced = list.slice(0, MAX);
+    const sliced = shelfWindow(pool, MAX);
     $('allGrid').innerHTML = sliced.map((e) => cardHTML(e)).join('');
-    $('empty').hidden = list.length > 0;
-    if (list.length > MAX) {
-      $('stats').textContent += locale === 'zh'
-        ? `（仅渲染前 ${MAX} 条，请缩小筛选）`
-        : ` (showing first ${MAX}; narrow filters)`;
+    $('empty').hidden = matched.length > 0;
+
+    const painted = countsByShelf([...featuredPainted, ...strip, ...sliced]);
+    const totals = countsByShelf(matched);
+    const truncated = [...totals.keys()]
+      .sort(compareShelves)
+      .filter((id) => (painted.get(id) || 0) < totals.get(id));
+    let stats = t().showing(matched.length, entries.length);
+    if (truncated.length) {
+      const detail = truncated.map((id) => `${id} ${painted.get(id) || 0}/${totals.get(id)}`).join(', ');
+      stats += t().truncated(detail);
     }
+    $('stats').textContent = stats;
   }
 
   function wire() {
