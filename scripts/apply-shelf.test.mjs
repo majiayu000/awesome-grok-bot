@@ -64,6 +64,11 @@ test("generic studio, command and mission-control words do not promote shares", 
   assert.equal(shelves["life-ktzplw"], "studio-door");
 });
 
+test("hyphenated chiefs of staff and explicit specialist-team orchestrators stay discoverable", (t) => {
+  const f = fixture(t, [entry("https-2"), entry("studio-chief")]);
+  for (const item of f.run()) assert.equal(item.shelf, "studio-door", item.slug);
+});
+
 test("untracked name duplicates still collapse and featured seeds still win", (t) => {
   const featured = structuredClone(catalog.entries.find((item) => item.import.endsWith("/z7xup0Ax1SBl2K84PELqF")));
   const duplicate = { ...entry("pet-ad-studio"), name: `  ${featured.name.toUpperCase()}  ` };

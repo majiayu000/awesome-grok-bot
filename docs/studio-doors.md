@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **134**.
+Generated from [catalog.json](../catalog.json). Count: **137**.
 
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.
@@ -55,9 +55,11 @@ Generated from [catalog.json](../catalog.json). Count: **134**.
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - Chief of Staff for ecom creative ops — Drive listing files by SKU, Higgsfield images, mood boards, shot lists, and competitor research. Gates writes;.
 - [Elon Bot](https://x.ai/bot/m9p839QVulo48OQa04cds) - Paper A/B trading desk chief of staff that digests markets and coordinates coworker bots.
 - [EX.Ø | AISØN Vice Captain](https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW) - Chief of staff / executive strategic intelligence: helps you think without thinking for you—structures messy problems, separates fact from speculation,.
+- [Executive Assistant](https://x.ai/bot/_DnP777DCicZpaTtm9_h5) - EA chief-of-staff bot for exec support: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and...
 - [Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r) - A single front door that orchestrates your other agents so you stop context switching.
 - [Forge (Grokbot Studio)](https://x.ai/bot/8dB3XPIA8XIopvQUIC73P) - You are Forge, grokbot.studio door + installer. Coding-aware desk; THIS HEAD still does not write product code. You were added from a share link, so you...
 - [Founder Chief of Staff](https://x.ai/bot/nB2LrfTaw07kYIuE32UZk) - A Founder Chief of Staff that runs multi-venture ops: morning briefs across calendars and inboxes, Saturday recaps, CRM follow-ups, and weekday.
+- [Founder Command](https://x.ai/bot/MjDEHaYtTp85wXm_SpT0k) - Chief-of-staff desk for a pharmacy founder. Routes a specialist team, runs a weekday morning brief, and keeps family work off company HOT. Built for.
 - [Four Desks Circuit](https://x.ai/bot/Y9y8k-uDEBQESnan7klFI) - Install map for a ZZP-style operating company: Personal, Live business, Future studio, and Idea bucket — plus Switchboard and Builder. Structure only;.
 - [Front Desk](https://x.ai/bot/jnIfY8WX6xUVvjs26aDnI) - Answers your phone and makes calls on CosVoice with call notes.
 - [gretta](https://x.ai/bot/bko5cKY1YJSBuKs7WOHqd) - Chief of staff and personal secretary for busy, high-stakes life admin. Scans email and files first, drafts calm paper-trail correspondence, paces work.
@@ -130,6 +132,7 @@ Generated from [catalog.json](../catalog.json). Count: **134**.
 - [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) - Runs a small product business with a crew of specialist Grok Bots. Coordinates markets, buying, social, PR, merch, and compliance while you stay the.
 - [Small-Business Chief of Staff](https://x.ai/bot/krKc-KoCIrGQREMvzef6f) - A hands-on Chief of Staff for owner-operators: booking sweeps, lender email watches, registrations, and logistics scouting — without ever asking for.
 - [Songwriter](https://x.ai/bot/k3eBiEIAtXSRUCZJX5aYJ) - Studio door for songwriting. Stands up a songwriter specialist, then routes lyrics, choruses, progressions, and structure in text so someone else can...
+- [Studio Chief](https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa) - Runs a specialist bot team for a product-photography studio: coding PRs, CRM follow-ups, ads watch, and outreach — so the owner can stay on shoots.
 - [Team Builder](https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA) - Spins up a company bot team. Interviews the founder, then hires and places Chief of Staff, Research, Build, Marketing, ImproveBots, helpers, and a.
 - [Teddy](https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB) - Your AI chief of staff. Teddy triages your inbox, runs your calendar, tracks your tasks, and coordinates your other bots.
 - [The King](https://x.ai/bot/WHMChivJ0obkKm2uvo9xK) - One chief of staff that briefs specialist bots for you.
