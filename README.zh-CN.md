@@ -313,7 +313,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Codex](https://x.ai/bot/aUHkBXXwCzljCcTJSzBYw) - 薄封装真实 Codex 命令行，在你的电脑上跑编码或深研任务. [DocLibertarian](https://x.com/DocLibertarian).
 - [Cody](https://x.ai/bot/843EAX4tlSviLDLgq3G1B) - 只做 Cloudflare 运维，管 DNS、隧道、Access、Workers、Pages 与安全设置，改前先解释. [ThatRetiredDude](https://x.com/ThatRetiredDude).
 - [Comfy Workflow Buddy](https://x.ai/bot/7epNk1Xu5vSOdiwf9xgww) - 协助安装 ComfyUI、接 MCP，并搭自定义图像工作流. [cfryant](https://x.com/cfryant).
-- [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) - 用 >80% 置信门槛审计粘贴的 PR diff，APPROVE / WARNING / BLOCK。 [v_burgos_](https://x.com/v_burgos_).
+- [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) - 用 \>80% 置信门槛审计粘贴的 PR diff，APPROVE / WARNING / BLOCK。 [v_burgos_](https://x.com/v_burgos_).
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) - Confidence Gate Code Reviewer 的可导入分享模板，按说明完成首次只读任务后再开写入。 community.
 - [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) - 一次安装连接后，把所有 Grok Bot 席位收在同一屋檐下管理. [pauloglez90](https://x.com/pauloglez90).
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) - 把正确的 Chrome cookie 导入共享电脑让浏览器机器人别卡在登录墙。 [scottxmetcalf](https://x.com/scottxmetcalf).
@@ -2761,7 +2761,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [もらえるお金ナビゲーター](https://x.ai/bot/NUjvclMSCc_QgGtV-6wPa) - 整理日本可申请的补贴与支援金，说明清楚好跟. [route20191212](https://x.com/route20191212).
 - [减脂训练](https://x.ai/bot/4ZZ9ceqqYU4xkfdFW-QlC) - 给想稳减脂的上班族做训练节奏与单次课建议，有手表读表，没有就按口述. [Mai](https://x.com/MaiYangAI).
 - [减重教练](https://x.ai/bot/MgvqAC7RBf-gsvQl6Jw6n) - 按中国大陆饮食记账估热量的减重教练，催三餐看餐前照片再入账. [Cola](https://x.com/Cola).
-- [大使通道盯梢](https://x.ai/bot/NN6D3V_M2kLzC9QjWRl4k) - 盯梢 Cursor 及 SpaceX AI 大使申请通道是否可开、表格与提交是否可用。主页见 https://cursor.com/ambassadors. [Chris62771610](https://x.com/Chris62771610).
+- [大使通道盯梢](https://x.ai/bot/NN6D3V_M2kLzC9QjWRl4k) - 盯梢 Cursor 及 SpaceX AI 大使申请通道是否可开、表格与提交是否可用。主页见 https\://cursor.com/ambassadors. [Chris62771610](https://x.com/Chris62771610).
 - [小红书参与抽奖助手](https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP) - 在小红书搜抽奖并按规则四连，足迹记进 Notion，躲开明显诈骗。 [selinqi](https://x.com/selinqi).
 - [彩票兑奖助手](https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX) - 丢票面图或号码，只查官方开奖，直接告诉你中没中。不荐号、不代买。 [MaiYangAI](https://x.com/MaiYangAI).
 - [投简历](https://x.ai/bot/Xg1_LIUG80iz5065crarS) - 按筛选口径在招聘平台筛岗投递，也可向公开邮箱发简历，并回报卡点. [EdwinCh43136084](https://x.com/EdwinCh43136084).

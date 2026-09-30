@@ -7,6 +7,7 @@
 import { readdirSync, readFileSync, writeFileSync, statSync, unlinkSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { escapeMarkdownSummary } from "./summary-markdown.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const catalogPath = join(root, "catalog.json");
@@ -164,7 +165,7 @@ if (studioEntries.length > 80) {
   ];
   for (const e of studioEntries) {
     lines.push(
-      `- [${escapeMarkdownLinkLabel(e.name)}](${e.import}) - ${punctuate(e.summary)}`
+      `- [${escapeMarkdownLinkLabel(e.name)}](${e.import}) - ${punctuate(escapeMarkdownSummary(e.summary))}`
     );
   }
   lines.push("");

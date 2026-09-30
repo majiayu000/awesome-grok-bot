@@ -2,6 +2,7 @@
 import { readdirSync, readFileSync, statSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { escapeMarkdownSummary } from "./summary-markdown.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const entrySchema = JSON.parse(readFileSync(join(root, "schema", "entry.schema.json"), "utf8"));
@@ -126,7 +127,7 @@ function expectedReadmeLine(entry, readmeName) {
   const notes = hasTemplate
     ? ` ${chinese ? "说明" : "Notes"}: [templates/${entry.slug}](templates/${entry.slug}/).`
     : "";
-  return `- ${markdownLink(entry.name, entry.import)} - ${punctuate(summary)} ${author}.${notes}`;
+  return `- ${markdownLink(entry.name, entry.import)} - ${punctuate(escapeMarkdownSummary(summary))} ${author}.${notes}`;
 }
 
 const catalogPath = join(root, "catalog.json");
