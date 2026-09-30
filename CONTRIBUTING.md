@@ -42,6 +42,9 @@ Use one of: coding-shipping, inbox-calendar, research-briefings, customer-sales,
 
 The lint command is: `node scripts/lint.mjs`
 
+After catalog changes, run `node scripts/build-pages-index.mjs` and commit the
+generated search index, static homepage catalog, and sitemap together.
+
 ## Packs and official starters
 
 A share installs one bot. Rosters that need several bots live in `packs/` as markdown recipes, not as fake import URLs.
