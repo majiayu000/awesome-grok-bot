@@ -81,6 +81,18 @@ test("explicit bot-team creation and shipping stays discoverable without promoti
   }
 });
 
+test("explicit Grok Bot fleet hubs stay discoverable without promoting generic mission control", (t) => {
+  const hub = entry("mission-control");
+  const rawSlugs = ["countdown-starship", "fleet-improver", "frodo", "throttle-token-officer"];
+  for (const name of [hub.name, "Fleet Dashboard"]) {
+    const f = fixture(t, [{ ...hub, name }, ...rawSlugs.map(entry)]);
+    const result = f.run();
+    assert.equal(result.find((item) => item.slug === hub.slug).shelf, "studio-door", name);
+    for (const slug of rawSlugs) assert.equal(result.find((item) => item.slug === slug).shelf, "raw", slug);
+    assert.deepEqual(f.run(), result);
+  }
+});
+
 test("untracked name duplicates still collapse and featured seeds still win", (t) => {
   const featured = structuredClone(catalog.entries.find((item) => item.import.endsWith("/z7xup0Ax1SBl2K84PELqF")));
   const duplicate = { ...entry("pet-ad-studio"), name: `  ${featured.name.toUpperCase()}  ` };

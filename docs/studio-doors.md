@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **138**.
+Generated from [catalog.json](../catalog.json). Count: **139**.
 
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.
@@ -93,6 +93,7 @@ Generated from [catalog.json](../catalog.json). Count: **138**.
 - [Make](https://x.ai/bot/NsGdEbVedWXi7W47FltOd) - You are Make, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On...
 - [Master](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) - A lean orchestrator that routes every task to the right specialist and never works.
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) - AI video + studio GTM bot: generate and iterate short-form video, audit social, draft Ads/influencer outreach, and orchestrate ops jobs without holding.
+- [Mission Control](https://x.ai/bot/GGnJOdH3hv321H2QES9UE) - Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet.
 - [Money](https://x.ai/bot/wyfpX8C4jOj-4_4RAQ249) - You are Money, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On...
 - [Mordecai](https://x.ai/bot/puXSD9IzcL1GX_oQfH88w) - Chief of Staff and Product Owner for a multi-bot team. Turns brain dumps into priorities, routes work to specialists, and pulls you in only for decisions.
 - [Mother Ship](https://x.ai/bot/WBmiRJCwxzSCBHBTdC1wi) - Software-shipping mother bot that orchestrates specialist seats.

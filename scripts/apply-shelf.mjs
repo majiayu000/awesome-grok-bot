@@ -39,7 +39,7 @@ const FEATURED_IMPORT_IDS = [
 ];
 
 const STUDIO_DOOR_RE =
-  /chief[\s-]*of[\s-]*staff|(?:runs|routes|coordinates)\s+(?:a\s+)?specialist\s+(?:bot\s+)?team|\bcreates\s+and\s+ships\b[^.\n]*\bwith\s+a\s+grok\s+bot\s+team\b|ground\s*control|\bstudio\s+door\b|orchestrat|installer|crew\s+of\s+bots|mesa\s+de\s+entrada|ontology\s+stack|switchboard|bot\s*ops|bot\s*father|front\s*desk|intake\s*desk|dispatcher/i;
+  /chief[\s-]*of[\s-]*staff|(?:runs|routes|coordinates)\s+(?:a\s+)?specialist\s+(?:bot\s+)?team|\bcreates\s+and\s+ships\b[^.\n]*\bwith\s+a\s+grok\s+bot\s+team\b|\bdashboard\b[^.\n]*\bgrok\s+bot\s+fleet\b|ground\s*control|\bstudio\s+door\b|orchestrat|installer|crew\s+of\s+bots|mesa\s+de\s+entrada|ontology\s+stack|switchboard|bot\s*ops|bot\s*father|front\s*desk|intake\s*desk|dispatcher/i;
 
 const SHELF_RANK = {
   featured: 0,
