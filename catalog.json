@@ -1443,6 +1443,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "agentstack",
+      "name": "AgentStack",
+      "author": {
+        "name": "AgentStack",
+        "url": "https://x.com/AgentStackTech"
+      },
+      "summary": "Platform agent for AgentStack.tech via MCP for hosting, DNA, App Studio, and apps you ship",
+      "summary_zh": "AgentStack 平台助手，经 MCP 覆盖托管、DNA、App Studio 与已上线应用",
+      "import": "https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "platform",
+        "mcp",
+        "shipping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "studio-door",
+      "source": "https://x.com/AgentStackTech/status/2105244254595363300"
+    },
+    {
       "slug": "ai-boy",
       "name": "AI Boy",
       "author": {
@@ -12456,6 +12479,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "contractor-daily",
+      "name": "Contractor Daily",
+      "author": {
+        "name": "Openminded187",
+        "url": "https://x.com/Openminded187A"
+      },
+      "summary": "Turns jobsite photos and notes into a clean daily business packet; nothing sends without your OK",
+      "summary_zh": "把工地照片与备注整理成当日业务包，未经你确认绝不外发",
+      "import": "https://x.ai/bot/ZNhFnMcPTQQDn3uLXbffi",
+      "category": "finance-ops",
+      "tags": [
+        "ops",
+        "contractors",
+        "field",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Openminded187A/status/2105229850894295414"
+    },
+    {
       "slug": "contrarian",
       "name": "Contrarian",
       "author": {
@@ -23326,6 +23372,29 @@
       "verified": false,
       "updated": "2026-09-05",
       "shelf": "raw"
+    },
+    {
+      "slug": "grantogre",
+      "name": "GrantOgre",
+      "author": {
+        "name": "Sebastian Andreas Nikolaus",
+        "url": "https://x.com/HoneybadgerFan4"
+      },
+      "summary": "Finds live funding programmes and prepares the grant pack a human reviews, signs, and files",
+      "summary_zh": "找在招的资助项目并整理申报材料包，由你审阅签字后自行提交",
+      "import": "https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "grants",
+        "ops",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/HoneybadgerFan4/status/2105258225922707792"
     },
     {
       "slug": "gray-zone-escalator",
@@ -47331,6 +47400,29 @@
       "source": "https://x.com/Cypher0x9/status/2105190171193102619"
     },
     {
+      "slug": "runescape-classic-grok-bot",
+      "name": "Runescape Classic Grok Bot",
+      "author": {
+        "name": "TerpGPT",
+        "url": "https://x.com/TerpGPT"
+      },
+      "summary": "RuneScape Classic beginner companion for Level 1 play, banking, combat, and Refer a Friend",
+      "summary_zh": "符文经典新手向导，教一级移动装备银行攻击与推荐好友",
+      "import": "https://x.ai/bot/0JrDm0jPnwX5i6nzl689d",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "gaming",
+        "guide",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/TerpGPT/status/2105209356233105526"
+    },
+    {
       "slug": "running-coach",
       "name": "Running Coach",
       "author": {
@@ -49642,6 +49734,29 @@
       "verified": false,
       "updated": "2026-09-18",
       "shelf": "raw"
+    },
+    {
+      "slug": "sherpa-bot",
+      "name": "Sherpa Bot",
+      "author": {
+        "name": "Morgan Wyatt Khan",
+        "url": "https://x.com/MorganWKhan"
+      },
+      "summary": "14-day thinking partner that filters readiness and helps find a real problem, customer, and next action",
+      "summary_zh": "十四天思考伙伴，先筛意愿再帮你找真问题、真客户和下一步动作",
+      "import": "https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "coaching",
+        "startup",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/MorganWKhan/status/2105256392256893076"
     },
     {
       "slug": "shikamaru",
@@ -56771,6 +56886,29 @@
       "verified": false,
       "updated": "2026-09-25",
       "shelf": "raw"
+    },
+    {
+      "slug": "toujuan-assistant",
+      "name": "投卷助手",
+      "author": {
+        "name": "Hardy Chen",
+        "url": "https://x.com/Chchenhao0129"
+      },
+      "summary": "Drafts personalized DMs asking creators to read your article; judges fit first, you send yourself",
+      "summary_zh": "先判断文章值不值得推，再给每个人起草一条不套路的私信，默认你自己发",
+      "import": "https://x.ai/bot/by-COZ6O51itETDzM0mBw",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "outreach",
+        "social",
+        "writing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Chchenhao0129/status/2105261191736213588"
     },
     {
       "slug": "track-parents",

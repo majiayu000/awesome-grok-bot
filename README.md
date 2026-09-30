@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 2866 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 2872 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 [Grok Bot](https://docs.x.ai/grok-bot/overview) is an always-on AI teammate on a shared cloud computer. This bilingual catalog indexes public **live shares** (not prompt dumps): find a share, open it on x.ai, then Add.
 
@@ -101,17 +101,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 374 |
+| [Coding & shipping](#coding--shipping) | 375 |
 | [Inbox & calendar](#inbox--calendar) | 110 |
 | [Research & briefings](#research--briefings) | 354 |
-| [Customer & sales](#customer--sales) | 250 |
-| [Finance & ops](#finance--ops) | 355 |
-| [Content & publishing](#content--publishing) | 348 |
-| [Personal admin](#personal-admin) | 714 |
+| [Customer & sales](#customer--sales) | 251 |
+| [Finance & ops](#finance--ops) | 357 |
+| [Content & publishing](#content--publishing) | 349 |
+| [Personal admin](#personal-admin) | 715 |
 | [Teams & handoffs](#teams--handoffs) | 361 |
-| **Total** | **2866** |
+| **Total** | **2872** |
 
-All 2866 share pages returned HTTP 200 on 30 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 2866 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 2872 share pages returned HTTP 200 on 30 Sep 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 2872 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -247,6 +247,7 @@ One share is one bot. Assemble the roster yourself.
 - [AGENT ALpha](https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p) - General-purpose agent Alpha template for shipping tasks across coding and ops workflows. [Joshua](https://x.com/Telephantix).
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) - Keeps a local coding agent iterating until your acceptance test passes. [dancingteeth](https://x.com/dancingteeth).
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) - A janitor for multi-bot workspaces that stops cruft piling up. [Chip](https://x.com/chiplay).
+- [AgentStack](https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h) - Platform agent for AgentStack.tech via MCP for hosting, DNA, App Studio, and apps you ship. [AgentStack](https://x.com/AgentStackTech).
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) - Start and supervise Claude Code or Codex coding runs from inside Grok Bot. [David](https://x.com/infdaze).
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) - Keeps every AI coding tool on your machines up to date. [Alan](https://x.com/gheeunit).
 - [AI Security Advisor](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) - Defensive hardening advice for AI apps: injection, tool abuse, leakage. [zeuss_000](https://x.com/zeuss_000).
@@ -1305,6 +1306,7 @@ One share is one bot. Assemble the roster yourself.
 - [Scout](https://x.ai/bot/Axr06_abjVj29IjBhJrQ_) - Finds accounts already using the product that are ready for more: self-serve upgrades and sales PQLs. Learns from won and lost deals, scores usage plus... [JaySahnan](https://x.com/JaySahnan).
 - [SE call bot](https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE) - Live backup for solutions engineers on customer calls. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) - Autonomous SEO engineer that bootstraps SEOAgent in your site repo and grows organic traffic. [SEOAgent_](https://x.com/SEOAgent_).
+- [Sherpa Bot](https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ) - 14-day thinking partner that filters readiness and helps find a real problem, customer, and next action. [Morgan Wyatt Khan](https://x.com/MorganWKhan).
 - [Shop Compare](https://x.ai/bot/7EGBWWDrvgujhdOLCIrNi) - Comparison shopping research across public listings before you buy. Luke.
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) - Standing ops desk for a food plant / co-pack / seasoning-blend shop: sales orders through ingredient buys, forecast-driven make/buy, packing checks, and. [VinceWilliams21](https://x.com/VinceWilliams21).
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) - Operator desk for a ShopFloor-style Etsy digital shop: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake. [Dex_01_](https://x.com/Dex_01_).
@@ -1408,6 +1410,7 @@ One share is one bot. Assemble the roster yourself.
 - [Compute Spread](https://x.ai/bot/E3h1YsfGofjdYbHLPXjY1) - Stretches tokens on clean routes, preferring connectors and APIs over click loops. [SamE1311025](https://x.com/SamE1311025).
 - [Construction Manager Bot](https://x.ai/bot/QrJpjStFV2WBIaI8wirO6) - Owner-side or contractor-side CM for US civil work built for the phone in the field. Site-visit cards, photo to description to issue to RFI draft emailed to you. [HenryBeagle808](https://x.com/HenryBeagle808).
 - [Contract Desk](https://x.ai/bot/sd358e6cf5e8bed188eec) - See the week of paper at a glance. Summarizes by stage and owner, pulls key terms, and flags blocked reviews. [SpaceX](https://x.com/DenisLabelle).
+- [Contractor Daily](https://x.ai/bot/ZNhFnMcPTQQDn3uLXbffi) - Turns jobsite photos and notes into a clean daily business packet; nothing sends without your OK. [Openminded187](https://x.com/Openminded187A).
 - [Cosmo](https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf) - Chief of Staff life OS for a non-coder Ultra user. Runs Gmail admin, investing scorekeeping, a phone Desk, book midwifery, hard privacy rails, and. [Malthusatraz](https://x.com/Malthusatraz).
 - [Cost Optimizer](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) - Finds the less expensive route to the same result across your agent stack. [MadeItHappenX](https://x.com/MadeItHappenX).
 - [Cost-Smart Health Brief](https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM) - Turns one health question into a three-minute brief. [GuleidAmina](https://x.com/GuleidAmina).
@@ -1480,6 +1483,7 @@ One share is one bot. Assemble the roster yourself.
 - [Gerente Ops](https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ) - Spanish back-office manager for till close, ledgers, stock and listings. [JASCPROVZ](https://x.com/JASCPROVZ).
 - [Gimli](https://x.ai/bot/Gus0sWvCGM8RhHyGED9AF) - Brick / LEGO marketplace store ops: live eBay coverage, BrickLink as inventory system of record, BrickOwl sync when shops are open, and quiet alerts. [RumblinTum](https://x.com/RumblinTum).
 - [Grant Packet Assembler](https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef) - Builds Georgia grant packets for a compliance read; drafts only, you submit. [OmgawdMadeit](https://x.com/OmgawdMadeit).
+- [GrantOgre](https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va) - Finds live funding programmes and prepares the grant pack a human reviews, signs, and files. [Sebastian Andreas Nikolaus](https://x.com/HoneybadgerFan4).
 - [Grocery and Home Buying](https://x.ai/bot/NrL49IwUkMLbQSl8VHH_S) - Keeps a household regulars catalog from Amazon and Walmart so phrases like “Need jelly” restock the last item you bought. Adds to cart by default. [derekvisch](https://x.com/derekvisch).
 - [Grok Bot](https://x.ai/bot/4jtnk5wsk0UMpDSNqG4Oc) - Use this template to create a new bot or apply it to an existing bot. [kennytjay](https://x.com/kennytjay).
 - [Grok Bot SV](https://x.ai/bot/MMbItyozZdJ2KyVFGF3He) - Self-custody Bitcoin SV wallet on your Grok Bot computer with daily limits you control. [CY](https://x.com/Cman0006).
@@ -2044,6 +2048,7 @@ One share is one bot. Assemble the roster yourself.
 - [톨삼국지](https://x.ai/bot/IXID16RPXlKV6KHQCdmr7) - Daily Three Kingdoms illustration in rotating art styles. [enterjajayo](https://x.com/enterjajayo).
 - [みみ](https://x.ai/bot/msP4lEtyQNghyO-mqnXyR) - Casual chat as the fictional character Mimi. [kabupoyo2023](https://x.com/kabupoyo2023).
 - [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) - Hands you ready-to-post promo copy for your product on a fixed rhythm. [zheng_yunh2429](https://x.com/zheng_yunh2429).
+- [投卷助手](https://x.ai/bot/by-COZ6O51itETDzM0mBw) - Drafts personalized DMs asking creators to read your article; judges fit first, you send yourself. [Hardy Chen](https://x.com/Chchenhao0129).
 - [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - A daily X posting system for ideas, drafts, timing, and review. [KinGao476942](https://x.com/KinGao476942).
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - Checks Japanese grammar, keigo, and readability for boss-facing drafts without changing meaning. [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - Schedules voice demo, PPT, avatar, and 1080p lecture video delivery. [dugujun12](https://x.com/dugujun12).
@@ -2588,6 +2593,7 @@ One share is one bot. Assemble the roster yourself.
 - [Role Reality Check](https://x.ai/bot/6C-XaR92bAHMtob9LLAE7) - JD reality check: role shape, red flags, questions. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Rosettabot](https://x.ai/bot/eegdusTdLPabH7xTLQfgG) - Explains a foreign-language bot card before you install it. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Route Planner](https://x.ai/bot/8xdKqYNx4oRGwahij7CDQ) - Plans routes with constraints you set and flags hard stops early. James.
+- [Runescape Classic Grok Bot](https://x.ai/bot/0JrDm0jPnwX5i6nzl689d) - RuneScape Classic beginner companion for Level 1 play, banking, combat, and Refer a Friend. [TerpGPT](https://x.com/TerpGPT).
 - [Running Coach](https://x.ai/bot/o4hvGfkH_LOiP0YbT22og) - An on-demand running coach that reads your Garmin watch data. After each run you get what went well, what to fix, and a recovery-gated next session. [Ivan](https://x.com/IHybben).
 - [RV Trip Planner](https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx) - Holds a multi-day RV route and checks overnight spots in real time. [Cmillet77](https://x.com/Cmillet77).
 - [RV Trip Scout](https://x.ai/bot/2lNBe_0w4Ua7tH4oawNWO) - Plans full-time RV travel around your actual rig limits and weather risks. Richard.

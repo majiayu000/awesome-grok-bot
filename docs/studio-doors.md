@@ -3,10 +3,11 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **152**.
+Generated from [catalog.json](../catalog.json). Count: **153**.
 
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.
+- [AgentStack](https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h) - Platform agent for AgentStack.tech via MCP for hosting, DNA, App Studio, and apps you ship.
 - [AI Chief of Staff](https://x.ai/bot/BEpbydvAIUEuF5Ceh4dZE) - A general-purpose AI chief of staff that turns priorities into plans, delegates focused work to specialist roles, consolidates updates, and keeps...
 - [AI VP Bot](https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw) - A second-in-command that keeps multi-platform AI work on time and budget.
 - [Alfred](https://x.ai/bot/moKscJ7PToJw_PVQWvkf_) - Cheeky British chief of staff that watches email and Drive, builds daily briefings, and coordinates teammate bots.
