@@ -51,3 +51,27 @@ writeFileSync(out, JSON.stringify(index));
 console.log(
   `Wrote docs/catalog-index.json (${entries.length} entries, ${Buffer.byteLength(JSON.stringify(index))} bytes)`
 );
+
+// Publish the same catalog as HTML so it remains readable before JavaScript loads.
+const escapeHtml = (value) => String(value ?? "").replace(/[&<>"']/g, (character) => ({
+  "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+}[character]));
+const cards = entries.map((entry) => `<article class="card">
+  <div class="card-top"><h3 class="name"><a href="${escapeHtml(entry.import)}" target="_blank" rel="noopener noreferrer">${escapeHtml(entry.name)}</a></h3><span class="tag">${escapeHtml(entry.shelf)}</span></div>
+  <p class="summary">${escapeHtml(entry.summary)}</p>
+  ${entry.summary_zh ? `<p class="summary" lang="zh-CN">${escapeHtml(entry.summary_zh)}</p>` : ""}
+  <div class="row"><span class="tag">${escapeHtml(entry.category)}</span><span class="tag">${entry.verified ? "verified" : "unverified"}</span></div>
+  <div class="actions"><a class="btn" href="${escapeHtml(entry.import)}" target="_blank" rel="noopener noreferrer">Preview / Add</a></div>
+</article>`).join("\n");
+const pagePath = join(root, "docs", "index.html");
+const page = readFileSync(pagePath, "utf8").replace(
+  /<!-- generated:catalog-start -->[\s\S]*?<!-- generated:catalog-end -->/,
+  `<!-- generated:catalog-start -->\n${cards}\n<!-- generated:catalog-end -->`,
+).replace(/(<strong id="count">)[^<]*(<\/strong>)/, `$1${entries.length}$2`);
+writeFileSync(pagePath, page);
+writeFileSync(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://majiayu000.github.io/awesome-grok-bot/</loc></url>
+</urlset>
+`);
+console.log(`Wrote static catalog HTML (${entries.length} shares) and sitemap`);
