@@ -2715,6 +2715,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "api-docs-desk",
+      "name": "API Docs Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Sourced API endpoint reference from specs and route code",
+      "summary_zh": "从规格与路由代码生成带出处的 API 端点参考",
+      "import": "https://x.ai/bot/N5kFPLSX_qhSa3CAesI7_",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shipping",
+        "dev",
+        "docs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190171193102619"
+    },
+    {
       "slug": "app-store-creative",
       "name": "App Store Creative",
       "author": {
@@ -2953,6 +2976,29 @@
       "source": "https://x.com/dukezone/status/2100010056108683737",
       "related": "https://grokbot.dev/marketplace/archer/",
       "shelf": "raw"
+    },
+    {
+      "slug": "architecture-diagram-desk",
+      "name": "Architecture Diagram Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Component inventory and Mermaid architecture diagram from configs and notes",
+      "summary_zh": "从配置与设计笔记生成组件清单与 Mermaid 架构图",
+      "import": "https://x.ai/bot/d75FNqjVjHD2pAvPrB7D7",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shipping",
+        "dev",
+        "docs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190171193102619"
     },
     {
       "slug": "architecture-risk",
@@ -4109,6 +4155,29 @@
       "verified": false,
       "updated": "2026-09-27",
       "shelf": "raw"
+    },
+    {
+      "slug": "bedtime-story-desk",
+      "name": "Bedtime Story Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Short gentle bedtime stories from a child first name and interests",
+      "summary_zh": "按孩子名字与兴趣写短而温柔的睡前故事",
+      "import": "https://x.ai/bot/bWDMstmWEZuFN1XojO8_x",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "family",
+        "life",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105188299182866623"
     },
     {
       "slug": "bender",
@@ -6052,6 +6121,29 @@
       "source": "https://x.com/alexnextd00r/status/2105081301267329069"
     },
     {
+      "slug": "budget-tracker-desk",
+      "name": "Budget Tracker Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Turns a transaction list into budget-vs-actual with math shown and recurring flags",
+      "summary_zh": "把流水做成预算对照表，展示算法并标出经常性支出",
+      "import": "https://x.ai/bot/wa82z_iim-TieDVwfPxMM",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money",
+        "ops",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190561628250401"
+    },
+    {
       "slug": "bug-reproduction",
       "name": "Bug Reproduction",
       "author": {
@@ -6072,6 +6164,29 @@
       "verified": false,
       "updated": "2026-09-25",
       "shelf": "raw"
+    },
+    {
+      "slug": "bug-triage-desk",
+      "name": "Bug Triage Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Bug triage with severity, repro status, duplicates and missing-info asks",
+      "summary_zh": "缺陷分诊含严重度复现状态重复项与缺信息追问",
+      "import": "https://x.ai/bot/9W6T6HTn3BYpD0oPzY2hj",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shipping",
+        "dev",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190171193102619"
     },
     {
       "slug": "build-with-clarity",
@@ -7389,6 +7504,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "raw"
+    },
+    {
+      "slug": "certification-coach-desk",
+      "name": "Certification Coach Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Shows where you stand on each exam objective then drills original practice",
+      "summary_zh": "按考纲目标标出掌握度，再练原创练习题",
+      "import": "https://x.ai/bot/vyTuuPU29wfM_8x19gAeu",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "career",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190371395342356"
     },
     {
       "slug": "cevbo-soul-broker",
@@ -9781,6 +9919,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "claim-check-desk",
+      "name": "Claim Check Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Grades every claim Pass, Partial, or Fail against your evidence",
+      "summary_zh": "对照证据把每条主张标为通过部分通过或未通过",
+      "import": "https://x.ai/bot/Ettr2C8mq0Pu0LqCD0cuG",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing",
+        "decision-support",
+        "news"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190171193102619"
+    },
+    {
       "slug": "claim-ontology-desk",
       "name": "Claim Ontology Desk",
       "author": {
@@ -11527,6 +11688,29 @@
       "verified": false,
       "updated": "2026-09-25",
       "shelf": "raw"
+    },
+    {
+      "slug": "competitive-landscape-desk",
+      "name": "Competitive Landscape Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Sourced competitor comparison table with clear options and a recommendation",
+      "summary_zh": "带出处的竞品对照表，附清晰选项与一条建议",
+      "import": "https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing",
+        "business",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190371395342356"
     },
     {
       "slug": "competitive-snake-alert",
@@ -13622,6 +13806,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "curious-kids-science-desk",
+      "name": "Curious Kids Science Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Answers kids why-questions at their level with one safe at-home experiment",
+      "summary_zh": "按孩子水平回答为什么，并附一个安全的家庭小实验",
+      "import": "https://x.ai/bot/UD5hm1-w70PMPjr-e83r0",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "family",
+        "learning",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190561628250401"
+    },
+    {
       "slug": "cursor",
       "name": "Cursor",
       "author": {
@@ -15332,6 +15539,29 @@
       "verified": false,
       "updated": "2026-09-29",
       "shelf": "raw"
+    },
+    {
+      "slug": "desk-light-signal",
+      "name": "Desk Light Signal",
+      "author": {
+        "name": "dwbanks",
+        "url": "https://x.com/dwbanks"
+      },
+      "summary": "Smart desk light status for unread email, Teams, and missing Harvest hours",
+      "summary_zh": "用智能台灯显示未读邮件 Teams 与缺失 Harvest 工时",
+      "import": "https://x.ai/bot/p2aM_rLyjsf79hVMv4tFX",
+      "category": "inbox-calendar",
+      "tags": [
+        "inbox",
+        "calendar",
+        "productivity",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/dwbanks/status/2105186243768393993"
     },
     {
       "slug": "desk-orchestra",
@@ -18109,6 +18339,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "event-planner-desk",
+      "name": "Event Planner Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Event brief to vendor options, run-of-show, budget table and guest list",
+      "summary_zh": "从活动简报到供应商选项、流程表、预算与嘉宾名单",
+      "import": "https://x.ai/bot/hGAgxNFJOIGL1zgJMcojw",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "life",
+        "planning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190561628250401"
+    },
+    {
       "slug": "event-producer",
       "name": "Event Producer",
       "author": {
@@ -18744,6 +18997,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "family-chore-chart-desk",
+      "name": "Family Chore Chart Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Fair age-based chore rotations with a points chart and weekly reset",
+      "summary_zh": "按年龄公平排家务轮值，带积分表与每周重置",
+      "import": "https://x.ai/bot/hOXHZNTUlMUx3CXDzLmwP",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "family",
+        "admin",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190561628250401"
+    },
+    {
       "slug": "family-cookbook",
       "name": "Family Cookbook",
       "author": {
@@ -19366,6 +19642,29 @@
       "verified": false,
       "updated": "2026-09-29",
       "shelf": "raw"
+    },
+    {
+      "slug": "fare-finder",
+      "name": "Fare Finder",
+      "author": {
+        "name": "dwbanks",
+        "url": "https://x.com/dwbanks"
+      },
+      "summary": "Finds flights from home airports, watches fares, and sends drop alerts plus a weekly digest",
+      "summary_zh": "从常用机场找航班盯票价，降价提醒并每周摘要",
+      "import": "https://x.ai/bot/Jf70GXhB5DVavm-RhgFwI",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "travel",
+        "admin",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/dwbanks/status/2105186482147197171"
     },
     {
       "slug": "fare-watch",
@@ -20263,6 +20562,29 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "flashcard-forge-desk",
+      "name": "Flashcard Forge Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Turns notes into atomic Q/A and cloze flashcards traced to sources",
+      "summary_zh": "把笔记做成可溯源的原子问答与填空闪卡",
+      "import": "https://x.ai/bot/-BGZTvUVjO6KWPTrLnS2Q",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "admin",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190371395342356"
     },
     {
       "slug": "flat-hunter",
@@ -26398,6 +26720,29 @@
       "shelf": "aka"
     },
     {
+      "slug": "homework-coach-desk",
+      "name": "Homework Coach Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Socratic K-12 homework coach with check-your-work and a short parent summary",
+      "summary_zh": "苏格拉底式 K-12 作业教练，含自检步骤与家长短摘要",
+      "import": "https://x.ai/bot/mkRmzjWBqKTB06jNFRjMI",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "family",
+        "learning",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190561628250401"
+    },
+    {
       "slug": "homework-hotline",
       "name": "Homework Hotline",
       "author": {
@@ -27864,6 +28209,29 @@
       "shelf": "aka"
     },
     {
+      "slug": "inbox-triage-desk",
+      "name": "Inbox Triage Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Sorts messages into Reply, Delegate, Schedule, and FYI with draft replies",
+      "summary_zh": "把邮件分到回复委派安排与知会车道并起草回复",
+      "import": "https://x.ai/bot/soRR-1IslCTX7U4YiBg3Y",
+      "category": "inbox-calendar",
+      "tags": [
+        "inbox",
+        "calendar",
+        "productivity",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105189988979896469"
+    },
+    {
       "slug": "inbox-zero",
       "name": "Inbox Zero",
       "author": {
@@ -27884,6 +28252,29 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "incident-postmortem-desk",
+      "name": "Incident Postmortem Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Cited incident timeline, blameless analysis and a labeled root cause",
+      "summary_zh": "带出处的事故时间线、无责复盘与标注根因",
+      "import": "https://x.ai/bot/dEEWHz6Q_jLLCsIGIk4hD",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shipping",
+        "dev",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190171193102619"
     },
     {
       "slug": "included",
@@ -28407,6 +28798,29 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "interview-prep-desk",
+      "name": "Interview Prep Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Role question bank mapped to your true stories plus mock interview drills",
+      "summary_zh": "按岗位建题库并映射你的真实故事，含模拟面试",
+      "import": "https://x.ai/bot/aPnGMEOruUeNLfKtUDc7I",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "career",
+        "learning",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190371395342356"
     },
     {
       "slug": "interview-to-book",
@@ -30699,6 +31113,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "kung-fu-saga",
+      "name": "Kung Fu Saga",
+      "author": {
+        "name": "TerpGPT",
+        "url": "https://x.com/TerpGPT"
+      },
+      "summary": "Interactive Kung Fu Saga beginner guide for classes, builds, bosses, and gear choices",
+      "summary_zh": "功夫传奇新手向导，解答职业加点、BOSS与装备怎么花",
+      "import": "https://x.ai/bot/iv-6BncmS0G5UWrxc9tN7",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "gaming",
+        "guide",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/TerpGPT/status/2105207006650941636"
+    },
+    {
       "slug": "labor-drift-catcher",
       "name": "Labor Drift Catcher",
       "author": {
@@ -30870,6 +31307,29 @@
       "verified": false,
       "updated": "2026-09-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "language-drill-desk",
+      "name": "Language Drill Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Short vocabulary, grammar and dialogue drills with Correct, Close, or Miss feedback",
+      "summary_zh": "短词汇语法对话训练，反馈正确接近或未中",
+      "import": "https://x.ai/bot/zbdaS9qNCMf5a7JWIrrtH",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "admin",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190371395342356"
     },
     {
       "slug": "lantern",
@@ -31724,6 +32184,29 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "lesson-plan-desk",
+      "name": "Lesson Plan Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Lesson plan with objectives, timed activities, differentiation and an exit question",
+      "summary_zh": "含目标、计时活动、分层与出口问题的教案",
+      "import": "https://x.ai/bot/EbBztuUHGcPe1Hl7yNO6Z",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "admin",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190371395342356"
     },
     {
       "slug": "let-s-get-rich-grokbot",
@@ -33779,6 +34262,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "make-it-click",
+      "name": "Make It Click",
+      "author": {
+        "name": "lenabuyan",
+        "url": "https://x.com/lenabuyan"
+      },
+      "summary": "Connects what you already know to what you are curious about next",
+      "summary_zh": "把你已知的和正好奇的连起来，让新知识更容易点通",
+      "import": "https://x.ai/bot/_zzfxlEvWwRKyQVPLB14i",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "admin",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/lenabuyan/status/2105186178454700254"
+    },
+    {
       "slug": "mamboitalianobot",
       "name": "MamboItalianoBot",
       "author": {
@@ -34977,6 +35483,29 @@
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/meeting-recap-deck",
       "shelf": "raw"
+    },
+    {
+      "slug": "meeting-recap-desk",
+      "name": "Meeting Recap Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Meeting notes to recap with decisions, action items and owners",
+      "summary_zh": "会议笔记收成含决策待办与负责人的纪要",
+      "import": "https://x.ai/bot/pmHKMlkRfVnvDS5MfRTS8",
+      "category": "teams-handoffs",
+      "tags": [
+        "teams",
+        "handoffs",
+        "meetings",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105188299182866623"
     },
     {
       "slug": "melissa-fitness-nutrition-coach",
@@ -37208,6 +37737,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "newsletter-desk",
+      "name": "Newsletter Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Cited newsletter issue with three subject lines and one clear CTA",
+      "summary_zh": "带出处的通讯稿含三条主题行与一个明确行动号召",
+      "import": "https://x.ai/bot/J0CuUCheuaZacyOKXTSVH",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "publishing",
+        "writing",
+        "creator"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105189988979896469"
+    },
+    {
       "slug": "newsletter-writer",
       "name": "Newsletter Writer",
       "author": {
@@ -38366,6 +38918,29 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "onboarding-guide-desk",
+      "name": "Onboarding Guide Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Sourced day-one, week-one and 30/60/90 onboarding from role docs",
+      "summary_zh": "从岗位文档生成首日首周与 30/60/90 入职指南",
+      "import": "https://x.ai/bot/wEugfzFNURno8LQzbdAOH",
+      "category": "teams-handoffs",
+      "tags": [
+        "teams",
+        "handoffs",
+        "ops",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105189988979896469"
     },
     {
       "slug": "onboarding-manager",
@@ -42092,6 +42667,29 @@
       "source": "https://x.com/DoonerDesigns_/status/2104007073939787978"
     },
     {
+      "slug": "pr-review-desk",
+      "name": "PR Review Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Anchored Blocker, Major, Minor and Nit findings in one PR review packet",
+      "summary_zh": "把阻断重大次要与挑剔意见收成一份 PR 审阅包",
+      "import": "https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shipping",
+        "dev",
+        "review"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190171193102619"
+    },
+    {
       "slug": "pr-reviewer",
       "name": "PR Reviewer",
       "author": {
@@ -44357,6 +44955,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "receipt-and-expense-desk",
+      "name": "Receipt & Expense Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Turns receipt photos or pasted text into a categorized expense report",
+      "summary_zh": "把收据照片或粘贴文本整理成分类费用报告",
+      "import": "https://x.ai/bot/n9bmzRDFDXaRxDc5e8G-h",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money",
+        "ops",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190561628250401"
+    },
+    {
       "slug": "receipt-catcher",
       "name": "Receipt Catcher",
       "author": {
@@ -45659,6 +46280,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "resume-tailor-desk",
+      "name": "Resume Tailor Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Maps your resume to one posting as Match, Stretch, or Gap with a tailored draft",
+      "summary_zh": "对照岗位把简历标成匹配拉伸或缺口并出定制稿",
+      "import": "https://x.ai/bot/xhEs67Kz7pQ_SizfIIRTb",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "career",
+        "admin",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105188299182866623"
+    },
+    {
       "slug": "resume-to-offer",
       "name": "Resume to Offer",
       "author": {
@@ -46664,6 +47308,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "runbook-desk",
+      "name": "Runbook Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Step-by-step runbook with a verify check before every risky move",
+      "summary_zh": "逐步操作手册，每个风险步骤前都有校验",
+      "import": "https://x.ai/bot/OELeU0-tnHtXbvRLFFg7b",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shipping",
+        "dev",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190171193102619"
+    },
+    {
       "slug": "running-coach",
       "name": "Running Coach",
       "author": {
@@ -46990,6 +47657,29 @@
       "verified": false,
       "updated": "2026-09-25",
       "shelf": "aka"
+    },
+    {
+      "slug": "sales-call-prep-desk",
+      "name": "Sales Call Prep Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Cited account brief, discovery questions, objections and a next-step ask",
+      "summary_zh": "带出处的客户简报、探询问题、异议处理与下一步请求",
+      "import": "https://x.ai/bot/8QpQcgUVgUpxG5RR4mwnL",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "crm",
+        "leads",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105188299182866623"
     },
     {
       "slug": "sales-orchestrator",
@@ -48844,6 +49534,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "shelter-web-games",
+      "name": "쉘터",
+      "author": {
+        "name": "enterjajayo",
+        "url": "https://x.com/enterjajayo"
+      },
+      "summary": "Builds casual phone-browser web games and sends you a playable link",
+      "summary_zh": "做可在手机浏览器玩的休闲网页游戏并发可玩链接",
+      "import": "https://x.ai/bot/iOxw-QB7QmknIc9bqO26_",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shipping",
+        "dev",
+        "games"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/enterjajayo/status/2105186846871281720"
+    },
+    {
       "slug": "shepherd",
       "name": "Shepherd",
       "author": {
@@ -49732,6 +50445,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "signal-brief-desk",
+      "name": "Signal Brief Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Many sources in, one ranked and cited weekly signal brief out",
+      "summary_zh": "多源信号收成一份排序且带出处的周简报",
+      "import": "https://x.ai/bot/c8Uu87h5R4WREeteSVXQT",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing",
+        "news",
+        "decision-support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105189988979896469"
+    },
+    {
       "slug": "signal-sleeve",
       "name": "Signal Sleeve",
       "author": {
@@ -50544,6 +51280,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "social-post-desk",
+      "name": "Social Post Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "One brief becomes three platform-fit posts with hooks and alt text",
+      "summary_zh": "一份简报变成三条适配平台的帖子含钩子与 alt",
+      "import": "https://x.ai/bot/gx7FJw32Ldu94CNhMELBR",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "publishing",
+        "writing",
+        "creator"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105189988979896469"
+    },
+    {
       "slug": "social-supervisor",
       "name": "Social Supervisor",
       "author": {
@@ -50698,6 +51457,29 @@
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/songwriter",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "sop-writer-desk",
+      "name": "SOP Writer Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Messy notes become a numbered, role-tagged SOP with gaps flagged",
+      "summary_zh": "把凌乱笔记变成编号且标角色的 SOP 并标缺口",
+      "import": "https://x.ai/bot/MqpVtx5cwyfu3ebisTUpv",
+      "category": "teams-handoffs",
+      "tags": [
+        "teams",
+        "handoffs",
+        "ops",
+        "docs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105189988979896469"
     },
     {
       "slug": "sophie",
@@ -52418,6 +53200,29 @@
       "shelf": "studio-door"
     },
     {
+      "slug": "study-plan-desk",
+      "name": "Study Plan Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Weekly study plan checked Fits, Tight, or Over against your real hours",
+      "summary_zh": "按真实可支配时间排周学习计划并标出松紧",
+      "import": "https://x.ai/bot/tCwQfRK3IPbVVlwHL7PVq",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "admin",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190371395342356"
+    },
+    {
       "slug": "stuff-politicians-said",
       "name": "Stuff Politicians Said",
       "author": {
@@ -52786,6 +53591,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "support-reply-desk",
+      "name": "Support Reply Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Turns a ticket and policy into an empathetic on-policy reply and internal note",
+      "summary_zh": "把工单与政策变成合规共情回复和内部备注",
+      "import": "https://x.ai/bot/8g9eQsRNCFNxhZBuKTbY-",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "crm",
+        "support",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105189988979896469"
     },
     {
       "slug": "support-triage-bot",
@@ -56557,6 +57385,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "travel-itinerary-desk",
+      "name": "Travel Itinerary Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Day-by-day travel itinerary with transfer buffers and a packing checklist",
+      "summary_zh": "按日行程含换乘缓冲与打包清单的旅行规划",
+      "import": "https://x.ai/bot/-oVff2knWZBAARtD7s6_k",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "travel",
+        "admin",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105190561628250401"
+    },
+    {
       "slug": "travel-plans",
       "name": "Travel Plans",
       "author": {
@@ -59227,6 +60078,29 @@
       "related": "https://grokbot.dev/marketplace/weekly-p-l-analyst/",
       "source": "https://x.com/ColinMcDermott/status/2098713502043009438",
       "shelf": "raw"
+    },
+    {
+      "slug": "weekly-planning-desk",
+      "name": "Weekly Planning Desk",
+      "author": {
+        "name": "Cypher0x9",
+        "url": "https://x.com/Cypher0x9"
+      },
+      "summary": "Capacity-checked week plan from your task list and fixed commitments",
+      "summary_zh": "按任务与固定安排做容量校验后的一周计划",
+      "import": "https://x.ai/bot/kdSDHdxsR07JlrLb0uEX_",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "productivity",
+        "life"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-09-30",
+      "shelf": "raw",
+      "source": "https://x.com/Cypher0x9/status/2105188299182866623"
     },
     {
       "slug": "weekly-recap",
