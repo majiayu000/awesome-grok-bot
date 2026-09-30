@@ -69,6 +69,18 @@ test("hyphenated chiefs of staff and explicit specialist-team orchestrators stay
   for (const item of f.run()) assert.equal(item.shelf, "studio-door", item.slug);
 });
 
+test("explicit bot-team creation and shipping stays discoverable without promoting team members", (t) => {
+  const studio = entry("music-hit-studio");
+  for (const name of [studio.name, "Song Workshop"]) {
+    const f = fixture(t, [{ ...studio, name }, entry("claude-code-2"), entry("kev-checkpoint")]);
+    const result = f.run();
+    assert.equal(result.find((item) => item.slug === studio.slug).shelf, "studio-door", name);
+    assert.equal(result.find((item) => item.slug === "claude-code-2").shelf, "raw");
+    assert.equal(result.find((item) => item.slug === "kev-checkpoint").shelf, "raw");
+    assert.deepEqual(f.run(), result);
+  }
+});
+
 test("untracked name duplicates still collapse and featured seeds still win", (t) => {
   const featured = structuredClone(catalog.entries.find((item) => item.import.endsWith("/z7xup0Ax1SBl2K84PELqF")));
   const duplicate = { ...entry("pet-ad-studio"), name: `  ${featured.name.toUpperCase()}  ` };
