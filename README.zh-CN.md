@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 3033 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 3036 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 [Grok Bot](https://docs.x.ai/grok-bot/overview) 是共用云电脑上的常驻 AI 队友。本双语目录收录公开 **活分享**（不是提示词合集）：找到链接、在 x.ai 预览，再 Add。
 
@@ -103,16 +103,16 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | 分类 | 收录数 |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 395 |
-| [Inbox & calendar](#inbox--calendar) | 118 |
-| [Research & briefings](#research--briefings) | 388 |
+| [Inbox & calendar](#inbox--calendar) | 119 |
+| [Research & briefings](#research--briefings) | 389 |
 | [Customer & sales](#customer--sales) | 255 |
 | [Finance & ops](#finance--ops) | 379 |
-| [Content & publishing](#content--publishing) | 362 |
+| [Content & publishing](#content--publishing) | 363 |
 | [Personal admin](#personal-admin) | 765 |
 | [Teams & handoffs](#teams--handoffs) | 371 |
-| **合计** | **3033** |
+| **合计** | **3036** |
 
-2026 年 10 月 1 日检查时，3033 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 3033 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 1 日检查时，3036 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 3036 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -669,6 +669,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Commute Comrade](https://x.ai/bot/eyMdVOKBwSBwp63MX2fxy) - 头晚与早晨各一份通勤简报，出门前把路摸清。 [trevin](https://x.com/trevin).
 - [Content](https://x.ai/bot/iAwkENgt3iIxp0OR7_QvF) - 作品集与博客内容席，定策略与日历，草稿审批后再发，绝不自动连发. [stevenvillarino](https://x.com/stevenvillarino).
 - [Daili](https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X) - 整合日历天气重要邮件和连接器的晨报，并按你指定的日期生成每周展望. [Paul L. McNeely](https://x.com/McNeely).
+- [Daily Brief by George](https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J) - 两分钟晨间摘要，含会议准备与冲突、待处理邮件和你选定主题的新闻. [gzikry](https://x.com/gzikry).
 - [Deadline Desk](https://x.ai/bot/0lzORVii9A5b6W4ly6pEJ) - 把埋在收件箱里的截止日期提前揪出来. [Alex](https://x.com/AlexFCHF).
 - [Desk Light Signal](https://x.ai/bot/p2aM_rLyjsf79hVMv4tFX) - 用智能台灯显示未读邮件 Teams 与缺失 Harvest 工时. [dwbanks](https://x.com/dwbanks).
 - [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) - 盯着 Gmail，只把真正需要你的邮件拎出来。 [William](https://x.com/Vixlio).
@@ -922,6 +923,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Hypatia](https://x.ai/bot/BWqyJWdEtiJVpz2OJBdBQ) - 灵感图书管理员，归档来源. [davidzhouyu](https://x.com/davidzhouyu).
 - [Hyperlocal News Daily](https://x.ai/bot/rj3rWwMe_9p0ajjFK8uHY) - 超本地每日新闻，收成一张报纸式简报. Luke.
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) - 每小时从你这一周里挖一个值得追的创业点子。 [onerinas](https://x.com/onerinas).
+- [Imposter Watch](https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh) - 盯着公开 X 上冒充你或品牌的账号，只汇报真正可疑的号且不擅自发帖举报. [RetiredYoungNW](https://x.com/RetiredYoungNW).
 - [Inbox Gate](https://x.ai/bot/7oq-3YkLd8kQgN7gsFd1o) - 邮件分拣并起草回复，先只读，你点头才发送或删除. [BramForge](https://x.com/BramForge).
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) - 找出你一直当事实用的那些假设。 [liam_fallen](https://x.com/liam_fallen).
 - [Iris](https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR) - 工作日邮件与日历指挥中心，锋利早间摘要、冲突识别与待决清单. [spmtoscana](https://x.com/spmtoscana).
@@ -1972,6 +1974,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Mr. Laser](https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY) - 一个人激光雕刻店的项目负责人。 [RichSilver](https://x.com/RichSilver).
 - [Mrs. Patmore](https://x.ai/bot/tFa9bbghjyyqiU5Je3rhm) - 英式厨房口吻的家庭晚餐规划，滚动菜单、购物单与未提交购物车. [SideShopAi](https://x.com/SideShopAi).
 - [Multi-Model Transcriber](https://x.ai/bot/iQg2eJzD_yun2PDgWvfnz) - 用本机 faster-whisper 多模型把音视频转成文稿与摘要. [jeffasu](https://x.com/jeffasu).
+- [Muse](https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W) - 网页端透明代理 Meta Muse，用其连接器做研究与 Facebook、Instagram、Threads. [wiiiimm](https://x.com/wiiiimm).
 - [Music Director](https://x.ai/bot/uIFa_ha7ncN3AscQ0BBNK) - 把喜欢的曲目做成流派歌单，智能去重找新歌，还能按提示或简报做活动歌单. [Niccolo](https://x.com/niccolomgnll).
 - [Music Hit Studio](https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG) - 用 Grok Bot 团队创作并发布原创歌曲，把专家提示交给音乐模型并收尾发行. [DOSHostNet](https://x.com/DOSHostNet).
 - [Music teacher assistant](https://x.ai/bot/WvDadBM5OxNkQLnt_9qNI) - 给音乐老师，从 Google 日历起草月度课时收据，可选同步 Tazman，并把银行转账截图变成记录. [EranHertz](https://x.com/EranHertz).

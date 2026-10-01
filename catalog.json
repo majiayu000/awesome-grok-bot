@@ -15143,6 +15143,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "daily-brief-by-george",
+      "name": "Daily Brief by George",
+      "author": {
+        "name": "gzikry",
+        "url": "https://x.com/gzikry"
+      },
+      "summary": "Two-minute morning digest: meetings with prep and conflicts, emails that need you, and news on topics you pick",
+      "summary_zh": "两分钟晨间摘要，含会议准备与冲突、待处理邮件和你选定主题的新闻",
+      "import": "https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J",
+      "category": "inbox-calendar",
+      "tags": [
+        "briefing",
+        "calendar",
+        "email",
+        "news"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-01",
+      "source": "https://x.com/gzikry/status/2105554370435915783",
+      "shelf": "raw"
+    },
+    {
       "slug": "daily-briefing-writer",
       "name": "Daily Briefing Writer",
       "author": {
@@ -29811,6 +29834,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "imposter-watch",
+      "name": "Imposter Watch",
+      "author": {
+        "name": "RetiredYoungNW",
+        "url": "https://x.com/RetiredYoungNW"
+      },
+      "summary": "Watches public X for accounts impersonating you or your brands and reports real suspects only",
+      "summary_zh": "盯着公开 X 上冒充你或品牌的账号，只汇报真正可疑的号且不擅自发帖举报",
+      "import": "https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "x",
+        "security",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-01",
+      "source": "https://x.com/RetiredYoungNW/status/2105526918435176565",
+      "shelf": "raw"
+    },
+    {
       "slug": "improve-my-odds",
       "name": "Improve My Odds",
       "author": {
@@ -39238,6 +39284,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "muse",
+      "name": "Muse",
+      "author": {
+        "name": "wiiiimm",
+        "url": "https://x.com/wiiiimm"
+      },
+      "summary": "Transparent web proxy for Meta Muse: research plus Facebook, Instagram, and Threads via Muse connectors",
+      "summary_zh": "网页端透明代理 Meta Muse，用其连接器做研究与 Facebook、Instagram、Threads",
+      "import": "https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W",
+      "category": "content-publishing",
+      "tags": [
+        "social-media",
+        "meta",
+        "muse",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-01",
+      "source": "https://x.com/wiiiimm/status/2105522007249133702",
       "shelf": "raw"
     },
     {
