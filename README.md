@@ -21,6 +21,7 @@
   - [Browse by job](#browse-by-job)
   - [Studio doors](docs/studio-doors.md)
   - [Searchable site](https://majiayu000.github.io/awesome-grok-bot/)
+  - [How to add a share and try a first task](https://majiayu000.github.io/awesome-grok-bot/#getting-started)
 - [SEO notes](docs/seo.md)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)

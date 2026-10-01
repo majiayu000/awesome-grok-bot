@@ -18,6 +18,7 @@
   <meta name="twitter:title" content="Awesome Grok Bot">
   <meta name="twitter:description" content="Searchable catalog of live x.ai/bot shares for Grok Bot.">
   <meta name="twitter:image" content="https://majiayu000.github.io/awesome-grok-bot/screenshots/social-preview.png">
+  <script>document.documentElement.classList.add("js");</script>
   <style>
     :root {
       --bg: #0a0a0a;
@@ -61,6 +62,7 @@
       margin: 0.75rem 0 1rem;
     }
     .controls[hidden] { display: none; }
+    .js .controls[hidden] { display: grid; visibility: hidden; }
     .controls {
       display: grid; gap: 0.65rem;
       grid-template-columns: 1fr;
@@ -162,16 +164,228 @@
       </div>
     </div>
 
-    <p class="stats" id="stats">Browse the shares below. Enable JavaScript to search and filter.</p>
-
-    <section class="block" id="featuredBlock" hidden>
-      <h2><span id="featuredTitle">Featured</span> <span class="tag shelf-feat" id="featuredBadge">featured</span></h2>
-      <div class="grid" id="featuredGrid"></div>
+    <section class="block" id="getting-started" aria-labelledby="start-title">
+      <h2 id="start-title">How to add a shared Grok Bot / 如何导入分享</h2>
+      <ol>
+        <li>Choose a job below, open a <code>x.ai/bot/…</code> share, and read its description, skills and routines. / 按任务找分享，先阅读简介、技能与例行任务。</li>
+        <li>Open it with the Grok Bot app and choose <strong>Add</strong>. This creates your own copy; it does not transfer the author's computer, logins or chat history. / 在应用中点击 Add，获得自己的副本，不会继承作者的电脑、登录或聊天记录。</li>
+        <li>Inspect the added bot, reconnect only the services needed for your task, and begin with a task that only reads. / 检查导入结果，只连接本次需要的服务，先做只读任务。</li>
+      </ol>
+      <p><strong>Try this first:</strong> “Read the public page at the URL I provide. Summarize three facts with their source links. Do not sign in, submit forms, send messages or change files.” / 首次任务可以只要求阅读指定公开网页，列出三条事实与来源，不登录、不提交、不发消息、不改文件。</p>
+      <details><summary>Why can't I add a share? / 为什么无法导入？</summary><p>Official sharing supports Public and Team-only visibility. A Team-only template is limited to teammates, and recipients need the app to Add it. Check visibility and app access before assuming a link is broken. / 官方支持公开与团队内分享；团队链接只对同事开放，导入也需要应用。先检查可见范围和应用访问权限。</p></details>
+      <details><summary>Are listed bots tested? / 收录代表验证过吗？</summary><p>Reachability is checked when a share is collected; behavior verification is a separate catalog flag. A shelf is editorial navigation. Check the current entry and the <a href="https://github.com/majiayu000/awesome-grok-bot/blob/main/docs/vetting.md">vetting checklist</a>, then inspect the skills after importing. / 链接可达、编辑分层与行为验证是三件事；导入后仍要检查技能。</p></details>
+      <details><summary>One bot, a pack, or an official starter? / 单个 Bot、组合包还是官方角色？</summary><p>A share adds one bot. <a href="https://github.com/majiayu000/awesome-grok-bot/tree/main/packs">Packs</a> are multi-bot recipes. <a href="https://github.com/majiayu000/awesome-grok-bot/blob/main/docs/official-starters.md">Official starters</a> help you create a new bot; they are not import links. / 分享导入单个 Bot，组合包是协作配方，官方角色是新建起点。</p></details>
+      <p>Sharing behavior: <a href="https://docs.x.ai/grok-bot/bots">official Bots documentation</a>. This community catalog is not affiliated with xAI. / 分享行为以官方文档为准；本目录由社区维护。</p>
     </section>
 
-    <section class="block" id="doorsBlock" hidden>
+    <p class="stats" id="stats">Browse the shares below. Enable JavaScript to search and filter.</p>
+
+    <section class="block" id="featuredBlock">
+      <h2><span id="featuredTitle">Featured</span> <span class="tag shelf-feat" id="featuredBadge">featured</span></h2>
+      <div class="grid" id="featuredGrid"><!-- generated:featured-start -->
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/ES3LVns98INeXAoYwef_f" target="_blank" rel="noopener noreferrer">AI 视频专家</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Turns one photograph into a short, moody film clip</p>
+  <div class="row"><span class="tag">Content &amp; publishing</span><span class="tag verified-no">unverified</span><span class="tag">video</span><span class="tag">creator</span><span class="tag">content</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by KinGao476942</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/ES3LVns98INeXAoYwef_f" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/gCWYD009F66A3XDEYdZgf" target="_blank" rel="noopener noreferrer">Bounty Hunter</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Digs through your email and bills for refunds and credits you never chased</p>
+  <div class="row"><span class="tag">Finance &amp; ops</span><span class="tag verified-no">unverified</span><span class="tag">refunds</span><span class="tag">finance</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by Liam</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/gCWYD009F66A3XDEYdZgf" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/z7xup0Ax1SBl2K84PELqF" target="_blank" rel="noopener noreferrer">下载专家</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Turns long videos and podcasts into searchable Chinese transcripts</p>
+  <div class="row"><span class="tag">Research &amp; briefings</span><span class="tag verified-no">unverified</span><span class="tag">transcript</span><span class="tag">research</span><span class="tag">chinese</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by KinGao476942</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/z7xup0Ax1SBl2K84PELqF" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM" target="_blank" rel="noopener noreferrer">Flight Deal Assistant</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Finds and compares flight deals by trade-offs, not just cheapest.</p>
+  <div class="row"><span class="tag">Personal admin</span><span class="tag verified-no">unverified</span><span class="tag">life</span><span class="tag">personal</span><span class="tag">admin</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by fabivelosa</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/4Kert6xnfaArPgZmyJi5M" target="_blank" rel="noopener noreferrer">Gmail Bot</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Weekday morning unread digests, drafts in your voice, triage labels/trash</p>
+  <div class="row"><span class="tag">Teams &amp; handoffs</span><span class="tag verified-no">unverified</span><span class="tag">assistants</span><span class="tag">team</span><span class="tag">ops</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by aseemwangoo</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/4Kert6xnfaArPgZmyJi5M" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I" target="_blank" rel="noopener noreferrer">Home Hunter</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Locks city, budget, beds and commute on first chat, then quietly scans listings daily until you pick a place</p>
+  <div class="row"><span class="tag">Personal admin</span><span class="tag verified-no">unverified</span><span class="tag">housing</span><span class="tag">search</span><span class="tag">listings</span><span class="tag">personal</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by Uzair</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ" target="_blank" rel="noopener noreferrer">Human Copywriter</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Rewrites AI-sounding drafts into copy that reads like a person</p>
+  <div class="row"><span class="tag">Content &amp; publishing</span><span class="tag verified-no">unverified</span><span class="tag">copy</span><span class="tag">editing</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by Massimo</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7" target="_blank" rel="noopener noreferrer">Join a Startup Bot</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Daily handful of early-stage jobs the big boards miss</p>
+  <div class="row"><span class="tag">Personal admin</span><span class="tag verified-no">unverified</span><span class="tag">jobs</span><span class="tag">startup</span><span class="tag">recruiting</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by deysourav7091</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK" target="_blank" rel="noopener noreferrer">Nourishment</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Healthy-eating coach that reads fridge and pantry photos, builds recipes from what you have, and shops to a budget</p>
+  <div class="row"><span class="tag">Personal admin</span><span class="tag verified-no">unverified</span><span class="tag">food</span><span class="tag">recipes</span><span class="tag">grocery</span><span class="tag">health</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by SuddenlyJon</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_" target="_blank" rel="noopener noreferrer">Online Identity Bot</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Daily search-engine check for what is newly public about you</p>
+  <div class="row"><span class="tag">Personal admin</span><span class="tag verified-no">unverified</span><span class="tag">privacy</span><span class="tag">monitoring</span><span class="tag">personal</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by gkamstra</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr" target="_blank" rel="noopener noreferrer">产品推广交稿员</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Hands you ready-to-post promo copy for your product on a fixed rhythm</p>
+  <div class="row"><span class="tag">Content &amp; publishing</span><span class="tag verified-no">unverified</span><span class="tag">promo</span><span class="tag">copy</span><span class="tag">social</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by zheng_yunh2429</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t" target="_blank" rel="noopener noreferrer">Prospect Drafts</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Finds fit prospects by geography, industry, and offer, then drafts first-touch Gmail notes in your voice</p>
+  <div class="row"><span class="tag">Customer &amp; sales</span><span class="tag verified-no">unverified</span><span class="tag">sales</span><span class="tag">email</span><span class="tag">prospecting</span><span class="tag">outreach</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by Sam</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs" target="_blank" rel="noopener noreferrer">Raven</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">A sharp nutrition coach that logs meals from text or a photo</p>
+  <div class="row"><span class="tag">Personal admin</span><span class="tag verified-no">unverified</span><span class="tag">nutrition</span><span class="tag">health</span><span class="tag">personal</span><span class="tag">logging</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by Josiah</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0" target="_blank" rel="noopener noreferrer">SubCut</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Audits your email for silent subscription drain and names what to cut</p>
+  <div class="row"><span class="tag">Finance &amp; ops</span><span class="tag verified-no">unverified</span><span class="tag">personal</span><span class="tag">saving-money</span><span class="tag">email</span><span class="tag">finance</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by Finiti</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa" target="_blank" rel="noopener noreferrer">Token Efficiency Optimizer</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Stops wasteful runs when more burn will not change the reset, proposes cuts, and holds spend until you exact-yes an override</p>
+  <div class="row"><span class="tag">Finance &amp; ops</span><span class="tag verified-no">unverified</span><span class="tag">tokens</span><span class="tag">cost</span><span class="tag">ops</span><span class="tag">efficiency</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by Eric</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/WW-UbmTKXn79q0yXapvJE" target="_blank" rel="noopener noreferrer">记账管家</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Private ledger fed by text, receipt photos, or voice notes, with optional Feishu sync</p>
+  <div class="row"><span class="tag">Finance &amp; ops</span><span class="tag verified-no">unverified</span><span class="tag">ledger</span><span class="tag">receipts</span><span class="tag">voice</span><span class="tag">feishu</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by 铁柱AGI</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/WW-UbmTKXn79q0yXapvJE" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w" target="_blank" rel="noopener noreferrer">薅羊毛 (Wool Radar)</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Watches for deals on things you actually buy, and stays quiet otherwise</p>
+  <div class="row"><span class="tag">Finance &amp; ops</span><span class="tag verified-no">unverified</span><span class="tag">savings</span><span class="tag">deals</span><span class="tag">shopping</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by BenXlab</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/W0LrVwNwsRHhFY4PG7586" target="_blank" rel="noopener noreferrer">X Algo</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">Tells you whether to post now, quote something, or sit tight</p>
+  <div class="row"><span class="tag">Content &amp; publishing</span><span class="tag verified-no">unverified</span><span class="tag">social-media</span><span class="tag">analytics</span><span class="tag">growth</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by UziObi</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/W0LrVwNwsRHhFY4PG7586" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/ScOhH1qaoq4XdoYhisagg" target="_blank" rel="noopener noreferrer">推特运营方法论</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">A daily X posting system for ideas, drafts, timing, and review</p>
+  <div class="row"><span class="tag">Content &amp; publishing</span><span class="tag verified-no">unverified</span><span class="tag">x</span><span class="tag">growth</span><span class="tag">drafts</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by KinGao476942</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/ScOhH1qaoq4XdoYhisagg" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card featured">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/fePZGiWiTZP9n4BoKIlMY" target="_blank" rel="noopener noreferrer">X Ops Expert</a></h3><span class="tag shelf-feat">featured</span></div>
+  <p class="summary">X growth ops for builders with daily review, topic bank, and gated drafts</p>
+  <div class="row"><span class="tag">Content &amp; publishing</span><span class="tag verified-no">unverified</span><span class="tag">x</span><span class="tag">growth</span><span class="tag">ops</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by mlangXie</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/fePZGiWiTZP9n4BoKIlMY" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<!-- generated:featured-end --></div>
+    </section>
+
+    <section class="block" id="doorsBlock">
       <h2><span id="doorsTitle">Studio doors</span> <span class="tag shelf-door" id="doorsBadge">studio-door</span></h2>
-      <div class="grid" id="doorsGrid"></div>
+      <div class="grid" id="doorsGrid"><!-- generated:doors-start -->
+<article class="card studio-door">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL" target="_blank" rel="noopener noreferrer">Agency Chief of Staff</a></h3><span class="tag shelf-door">studio-door</span></div>
+  <p class="summary">Chief of staff for a founder-led AI agency: triages work, runs standing ops watches, and routes every deliverable through one chat face</p>
+  <div class="row"><span class="tag">Research &amp; briefings</span><span class="tag verified-no">unverified</span><span class="tag">ops</span><span class="tag">research</span><span class="tag">briefing</span><span class="tag">grok-bot</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by dandayable</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card studio-door">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/XMYbnGwxPJUePeRWYOduO" target="_blank" rel="noopener noreferrer">Agent Manage Bot</a></h3><span class="tag shelf-door">studio-door</span></div>
+  <p class="summary">Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work</p>
+  <div class="row"><span class="tag">Teams &amp; handoffs</span><span class="tag verified-no">unverified</span><span class="tag">agents</span><span class="tag">orchestration</span><span class="tag">cli</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by raincoatrun</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/XMYbnGwxPJUePeRWYOduO" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card studio-door">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h" target="_blank" rel="noopener noreferrer">AgentStack</a></h3><span class="tag shelf-door">studio-door</span></div>
+  <p class="summary">Platform agent for AgentStack.tech via MCP for hosting, DNA, App Studio, and apps you ship</p>
+  <div class="row"><span class="tag">Coding &amp; shipping</span><span class="tag verified-no">unverified</span><span class="tag">coding</span><span class="tag">platform</span><span class="tag">mcp</span><span class="tag">shipping</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by AgentStack</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card studio-door">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/BEpbydvAIUEuF5Ceh4dZE" target="_blank" rel="noopener noreferrer">AI Chief of Staff</a></h3><span class="tag shelf-door">studio-door</span></div>
+  <p class="summary">A general-purpose AI chief of staff that turns priorities into plans, delegates focused work to specialist roles, consolidates updates, and keeps...</p>
+  <div class="row"><span class="tag">Personal admin</span><span class="tag verified-no">unverified</span><span class="tag">personal</span><span class="tag">admin</span><span class="tag">life</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by FuelFoundry</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/BEpbydvAIUEuF5Ceh4dZE" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card studio-door">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw" target="_blank" rel="noopener noreferrer">AI VP Bot</a></h3><span class="tag shelf-door">studio-door</span></div>
+  <p class="summary">A second-in-command that keeps multi-platform AI work on time and budget</p>
+  <div class="row"><span class="tag">Teams &amp; handoffs</span><span class="tag verified-no">unverified</span><span class="tag">business</span><span class="tag">ops</span><span class="tag">agent-team</span><span class="tag">meta-bot</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by JimStansbury5</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card studio-door">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/moKscJ7PToJw_PVQWvkf_" target="_blank" rel="noopener noreferrer">Alfred</a></h3><span class="tag shelf-door">studio-door</span></div>
+  <p class="summary">Cheeky British chief of staff that watches email and Drive, builds daily briefings, and coordinates teammate bots</p>
+  <div class="row"><span class="tag">Teams &amp; handoffs</span><span class="tag verified-no">unverified</span><span class="tag">chief-of-staff</span><span class="tag">email</span><span class="tag">briefing</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by mmmllcadv3</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/moKscJ7PToJw_PVQWvkf_" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card studio-door">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/xymTjYoDUv-smKLhsiIEB" target="_blank" rel="noopener noreferrer">Alice — chief of staff</a></h3><span class="tag shelf-door">studio-door</span></div>
+  <p class="summary">Chief of staff for a small business owner. Triages inbox and calendar, keeps an open-work board, routes specialist lanes, and only sends or changes CRM</p>
+  <div class="row"><span class="tag">Teams &amp; handoffs</span><span class="tag verified-no">unverified</span><span class="tag">sales</span><span class="tag">email</span><span class="tag">calendar</span><span class="tag">orchestration</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by BobAllard456459</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/xymTjYoDUv-smKLhsiIEB" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<article class="card studio-door">
+  <div class="card-top"><h3 class="name"><a href="https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk" target="_blank" rel="noopener noreferrer">AMV Desk</a></h3><span class="tag shelf-door">studio-door</span></div>
+  <p class="summary">Hybrid AMV studio desk from paper to review link</p>
+  <div class="row"><span class="tag">Content &amp; publishing</span><span class="tag verified-no">unverified</span><span class="tag">creator</span><span class="tag">video</span><span class="tag">youtube</span></div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by littletechbird</div>
+  <div class="actions"><a class="btn" href="https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>
+<!-- generated:doors-end --></div>
     </section>
 
     <section class="block" id="allBlock">
