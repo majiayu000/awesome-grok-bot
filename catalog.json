@@ -2755,6 +2755,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "animated-story-maker",
+      "name": "Animated Story Maker",
+      "author": {
+        "name": "karatademada",
+        "url": "https://x.com/karatademada"
+      },
+      "summary": "Turns a story idea, theme, or character photos into a short 3D animated story with Grok Imagine prompts per episode",
+      "summary_zh": "把故事点子、主题或角色照片做成短 3D 动画故事，并给出每集可粘贴的 Grok Imagine 提示",
+      "import": "https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O",
+      "category": "content-publishing",
+      "tags": [
+        "story",
+        "animation",
+        "imagine",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-01",
+      "shelf": "raw",
+      "source": "https://x.com/karatademada/status/2105599152528695601"
+    },
+    {
       "slug": "announcr-voice",
       "name": "Announcr Voice",
       "author": {
@@ -6844,6 +6867,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "business-info-finder",
+      "name": "Business Info Finder",
+      "author": {
+        "name": "Serenejaysew",
+        "url": "https://x.com/Serenejaysew"
+      },
+      "summary": "Drop a business or person name and get a contact sheet: company tree, phones, emails, who to call, socials, hours",
+      "summary_zh": "丢入公司或人名，整理可扫读的联系单：组织树、电话邮箱、对接人、社交与营业时间",
+      "import": "https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN",
+      "category": "customer-sales",
+      "tags": [
+        "research",
+        "contacts",
+        "sales",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-01",
+      "shelf": "raw",
+      "source": "https://x.com/Serenejaysew/status/2105592832442413069"
     },
     {
       "slug": "business-loop-pm",
@@ -23302,6 +23348,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "fretboard-sheet-builder",
+      "name": "Fretboard Sheet Builder",
+      "author": {
+        "name": "MRellew",
+        "url": "https://x.com/MRellew"
+      },
+      "summary": "Builds Excel fretboard sheets for guitarists: scale/triad highlighters, Nashville numbers, and pentatonic boxes by key",
+      "summary_zh": "给吉他手生成 Excel 指板表：按调高亮音阶与三和弦、Nashville 数字与五声音阶框",
+      "import": "https://x.ai/bot/Ar32y6x01Vbmx2EkIAj5N",
+      "category": "personal-admin",
+      "tags": [
+        "guitar",
+        "music",
+        "spreadsheet",
+        "tools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-01",
+      "shelf": "raw",
+      "source": "https://x.com/MRellew/status/2105621005968282068"
+    },
+    {
       "slug": "freya",
       "name": "Freya",
       "author": {
@@ -24366,6 +24435,29 @@
       "verified": false,
       "updated": "2026-09-29",
       "shelf": "raw"
+    },
+    {
+      "slug": "github-trending-fit-scout",
+      "name": "GitHub Trending Scout",
+      "author": {
+        "name": "Hussein_M_Ragab",
+        "url": "https://x.com/Hussein_M_Ragab"
+      },
+      "summary": "Reads GitHub trending daily and digests only the few repos that fit your work, with why each one matters",
+      "summary_zh": "每天读 GitHub 趋势页，只挑真正贴合你工作的少数仓库做成简报并说明理由",
+      "import": "https://x.ai/bot/EklFc0zYAqzkxcALynMj2",
+      "category": "research-briefings",
+      "tags": [
+        "github",
+        "trending",
+        "digest",
+        "developer"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-01",
+      "shelf": "raw",
+      "source": "https://x.com/Hussein_M_Ragab/status/2105590495825322296"
     },
     {
       "slug": "github-trending-scout",
@@ -54229,6 +54321,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "raw"
+    },
+    {
+      "slug": "snag",
+      "name": "Snag",
+      "author": {
+        "name": "OGeniigma",
+        "url": "https://x.com/OGeniigma"
+      },
+      "summary": "Watches official tech drops and pings you with the buy link the moment a listing goes live",
+      "summary_zh": "盯官方科技发售，一上架就推给你购买链接",
+      "import": "https://x.ai/bot/C9Iy4Zc4v4zldN1dImXtp",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "drops",
+        "alerts",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-01",
+      "shelf": "raw",
+      "source": "https://x.com/OGeniigma/status/2105612658229547239"
     },
     {
       "slug": "sniffbot",
