@@ -63,11 +63,26 @@ const cards = entries.map((entry) => `<article class="card">
   <div class="row"><span class="tag">${escapeHtml(entry.category)}</span><span class="tag">${entry.verified ? "verified" : "unverified"}</span></div>
   <div class="actions"><a class="btn" href="${escapeHtml(entry.import)}" target="_blank" rel="noopener noreferrer">Preview / Add</a></div>
 </article>`).join("\n");
+// Initial highlights occupy the same space before the asynchronous index arrives.
+const categoriesEn = { "coding-shipping": "Coding & shipping", "inbox-calendar": "Inbox & calendar", "research-briefings": "Research & briefings", "customer-sales": "Customer & sales", "finance-ops": "Finance & ops", "content-publishing": "Content & publishing", "personal-admin": "Personal admin", "teams-handoffs": "Teams & handoffs" };
+const highlightCard = (entry) => `<article class="card ${entry.shelf}">
+  <div class="card-top"><h3 class="name"><a href="${escapeHtml(entry.import)}" target="_blank" rel="noopener noreferrer">${escapeHtml(entry.name)}</a></h3><span class="tag ${entry.shelf === "featured" ? "shelf-feat" : "shelf-door"}">${entry.shelf}</span></div>
+  <p class="summary">${escapeHtml(entry.summary)}</p>
+  <div class="row"><span class="tag">${escapeHtml(categoriesEn[entry.category] || entry.category)}</span><span class="tag ${entry.verified ? "verified-yes" : "verified-no"}">${entry.verified ? "verified" : "unverified"}</span>${entry.tags.slice(0, 4).map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>
+  <div class="row" style="color:var(--muted);font-size:0.78rem">by ${escapeHtml(entry.author || "—")}</div>
+  <div class="actions"><a class="btn" href="${escapeHtml(entry.import)}" target="_blank" rel="noopener noreferrer">Open share</a><a class="btn ghost" href="https://github.com/majiayu000/awesome-grok-bot" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+</article>`;
+const featured = entries.filter(entry => entry.shelf === "featured");
+const doors = entries.filter(entry => entry.shelf === "studio-door").slice(0, 8);
 const pagePath = join(root, "docs", "index.html");
-const page = readFileSync(pagePath, "utf8").replace(
+let page = readFileSync(pagePath, "utf8").replace(
   /<!-- generated:catalog-start -->[\s\S]*?<!-- generated:catalog-end -->/,
   `<!-- generated:catalog-start -->\n${cards}\n<!-- generated:catalog-end -->`,
 ).replace(/(<strong id="count">)[^<]*(<\/strong>)/, `$1${entries.length}$2`);
+for (const [region, section, list] of [["featured", "featuredBlock", featured], ["doors", "doorsBlock", doors]]) {
+  page = page.replace(new RegExp(`<!-- generated:${region}-start -->[\\s\\S]*?<!-- generated:${region}-end -->`), `<!-- generated:${region}-start -->\n${list.map(highlightCard).join("\n")}\n<!-- generated:${region}-end -->`);
+  page = page.replace(new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`), `$1${list.length ? "" : " hidden"}$2`);
+}
 writeFileSync(pagePath, page);
 writeFileSync(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

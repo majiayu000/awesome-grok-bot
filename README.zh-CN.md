@@ -21,6 +21,7 @@
   - [按工作类型找](#按工作类型找)
   - [工作室门](docs/studio-doors.md)
   - [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/)
+  - [如何导入分享与运行首次任务](https://majiayu000.github.io/awesome-grok-bot/#getting-started)
 - [SEO 备忘](docs/seo.md)
 - [真人案例](#真人案例)
   - [编制](#编制)
