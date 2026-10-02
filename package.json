@@ -4,7 +4,7 @@
   "scripts": {
     "lint": "node scripts/lint.mjs",
     "build:pages": "node scripts/build-pages-index.mjs",
-    "test": "node --test scripts/apply-shelf.test.mjs && node scripts/lint.mjs"
+    "test": "node --test scripts/*.test.mjs && node scripts/lint.mjs"
   },
   "type": "module"
 }

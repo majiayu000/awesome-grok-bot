@@ -15,6 +15,7 @@ function fixture(t, entries, templates = [], pack = "") {
   t.after(() => rmSync(dir, { recursive: true, force: true }));
   for (const name of ["scripts", "templates", "packs", "docs"]) mkdirSync(join(dir, name));
   copyFileSync(join(root, "scripts", "apply-shelf.mjs"), join(dir, "scripts", "apply-shelf.mjs"));
+  copyFileSync(join(root, "scripts", "summary-markdown.mjs"), join(dir, "scripts", "summary-markdown.mjs"));
   writeFileSync(join(dir, "catalog.json"), JSON.stringify({ entries }));
   for (const item of templates) {
     mkdirSync(join(dir, "templates", item.slug));
