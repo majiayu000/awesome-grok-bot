@@ -2,15 +2,18 @@
 /**
  * Re-runnable shelf stratification for catalog.json.
  * Defaults raw, then studio-door heuristics, optional solid, featured seed, aka for name dupes.
- * Featured always wins. Syncs templates entry.json when present.
+ * Featured always wins. Template and pack entries are never demoted by name.
+ * Syncs templates entry.json when present.
  */
-import { readdirSync, readFileSync, writeFileSync, statSync, unlinkSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync, writeFileSync, statSync, unlinkSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { escapeMarkdownSummary } from "./summary-markdown.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const catalogPath = join(root, "catalog.json");
+const templatesDir = join(root, "templates");
+const packsDir = join(root, "packs");
 
 /** Seed order for featured (import URL path ids). Featured wins over other auto marks. */
 const FEATURED_IMPORT_IDS = [
@@ -37,7 +40,7 @@ const FEATURED_IMPORT_IDS = [
 ];
 
 const STUDIO_DOOR_RE =
-  /chief\s*of\s*staff|command\b|ground\s*control|\bstudio\b|orchestrat|installer|crew\s+of\s+bots|mesa\s+de\s+entrada|ontology\s+stack|switchboard|bot\s*ops|bot\s*father|front\s*desk|intake\s*desk|dispatcher|mission\s*control/i;
+  /chief[\s-]*of[\s-]*staff|(?:runs|routes|coordinates)\s+(?:a\s+)?specialist\s+(?:bot\s+)?team|\bcreates\s+and\s+ships\b[^.\n]*\bwith\s+a\s+grok\s+bot\s+team\b|\bdashboard\b[^.\n]*\bgrok\s+bot\s+fleet\b|ground\s*control|\bstudio\s+door\b|orchestrat|installer|crew\s+of\s+bots|mesa\s+de\s+entrada|ontology\s+stack|switchboard|bot\s*ops|bot\s*father|front\s*desk|intake\s*desk|dispatcher/i;
 
 const SHELF_RANK = {
   featured: 0,
@@ -70,6 +73,17 @@ if (!Array.isArray(catalog.entries)) {
   process.exit(1);
 }
 
+const templateSlugs = new Set(
+  existsSync(templatesDir)
+    ? readdirSync(templatesDir).filter((name) => statSync(join(templatesDir, name)).isDirectory())
+    : []
+);
+const packImports = new Set(
+  (existsSync(packsDir) ? readdirSync(packsDir) : [])
+    .filter((name) => name.endsWith(".md"))
+    .flatMap((name) => readFileSync(join(packsDir, name), "utf8").match(/https:\/\/x\.ai\/bot\/[A-Za-z0-9_-]+/g) || [])
+);
+
 const featuredSet = new Set(FEATURED_IMPORT_IDS);
 const missingFeatured = FEATURED_IMPORT_IDS.filter(
   (id) => !catalog.entries.some((e) => importId(e.import) === id)
@@ -96,7 +110,7 @@ for (const entry of catalog.entries) {
   if (featuredSet.has(importId(entry.import))) entry.shelf = "featured";
 }
 
-// 5) aka for duplicate names; keep one primary
+// 5) aka for duplicate names; tracked templates and pack imports keep their own shelf
 const byName = new Map();
 for (const entry of catalog.entries) {
   const key = nameKey(entry.name);
@@ -114,6 +128,7 @@ for (const group of byName.values()) {
     return String(a.slug).localeCompare(String(b.slug));
   });
   for (let i = 1; i < group.length; i++) {
+    if (templateSlugs.has(group[i].slug) || packImports.has(group[i].import)) continue;
     group[i].shelf = "aka";
   }
 }
@@ -121,7 +136,6 @@ for (const group of byName.values()) {
 writeFileSync(catalogPath, JSON.stringify(catalog, null, 2) + "\n");
 
 // Sync templates entry.json (deep-equal with catalog)
-const templatesDir = join(root, "templates");
 let synced = 0;
 try {
   for (const name of readdirSync(templatesDir)) {
