@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01",
+  "generated": "2026-10-02",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -1603,6 +1603,29 @@
       "verified": false,
       "updated": "2026-09-27",
       "shelf": "raw"
+    },
+    {
+      "slug": "ai-digest-educator",
+      "name": "AI Digest Educator",
+      "author": {
+        "name": "FELIXCATanzaro",
+        "url": "https://x.com/FELIXCATanzaro"
+      },
+      "summary": "Personal AI educator. Nightly frontier AI digest with optional Kindle delivery",
+      "summary_zh": "个人 AI 教育向导，每晚整理前沿 AI 摘要，可选投递 Kindle",
+      "import": "https://x.ai/bot/KH4AcBoSDzeG-Dq17TssF",
+      "category": "research-briefings",
+      "tags": [
+        "digest",
+        "research",
+        "briefing",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/FELIXCATanzaro/status/2105732900696227893"
     },
     {
       "slug": "ai-film-school",
@@ -3603,6 +3626,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "asic-fleet",
+      "name": "ASIC Fleet",
+      "author": {
+        "name": "scgerber",
+        "url": "https://x.com/scgerber"
+      },
+      "summary": "Automated BTC miner fleet management for Bitaxe/Hex/AxeOS: inventory, alerts, tune playbooks without auto PATCH or pool passwords in chat",
+      "summary_zh": "管理 Bitaxe/Hex/AxeOS 矿机机队，做库存告警与调参剧本，不自动 PATCH，也不把矿池密码写进聊天",
+      "import": "https://x.ai/bot/KLf9yQcaJWOW-6bBT8e6Y",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "tax",
+        "ops",
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/scgerber/status/2105819765742637131"
+    },
+    {
       "slug": "asistente-contable-colombia",
       "name": "Asistente Contable - Colombia",
       "author": {
@@ -3644,6 +3690,29 @@
       "verified": false,
       "updated": "2026-10-01",
       "shelf": "raw"
+    },
+    {
+      "slug": "ask-apai",
+      "name": "Ask Apai",
+      "author": {
+        "name": "AskApai",
+        "url": "https://x.com/AskApai"
+      },
+      "summary": "Authentic Press Q&A helper for drafting and checking publish-ready answers",
+      "summary_zh": "Authentic Press 问答助手，帮你起草并核对可发布的回答",
+      "import": "https://x.ai/bot/giykFbthCKCrPk7Z2YJVJ",
+      "category": "content-publishing",
+      "tags": [
+        "press",
+        "content",
+        "qa",
+        "media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/AskApai/status/2105755699196072128"
     },
     {
       "slug": "ask-avery",
@@ -4702,6 +4771,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "betting-desk",
+      "name": "Betting Desk",
+      "author": {
+        "name": "_SpecialTeamsU",
+        "url": "https://x.com/_SpecialTeamsU"
+      },
+      "summary": "A disciplined sports-betting analyst for MLB, NFL, NBA, and college football",
+      "summary_zh": "赛事与盘口研究桌，整理赔率与叙事",
+      "import": "https://x.ai/bot/mtGRHIWa1c9SOeRGrTB8_",
+      "category": "research-briefings",
+      "tags": [
+        "jobs",
+        "research",
+        "briefing",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/_SpecialTeamsU/status/2105726466839511200"
+    },
+    {
       "slug": "bid-desk-bot",
       "name": "Bid Desk Bot",
       "author": {
@@ -5289,6 +5381,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "bob-2",
+      "name": "Bob",
+      "author": {
+        "name": "ProCountApps",
+        "url": "https://x.com/ProCountApps"
+      },
+      "summary": "Team ops bot Bob that keeps staff work on schedule and helps with day-to-day follow-through",
+      "summary_zh": "团队里的 Bob，盯进度并帮你跟日常事务",
+      "import": "https://x.ai/bot/PGtKwW06cRc3hod2FiXAP",
+      "category": "teams-handoffs",
+      "tags": [
+        "teams",
+        "handoffs",
+        "ops",
+        "coordination"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "aka",
+      "source": "https://x.com/ProCountApps"
     },
     {
       "slug": "bochi-chan",
@@ -7752,6 +7867,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "career",
+      "name": "Career",
+      "author": {
+        "name": "Agatho_Damon",
+        "url": "https://x.com/Agatho_Damon"
+      },
+      "summary": "Job-hunt assistant that finds live openings, helps tailor materials, submits through ATS",
+      "summary_zh": "找职位、按岗位改简历并协助投递的求职闭环",
+      "import": "https://x.ai/bot/_N179jA-vyUT8mlNn2xOs",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "personal",
+        "admin",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/Agatho_Damon/status/2105737330137194774"
+    },
+    {
       "slug": "career-scout",
       "name": "Career Scout",
       "author": {
@@ -7884,6 +8022,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "raw"
+    },
+    {
+      "slug": "catalog-migrator",
+      "name": "Catalog Migrator",
+      "author": {
+        "name": "ColinMcDermott",
+        "url": "https://x.com/ColinMcDermott"
+      },
+      "summary": "Import products if you already have a store somewhere else",
+      "summary_zh": "把已有店铺的商品目录迁进当前电商店",
+      "import": "https://x.ai/bot/Vg-6U_xdHUadEE20V6R2B",
+      "category": "customer-sales",
+      "tags": [
+        "ecommerce",
+        "sales",
+        "customers",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ColinMcDermott/status/2105790815213941040"
     },
     {
       "slug": "catch",
@@ -11252,6 +11413,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "clio",
+      "name": "Clio",
+      "author": {
+        "name": "Tom_Gere",
+        "url": "https://x.com/Tom_Gere"
+      },
+      "summary": "Front-desk style team intake and dispatch for bot crews",
+      "summary_zh": "团队入口与调度，帮你把请求分给合适的机器人",
+      "import": "https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s",
+      "category": "teams-handoffs",
+      "tags": [
+        "ads",
+        "sales",
+        "customers",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/Tom_Gere/status/2105755253157122472"
+    },
+    {
       "slug": "clip-bot",
       "name": "Clip Bot",
       "author": {
@@ -11752,6 +11936,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "code-bot-marty",
+      "name": "Code Bot Marty",
+      "author": {
+        "name": "Trimmer10117",
+        "url": "https://x.com/Trimmer10117"
+      },
+      "summary": "A beginner-friendly coder bot: plain English first, then the work",
+      "summary_zh": "编码结对助手 Marty，帮你推进实现与排查",
+      "import": "https://x.ai/bot/OFxQlvVIgUAnxN5hfCb9e",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "coding",
+        "tools",
+        "shipping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/Trimmer10117/status/2105752998391718167"
+    },
+    {
       "slug": "code-red",
       "name": "Code Red",
       "author": {
@@ -12122,6 +12329,29 @@
       "verified": false,
       "updated": "2026-09-29",
       "shelf": "raw"
+    },
+    {
+      "slug": "college-application-helper-for-parents",
+      "name": "College Application Helper for Parents",
+      "author": {
+        "name": "steve_mlc",
+        "url": "https://x.com/steve_mlc"
+      },
+      "summary": "College application helper for parents",
+      "summary_zh": "帮家长梳理大学申请时间线、材料与文书节奏",
+      "import": "https://x.ai/bot/ELnsz_VO2F7gG9plTCqT6",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "personal",
+        "admin",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/steve_mlc/status/2105794197395509452"
     },
     {
       "slug": "colliebot",
@@ -14482,6 +14712,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "crowdsource-pm",
+      "name": "CrowdSource PM",
+      "author": {
+        "name": "pjvann",
+        "url": "https://x.com/pjvann"
+      },
+      "summary": "Turns your X DMs into a crowd-sourced build pipeline via Notion and Cursor",
+      "summary_zh": "众包式产品经理，汇总反馈并排优先级",
+      "import": "https://x.ai/bot/QuT89TlkAwnO6uDc78hkb",
+      "category": "teams-handoffs",
+      "tags": [
+        "product",
+        "feedback",
+        "pm",
+        "teams"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/pjvann"
+    },
+    {
       "slug": "crux",
       "name": "Crux",
       "author": {
@@ -14545,6 +14798,29 @@
       "verified": false,
       "updated": "2026-10-01",
       "shelf": "raw"
+    },
+    {
+      "slug": "crypto-2",
+      "name": "Crypto",
+      "author": {
+        "name": "Robert1",
+        "url": "https://x.com/Robert1"
+      },
+      "summary": "AI crypto sidekick for markets narratives trends and opportunities",
+      "summary_zh": "加密市场叙事与机会侧写，少噪音多信号",
+      "import": "https://x.ai/bot/7wv5WYGOnMMImpWdicU3E",
+      "category": "research-briefings",
+      "tags": [
+        "crypto",
+        "markets",
+        "research",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "aka",
+      "source": "https://x.com/Robert1/status/2105781926447698396"
     },
     {
       "slug": "crypto-buddy",
@@ -14793,6 +15069,29 @@
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/customer-call-coach-and-assistant",
       "shelf": "raw"
+    },
+    {
+      "slug": "customer-care",
+      "name": "Customer Care",
+      "author": {
+        "name": "ColinMcDermott",
+        "url": "https://x.com/ColinMcDermott"
+      },
+      "summary": "Handles refunds and disputes, drafts support messages",
+      "summary_zh": "处理退款纠纷并起草客服回复",
+      "import": "https://x.ai/bot/NIjIeUSpzESYUiJTmrAvm",
+      "category": "customer-sales",
+      "tags": [
+        "support",
+        "sales",
+        "customers",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ColinMcDermott/status/2105790821974847945"
     },
     {
       "slug": "customer-demand-bot",
@@ -17606,6 +17905,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "documentation-expert",
+      "name": "Documentation Expert",
+      "author": {
+        "name": "TrentTullis",
+        "url": "https://x.com/TrentTullis"
+      },
+      "summary": "Drop a site, logo, or photo and get finished Figma brand guidelines",
+      "summary_zh": "从网站或氛围图生成 Figma 品牌规范，含标志色字与应用",
+      "import": "https://x.ai/bot/JjLTs-HzmZyOmhxef2k2l",
+      "category": "content-publishing",
+      "tags": [
+        "brand",
+        "figma",
+        "docs",
+        "design"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/TrentTullis/status/2105739835600162939"
+    },
+    {
       "slug": "dog-the-naughty-hunter",
       "name": "DogTheNaughtyHunter",
       "author": {
@@ -17694,6 +18016,29 @@
       "verified": false,
       "updated": "2026-09-28",
       "shelf": "raw"
+    },
+    {
+      "slug": "domain-sniper",
+      "name": "Domain Sniper",
+      "author": {
+        "name": "uxaistudio",
+        "url": "https://x.com/uxaistudio"
+      },
+      "summary": "Snipe valuable expiring domains across multiple marketplaces with DomainSnip",
+      "summary_zh": "盯域名放货与到期机会并提醒下手",
+      "import": "https://x.ai/bot/FXZmL7jZ0fmeP2HT0-x6m",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "productivity",
+        "tools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/uxaistudio"
     },
     {
       "slug": "domain-tracker",
@@ -18518,6 +18863,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "ecom-store-builder",
+      "name": "Ecom Store Builder",
+      "author": {
+        "name": "ColinMcDermott",
+        "url": "https://x.com/ColinMcDermott"
+      },
+      "summary": "Walks you through setting up a live hosted ecommerce store using a blueprint",
+      "summary_zh": "按蓝图一步步搭好可上线的托管电商店",
+      "import": "https://x.ai/bot/niWUVSbAnXTTcZAK87iKl",
+      "category": "customer-sales",
+      "tags": [
+        "ecommerce",
+        "sales",
+        "customers",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ColinMcDermott/status/2105790812911251518"
     },
     {
       "slug": "edge-eddie",
@@ -20076,6 +20444,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "explainer-bot",
+      "name": "Explainer Bot",
+      "author": {
+        "name": "mikepat711",
+        "url": "https://x.com/mikepat711"
+      },
+      "summary": "Walks you through installing an open-source explainer video pipeline on your Mac",
+      "summary_zh": "把复杂话题讲成可扫读的白话说明",
+      "import": "https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing",
+        "digest",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/mikepat711"
+    },
+    {
       "slug": "ezra",
       "name": "Ezra",
       "author": {
@@ -21146,6 +21537,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "fate",
+      "name": "Fate",
+      "author": {
+        "name": "liam_fallen",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "Decision and narrative partner for weighing choices without rushing the call",
+      "summary_zh": "帮你权衡选择的决策与叙事伙伴，不催着拍板",
+      "import": "https://x.ai/bot/7IWqEVkSNn8-HiQ4gmvSg",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "decisions",
+        "reflection",
+        "tools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/liam_fallen"
+    },
+    {
       "slug": "feature-request-tracker",
       "name": "Feature Request Tracker",
       "author": {
@@ -21780,6 +22194,29 @@
       "source": "https://x.com/Brantley_Brum/status/2097046835818840562",
       "related": "https://grokbot.dev/marketplace/fishing-bot/",
       "shelf": "raw"
+    },
+    {
+      "slug": "fit-check",
+      "name": "Fit Check",
+      "author": {
+        "name": "BryanGislason",
+        "url": "https://x.com/BryanGislason"
+      },
+      "summary": "Daily style helper that outfits you from what you own and keeps looks consistent",
+      "summary_zh": "按你已有衣物给出每日穿搭建议，让造型更稳定",
+      "import": "https://x.ai/bot/YObVEKxqYvofsdaPCRdj3",
+      "category": "personal-admin",
+      "tags": [
+        "style",
+        "personal",
+        "admin",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/BryanGislason/status/2105817472259739891"
     },
     {
       "slug": "fit-finder",
@@ -24075,6 +24512,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "gbp",
+      "name": "GBP",
+      "author": {
+        "name": "AirbossHVAC",
+        "url": "https://x.com/AirbossHVAC"
+      },
+      "summary": "Keeps Google Business Profile listings accurate and ready for local search",
+      "summary_zh": "维护 Google 商家资料，让本地搜索展示更准确",
+      "import": "https://x.ai/bot/pH1LtCibU8lxnWi9LAv5v",
+      "category": "customer-sales",
+      "tags": [
+        "local",
+        "seo",
+        "listings",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/AirbossHVAC"
+    },
+    {
       "slug": "gbp-post-cadence",
       "name": "GBP Post Cadence",
       "author": {
@@ -24263,6 +24723,29 @@
       "verified": false,
       "updated": "2026-09-06",
       "shelf": "raw"
+    },
+    {
+      "slug": "getsued",
+      "name": "GetSued",
+      "author": {
+        "name": "FoxxAndCo",
+        "url": "https://x.com/FoxxAndCo"
+      },
+      "summary": "Tracks TCPA and DNC telemarketer violations and helps press settlement instead of a lawsuit",
+      "summary_zh": "追踪 TCPA/DNC 骚扰电话违规，推动和解收款而不是先打官司",
+      "import": "https://x.ai/bot/NgcEs4fCGiedjVLJp8x0l",
+      "category": "personal-admin",
+      "tags": [
+        "legal",
+        "personal",
+        "admin",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/FoxxAndCo/status/2105810756046336036"
     },
     {
       "slug": "ghost",
@@ -24931,6 +25414,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "government-opportunity-intelligence-agent",
+      "name": "Government Opportunity Intelligence Agent",
+      "author": {
+        "name": "citizend_d",
+        "url": "https://x.com/citizend_d"
+      },
+      "summary": "Government opportunity intelligence for teams: Detect → Classify → Score → Alert",
+      "summary_zh": "扫描政府招标与机会情报并整理可跟线索",
+      "import": "https://x.ai/bot/7ypeNcwfHLUecL8599IRP",
+      "category": "research-briefings",
+      "tags": [
+        "government",
+        "research",
+        "briefing",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/citizend_d/status/2105747491404869728"
+    },
+    {
       "slug": "gpt-astra-oracle",
       "name": "GPT Astra Oracle",
       "author": {
@@ -25418,6 +25924,29 @@
       "verified": false,
       "updated": "2026-09-14",
       "shelf": "aka"
+    },
+    {
+      "slug": "grocook",
+      "name": "GroCook",
+      "author": {
+        "name": "AlejoCamargo6",
+        "url": "https://x.com/AlejoCamargo6"
+      },
+      "summary": "Weekly meal-prep helper: plan dinners, portion bags meal-kit style",
+      "summary_zh": "菜谱与备餐助手，按库存和口味出菜",
+      "import": "https://x.ai/bot/X-GV3cVSzrOJTcrVEHoop",
+      "category": "content-publishing",
+      "tags": [
+        "style",
+        "content",
+        "writing",
+        "publishing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/AlejoCamargo6"
     },
     {
       "slug": "grok-access-updates",
@@ -27220,6 +27749,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "handoff-2",
+      "name": "Handoff",
+      "author": {
+        "name": "SkippyyTM",
+        "url": "https://x.com/SkippyyTM"
+      },
+      "summary": "For ADD minds who start great ideas. Finds verified places to hand off the next phase",
+      "summary_zh": "跨机器人交接与任务接力",
+      "import": "https://x.ai/bot/RFIlM2oslgj0jsKlG4qDz",
+      "category": "teams-handoffs",
+      "tags": [
+        "orchestration",
+        "teams",
+        "handoffs",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "aka",
+      "source": "https://x.com/SkippyyTM/status/2105731364217639007"
+    },
+    {
       "slug": "handshake-job-applier",
       "name": "Handshake Job Applier",
       "author": {
@@ -28871,6 +29423,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "hospice-nurse-notes",
+      "name": "Hospice Nurse Notes",
+      "author": {
+        "name": "jiginc88",
+        "url": "https://x.com/jiginc88"
+      },
+      "summary": "Hospice nurse notes",
+      "summary_zh": "协助临终关怀护理记录与交接笔记",
+      "import": "https://x.ai/bot/HnTYOCTxj5F3FsAWeWvbX",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "productivity",
+        "tools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/jiginc88/status/2105774310967411004"
+    },
+    {
       "slug": "house-cat",
       "name": "House Cat",
       "author": {
@@ -29552,6 +30127,29 @@
       "source": "https://x.com/Apache1999/status/2100193181380088274",
       "related": "https://grokbot.dev/marketplace/icebreaker-apache1999/",
       "shelf": "raw"
+    },
+    {
+      "slug": "icloud-mail",
+      "name": "iCloud Mail",
+      "author": {
+        "name": "CyberZack42",
+        "url": "https://x.com/CyberZack42"
+      },
+      "summary": "On-demand iCloud Mail helper via IMAP/SMTP with app-specific password",
+      "summary_zh": "处理 iCloud 邮件分拣与草稿",
+      "import": "https://x.ai/bot/0fF7Cqp8LTzh9JGQ-je3M",
+      "category": "inbox-calendar",
+      "tags": [
+        "inbox",
+        "email",
+        "calendar",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/CyberZack42"
     },
     {
       "slug": "icon",
@@ -31979,6 +32577,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "job-search-assistant",
+      "name": "Job Search Assistant",
+      "author": {
+        "name": "EmergentContent",
+        "url": "https://x.com/EmergentContent"
+      },
+      "summary": "Finds job openings that fit you, keeps a tidy list of applications",
+      "summary_zh": "帮你盯岗位、跟进度并提醒下一步的求职助理",
+      "import": "https://x.ai/bot/-1TDOdwCT1BvpsnJ2Apz4",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "style",
+        "personal",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/EmergentContent/status/2105743833128747497"
+    },
+    {
       "slug": "jobber",
       "name": "Jobber",
       "author": {
@@ -32130,6 +32751,29 @@
       "verified": false,
       "updated": "2026-09-06",
       "shelf": "aka"
+    },
+    {
+      "slug": "joe-shmo",
+      "name": "Joe Shmo",
+      "author": {
+        "name": "UziObi",
+        "url": "https://x.com/UziObi"
+      },
+      "summary": "Everyday personal admin for ordinary errands and follow-ups",
+      "summary_zh": "普通人的日常事务助手，跟进杂事与下一步",
+      "import": "https://x.ai/bot/zhw8xev-SmYCMBq8HF9Vf",
+      "category": "personal-admin",
+      "tags": [
+        "teams",
+        "handoffs",
+        "ops",
+        "coordination"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/UziObi"
     },
     {
       "slug": "john-wick",
@@ -33303,6 +33947,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "kun",
+      "name": "Kun",
+      "author": {
+        "name": "kunchenguid",
+        "url": "https://x.com/kunchenguid"
+      },
+      "summary": "Principal engineer bot continuously updated with Kun Chen posts videos and open source",
+      "summary_zh": "持续更新的首席工程师助手，汇总 Kun 的帖子视频与开源内容",
+      "import": "https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "coding",
+        "tools",
+        "shipping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/kunchenguid/status/2105806675399852090"
+    },
+    {
       "slug": "kung-fu-saga",
       "name": "Kung Fu Saga",
       "author": {
@@ -33672,6 +34339,27 @@
       "verified": false,
       "updated": "2026-08-30",
       "shelf": "raw"
+    },
+    {
+      "slug": "last30days-2",
+      "name": "last30days",
+      "author": {
+        "name": "unknown"
+      },
+      "summary": "Research what people actually say about any topic in the last 30 days",
+      "summary_zh": "整理最近 30 天动态做成可读简报",
+      "import": "https://x.ai/bot/TxB-fy1KryaYJLYWBcGtT",
+      "category": "research-briefings",
+      "tags": [
+        "digest",
+        "research",
+        "briefing",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "aka"
     },
     {
       "slug": "latch",
@@ -35239,6 +35927,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "listener",
+      "name": "Listener",
+      "author": {
+        "name": "berlu135",
+        "url": "https://x.com/berlu135"
+      },
+      "summary": "Meeting secretary that joins Teams meetings and delivers transcripts",
+      "summary_zh": "会议旁听与纪要，输出格式化文档",
+      "import": "https://x.ai/bot/-BXZiXKHwvcge3PviX2yK",
+      "category": "teams-handoffs",
+      "tags": [
+        "meetings",
+        "notes",
+        "teams",
+        "transcription"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/berlu135/status/2105755722952618242"
+    },
+    {
       "slug": "listicle-memory-bot",
       "name": "Listicle Memory Bot",
       "author": {
@@ -35956,6 +36667,29 @@
       "verified": false,
       "updated": "2026-09-17",
       "shelf": "raw"
+    },
+    {
+      "slug": "lost-property",
+      "name": "Lost Property",
+      "author": {
+        "name": "scgerber",
+        "url": "https://x.com/scgerber"
+      },
+      "summary": "Sweeps official US state unclaimed-property portals for forgotten money without putting SSN in chat",
+      "summary_zh": "帮你扫各州官方无人认领财产门户找遗忘资金，聊天里不放社保号",
+      "import": "https://x.ai/bot/mVJfH1ZPyKg_ldqUhaMJU",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "productivity",
+        "tools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/scgerber/status/2105817852582486512"
     },
     {
       "slug": "lot",
@@ -38415,6 +39149,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "milton",
+      "name": "Milton",
+      "author": {
+        "name": "Trimmer10117",
+        "url": "https://x.com/Trimmer10117"
+      },
+      "summary": "Team ops bot Milton for paperwork flow and routine coordination",
+      "summary_zh": "团队里的 Milton，承接文书流程与日常协调",
+      "import": "https://x.ai/bot/5YgcLARrgqBSqoMMR_7dQ",
+      "category": "teams-handoffs",
+      "tags": [
+        "teams",
+        "handoffs",
+        "ops",
+        "coordination"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/Trimmer10117/status/2105753065450021034"
+    },
+    {
       "slug": "milybot",
       "name": "Milybot",
       "author": {
@@ -39424,6 +40181,29 @@
       "source": "https://x.com/i/status/2105089678772965452"
     },
     {
+      "slug": "musebot",
+      "name": "musebot",
+      "author": {
+        "name": "clawddevs",
+        "url": "https://x.com/clawddevs"
+      },
+      "summary": "Creative muse for sparks, drafts, and keeping a writing thread alive",
+      "summary_zh": "创意灵感与草稿伙伴，帮你把写作线索续上",
+      "import": "https://x.ai/bot/wIaZtsMnIKVEQOKTtImU5",
+      "category": "content-publishing",
+      "tags": [
+        "creative",
+        "writing",
+        "ideas",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/clawddevs/status/2105746031308665209"
+    },
+    {
       "slug": "music-director",
       "name": "Music Director",
       "author": {
@@ -39710,6 +40490,29 @@
       "updated": "2026-09-19",
       "source": "https://x.com/PixelRainbowNFT/status/2100794195363422677",
       "shelf": "raw"
+    },
+    {
+      "slug": "na-privacy-scrub",
+      "name": "NA Privacy Scrub",
+      "author": {
+        "name": "OliverRCote",
+        "url": "https://x.com/OliverRCote"
+      },
+      "summary": "Canada/US people-search and data-broker removal coach with human gates",
+      "summary_zh": "北美语境下的隐私清洗，脱敏后再外发",
+      "import": "https://x.ai/bot/7qbvIBfoBsyf-TWfs74pi",
+      "category": "personal-admin",
+      "tags": [
+        "security",
+        "personal",
+        "admin",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/OliverRCote"
     },
     {
       "slug": "nam",
@@ -40401,6 +41204,29 @@
       "updated": "2026-09-25",
       "shelf": "raw",
       "source": "https://x.com/smoke_aa1010/status/2103153064337125490"
+    },
+    {
+      "slug": "nexfade-secure-share",
+      "name": "NexFade Secure Share",
+      "author": {
+        "name": "NexFade",
+        "url": "https://github.com/rynmark-repo"
+      },
+      "summary": "Turns files and notes into one-time encrypted NexFade links you can revoke",
+      "summary_zh": "把文件和笔记做成可撤销的一次性加密 NexFade 链接，而不是直接贴进聊天",
+      "import": "https://x.ai/bot/s9i2gj-picjq7jFrNWwQt",
+      "category": "personal-admin",
+      "tags": [
+        "security",
+        "sharing",
+        "privacy",
+        "files"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "related": "https://grokbot.dev/marketplace/nexfade-secure-share/"
     },
     {
       "slug": "nfl-dual-rail-prop-desk",
@@ -42197,6 +43023,29 @@
       "updated": "2026-09-21",
       "source": "https://x.com/keepclmcarryong/status/2101887744880361700",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "order-desk",
+      "name": "Order Desk",
+      "author": {
+        "name": "ColinMcDermott",
+        "url": "https://x.com/ColinMcDermott"
+      },
+      "summary": "Checks for orders and manages your stock",
+      "summary_zh": "查订单并管理库存",
+      "import": "https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "customers",
+        "outreach",
+        "crm"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ColinMcDermott/status/2105790820318359680"
     },
     {
       "slug": "order-food-in-chinese-daily-coach",
@@ -44744,6 +45593,29 @@
       "related": "https://grokbot.dev/marketplace/plant-field-os/"
     },
     {
+      "slug": "plaquemax",
+      "name": "Plaquemax",
+      "author": {
+        "name": "ChrisAdcockMD",
+        "url": "https://x.com/ChrisAdcockMD"
+      },
+      "summary": "Ops helper around Plaquemax workflows and day-to-day checks",
+      "summary_zh": "围绕 Plaquemax 流程的日常运营助手",
+      "import": "https://x.ai/bot/KZ1cKh5hlgqicxQhn3C2e",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "productivity",
+        "tools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ChrisAdcockMD"
+    },
+    {
       "slug": "platedbot",
       "name": "PlatedBot",
       "author": {
@@ -45897,6 +46769,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "pro-bono",
+      "name": "Pro Bono",
+      "author": {
+        "name": "ProCountApps",
+        "url": "https://x.com/ProCountApps"
+      },
+      "summary": "A legal paperwork and records keeper for small businesses",
+      "summary_zh": "法律文书起草助手，覆盖 DBA 商标许可与截止日，仍由你自己提交",
+      "import": "https://x.ai/bot/lDkNsblCAkXCxBU44ZHxp",
+      "category": "personal-admin",
+      "tags": [
+        "legal",
+        "docs",
+        "deadlines",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ProCountApps/status/2105750155760902361"
+    },
+    {
       "slug": "process-audit-scout",
       "name": "Process Audit Scout",
       "author": {
@@ -45975,6 +46870,29 @@
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/product",
       "shelf": "raw"
+    },
+    {
+      "slug": "product-ads",
+      "name": "Product Ads",
+      "author": {
+        "name": "ColinMcDermott",
+        "url": "https://x.com/ColinMcDermott"
+      },
+      "summary": "Run ads for your store without leaving Grok Bot",
+      "summary_zh": "在 Grok Bot 里为店铺投放与优化广告",
+      "import": "https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr",
+      "category": "customer-sales",
+      "tags": [
+        "ecommerce",
+        "ads",
+        "sales",
+        "customers"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ColinMcDermott/status/2105790817675993299"
     },
     {
       "slug": "product-builder-cos",
@@ -46409,6 +47327,29 @@
       "verified": false,
       "updated": "2026-10-01",
       "shelf": "aka"
+    },
+    {
+      "slug": "prompt-brief-builder",
+      "name": "Prompt Brief Builder",
+      "author": {
+        "name": "ZyeAnd1",
+        "url": "https://x.com/ZyeAnd1"
+      },
+      "summary": "Turns a rough ask into a lean, ready-to-paste agent prompt",
+      "summary_zh": "把需求收成可执行的提示词简报",
+      "import": "https://x.ai/bot/6nbtK-LXyay2d7wfDJ3Iz",
+      "category": "coding-shipping",
+      "tags": [
+        "digest",
+        "coding",
+        "tools",
+        "shipping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ZyeAnd1"
     },
     {
       "slug": "prompt-injection-tabletop",
@@ -49703,6 +50644,29 @@
       "source": "https://x.com/IAmMichaelSweet/status/2105085017445830926"
     },
     {
+      "slug": "risk-mitigator",
+      "name": "Risk Mitigator",
+      "author": {
+        "name": "techbudsolution",
+        "url": "https://x.com/techbudsolution"
+      },
+      "summary": "Risk mitigator templates featured",
+      "summary_zh": "识别运营与合规风险并给出缓解动作",
+      "import": "https://x.ai/bot/h0fwNRjOa5K247LKQqyfA",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "ops",
+        "money",
+        "tracking"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/techbudsolution/status/2105760037025288383"
+    },
+    {
       "slug": "rival-watch-desk",
       "name": "Rival Watch Desk",
       "author": {
@@ -49855,6 +50819,29 @@
       "updated": "2026-09-16",
       "source": "https://x.com/drhowell1/status/2100196502597415345",
       "shelf": "raw"
+    },
+    {
+      "slug": "robin-hood",
+      "name": "Robin Hood",
+      "author": {
+        "name": "Cultureofsports",
+        "url": "https://x.com/Cultureofsports"
+      },
+      "summary": "Monitors Grok Bot usage across your fleet and flags wasteful bots so you can cut spend",
+      "summary_zh": "监控你名下 Grok Bot 用量，标出浪费额度的机器人好砍开支",
+      "import": "https://x.ai/bot/pAV9F663FH06L-uIKVJd-",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "teams",
+        "handoffs",
+        "coordination"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/Cultureofsports/status/2105817093639975040"
     },
     {
       "slug": "robinhood-trading-autonomous",
@@ -51538,6 +52525,29 @@
       "shelf": "aka"
     },
     {
+      "slug": "scripts-bot",
+      "name": "Scripts Bot",
+      "author": {
+        "name": "jorispaarde",
+        "url": "https://x.com/jorispaarde"
+      },
+      "summary": "Lowers bot usage by scripting repeatable flows you can rerun instead of burning chat turns",
+      "summary_zh": "用脚本固化重复流程，少烧 Bot 额度也能重跑",
+      "import": "https://x.ai/bot/qCZzibwAQitTCyRNvrcnU",
+      "category": "teams-handoffs",
+      "tags": [
+        "ops",
+        "scripts",
+        "usage",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/jorispaarde"
+    },
+    {
       "slug": "scriptsprint",
       "name": "ScriptSprint",
       "author": {
@@ -51577,6 +52587,29 @@
       "verified": false,
       "updated": "2026-09-27",
       "shelf": "aka"
+    },
+    {
+      "slug": "scripture-assistant",
+      "name": "Scripture Assistant",
+      "author": {
+        "name": "Shizzle_Nizzles",
+        "url": "https://x.com/Shizzle_Nizzles"
+      },
+      "summary": "Ask any question, get WWJD insight grounded in Scripture",
+      "summary_zh": "经文检索与灵修阅读助手",
+      "import": "https://x.ai/bot/1HdnMyIH9auGD7UDwZuWE",
+      "category": "content-publishing",
+      "tags": [
+        "faith",
+        "reading",
+        "content",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/Shizzle_Nizzles"
     },
     {
       "slug": "scroll",
@@ -52270,6 +53303,29 @@
       "verified": false,
       "updated": "2026-09-28",
       "shelf": "raw"
+    },
+    {
+      "slug": "serp-specialist",
+      "name": "SERP SPECIALIST",
+      "author": {
+        "name": "ascndnt_alchmy",
+        "url": "https://x.com/ascndnt_alchmy"
+      },
+      "summary": "Local SEO bot: keyword volumes SERPs rank plan and preview site for a niche plus towns",
+      "summary_zh": "按 niche 与城镇拉真实搜索量，找出能赢的 SERP 并生成排名计划与预览站",
+      "import": "https://x.ai/bot/262LyEVXcAKuQuohFeXop",
+      "category": "customer-sales",
+      "tags": [
+        "seo",
+        "local",
+        "marketing",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ascndnt_alchmy/status/2105762984962195868"
     },
     {
       "slug": "serp-watch-team",
@@ -54722,6 +55778,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "song-meter-birdnet",
+      "name": "Song Meter BirdNET",
+      "author": {
+        "name": "scgerber",
+        "url": "https://x.com/scgerber"
+      },
+      "summary": "Processes Song Meter Micro cards with BirdNET regional lists into the report style you want",
+      "summary_zh": "用 BirdNET 地区名单处理 Song Meter Micro 存储卡，并按你想要的报告样式输出",
+      "import": "https://x.ai/bot/YPzHnM2hsyp4JkI7wxyAG",
+      "category": "personal-admin",
+      "tags": [
+        "style",
+        "nature",
+        "personal",
+        "admin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/scgerber/status/2105821294193442975"
+    },
+    {
       "slug": "songwriter",
       "name": "Songwriter",
       "author": {
@@ -56328,6 +57407,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "store-manager",
+      "name": "Store Manager",
+      "author": {
+        "name": "ColinMcDermott",
+        "url": "https://x.com/ColinMcDermott"
+      },
+      "summary": "Ecommerce store Chief of Staff that coordinates other bots end to end",
+      "summary_zh": "电商店总管，协调其他机器人把店铺跑通",
+      "import": "https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d",
+      "category": "customer-sales",
+      "tags": [
+        "ecommerce",
+        "orchestration",
+        "sales",
+        "customers"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "studio-door",
+      "source": "https://x.com/ColinMcDermott/status/2105790823682003017"
+    },
+    {
       "slug": "store-setup-from-zero",
       "name": "Store setup from zero",
       "author": {
@@ -56813,6 +57915,29 @@
       "verified": false,
       "updated": "2026-09-13",
       "shelf": "raw"
+    },
+    {
+      "slug": "sully",
+      "name": "Sully",
+      "author": {
+        "name": "texassoundguy",
+        "url": "https://x.com/texassoundguy"
+      },
+      "summary": "Team ops bot Sully for coordination and follow-through",
+      "summary_zh": "团队里的 Sully，承接协调与跟进",
+      "import": "https://x.ai/bot/GtQS4J39GGt5R8Vs7uvwi",
+      "category": "teams-handoffs",
+      "tags": [
+        "ecommerce",
+        "sales",
+        "customers",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/texassoundguy"
     },
     {
       "slug": "summarize-bot",
@@ -61795,6 +62920,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "us-crypto-tax",
+      "name": "US Crypto Tax",
+      "author": {
+        "name": "scgerber",
+        "url": "https://x.com/scgerber"
+      },
+      "summary": "TY2026 crypto tax prep for custodial PDF/CSV or connectors, Form 8949 minded with a December TLH check-in",
+      "summary_zh": "面向 2026 报税季的加密税务整理，支持托管 PDF/CSV 或连接器，按 Form 8949 思路并带 12 月止损换仓提醒",
+      "import": "https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "tax",
+        "finance",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/scgerber/status/2105818511629062596"
+    },
+    {
       "slug": "us-law-index-builder",
       "name": "US Law Index Builder Bot",
       "author": {
@@ -61814,6 +62962,29 @@
       "verified": false,
       "updated": "2026-09-07",
       "shelf": "raw"
+    },
+    {
+      "slug": "us-tech-deals-and-price-checker",
+      "name": "US Tech Deals & Price Checker",
+      "author": {
+        "name": "moneydeals123",
+        "url": "https://x.com/moneydeals123"
+      },
+      "summary": "Verified US tech deals, price history and coupons via MoneyDeals",
+      "summary_zh": "盯美国科技数码折扣与比价",
+      "import": "https://x.ai/bot/9AsX0Exx7P4m2IwZXJ4tp",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "deals",
+        "price",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/moneydeals123"
     },
     {
       "slug": "usage-auditor",
@@ -63133,6 +64304,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "weather",
+      "name": "Weather",
+      "author": {
+        "name": "TeslaTakesOver",
+        "url": "https://x.com/TeslaTakesOver"
+      },
+      "summary": "Weather bot that texts current motion radar clips to friends and family",
+      "summary_zh": "天气机器人，可把当前雷达动图发给亲友",
+      "import": "https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W",
+      "category": "research-briefings",
+      "tags": [
+        "weather",
+        "research",
+        "briefing",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/TeslaTakesOver/status/2105786495160197241"
+    },
+    {
       "slug": "weather-bot-bill",
       "name": "Weather Bot",
       "author": {
@@ -63513,6 +64707,29 @@
       "updated": "2026-09-18",
       "source": "https://x.com/Dominicyoungix/status/2100838970259378211",
       "shelf": "raw"
+    },
+    {
+      "slug": "website-publisher",
+      "name": "Website Publisher",
+      "author": {
+        "name": "ryanthawks",
+        "url": "https://x.com/ryanthawks"
+      },
+      "summary": "Website SEO and docs habits with weekly Search Console routine plus Cloudflare Mintlify MailerLite PostHog Resend Playwright GitHub plugins",
+      "summary_zh": "网站 SEO 与文档习惯加每周 Search Console 例行，并串起 Cloudflare Mintlify 等插件",
+      "import": "https://x.ai/bot/UuKqeb4npN9RsP1G3REFR",
+      "category": "coding-shipping",
+      "tags": [
+        "seo",
+        "developer",
+        "coding",
+        "tools"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ryanthawks/status/2105811724485943716"
     },
     {
       "slug": "webwiz",
@@ -65121,6 +66338,29 @@
       "shelf": "featured"
     },
     {
+      "slug": "x-feedback",
+      "name": "X Feedback",
+      "author": {
+        "name": "RegularJoe_Ceo",
+        "url": "https://x.com/RegularJoe_Ceo"
+      },
+      "summary": "Collects and clusters product feedback from X so themes are easier to act on",
+      "summary_zh": "从 X 收集并归类产品反馈，让主题更好落地",
+      "import": "https://x.ai/bot/yU3RRM8D-8BoeBDvLYi2E",
+      "category": "customer-sales",
+      "tags": [
+        "feedback",
+        "x",
+        "product",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/RegularJoe_Ceo"
+    },
+    {
       "slug": "x-financial-scanner",
       "name": "X Financial Scanner",
       "author": {
@@ -66227,6 +67467,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "zach",
+      "name": "Zach",
+      "author": {
+        "name": "crislvillacorta",
+        "url": "https://x.com/crislvillacorta"
+      },
+      "summary": "Zach",
+      "summary_zh": "团队里的 Zach 助手，承接日常协调与跟进",
+      "import": "https://x.ai/bot/lfc-k1106XkXDlmAmJEco",
+      "category": "teams-handoffs",
+      "tags": [
+        "teams",
+        "handoffs",
+        "ops",
+        "coordination"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/crislvillacorta/status/2105788047103279464"
+    },
+    {
       "slug": "zealt-chief-of-staff",
       "name": "Zealt Chief of Staff",
       "author": {
@@ -66289,6 +67552,29 @@
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/zensched",
       "shelf": "raw"
+    },
+    {
+      "slug": "zephyr-sites",
+      "name": "Zephyr Sites",
+      "author": {
+        "name": "ZephyrCloudIO",
+        "url": "https://x.com/ZephyrCloudIO"
+      },
+      "summary": "Ships and hosts sites on Zephyr Cloud with built-in cloud or bring-your-own setup",
+      "summary_zh": "在 Zephyr Cloud 上发布托管站点，可用内置云或自带环境",
+      "import": "https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "tools",
+        "shipping",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw",
+      "source": "https://x.com/ZephyrCloudIO/status/2105818188965425308"
     },
     {
       "slug": "zettelkasten",
