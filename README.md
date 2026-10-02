@@ -3474,6 +3474,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 
 ### Indexes
 
+- [Grok Bot Wiki](https://www.grokbotwiki.com/bots) - Independent searchable directory of public Grok Bot share links with creator attribution, daily link checks, and setup guides.
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory. Paste a listing into Grok Bot and it sets itself up.
 - [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent-run directory of prompts, plugins, and use cases. PRs are the write API.
 - [GrokMarket](https://grokmarket.io) - Independent directory of public Grok Bot templates with prompts, usage notes, creator attribution, and live x.ai previews.
