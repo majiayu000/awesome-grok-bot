@@ -18736,6 +18736,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "earnest",
+      "name": "Earnest",
+      "author": {
+        "name": "Thomas",
+        "url": "https://x.com/tkinfinance"
+      },
+      "summary": "Earnings report grading bot. Plain-English quarter briefs from SEC filings",
+      "summary_zh": "财报打分助手，用白话整理 SEC 季报要点",
+      "import": "https://x.ai/bot/t1qudulqFK7nq4rOnxlem",
+      "category": "finance-ops",
+      "tags": [
+        "earnings",
+        "sec",
+        "finance",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "source": "https://x.com/tkinfinance/status/2105905679328522384",
+      "shelf": "raw"
+    },
+    {
       "slug": "earnings-desk",
       "name": "Earnings Desk",
       "author": {
@@ -18779,6 +18802,29 @@
       "updated": "2026-09-02",
       "source": "https://x.com/HaseebMir91/status/2094891095733710950",
       "related": "https://grokbot.dev/marketplace/easy-apply-queue/",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ebay-lister",
+      "name": "eBay Lister",
+      "author": {
+        "name": "Gabriel",
+        "url": "https://x.com/Gabi_Valerio3"
+      },
+      "summary": "Snap a photo of comics, cards, toys, or thrift finds and get an eBay draft with sold comps, title, and pricing",
+      "summary_zh": "拍张漫画卡牌玩具或二手货照片，生成带成交价参考、标题和定价的 eBay 草稿",
+      "import": "https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5",
+      "category": "customer-sales",
+      "tags": [
+        "ebay",
+        "listing",
+        "sales",
+        "pricing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "source": "https://x.com/Gabi_Valerio3/status/2105892546245546309",
       "shelf": "raw"
     },
     {
@@ -30038,6 +30084,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "hypr-logo-cursor",
+      "name": "Hypr Logo Cursor",
+      "author": {
+        "name": "Tim",
+        "url": "https://x.com/tim_sonner"
+      },
+      "summary": "Omarchy/Hyprland helper that installs a scalable Hyprland logo cursor from official pixels in sizes 24 to 48, without third-party cursor packs",
+      "summary_zh": "给 Omarchy/Hyprland 装可缩放的官方像素水滴光标，尺寸 24 到 48，不依赖第三方光标包",
+      "import": "https://x.ai/bot/ebn2zbzDw8SABcQGPUXjp",
+      "category": "coding-shipping",
+      "tags": [
+        "hyprland",
+        "linux",
+        "desktop",
+        "cursor"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "source": "https://x.com/tim_sonner/status/2105890745999925515",
+      "shelf": "raw"
+    },
+    {
       "slug": "i",
       "name": "I",
       "author": {
@@ -36553,6 +36622,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-21",
+      "shelf": "raw"
+    },
+    {
+      "slug": "longhua-restaurant",
+      "name": "Longhua Restaurant",
+      "author": {
+        "name": "卫平",
+        "url": "https://x.com/weipingzhong"
+      },
+      "summary": "Any Chinese recipe in plain English with 汉字 plus pinyin, a line to order it out loud, and a printable one-page card",
+      "summary_zh": "点中餐助手，用英文讲做法，附汉字拼音、可照读点餐句和一页可打印卡片",
+      "import": "https://x.ai/bot/87ziT4BuuJZmtIQm7IW-e",
+      "category": "personal-admin",
+      "tags": [
+        "recipes",
+        "chinese",
+        "food",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "source": "https://x.com/weipingzhong/status/2105893575275986948",
       "shelf": "raw"
     },
     {
