@@ -12,6 +12,8 @@
 
 > 3109 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
+**本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
+
 [Grok Bot](https://docs.x.ai/grok-bot/overview) 是共用云电脑上的常驻 AI 队友。本双语目录收录公开 **活分享**（不是提示词合集）：找到链接、在 x.ai 预览，再 Add。
 
 ## 目录
@@ -23,6 +25,7 @@
   - [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/)
   - [如何导入分享与运行首次任务](https://majiayu000.github.io/awesome-grok-bot/#getting-started)
 - [SEO 备忘](docs/seo.md)
+- [贡献](CONTRIBUTING.md)
 - [真人案例](#真人案例)
   - [编制](#编制)
   - [电脑上手活](#电脑上手活)
@@ -69,7 +72,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 ### 先试这几个
 
-先加一个。打开分享，点 Add，跑一次只读任务。
+这些是 [catalog.json](catalog.json) 里 `shelf=featured` 的条目。先加一个。打开分享，点 Add，跑一次只读任务。
 
 - **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · 把长视频和播客转成能搜可读的中文文稿，顺手捞公开论文。
 - **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · 每天查一遍搜索引擎里新冒出来的你的公开信息。

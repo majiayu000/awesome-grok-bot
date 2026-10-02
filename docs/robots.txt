@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://majiayu000.github.io/awesome-grok-bot/sitemap.xml

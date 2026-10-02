@@ -89,4 +89,8 @@ writeFileSync(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="
   <url><loc>https://majiayu000.github.io/awesome-grok-bot/</loc></url>
 </urlset>
 `);
-console.log(`Wrote static catalog HTML (${entries.length} shares) and sitemap`);
+writeFileSync(
+  join(root, "docs", "robots.txt"),
+  "User-agent: *\nAllow: /\n\nSitemap: https://majiayu000.github.io/awesome-grok-bot/sitemap.xml\n",
+);
+console.log(`Wrote static catalog HTML (${entries.length} shares), sitemap, and robots.txt`);

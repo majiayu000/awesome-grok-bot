@@ -2,47 +2,29 @@
 
 Short checklist for GitHub discovery. Product is **live `x.ai/bot` shares**, not prompt dumps. Do not claim `verified` until the flag is true in `catalog.json`. Do not auto-post to X or submit directories unless a human asks.
 
-**Audit snapshot (2026-09-20, Asia/Shanghai):** catalog **1802** (featured 20 / studio-door 119 / aka 95 / raw 1568); `verified` **0**; stars **49**; Homepage **empty**; Topics already include `grokbot`, `ai-agents`, `directory`, `cursor`, `llm`. Baseline plan: `/workspace/downloads/awesome-grok-bot-seo-growth-plan.md`.
+**Audit snapshot (2026-10-03, Asia/Shanghai):** catalog **3109** (featured 20 / studio-door 148 / aka 205 / raw 2736); `verified` **0**; stars **55**; Homepage **set** to Pages; Topics include `grokbot`, `ai-agents`, `directory`, `cursor`, `llm`; Pages live with title/meta/OG/sitemap; `llms.txt` aligned; `robots.txt` added under `docs/`. Baseline plan (historical): `/workspace/downloads/awesome-grok-bot-seo-growth-plan.md`.
 
 ---
 
-## Audit findings (read-only)
+## Already shipped (do not redo)
 
-### README first screen (EN + 中文)
+- README first screen: count + live `x.ai/bot` + bilingual + Try these first / 先试这几个 + Pages link.
+- GitHub About: count + live shares + not prompt dumps + Searchable Pages.
+- Homepage → https://majiayu000.github.io/awesome-grok-bot/
+- Topics: agents, awesome, awesome-list, grok, grok-bot, templates, catalog, xai, ai-agents, bot-templates, cursor, directory, grokbot, llm.
+- Pages: `docs/index.html` + `catalog-index.json` + `sitemap.xml` + `robots.txt`.
+- `llms.txt` count/shelf aligned with `catalog.json`.
+- Try these first labeled `shelf=featured`; Contents → CONTRIBUTING; light “This week / 本周新进” hook to commits + Pages.
 
-| Check | Status |
-| --- | --- |
-| H1 | `Awesome Grok Bot` (both) |
-| Lead keywords | `Grok Bot` + `live` / 活分享 + `` `x.ai/bot` `` + **1802** present in blockquote + opening para |
-| Internal links | Contents → Try these first / 先试这几个, [studio-doors.md](studio-doors.md), [seo.md](seo.md) |
-| Featured narrative | 20 “Try these first” rows; shelf explained; studio-door count **119** linked |
-| Keyword density (rough) | EN first screen ~825 tokens: Grok Bot ×7, x.ai/bot ×21, live ×5, 1802 ×4 — healthy, not stuffed |
+## Still open (discovery, not README rewrite)
 
-No README docs-map fix needed this pass (seo link already bilingual).
+1. Stars still thin vs catalog depth (~55 vs 3109 shares) — content is fine; discovery is the bottleneck.
+2. Weekly “新进 N” with a concrete delta (optional Discussion or short README fill-in) — hook exists; numbers need a human or routine to refresh.
+3. Submit to sindresorhus/awesome when ready.
+4. Pin the repo on the maintainer profile.
+5. Occasional featured rotation.
 
-### GitHub About (`gh repo view`)
-
-- **description:** `1802 live x.ai/bot shares for Grok Bot you can Add — bilingual EN/中文 catalog with shelf navigation, field cases, and JSON schema. Not prompt dumps.` ✅
-- **homepageUrl:** `https://majiayu000.github.io/awesome-grok-bot/` (Pages from `/docs`)
-- **topics:** agents, awesome, awesome-list, grok, grok-bot, templates, catalog, xai, ai-agents, bot-templates, cursor, directory, grokbot, llm ✅
-- **stargazerCount:** 49
-
-### llms.txt vs catalog
-
-Aligned: 1802 entries; shelf `featured 20, studio-door 119, aka 95, raw 1568`; points at `docs/seo.md` and studio-doors. Re-sync only when catalog counts change.
-
-### Competitor gap (esp. kyd Pages)
-
-What this repo still misses for organic discovery:
-
-1. **GitHub Pages / searchable UI** — shipped at `/docs` (`index.html` + `catalog-index.json`); filter by category + shelf.
-2. **Homepage** — set to Pages URL after enable.
-3. **Stars ~1/6 of head lists** — content depth high; discovery weak.
-4. **No weekly “新进 N” hook** — growth is silent without a shareable delta.
-5. **Not yet on sindresorhus/awesome** — missing category authority backlink.
-6. **Featured vs “Try these first”** — aligned in practice; could label `shelf=featured` more explicitly (copy-only).
-
-Do **not** invent Homepage, claim verified, or point readers at competitors as share sources.
+Do **not** invent verified, rewrite the link wall, or point readers at competitors as share sources.
 
 ---
 
@@ -77,7 +59,7 @@ Install pack for humans: `/workspace/downloads/seo-bot-crew-install.md`.
 | **Site Audit** | https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW | One-pass tech audit (SEO, speed, a11y, CRO, schema) |
 | Optional: **SERP Watch Team** | https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ | Brand visibility in SERP + AI answers |
 
-**Handoff:** Desk scopes keywords/gaps for *this* repo → OpenSEO turns that into an actionable brief → Site Audit checks tech/on-page once a public URL (Pages) exists. Until Pages ships, Site Audit stays README/GitHub-About scoped (read-only).
+**Handoff:** Desk scopes keywords/gaps for *this* repo → OpenSEO turns that into an actionable brief → Site Audit checks tech/on-page once a public URL (Pages) exists. Pages is live; Site Audit can include the Pages URL (read-only).
 
 ### 中文可复制「首次安全任务」（只读，不发帖、不改仓、不提交目录）
 
@@ -99,8 +81,8 @@ Install pack for humans: `/workspace/downloads/seo-bot-crew-install.md`.
 **Site Audit**
 
 ```
-在尚无 GitHub Pages 的前提下，只读检查本仓发现面：README 首屏 H1/关键词、docs/seo.md、llms.txt 计数、GitHub About 描述与 Topics、social preview 资产是否存在。
-输出 P0/P1 技术项；不要搭建站点、不要改生产、不要提交目录。中文条目列表。
+只读检查本仓发现面（含已上线 Pages）：README 首屏 H1/关键词、docs/seo.md、llms.txt 计数、GitHub About、Topics、social preview、Pages 的 title/meta/OG/sitemap/robots。
+输出 P0/P1 技术项；不要改生产、不要提交目录。中文条目列表。
 ```
 
 ---
@@ -114,6 +96,7 @@ Install pack for humans: `/workspace/downloads/seo-bot-crew-install.md`.
 - `docs/index.html` — client-side searchable SPA (EN/中文 UI; uses `summary_zh` when locale is zh).
 - `docs/catalog-index.json` — slim index generated from root `catalog.json` (name, summaries, tags, category, shelf, import, author, verified).
 - `docs/.nojekyll` — serve as plain static files from the `/docs` folder on `main`.
+- `docs/robots.txt` — Allow all; Sitemap → Pages `sitemap.xml` (regenerated by `npm run build:pages`).
 
 **Honesty (do not drift)**
 
@@ -151,7 +134,7 @@ gh repo edit majiayu000/awesome-grok-bot --homepage https://majiayu000.github.io
 
 - [x] About description + Topics expanded
 - [x] README / README.zh-CN lead keywords + Contents → seo / studio-doors / featured
-- [x] llms.txt counts = 1802 / shelf split
+- [x] llms.txt counts = 3109 / shelf split
 - [x] This `docs/seo.md` refreshed with audit + bot pack
 - [ ] After any catalog bump: re-sync llms.txt + lint
 

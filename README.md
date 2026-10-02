@@ -12,6 +12,8 @@
 
 > 3109 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
+**This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
+
 [Grok Bot](https://docs.x.ai/grok-bot/overview) is an always-on AI teammate on a shared cloud computer. This bilingual catalog indexes public **live shares** (not prompt dumps): find a share, open it on x.ai, then Add.
 
 ## Contents
@@ -23,6 +25,7 @@
   - [Searchable site](https://majiayu000.github.io/awesome-grok-bot/)
   - [How to add a share and try a first task](https://majiayu000.github.io/awesome-grok-bot/#getting-started)
 - [SEO notes](docs/seo.md)
+- [Contributing](CONTRIBUTING.md)
 - [Field cases](#field-cases)
   - [Rosters](#rosters)
   - [Computer-use jobs](#computer-use-jobs)
@@ -69,7 +72,7 @@ Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/
 
 ### Try these first
 
-Start with one share. Open it, hit Add, run a read-only task.
+These are `shelf=featured` in [catalog.json](catalog.json). Start with one share. Open it, hit Add, run a read-only task.
 
 - **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · Turns long videos and podcasts into searchable Chinese transcripts.
 - **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · Daily search-engine check for what is newly public about you.
