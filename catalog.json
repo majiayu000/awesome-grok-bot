@@ -6288,6 +6288,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "botman",
+      "name": "Botman",
+      "author": {
+        "name": "JakeFromStarstruck.",
+        "url": "https://x.com/Rune_King_Jake"
+      },
+      "summary": "Detective that vets social followers, DMs, and inbox, writes scam and bot case files, and flags risky Halloween houses nearby",
+      "summary_zh": "社交侦探，核查关注与私信收件箱，写骗子和假号案卷，并标出附近不宜敲门的万圣节房子",
+      "import": "https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx",
+      "category": "personal-admin",
+      "tags": [
+        "security",
+        "social",
+        "scam",
+        "personal"
+      ],
+      "source": "https://x.com/Rune_King_Jake/status/2105984890567262510",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw"
+    },
+    {
       "slug": "botops-u00b7-chief-of-staff",
       "name": "BotOps · Chief of Staff",
       "author": {
@@ -16427,6 +16450,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "decoder",
+      "name": "Decoder",
+      "author": {
+        "name": "Nomis",
+        "url": "https://x.com/cradrrat"
+      },
+      "summary": "Turns dense reports, PDFs, and technical docs into plain-English capsules you can actually use",
+      "summary_zh": "把厚报告 PDF 和技术文档收成能直接用的白话摘要",
+      "import": "https://x.ai/bot/5N9HO674YlxHiZhyj9ND9",
+      "category": "research-briefings",
+      "tags": [
+        "docs",
+        "summary",
+        "pdf",
+        "research"
+      ],
+      "source": "https://x.com/cradrrat/status/2105954110310904264",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw"
+    },
+    {
       "slug": "dee-jay",
       "name": "Dee Jay!",
       "author": {
@@ -23828,6 +23874,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fresh-eyes-product-auditor",
+      "name": "Fresh Eyes Product Auditor",
+      "author": {
+        "name": "Ev",
+        "url": "https://x.com/Evoputa"
+      },
+      "summary": "Walks your site or app as a brand-new customer, ranks top UX fixes with what it saw, and mocks concrete improvements",
+      "summary_zh": "用新客视角走查站点或应用，按所见排出优先 UX 修复并给出可改的改法示意",
+      "import": "https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd",
+      "category": "coding-shipping",
+      "tags": [
+        "ux",
+        "audit",
+        "product",
+        "founders"
+      ],
+      "source": "https://x.com/Evoputa/status/2105961977977991260",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
       "shelf": "raw"
     },
     {
@@ -40561,6 +40630,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "mythteller",
+      "name": "神叨叨 MythTeller",
+      "author": {
+        "name": "卫平",
+        "url": "https://x.com/weipingzhong"
+      },
+      "summary": "Tells classic Chinese myths in English for Mandarin learners, each ending with one short Chinese line to say out loud",
+      "summary_zh": "给学中文的人用英文讲中国神话，每篇结尾留一句可照读的短中文",
+      "import": "https://x.ai/bot/Ek9omUpu5Rgg19dFiIGzC",
+      "category": "personal-admin",
+      "tags": [
+        "myths",
+        "chinese",
+        "learning",
+        "stories"
+      ],
+      "source": "https://x.com/weipingzhong/status/2105961272420516307",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw"
+    },
+    {
       "slug": "n8n-master",
       "name": "n8n Master",
       "author": {
@@ -40624,6 +40716,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
+      "slug": "name-in-chinese",
+      "name": "Name in Chinese 起名",
+      "author": {
+        "name": "卫平",
+        "url": "https://x.com/weipingzhong"
+      },
+      "summary": "Gives anyone a good Chinese name matched to their own, meaningful and easy to say, plus ready-to-paste X posts",
+      "summary_zh": "按本名音意起好叫的中文名，并起草可直接发的 X 起名帖",
+      "import": "https://x.ai/bot/EUuVhfdZMiZZYYmeK3F7I",
+      "category": "personal-admin",
+      "tags": [
+        "names",
+        "chinese",
+        "personal"
+      ],
+      "source": "https://x.com/weipingzhong/status/2105972330958815349",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
       "shelf": "raw"
     },
     {
@@ -47526,6 +47640,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/proofnetworkbot",
+      "shelf": "raw"
+    },
+    {
+      "slug": "property-decision-os",
+      "name": "Property Decision OS",
+      "author": {
+        "name": "Amervim",
+        "url": "https://x.com/Amervim"
+      },
+      "summary": "Residential property decision assistant that helps evaluate, compare, offer, and close without pushing you to buy",
+      "summary_zh": "住宅置业决策助手，帮你评估比较出价与成交，但不催你买",
+      "import": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
+      "category": "finance-ops",
+      "tags": [
+        "real-estate",
+        "property",
+        "decision",
+        "finance"
+      ],
+      "source": "https://x.com/Amervim/status/2105949142426288483",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
       "shelf": "raw"
     },
     {
@@ -55450,6 +55587,29 @@
       "source": "https://x.com/smoothbrainsai/status/2103033891581759590"
     },
     {
+      "slug": "smudge",
+      "name": "Smudge",
+      "author": {
+        "name": "Gary",
+        "url": "https://x.com/9unsmoke"
+      },
+      "summary": "Rewrites machine-sounding drafts to read like a person wrote them and shows which AI patterns it knocked out",
+      "summary_zh": "把机味草稿改成人写的语气，并标出它动过的 AI 句式",
+      "import": "https://x.ai/bot/H6786swUEkqg8xa3MFVLz",
+      "category": "content-publishing",
+      "tags": [
+        "writing",
+        "rewrite",
+        "style",
+        "editing"
+      ],
+      "source": "https://x.com/9unsmoke/status/2105958022841540909",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
+      "shelf": "raw"
+    },
+    {
       "slug": "snack-bot",
       "name": "Snack Bot",
       "author": {
@@ -58845,6 +59005,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tax-firm-os",
+      "name": "Tax Firm OS",
+      "author": {
+        "name": "Amervim",
+        "url": "https://x.com/Amervim"
+      },
+      "summary": "Office assistant for a tax or accounting firm focused on fast replies, complete docs, and work before due dates",
+      "summary_zh": "税务或会计事务所办公助手，盯快回、齐材料、赶在截止日期前做完",
+      "import": "https://x.ai/bot/vJqjJphtZRkdBTYBxmWur",
+      "category": "finance-ops",
+      "tags": [
+        "tax",
+        "accounting",
+        "office",
+        "ops"
+      ],
+      "source": "https://x.com/Amervim/status/2105949306025128186",
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-02",
       "shelf": "raw"
     },
     {
