@@ -22862,6 +22862,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "fleet-keeper",
+      "name": "Fleet Keeper",
+      "author": {
+        "name": "TheCoderBTW",
+        "url": "https://x.com/TheCoderBtw"
+      },
+      "summary": "Keeps a Grok Bot fleet tidy: inventories bots and channels read-only, flags duplicates, overlaps, stale and unsectioned bots",
+      "summary_zh": "只读清点机器人与频道，标出重复重叠过期与未分组项，帮你把 Grok Bot 舰队收拾整齐",
+      "import": "https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS",
+      "source": "https://x.com/TheCoderBtw/status/2106330061951664444",
+      "category": "teams-handoffs",
+      "tags": [
+        "fleet",
+        "meta-bot",
+        "inventory",
+        "hygiene"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-03",
+      "shelf": "raw"
+    },
+    {
       "slug": "fleet-qc",
       "name": "Fleet QC",
       "author": {
@@ -65158,6 +65181,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04",
+      "shelf": "raw"
+    },
+    {
+      "slug": "voice-operated-pc-assistant",
+      "name": "音声操作PCアシスタント",
+      "author": {
+        "name": "Mishiro",
+        "url": "https://x.com/XARX_ZERO"
+      },
+      "summary": "Voice-controls a PC from bed; scripts handle mute-style actions locally, Grok Bot takes other asks and notifies your phone",
+      "summary_zh": "躺着就能用语音操控电脑，定型操作本地执行，其它请求由机器人接手并通知手机",
+      "import": "https://x.ai/bot/hjYT5yVxhY5d548aSa1UL",
+      "source": "https://x.com/XARX_ZERO/status/2106352532318822741",
+      "category": "personal-admin",
+      "tags": [
+        "voice",
+        "pc",
+        "automation",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-03",
       "shelf": "raw"
     },
     {

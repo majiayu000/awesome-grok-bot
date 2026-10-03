@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 3158 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 3160 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -111,11 +111,11 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Customer & sales](#customer--sales) | 268 |
 | [Finance & ops](#finance--ops) | 393 |
 | [Content & publishing](#content--publishing) | 376 |
-| [Personal admin](#personal-admin) | 802 |
-| [Teams & handoffs](#teams--handoffs) | 386 |
-| **Total** | **3158** |
+| [Personal admin](#personal-admin) | 803 |
+| [Teams & handoffs](#teams--handoffs) | 387 |
+| **Total** | **3160** |
 
-All 3158 share pages returned HTTP 200 on 3 Oct 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 3158 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 3160 share pages returned HTTP 200 on 3 Oct 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 3160 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -3013,6 +3013,7 @@ One share is one bot. Assemble the roster yourself.
 - [writing bot](https://x.ai/bot/gJ4waNMuQoJkQCGX77yF3) - A writing partner for drafting and revising essays, emails, docs, and other prose. It uses a structured revision workflow so the result is clearer and... [mattyp](https://x.com/mattyp).
 - [WTD](https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2) - WTD is a VIP hospitality planning partner for marketing ops - project-plan and status rhythm across tentpoles and ticket banks, nomination-sheet... [jennananpei](https://x.com/jennananpei).
 - [x](https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f) - Looks after an X account\: weekday check-ins, credit-aware lookups, and cross-promo drafts you post yourself. [snowiestein](https://x.com/snowiestein).
+- [音声操作PCアシスタント](https://x.ai/bot/hjYT5yVxhY5d548aSa1UL) - Voice-controls a PC from bed; scripts handle mute-style actions locally, Grok Bot takes other asks and notifies your phone. [Mishiro](https://x.com/XARX_ZERO).
 - [𝕏](https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo) - Capture clerk for high-value links. Paste an X, YouTube, gist, or web URL and it fetches, extracts durable alpha, and commits an archive file via the. [Austin](https://x.com/siraustin).
 - [X Audit](https://x.ai/bot/s50oGLZfiPNSKuTlGsscA) - Audits your own X history for reputational-risk posts and sorts clear ambiguous and screenshot-risk findings. [Divine_machine](https://x.com/Divine_machine).
 - [X Follower Spam Scanner](https://x.ai/bot/sN4FX1kmXF5n1RW8JNorL) - Scans X followers for spam patterns and lists suspects. [HashCons](https://x.com/HashCons).
@@ -3038,6 +3039,7 @@ One share is one bot. Assemble the roster yourself.
 
 ## Teams & handoffs
 
+- [Fleet Keeper](https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS) - Keeps a Grok Bot fleet tidy\: inventories bots and channels read-only, flags duplicates, overlaps, stale and unsectioned bots. [TheCoderBTW](https://x.com/TheCoderBtw).
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).
 - [2nd Brain](https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO) - Keeps a short shared work canon so peer bots start from the same role, goals, VIPs, systems, and decisions. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Adam](https://x.ai/bot/s8cUaz0aoomvjsIyOKANn) - Name an outcome and Adam splits it across your bots, then returns one clear decision. [EdisonTanEdtreo](https://x.com/EdisonTanEdtreo).

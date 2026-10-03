@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 3158 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 3160 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -111,11 +111,11 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Customer & sales](#customer--sales) | 268 |
 | [Finance & ops](#finance--ops) | 393 |
 | [Content & publishing](#content--publishing) | 376 |
-| [Personal admin](#personal-admin) | 802 |
-| [Teams & handoffs](#teams--handoffs) | 386 |
-| **合计** | **3158** |
+| [Personal admin](#personal-admin) | 803 |
+| [Teams & handoffs](#teams--handoffs) | 387 |
+| **合计** | **3160** |
 
-2026 年 10 月 3 日检查时，3158 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 3158 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 3 日检查时，3160 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 3160 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -3013,6 +3013,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [writing bot](https://x.ai/bot/gJ4waNMuQoJkQCGX77yF3) - 写改文章、邮件与文档的搭档，用结构化修订流程让成品更清楚也更像你。 [mattyp](https://x.com/mattyp).
 - [WTD](https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2) - 面向市场运营的 VIP 接待规划搭档，跨场地管项目计划与状态节奏。 [jennananpei](https://x.com/jennananpei).
 - [x](https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f) - 照看一个 X 账号，工作日巡检、额度敏感查询与跨帖节奏. [snowiestein](https://x.com/snowiestein).
+- [音声操作PCアシスタント](https://x.ai/bot/hjYT5yVxhY5d548aSa1UL) - 躺着就能用语音操控电脑，定型操作本地执行，其它请求由机器人接手并通知手机. [Mishiro](https://x.com/XARX_ZERO).
 - [𝕏](https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo) - 高价值链接采集员，粘贴 X、YouTube、gist 或网页 URL，它抓取、摘要并归档. [Austin](https://x.com/siraustin).
 - [X Audit](https://x.ai/bot/s50oGLZfiPNSKuTlGsscA) - 审计你自己的 X 历史，标出明显、暧昧与截图风险帖，方便你决定删留. [Divine_machine](https://x.com/Divine_machine).
 - [X Follower Spam Scanner](https://x.ai/bot/sN4FX1kmXF5n1RW8JNorL) - 扫描 X 关注者的垃圾模式并列出嫌疑. [HashCons](https://x.com/HashCons).
@@ -3038,6 +3039,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Teams & handoffs
 
+- [Fleet Keeper](https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS) - 只读清点机器人与频道，标出重复重叠过期与未分组项，帮你把 Grok Bot 舰队收拾整齐. [TheCoderBTW](https://x.com/TheCoderBtw).
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - 访谈式引导，帮你组出第一支 Bot 花名册。 [A-A-ron](https://x.com/theaaron).
 - [2nd Brain](https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO) - 维护一份短的共享工作正典，让其它机器人从同一套角色、目标、关键人、系统和定论起步. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Adam](https://x.ai/bot/s8cUaz0aoomvjsIyOKANn) - 你说目标，Adam 拆给手下 bot，再收回一个清晰决定. [EdisonTanEdtreo](https://x.com/EdisonTanEdtreo).
