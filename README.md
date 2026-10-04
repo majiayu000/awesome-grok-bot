@@ -3555,26 +3555,6 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [multiBot](https://github.com/simo255/multiBot) - Factory pack that spawns CLI-delegated teammates through CreateAgent.
 - [GojiberryAI Sales OS](https://github.com/romangojiberryAI/gojiberryai-sales-os) - Open outbound sales roster for Grok Bot on the GojiberryAI MCP.
 
-### Indexes
-
-- [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory. Paste a listing into Grok Bot and it sets itself up.
-- [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent-run directory of prompts, plugins, and use cases. PRs are the write API.
-- [GrokMarket](https://grokmarket.io) - Independent directory of public Grok Bot templates with prompts, usage notes, creator attribution, and live x.ai previews.
-- [Grok Bot Templates](https://grokbottemplates.dev/) - Independent directory of public Grok Bot templates with job summaries, pack contents, access notes, and creator attribution.
-- [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - Day-one directory, strong on marketplace format and self-hosted runtimes.
-- [awesome-grok-bot-plugins](https://github.com/rdmgator12/awesome-grok-bot-plugins) - 219 in-app marketplace listings captured 2026-08-12, grouped by category.
-- [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - Ready-to-paste prompt library across productivity, sales, marketing, and ops.
-- [botteams](https://github.com/ellelion/botteams) - Public team directory. Copy one installer prompt and it creates the named Bots and routines.
-- [really.bot](https://github.com/travisrr/really.bot) - Public job board. Verified runs get a serial. Tag @tryreallybot on X to import a thread.
-- [usegrokbot](https://github.com/a70win-wq/usegrokbot) - Searchable library of real workflows with a live discover site at usegrokbot.com.
-- [grok-template](https://github.com/Ritesh-Root/grok-template) - Community marketplace at groktemplate.vercel.app for share links and GitHub packs.
-- [botskills](https://github.com/PramodDutta/botskills) - Paste-ready BOT.md directory. Every listing requires a hard human-approval boundary.
-- [orgbot-hub](https://github.com/AmitMirgal/orgbot-hub) - Directory app for installable team packs that use official x.ai/bot share URLs only.
-- [grokory](https://github.com/andrewkittridge/grokory) - Public ranked board of Grok Bot templates.
-- [awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - Community dump of live x.ai/bot share IDs, including several missing from grokbot.dev.
-- [0xNyk/awesome-grok-bot](https://github.com/0xNyk/awesome-grok-bot) - Independent directory of skills, plugins, MCP, and setup with maturity tags.
-- [grokbot-zh](https://github.com/245678000000/grokbot-zh) - Independent Simplified-Chinese localization of the grokbot.dev marketplace, use-cases, and plugins.
-
 ### Open-source alternatives
 
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use.

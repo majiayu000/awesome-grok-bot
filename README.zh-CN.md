@@ -3555,26 +3555,6 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [multiBot](https://github.com/simo255/multiBot) - 工厂包。用 CreateAgent 拉起把重活交给 CLI 的队友。
 - [GojiberryAI Sales OS](https://github.com/romangojiberryAI/gojiberryai-sales-os) - 挂在 GojiberryAI MCP 上的开源外销销售小队。
 
-### 索引
-
-- [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 社区提示词目录。把一条贴进 Grok Bot，它会自己搭起来。
-- [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - 代理在跑的提示词、插件和用法目录。PR 就是写入接口。
-- [GrokMarket](https://grokmarket.io) - 公开 Grok Bot 模板的独立目录，提供提示词、使用说明、作者来源和 x.ai 在线预览。
-- [Grok Bot Templates](https://grokbottemplates.dev/) - 公开 Grok Bot 模板的独立目录，展示任务、包内容、所需权限和分享者。
-- [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - 第一天就立的目录，市场格式和自托管运行时写得细。
-- [awesome-grok-bot-plugins](https://github.com/rdmgator12/awesome-grok-bot-plugins) - 2026 年 8 月 12 日抓到的 219 条应用内市场上架，按类排。
-- [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 可粘贴的提示词库，覆盖效率、销售、营销和运营。
-- [botteams](https://github.com/ellelion/botteams) - 公开团队目录。复制一条安装提示，它会建出具名 Bot 和例行任务。
-- [really.bot](https://github.com/travisrr/really.bot) - 公开活单板。核过的跑法有编号。在 X 上 @tryreallybot 就能导入一条帖。
-- [usegrokbot](https://github.com/a70win-wq/usegrokbot) - 可搜的真实工作流库，线上发现站是 usegrokbot.com。
-- [grok-template](https://github.com/Ritesh-Root/grok-template) - 社区市场 groktemplate.vercel.app，收分享链接和 GitHub 包。
-- [botskills](https://github.com/PramodDutta/botskills) - 可粘贴的 BOT.md 目录。每条都强制留人审这一刀。
-- [orgbot-hub](https://github.com/AmitMirgal/orgbot-hub) - 团队包目录应用，只收官方 `https://x.ai/bot/…` 分享。
-- [grokory](https://github.com/andrewkittridge/grokory) - 公开的 Grok Bot 模板排行板。
-- [awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - 社区收的活 x.ai/bot 分享 ID，里面有几条 grokbot.dev 上没有。
-- [0xNyk/awesome-grok-bot](https://github.com/0xNyk/awesome-grok-bot) - 独立目录。技能、插件、MCP 和起步指南，带成熟度标签。
-- [grokbot-zh](https://github.com/245678000000/grokbot-zh) - grokbot.dev 的独立简体中文本地化目录站可克隆部署。
-
 ### 开源替代
 
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) - 开源替代，带虚拟机给 Bot 用。
