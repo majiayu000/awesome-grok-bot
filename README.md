@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 3189 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 3197 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -105,17 +105,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 410 |
-| [Inbox & calendar](#inbox--calendar) | 126 |
-| [Research & briefings](#research--briefings) | 405 |
-| [Customer & sales](#customer--sales) | 271 |
+| [Coding & shipping](#coding--shipping) | 411 |
+| [Inbox & calendar](#inbox--calendar) | 127 |
+| [Research & briefings](#research--briefings) | 407 |
+| [Customer & sales](#customer--sales) | 272 |
 | [Finance & ops](#finance--ops) | 397 |
 | [Content & publishing](#content--publishing) | 377 |
-| [Personal admin](#personal-admin) | 814 |
-| [Teams & handoffs](#teams--handoffs) | 389 |
-| **Total** | **3189** |
+| [Personal admin](#personal-admin) | 816 |
+| [Teams & handoffs](#teams--handoffs) | 390 |
+| **Total** | **3197** |
 
-All 3189 share pages returned HTTP 200 on 4 Oct 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 3189 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 3197 share pages returned HTTP 200 on 4 Oct 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 3197 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -511,6 +511,7 @@ One share is one bot. Assemble the roster yourself.
 - [Peekaboo Mac](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) - Adds screen recording, screenshots and UI input to your registered Macs. [brandon_ai](https://x.com/brandon_ai).
 - [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) - Audits one URL the way AI crawlers see it and drafts an llms.txt patch list. [ericesoteric](https://x.com/ericesoteric).
 - [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) - Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point. [SpaceX](https://x.com/DenisLabelle).
+- [Phera's Beast Box](https://x.ai/bot/MkG-J2nMNHByC033LoaDT) - Installs and runs The Beast Box engine on its computer with a dashboard, local transformer, and switchable model brains. [Zerefs](https://x.com/phera46334652).
 - [Phone Use Bot](https://x.ai/bot/SjBZH94wJlen_fuVsoYaO) - Drives your Android remotely\: mirrored screen, taps on your behalf. [harshmanojjain](https://x.com/harshmanojjain).
 - [Pip (QA)](https://x.ai/bot/o2tkDy7VSw45sbWViOO16) - Playtests your app twice\: as a confused first-timer, then as a rigorous adult reviewer. [EmergentContent](https://x.com/EmergentContent).
 - [Piper | ETL & Pipelines](https://x.ai/bot/eQ3bzQTxNshSUzytoh29P) - Stands up and feeds an event-log store once your schema is settled. [damianoredem](https://x.com/damianoredem).
@@ -758,6 +759,7 @@ One share is one bot. Assemble the roster yourself.
 - [Polo](https://x.ai/bot/R-i5_wHeR_cBinyLVyvWh) - Watches your inbox for questions you can already answer from mail or files you already have. Leaves a short draft in your mailbox and asks before... [soleio](https://x.com/soleio).
 - [Product Support Inbox Assistant](https://x.ai/bot/Rw8d83KAzTYQWBAtAscin) - Helps you find and draft answers to product questions. Never sends emails without you. [Anoop Baliga](https://x.com/akbaliga96).
 - [Pulse](https://x.ai/bot/nkmFntyGYALNwmUBMXCWj) - Vision-first work–health balance coach. Drop gym snaps, meal labels, and calendar shots — get a green/yellow/red balance plan morning and evening, plus. [FariborzBaghaei](https://x.com/FariborzBaghaei).
+- [Quiet Inbox](https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4) - Archives promo and junk in Gmail without deleting, and keeps weekly bills and events notes as drafts until you send. [Ben](https://x.com/signalnoise8020).
 - [Receipt Scanner / Expense Tracking](https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp) - Forward a receipt and it becomes a row in your expense sheet. [limeunfiltered](https://x.com/limeunfiltered).
 - [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) - Holds the small reminders that never make it onto your calendar. [Damon](https://x.com/damonchen).
 - [Rep Coach](https://x.ai/bot/wJRcag7l4xPBW4Hc_mA0_) - Rep coach for practice reps with feedback you can reuse. Joseph.
@@ -856,6 +858,7 @@ One share is one bot. Assemble the roster yourself.
 - [Competitive Intelligence Analyst](https://x.ai/bot/sa2d131975aaab07e43f2) - Monitors overnight for competitor launches and audits your own site for fatigued creative and stale messaging. [SpaceX](https://x.com/DenisLabelle).
 - [Competitive Landscape Desk](https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY) - Sourced competitor comparison table with clear options and a recommendation. [Cypher0x9](https://x.com/Cypher0x9).
 - [Competitive Snake Alert](https://x.ai/bot/NqCINqE9LDY9XTw2vP_XT) - Watches a named competitor list and drafts short snake alerts. community.
+- [Competitor Intel](https://x.ai/bot/PIBCWeB59T-UhxyBNLowR) - Researches competitors for a local service business and files a weekly report with cited moves, research only. [Joshua](https://x.com/TheReal_BCM).
 - [Competitor Monitor](https://x.ai/bot/9msshkJeF5cnzAw8tF4vi) - Glasser-powered competitor monitoring bot for ongoing competitive intel inside Grok Bot. [iammutex](https://x.com/iammutex).
 - [Competitor Watch](https://x.ai/bot/aw0Zj54sIsAK7vMnajdz0) - Tracks competitor pricing, product, and hiring pages and briefs you on real changes. Starts from a list of URLs you paste. [Shimecki](https://x.com/scheemunai).
 - [Competitor Watching](https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N) - Snapshots you against 3-8 competitors and alerts only on material change. [Andrej](https://x.com/scheemunai).
@@ -1190,6 +1193,7 @@ One share is one bot. Assemble the roster yourself.
 - [全球宏观分析师](https://x.ai/bot/08RSf587bOlWhbQai6A3I) - Reads big macro events for what they do to rates, the dollar, gold, crypto and equities. [Fund_Monkey](https://x.com/Fund_Monkey).
 - [最值得关注的Grok Bot 推文？](https://x.ai/bot/lFDR77qKaT3Iglzv9pUac) - A twice-daily Chinese-language sweep of top Grok Bot accounts. [MaiYangAI](https://x.com/MaiYangAI).
 - [左左的AI情报员](https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt) - Chinese AI intel daily from a fixed 46-source list with verify, dedupe, and importance scoring. [左左](https://x.com/zuoyou_ai).
+- [微信文章捕手](https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g) - Fetches a WeChat public-account article into Markdown and JSON with title, account, time, body, and images. [铁柱AGI](https://x.com/cgnot996).
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - Morning blueberry research monitor that stays quiet when nothing new matters. [Bizuayeu](https://x.com/Bizuayeu).
 - [观潮](https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW) - Cross-market research desk for A/HK/US plus macros, watchlists, theme logs, and decision leanings \(not advice\). [wifibaby4u](https://x.com/wifibaby4u).
 
@@ -1386,6 +1390,7 @@ One share is one bot. Assemble the roster yourself.
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE territory pipeline bot for book-level outreach, meetings, and potential ARR. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Phone with Bland](https://x.ai/bot/4BmzjFu_i3mVd58irr1x1) - Give any Grok Bot its own dedicated phone number and voice so it can text and call for you. Book restaurants, follow up with leads, or ping someone you. [usebland](https://x.com/usebland).
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) - Lets your bot place and receive real phone calls. [ibelevy](https://x.com/ibelevy).
+- [Photo & Video Shoot Confirmations](https://x.ai/bot/iduDVp02VHu06-XddxcSD) - Weather-aware shoot confirmations for photographers and drone pilots, emailing clients 48 hours before location shoots. [Timothy](https://x.com/TimFPhotography).
 - [Pipeline Pulse](https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev) - Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed... [Krista Letz](https://x.com/kristaletz).
 - [Pipeline Scout](https://x.ai/bot/9KmU329RgFvaDOhtyc20x) - Drop 10-30 target accounts. Pipeline Scout pulls public intent and news, scores ICP fit with reasons and risks, then drafts email + LinkedIn in your. [Don](https://x.com/Screaming_Chkn).
 - [Plant Field OS](https://x.ai/bot/rAdegh2szovJbQjFsdxYa) - A field-sales day for industrial reps covering plan, installed base, and audit. [Quantumcowgirl1](https://x.com/Quantumcowgirl1).
@@ -2571,6 +2576,7 @@ One share is one bot. Assemble the roster yourself.
 - [Guest Map](https://x.ai/bot/LPl_hG0oMFB4vMy1T_fJi) - RSVP guest map with constraints and draft seating. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Guide](https://x.ai/bot/TbFMZABkeH7gyIIGxjfdU) - Turns a booked trip into a day-by-day plan you can follow. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Gym Bod](https://x.ai/bot/3mtiwFoZcEMq59w-49DMS) - Claims your spot in busy gym classes as registration opens. [peter](https://x.com/DrPB).
+- [Gym Bot](https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1) - Daily gym and calorie coach for HYROX and strength training with wearable recovery and meal suggestions. [Rakshita](https://x.com/rakshitaphilip).
 - [GYM Food Maker](https://x.ai/bot/UFKxL8MM1NFCYsaevZV16) - High-protein meal planner for muscle building from what you actually buy, with calories and protein. [CharioBro](https://x.com/CharioBro).
 - [Habit Referee](https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90) - Holds you to exactly one small habit, and nothing else. [GrokBotGod](https://x.com/GrokBotGod).
 - [Hailfade](https://x.ai/bot/mjwNOk2Bc2k9ZkaUaiwCk) - Hail early-warning for Starlink farms that alerts yellow or red when the satellite link fades and guides sentinel install. [Arnaud](https://x.com/LaLascaux).
@@ -2816,6 +2822,7 @@ One share is one bot. Assemble the roster yourself.
 - [Plan Precheck Bot](https://x.ai/bot/2AX61eyWkS5Z2JzMrgv7E) - Upload a plan set to identify potential issues, generate precise markups, and prepare an expert review package for licensed professional review. [Tina](https://x.com/TinaDS61).
 - [Plaquemax](https://x.ai/bot/KZ1cKh5hlgqicxQhn3C2e) - Ops helper around Plaquemax workflows and day-to-day checks. [ChrisAdcockMD](https://x.com/ChrisAdcockMD).
 - [PlatedBot](https://x.ai/bot/BKc15xZxPubB79NV4fD8n) - Cook companion that turns what you have into a plated meal, then hands you a copy-paste X post of the short recipe for you to easily share. taylorim@gmail\.com.
+- [Playlist Curator](https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF) - Curates a NetEase Cloud Music work playlist from likes and history with ~90-minute refreshes and delete feedback. [Ian](https://x.com/doitian).
 - [Poe](https://x.ai/bot/EcUpzABnh3MfZQTN7inmP) - A gothic literary companion that sets a midnight puzzle and unpicks mysteries. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Poppy](https://x.ai/bot/9KtAyfV4w8ZPXJYsZX3No) - Feisty British household concierge for local events, grocery deals, home trees, and travel fares. [Gilles](https://x.com/GillesGuenette3).
 - [Porter](https://x.ai/bot/AIymMNJms4j1HgXNqutxL) - Porter is your Switchboard secretary\: look up agents, knock, and handle mailbox turns quietly. Import to self-connect to... [Lukas](https://x.com/Lukas).
@@ -3307,6 +3314,7 @@ One share is one bot. Assemble the roster yourself.
 - [Meeting Recap Desk](https://x.ai/bot/pmHKMlkRfVnvDS5MfRTS8) - Meeting notes to recap with decisions, action items and owners. [Cypher0x9](https://x.com/Cypher0x9).
 - [Memory](https://x.ai/bot/HDD8-K7IXKY6l_VPHag_E) - Stores durable project memory so new chats pick up cleanly. Code.
 - [Mercury](https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L) - A standing tech lead that holds the system picture and delegates the coding out. [Mujeeb](https://x.com/chiefjeeb).
+- [Mermaid Status Drop](https://x.ai/bot/TXG6WrWp8Dp0-GQq558In) - One-shot import that installs a mermaid open-tasks skill account-wide, then asks you to delete the carrier bot. [Lukas](https://x.com/weichselbauml).
 - [Miffy - Maintenance Triage](https://x.ai/bot/gKgo-_MM29kfcD9qiZf2A) - Coordinates residential maintenance bots end to end with intake, P1–P4 triage, and dispatch handoffs. Miffy.
 - [Milton](https://x.ai/bot/5YgcLARrgqBSqoMMR_7dQ) - Team ops bot Milton for paperwork flow and routine coordination. [Trimmer10117](https://x.com/Trimmer10117).
 - [Mission Control](https://x.ai/bot/GGnJOdH3hv321H2QES9UE) - Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet. [scottxmetcalf](https://x.com/scottxmetcalf).

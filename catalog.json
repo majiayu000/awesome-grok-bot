@@ -13139,6 +13139,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "competitor-intel",
+      "name": "Competitor Intel",
+      "author": {
+        "name": "Joshua",
+        "url": "https://x.com/TheReal_BCM"
+      },
+      "summary": "Researches competitors for a local service business and files a weekly report with cited moves, research only",
+      "summary_zh": "给本地服务生意查竞品并写带出处的周报，只做研究不外联不定价",
+      "import": "https://x.ai/bot/PIBCWeB59T-UhxyBNLowR",
+      "source": "https://x.com/TheReal_BCM/status/2106677552559366225",
+      "category": "research-briefings",
+      "tags": [
+        "competitors",
+        "local",
+        "research",
+        "weekly"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
+    },
+    {
       "slug": "competitor-monitor",
       "name": "Competitor Monitor",
       "author": {
@@ -28402,6 +28425,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "gym-bot",
+      "name": "Gym Bot",
+      "author": {
+        "name": "Rakshita",
+        "url": "https://x.com/rakshitaphilip"
+      },
+      "summary": "Daily gym and calorie coach for HYROX and strength training with wearable recovery and meal suggestions",
+      "summary_zh": "HYROX 与力量训练的每日健身房加热量教练，接可穿戴恢复并建议三餐",
+      "import": "https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1",
+      "source": "https://x.com/rakshitaphilip/status/2106668500534382993",
+      "category": "personal-admin",
+      "tags": [
+        "gym",
+        "calories",
+        "hyrox",
+        "fitness"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
+    },
+    {
       "slug": "gym-food-maker",
       "name": "GYM Food Maker",
       "author": {
@@ -40285,6 +40331,29 @@
       "source": "https://x.com/ChiChi077/status/2105074230882713805"
     },
     {
+      "slug": "mermaid-status-drop",
+      "name": "Mermaid Status Drop",
+      "author": {
+        "name": "Lukas",
+        "url": "https://x.com/weichselbauml"
+      },
+      "summary": "One-shot import that installs a mermaid open-tasks skill account-wide, then asks you to delete the carrier bot",
+      "summary_zh": "一次性导入，把 Mermaid 未结任务技能装进账户库，再请你删掉这个载体机器人",
+      "import": "https://x.ai/bot/TXG6WrWp8Dp0-GQq558In",
+      "source": "https://x.com/weichselbauml/status/2106716988848660782",
+      "category": "teams-handoffs",
+      "tags": [
+        "mermaid",
+        "status",
+        "skills",
+        "handoffs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
+    },
+    {
       "slug": "merott",
       "name": "Merott",
       "author": {
@@ -46566,6 +46635,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "pheras-beast-box",
+      "name": "Phera's Beast Box",
+      "author": {
+        "name": "Zerefs",
+        "url": "https://x.com/phera46334652"
+      },
+      "summary": "Installs and runs The Beast Box engine on its computer with a dashboard, local transformer, and switchable model brains",
+      "summary_zh": "在自己电脑上安装并跑 Beast Box 引擎，带仪表盘、本地变换器与可切换模型脑",
+      "import": "https://x.ai/bot/MkG-J2nMNHByC033LoaDT",
+      "source": "https://x.com/phera46334652/status/2106687216181281032",
+      "category": "coding-shipping",
+      "tags": [
+        "beast-box",
+        "local",
+        "models",
+        "dashboard"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
+    },
+    {
       "slug": "phil",
       "name": "Phil",
       "author": {
@@ -46720,6 +46812,29 @@
       "updated": "2026-10-03",
       "shelf": "raw",
       "source": "https://x.com/OliverRCote/status/2105824781123616970"
+    },
+    {
+      "slug": "photo-video-shoot-confirmations",
+      "name": "Photo & Video Shoot Confirmations",
+      "author": {
+        "name": "Timothy",
+        "url": "https://x.com/TimFPhotography"
+      },
+      "summary": "Weather-aware shoot confirmations for photographers and drone pilots, emailing clients 48 hours before location shoots",
+      "summary_zh": "面向摄影摄像与无人机的天气感知拍摄确认，开拍前 48 小时给客户发邮件",
+      "import": "https://x.ai/bot/iduDVp02VHu06-XddxcSD",
+      "source": "https://x.com/TimFPhotography/status/2106715972744929301",
+      "category": "customer-sales",
+      "tags": [
+        "photography",
+        "weather",
+        "clients",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
     },
     {
       "slug": "photofix",
@@ -47140,6 +47255,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "playlist-curator",
+      "name": "Playlist Curator",
+      "author": {
+        "name": "Ian",
+        "url": "https://x.com/doitian"
+      },
+      "summary": "Curates a NetEase Cloud Music work playlist from likes and history with ~90-minute refreshes and delete feedback",
+      "summary_zh": "按喜欢与听歌史编网易云工作歌单，约九十分钟刷新并按删除反馈滚动",
+      "import": "https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF",
+      "source": "https://x.com/doitian/status/2106709075279110337",
+      "category": "personal-admin",
+      "tags": [
+        "playlist",
+        "netease",
+        "music",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
       "shelf": "raw"
     },
     {
@@ -49633,6 +49771,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-11",
+      "shelf": "raw"
+    },
+    {
+      "slug": "quiet-inbox",
+      "name": "Quiet Inbox",
+      "author": {
+        "name": "Ben",
+        "url": "https://x.com/signalnoise8020"
+      },
+      "summary": "Archives promo and junk in Gmail without deleting, and keeps weekly bills and events notes as drafts until you send",
+      "summary_zh": "归档 Gmail 促销与垃圾从不删除，周账单与活动笔记先留草稿等你发送",
+      "import": "https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4",
+      "source": "https://x.com/signalnoise8020/status/2106689012920353135",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "archive",
+        "bills",
+        "inbox"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
       "shelf": "raw"
     },
     {
@@ -66850,6 +67011,29 @@
       "verified": false,
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/webwiz-TQ8cECPo",
+      "shelf": "raw"
+    },
+    {
+      "slug": "wechat-article-catcher",
+      "name": "微信文章捕手",
+      "author": {
+        "name": "铁柱AGI",
+        "url": "https://x.com/cgnot996"
+      },
+      "summary": "Fetches a WeChat public-account article into Markdown and JSON with title, account, time, body, and images",
+      "summary_zh": "把微信公众号文章链接抓成 Markdown 与 JSON，带上标题公众号时间正文与图片",
+      "import": "https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g",
+      "source": "https://x.com/cgnot996/status/2106700585370374377",
+      "category": "research-briefings",
+      "tags": [
+        "wechat",
+        "markdown",
+        "scrape",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
       "shelf": "raw"
     },
     {
