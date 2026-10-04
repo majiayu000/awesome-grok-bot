@@ -295,6 +295,29 @@
       "source": "https://x.com/Gman_McCann/status/2101446903904792763"
     },
     {
+      "slug": "aaron-event-finder",
+      "name": "Aaron, Event Finder",
+      "author": {
+        "name": "Frederick",
+        "url": "https://x.com/FrederickPaiSu"
+      },
+      "summary": "Finds date-checked local events within your drive time from any ZIP, turns them into a day plan, and re-checks that morning",
+      "summary_zh": "按邮编与车程找已核对日期的本地活动，排成当日行程，并在当天早晨再核一遍",
+      "import": "https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz",
+      "source": "https://x.com/FrederickPaiSu/status/2106624130556854592",
+      "category": "personal-admin",
+      "tags": [
+        "events",
+        "local",
+        "planning",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
+    },
+    {
       "slug": "abdolamunir-bot",
       "name": "abdolamunir bot",
       "author": {
@@ -5079,6 +5102,29 @@
       "verified": false,
       "updated": "2026-10-01",
       "shelf": "aka"
+    },
+    {
+      "slug": "billionaire-bot",
+      "name": "BillionaireBot",
+      "author": {
+        "name": "Diego",
+        "url": "https://x.com/innrstand"
+      },
+      "summary": "Wealth and business assistant you aim at company cash, a media business, or personal wealth once you set the focus",
+      "summary_zh": "财富与生意助理，由你指定盯公司现金、媒体业务或个人财富",
+      "import": "https://x.ai/bot/y-phHxm4D_W32YEi-z6VB",
+      "source": "https://x.com/innrstand/status/2106601403779010612",
+      "category": "finance-ops",
+      "tags": [
+        "wealth",
+        "business",
+        "finance",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
     },
     {
       "slug": "billionairebot",
@@ -19872,6 +19918,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "email-assist",
+      "name": "Email Assist",
+      "author": {
+        "name": "Melvin",
+        "url": "https://x.com/melvindvivas"
+      },
+      "summary": "Watches your inbox on weekday mornings and only pings when something looks important, never sends unless you ask",
+      "summary_zh": "工作日早晨扫收件箱，只在像要紧时才提醒你，未经允许不回信不发信",
+      "import": "https://x.ai/bot/tVeYePJvkcwbseg_vtnEt",
+      "source": "https://x.com/melvindvivas/status/2106635452703027355",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "inbox",
+        "triage",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
+    },
+    {
       "slug": "email-assistant",
       "name": "Email Assistant",
       "author": {
@@ -21676,6 +21745,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-16",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fantasy-football-analyst",
+      "name": "Fantasy Football Analyst",
+      "author": {
+        "name": "Kacey",
+        "url": "https://x.com/KaceyC13"
+      },
+      "summary": "Coaches fantasy football drafts live, sets weekly lineups, and suggests waivers with byes, injuries, and scoring in mind",
+      "summary_zh": "现场帮你打梦幻橄榄球选秀，排每周阵容，并结合轮休伤病与计分建议拾人",
+      "import": "https://x.ai/bot/QyGWyxX5eOLem3J5J1qAp",
+      "source": "https://x.com/KaceyC13/status/2106611146510020654",
+      "category": "research-briefings",
+      "tags": [
+        "fantasy",
+        "football",
+        "sports",
+        "lineups"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
       "shelf": "raw"
     },
     {
@@ -24580,6 +24672,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
+      "shelf": "raw"
+    },
+    {
+      "slug": "frock-bot",
+      "name": "Frock Bot",
+      "author": {
+        "name": "Stephen",
+        "url": "https://x.com/SM_Schmitt"
+      },
+      "summary": "Bible study assistant for Scripture and historic Christian interpretation, a research tool not a pastor or final authority",
+      "summary_zh": "经文与历史基督教释义的研经助理，是研究工具不是牧师或最终权威",
+      "import": "https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d",
+      "source": "https://x.com/SM_Schmitt/status/2106634217274949926",
+      "category": "research-briefings",
+      "tags": [
+        "bible",
+        "research",
+        "theology",
+        "study"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
       "shelf": "raw"
     },
     {
@@ -36796,6 +36911,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "linkedin-automation",
+      "name": "LinkedIn Automation",
+      "author": {
+        "name": "Melvin",
+        "url": "https://x.com/melvindvivas"
+      },
+      "summary": "Drafts LinkedIn posts in your voice, likes topic posts, and saves buyer-looking prospects into one Google Sheet per tab",
+      "summary_zh": "用你的口吻起草 LinkedIn 帖、按主题点赞，并把像买家的线索存进一张分标签的表格",
+      "import": "https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v",
+      "source": "https://x.com/melvindvivas/status/2106607219672519000",
+      "category": "customer-sales",
+      "tags": [
+        "linkedin",
+        "leads",
+        "posts",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
+    },
+    {
       "slug": "linkedin-bot",
       "name": "LinkedIn Bot",
       "author": {
@@ -47705,6 +47843,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "precision-3d-helper",
+      "name": "Precision 3D Helper",
+      "author": {
+        "name": "Srini",
+        "url": "https://x.com/srinimaram"
+      },
+      "summary": "Answers shop customer questions, quotes with quantity discounts, picks PLA or PETG, and helps fix Bambu Lab prints",
+      "summary_zh": "答小店客户问题、算批量报价、选 PLA 或 PETG，并帮修 Bambu Lab 打印问题",
+      "import": "https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ",
+      "source": "https://x.com/srinimaram/status/2106655043843674335",
+      "category": "customer-sales",
+      "tags": [
+        "3d-print",
+        "quotes",
+        "retail",
+        "support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
+      "shelf": "raw"
+    },
+    {
       "slug": "precog-wars",
       "name": "Precog wARS",
       "author": {
@@ -54903,6 +55064,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-06",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sergeant-major",
+      "name": "Sergeant Major",
+      "author": {
+        "name": "War",
+        "url": "https://x.com/HowitzerN"
+      },
+      "summary": "Reviews your other bots' work and flags what is missing, wrong, or still waiting on you across several assistants",
+      "summary_zh": "审你其他机器人的产出，标出缺漏、错误，或仍等你拍板的事项",
+      "import": "https://x.ai/bot/TkXI7PlT3q7g3mk7XsICi",
+      "source": "https://x.com/HowitzerN/status/2106617542244708508",
+      "category": "teams-handoffs",
+      "tags": [
+        "review",
+        "bots",
+        "qa",
+        "handoffs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-04",
       "shelf": "raw"
     },
     {

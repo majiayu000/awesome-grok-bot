@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 3181 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 3189 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -106,16 +106,16 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | 分类 | 收录数 |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 410 |
-| [Inbox & calendar](#inbox--calendar) | 125 |
-| [Research & briefings](#research--briefings) | 403 |
-| [Customer & sales](#customer--sales) | 269 |
-| [Finance & ops](#finance--ops) | 396 |
+| [Inbox & calendar](#inbox--calendar) | 126 |
+| [Research & briefings](#research--briefings) | 405 |
+| [Customer & sales](#customer--sales) | 271 |
+| [Finance & ops](#finance--ops) | 397 |
 | [Content & publishing](#content--publishing) | 377 |
-| [Personal admin](#personal-admin) | 813 |
-| [Teams & handoffs](#teams--handoffs) | 388 |
-| **合计** | **3181** |
+| [Personal admin](#personal-admin) | 814 |
+| [Teams & handoffs](#teams--handoffs) | 389 |
+| **合计** | **3189** |
 
-2026 年 10 月 4 日检查时，3181 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 3181 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 4 日检查时，3189 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 3189 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -698,6 +698,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [E-mail Organizer](https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd) - 荷兰语 Gmail 管家，按供应商贴标签、清噪声，并把发票收到 Payments。 [Leendert Goedbloed](https://x.com/leingoedbloed).
 - [Emai](https://x.ai/bot/iLxlC_78W0dUaB7La8T5p) - 收件箱分拣助手，清掉促销简报与批量摘要，保住真正要回的信. [arthur_win8](https://x.com/arthur_win8).
 - [Email](https://x.ai/bot/BFjaZlR93AzcnDagMhktC) - 护住你的邮件注意力，狠分拣，只起草真正要紧的回复，未经你点头绝不发送。 [Andrew Kittridge](https://x.com/andrewkittridge).
+- [Email Assist](https://x.ai/bot/tVeYePJvkcwbseg_vtnEt) - 工作日早晨扫收件箱，只在像要紧时才提醒你，未经允许不回信不发信. [Melvin](https://x.com/melvindvivas).
 - [Email Bot](https://x.ai/bot/Eh-OqlRNqTiMZcAqhwa5l) - 友好的 Gmail 助手. [degen4lyfe_](https://x.com/degen4lyfe_).
 - [Email Filter](https://x.ai/bot/VG2EVGqav2OeE_HiroQNY) - 分拣工作与私人收件箱，标出待回、新客与钱或法律邮件. [AirbossHVAC](https://x.com/AirbossHVAC).
 - [Email Manager](https://x.ai/bot/CtX-cw1UJDjArdr8BrQa0) - 先审后清的 Gmail 清理，编号待删候选项、学习回收站、退订队列，并跟踪准确率再谈高置信自动删. [dfer2dfer](https://x.com/dfer2dfer).
@@ -915,6 +916,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [family wordpress helpdesk](https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b) - 给管家里 WordPress 站的亲戚当帮助台。 [joshkim](https://x.com/joshkim).
 - [Fantasy Football](https://x.ai/bot/VWAXuVB5VI6ScHdO97Bh0) - 全年幻想橄榄球台，帮你决定首发、板凳和交易。 [notswizz](https://x.com/notswizz).
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) - 像总经理一样管你的 ESPN 幻想队，动作要你点头。 [Colehollander10](https://x.com/Colehollander10).
+- [Fantasy Football Analyst](https://x.ai/bot/QyGWyxX5eOLem3J5J1qAp) - 现场帮你打梦幻橄榄球选秀，排每周阵容，并结合轮休伤病与计分建议拾人. [Kacey](https://x.com/KaceyC13).
 - [FantasyPros Advisor](https://x.ai/bot/V8K1AF5zUZ4ccH5KIajZI) - 只读FantasyPros研究助手，看排名、预测、伤病与首发建议. [robertqff9](https://x.com/robertqff9).
 - [Fed + X Brief](https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM) - 工作日早间汇总美联储与市场，并建议今天该发帖、引用还是观望。 [0xashrk](https://x.com/0xashrk).
 - [Feedback Clock](https://x.ai/bot/ySceLccAh5J8IVnq62mQl) - 压缩「做一次」和「得到评判」之间的时间差。 [Sultanov](https://x.com/thekuchh).
@@ -931,6 +933,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Founder Mode](https://x.ai/bot/BpLQHWMypQAV3e61cyFb2) - 压力测试创业点子，并拼好起步文书. [shiftynick](https://x.com/shiftynick).
 - [Frankie](https://x.ai/bot/kkzSk0Qr6k5kcIcCGS95R) - 比特币优先的投资研究搭子，只做教育向决策支持，不是持牌顾问. [Michael](https://x.com/Michael).
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) - 扫你自己的 X 私信，告诉你现在该回哪几条。 [pukerrainbrow](https://x.com/pukerrainbrow).
+- [Frock Bot](https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d) - 经文与历史基督教释义的研经助理，是研究工具不是牧师或最终权威. [Stephen](https://x.com/SM_Schmitt).
 - [Front Desk](https://x.ai/bot/jnIfY8WX6xUVvjs26aDnI) - 笔记与知识库整理助手. community.
 - [Future Brief](https://x.ai/bot/Iz0LWM0LPNCXGUOwJMiR3) - Rich Brew Co 的自适应个人台. [richbrewco](https://x.com/richbrewco).
 - [Galaxy Watcher](https://x.ai/bot/2wqxkRfKmZSX1u0FSMA-I) - 9 月 15，17 日直播的 Grok Bot Galaxy 书记。 [prepperevol](https://x.com/prepperevol).
@@ -1335,6 +1338,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) - 承接屋顶线索，起草短信邮件并交接快速报价. [Legend](https://x.com/legendRoofingCo).
 - [LEGO Helper](https://x.ai/bot/ARECkfOiBshpEB8egjavB) - 在 Google 表跟踪乐高买卖，拉零售商邮件，登记新套装，eBay 售出标为已售. [NoahDavidATL](https://x.com/NoahDavidATL).
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) - 重写 LinkedIn 资料，并在工作日批量处理邀请. [scottxmetcalf](https://x.com/scottxmetcalf).
+- [LinkedIn Automation](https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v) - 用你的口吻起草 LinkedIn 帖、按主题点赞，并把像买家的线索存进一张分标签的表格. [Melvin](https://x.com/melvindvivas).
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) - 把 LinkedIn 导出做成可搜的记忆，含帖子与私信。 [isb](https://x.com/isb).
 - [LinkedIn Campaign Manager](https://x.ai/bot/s4d10d16bdbe2391aa753) - 把广告、表单、跟进、UTM 串成一条一致的获客漏斗，投放先出草稿等你批. [SpaceX](https://x.com/DenisLabelle).
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) - 每天按你定的规则审核 LinkedIn 邀请。 [AJ](https://x.com/SEO).
@@ -1388,6 +1392,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Plugin marketer](https://x.ai/bot/cq1VBt-BdBTe7dR10TdOG) - 免费桌面音频插件套件的务实增长负责人，起草目录投稿、功能说明与发布节奏. [uncannyzebra](https://x.com/uncannyzebra).
 - [Portfolio CEO Ops](https://x.ai/bot/C8zLE_qeEWxbMCGqB4JGN) - 多公司创始人的组合 CEO 桌，读 WhatsApp 公司列表里的客户请求，建客户群并跑运营. [IronmanCrypto](https://x.com/IronmanCrypto).
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) - 每次会后放下待办和一封跟进草稿。 [Priya](https://x.com/itspriyaptl).
+- [Precision 3D Helper](https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ) - 答小店客户问题、算批量报价、选 PLA 或 PETG，并帮修 Bambu Lab 打印问题. [Srini](https://x.com/srinimaram).
 - [Price Drop Hawk](https://x.ai/bot/R8lqHbIMtEDvv67kZg8l0) - 盯公开标价，降价像样时再提醒. Joseph.
 - [Price Watcher](https://x.ai/bot/gx_tDF4sgWMOvZfFQunmz) - 监控公开网页上的购买目标，像样优惠再提醒. Marcus.
 - [Product Ads](https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr) - 在 Grok Bot 里为店铺投放与优化广告. [ColinMcDermott](https://x.com/ColinMcDermott).
@@ -1488,6 +1493,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) - 盯着物流，包裹一停就提醒你。 [liam_fallen](https://x.com/liam_fallen).
 - [Bill Hunter](https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj) - 扫邮件收据找试用、续费、涨价与重复扣款，建议保留复查或取消，取消稿你来点. [Don](https://x.com/Screaming_Chkn).
 - [Bill Watch](https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei) - 盯账单与到期日，少被突然扣款吓到. [DennisW_15](https://x.com/DennisW_15).
+- [BillionaireBot](https://x.ai/bot/y-phHxm4D_W32YEi-z6VB) - 财富与生意助理，由你指定盯公司现金、媒体业务或个人财富. [Diego](https://x.com/innrstand).
 - [Bills](https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w) - 账单比价助手，扫你每笔固定支出找更省的方案. [ashen_one](https://x.com/ashen_one).
 - [Blair (Personal Shopper)](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) - 私人买手，找二手设计师单品，还能下单。 [jediahkatz](https://x.com/jediahkatz).
 - [BO Provider by Craig](https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd) - BlindOracle 市场服务方，自行注册、每日心跳、竞标并交付网页抽取任务，通过 x402 在 Base 上以 USDC 收款。 [Craig Brown](https://x.com/craigmbrown).
@@ -2249,6 +2255,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [3CPO](https://x.ai/bot/3VQwuanA2wWINc0FQDAFn) - 每日个人伴侣，从夜间随身影像学习并沉淀长期记忆，为以后交给机器人做准备. [Marcos](https://x.com/rodriguesconatm).
 - [3D Print Picker](https://x.ai/bot/eneihB5UxrWebXtoVlOm6) - 找适合 3D 打印并在 Facebook Marketplace 卖的热门品. [kylecmarshall](https://x.com/kylecmarshall).
 - [A1 Charity](https://x.ai/bot/SRFGtB_-g8py4h4ijbdF2) - 短访谈后查慈善机构质量，给出明确捐赠或志愿建议. [Thebossdj77](https://x.com/Thebossdj77).
+- [Aaron, Event Finder](https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz) - 按邮编与车程找已核对日期的本地活动，排成当日行程，并在当天早晨再核一遍. [Frederick](https://x.com/FrederickPaiSu).
 - [abdolamunir bot](https://x.ai/bot/JZ2nEsy1wOVHae2EMxeiK) - 来自 abdolamunir 的可导入分享模板。 [abdolamunir](https://x.com/abdolamunir).
 - [About Me](https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN) - 记住你的精力、近况和偏好，并给其他 Bot 提供简短的状态同步。 [MAGS](https://x.com/TAftermath2020).
 - [Achieve Aims Coach](https://x.ai/bot/ReI3tbiJJ6EwqjafQMaYg) - Achieve Aims 的目标伙伴，澄清期望结果，约定一个可管理的下一步，并通过受控连接保存进度. [achieveaims](https://x.com/achieveaims).
@@ -3370,6 +3377,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [secretAIrio](https://x.ai/bot/rPtRiPA4JTQnztyigGWvk) - 接你的需求并分派给各路专家 Bot 的协调员. [David](https://x.com/bdvd_25).
 - [Seed 7D](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) - 一场对话搭起完整软件研发流水线，按阶段雇 bot 分工. [ashvinn](https://x.com/ashvinn).
 - [Self](https://x.ai/bot/_q3eTYtyYQ3osyCZk9t95) - grokbot.studio 的 Self 入口，拉起十一位个人生活专家并路由私事。 [Hexakin](https://x.com/Hexakin).
+- [Sergeant Major](https://x.ai/bot/TkXI7PlT3q7g3mk7XsICi) - 审你其他机器人的产出，标出缺漏、错误，或仍等你拍板的事项. [War](https://x.com/HowitzerN).
 - [Shadew](https://x.ai/bot/S-rsYKmJFa7-b0U2uWO8f) - 处理日常决策并带审批门的个人 AI 分身。 [javaskrr](https://x.com/javaskrr).
 - [Shadow Chief](https://x.ai/bot/sNh9WUT_7BY83jm1w3GJh) - 影子幕僚，进会议室前先备好决策材料. Robert.
 - [shane hunter](https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-) - 把你不想要的 Bot 从桌面应用里清掉。 [rightish19](https://x.com/rightish19).
