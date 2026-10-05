@@ -4492,6 +4492,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "ballot",
+      "name": "Ballot",
+      "author": {
+        "name": "ahua0323",
+        "url": "https://x.com/ahua0323"
+      },
+      "summary": "Nonpartisan voter guide that learns your views through a short survey and breaks down every race and measure on your ballot",
+      "summary_zh": "不站队的选民指南，先用简短问卷了解你的立场，再逐项拆解选票上的每场选举和每个提案",
+      "import": "https://x.ai/bot/yyoue5V3aoz9K8wvYQgN8",
+      "source": "https://x.com/ahua0323/status/2106917430316740812",
+      "category": "research-briefings",
+      "tags": [
+        "voting",
+        "elections",
+        "civic",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "bandit",
       "name": "Bandit",
       "author": {
@@ -6829,6 +6852,29 @@
       "shelf": "featured"
     },
     {
+      "slug": "bourne-bot",
+      "name": "Bourne Bot",
+      "author": {
+        "name": "MichaelGannotti",
+        "url": "https://x.com/MichaelGannotti"
+      },
+      "summary": "Calm personal security advisor that helps you lock down accounts, devices, location, money, family, and reputation",
+      "summary_zh": "冷静务实的个人安全顾问，帮你把账号、设备、位置、钱财、家人和名声逐一锁紧",
+      "import": "https://x.ai/bot/Y8zQlQDtzwGFBrKVWlqCa",
+      "source": "https://x.com/MichaelGannotti/status/2106944907319627982",
+      "category": "personal-admin",
+      "tags": [
+        "security",
+        "privacy",
+        "opsec",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "box-inspector",
       "name": "Box Inspector",
       "author": {
@@ -7157,6 +7203,29 @@
       "updated": "2026-09-30",
       "shelf": "raw",
       "source": "https://x.com/alexnextd00r/status/2105081301267329069"
+    },
+    {
+      "slug": "budget-coach-marlene",
+      "name": "Budget Coach",
+      "author": {
+        "name": "Marlene",
+        "url": "https://x.com/Marlene8055"
+      },
+      "summary": "Reads your bank and cards read-only and builds a weekly plan for what to set aside for each bill and what you can spend",
+      "summary_zh": "只读接入银行卡和信用卡，按真实花销排出每周计划，每笔账单留多少、还能花多少一目了然",
+      "import": "https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext",
+      "source": "https://x.com/Marlene8055/status/2106978252652765529",
+      "category": "finance-ops",
+      "tags": [
+        "budget",
+        "banking",
+        "personal",
+        "weekly"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
     },
     {
       "slug": "budget-tracker-desk",
@@ -15555,6 +15624,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "curious-first-time-reader",
+      "name": "Curious First-Time Reader",
+      "author": {
+        "name": "The Constellation",
+        "url": "https://x.com/42Constellation"
+      },
+      "summary": "Walks a public page, essay, or playable preview as a total stranger and reports where a new visitor gets lost",
+      "summary_zh": "以完全陌生人的眼光走一遍公开页面、文章或试玩版，指出新访客在哪里看不懂、在哪里迷路",
+      "import": "https://x.ai/bot/IPySf9lwLJZzFuq-bjNMg",
+      "source": "https://x.com/42Constellation/status/2106929609061155074",
+      "category": "content-publishing",
+      "tags": [
+        "ux",
+        "review",
+        "website",
+        "writing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "curious-kids-science-desk",
       "name": "Curious Kids Science Desk",
       "author": {
@@ -20440,6 +20532,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "end-of-week-runner",
+      "name": "End-of-Week Runner",
+      "author": {
+        "name": "Keith",
+        "url": "https://x.com/Grok_BotTemps"
+      },
+      "summary": "Collects low-priority ideas all week and works through them right before your weekly usage resets so nothing goes to waste",
+      "summary_zh": "一周里随手丢给它的低优先级想法先攒着，赶在每周额度重置前集中做完，不浪费剩余用量",
+      "import": "https://x.ai/bot/iSu6JrCL-H5DeY_0_lWH6",
+      "source": "https://x.com/Grok_BotTemps/status/2106962721854177329",
+      "category": "finance-ops",
+      "tags": [
+        "usage",
+        "cost",
+        "queue",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "engenheiro-audiovisual",
       "name": "Engenheiro Audiovisual",
       "author": {
@@ -22037,6 +22152,28 @@
       "shelf": "aka"
     },
     {
+      "slug": "fantasy-football-evan",
+      "name": "Fantasy Football",
+      "author": {
+        "name": "Evan",
+        "url": "https://x.com/EvanMFritz"
+      },
+      "summary": "Season-long fantasy football analyst that drafts with you, sets lineups, watches injuries, scouts opponents, and works the waiver wire",
+      "summary_zh": "陪你打完整个赛季的梦幻橄榄球分析师，一起选秀、排阵容、盯伤病、研究对手并跑弃将名单",
+      "import": "https://x.ai/bot/sCQxQhL0pxmUEbFZ-cmgO",
+      "source": "https://x.com/EvanMFritz/status/2106917403477356809",
+      "category": "personal-admin",
+      "tags": [
+        "fantasy-football",
+        "sports",
+        "lineups"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "fantasy-football-gm",
       "name": "Fantasy Football GM",
       "author": {
@@ -22212,6 +22349,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-04",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fantasy-gm-joe",
+      "name": "Fantasy GM",
+      "author": {
+        "name": "Joe",
+        "url": "https://x.com/mekeo21"
+      },
+      "summary": "Fantasy football manager for ESPN and Sleeper with weekly start and sit calls, waiver and FAAB ideas, trades, and injury alerts",
+      "summary_zh": "ESPN 和 Sleeper 通用的梦幻橄榄球经理，每周给首发建议、弃将与竞价思路、交易点子和伤病提醒",
+      "import": "https://x.ai/bot/q1CDLzD89gR7dL_Qin9Wz",
+      "source": "https://x.com/mekeo21/status/2106915137001247059",
+      "category": "personal-admin",
+      "tags": [
+        "fantasy-football",
+        "sports",
+        "espn",
+        "sleeper"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
       "shelf": "raw"
     },
     {
@@ -29831,6 +29991,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "hirely",
+      "name": "Hirely",
+      "author": {
+        "name": "Parvaneh",
+        "url": "https://x.com/Parva9eh"
+      },
+      "summary": "Job search teammate that shortlists verified roles from employer career pages, helps you apply with confirm before submit, and tracks follow-ups",
+      "summary_zh": "求职搭档，从雇主官网招聘页挑出真实岗位，提交前先确认再帮你投递，并跟进后续",
+      "import": "https://x.ai/bot/k2oD619wjcM9RMybbtExW",
+      "source": "https://x.com/Parva9eh/status/2106942456923103393",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "career",
+        "applications",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "hiring-floor",
       "name": "Hiring Floor",
       "author": {
@@ -30093,6 +30276,28 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-29",
+      "shelf": "raw"
+    },
+    {
+      "slug": "home-auto-insurance",
+      "name": "Home & Auto Insurance",
+      "author": {
+        "name": "Felix",
+        "url": "https://x.com/felixstocker14"
+      },
+      "summary": "Shops home, auto, and renters insurance with quote estimates across insurers",
+      "summary_zh": "比较房屋、汽车和租房保险，一次拿到各家保险公司的报价估算",
+      "import": "https://x.ai/bot/nIKABJnzJuN-qSsj4KZD_",
+      "source": "https://x.com/felixstocker14/status/2106962564659986808",
+      "category": "finance-ops",
+      "tags": [
+        "insurance",
+        "quotes",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
       "shelf": "raw"
     },
     {
@@ -37856,6 +38061,29 @@
       "updated": "2026-09-16",
       "related": "https://grokbothq.xyz/bots/live-desk",
       "shelf": "studio-door"
+    },
+    {
+      "slug": "live-pages",
+      "name": "Live Pages",
+      "author": {
+        "name": "Yin",
+        "url": "https://x.com/darkart"
+      },
+      "summary": "Builds private interactive web pages on its computer that you open over Tailscale, and updates them as you tap or submit",
+      "summary_zh": "在自己电脑上搭私有的交互网页，通过 Tailscale 在手机或电脑上打开，你点一下或提交后页面随即更新",
+      "import": "https://x.ai/bot/ignLvLJlOxOIenZPr-tTA",
+      "source": "https://x.com/darkart/status/2107005980752126407",
+      "category": "coding-shipping",
+      "tags": [
+        "web",
+        "pages",
+        "tailscale",
+        "forms"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
     },
     {
       "slug": "live-shorts-desk",
@@ -51695,6 +51923,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "rejectionist",
+      "name": "Rejectionist",
+      "author": {
+        "name": "Nomis",
+        "url": "https://x.com/cradrrat"
+      },
+      "summary": "Turns an App Store or TestFlight rejection into a fix plan with the guideline cited, ranked fixes, and a Resolution Center reply draft",
+      "summary_zh": "把 App Store 或 TestFlight 的审核拒信变成修复方案，指出违反的条款，给出排序好的改法和回复苹果的草稿",
+      "import": "https://x.ai/bot/MzKMT64ou_j4Q3edfbjE_",
+      "source": "https://x.com/cradrrat/status/2107009541393313851",
+      "category": "coding-shipping",
+      "tags": [
+        "ios",
+        "app-store",
+        "review",
+        "dev"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "relay",
       "name": "Relay",
       "author": {
@@ -59953,6 +60204,28 @@
       "shelf": "raw"
     },
     {
+      "slug": "stock-lilo-strategy",
+      "name": "Stock Lilo Strategy",
+      "author": {
+        "name": "SamE",
+        "url": "https://x.com/SamE1311025"
+      },
+      "summary": "Layers out of a stock on the way up and back in cheaper so a round trip can leave you with more shares, with prices and share counts set for you",
+      "summary_zh": "上涨时分批卖出一部分，回落后再低价买回，来回一趟可能多出股数，价格和股数都替你算好",
+      "import": "https://x.ai/bot/nytlUhse6wVKY4qyTpaLE",
+      "source": "https://x.com/SamE1311025/status/2106943489007325648",
+      "category": "finance-ops",
+      "tags": [
+        "stocks",
+        "trading",
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "stock-market-portfolio-manager",
       "name": "Stock Market Portfolio Manager",
       "author": {
@@ -67103,6 +67376,29 @@
       "shelf": "raw"
     },
     {
+      "slug": "warranty-bot",
+      "name": "Warranty Bot",
+      "author": {
+        "name": "Nomis",
+        "url": "https://x.com/cradrrat"
+      },
+      "summary": "Tracks return windows and warranties from receipts, warns a week before they end, and drafts the claim when something breaks",
+      "summary_zh": "从收据里记下退货期和保修期，到期前一周提醒你，东西坏了就给出索赔步骤并起草邮件",
+      "import": "https://x.ai/bot/mJU3WN_wuYmhZAZ3A2F3y",
+      "source": "https://x.com/cradrrat/status/2107009968436396179",
+      "category": "personal-admin",
+      "tags": [
+        "warranty",
+        "receipts",
+        "email",
+        "reminders"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "warranty-concierge",
       "name": "Warranty Concierge",
       "author": {
@@ -68225,6 +68521,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-28",
+      "shelf": "raw"
+    },
+    {
+      "slug": "whats-for-dinner-nomis",
+      "name": "What's for Dinner?",
+      "author": {
+        "name": "Nomis",
+        "url": "https://x.com/cradrrat"
+      },
+      "summary": "Looks at a photo of your fridge or cupboard and suggests what to cook, what to use up first, and what to buy",
+      "summary_zh": "看一眼冰箱或橱柜的照片就告诉你今晚做什么、哪些先用掉、还要买什么",
+      "import": "https://x.ai/bot/XcZpofYvIFmfsxXK4Ifxg",
+      "source": "https://x.com/cradrrat/status/2107010565038358612",
+      "category": "personal-admin",
+      "tags": [
+        "cooking",
+        "meals",
+        "personal",
+        "photos"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
       "shelf": "raw"
     },
     {
@@ -69443,6 +69762,29 @@
       "source": "https://x.com/HashCons/status/2104339667940250031"
     },
     {
+      "slug": "x-free-credits-finder",
+      "name": "X Free Credits Finder",
+      "author": {
+        "name": "Melvin",
+        "url": "https://x.com/melvindvivas"
+      },
+      "summary": "Finds X posts giving away AI tool credits for a reply or follow, flags scams and closed offers, and can check twice a day",
+      "summary_zh": "在 X 上找回复或关注就送 AI 工具额度的帖子，标出骗局和已截止的活动，可以一天查两次",
+      "import": "https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF",
+      "source": "https://x.com/melvindvivas/status/2106996300474683839",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "credits",
+        "alerts",
+        "scheduled"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
+    },
+    {
       "slug": "x-growth-assistant",
       "name": "X Growth Assistant",
       "author": {
@@ -69711,6 +70053,29 @@
       "updated": "2026-09-20",
       "shelf": "raw",
       "source": "https://x.com/scientists_blog/status/2101542606769463504"
+    },
+    {
+      "slug": "x-researcher",
+      "name": "X Researcher",
+      "author": {
+        "name": "Melvin",
+        "url": "https://x.com/melvindvivas"
+      },
+      "summary": "General X assistant for research, drafts, replies, and viral post shortlists on AI coding, agents, and models",
+      "summary_zh": "通用的 X 助手，围绕 AI 编程、智能体和模型做调研、写草稿和回复，并挑出爆款帖候选",
+      "import": "https://x.ai/bot/Y0HBAodNhuJB2Gt5i9LEm",
+      "source": "https://x.com/melvindvivas/status/2106944801660973269",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "research",
+        "drafts",
+        "ai"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
+      "shelf": "raw"
     },
     {
       "slug": "x-scout",
@@ -70065,6 +70430,29 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-09-11",
+      "shelf": "raw"
+    },
+    {
+      "slug": "xinxi-souji-bot",
+      "name": "信息搜集-bot",
+      "author": {
+        "name": "Yunn",
+        "url": "https://x.com/Yunn260414"
+      },
+      "summary": "Collects daily AI news and trending debates into a fixed-format Chinese digest with a source link on every item",
+      "summary_zh": "每天自动搜集 AI 热点资讯和争议话题，按固定格式写成中文日报，每条都附来源链接",
+      "import": "https://x.ai/bot/Swm4NLf4yPCzuANa4ghaT",
+      "source": "https://x.com/Yunn260414/status/2107014570418323901",
+      "category": "research-briefings",
+      "tags": [
+        "news",
+        "ai",
+        "digest",
+        "chinese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-05",
       "shelf": "raw"
     },
     {
