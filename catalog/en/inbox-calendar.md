@@ -1,0 +1,132 @@
+# Inbox & calendar
+
+Back to [README](../../README.md)
+
+- [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - Keeps your agent bench, calendar and inbox on one weekday rhythm. [A-A-ron](https://x.com/theaaron).
+- [Angry email → Soft reply](https://x.ai/bot/-ZHPJfwGTosEKmzelCSOH) - Paste a blunt or angry email draft and optional tone. Get one clearer, more professional rewrite that keeps your facts, ask, and boundary. You copy and. [MisledFan](https://x.com/MisledFan).
+- [Archivist](https://x.ai/bot/0M2KfANsxrPRRp5mqg0m8) - A personal assistant that keeps one person's mailbox tidy, protects mail they must never lose, and counts weekly public mentions of their product. [TRV_Architech](https://x.com/TRV_Architech).
+- [Asana Task Master](https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl) - Reads your Gmail and Outlook inboxes and turns emails that need action into Asana tasks with due dates, so nothing gets buried in email. Replies on the. [wikiwayne](https://x.com/wikiwayne).
+- [Backpack](https://x.ai/bot/-soz2Si8sWlLlb8hTeIX2) - Turns school and activity emails into calendar entries, reminders, and a weekly plan. [RohanBhanotAI](https://x.com/RohanBhanotAI).
+- [Bill Tracker](https://x.ai/bot/bLMKUc6_qCdMrNlKybe0w) - Turns bill emails into one due list with a weekly heads-up before late fees hit, and never pays without your yes. [Crisships](https://x.com/crisships).
+- [Bill Watch](https://x.ai/bot/SJf7XEUBe8pDJEiXyx01R) - Weekly digest of bills and subscriptions spotted in Gmail. Alerts on amounts you care about. Never pays or checks out. [AnthonyDo](https://x.com/AnthonyDo).
+- [Boardy](https://x.ai/bot/Qf3kc7g_FQY41atLr-dBr) - Your bridge to Boardy, the AI superconnector at boardy@boardy.ai. Ask for a person or intro in chat, and it emails Boardy from your Gmail and brings. [JP Costa](https://x.com/jp_costa).
+- [BOOKIE](https://x.ai/bot/cu9T08lvtRNOfk_Nexys1) - Booking sidekick for service businesses. Turns inquiries and calendar context into short consult drafts that do not double-book. [BudJohnson](https://x.com/BudJohnson).
+- [bookworm](https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH) - Drafts and sends founder-voiced beta invites for a reading app. [NavyaM89482](https://x.com/NavyaM89482).
+- [Bot inbox](https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl) - A one-line digest of every bot and group chat with something new. [Wayne](https://x.com/waynesutton).
+- [Calendar Coordinator](https://x.ai/bot/s634fd63ee875502d8df9) - Get people in the same room. Schedules across calendars and chases the holds nobody else has time to chase. [SpaceX](https://x.com/DenisLabelle).
+- [Calendar Gatekeeper](https://x.ai/bot/ZPAhO3D3_1kuqX08fszYm) - Calendar gatekeeper that proposes focus slots without wrecking the day. Anthony.
+- [Calendar Manager](https://x.ai/bot/VIWAQ6LqFOoqR72jD3OVO) - Your calendar desk for Google Calendar. On-demand briefings, scheduling, RSVPs, and conflict checks across personal and shared family calendars. [Nick](https://x.com/Tinman346).
+- [CampusOps](https://x.ai/bot/vluD5Z1bUux-onnEk1Alg) - Turns your syllabi into a week-by-week study plan you can actually follow. [klytron_dev](https://x.com/klytron_dev).
+- [CEO Morning Secretary](https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX) - A weekday CEO brief that reads the calendar and important mail aloud, with routine-ready drafts. [jy Kim](https://x.com/JyKim90832).
+- [CEO용 아침 비서](https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z) - Weekday Korean-language CEO brief that shortlists calendar and decision mail, with send/pay/publish only after you confirm. [jy Kim](https://x.com/JyKim90832).
+- [Chief](https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI) - Weekday-morning triage of your inbox, your calendar and your replies. [SmoresBoy](https://x.com/jxckvibe).
+- [Chief](https://x.ai/bot/UrO63RhN1LGXD3DzoMess) - Drafts-only chief of staff for open loops, reply drafts, and a morning inbox calendar scan. [cameronchristo](https://x.com/cameronchristo).
+- [Chief of Staff](https://x.ai/bot/3lMMBN3oSETGdsbo9xDh7) - Front door for your day\: coordinates calendar and email, pulls you in for decisions, and helps manage specialist bots. For founders and operators. [AngeloGordilloX](https://x.com/AngeloGordilloX).
+- [Chief of Staff](https://x.ai/bot/IqLFMirip0OoP8XWVyCAV) - Always-on chief of staff for busy people. Pulls what’s new from Slack, email, calendar, and notes, maps it to your priorities, and delegates to. [jimit_shah](https://x.com/jimit_shah).
+- [Chief of Staff](https://x.ai/bot/hyfj5RsTSPzP6llmi88iQ) - Job-search chief of staff for tailored CVs, calendar prep, and weekday follow-ups on Google. [Rut](https://x.com/Gigi_Coachh).
+- [Chief of Staff](https://x.ai/bot/axOL-NZLrI_7T-ow1mp6A) - Front-door assistant that runs your day through a specialist swarm\: email, calendar, projects, and creative launch ops. You talk to one bot; it. [Mike](https://x.com/RealMikeGlass).
+- [Chief of Staff](https://x.ai/bot/kpawDLD-dhDUH56JJnU2B) - Ops chief of staff for a window-cleaning or field-service business\: morning calendar digest, customer SMS as your CSR persona, and calendar booking. [Scott](https://x.com/scottjhart).
+- [Chief of Staff Morning](https://x.ai/bot/9h28mHEds4Q5FHkni25Js) - Morning email and calendar triage after a guided Gmail and Google Calendar setup. [sravanjay](https://x.com/sravanjay).
+- [Chop Bot](https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq) - Chops inbox, calendar, and X replies into one daily brief with draft-only replies. [Calix](https://x.com/CaliLumberJack).
+- [Chuck](https://x.ai/bot/CqQQXo05k79ukSLCubxfj) - Unsubscribes from promotional email so the inbox mostly keeps personal mail and real work. [veetharag](https://x.com/veetharag).
+- [Circle](https://x.ai/bot/Ao7l3xA38yay1W0LUeL7B) - Your friend-circle bot. It watches calendars and shared interests, finds IRL events that fit the group, and coordinates with your friends' bots over a. [rshawnmitchell](https://x.com/rshawnmitchell).
+- [Commute Comrade](https://x.ai/bot/eyMdVOKBwSBwp63MX2fxy) - Night-before and morning commute briefs so the trip is planned. [trevin](https://x.com/trevin).
+- [Content](https://x.ai/bot/iAwkENgt3iIxp0OR7_QvF) - Portfolio/blog content seat\: strategy and calendar for craft and AI builds, draft-then-approve posting, amplify after you say go. Not for job-hunt. [stevenvillarino](https://x.com/stevenvillarino).
+- [Daili](https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X) - Morning briefs with calendar, weather, important mail, live connectors, and a weekly outlook. [Paul L. McNeely](https://x.com/McNeely).
+- [Daily Brief by George](https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J) - Two-minute morning digest\: meetings with prep and conflicts, emails that need you, and news on topics you pick. [gzikry](https://x.com/gzikry).
+- [Deadline Desk](https://x.ai/bot/0lzORVii9A5b6W4ly6pEJ) - Surfaces the deadlines buried in your inbox before they slip. [Alex](https://x.com/AlexFCHF).
+- [Desk Light Signal](https://x.ai/bot/p2aM_rLyjsf79hVMv4tFX) - Smart desk light status for unread email, Teams, and missing Harvest hours. [dwbanks](https://x.com/dwbanks).
+- [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) - Keeps an eye on Gmail and surfaces the mail that actually needs you. [William](https://x.com/Vixlio).
+- [Dispatch](https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq) - Nightly scan of email, Slack, LinkedIn and X DMs that books the missing calls. [Filippo](https://x.com/FilippoFonseca).
+- [Dispatch](https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687) - Weekday Gmail sweep that drafts replies and never sends. [seoulscurry](https://x.com/seoulscurry).
+- [Dobby](https://x.ai/bot/ka0xjh_4_XaxWG4pmFqyu) - A cute house-elf home helper for personal life\: Amazon shopping, calendars, email drafts, light social, and household asks. No business tasks. Uses your. [jjgorillaman](https://x.com/jjgorillaman).
+- [E-mail Organizer](https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd) - Dutch Gmail housekeeper that labels by vendor, hides noise, and keeps invoices under Payments. [Leendert Goedbloed](https://x.com/leingoedbloed).
+- [Emai](https://x.ai/bot/iLxlC_78W0dUaB7La8T5p) - An inbox-triage assistant that clears promos, newsletters, and bulk digests out of your Gmail or webmail every weekday by archiving them. It leaves real. [arthur_win8](https://x.com/arthur_win8).
+- [Email](https://x.ai/bot/BFjaZlR93AzcnDagMhktC) - Protects your attention in email - ruthless triage, drafts the few replies that matter, never sends without your yes. [Andrew Kittridge](https://x.com/andrewkittridge).
+- [Email Assist](https://x.ai/bot/tVeYePJvkcwbseg_vtnEt) - Watches your inbox on weekday mornings and only pings when something looks important, never sends unless you ask. [Melvin](https://x.com/melvindvivas).
+- [Email Bot](https://x.ai/bot/Eh-OqlRNqTiMZcAqhwa5l) - A friendly Gmail assistant. [degen4lyfe_](https://x.com/degen4lyfe_).
+- [Email Filter](https://x.ai/bot/VG2EVGqav2OeE_HiroQNY) - Triages your work and personal inboxes, flags what needs a reply, new customer requests, and money or legal mail. [AirbossHVAC](https://x.com/AirbossHVAC).
+- [Email Manager](https://x.ai/bot/CtX-cw1UJDjArdr8BrQa0) - Review-first Gmail cleanup\: numbered trash candidates, Bin learning, unsubscribe queue, and accuracy tracking toward optional high-confidence auto-trash. [dfer2dfer](https://x.com/dfer2dfer).
+- [Exec CoS Digest](https://x.ai/bot/gEujmYQAd4BD19eRxMvnC) - Opens your weekday with a calendar rundown and preps tomorrow's outside meetings. [montymccoy](https://x.com/montymccoy).
+- [Executive Assistant](https://x.ai/bot/_DnP777DCicZpaTtm9_h5) - EA chief-of-staff bot for exec support\: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and... [Natasha Kuo](https://x.com/tashatweetss).
+- [Executive Assistant](https://x.ai/bot/sf813cbd3aadad1cfda46) - Delivers a morning briefing, plus an automatic catch-up summary whenever you join a new room. [SpaceX](https://x.com/DenisLabelle).
+- [Family Coordinator](https://x.ai/bot/LhK_PAR3MJ7m9QL6vZFt-) - Watches your personal Gmail for family mail \(school, activities, building\), labels threads by kid, and puts events on a Family Google Calendar — with a. [Scott](https://x.com/Scott).
+- [Family Logistics Desk](https://x.ai/bot/i8zkL9ZfVEgxWJI0Meqvz) - Family logistics desk for rides, forms, and shared calendars. Joseph.
+- [Feedback Triage](https://x.ai/bot/GMWdsAx2e40XGT9wCYo4Y) - Triages support and product feedback from email into bug, feature, and roadmap drafts. Approve Inbox gates every ticket and customer reply; sinks are. [psoreilly](https://x.com/psoreilly).
+- [Fleet Factory](https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y) - A weekday close-out over inbox, calendar and whatever is in flight. [SacredFolio](https://x.com/SacredFolio).
+- [Follow-Up CRM](https://x.ai/bot/Z-_zKI__9SXoxmwAFI5bV) - Personal CRM for open loops across email and calendar. Weekly nudge and draft-only outreach. Never sends outreach unasked. [AnthonyDo](https://x.com/AnthonyDo).
+- [Follow-Up Keeper](https://x.ai/bot/1BbDplO2ZS6hcFH7xE16F) - Tracks who waits on you and who you wait on; morning drafts you review and send yourself. [AMFoxtrot](https://x.com/AMFoxtrot).
+- [Follow-Up Nudge](https://x.ai/bot/ON6ooxyj2fUPWXPmuAi3x) - Nudges stalled follow-ups so open loops get a next touch. Mike.
+- [Gmail to-do and reply assistant](https://x.ai/bot/FnuO0nVV50jsCV7tTeEJD) - Watches Gmail for action items and unanswered mail, then helps you clear the list with drafts and reminders. [eddring](https://x.com/eddring).
+- [Google Agent](https://x.ai/bot/tttQVA2UtlNwCzITNCIr0) - A read-first operator for Gmail, Drive and Calendar. [Ryan](https://x.com/ryanthawks).
+- [Groundskeeper](https://x.ai/bot/VdfCFyIIqWZ8OMwoWsnzQ) - A cleanup sweep for a messy Obsidian vault\: stubs, dupes, untagged notes. [the_simonjester](https://x.com/the_simonjester).
+- [Holly Helpdesk](https://x.ai/bot/sIoeE87fILU5CzptPF29K) - Runs the support inbox and help desk as a frontline agent. [clairevo](https://x.com/clairevo).
+- [Homebase](https://x.ai/bot/WZ7amxhH9gXXBEaGmg0un) - Family mission control for school chaos\: watches portals and email, syncs the family calendar, pings only when action is needed. [Ricardo](https://x.com/raitec).
+- [Homework Checker](https://x.ai/bot/BUwa-zYgc9_ScRyfGAns_) - Weekday after-school recap of a student’s missing work and grades, plus day-before homework texts and calendar reminders. Built for parents who want a. [guichaves1989](https://x.com/guichaves1989).
+- [Household Desk](https://x.ai/bot/gJY0YkL6q1FE3fsSwfyot) - Keeps your calendar, the mail labels you choose, and a short daily list from only what you put in. One next action, then stop. [Phillip86434365](https://x.com/Phillip86434365).
+- [iCloud](https://x.ai/bot/cXeisxhmz3YpvnWVH1k0F) - Connects Apple calendar, mail, contacts, and reminders into Grok with one app password. [CyberZack42](https://x.com/CyberZack42).
+- [iCloud Mail](https://x.ai/bot/0fF7Cqp8LTzh9JGQ-je3M) - On-demand iCloud Mail helper via IMAP/SMTP with app-specific password. [CyberZack42](https://x.com/CyberZack42).
+- [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) - An inbox-zero bot across every inbox you actually use. [Matthew](https://x.com/matt_silberman).
+- [Inbox](https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH) - Weekday GTD triage for an Obsidian inbox that clarifies overnight captures into actions, waiting-fors, and calendar. [Genseb7](https://x.com/Genseb7).
+- [Inbox Cleaner](https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp) - Cleans Gmail promotions, unsubscribes when possible, trashes junk, and files keepers into folders. [wafflebeebz](https://x.com/wafflebeebz).
+- [Inbox First Pass](https://x.ai/bot/gJ3AERRL_vWOhTBgKm-2G) - Weekday morning mail triage with one-line draft replies. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Inbox Manager](https://x.ai/bot/s4f048c7b7da9e010c2c3) - Triages the inbox into categories, surfaces urgent and blocked threads, and drafts replies. Every send waits for you. [SpaceX](https://x.com/DenisLabelle).
+- [Inbox Scout](https://x.ai/bot/bxO47jo7w93LXNsBd7gGI) - Morning unread Gmail brief grouped into Needs me, Can wait, and Noise; drafts only. [Javier](https://x.com/AdeptusMec71933).
+- [Inbox to Asana](https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva) - Reads work Gmail and files the real work as Asana tasks. [wikiwayne](https://x.com/wikiwayne).
+- [Inbox to Income](https://x.ai/bot/VZBcSWV81X9BDXGpcmrNM) - Keeps your inbox small and surfaces money-making and money-saving moves in your mail and calendar. Drafts the replies that unlock cash - you stay in. [JohnWalker](https://x.com/JohnWalker).
+- [Inbox Triage](https://x.ai/bot/_Rk119iD1k18cSxDoV8CC) - A morning email assistant that sorts Gmail, iCloud, or Outlook into what needs you today, clears obvious spam, and drafts replies without ever sending... [frogman263](https://x.com/frogman263).
+- [Inbox Triage Desk](https://x.ai/bot/soRR-1IslCTX7U4YiBg3Y) - Sorts messages into Reply, Delegate, Schedule, and FYI with draft replies. [Cypher0x9](https://x.com/Cypher0x9).
+- [Inbox Zero](https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98) - Keeps Gmail at zero by filing the noise every weekday. [LD](https://x.com/zapnocode).
+- [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) - Recaps email, calendar, Notion and Slack before you open any of them. [Logan](https://x.com/LoganARobison).
+- [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) - Keeps kids practices, games, and coaching from colliding into one print-ready calendar. [emilykuro2](https://x.com/emilykuro2).
+- [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) - Keeps a middle-schooler’s school and activity calendar accurate, then texts both parents when something material changes. Built for Canvas homework,. [michindorado](https://x.com/michindorado).
+- [Life Admin](https://x.ai/bot/n-moXgKp8F22oS9xckCMt) - Scans mail and calendar for renewals, tickets, and forms, drafts paperwork, and pings only when due. [crisships](https://x.com/crisships).
+- [Lifeline](https://x.ai/bot/Ye7Z9FkWcu9r4IeDj8srT) - Helps protect a student’s academic progress during unexpected emergencies — reviews authorized course, email, calendar, and recruiting info, flags. [Jay](https://x.com/jaychauhangoat).
+- [Liftoff](https://x.ai/bot/nSNeVcwO0QZOrOdirgRAc) - Adds SpaceX launches that lift off within an hour of local sunset to your Google Calendar. [Steph_Pierson](https://x.com/Steph_Pierson).
+- [loom](https://x.ai/bot/cElGnAaR55iPHK2DGdPdu) - Reads across Gmail threads and drafts the reply, never sends it. [Lauren](https://x.com/poteto).
+- [Love ❤️](https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg) - Keeps the thoughtful part of a relationship from slipping. [dannybuck](https://x.com/dannybuck).
+- [mailer](https://x.ai/bot/3S7qjz3K6eV95xasgN2x4) - A Gmail assistant that triages your inbox on weekdays, drafts replies for you to review, and keeps noisy alerts out of the way. [snowiestein](https://x.com/snowiestein).
+- [MarketBoxScan](https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs) - A pre-work tech news and inbox briefing for writers. [techAU](https://x.com/techAU).
+- [Master Chief](https://x.ai/bot/F8vp6AGwCX3DYuTJ_aahF) - Inbox triage, voice-matched replies and a weekday brief for your morning. [psinke](https://x.com/psinke).
+- [Master Ops Delegator](https://x.ai/bot/rNlGaJjKi3viDjsBQRfL_) - A delegator bot that runs your workday through specialist teammates—email, calendar, drive, passwords, and more—so one chat can coordinate the stack. [GirodJoshu94497](https://x.com/GirodJoshu94497).
+- [Meeting prep](https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5) - Builds short phone-ready pre-meeting briefs from calendar and connected context. [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Meeting Prep](https://x.ai/bot/ylBNvuYu7IDolbSmmKHUU) - Weekday morning meeting one-pagers from your connected calendar. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Meeting Prep Buddy](https://x.ai/bot/s445a0c9a2ca4bea7729e) - Builds a prep pack from calendar, notes, CRM, Gong and Slack\: who is in the room, last touch, and open threads. [SpaceX](https://x.com/DenisLabelle).
+- [Mike](https://x.ai/bot/6FCbyQZKiwmuPiMqTmurR) - Reads school and personal mail, flags what matters, and asks before acting. [fernandoplaz](https://x.com/fernandoplaz).
+- [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) - Audits six months of newsletters and unsubscribes only from what you approve. [Andrej](https://x.com/scheemunai).
+- [Only the School Emails that Matter](https://x.ai/bot/nOaBZtL807UfF95phWyjU) - Keeps only the school emails that matter in Gmail or Outlook and learns when your school usually sends. [GabeHernandezOK](https://x.com/GabeHernandezOK).
+- [Open Loop Closer](https://x.ai/bot/OnZxELs_59ZvE4_-jTMaV) - Finds VIP threads you went silent on in Slack or email and drafts a paste-ready follow-up. [Scott](https://x.com/scottxmetcalf).
+- [openrobot](https://x.ai/bot/ndO6BI7E2ur5X-bhWM_1R) - A collaboration intake desk that turns interest into an intro email. [noborderhuman](https://x.com/noborderhuman).
+- [Order Watch](https://x.ai/bot/5tvkGcgMHWuUkCBvH2od-) - Watches a connected email account for delivery and order updates across providers, asks when unclear, and stays quiet unless you need to act. [Gokul](https://x.com/gokul_i).
+- [Pam](https://x.ai/bot/emI7u6fHCg-GBOpxSFoit) - A get-it-done life orchestrator for busy students and new hires. She chips away at coursework, sweeps email into your calendar, and runs witty household. [LettySmith79](https://x.com/LettySmith79).
+- [Parish volunteer bot](https://x.ai/bot/lfW64Wu94Jy2mnFF2v_ZX) - Calendar and parish activities helper for volunteer schedules. [MAvitia85](https://x.com/MAvitia85).
+- [Polo](https://x.ai/bot/R-i5_wHeR_cBinyLVyvWh) - Watches your inbox for questions you can already answer from mail or files you already have. Leaves a short draft in your mailbox and asks before... [soleio](https://x.com/soleio).
+- [Product Support Inbox Assistant](https://x.ai/bot/Rw8d83KAzTYQWBAtAscin) - Helps you find and draft answers to product questions. Never sends emails without you. [Anoop Baliga](https://x.com/akbaliga96).
+- [Pulse](https://x.ai/bot/nkmFntyGYALNwmUBMXCWj) - Vision-first work–health balance coach. Drop gym snaps, meal labels, and calendar shots — get a green/yellow/red balance plan morning and evening, plus. [FariborzBaghaei](https://x.com/FariborzBaghaei).
+- [Quiet Inbox](https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4) - Archives promo and junk in Gmail without deleting, and keeps weekly bills and events notes as drafts until you send. [Ben](https://x.com/signalnoise8020).
+- [Receipt Scanner / Expense Tracking](https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp) - Forward a receipt and it becomes a row in your expense sheet. [limeunfiltered](https://x.com/limeunfiltered).
+- [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) - Holds the small reminders that never make it onto your calendar. [Damon](https://x.com/damonchen).
+- [Rep Coach](https://x.ai/bot/wJRcag7l4xPBW4Hc_mA0_) - Rep coach for practice reps with feedback you can reuse. Joseph.
+- [Rocky](https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf) - Finds upcoming local shows that match your taste and calendars them. [astrohoff](https://x.com/astrohoff).
+- [School Notice Action Pack](https://x.ai/bot/HEdOiXo7_KCr1XJIGj8sW) - Turns school notices into actions, forms, and calendar holds. [Alex](https://x.com/AlexFCHF).
+- [Schoolbag](https://x.ai/bot/32Lf0iXCnPDE5n5eZp3he) - Watches school mail and calendar, then lists what is due such as forms, permission slips, and field trips. [Seth](https://x.com/SethBuildsAI).
+- [ScriptSprint](https://x.ai/bot/YV5xOs96YaWLN39PbkPwk) - Turns meeting and voice transcripts into summary, speakers and action items. [the_simonjester](https://x.com/the_simonjester).
+- [Ship Note](https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL) - Turns a finished release into a changelog entry and an email. [sol_wright7](https://x.com/sol_wright7).
+- [Slack - CEO](https://x.ai/bot/4LjJV0yXRkfu0D5NfQyZz) - Weekday Slack scans that flag issues and wins, then posts approved company-wide kudos in #general. [lamps109](https://x.com/lamps109).
+- [slack radar](https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak) - Reads Slack quietly and nudges only when mentions or watched topics need you. [parkersmith](https://x.com/parkersmith).
+- [Slacker](https://x.ai/bot/R-TSImHItwbFHL8vYj9sc) - Cuts Slack down to the handful of messages that actually need you. [scottxmetcalf](https://x.com/scottxmetcalf).
+- [Small Business Crew](https://x.ai/bot/wQF3H7rtPemGbBiIMRJSP) - One assistant with six jobs for a small business owner\: business setup, program launch, finding customers, running a brand X account, inbox cleanup, and... [Christina](https://x.com/Christina).
+- [Space x Launch Bot](https://x.ai/bot/l7bhF020vKEQ-Gh7lTWSJ) - Tracks SpaceX launches end to end — upcoming schedule, countdown windows, scrub risk, and live mission status through liftoff and recovery. [WasAcop](https://x.com/WasAcop).
+- [Sub Guard](https://x.ai/bot/4Tg_53sv5QYsk7JrY4-L_) - Finds forgotten trials/subscriptions in Gmail. [Pinuts_](https://x.com/Pinuts_).
+- [Sundial](https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM) - Calendar assistant for meetings, deadlines, and focus blocks; invites only when you ask. [riesling29](https://x.com/WaterMixing).
+- [Teeny Squigz](https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2) - Bratty desktop buddy that nudges you to check email and helps you actually deal with it. [Ξ](https://x.com/elizrdrake).
+- [TenderYearsbot](https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07) - Kids-under-5 household logistics from Gmail, Calendar, and Tender Years. [voeliz](https://x.com/voeliz).
+- [The Morning Newspaper](https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di) - Overnight personal newspaper from inbox and calendar, printed by breakfast. [CodeChap](https://x.com/CodeChap).
+- [Time Intelligence](https://x.ai/bot/GAeRrX2qS5pjHwImZx46e) - Time zones, clock changes, and meeting times in plain language using live findtime.io lookups. [findtime_](https://x.com/findtime_).
+- [Time Keeper](https://x.ai/bot/IAEp851k9orM1LguTm2F8) - Bookends your day with a morning agenda and a night preview. [Mark](https://x.com/ironted21).
+- [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) - A household chief of staff for family plans, school and home admin. [clairevo](https://x.com/clairevo).
+- [Tradbot](https://x.ai/bot/wOE4e95HNxhSbrzyLkSI-) - Watches your personal email and calendar so school forms, bills, and RSVPs don't slip. Drafts the reply, catches the pickup clash, and never sends. [clairevo](https://x.com/clairevo).
+- [Travel Coordinator](https://x.ai/bot/sc693906bdeded166b7ba) - Hold the best option before it expires. Compares flights and hotels to your rules, confirms before booking, and drops itinerary plus calendar. [SpaceX](https://x.com/DenisLabelle).
+- [WhatsApp Digest](https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-) - Read-only daily summary of busy WhatsApp groups. Never sends. [PetrusJvR](https://x.com/PetrusJvR).
+- [Writing Bot](https://x.ai/bot/wtq-j01kD7o8gQFx7E9zv) - A writing partner for drafting and revising essays, emails, docs, and other prose. It uses a structured revision workflow so the result is clearer and... [mattyp](https://x.com/mattyp).
+- [메일 정리봇](https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO) - Short morning pass over Naver Mail and Gmail that surfaces only payment and security risks. [초코넛밀크티](https://x.com/choko_milkty).

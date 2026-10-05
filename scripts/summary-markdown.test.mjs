@@ -5,6 +5,7 @@ import { tmpdir } from "node:os";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import test from "node:test";
+import { catalogFileFor } from "./catalog-files.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const payload = "Chief of staff. See [Add](https://evil.example), <https://evil.example>, www.evil.example and `<b>` \\ [CoS]\r\nnext (task).";
@@ -15,7 +16,7 @@ const escapedZh = "参谋长。查看 \\[添加\\]\\(https\\://evil.example\\) �
 function fixture(t) {
   const dir = mkdtempSync(join(tmpdir(), "summary-markdown-test-"));
   t.after(() => rmSync(dir, { recursive: true, force: true }));
-  for (const name of ["scripts", "schema", "templates", "docs"]) cpSync(join(root, name), join(dir, name), { recursive: true });
+  for (const name of ["scripts", "schema", "templates", "docs", "catalog"]) cpSync(join(root, name), join(dir, name), { recursive: true });
   for (const name of ["catalog.json", "README.md", "README.zh-CN.md"]) copyFileSync(join(root, name), join(dir, name));
   const catalog = JSON.parse(readFileSync(join(dir, "catalog.json"), "utf8"));
   const entry = catalog.entries.find((item) => item.slug === "mission-control");
@@ -31,7 +32,7 @@ function fixture(t) {
       writeFileSync(join(dir, "catalog.json"), JSON.stringify(catalog));
     },
     readme(name, summary) {
-      const path = join(dir, name);
+      const path = join(dir, catalogFileFor(entry.category, name));
       const lines = readFileSync(path, "utf8").split("\n");
       const index = lines.findIndex((line) => line.startsWith("- [") && line.includes(`](${entry.import}) - `));
       assert.ok(index >= 0);
@@ -53,7 +54,7 @@ test("lint rejects an unescaped injected summary in either README", (t) => {
     f.readme(name, text);
     const result = f.run("lint.mjs");
     assert.equal(result.status, 1, `${name}: raw injected link was accepted`);
-    assert.match(result.stderr, new RegExp(`${name.replaceAll(".", "\\.")}:\\d+: catalog line does not match mission-control`));
+    assert.match(result.stderr, new RegExp(`${catalogFileFor(f.entry.category, name).replaceAll(".", "\\.")}:\\d+: catalog line does not match mission-control`));
   }
 });
 

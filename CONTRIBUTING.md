@@ -10,9 +10,9 @@ PR a live `https://x.ai/bot/…` URL, a one-sentence summary, and a category.
 
 1. Fork the repo.
 2. Append a matching object to `catalog.json` `entries`.
-3. Add one line to `README.md` and `README.zh-CN.md`.
+3. Add one line to `catalog/en/<category>.md` and `catalog/zh-CN/<category>.md`, and bump that category's count in both READMEs (the `| Category | N |` row and the `Full list (N shares)` / `完整列表（N 条）` line). Catalog lines do not go in the READMEs: GitHub stops rendering a Markdown file after 512,000 bytes, and lint caps each file at 480,000.
 4. PROFILE.md / SETUP.md only if you have extra setup notes (featured style). Then also add `templates/<kebab-slug>/entry.json` that deep-equals the catalog object.
-5. Run `node scripts/lint.mjs`. It checks the schema and the exact English/Chinese README projection, and must print `OK N entries`.
+5. Run `node scripts/lint.mjs`. It checks the schema and the exact English/Chinese catalog projection, and must print `OK N entries`.
 6. Open a PR.
 
 PR title format: Add BotName. Do not start the title with Add Awesome.
