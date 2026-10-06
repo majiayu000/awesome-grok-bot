@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **149**.
+Generated from [catalog.json](../catalog.json). Count: **150**.
 
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency\: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.
@@ -154,3 +154,4 @@ Generated from [catalog.json](../catalog.json). Count: **149**.
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) - A household chief of staff for family plans, school and home admin.
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) - Sends heavy coding jobs to Cursor, Claude Code, or Codex pools instead of Grok Bot credits.
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) - Coordinates a specialist bot team for a social photo app\: Scout world moments, Marketing, Social, Idea Lab, and Knowledge. Keeps lanes clear and growth.
+- [Zephyr](https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU) - Front desk for OneStepGPS fleets that answers lookups and makes app changes only after you confirm each one.
