@@ -19,7 +19,7 @@ for featured / PROFILE / SETUP style entries (and a strong recommend for solid).
 
 After **Add to Grok Bot**, the importer must reconnect plugins and supply their
 own keys. Skills can fail to travel (preview shows them, export ships
-`skills: []` — forum 169911). Inspect skills before relying on one.
+`skills: []` - forum 169911). Inspect skills before relying on one.
 
 Custom MCP and non-standard scripts are never in the template. Encode setup
 steps in SETUP.md / `post_install` so the end user can rebuild the flow.
@@ -41,13 +41,13 @@ the catalog row.
 
 Write the recipe framing in plain language:
 
-1. **What ships** — name / skills / routines / first-party plugins (ids or names).
-2. **What to reconnect** — plugins and connectors the importer must attach.
-3. **Secrets** — env **names** only (never values). Point at Cursor Secrets /
+1. **What ships** - name / skills / routines / first-party plugins (ids or names).
+2. **What to reconnect** - plugins and connectors the importer must attach.
+3. **Secrets** - env **names** only (never values). Point at Cursor Secrets /
    plugin auth, not paste-into-SETUP.
-4. **First safe task** — same text as `first_safe_task`.
-5. **Approval boundary** — same idea as `approval_boundary`.
-6. **Optional acceptance** — for coding / ops bots: CI green, screenshot
+4. **First safe task** - same text as `first_safe_task`.
+5. **Approval boundary** - same idea as `approval_boundary`.
+6. **Optional acceptance** - for coding / ops bots: CI green, screenshot
    before/after, or a short checklist table (Engineering guide feedback loop).
 
 ## Optional catalog fields (schema-allowed, not required for all 3387 rows)
@@ -69,13 +69,13 @@ template or promote a row to featured / solid with SETUP notes.
 
 ## Engineering pattern (optional, for coding bots)
 
-From the Engineering guide — useful when the bot manages Cursor cloud agents:
+From the Engineering guide - useful when the bot manages Cursor cloud agents:
 
-- **Outer loop** — Grok Bot gathers context and writes the prompt / acceptance bar.
-- **Inner loop** — coding work goes to Cursor cloud agents.
-- **Feedback** — require proof (screenshot, CI, transcript) before marking done.
-- **Specialists + ops** — one bot per domain; an ops bot for playbooks / postmortems.
-- **Routines** — nightly audits, P0 transcript checks (token-heavy; true urgency only).
+- **Outer loop** - Grok Bot gathers context and writes the prompt / acceptance bar.
+- **Inner loop** - coding work goes to Cursor cloud agents.
+- **Feedback** - require proof (screenshot, CI, transcript) before marking done.
+- **Specialists + ops** - one bot per domain; an ops bot for playbooks / postmortems.
+- **Routines** - nightly audits, P0 transcript checks (token-heavy; true urgency only).
 
 Document the acceptance bar in `acceptance` or SETUP. Do not invent share URLs
 for official role starters (those stay in `docs/official-starters.md`).
