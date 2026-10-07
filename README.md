@@ -62,7 +62,7 @@ Live searchable catalog: [majiayu000.github.io/awesome-grok-bot](https://majiayu
   <img src="docs/screenshots/add-button.png" alt="A live share page. The black button is Add to Grok Bot." width="420">
 </p>
 
-A share is a **recipe**, not a clone ([Templates guide](https://x.ai/bot/guides/templates-for-grok-bot)). It copies the name, skills, routines, and first-party plugins. It does not copy the computer, files, logins, custom MCP/scripts, or API keys. After Add, reconnect plugins and keys yourself. Skills can fail to travel.
+A share is a **recipe**, not a clone ([Templates guide](https://x.ai/bot/guides/templates-for-grok-bot)). It copies the name, skills, routines, relevant workflow memories without personal or internal details, and first-party plugins. It does not copy the computer, files, logins, custom MCP/scripts, API keys, or personal/internal memories. Inspect the template details before Add; after Add, reconnect plugins and keys yourself. Skills can fail to travel.
 
 Your bots share one cloud Linux computer (cap 50). That is not the app on your laptop. There is no official Linux desktop app. Linux laptops use [Linux laptop app](#linux-laptop-app).
 

@@ -16,10 +16,11 @@ for featured / PROFILE / SETUP style entries (and a strong recommend for solid).
 | Skills (when export includes them) | Logins, API keys, secret values |
 | Routines (triggers) | Custom MCP servers, local scripts, vendor tokens |
 | First-party marketplace plugins (by plugin id) | Personal / internal memories |
+| Relevant workflow memories without personal / internal details | |
 
 After **Add to Grok Bot**, the importer must reconnect plugins and supply their
 own keys. Skills can fail to travel (preview shows them, export ships
-`skills: []` - forum 169911). Inspect skills before relying on one.
+`skills: []` - forum 169911). Inspect the template details, including skills and memories, before relying on it.
 
 Custom MCP and non-standard scripts are never in the template. Encode setup
 steps in SETUP.md / `post_install` so the end user can rebuild the flow.
@@ -41,7 +42,7 @@ the catalog row.
 
 Write the recipe framing in plain language:
 
-1. **What ships** - name / skills / routines / first-party plugins (ids or names).
+1. **What ships** - name / skills / routines / relevant non-personal workflow memories / first-party plugins (ids or names).
 2. **What to reconnect** - plugins and connectors the importer must attach.
 3. **Secrets** - env **names** only (never values). Point at Cursor Secrets /
    plugin auth, not paste-into-SETUP.

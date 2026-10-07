@@ -11,9 +11,9 @@ Official guides: [Templates for Grok Bot](https://x.ai/bot/guides/templates-for-
 
 A share is a **recipe**, not a 1:1 clone of the author's running bot.
 
-- **Ships:** name, skills (when the export includes them), routines, first-party marketplace plugins by plugin id.
-- **Does not ship:** computer, files, logins, API keys, custom MCP / scripts, personal memories.
-- After Add, the importer reconnects plugins and supplies their own keys.
+- **Ships:** name, skills (when the export includes them), routines, relevant workflow memories that contain no personal or internal details, first-party marketplace plugins by plugin id.
+- **Does not ship:** computer, files, logins, API keys, custom MCP / scripts, personal / internal memories.
+- Inspect the template details to confirm what is included. After Add, the importer reconnects plugins and supplies their own keys.
 - Skills can fail to travel (preview shows them, export ships `skills: []`).
 
 For featured / PROFILE / SETUP style entries (and as a strong recommend for solid), document:

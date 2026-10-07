@@ -62,7 +62,7 @@
   <img src="docs/screenshots/add-button.png" alt="一条活分享页。黑色按钮是 Add to Grok Bot。" width="420">
 </p>
 
-分享是一份**菜谱**，不是克隆（见 [Templates 指南](https://x.ai/bot/guides/templates-for-grok-bot)）。会带上名字、技能、例行任务和官方市场插件。不会带上电脑、文件、登录、自定义 MCP/脚本或 API key。Add 之后要自己重连插件并填密钥。技能有时传不过来。
+分享是一份**菜谱**，不是克隆（见 [Templates 指南](https://x.ai/bot/guides/templates-for-grok-bot)）。会带上名字、技能、例行任务、不含个人或内部信息的相关工作流记忆，以及官方市场插件。不会带上电脑、文件、登录、自定义 MCP/脚本、API key 或个人/内部记忆。先查看模板详情确认实际包含的内容，Add 之后要自己重连插件并填密钥。技能有时传不过来。
 
 Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上的 App。没有官方 Linux 桌面端。自己电脑是 Linux 的，看 [Linux 笔记本客户端](#linux-笔记本客户端)。
 
