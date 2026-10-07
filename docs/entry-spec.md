@@ -37,7 +37,7 @@ catalog object):
 Also required as files: `PROFILE.md`, `SETUP.md`, `entry.json` deep-equal to
 the catalog row.
 
-## Required in SETUP.md (and PROFILE when you write one)
+## Required in new or updated SETUP.md (and PROFILE when you write one)
 
 Write the recipe framing in plain language:
 
