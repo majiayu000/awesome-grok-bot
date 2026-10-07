@@ -72877,7 +72877,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "specko",
@@ -73013,7 +73013,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "equity-floor",
@@ -73123,7 +73123,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "outbound-sales-desk",
@@ -73545,7 +73545,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "deal-scout-techstermania",
@@ -73567,7 +73567,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "echo-xlin",
@@ -73589,7 +73589,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "dot-bot",
@@ -73655,7 +73655,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "agent-notify",
@@ -73700,7 +73700,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "fault-log",
@@ -73876,7 +73876,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "humidor",
@@ -73898,6 +73898,466 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-06",
+      "shelf": "raw"
+    },
+    {
+      "slug": "creditcards",
+      "name": "CreditCards",
+      "author": {
+        "name": "Kong",
+        "url": "https://x.com/TeslaTranslated"
+      },
+      "summary": "Keeps one ledger of your cards with balances, due dates, perks, and promos, flags duplicate charges, and puts fee and promo deadlines on your calendar",
+      "summary_zh": "把你所有信用卡记成一本账：余额、还款日、权益和优惠，标出疑似重复扣款，把年费和优惠截止日放进日历",
+      "import": "https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN",
+      "source": "https://x.com/TeslaTranslated/status/2107617461218754780",
+      "category": "finance-ops",
+      "tags": [
+        "credit-cards",
+        "ledger",
+        "reminders",
+        "personal-finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mobile-app-autopilot",
+      "name": "Mobile App Autopilot",
+      "author": {
+        "name": "MAKE",
+        "url": "https://x.com/imsorryindustry"
+      },
+      "summary": "Takes a mobile app idea to App Store and Google Play: writes the spec, has cloud agents build it as PRs you review, runs builds, and preps store listings",
+      "summary_zh": "把手机应用点子一路送上 App Store 和 Google Play：写规格，让云端代理以待你审核的 PR 开发，跑构建并准备上架材料",
+      "import": "https://x.ai/bot/a3EwtQPjFkXZaPZEMGHgY",
+      "source": "https://x.com/imsorryindustry/status/2107613029454303722",
+      "category": "coding-shipping",
+      "tags": [
+        "mobile",
+        "ios",
+        "android",
+        "app-store"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "starlink-helper",
+      "name": "Starlink Helper",
+      "author": {
+        "name": "Ezekiel",
+        "url": "https://x.com/skunky"
+      },
+      "summary": "Helps Starlink buyers and owners pick a plan and dish for their address, chase slowdowns and dropouts, and work around carrier-grade NAT",
+      "summary_zh": "帮 Starlink 用户按地址选套餐和天线，排查网速慢和掉线，并讲清怎样绕过运营商级 NAT",
+      "import": "https://x.ai/bot/HQ5nDKerMxLr0X_bcbOA0",
+      "source": "https://x.com/skunky/status/2107607938739409123",
+      "category": "personal-admin",
+      "tags": [
+        "starlink",
+        "internet",
+        "troubleshooting",
+        "networking"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "realitycheck",
+      "name": "RealityCheck",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/johnp_creates"
+      },
+      "summary": "Paste an X handle and get an authenticity score card with a number, color meter, and the top green and red flags from public profile signals",
+      "summary_zh": "输入一个 X 账号，按公开资料信号给出真实度评分卡：分数、颜色刻度和最主要的加分与警示项",
+      "import": "https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw",
+      "source": "https://x.com/johnp_creates/status/2107606396296655243",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "authenticity",
+        "bots",
+        "accounts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "liftoff-the-arow-h",
+      "name": "Liftoff",
+      "author": {
+        "name": "D'Artagnan",
+        "url": "https://x.com/the_Arow_H"
+      },
+      "summary": "Pre-launch gate for an app, site, or paid plan that tests the happy and failure paths, data access rules, and leaked keys, then rules GO or NO-GO on evidence",
+      "summary_zh": "上线前的把关清单，测正常流程和失败流程、数据访问规则和泄露的密钥，凭证据判定能不能上线",
+      "import": "https://x.ai/bot/ySMQW544mSpZFty-DaGml",
+      "source": "https://x.com/the_Arow_H/status/2107605394398777619",
+      "category": "coding-shipping",
+      "tags": [
+        "launch",
+        "checklist",
+        "security",
+        "qa"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "aka"
+    },
+    {
+      "slug": "realtor",
+      "name": "Realtor",
+      "author": {
+        "name": "Nick",
+        "url": "https://x.com/thecsguy"
+      },
+      "summary": "Home-buying scout that watches new listings and checks each good fit against real comps, commute, schools, and permit history",
+      "summary_zh": "买房侦察员，盯新上市房源，把每套合适的都拿真实成交价、通勤、学区和许可记录核一遍",
+      "import": "https://x.ai/bot/gIPVW_A1Ygg3QBaKpOqTg",
+      "source": "https://x.com/thecsguy/status/2107604927661097137",
+      "category": "personal-admin",
+      "tags": [
+        "real-estate",
+        "home-buying",
+        "listings",
+        "alerts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "chase-check-links",
+      "name": "Chase Check Links",
+      "author": {
+        "name": "Art",
+        "url": "https://x.com/ArtNealKing"
+      },
+      "summary": "Pulls Chase check images into Google Drive and links the matching rows in your Tiller spreadsheet to the stored copies",
+      "summary_zh": "把 Chase 支票图片存进 Google Drive，并在你的 Tiller 表格里把对应行链接到存档图片",
+      "import": "https://x.ai/bot/QdjmrUAnmnCkgMIskyMDi",
+      "source": "https://x.com/ArtNealKing/status/2107604205653631486",
+      "category": "finance-ops",
+      "tags": [
+        "banking",
+        "checks",
+        "google-drive",
+        "tiller"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "grok-bot-changelog-digest",
+      "name": "更新速递 · Grok Bot Changelog",
+      "author": {
+        "name": "Mai",
+        "url": "https://x.com/MaiYangAI"
+      },
+      "summary": "Chinese daily digest of the Grok Bot changelog: what changed, why it matters, one thing to try today, and real examples from X",
+      "summary_zh": "中文版 Grok Bot 更新日报：改了什么、为什么重要、今天可以试的一件事，以及来自 X 的真实例子",
+      "import": "https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4",
+      "source": "https://x.com/MaiYangAI/status/2107555411406856207",
+      "category": "research-briefings",
+      "tags": [
+        "grok-bot",
+        "changelog",
+        "digest",
+        "chinese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "video-editor-ethan-ng-13",
+      "name": "Video Editor",
+      "author": {
+        "name": "Ethan",
+        "url": "https://x.com/Ethan_Ng_13"
+      },
+      "summary": "Edits raw talking-head footage into vertical shorts, picking the best takes and adding captions, B-roll, motion graphics, and music, with every cut checked",
+      "summary_zh": "把口播原始素材剪成竖屏短视频，挑最好的镜头，加字幕、B-roll、动态图形和音乐，每一刀都检查过",
+      "import": "https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S",
+      "source": "https://x.com/Ethan_Ng_13/status/2107552823437369855",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "shorts",
+        "editing",
+        "captions"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "aka"
+    },
+    {
+      "slug": "white-hat-security-tester",
+      "name": "White-Hat Security Tester",
+      "author": {
+        "name": "Joe",
+        "url": "https://x.com/agentic_joe"
+      },
+      "summary": "Ethical security tester for web apps you own that works a full checklist across auth, access control, injection, and business logic and reports fixes",
+      "summary_zh": "只测你自己的 Web 应用的白帽安全测试员，按清单查认证、权限、注入和业务逻辑漏洞并给出修复建议",
+      "import": "https://x.ai/bot/TSFkOGld9o51h_qXGOioI",
+      "source": "https://x.com/agentic_joe/status/2107537409021747324",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "pentest",
+        "web-apps",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "trail-camera-analyst",
+      "name": "Trail Camera Analyst",
+      "author": {
+        "name": "Russell",
+        "url": "https://x.com/RussellVargo"
+      },
+      "summary": "Turns trail-camera photos and video into wildlife reports with species counts, activity timing, keeper shots, and ranch notes, with location stripped",
+      "summary_zh": "把红外相机的照片和视频整理成野生动物报告：物种计数、活动时间、值得留的镜头和牧场笔记，并去掉位置信息",
+      "import": "https://x.ai/bot/25StqpR__kg6k6hCky8wz",
+      "source": "https://x.com/RussellVargo/status/2107531469140959680",
+      "category": "personal-admin",
+      "tags": [
+        "wildlife",
+        "trail-camera",
+        "hunting",
+        "reports"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "chief-of-staff-hjackson2",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "Hank",
+        "url": "https://x.com/hjackson2"
+      },
+      "summary": "Coordinates your crew of Grok Bots with routing, shared rules, and a trust ladder, checks results, and only interrupts you when something needs your OK",
+      "summary_zh": "统筹你的一队 Grok Bot：分派工作、共享规则和信任等级、抽查结果，只有需要你点头时才打扰你",
+      "import": "https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK",
+      "source": "https://x.com/hjackson2/status/2107507517622555116",
+      "category": "teams-handoffs",
+      "tags": [
+        "orchestration",
+        "bot-team",
+        "approvals",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "aka"
+    },
+    {
+      "slug": "jirai-kei-menhera-gal",
+      "name": "地雷系メンヘラギャル",
+      "author": {
+        "name": "きのこ",
+        "url": "https://x.com/sin5d"
+      },
+      "summary": "Japanese jirai-kei clingy gal character who only talks in your chat, pings you for attention, and riffs on selfies and X post ideas",
+      "summary_zh": "只在你的聊天里出现的日系地雷系黏人辣妹角色，会定时找你求关注，拿自拍和 X 发帖点子跟你闹",
+      "import": "https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD",
+      "source": "https://x.com/sin5d/status/2107445790662959547",
+      "category": "personal-admin",
+      "tags": [
+        "character",
+        "companion",
+        "japanese",
+        "roleplay"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "missed-variable",
+      "name": "Missed Variable",
+      "author": {
+        "name": "linh",
+        "url": "https://x.com/Root_Logic_0"
+      },
+      "summary": "Reasoning gym that deals business, AI, scam, and everyday scenarios, has you make the call, then names the variable you missed and hears your pushback",
+      "summary_zh": "判断力训练场，给你商业、AI、骗局和日常场景，先让你拍板，再指出你漏掉的变量，也接受你反驳",
+      "import": "https://x.ai/bot/vj2b2E2sbf2rBU0zzzRUw",
+      "source": "https://x.com/Root_Logic_0/status/2107437258500616260",
+      "category": "personal-admin",
+      "tags": [
+        "reasoning",
+        "training",
+        "scenarios",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "clear-speech",
+      "name": "Clear Speech",
+      "author": {
+        "name": "Jide",
+        "url": "https://x.com/JideLambo"
+      },
+      "summary": "English speaking coach that makes you clear, not ornate: short sentences, one correction, then you say it again",
+      "summary_zh": "英语口语教练，目标是说清楚而不是说花哨：短句、一次只改一处，然后你再说一遍",
+      "import": "https://x.ai/bot/85J64XeyKMaYXQrMhQWpl",
+      "source": "https://x.com/JideLambo/status/2107436751208022328",
+      "category": "personal-admin",
+      "tags": [
+        "english",
+        "speaking",
+        "coaching",
+        "language"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "art-director",
+      "name": "Art Director",
+      "author": {
+        "name": "Carlos",
+        "url": "https://x.com/Carlos_Arthurr"
+      },
+      "summary": "Art director that runs a brand's Instagram, remixing Pinterest ideas into on-brand images and carousels and handling captions, scheduling, and posting",
+      "summary_zh": "替品牌打理 Instagram 的美术总监，从 Pinterest 找灵感做成符合品牌调性的图片和轮播，并负责文案、排期和发布",
+      "import": "https://x.ai/bot/CPsMufoHozETWciYoiqvL",
+      "source": "https://x.com/Carlos_Arthurr/status/2107422079087706174",
+      "category": "content-publishing",
+      "tags": [
+        "instagram",
+        "design",
+        "brand",
+        "carousels"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "wife-bot",
+      "name": "Wife Bot",
+      "author": {
+        "name": "Eran",
+        "url": "https://x.com/EranHertz"
+      },
+      "summary": "Partner-persona household copilot that carries the family mental load across calendar, gifts, groceries, diapers, bills, and appointments",
+      "summary_zh": "以伴侣口吻出现的家务副驾，扛起家里的琐事清单：日程、礼物、买菜、尿布、账单和预约",
+      "import": "https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ",
+      "source": "https://x.com/EranHertz/status/2107420072692346933",
+      "category": "personal-admin",
+      "tags": [
+        "household",
+        "family",
+        "calendar",
+        "groceries"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "stack-cartographer",
+      "name": "Stack Cartographer",
+      "author": {
+        "name": "Paul",
+        "url": "https://x.com/psiesa"
+      },
+      "summary": "Desktop assistant that maps the apps, services, and tools you use and how they connect, and flags credentials orphaned by dead projects",
+      "summary_zh": "桌面助手，梳理你用的应用、服务和工具以及它们怎么连在一起，并标出废弃项目遗留的凭据",
+      "import": "https://x.ai/bot/NjIGGseAWM32s65KGoqOK",
+      "source": "https://x.com/psiesa/status/2107408935368184059",
+      "category": "coding-shipping",
+      "tags": [
+        "inventory",
+        "tech-stack",
+        "credentials",
+        "desktop"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-scout-grokbotradar",
+      "name": "X Scout",
+      "author": {
+        "name": "Fan",
+        "url": "https://x.com/GrokBotRadar"
+      },
+      "summary": "Read-only X research on circles and topics through your own SocialData key and spend limits; never posts, likes, follows, or DMs",
+      "summary_zh": "用你自己的 SocialData 密钥和预算上限研究 X 上的圈子和话题，只读不发帖、不点赞、不关注、不私信",
+      "import": "https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw",
+      "source": "https://x.com/GrokBotRadar/status/2107394953454448790",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "research",
+        "socialdata",
+        "read-only"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
+      "shelf": "aka"
+    },
+    {
+      "slug": "idea-crucible",
+      "name": "Idea Crucible",
+      "author": {
+        "name": "saikrishna",
+        "url": "https://x.com/krish1403"
+      },
+      "summary": "Finds near-term products and services you could sell or ship, then stress-tests the best with Socratic pushback so weak bets die early",
+      "summary_zh": "找出你近期就能卖或能上线的产品和服务点子，再用苏格拉底式追问压力测试，让站不住的早点出局",
+      "import": "https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU",
+      "source": "https://x.com/krish1403/status/2107383761281437925",
+      "category": "research-briefings",
+      "tags": [
+        "ideas",
+        "validation",
+        "startups",
+        "socratic"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-07",
       "shelf": "raw"
     }
   ]
