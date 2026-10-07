@@ -62,7 +62,7 @@
   <img src="docs/screenshots/add-button.png" alt="一条活分享页。黑色按钮是 Add to Grok Bot。" width="420">
 </p>
 
-分享会带上名字、技能、例行任务和官方市场插件。不会带上电脑、文件、登录或 API key。
+分享是一份**菜谱**，不是克隆（见 [Templates 指南](https://x.ai/bot/guides/templates-for-grok-bot)）。会带上名字、技能、例行任务和官方市场插件。不会带上电脑、文件、登录、自定义 MCP/脚本或 API key。Add 之后要自己重连插件并填密钥。技能有时传不过来。
 
 Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上的 App。没有官方 Linux 桌面端。自己电脑是 Linux 的，看 [Linux 笔记本客户端](#linux-笔记本客户端)。
 
@@ -214,6 +214,14 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 ## 官方文档
 
 先看 [overview](https://docs.x.ai/grok-bot/overview)、[get started](https://docs.x.ai/grok-bot/get-started)、[plans](https://cursor.com/help/grok-bot/plans) 和 [FAQ](https://docs.x.ai/grok-bot/faq)。隔离按账号，不按 Bot。抹掉 Grok Bot 等于删 Cursor 账号。
+
+### 指南（x.ai/bot/guides）
+
+- [Guides 索引](https://x.ai/bot/guides) - 官方上手与分享教程总览。
+- [Templates for Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) - 菜谱不是成品。分享里带什么、Add 后要自己重连什么。
+- [Grok Bot for Engineering](https://x.ai/bot/guides/grok-bot-for-engineering) - 外环/内环（Grok Bot 写提示，Cursor cloud agents 写代码）、专才、带证明的反馈闭环、夜间审计与 P0 例程。
+
+本目录按这些指南写的条目规范见 [docs/entry-spec.md](docs/entry-spec.md)。
 
 ### 新闻
 

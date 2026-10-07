@@ -11,7 +11,7 @@ All bots on one account share one computer (files, browser sessions, logins). Do
 3. Run the featured template's first safe task when one is listed; otherwise choose a harmless read-only task.
 4. Only then enable routines or writes.
 
-Never paste API keys into SETUP. Reconnect plugins yourself. A share copies first-party marketplace plugins by plugin id, not your credentials.
+Never paste API keys into SETUP. Reconnect plugins yourself. A share is a recipe, not a clone ([Templates guide](https://x.ai/bot/guides/templates-for-grok-bot)). It copies first-party marketplace plugins by plugin id, not your credentials, computer, files, logins, or custom MCP/scripts. Entry norms: [docs/entry-spec.md](docs/entry-spec.md).
 
 ## Skills may be missing
 
