@@ -62,7 +62,7 @@ Live searchable catalog: [majiayu000.github.io/awesome-grok-bot](https://majiayu
   <img src="docs/screenshots/add-button.png" alt="A live share page. The black button is Add to Grok Bot." width="420">
 </p>
 
-A share copies the name, skills, routines, and first-party plugins. It does not copy the computer, files, logins, or API keys.
+A share is a **recipe**, not a clone ([Templates guide](https://x.ai/bot/guides/templates-for-grok-bot)). It copies the name, skills, routines, relevant workflow memories without personal or internal details, and first-party plugins. It does not copy the computer, files, logins, custom MCP/scripts, API keys, or personal/internal memories. Inspect the template details before Add; after Add, reconnect plugins and keys yourself. Skills can fail to travel.
 
 Your bots share one cloud Linux computer (cap 50). That is not the app on your laptop. There is no official Linux desktop app. Linux laptops use [Linux laptop app](#linux-laptop-app).
 
@@ -214,6 +214,14 @@ Staff-confirmed or screenshot-backed.
 ## Official docs
 
 Start with the [overview](https://docs.x.ai/grok-bot/overview), [get started](https://docs.x.ai/grok-bot/get-started), [plans](https://cursor.com/help/grok-bot/plans), and [FAQ](https://docs.x.ai/grok-bot/faq). Isolation is per user, not per Bot. Wiping Grok Bot deletes the Cursor account too.
+
+### Guides (x.ai/bot/guides)
+
+- [Guides index](https://x.ai/bot/guides) - Official walkthroughs for shipping and sharing bots.
+- [Templates for Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) - Recipe not meal. What ships in a share vs what you reconnect after Add.
+- [Grok Bot for Engineering](https://x.ai/bot/guides/grok-bot-for-engineering) - Outer/inner loop with Cursor cloud agents, specialists, feedback with proof, routines for audits and P0.
+
+Catalog entry norms that follow these guides: [docs/entry-spec.md](docs/entry-spec.md).
 
 ### News
 

@@ -111,6 +111,31 @@
       "type": "string",
       "minLength": 1
     },
+    "plugins_needed": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Optional reconnect checklist after Add (first-party plugin names and/or remote MCP labels). Prefer connectors / connectors_optional when structured. Never include credentials."
+    },
+    "secrets_needed": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Za-z_][A-Za-z0-9_]*$"
+      },
+      "description": "Optional env var NAMES the importer must supply (never values). Example: OPENAI_API_KEY."
+    },
+    "post_install": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Optional short note of work after Add (reconnect plugins, check skills, run first_safe_task)."
+    },
+    "acceptance": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Optional proof of done for coding/ops bots (CI green, screenshot before/after, checklist table)."
+    },
     "tags": {
       "type": "array",
       "items": {
@@ -153,7 +178,7 @@
         "aka",
         "raw"
       ],
-      "description": "Editorial navigation shelf. Reachable ≠ safe; verified is separate."
+      "description": "Editorial navigation shelf. Reachable \u2260 safe; verified is separate."
     }
   }
 }
