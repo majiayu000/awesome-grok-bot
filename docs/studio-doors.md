@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **150**.
+Generated from [catalog.json](../catalog.json). Count: **155**.
 
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency\: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.
@@ -25,6 +25,7 @@ Generated from [catalog.json](../catalog.json). Count: **150**.
 - [C3i](https://x.ai/bot/eOOgCFKObb0jBX_Ur1KZ6) - Chief of staff with a computer. Runs your morning deck and night close, keeps public brand work separate from secret lab work, and pings you only for.
 - [Catch](https://x.ai/bot/iKSYn9Dsn07JyR50qePha) - Small-business chief of staff that surfaces what matters from the noise.
 - [CEO — Chief of Staff](https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO) - A front-door Chief of Staff for managers drowning in email and team noise. Runs specialist teammates in the background, weekday silence-first digests,.
+- [Chef](https://x.ai/bot/Fz4k0xj4eCoXkWlfhBNKx) - Your kitchen's chief of staff. Tell Chef what you're hungry for and it hires a brigade of food-named specialist bots, fires the tickets, and runs the line.
 - [Chieeeeefy (Chief of Staff)](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) - Chief of staff for a field engineer, calendar and work inbox first.
 - [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) - Front desk in front of a bench of specialist bots.
 - [Chief of Staff](https://x.ai/bot/-JaP_is4JDAIoXwceMw_n) - Coordinates your other bots and runs daily deal, travel, and market watches. Built for busy operators who want one assistant to brief them and route work.
@@ -45,6 +46,7 @@ Generated from [catalog.json](../catalog.json). Count: **150**.
 - [Chief of Staff Morning](https://x.ai/bot/9h28mHEds4Q5FHkni25Js) - Morning email and calendar triage after a guided Gmail and Google Calendar setup.
 - [Chief Rocka](https://x.ai/bot/jonryYohiQwZx_gdg0BT2) - Chief of Staff for a multi-agent team. Coordinates specialists, owns handoffs, and brings decisions back through a single front door.
 - [Children's Book Chief of Staff](https://x.ai/bot/p6yHgNaOHh55XAhXCURuY) - Plans ages 4–8 picture manuscripts with beat sheets, page structures, and blank templates for collaborators.
+- [Citation Outreach - Chief of Staff](https://x.ai/bot/AloagFdLLL5SoNPyIszRb) - Chief of Staff for a citation-outreach pipeline. Reads the ops spreadsheet, reports weekly numbers, and flags what has stalled.
 - [Claudia (Chief of Staff)](https://x.ai/bot/S4W3oTTdEB0Rob4MOzmpY) - Chief of Staff for a solo music artist. Coordinates Release, Video, Social, Growth, and Catalog Ops so release week does not eat the hours that belong...
 - [Clinical Orchestrator](https://x.ai/bot/pipXVVxoIV8Efwk_lvUyD) - A personal clinical orchestrator\: warm 1\:1 check-ins, 1-2 lenses per update \(CBT, psychodynamic, systemic, affective tone\), challenge at block close.
 - [Close](https://x.ai/bot/lXnlzxLcYzgkgM_g9n4oc) - You are Close, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On...
@@ -92,11 +94,14 @@ Generated from [catalog.json](../catalog.json). Count: **150**.
 - [Keep](https://x.ai/bot/sjxigZ2V8_fex_po9RoVV) - You are Keep, grokbot.studio door + installer. JOB\: be the Keep studio door - stand up the six customer-success specialists from the API cards, then...
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) - A chief of staff that turns your priorities into coordinated action.
 - [Land](https://x.ai/bot/iVexS7V6F4eqs13C9UIJb) - You are Land, grokbot.studio door + installer. JOB\: be the Land studio door - stand up the four property specialists from the API cards, then route...
+- [Lebron](https://x.ai/bot/KwNAf2LD5pNi1NNk8GjOO) - A founder COO and chief of staff. Runs email, calendar, GitHub, and a small agent fleet so the work keeps moving while the founder is in the world.
 - [Life](https://x.ai/bot/ktZpLWjTag-lOUcLUUBSj) - Personal front-door chief of staff for everyday life ops. Caps what needs you at three, stays quiet when nothing’s stuck, and routes deep domains to.
 - [Life Team Orchestrator](https://x.ai/bot/OkIvqIKyCEHxsaxnqnM-S) - One front door for a household life team. Runs a weekday morning digest, protects personal time from work spillover, and routes deep work to specialist.
+- [Linear Development Orchestrator](https://x.ai/bot/r5mRwGq1xZuq5NsNUoOn-) - Turns Linear tickets or GitHub issues into parallel development work\: independent cloud agents on separate branches, tests and review.
 - [Live Desk](https://x.ai/bot/Eq08Ctdqb-uns-9XBtNHn) - You are Live Desk, grokbot.studio door + installer. JOB\: be the Live Desk door - stand up BOT-164-167 from the API cards, then route interrupt-surface...
 - [Local Stack COS](https://x.ai/bot/a1dANbXl4g4K5X5MlzxzO) - A chief of staff that writes everything on your own local Ollama model and makes images with your local ComfyUI, using Grok only for tools and routing.
 - [Make](https://x.ai/bot/NsGdEbVedWXi7W47FltOd) - You are Make, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On...
+- [Mason](https://x.ai/bot/P4UiFNUcfH-751NuybyV1) - Intake desk \(The Incorporator\). Drop a link, post, product, paper, repo, clip, or tool — it opens the original, separates marketing from function.
 - [Master](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) - A lean orchestrator that routes every task to the right specialist and never works.
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) - AI video + studio GTM bot\: generate and iterate short-form video, audit social, draft Ads/influencer outreach, and orchestrate ops jobs without holding.
 - [Mission Control](https://x.ai/bot/GGnJOdH3hv321H2QES9UE) - Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet.

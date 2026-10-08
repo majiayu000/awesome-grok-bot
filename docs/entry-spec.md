@@ -51,7 +51,7 @@ Write the recipe framing in plain language:
 6. **Optional acceptance** - for coding / ops bots: CI green, screenshot
    before/after, or a short checklist table (Engineering guide feedback loop).
 
-## Optional catalog fields (schema-allowed, not required for all 3387 rows)
+## Optional catalog fields (schema-allowed, not required for every row)
 
 Use when a featured/solid template benefits from structured data. Raw ingest
 rows may omit them.

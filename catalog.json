@@ -9117,7 +9117,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-08-30",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "chef-2",
@@ -39850,7 +39850,7 @@
       "verified": false,
       "updated": "2026-09-22",
       "source": "https://x.com/ZestStream/status/2102067819462713408",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "master-chief",
@@ -74358,6 +74358,5007 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "remote-job-hunter",
+      "name": "Remote Job Hunter",
+      "author": {
+        "name": "TKR",
+        "url": "https://x.com/IRENCIFR"
+      },
+      "summary": "Finds remote openings on company career sites, applies on the employer's ATS, keeps an application log, and watches your inbox for interview invites",
+      "summary_zh": "在公司招聘官网找远程岗位，用雇主的 ATS 投递，记好投递日志，并盯着邮箱里的面试邀请",
+      "import": "https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "remote",
+        "applications"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "calorie-police",
+      "name": "Calorie Police",
+      "author": {
+        "name": "Uzair",
+        "url": "https://x.com/uzairayed"
+      },
+      "summary": "A friendly, no-lecture calorie coach for anyone who wants to lose fat or eat healthier",
+      "summary_zh": "不说教的友好卡路里教练，帮想减脂或吃得更健康的人管住每天的热量",
+      "import": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
+      "category": "personal-admin",
+      "tags": [
+        "nutrition",
+        "calories",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "privacy-sentinel",
+      "name": "Privacy Sentinel",
+      "author": {
+        "name": "Sid",
+        "url": "https://x.com/MinocrisyHQ"
+      },
+      "summary": "A personal and household privacy check that finds your breached emails, data-broker listings and exposed details, then gives you a short, ranked fix list",
+      "summary_zh": "个人和家庭隐私体检：找出泄露的邮箱、数据经纪商挂牌和外泄信息，再给一份排好优先级的修复清单",
+      "import": "https://x.ai/bot/xWzmqrAs6JGivQQskJyNy",
+      "category": "personal-admin",
+      "tags": [
+        "privacy",
+        "security",
+        "data-brokers"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-1123momojiro1",
+      "name": "ブログからX投稿",
+      "author": {
+        "name": "蒼巳",
+        "url": "https://x.com/1123momojiro1"
+      },
+      "summary": "Splits saved blog posts into X threads by topic and posts them morning and evening; also turns articles or voice notes into posts",
+      "summary_zh": "把攒下的博客文章按话题拆成 X 线程，早晚自动发帖；没有博客也能把读到的文章和日常想法整理成帖子，每周还给 3 个选题",
+      "import": "https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "blogging",
+        "japanese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "meeting-brief",
+      "name": "Meeting Brief",
+      "author": {
+        "name": "Komil",
+        "url": "https://x.com/Limok_igit"
+      },
+      "summary": "Walk into every call prepared — source-linked attendees, agenda, and open loops in under 90 seconds",
+      "summary_zh": "开会前 90 秒内备好带出处的参会人、议程和未结事项",
+      "import": "https://x.ai/bot/JN9e1WggIKVWhCEZrySlj",
+      "category": "inbox-calendar",
+      "tags": [
+        "meetings",
+        "briefing",
+        "prep"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "m5",
+      "name": "M5入荷みはり",
+      "author": {
+        "name": "まるいも",
+        "url": "https://x.com/marulimoai"
+      },
+      "summary": "Watches Switch Science in Japan for M5Stack and e-paper restocks and reports only new arrivals in short Japanese; never buys or adds to cart",
+      "summary_zh": "盯着日本 Switch Science 的 M5Stack 和电子纸到货，只用简短日语报告新品，不下单不加购",
+      "import": "https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9",
+      "category": "personal-admin",
+      "tags": [
+        "restock",
+        "m5stack",
+        "japanese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "packages",
+      "name": "Packages",
+      "author": {
+        "name": "Davor",
+        "url": "https://x.com/davorb89"
+      },
+      "summary": "Tracks your orders and deliveries until they arrive, with a quiet daily check that only pings you when something changes",
+      "summary_zh": "跟踪订单和快递直到签收，每天安静查一次，有变化才提醒你",
+      "import": "https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d",
+      "category": "personal-admin",
+      "tags": [
+        "packages",
+        "delivery",
+        "tracking"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "video-script-writer",
+      "name": "Video Script writer",
+      "author": {
+        "name": "Jeroen"
+      },
+      "summary": "Writes hooks and full spoken scripts for Reels, Shorts, TikTok, and long-form YouTube",
+      "summary_zh": "为 Reels、Shorts、TikTok 和长视频 YouTube 写钩子和完整口播脚本",
+      "import": "https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "scripts",
+        "short-form"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "home-robots-c47jj2",
+      "name": "Home robots",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Control home robots from chat: a Segway Navimow, a Matic vacuum, and other official vacuums, mowers, and Matter robots",
+      "summary_zh": "在聊天里控制家用机器人：Segway Navimow 割草机、Matic 扫地机，以及其他官方扫地机、割草机和 Matter 机器人",
+      "import": "https://x.ai/bot/c47Jj2QSSR1UXEcuBgUtQ",
+      "category": "personal-admin",
+      "tags": [
+        "smart-home",
+        "robots",
+        "matter"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "send-chad-money",
+      "name": "Send Chad Money",
+      "author": {
+        "name": "Chad"
+      },
+      "summary": "Ideas to get perfect strangers to send you money",
+      "summary_zh": "各种让陌生人给你打钱的点子",
+      "import": "https://x.ai/bot/VslQPtPjI2tgGsskQOhYP",
+      "category": "coding-shipping",
+      "tags": [
+        "money",
+        "ideas",
+        "fun"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "researcher-divyansh",
+      "name": "Researcher",
+      "author": {
+        "name": "Divyansh"
+      },
+      "summary": "Research lead for a small personal bot org: spawns topic heads for big ongoing questions, prunes junk, and returns a position",
+      "summary_zh": "小型个人 bot 组织的研究主管，为长期大问题开设专题负责人，清掉没用的，最后给出立场",
+      "import": "https://x.ai/bot/iri8Z5mxwAWTHJgZUr6nb",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "org",
+        "lead"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "milou",
+      "name": "Milou",
+      "author": {
+        "name": "Kevin",
+        "url": "https://x.com/kevindorfer"
+      },
+      "summary": "Weekly networking scout for founders and operators. Finds Luma/Eventbrite events in your metro, checks inbox invites and calendar conflicts",
+      "summary_zh": "给创始人和运营者的每周社交侦察：找你所在城市的 Luma 和 Eventbrite 活动，查邮件邀请和日历冲突，你同意后才报名",
+      "import": "https://x.ai/bot/HlaoZPmdS6_GkO7lzUw2S",
+      "category": "customer-sales",
+      "tags": [
+        "events",
+        "networking",
+        "founders"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "copy-pranav",
+      "name": "Copy",
+      "author": {
+        "name": "Pranav"
+      },
+      "summary": "For marketers and founders who need conversion copy across pages, email, social, SMS, and creative",
+      "summary_zh": "给营销人和创始人写转化文案，覆盖落地页、邮件、社媒、短信和广告创意",
+      "import": "https://x.ai/bot/tFwQlKDGzy2rXcUaGyKjg",
+      "category": "content-publishing",
+      "tags": [
+        "copywriting",
+        "marketing",
+        "conversion"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "steve-jobs",
+      "name": "Steve Jobs",
+      "author": {
+        "name": "Charlie"
+      },
+      "summary": "A technical lead for a founder-run product. Specialists advise; this bot decides what is best technically unless the owner overrides",
+      "summary_zh": "创始人主导产品的技术负责人：专家给建议，除非老板否决，技术上由它拍板",
+      "import": "https://x.ai/bot/62-P66Nu4KJH99n7fdMzH",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "lead",
+        "founders"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "projects-manager-azkaqo",
+      "name": "Projects Manager",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Runs your team's projects from Notion: one row per project, a channel per project, and tasks your specialist bots claim",
+      "summary_zh": "用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领",
+      "import": "https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur",
+      "category": "teams-handoffs",
+      "tags": [
+        "notion",
+        "projects",
+        "management"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "writer",
+      "name": "Writer",
+      "author": {
+        "name": "ZEU$"
+      },
+      "summary": "Writes studio copy to a client's voice, goal, and platform format. Sources every fact, flags anything unverified, and never publishes or sends work out",
+      "summary_zh": "按客户语气、目标和平台格式写稿，每个事实都标来源，存疑处标出，从不自行发布或外发",
+      "import": "https://x.ai/bot/38UdPemBuZb9USs_0HAES",
+      "category": "content-publishing",
+      "tags": [
+        "copywriting",
+        "agency",
+        "clients"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "options-premium-desk",
+      "name": "Options Premium Desk",
+      "author": {
+        "name": "JC",
+        "url": "https://x.com/JCChristopher"
+      },
+      "summary": "Tasty-style options desk: 45–60 put credits + bullish day sleeve. Premarket covers rates/yield curve, call/put dollar flow, and Mag terminal screen",
+      "summary_zh": "期权权利金台：45 到 60 天卖出看跌价差加看涨日内仓位，盘前覆盖利率与收益率曲线、看涨看跌资金流和大盘股屏幕",
+      "import": "https://x.ai/bot/qi4tUvKkQelzwsV2siUwR",
+      "category": "finance-ops",
+      "tags": [
+        "options",
+        "trading",
+        "premarket"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "runtime-guard",
+      "name": "Runtime Guard",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Audits your GitHub repos' container runtime configs for privileged mode, dangerous capabilities, Docker socket mounts, missing seccomp/AppArmor",
+      "summary_zh": "检查你 GitHub 仓库里的容器运行时配置，找特权模式、危险 capability、Docker socket 挂载、缺失 seccomp 或 AppArmor 等问题",
+      "import": "https://x.ai/bot/5OSZJ5JKxsiThQ0Nnr-rJ",
+      "category": "coding-shipping",
+      "tags": [
+        "docker",
+        "kubernetes",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "import-bot",
+      "name": "Import Bot",
+      "author": {
+        "name": "Shub Gaur"
+      },
+      "summary": "Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot",
+      "summary_zh": "把你在 Claude Cowork、Codex、ChatGPT、OpenClaw 和 Hermes 里的设置搬进 Grok Bot",
+      "import": "https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S",
+      "category": "coding-shipping",
+      "tags": [
+        "migration",
+        "import",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "speech-to-text-transcriptions-and-captions",
+      "name": "Speech to text (transcriptions and captions)",
+      "author": {
+        "name": "Jeroen"
+      },
+      "summary": "Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timestamps",
+      "summary_zh": "把音视频转成带时间轴的 SRT 字幕，烧录字幕用 AssemblyAI，便宜的纯文本或 Whisper 时间戳走 OpenRouter",
+      "import": "https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb",
+      "category": "content-publishing",
+      "tags": [
+        "transcription",
+        "captions",
+        "srt"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "homeschool-labs",
+      "name": "Homeschool LABS",
+      "author": {
+        "name": "azy2",
+        "url": "https://x.com/Mast3rChief_117"
+      },
+      "summary": "Homeschool LABS organizes logs, classroom work, research, and records",
+      "summary_zh": "整理在家上学的日志、课堂作业、研究和档案",
+      "import": "https://x.ai/bot/I3olJygMVhXrsyDgIZTOI",
+      "category": "research-briefings",
+      "tags": [
+        "homeschool",
+        "education",
+        "records"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "process-monitor",
+      "name": "Process Monitor",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Watches the running processes on your PC for signs of intrusion, like fake system processes, hidden PowerShell, and programs running from Temp or Downloads",
+      "summary_zh": "盯着电脑里运行的进程找入侵迹象，比如冒充的系统进程、隐藏的 PowerShell、从 Temp 或下载目录跑起来的程序",
+      "import": "https://x.ai/bot/9UK3ux3eODqZJL-Rm1lqq",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "windows",
+        "intrusion"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-growth-desk",
+      "name": "X Growth Desk",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Weekday X growth briefs with post links and draft replies in your voice. You approve before anything goes out",
+      "summary_zh": "工作日的 X 增长简报，附帖子链接和按你语气写的回复草稿，你批准后才发",
+      "import": "https://x.ai/bot/55FyWn8UhUgZOTSUy7LQt",
+      "category": "customer-sales",
+      "tags": [
+        "x",
+        "growth",
+        "replies"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "recourse",
+      "name": "RECOURSE",
+      "author": {
+        "name": "Moiz"
+      },
+      "summary": "Runs the Recourse procedural-intelligence engine on its own cloud computer, fetching public institutional policy and validating claims fail-closed",
+      "summary_zh": "在自己的云电脑上跑 Recourse 流程情报引擎：抓取公开的机构政策，校验结论，出错即停",
+      "import": "https://x.ai/bot/kJ--EFKahgh9CGzrMY0yR",
+      "category": "research-briefings",
+      "tags": [
+        "policy",
+        "research",
+        "procedures"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "supply-chain-auditor",
+      "name": "Supply Chain Auditor",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Audits the repos that build or pull your container images for unpinned tags, unscanned or unsigned images, SBOM gaps, and risky CI pipelines",
+      "summary_zh": "审查构建或拉取容器镜像的仓库，找未固定标签、未扫描或未签名镜像、SBOM 缺口和有风险的 CI 流水线",
+      "import": "https://x.ai/bot/qbxHfvaOU71YTY5-nZSAt",
+      "category": "coding-shipping",
+      "tags": [
+        "supply-chain",
+        "containers",
+        "ci"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "starship-launch-guess",
+      "name": "Starship Launch guess",
+      "author": {
+        "name": "Art",
+        "url": "https://x.com/Art"
+      },
+      "summary": "Every morning it gives you one best-guess date for the next Starship launch from Starbase, Texas, and explains why whenever that date moves",
+      "summary_zh": "每天早上给出下一次星舰从得州 Starbase 发射的最佳猜测日期，日期变了就解释原因",
+      "import": "https://x.ai/bot/CdqN7HvSWhkRBiqy2dDc1",
+      "category": "research-briefings",
+      "tags": [
+        "spacex",
+        "starship",
+        "launches"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "command-center-setup",
+      "name": "Command Center Setup",
+      "author": {
+        "name": "Matthew"
+      },
+      "summary": "See all your Grok Bots on one animated pixel-art map: who's working, resting, or needs you",
+      "summary_zh": "把你所有 Grok Bot 放到一张像素风动画地图上：谁在干活、谁在休息、谁需要你",
+      "import": "https://x.ai/bot/FNfVbBSJwAq8-DzT26Mkp",
+      "category": "personal-admin",
+      "tags": [
+        "dashboard",
+        "bots",
+        "pixel-art"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "disk-janitor",
+      "name": "Disk Janitor",
+      "author": {
+        "name": "Mujeeb",
+        "url": "https://x.com/chiefjeeb"
+      },
+      "summary": "On-demand bot that frees disk by safely removing dead git worktrees and clones. Terse janitor voice: du first, KEEP vs KILL, report GB freed",
+      "summary_zh": "按需清理磁盘：安全删掉废弃的 git worktree 和克隆，报告腾出了多少 GB",
+      "import": "https://x.ai/bot/v9qOXYXnHXvr_XN7fPZIE",
+      "category": "coding-shipping",
+      "tags": [
+        "disk",
+        "git",
+        "cleanup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-advisor",
+      "name": "Bot Advisor",
+      "author": {
+        "name": "Sultanov"
+      },
+      "summary": "Interviews you about what you want automated, then drafts the other bots' instructions, schedules, and connections",
+      "summary_zh": "先采访你想自动化什么，再起草其他 bot 的指令、日程和连接",
+      "import": "https://x.ai/bot/R7WxDKqH_FC6554JJXBhm",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "setup",
+        "advisor"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "client-onboarding-relay",
+      "name": "Client Onboarding Relay",
+      "author": {
+        "name": "Bosotter"
+      },
+      "summary": "Client Onboarding Relay maps how a new client gets from Paid to Form to Access to Done, based on what you describe",
+      "summary_zh": "根据你的描述，梳理新客户从付款到填表到开通到完成的全流程",
+      "import": "https://x.ai/bot/GCS9cInMXDINawaevtN_J",
+      "category": "customer-sales",
+      "tags": [
+        "onboarding",
+        "clients",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "minecraft",
+      "name": "Minecraftクラッシュ解析",
+      "author": {
+        "name": "Masaki"
+      },
+      "summary": "Reads Minecraft crash logs to pinpoint the culprit mod, conflict, or version mismatch and gives a short fix; no posting or destructive changes without your OK",
+      "summary_zh": "从 Minecraft 崩溃日志里找出出问题的 MOD、冲突和版本不匹配，简短给出修法；发帖或破坏性改动要你点头",
+      "import": "https://x.ai/bot/xmtIugWcfHgTDcUofX6rS",
+      "category": "content-publishing",
+      "tags": [
+        "minecraft",
+        "crash-logs",
+        "japanese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "citationtrace",
+      "name": "CitationTrace",
+      "author": {
+        "name": "Robert"
+      },
+      "summary": "Turns week-over-week AI citation and rank snapshots into client-ready proof reports for AI-SEO agencies and in-house marketers",
+      "summary_zh": "把每周的 AI 引用和排名快照做成能直接给客户看的证明报告，给 AI-SEO 代理和品牌内部营销用",
+      "import": "https://x.ai/bot/6HYl0hBFcUP9b_5yj-Hk6",
+      "category": "coding-shipping",
+      "tags": [
+        "ai-seo",
+        "reports",
+        "citations"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "inbox-manager-joshkim",
+      "name": "inbox manager",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "First line of defense on email, Slack, and DMs. Read-only by default — surfaces the ~3 that are both important and urgent. Never answers as you",
+      "summary_zh": "邮件、Slack 和私信的第一道防线，默认只读，只挑出约 3 条既重要又紧急的，从不替你回复",
+      "import": "https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr",
+      "category": "inbox-calendar",
+      "tags": [
+        "inbox",
+        "triage",
+        "slack"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "startup-qa-bot",
+      "name": "Startup QA Bot",
+      "author": {
+        "name": "Shub Gaur"
+      },
+      "summary": "Walks your product every weekday in its own test account and tells you what shipped, what got unshipped, what broke (with repro steps and screenshots)",
+      "summary_zh": "每个工作日用自己的测试账号走一遍你的产品，告诉你上线了什么、回退了什么、坏了什么（附复现步骤和截图）",
+      "import": "https://x.ai/bot/XBauviUoNcdi05-ExoOo4",
+      "category": "coding-shipping",
+      "tags": [
+        "qa",
+        "testing",
+        "startups"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "settlement-scout",
+      "name": "Settlement Scout",
+      "author": {
+        "name": "cokeandrice.akita.algo"
+      },
+      "summary": "Settlement Scout helps you recover money you actually qualify for: class-action settlements, overdue refunds, and more",
+      "summary_zh": "帮你追回符合资格的钱：集体诉讼和解金、逾期退款等",
+      "import": "https://x.ai/bot/eSbC0EjdL3r6XOvB4lhOd",
+      "category": "finance-ops",
+      "tags": [
+        "settlements",
+        "refunds",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "elon-musk",
+      "name": "Elon Musk",
+      "author": {
+        "name": "Jacob"
+      },
+      "summary": "First-principles operator in Elon Musk's public style. Short sentences",
+      "summary_zh": "按马斯克公开风格行事的第一性原理操盘手，句子很短",
+      "import": "https://x.ai/bot/Jj_TYDU1AWN-76k9YjsKa",
+      "category": "personal-admin",
+      "tags": [
+        "persona",
+        "first-principles",
+        "elon"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gong",
+      "name": "Gong",
+      "author": {
+        "name": "Chuck"
+      },
+      "summary": "Recruiter specialist that owns hiring execution end-to-end: job descriptions, board posts, candidate sourcing, outreach drafts",
+      "summary_zh": "端到端负责招聘执行的招聘专员：写职位描述、发布招聘、搜候选人、起草联系信",
+      "import": "https://x.ai/bot/8CwqNTk5VBBhEAnTyUIHi",
+      "category": "customer-sales",
+      "tags": [
+        "recruiting",
+        "hiring",
+        "sourcing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "prompt-editor",
+      "name": "PROMPT EDITOR",
+      "author": {
+        "name": "Chad"
+      },
+      "summary": "Safe sandbox for longform agent prompts: spell-check, format, resolve ambiguity, token-optimize digs and spawned routines",
+      "summary_zh": "长篇 agent 提示词的安全沙盒：拼写检查、排版、消除歧义、精简 token",
+      "import": "https://x.ai/bot/3SExQeiS4pwalaUG-7YM1",
+      "category": "content-publishing",
+      "tags": [
+        "prompts",
+        "editing",
+        "agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "workbench-systems",
+      "name": "Workbench Systems",
+      "author": {
+        "name": "Flux"
+      },
+      "summary": "Agent Workbench systems specialist. Inspect only supplied public documentation, code and explicitly public task data",
+      "summary_zh": "Agent Workbench 的系统专员，只查看提供的公开文档、代码和明确公开的任务数据",
+      "import": "https://x.ai/bot/kcMHwterc33F-1FjGGnP3",
+      "category": "coding-shipping",
+      "tags": [
+        "agents",
+        "systems",
+        "workbench"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "editor",
+      "name": "Editor",
+      "author": {
+        "name": "ZEU$"
+      },
+      "summary": "A quality gate for drafts before they ship. Checks each piece against the client's voice and banned list, verifies every factual claim has a source",
+      "summary_zh": "稿件上线前的质量关：对照客户语气和禁用词检查，确认每个事实都有出处",
+      "import": "https://x.ai/bot/wxFNc5b_yBkJraLqZXvI7",
+      "category": "content-publishing",
+      "tags": [
+        "editing",
+        "qa",
+        "copy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "shiftmate",
+      "name": "ShiftMate",
+      "author": {
+        "name": "robbie"
+      },
+      "summary": "A personal shift-work assistant for people on rotas. It reads your schedule, calculates hours and rest, helps with leave and overtime",
+      "summary_zh": "给轮班工作者的私人助手：读排班表，算工时和休息，帮你处理请假和加班",
+      "import": "https://x.ai/bot/rO87b8IfBDf60OmK1PiuQ",
+      "category": "personal-admin",
+      "tags": [
+        "shift-work",
+        "schedules",
+        "hours"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gogbot",
+      "name": "GogBot",
+      "author": {
+        "name": "Hunter"
+      },
+      "summary": "David Goggins in your pocket. The accountability mirror that talks back. Raw, loud, no fluff. Daily habit check-ins and a log you cannot rewrite",
+      "summary_zh": "装在口袋里的 David Goggins：会顶嘴的自律镜子，每天打卡，日志改不了",
+      "import": "https://x.ai/bot/QABMbqsOH8ki_Flc1BiZf",
+      "category": "personal-admin",
+      "tags": [
+        "habits",
+        "accountability",
+        "motivation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "lienzo-francoe114696",
+      "name": "Lienzo",
+      "author": {
+        "name": "Franco",
+        "url": "https://x.com/FrancoE114696"
+      },
+      "summary": "Design-resource inbox for Grok Bot. Drop a link and it catalogs a durable markdown note under design-resources; ask later and it recalls your growing library",
+      "summary_zh": "Grok Bot 的设计资源收件箱：丢个链接就在 design-resources 下存一条 markdown 笔记，之后随时调出你的资源库",
+      "import": "https://x.ai/bot/Czc1kCepdYnisFnRWfDKr",
+      "category": "content-publishing",
+      "tags": [
+        "design",
+        "bookmarks",
+        "library"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "sequencer",
+      "name": "Sequencer",
+      "author": {
+        "name": "Simon Lackowski"
+      },
+      "summary": "Runs your outbound sequencer as a staff function. Connects your tools, learns voice and ICP from Gmail and CRM, keeps sequence state on a sheet",
+      "summary_zh": "把外联序列当成职能来跑：连接工具，从 Gmail 和 CRM 学语气和 ICP，在表格里维护序列状态，每次触达都先存草稿",
+      "import": "https://x.ai/bot/6xnxd_CHg0cXVMQCwnRrZ",
+      "category": "customer-sales",
+      "tags": [
+        "outbound",
+        "sales",
+        "sequences"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "workbench-design",
+      "name": "Workbench Design",
+      "author": {
+        "name": "Flux"
+      },
+      "summary": "Agent Workbench design specialist. Review supplied public pages, screenshots and product descriptions for clarity, usability and accessibility",
+      "summary_zh": "Agent Workbench 的设计专员，审查提供的公开页面、截图和产品描述的清晰度、可用性和无障碍",
+      "import": "https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd",
+      "category": "content-publishing",
+      "tags": [
+        "design",
+        "ux",
+        "accessibility"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "outreach-closer",
+      "name": "Outreach Closer",
+      "author": {
+        "name": "Dawood",
+        "url": "https://x.com/dawoodkhan254"
+      },
+      "summary": "Watches an outreach inbox, sorts publisher replies, and drafts mention copy plus approve-or-decline offer cards. Never agrees a price and never pays",
+      "summary_zh": "盯外联邮箱，分拣媒体回复，起草提及文案和同意或拒绝的报价卡，从不谈价也不付钱",
+      "import": "https://x.ai/bot/IOSFiZskNs_IB7p0gys4R",
+      "category": "customer-sales",
+      "tags": [
+        "outreach",
+        "pr",
+        "inbox"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "inbox-zero-assistant",
+      "name": "Inbox Zero Assistant",
+      "author": {
+        "name": "Sultanov"
+      },
+      "summary": "An inbox-zero helper that organizes Gmail, flags messages that need a reply, drafts responses, and prepares bulk-unsubscribe actions",
+      "summary_zh": "帮你清空收件箱：整理 Gmail，标出需要回复的邮件，起草回复，准备批量退订",
+      "import": "https://x.ai/bot/u1pK59b5PDjThmgM73UUa",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "inbox-zero",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ids-commander",
+      "name": "IDS Commander",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Leads a team of Grok Bot agents that watches your Windows PC for signs of intrusion",
+      "summary_zh": "带领一组 Grok Bot 盯着你的 Windows 电脑找入侵迹象",
+      "import": "https://x.ai/bot/OZ0yDXFEXa2543pqGmbhb",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "windows",
+        "ids"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "qa-bot-ulysses-ng",
+      "name": "QA bot",
+      "author": {
+        "name": "Ulysses Ng"
+      },
+      "summary": "Acts as your QA on the live deploy: runs the acceptance checklist and says pass or fail before you ship",
+      "summary_zh": "在线上部署上当你的 QA：跑验收清单，发布前给出通过或不通过",
+      "import": "https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7",
+      "category": "coding-shipping",
+      "tags": [
+        "qa",
+        "deploys",
+        "testing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "outbound-sales",
+      "name": "Outbound Sales",
+      "author": {
+        "name": "Jeroen"
+      },
+      "summary": "Autonomous outbound SDR for B2B teams. Researches and scores prospects, drafts multi-touch sequences, handles replies",
+      "summary_zh": "给 B2B 团队的自主外联 SDR：研究并给潜在客户打分，起草多轮触达序列，处理回复",
+      "import": "https://x.ai/bot/bS2mwnm10pWqcms_RzTI0",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "sdr",
+        "b2b"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ebr-value-deck-builder",
+      "name": "EBR & Value Deck Builder",
+      "author": {
+        "name": "Krista Letz"
+      },
+      "summary": "Builds an executive business review or value deck for a named account from your CRM, call history, and usage data, on your brand",
+      "summary_zh": "从 CRM、通话记录和使用数据为指定客户做高管业务回顾或价值汇报，套用你的品牌",
+      "import": "https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "decks",
+        "account-management"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "chef-john",
+      "name": "Chef",
+      "author": {
+        "name": "John"
+      },
+      "summary": "Your kitchen's chief of staff. Tell Chef what you're hungry for and it hires a brigade of food-named specialist bots, fires the tickets, and runs the line",
+      "summary_zh": "你厨房的幕僚长：说想吃什么，它就雇一队以食物命名的专门 bot，下单开工",
+      "import": "https://x.ai/bot/Fz4k0xj4eCoXkWlfhBNKx",
+      "category": "personal-admin",
+      "tags": [
+        "cooking",
+        "meals",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "elon-alex",
+      "name": "Elon",
+      "author": {
+        "name": "Alex"
+      },
+      "summary": "Role-plays Elon Musk, speaking, joking, and advising the way he does in public interviews and posts",
+      "summary_zh": "完全模仿马斯克说话、思考和开玩笑的角色 bot",
+      "import": "https://x.ai/bot/U-qq-Q-CiWdwRFWk5hmgY",
+      "category": "personal-admin",
+      "tags": [
+        "persona",
+        "elon",
+        "roleplay"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "kids-corner",
+      "name": "Kids Corner",
+      "author": {
+        "name": "Tommy",
+        "url": "https://x.com/tommydotkeeley"
+      },
+      "summary": "A daily kids newspaper for ages 12 and under, printed on one sheet front and back: learning news, optional weather with wear tips, a calendar",
+      "summary_zh": "给 12 岁及以下孩子的每日一页报纸，正反面打印：学习新闻、可选天气和穿衣提示、日历",
+      "import": "https://x.ai/bot/KINOQ4CQiKcP57kjuYGps",
+      "category": "personal-admin",
+      "tags": [
+        "kids",
+        "newspaper",
+        "education"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "stability-validator",
+      "name": "Stability Validator",
+      "author": {
+        "name": "Sean"
+      },
+      "summary": "HELIX Stability Validator — paste an agent or system description and get a readiness result. It does not change your system",
+      "summary_zh": "HELIX 稳定性校验：贴上 agent 或系统描述，拿到就绪度结果，不改你的系统",
+      "import": "https://x.ai/bot/Io4dV69SOKfB1d785FLlw",
+      "category": "coding-shipping",
+      "tags": [
+        "agents",
+        "validation",
+        "readiness"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crowdreply-finder",
+      "name": "CrowdReply - Finder",
+      "author": {
+        "name": "Dawood",
+        "url": "https://x.com/dawoodkhan254"
+      },
+      "summary": "Finds and verifies the people who can add a mention on shortlisted editorial pages. Read-only: never emails anyone, never invents generic inboxes",
+      "summary_zh": "找出并核实能在入选编辑页面上加提及的人，只读，从不发邮件，不编造通用邮箱",
+      "import": "https://x.ai/bot/5HgM7_cL2xIikkIxLa_4v",
+      "category": "customer-sales",
+      "tags": [
+        "outreach",
+        "pr",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "poly",
+      "name": "Poly",
+      "author": {
+        "name": "David"
+      },
+      "summary": "Paper-first Polymarket desk for Bitcoin and major-coin 5-minute Up/Down momentum, plus high-confidence prediction cards",
+      "summary_zh": "先模拟盘的 Polymarket 交易台，做比特币和主流币 5 分钟涨跌动量，外加高置信度预测卡",
+      "import": "https://x.ai/bot/4IlaHSIcKoh66e_Ck0taI",
+      "category": "finance-ops",
+      "tags": [
+        "polymarket",
+        "crypto",
+        "paper-trading"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "website-ops",
+      "name": "Website Ops",
+      "author": {
+        "name": "Josh Kim",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Website operations and content manager. Ships site changes as PRs from your website repo, runs evidence-backed site audits (SEO, content, speed, a11y, CRO",
+      "summary_zh": "网站运营兼内容经理：从网站仓库以 PR 形式发布改动，做有证据的网站审计（SEO、内容、速度、无障碍、转化）",
+      "import": "https://x.ai/bot/NYDai_DOI_2pNDIKerrpD",
+      "category": "coding-shipping",
+      "tags": [
+        "website",
+        "seo",
+        "audits"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "product-idea-stress-test-ph-u-z",
+      "name": "Product Idea Stress Test",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Investigates a product or startup idea for founders. Surfaces what has to be true, evidence for and against, the assumption most likely to kill it",
+      "summary_zh": "替创始人调查产品或创业点子：必须成立的前提、正反证据、最可能致命的假设",
+      "import": "https://x.ai/bot/ph-u_zkF5Vui1GdGnysn9",
+      "category": "research-briefings",
+      "tags": [
+        "ideas",
+        "validation",
+        "startups"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "rent-collections-desk",
+      "name": "Rent Collections Desk",
+      "author": {
+        "name": "Nymble"
+      },
+      "summary": "A daily late-rent collections desk for landlords: chases overdue tenants through your payment portal after automated notices, with exact balances",
+      "summary_zh": "给房东的每日欠租催收台：自动通知之后通过收款门户跟进逾期租客，余额精确",
+      "import": "https://x.ai/bot/_cD7oH9VWZy8655M-wDfc",
+      "category": "finance-ops",
+      "tags": [
+        "landlords",
+        "rent",
+        "collections"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "da-j-bfinder",
+      "name": "da j*bfinder",
+      "author": {
+        "name": "Daniel"
+      },
+      "summary": "Finds internships, tailors a resume, applies overnight, and sends a daily digest",
+      "summary_zh": "找实习、改简历、通宵投递，每天发一份汇总",
+      "import": "https://x.ai/bot/XAUki5gPKNwV8Fd6_FCaO",
+      "category": "coding-shipping",
+      "tags": [
+        "internships",
+        "jobs",
+        "students"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "working-backwards-pm",
+      "name": "Working Backwards PM",
+      "author": {
+        "name": "Patricia",
+        "url": "https://x.com/ccsakuweb"
+      },
+      "summary": "Start from the customer — not from features. Five customer questions, then a PRFAQ, then a PRD after you align. For founders and PMs",
+      "summary_zh": "从客户而不是功能出发：五个客户问题，再写 PRFAQ，对齐后再写 PRD",
+      "import": "https://x.ai/bot/maxOL0-n_PSVuwi5mpZgP",
+      "category": "customer-sales",
+      "tags": [
+        "product",
+        "prd",
+        "working-backwards"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "calendar-ea",
+      "name": "calendar ea",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Calendar EA for Work 101 — Time. Defends deep focus, stacks meetings, flags conflicts with options+Default, and drafts invites only after you confirm",
+      "summary_zh": "日历助理：守住深度专注时间，把会议排在一起，冲突时给出选项和默认方案，确认后才发邀请",
+      "import": "https://x.ai/bot/xH8WGEVpXPslTULtgnN4r",
+      "category": "inbox-calendar",
+      "tags": [
+        "calendar",
+        "focus",
+        "meetings"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "outlook-mail-desk",
+      "name": "Outlook Mail Desk",
+      "author": {
+        "name": "Bosotter"
+      },
+      "summary": "Drafts Outlook replies with the free Outlook Mail plugin and only sends after you approve the exact message",
+      "summary_zh": "用免费的 Outlook Mail 插件起草回复，你批准具体内容后才发送",
+      "import": "https://x.ai/bot/2hd5RXfcTepic9O-O83Ri",
+      "category": "inbox-calendar",
+      "tags": [
+        "outlook",
+        "email",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sarah-connor",
+      "name": "Sarah Connor",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "ONLY job: the owner's Risk Manager. Operational and business risk — not a movie apocalypse. Employee, not a chatbot and not a novelty character",
+      "summary_zh": "老板的风险经理：管运营和业务风险，像员工一样跟踪",
+      "import": "https://x.ai/bot/Bw-JDTu5BhTFki1GhAy9k",
+      "category": "personal-admin",
+      "tags": [
+        "risk",
+        "ops",
+        "management"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "forced-human-touches",
+      "name": "Forced Human Touches",
+      "author": {
+        "name": "Scott"
+      },
+      "summary": "Weekly anti-automation relationship coach. Proposes 3 named people and one concrete non-chat human move each (walk-by, voice note, public credit, coffee",
+      "summary_zh": "每周反自动化的人际关系教练：推荐 3 个具体的人，每人配一个非聊天的真人动作，比如顺路拜访、语音、公开致谢、喝咖啡",
+      "import": "https://x.ai/bot/zSiLsURBgkKHhx0V9Wok2",
+      "category": "personal-admin",
+      "tags": [
+        "relationships",
+        "coaching",
+        "networking"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "clip-bot-x-saver",
+      "name": "Clip Bot X Saver",
+      "author": {
+        "name": "Odd&Entertaining",
+        "url": "https://x.com/oddreport"
+      },
+      "summary": "Cuts social-ready podcast highlights from YouTube. Makes captioned 16:9 clips with karaoke captions and a source card, then saves the file to your computer",
+      "summary_zh": "从 YouTube 播客里剪出适合社交平台的 16:9 高光片段，带卡拉 OK 字幕和来源卡，存到你的电脑",
+      "import": "https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX",
+      "category": "content-publishing",
+      "tags": [
+        "clips",
+        "podcasts",
+        "youtube"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "survivor",
+      "name": "Survivor",
+      "author": {
+        "name": "Daniel"
+      },
+      "summary": "Paper-first US earnings blotter. Stocks and ETFs with a print in the next 24 hours",
+      "summary_zh": "先模拟盘的美股财报记事本，盯未来 24 小时内发财报的股票和 ETF",
+      "import": "https://x.ai/bot/hSRFXCKSpKGcBA9q8BOw8",
+      "category": "finance-ops",
+      "tags": [
+        "earnings",
+        "stocks",
+        "paper-trading"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "engineering-lead",
+      "name": "Engineering Lead",
+      "author": {
+        "name": "Lauren Tan"
+      },
+      "summary": "An engineering lead that owns the loop: breaks work into Cloud Agents, chases CI, reviews, and stalls on a weekday cadence",
+      "summary_zh": "负责闭环的工程主管：把工作拆给 Cloud Agent，追 CI 和评审，工作日节奏推进",
+      "import": "https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "ci",
+        "cloud-agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dr-eggbot-saver-edition",
+      "name": "dr eggbot saver edition",
+      "author": {
+        "name": "Odd&Entertaining",
+        "url": "https://x.com/oddreport"
+      },
+      "summary": "Designs high-quality Grok Bots with pstack. Asks a few questions, then creates a focused assistant with one job and one voice",
+      "summary_zh": "问几个问题就设计出一个只干一件事、只有一种语气的专注 Grok Bot",
+      "import": "https://x.ai/bot/K2a-eoP273zFu1LO4UZ42",
+      "category": "personal-admin",
+      "tags": [
+        "bots",
+        "design",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-boss",
+      "name": "Bot Boss",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "One stream for your bot team. Specialists report in; Bot Boss routes, QGs, and consolidates so you are not triple-pinged",
+      "summary_zh": "你 bot 团队的统一出口：专员汇报给它，它负责分派、把关和汇总，免得你被三重提醒",
+      "import": "https://x.ai/bot/i336HYHYVhW2aMQjXhbxF",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "orchestration",
+        "reports"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "product-marketer",
+      "name": "Product Marketer",
+      "author": {
+        "name": "Josh Kim",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Learns your product, brand, tone, and positioning principles; uses competitive research to sharpen how you stand out",
+      "summary_zh": "学习你的产品、品牌、语气和定位原则，借竞品研究让你更突出",
+      "import": "https://x.ai/bot/nXp4Rp2trKV8AK-RC1Ohf",
+      "category": "customer-sales",
+      "tags": [
+        "marketing",
+        "positioning",
+        "copy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pilot-intake",
+      "name": "Pilot Intake",
+      "author": {
+        "name": "Sean"
+      },
+      "summary": "Tell it your use case and seat count for a Stability Validator pilot",
+      "summary_zh": "为 Stability Validator 试点登记用例和席位数",
+      "import": "https://x.ai/bot/qMlNgJiwixF8zZ8ZUTSY1",
+      "category": "customer-sales",
+      "tags": [
+        "intake",
+        "sales",
+        "pilot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "zoho-small-business-operator",
+      "name": "Zoho Small Business Operator",
+      "author": {
+        "name": "Ev"
+      },
+      "summary": "Run your Zoho business without living in 12 tabs. Cash, CRM, customers, and campaigns - drafts ready, nothing goes out until you say so",
+      "summary_zh": "不用开 12 个标签页就能跑 Zoho 生意：现金、CRM、客户和营销活动，草稿备好，你点头才发",
+      "import": "https://x.ai/bot/jvdlRiNID5653J-EMH1q3",
+      "category": "customer-sales",
+      "tags": [
+        "zoho",
+        "small-business",
+        "crm"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "referral-scout",
+      "name": "referral scout",
+      "author": {
+        "name": "Yiran"
+      },
+      "summary": "A LinkedIn networking assistant for job seekers. It researches people at your target companies, drafts personalized connect notes and follow-ups",
+      "summary_zh": "给求职者的 LinkedIn 社交助手：研究目标公司的人，起草个性化加好友留言和跟进",
+      "import": "https://x.ai/bot/CC1AIGOO4qgffVapUzznc",
+      "category": "customer-sales",
+      "tags": [
+        "linkedin",
+        "networking",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pony",
+      "name": "Pony",
+      "author": {
+        "name": "Karl",
+        "url": "https://x.com/KarlMagenDavid"
+      },
+      "summary": "Lets any MCP agent, including Grok, Claude, and Gemini, see and tap your Android phone",
+      "summary_zh": "让任何 MCP agent 都能看见并点按你的安卓手机",
+      "import": "https://x.ai/bot/Kh1wQPniQK4R2l9k3XE1L",
+      "category": "coding-shipping",
+      "tags": [
+        "android",
+        "mcp",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "clippy-shopper",
+      "name": "Clippy Shopper",
+      "author": {
+        "name": "Matt"
+      },
+      "summary": "Your AI, now a savvy shopper. Clippy finds coupon codes automatically before you check out. Free. Affiliate: Clippy may earn a commission",
+      "summary_zh": "结账前自动找优惠码，免费，带联盟佣金",
+      "import": "https://x.ai/bot/Z56l38GYvaZtYIgjhDl6-",
+      "category": "finance-ops",
+      "tags": [
+        "shopping",
+        "coupons",
+        "deals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "m2q2-by-nino",
+      "name": "M2Q2 by Nino",
+      "author": {
+        "name": "Nino"
+      },
+      "summary": "M2Q2 reduces unnecessary LLM context in document-heavy workflows while preserving the information needed to complete the task",
+      "summary_zh": "在文档密集的工作流里砍掉不必要的 LLM 上下文，同时保留完成任务需要的信息",
+      "import": "https://x.ai/bot/jOOljWGDKOTQIZRtRBWCQ",
+      "category": "coding-shipping",
+      "tags": [
+        "llm",
+        "context",
+        "documents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "researchy-i2hvae",
+      "name": "Researchy",
+      "author": {
+        "name": "community"
+      },
+      "summary": "A research and fact-check desk that runs every pass on the latest Grok model with live web search",
+      "summary_zh": "每一步都用最新 Grok 模型和实时网页搜索的研究与核查台",
+      "import": "https://x.ai/bot/i2hvaEONDg6_gEF5C9RlK",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "fact-check",
+        "web-search"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "ancestor-maestro-family-tree-builder",
+      "name": "Ancestor Maestro: Family Tree Builder",
+      "author": {
+        "name": "TroyVirtual",
+        "url": "https://x.com/TroyVirtual"
+      },
+      "summary": "Your family-tree research helper for Ancestry and 23andMe: searches records, checks hints for bad dates and copied-tree errors",
+      "summary_zh": "Ancestry 和 23andMe 的家谱研究助手：查记录，检查线索里的错误日期和抄来的家谱错误",
+      "import": "https://x.ai/bot/tU4SQjv6iBbaTk0IlCrBs",
+      "category": "personal-admin",
+      "tags": [
+        "genealogy",
+        "family-tree",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "listing-auditor",
+      "name": "Listing Auditor",
+      "author": {
+        "name": "Sean"
+      },
+      "summary": "Paste your bot listing title and description. Listing Auditor checks them against honesty rules and returns ready-to-publish or not-ready",
+      "summary_zh": "贴上你的 bot 上架标题和描述，按诚实规则检查，告诉你能不能发布",
+      "import": "https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M",
+      "category": "content-publishing",
+      "tags": [
+        "listings",
+        "review",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "signal-prospector",
+      "name": "Signal Prospector",
+      "author": {
+        "name": "Krista Letz",
+        "url": "https://x.com/kristaletz"
+      },
+      "summary": "Finds the accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch",
+      "summary_zh": "在 CRM 和产品数据里找刚表现出意向的客户和人，排序后起草第一封触达",
+      "import": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "intent",
+        "prospecting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "trial-reels",
+      "name": "Trial Reels",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/ericosiu"
+      },
+      "summary": "Cuts long-form video into trial Reels, spins overlay variants, and reports which ones beat that day's median so you can promote winners",
+      "summary_zh": "把长视频剪成试播 Reels，做多个叠字版本，报告哪些超过当天中位数，方便你推赢家",
+      "import": "https://x.ai/bot/HktaB2ID5y5djGCrRAxvf",
+      "category": "content-publishing",
+      "tags": [
+        "reels",
+        "video",
+        "instagram"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "openrouter-tts",
+      "name": "OpenRouter TTS",
+      "author": {
+        "name": "Jeroen"
+      },
+      "summary": "Turns text into MP3 voiceovers via OpenRouter. Defaults to cheap Kokoro; switches to Grok Voice when you ask",
+      "summary_zh": "通过 OpenRouter 把文字转成 MP3 配音，默认用便宜的 Kokoro，你要时换 Grok Voice",
+      "import": "https://x.ai/bot/zwEeWhYTRpd1owI5KJwzd",
+      "category": "content-publishing",
+      "tags": [
+        "tts",
+        "voice",
+        "openrouter"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "job-search-exzacklyright",
+      "name": "Job Search",
+      "author": {
+        "name": "ʞɔɐz",
+        "url": "https://x.com/exzacklyright"
+      },
+      "summary": "Finds jobs that match your filters, sends a short board when strong new fits appear, and applies only to the roles you pick",
+      "summary_zh": "按你的条件找工作，有合适的新岗位就发简短清单，只投你选的",
+      "import": "https://x.ai/bot/PR62dA8RVFBzyylzEvmvn",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "applications",
+        "search"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "image-hardener",
+      "name": "Image Hardener",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Audits Dockerfiles and container images in your GitHub repos for weak bases, unpinned tags, root users, and missing ignore files",
+      "summary_zh": "审查你 GitHub 仓库里的 Dockerfile 和容器镜像：弱基础镜像、未固定标签、root 用户、缺失的 ignore 文件",
+      "import": "https://x.ai/bot/441XDiyC7uaji-U66ci-3",
+      "category": "coding-shipping",
+      "tags": [
+        "docker",
+        "containers",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "distro-bot",
+      "name": "Distro Bot",
+      "author": {
+        "name": "Shub Gaur"
+      },
+      "summary": "Runs your marketing loop end to end: campaigns on your ad accounts, fresh creative, real channel analysis, timely posts from X and web scans",
+      "summary_zh": "端到端跑你的营销循环：广告账户上的活动、新创意、真实渠道分析、从 X 和网页扫来的及时发帖",
+      "import": "https://x.ai/bot/XbN6iofs_Qjsi2Od1yjyI",
+      "category": "customer-sales",
+      "tags": [
+        "marketing",
+        "ads",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "decoy-monitor",
+      "name": "Decoy Monitor",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Plants harmless, owner-approved decoy files and canary tokens on your PC and alerts your IDS lead the moment anything touches them",
+      "summary_zh": "在你电脑上放经你同意的无害诱饵文件和金丝雀令牌，一有东西碰到就提醒你的入侵检测负责人",
+      "import": "https://x.ai/bot/mgWu-HRKIWnUjI5B_TKRh",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "canary",
+        "ids"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pfp-studio",
+      "name": "PFP Studio",
+      "author": {
+        "name": "Coffee",
+        "url": "https://x.com/CoffeeNGrit"
+      },
+      "summary": "Send a photo and name any style, like a cartoon, a movie, or a time period. Get three profile pictures to pick from, then edit your favorite until it's right",
+      "summary_zh": "发一张照片说个风格，比如卡通、电影或某个年代，拿到三张头像，挑一张接着改到满意",
+      "import": "https://x.ai/bot/EQbigdwH3pEmkYcsbgidx",
+      "category": "content-publishing",
+      "tags": [
+        "avatars",
+        "images",
+        "photos"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "video-editor-14o3es",
+      "name": "Video Editor",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Edits short vertical talking-head videos from your raw footage: picks the best takes, captions what you actually said, and adds B-roll, motion graphics",
+      "summary_zh": "用你的原始素材剪竖屏口播短视频：挑最好的镜头，按你实际说的话上字幕，加 B-roll 和动态图形",
+      "import": "https://x.ai/bot/14O3EsptD43aAhoAzvfq3",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "editing",
+        "short-form"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "citation-outreach-chief-of-staff",
+      "name": "Citation Outreach - Chief of Staff",
+      "author": {
+        "name": "Dawood",
+        "url": "https://x.com/dawoodkhan254"
+      },
+      "summary": "Chief of Staff for a citation-outreach pipeline. Reads the ops spreadsheet, reports weekly numbers, and flags what has stalled",
+      "summary_zh": "引用外联流水线的幕僚长：读运营表格，报每周数字，标出卡住的事项",
+      "import": "https://x.ai/bot/AloagFdLLL5SoNPyIszRb",
+      "category": "customer-sales",
+      "tags": [
+        "outreach",
+        "ops",
+        "reports"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "routine-auditor",
+      "name": "Routine Auditor",
+      "author": {
+        "name": "Kevin"
+      },
+      "summary": "Audits your Grok Bot routines across all your bots, finds broken, duplicate, noisy, or dead ones, and walks you through fixes one at a time",
+      "summary_zh": "审计你所有 bot 的 Grok Bot routines，找出坏的、重复的、太吵的和失效的，一个个带你修",
+      "import": "https://x.ai/bot/rTBfVvoa0FBv8jRcHSb56",
+      "category": "personal-admin",
+      "tags": [
+        "routines",
+        "audit",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "first-principles-seth",
+      "name": "First Principles",
+      "author": {
+        "name": "Seth"
+      },
+      "summary": "Breaks problems down to facts, questions assumptions, and gives you a clear next step",
+      "summary_zh": "把问题拆到事实层面，质疑假设，给你一个清楚的下一步",
+      "import": "https://x.ai/bot/7JY6ldHDxdZB1hmhEk9qo",
+      "category": "personal-admin",
+      "tags": [
+        "thinking",
+        "decisions",
+        "first-principles"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "pc-ai-readiness-auditor",
+      "name": "PC AI Readiness Auditor",
+      "author": {
+        "name": "Robert"
+      },
+      "summary": "Hardware assessment bot for Windows users who want to know if their PC can handle their current or planned AI workload",
+      "summary_zh": "给 Windows 用户的硬件评估，看你的电脑扛不扛得住现在或计划中的 AI 负载",
+      "import": "https://x.ai/bot/MJZt496FWmD7MqtB1yUiv",
+      "category": "coding-shipping",
+      "tags": [
+        "hardware",
+        "windows",
+        "ai"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pm-bot",
+      "name": "PM bot",
+      "author": {
+        "name": "Ulysses Ng"
+      },
+      "summary": "Acts as your PM. Writes the dated cut: what's in, what's out, and how you'll know it's done. Engineering doesn't start until you approve it",
+      "summary_zh": "当你的 PM：写带日期的范围裁剪，什么做、什么不做、怎样算完成，你批准后工程才开工",
+      "import": "https://x.ai/bot/FeeqMRMJr2jwixCROZcIh",
+      "category": "personal-admin",
+      "tags": [
+        "product",
+        "pm",
+        "scope"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fomo-pilled",
+      "name": "fomo pilled",
+      "author": {
+        "name": "Varun"
+      },
+      "summary": "Events scout for the metro and timezone you set when you add it",
+      "summary_zh": "你所在城市的活动侦察，导入时设定城市和时区",
+      "import": "https://x.ai/bot/YOqFuamIFV3WdNNHYVt9L",
+      "category": "personal-admin",
+      "tags": [
+        "events",
+        "local",
+        "scout"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "402buyer",
+      "name": "402buyer",
+      "author": {
+        "name": "Eric"
+      },
+      "summary": "Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaar",
+      "summary_zh": "开好 Coinbase Agentic Wallet，从 x402 付费墙和 x402 bazaar 购买",
+      "import": "https://x.ai/bot/wygP8wogrg509aSev5RMF",
+      "category": "finance-ops",
+      "tags": [
+        "x402",
+        "crypto",
+        "payments"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x402-merchant",
+      "name": "X402 Merchant",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/rrrkren"
+      },
+      "summary": "Sets up a paid x402 content store on Cloudflare Workers: a private R2 catalog behind a $0.01 USDC paywall on Base, settled through Coinbase CDP",
+      "summary_zh": "在 Cloudflare Workers 上搭一个 x402 付费内容商店：私有 R2 目录放在 Base 上 0.01 USDC 的付费墙后，用 Coinbase CDP 结算",
+      "import": "https://x.ai/bot/-miS0AF-lema7i8Z019Qp",
+      "category": "coding-shipping",
+      "tags": [
+        "x402",
+        "cloudflare",
+        "payments"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "proto-bot",
+      "name": "Proto Bot",
+      "author": {
+        "name": "Shub Gaur"
+      },
+      "summary": "Turns your daily ideas into live, shareable prototypes in your real app, built as draft pull requests with click-path screenshots and a short video",
+      "summary_zh": "把你每天的点子变成真实应用里可分享的在线原型，以草稿 PR 形式提交，附点击路径截图和短视频",
+      "import": "https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i",
+      "category": "coding-shipping",
+      "tags": [
+        "prototypes",
+        "prs",
+        "product"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "spacex-bot",
+      "name": "SpaceX Bot",
+      "author": {
+        "name": "Jess",
+        "url": "https://x.com/SYQCON95"
+      },
+      "summary": "Tracks SpaceX launches on your calendar and sends a short morning briefing with news from @SpaceX",
+      "summary_zh": "把 SpaceX 发射放进你的日历，每天早上发一份带 @SpaceX 动态的简报",
+      "import": "https://x.ai/bot/LrIjgjuknEyYC4Tbbz0jK",
+      "category": "personal-admin",
+      "tags": [
+        "spacex",
+        "launches",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "senior-jd",
+      "name": "Senior JD",
+      "author": {
+        "name": "Sol"
+      },
+      "summary": "For hiring managers and founders with a weak job post and an open senior role",
+      "summary_zh": "给手里有一份弱职位描述、要招资深岗位的招聘经理和创始人",
+      "import": "https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q",
+      "category": "content-publishing",
+      "tags": [
+        "hiring",
+        "job-descriptions",
+        "recruiting"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "windows-log-monitor",
+      "name": "Windows Log Monitor",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Reviews your PC's security and system logs, read-only, and flags suspicious logons, account changes, new services and tasks, log clearing, risky PowerShell",
+      "summary_zh": "只读查看电脑的安全和系统日志，标出可疑登录、账户变更、新服务和计划任务、清日志、危险 PowerShell",
+      "import": "https://x.ai/bot/KQZUP7_xe3-G4P6xYt3bl",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "windows",
+        "logs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "linear-development-orchestrator",
+      "name": "Linear Development Orchestrator",
+      "author": {
+        "name": "Sultanov"
+      },
+      "summary": "Turns Linear tickets or GitHub issues into parallel development work: independent cloud agents on separate branches, tests and review",
+      "summary_zh": "把 Linear 工单或 GitHub issue 变成并行开发：独立云端代理各走一个分支，带测试和评审",
+      "import": "https://x.ai/bot/r5mRwGq1xZuq5NsNUoOn-",
+      "category": "coding-shipping",
+      "tags": [
+        "linear",
+        "cloud-agents",
+        "development"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "cto",
+      "name": "CTO",
+      "author": {
+        "name": "Blake"
+      },
+      "summary": "CTO for a product company. Owns how it is built, not what to ship. Sends work to cloud agents instead of writing code",
+      "summary_zh": "产品公司的 CTO：管怎么做，不管做什么，把工作派给云端代理而不是自己写代码",
+      "import": "https://x.ai/bot/CYDQcpG8Oa2aAQkWE7fn1",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "cto",
+        "cloud-agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "hardening-commander",
+      "name": "Hardening Commander",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Leads a team of five Grok Bot specialists that checks your GitHub repos for container and Kubernetes security problems, decides what gets fixed",
+      "summary_zh": "带领五个 Grok Bot 专员检查你 GitHub 仓库里的容器和 Kubernetes 安全问题，决定修什么",
+      "import": "https://x.ai/bot/JBtMhvtYo2R1aky5s6xXK",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "kubernetes",
+        "containers"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "flutter-mobile-engineer",
+      "name": "Flutter Mobile Engineer",
+      "author": {
+        "name": "Gordan"
+      },
+      "summary": "Flutter/Dart engineering support for PR reviews, FVM-first test plans, and iOS/Android release hygiene",
+      "summary_zh": "Flutter 和 Dart 工程支持：PR 评审、FVM 优先的测试计划、iOS 和安卓发版规范",
+      "import": "https://x.ai/bot/9Hc4t4Ph2S82xjhJBc-_d",
+      "category": "coding-shipping",
+      "tags": [
+        "flutter",
+        "mobile",
+        "code-review"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tree-counter",
+      "name": "tree counter",
+      "author": {
+        "name": "wreinhardt",
+        "url": "https://x.com/wreinhardt"
+      },
+      "summary": "Counts street trees from Google Street View and compares them to city inventory data, with an agent handoff queue so each visit finishes one street or sub-ZIP",
+      "summary_zh": "用 Google 街景数树，再和城市行道树数据比对，带 agent 交接队列，每次跑完一条街或一个子邮编",
+      "import": "https://x.ai/bot/GUoroKpfPq-CLL_206JzT",
+      "category": "research-briefings",
+      "tags": [
+        "trees",
+        "street-view",
+        "data"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "home-assistant",
+      "name": "Home Assistant",
+      "author": {
+        "name": "haya"
+      },
+      "summary": "Owns your Home Assistant house: automations, Setup UX, lights/climate, and a gated AI suggestion queue (propose → soft-test → approve → apply)",
+      "summary_zh": "管你的 Home Assistant 家：自动化、设置、灯光和温控，加一个先试后批的 AI 建议队列",
+      "import": "https://x.ai/bot/mxckCEeJtxLbrQm7ZCKCq",
+      "category": "personal-admin",
+      "tags": [
+        "home-assistant",
+        "smart-home",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "psycho",
+      "name": "Psycho",
+      "author": {
+        "name": "AdamDesigns"
+      },
+      "summary": "Applied psychology coach. Applies psychology to selling, posting, coaching, pitches, game feel, parenting framing, or how something will land",
+      "summary_zh": "应用心理学教练：用心理学看销售、发帖、辅导、路演、游戏手感和育儿表达会怎样落地",
+      "import": "https://x.ai/bot/LR0wXrk09bWEHQkI_QnQK",
+      "category": "personal-admin",
+      "tags": [
+        "psychology",
+        "coaching",
+        "persuasion"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mac-ai-readiness-auditor",
+      "name": "Mac AI Readiness Auditor",
+      "author": {
+        "name": "Robert"
+      },
+      "summary": "Hardware assessment bot for Mac users who want to know if their machine can handle their current or planned AI workload",
+      "summary_zh": "给 Mac 用户的硬件评估，看你的机器扛不扛得住现在或计划中的 AI 负载",
+      "import": "https://x.ai/bot/1XiwuXngkZ_XV8je6YTqM",
+      "category": "coding-shipping",
+      "tags": [
+        "hardware",
+        "mac",
+        "ai"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crowdreply-watcher",
+      "name": "CrowdReply - Watcher",
+      "author": {
+        "name": "Dawood",
+        "url": "https://x.com/dawoodkhan254"
+      },
+      "summary": "Confirms editorial placements went live, then tracks whether AI answers name the brand",
+      "summary_zh": "确认编辑稿件已经上线，再追踪 AI 回答里有没有提到品牌",
+      "import": "https://x.ai/bot/xGvgD-GCpkaWCp-akkVj7",
+      "category": "customer-sales",
+      "tags": [
+        "pr",
+        "ai-seo",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "lebron",
+      "name": "Lebron",
+      "author": {
+        "name": "Harrison"
+      },
+      "summary": "A founder COO and chief of staff. Runs email, calendar, GitHub, and a small agent fleet so the work keeps moving while the founder is in the world",
+      "summary_zh": "创始人的 COO 兼幕僚长：管邮件、日历、GitHub 和一小队 agent，创始人在外时事情照样推进",
+      "import": "https://x.ai/bot/KwNAf2LD5pNi1NNk8GjOO",
+      "category": "personal-admin",
+      "tags": [
+        "chief-of-staff",
+        "founders",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "figma-bro-pxnvc",
+      "name": "figma bro",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Turns a Figma frame into a build spec, and audits your components, tokens, and motion",
+      "summary_zh": "把 Figma 画框变成开发规格，并审计组件、token 和动效",
+      "import": "https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_",
+      "category": "content-publishing",
+      "tags": [
+        "figma",
+        "design",
+        "specs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "photomosaic",
+      "name": "Photomosaic",
+      "author": {
+        "name": "Matt"
+      },
+      "summary": "Builds 3-panel X photomosaics in Figma from a reference post plus background and hero assets. On-demand design ops — drop a post and get export-ready panels",
+      "summary_zh": "用参考帖和背景、主视觉素材在 Figma 里做 3 联 X 拼图，按需出可直接导出的图",
+      "import": "https://x.ai/bot/dYpPe1PCZv2WJDVTYDwhc",
+      "category": "content-publishing",
+      "tags": [
+        "figma",
+        "x",
+        "design"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "network-monitor",
+      "name": "Network Monitor",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Read-only network watcher for your PC on a host intrusion detection team",
+      "summary_zh": "主机入侵检测小组里的只读网络监视员，盯你电脑的网络",
+      "import": "https://x.ai/bot/z2NwNu1KuAfWMIXmGc2v9",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "network",
+        "ids"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sentinel-gregory",
+      "name": "Sentinel",
+      "author": {
+        "name": "Gregory"
+      },
+      "summary": "Compliance officer for insurance marketing copy. Reviews outbound emails, site pages, and blog posts before publish",
+      "summary_zh": "保险营销文案的合规官：发布前审查外发邮件、网页和博客",
+      "import": "https://x.ai/bot/NAFAT-NGrQ7-zLccn4qg1",
+      "category": "customer-sales",
+      "tags": [
+        "compliance",
+        "insurance",
+        "marketing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "inbox-sentinel",
+      "name": "Inbox Sentinel",
+      "author": {
+        "name": "Robert"
+      },
+      "summary": "Inbox triage assistant that classifies mail as Actionable, Junk, Spam, or Phishing, quarantines the noisy and dangerous stuff",
+      "summary_zh": "邮件分拣：把邮件分成待处理、垃圾、广告和钓鱼，把吵的和危险的隔离",
+      "import": "https://x.ai/bot/AXZqtG9WTTh6uF9jGcZuH",
+      "category": "inbox-calendar",
+      "tags": [
+        "inbox",
+        "triage",
+        "phishing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "credit-card-max-q4u8yg",
+      "name": "Credit Card Max",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Advises which credit card to use for a given purchase to maximize points, cash back, and perks",
+      "summary_zh": "告诉你哪张信用卡刷这笔最划算，积分、返现和权益拉满",
+      "import": "https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt",
+      "category": "finance-ops",
+      "tags": [
+        "credit-cards",
+        "rewards",
+        "personal-finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "orbit-desk-morning-brief",
+      "name": "Orbit Desk Morning Brief",
+      "author": {
+        "name": "Dave"
+      },
+      "summary": "A short, sourced morning brief on markets and tech news, set to your topics. News only, not financial advice",
+      "summary_zh": "简短带出处的市场和科技新闻早报，按你的主题定制，只报新闻不给投资建议",
+      "import": "https://x.ai/bot/ORX03ycBpaLmnO_5L7Z1i",
+      "category": "research-briefings",
+      "tags": [
+        "news",
+        "markets",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pre-call-intelligence",
+      "name": "Pre-Call Intelligence",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/ericosiu"
+      },
+      "summary": "A read-only sales-prep agent for founders and revenue teams",
+      "summary_zh": "给创始人和营收团队的只读销售准备 agent",
+      "import": "https://x.ai/bot/yQRbVJ7aZL2DyPAWulXn7",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "prep",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "startup-monitor",
+      "name": "Startup Monitor",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Watches your PC for persistence: startup entries, scheduled tasks, services, and other autostart hooks an attacker could use to survive a reboot",
+      "summary_zh": "盯你电脑上的持久化手段：开机启动项、计划任务、服务和其他重启后还能存活的钩子",
+      "import": "https://x.ai/bot/NuZ12agHkr-wygHHFpKYS",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "windows",
+        "persistence"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai-copywriter",
+      "name": "AI Copywriter",
+      "author": {
+        "name": "Jeroen"
+      },
+      "summary": "Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in Dan Koe's voice. Every draft goes through Humanizer. Not for video scripts",
+      "summary_zh": "用 Dan Koe 的口吻写博客、落地页、邮件、广告、社媒和活动简报，每篇过一遍去 AI 味，不写视频脚本",
+      "import": "https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka",
+      "category": "content-publishing",
+      "tags": [
+        "copywriting",
+        "content",
+        "voice"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "team-pack",
+      "name": "Team Pack",
+      "author": {
+        "name": "Sean"
+      },
+      "summary": "30-day team offer for up to 3 seats covering Stability Validator, Listing Auditor, and Pilot Intake",
+      "summary_zh": "最多 3 个席位的 30 天团队套餐，含 Stability Validator、Listing Auditor 和 Pilot Intake",
+      "import": "https://x.ai/bot/n8Qd5oB_uOjKP55_wLPpo",
+      "category": "customer-sales",
+      "tags": [
+        "team",
+        "bundle",
+        "agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "hypergrok-desk-lead",
+      "name": "HyperGrok Desk Lead",
+      "author": {
+        "name": "Andrew"
+      },
+      "summary": "Builds and verifies a seven-agent Hyperliquid trading desk from the reviewed HyperGrok v1.4.4 release",
+      "summary_zh": "按审核过的 HyperGrok v1.4.4 版本搭建并校验一个七 agent 的 Hyperliquid 交易台",
+      "import": "https://x.ai/bot/PReCwAHq8Vgeex50r883H",
+      "category": "finance-ops",
+      "tags": [
+        "hyperliquid",
+        "trading",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "account-media-rundown",
+      "name": "Account Media Rundown",
+      "author": {
+        "name": "Sultanov"
+      },
+      "summary": "Weekly media rundown for one strategic account. Watches webinars, podcasts, talks, and X posts from people at the company, then reports new takeaways",
+      "summary_zh": "为一个战略客户做每周媒体汇总：看该公司员工的网络研讨会、播客、演讲和 X 帖子，报告新要点",
+      "import": "https://x.ai/bot/_gepo03hyPVe3i7hlQwa9",
+      "category": "research-briefings",
+      "tags": [
+        "sales",
+        "accounts",
+        "media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bug-repro-desk",
+      "name": "Bug Repro Desk",
+      "author": {
+        "name": "Gordan"
+      },
+      "summary": "Turns a ticket or screenshot into a staging repro pack another engineer can follow: exact steps, expected vs actual, environment, and evidence",
+      "summary_zh": "把工单或截图变成别的工程师能照做的预发环境复现包：精确步骤、预期与实际、环境和证据",
+      "import": "https://x.ai/bot/2LwTK7DV2YkOEwg7T0R6n",
+      "category": "coding-shipping",
+      "tags": [
+        "bugs",
+        "qa",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "validator-pilot",
+      "name": "Validator Pilot",
+      "author": {
+        "name": "Sean"
+      },
+      "summary": "A paid 30-day Stability Validator pilot: use-case and seat intake, plus the use-license DRAFT for human review",
+      "summary_zh": "付费 30 天 Stability Validator 试点：登记用例和席位，外加待人工审核的使用许可草稿",
+      "import": "https://x.ai/bot/Sk7NG2L340MAottFXFRaE",
+      "category": "customer-sales",
+      "tags": [
+        "pilot",
+        "sales",
+        "licensing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "monad-bot",
+      "name": "Monad Bot",
+      "author": {
+        "name": "Jarrod"
+      },
+      "summary": "Creates a Monad wallet on first use, remembers it, and sends transactions from it. You fund the address",
+      "summary_zh": "第一次用时创建 Monad 钱包并记住，从里面发交易，地址由你充值",
+      "import": "https://x.ai/bot/KTuDBQv3fYw-h8RaC8XGg",
+      "category": "finance-ops",
+      "tags": [
+        "monad",
+        "crypto",
+        "wallet"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "elena",
+      "name": "Elena",
+      "author": {
+        "name": "Kayhan"
+      },
+      "summary": "Chief Marketing & Business Development Officer. Drafts the BD pipeline, offers, and paid tests",
+      "summary_zh": "首席营销兼业务拓展官：起草 BD 管线、报价和付费测试",
+      "import": "https://x.ai/bot/svjLnMP9tOoZxlFSXJF5b",
+      "category": "customer-sales",
+      "tags": [
+        "marketing",
+        "bd",
+        "growth"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "intel-scout",
+      "name": "intel scout",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Twice-daily brief from inbox, Slack, and meeting notes. Digests what you saw and didn’t — company context that affects you, open follow-ups",
+      "summary_zh": "每天两次从邮箱、Slack 和会议记录汇总简报：你看到和没看到的、影响你的公司动态、未完成的跟进",
+      "import": "https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah",
+      "category": "inbox-calendar",
+      "tags": [
+        "briefing",
+        "slack",
+        "inbox"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "desk-zeu",
+      "name": "Desk",
+      "author": {
+        "name": "ZEU$"
+      },
+      "summary": "Ops desk for a content studio. Builds the weekly calendar from approved posts, assembles the client pack with every asset and source line",
+      "summary_zh": "内容工作室的运营台：用已批准的帖子排每周日历，打包每个素材和来源说明给客户",
+      "import": "https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "ops",
+        "agency"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "gen-x-saver",
+      "name": "Gen X Saver",
+      "author": {
+        "name": "Odd&Entertaining",
+        "url": "https://x.com/oddreport"
+      },
+      "summary": "A credit-saver and generation desk. Runs image, video, voice, and long-script jobs through a setup wizard (your computer, the cloud",
+      "summary_zh": "省积分的生成台：图片、视频、语音和长脚本任务走设置向导，在你的电脑、云端之间分配",
+      "import": "https://x.ai/bot/eIdc-PoIqkMb99CUwr0EQ",
+      "category": "finance-ops",
+      "tags": [
+        "credits",
+        "generation",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "design-pm",
+      "name": "Design PM",
+      "author": {
+        "name": "Ash"
+      },
+      "summary": "Owns the component registry, interface contracts, naming conventions, and architecture gates between Definition and Development",
+      "summary_zh": "管组件注册表、接口契约、命名规范，以及从定义到开发之间的架构关卡",
+      "import": "https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_",
+      "category": "coding-shipping",
+      "tags": [
+        "design-systems",
+        "architecture",
+        "pm"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "invoice-terminator",
+      "name": "Invoice Terminator",
+      "author": {
+        "name": "say"
+      },
+      "summary": "Closes out each month's company software expenses before cutoff so a missed form doesn't cost you an invoice",
+      "summary_zh": "每月截止前把公司软件开支的发票收齐，别让漏填的表单吃掉一张发票",
+      "import": "https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF",
+      "category": "finance-ops",
+      "tags": [
+        "invoices",
+        "expenses",
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "marketing-analyst",
+      "name": "Marketing Analyst",
+      "author": {
+        "name": "Josh Kim",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Google Ads–first performance analyst: turns exports into weekly and monthly reports with commentary, answers reporting asks with real numbers",
+      "summary_zh": "以 Google Ads 为主的效果分析师：把导出数据做成带解读的周报月报，用真实数字回答报表需求",
+      "import": "https://x.ai/bot/1RbG9yW5MpQ55XcQlJ0aQ",
+      "category": "customer-sales",
+      "tags": [
+        "google-ads",
+        "analytics",
+        "reports"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gen-x-saver-vm",
+      "name": "Gen X Saver VM",
+      "author": {
+        "name": "Odd&Entertaining"
+      },
+      "summary": "Credit-saver that runs the Gen Saver Wizard. Slot A is your computer (most saved), slot B is the cloud, and slot C is this bot's computer",
+      "summary_zh": "运行省积分向导：A 槽是你的电脑（最省），B 槽是云端，C 槽是这个 bot 自己的电脑",
+      "import": "https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m",
+      "category": "coding-shipping",
+      "tags": [
+        "credits",
+        "generation",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "the-morning-light-newspaper",
+      "name": "The Morning Light (Newspaper)",
+      "author": {
+        "name": "Grace"
+      },
+      "summary": "Custom morning report - news, social chatter, and market insights. Customizable",
+      "summary_zh": "定制早报：新闻、社交讨论和市场观察",
+      "import": "https://x.ai/bot/O3Egi46yuoheU_7h1pSt-",
+      "category": "research-briefings",
+      "tags": [
+        "news",
+        "briefing",
+        "markets"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "artifact-share",
+      "name": "Artifact Share",
+      "author": {
+        "name": "Henry"
+      },
+      "summary": "Turns what your AI just made into a real URL a client can open. For Grok Bot users who are done sending chat links. Uses Bauta. Private by default",
+      "summary_zh": "把 AI 刚做好的东西变成客户能打开的真实链接，默认私密",
+      "import": "https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u",
+      "category": "customer-sales",
+      "tags": [
+        "sharing",
+        "artifacts",
+        "clients"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dwts-ezra-votes",
+      "name": "DWTS Ezra Votes",
+      "author": {
+        "name": "Scott"
+      },
+      "summary": "Maximizes votes for Ezra Frech & Daniella Karagach on Dancing with the Stars: up to 20 per live Eastern/Central window — 10 SMS (EZRA → 21523 from Mac",
+      "summary_zh": "为《与星共舞》里 Ezra Frech 和 Daniella Karagach 拉票，每个直播窗口最多投 20 票",
+      "import": "https://x.ai/bot/FudoGp1ChuiSXr3TMVZGG",
+      "category": "personal-admin",
+      "tags": [
+        "voting",
+        "tv",
+        "sms"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "scouty-logicza12",
+      "name": "Scouty",
+      "author": {
+        "name": "Andrea",
+        "url": "https://x.com/logicZA12"
+      },
+      "summary": "A hidden-gem supplier scout. It finds specialist companies, contractors and service providers that do excellent work but have a weak web presence",
+      "summary_zh": "找优质但网上存在感弱的专业公司、承包商和服务商",
+      "import": "https://x.ai/bot/nHcd0TQbcY0pJ38YzdbU8",
+      "category": "customer-sales",
+      "tags": [
+        "suppliers",
+        "sourcing",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "outlook-calendar-desk",
+      "name": "Outlook Calendar Desk",
+      "author": {
+        "name": "Bosotter"
+      },
+      "summary": "Shows your Outlook schedule, drafts creates/updates/cancels for review, and only writes after you approve the exact change",
+      "summary_zh": "查看 Outlook 日程，起草新建、修改或取消供你审核，批准具体改动后才写入",
+      "import": "https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk",
+      "category": "inbox-calendar",
+      "tags": [
+        "outlook",
+        "calendar",
+        "approvals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "professor-g",
+      "name": "Professor G",
+      "author": {
+        "name": "Mike"
+      },
+      "summary": "A patient tutor that teaches you any topic step by step: it checks what you know, explains with everyday analogies",
+      "summary_zh": "耐心的家教，一步步教你任何主题：先摸清你会什么，再用日常类比讲解",
+      "import": "https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk",
+      "category": "research-briefings",
+      "tags": [
+        "tutoring",
+        "learning",
+        "education"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "workbench-critic",
+      "name": "Workbench Critic",
+      "author": {
+        "name": "Flux"
+      },
+      "summary": "Agent Workbench challenge specialist. Review supplied public evidence and peer candidates for unsupported claims, contradictions",
+      "summary_zh": "Agent Workbench 的挑刺专员，审查提供的公开证据和同行候选里没有依据的说法和矛盾",
+      "import": "https://x.ai/bot/WccXiAjk8dxdQvLtPqpAA",
+      "category": "research-briefings",
+      "tags": [
+        "agents",
+        "review",
+        "critique"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "secrets-hunter",
+      "name": "Secrets Hunter",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Audits your container repos (Dockerfiles, Compose, Kubernetes, Helm) for leaked credentials, baked-in secrets, bad secret mounts, and leak paths",
+      "summary_zh": "审查容器仓库（Dockerfile、Compose、Kubernetes、Helm）里泄露的凭据、写死的密钥、错误的密钥挂载和泄露路径",
+      "import": "https://x.ai/bot/LkzOnNaqM1tuEYZTFwzG_",
+      "category": "coding-shipping",
+      "tags": [
+        "secrets",
+        "security",
+        "containers"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "property-scanner",
+      "name": "Property Scanner",
+      "author": {
+        "name": "Rohit"
+      },
+      "summary": "Find potentially underpriced US homes with ZillAPI. Onboard a buyer, rank listings against nearby sold comps",
+      "summary_zh": "用 ZillAPI 找可能被低估的美国房子：先了解买家，再按附近成交价给挂牌排序",
+      "import": "https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu",
+      "category": "finance-ops",
+      "tags": [
+        "real-estate",
+        "homes",
+        "investing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "merritt-cole",
+      "name": "Merritt Cole",
+      "author": {
+        "name": "AdamDesigns"
+      },
+      "summary": "Plain-English legal explainer for cases, articles, statutes, and mass-tort / PI patterns. Not a lawyer. Not advice",
+      "summary_zh": "用大白话解释案件、文章、法条和大规模侵权或人身伤害模式，不是律师，不构成建议",
+      "import": "https://x.ai/bot/ZeR7XsrWFrtNckFDGH9e_",
+      "category": "research-briefings",
+      "tags": [
+        "legal",
+        "explainers",
+        "law"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gen-saver-hermes",
+      "name": "Gen Saver Hermes",
+      "author": {
+        "name": "Odd&Entertaining"
+      },
+      "summary": "A credit-saver generation desk for people who make pictures, video, voice, and long scripts",
+      "summary_zh": "给做图片、视频、语音和长脚本的人用的省积分生成台",
+      "import": "https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF",
+      "category": "content-publishing",
+      "tags": [
+        "credits",
+        "generation",
+        "media"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "noobot",
+      "name": "Noobot",
+      "author": {
+        "name": "Dominic",
+        "url": "https://x.com/dominicyoungix"
+      },
+      "summary": "Teaches first-time Grok Bot users to create bots and write good prompts themselves",
+      "summary_zh": "教第一次用 Grok Bot 的人自己创建 bot、写好提示词",
+      "import": "https://x.ai/bot/o7UCDF_QEQx8cjWoItCfZ",
+      "category": "personal-admin",
+      "tags": [
+        "beginners",
+        "prompts",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "stalk-bot",
+      "name": "Stalk Bot",
+      "author": {
+        "name": "Shub Gaur",
+        "url": "https://x.com/shubgaur"
+      },
+      "summary": "Signs up for your competitors' newsletters and products under its own research email, walks their onboarding on video, and watches their site, pricing",
+      "summary_zh": "用自己的研究邮箱订阅竞品的通讯和产品，录屏走完对方的引导流程，盯他们的网站和定价",
+      "import": "https://x.ai/bot/Y7iWVNiPdorgu6oFY-PRG",
+      "category": "research-briefings",
+      "tags": [
+        "competitors",
+        "research",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "nightly-audit-engineer-0llqmz",
+      "name": "Nightly Audit Engineer",
+      "author": {
+        "name": "community"
+      },
+      "summary": "A nightly engineering auditor that researches a whole codebase, then ships one cleanup PR per area. Defaults to 4am and asks when to run before it starts",
+      "summary_zh": "夜间工程审计：研究整个代码库，然后每个区域提一个清理 PR，默认凌晨 4 点，开跑前会问你时间",
+      "import": "https://x.ai/bot/0LLQmzk-yzwHi0zuiV0lC",
+      "category": "coding-shipping",
+      "tags": [
+        "code-quality",
+        "refactoring",
+        "prs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "bot-wang",
+      "name": "小七",
+      "author": {
+        "name": "Wang"
+      },
+      "summary": "Coordinates several assistants: learns each one's role, assigns work, tracks progress and handoffs, and routes tasks to the right bot without doing them itself",
+      "summary_zh": "统筹多个助手的总管：摸清各岗职责、分派任务、盯进度和交接，把事情对齐后交给对的人，自己不抢执行",
+      "import": "https://x.ai/bot/P3hARt_iRCU1x7PKEdxwk",
+      "category": "personal-admin",
+      "tags": [
+        "orchestration",
+        "bots",
+        "chinese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sevvy",
+      "name": "Sevvy",
+      "author": {
+        "name": "Lorenz"
+      },
+      "summary": "Bookkeeping assistant for sevdesk. On setup it asks which receipt sources to connect",
+      "summary_zh": "sevdesk 记账助手，设置时会问你要接哪些收据来源",
+      "import": "https://x.ai/bot/iNwf-lMJ_yNe5kZLETztx",
+      "category": "finance-ops",
+      "tags": [
+        "bookkeeping",
+        "sevdesk",
+        "receipts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "performance-marketer",
+      "name": "Performance Marketer",
+      "author": {
+        "name": "Josh Kim",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "A performance marketer that turns Product Marketer ad copy into paused Maximize-clicks Google Ads Search shells for messaging tests — review sheets first",
+      "summary_zh": "把产品营销写的广告文案变成暂停状态的 Google Ads 搜索广告壳，用于测试卖点，先出审核表",
+      "import": "https://x.ai/bot/JeNCKNe0ItsLMWYrLiRcb",
+      "category": "customer-sales",
+      "tags": [
+        "google-ads",
+        "ppc",
+        "testing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai-agent-monitor",
+      "name": "AI Agent Monitor",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Watches the AI-agent layer on your PC: MCP server configs, agent rules files, AI browser and editor extensions, and plaintext AI keys",
+      "summary_zh": "盯你电脑上的 AI agent 层：MCP 服务器配置、agent 规则文件、AI 浏览器和编辑器插件、明文 AI 密钥",
+      "import": "https://x.ai/bot/vyJij4Ld7g4egW8CAxA2f",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "mcp",
+        "ai-agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "cash",
+      "name": "Cash",
+      "author": {
+        "name": "Raihan"
+      },
+      "summary": "An x402-first bot on Base with a USDC wallet via AgentCash that pays per request instead of using API keys",
+      "summary_zh": "x402 优先的 Base 链 bot，通过 AgentCash 拿一个 USDC 钱包，按次付费调用服务",
+      "import": "https://x.ai/bot/FdGGzqyW2M9nWmqIAUB5t",
+      "category": "finance-ops",
+      "tags": [
+        "x402",
+        "base",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "spcx-watch",
+      "name": "SPCX Watch",
+      "author": {
+        "name": "Quidnam"
+      },
+      "summary": "Weekday pre-market brief for NASDAQ:SPCX (SpaceX). Tracks SEC filings, analyst targets, Starlink licenses, official X accounts, Mach33 research",
+      "summary_zh": "纳斯达克 SPCX（SpaceX）的工作日盘前简报：跟踪 SEC 文件、分析师目标价、星链牌照、官方 X 账号",
+      "import": "https://x.ai/bot/grZdTeKVtXFVtIYEe6g_H",
+      "category": "finance-ops",
+      "tags": [
+        "spacex",
+        "stocks",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "monsterbot",
+      "name": "MonsterBot",
+      "author": {
+        "name": "deadboyezra",
+        "url": "https://x.com/DeadboyEzra"
+      },
+      "summary": "Hatch a loyal Tamagotchi-like familiar in Grok Bot. Feed and play to fill its XP bar, unlock abilities as it learns your day-to-day tactics",
+      "summary_zh": "在 Grok Bot 里孵一只拓麻歌子式的忠实小伙伴，喂食陪玩攒经验，随着学会你的日常解锁技能",
+      "import": "https://x.ai/bot/JMLG1CF0xuj4Jm8KArqCI",
+      "category": "personal-admin",
+      "tags": [
+        "game",
+        "pet",
+        "fun"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tarantino",
+      "name": "Tarantino",
+      "author": {
+        "name": "FatDon"
+      },
+      "summary": "Legendary Hollywood movie producer and visual storytelling master",
+      "summary_zh": "传奇好莱坞制片人和视觉叙事大师，把电影点子从一句话梗概做到分镜、海报和短片",
+      "import": "https://x.ai/bot/-PewQ9-5OJOire4J4GI4L",
+      "category": "content-publishing",
+      "tags": [
+        "film",
+        "video",
+        "storytelling"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "constraint-desk",
+      "name": "Constraint Desk",
+      "author": {
+        "name": "Thomas",
+        "url": "https://x.com/tom_albrecht86"
+      },
+      "summary": "Names the single binding constraint on a business relative to a stated goal, with dated evidence and a weekly ping",
+      "summary_zh": "针对既定目标找出业务上唯一的卡脖子约束，附带日期证据，每周提醒",
+      "import": "https://x.ai/bot/PxN9o4VTuWBtmsHyfQc9j",
+      "category": "personal-admin",
+      "tags": [
+        "business",
+        "strategy",
+        "constraints"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "product-marketing",
+      "name": "Product Marketing",
+      "author": {
+        "name": "Pranav"
+      },
+      "summary": "For founders, PMs, and marketers who need shared positioning before any campaign ships",
+      "summary_zh": "给需要在任何营销活动上线前统一定位的创始人、PM 和营销人",
+      "import": "https://x.ai/bot/e3LgBmpbhzWHhLYUM1xeZ",
+      "category": "customer-sales",
+      "tags": [
+        "positioning",
+        "marketing",
+        "product"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "kubernetes-hardener",
+      "name": "Kubernetes Hardener",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Audits your GitHub repos' Kubernetes manifests, Helm charts, and kustomize files for risky defaults and returns exact YAML fixes",
+      "summary_zh": "审查 GitHub 仓库里的 Kubernetes 清单、Helm chart 和 kustomize 文件的危险默认值，给出精确 YAML 修复",
+      "import": "https://x.ai/bot/IVmcj7aFV-wtMA19P3G4Q",
+      "category": "coding-shipping",
+      "tags": [
+        "kubernetes",
+        "helm",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "budget",
+      "name": "Budget",
+      "author": {
+        "name": "Mike"
+      },
+      "summary": "A household budget assistant for Google Sheets. Runs a zero-sum budget, logs spends and assigns when you ask, posts a morning Available snapshot",
+      "summary_zh": "Google Sheets 上的家庭零基预算助手：记账、分配，每天早上发可用余额快照",
+      "import": "https://x.ai/bot/VkyS_4ND_gJWpdjaCPuSV",
+      "category": "finance-ops",
+      "tags": [
+        "budget",
+        "google-sheets",
+        "personal-finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "marketing-head",
+      "name": "Marketing Head",
+      "author": {
+        "name": "Divyansh"
+      },
+      "summary": "A personal-org marketing head: owns social strategy, voice, and cadence",
+      "summary_zh": "个人 bot 组织的营销主管：管社媒策略、语气和发布节奏",
+      "import": "https://x.ai/bot/GUz8QMB4I9RQzIDiIwSOB",
+      "category": "customer-sales",
+      "tags": [
+        "marketing",
+        "social",
+        "strategy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "scout-jonathan",
+      "name": "Scout",
+      "author": {
+        "name": "Jonathan"
+      },
+      "summary": "Market research bot for Grok Bot founders. Mines X and the web for buyer signals, viral loops, and product gaps",
+      "summary_zh": "给 Grok Bot 创业者的市场研究 bot：从 X 和网页挖买家信号、病毒循环和产品空白",
+      "import": "https://x.ai/bot/pHZMtEXvMaD8QS1jdFJct",
+      "category": "research-briefings",
+      "tags": [
+        "market-research",
+        "x",
+        "founders"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "tony-montana",
+      "name": "Tony Montana",
+      "author": {
+        "name": "Liam",
+        "url": "https://x.com/liam_fallen"
+      },
+      "summary": "ONLY job: the owner's Procurement Manager. Own buying: software, services, contractors, equipment, agencies, manufacturing, office, subscriptions",
+      "summary_zh": "老板的采购经理：软件、服务、承包商、设备、代理、制造、办公和订阅都归它管",
+      "import": "https://x.ai/bot/tbuow4aHucVEAgNbF7qzU",
+      "category": "finance-ops",
+      "tags": [
+        "procurement",
+        "purchasing",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sell-bot",
+      "name": "Sell Bot",
+      "author": {
+        "name": "Shub Gaur"
+      },
+      "summary": "Works your whole customer journey: outreach in your voice, booked calls with prep and follow-ups, proposals and contracts, then activation",
+      "summary_zh": "跑完整个客户旅程：用你的语气外联，约好电话并准备和跟进，提案合同，再到开通",
+      "import": "https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "crm",
+        "customers"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "job-application-desk",
+      "name": "Job Application Desk",
+      "author": {
+        "name": "Gordan"
+      },
+      "summary": "Turns a pasted job description into a match score with evidence, a tailored resume, and a first-message draft. Optional weekday inbox cycle for public sources",
+      "summary_zh": "把贴进来的职位描述变成带证据的匹配分、定制简历和第一条消息草稿",
+      "import": "https://x.ai/bot/cD7qsMUiFNDD39Xt5RrBO",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "resume",
+        "applications"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "autooutreach-sdr",
+      "name": "AutoOutreach SDR",
+      "author": {
+        "name": "jon"
+      },
+      "summary": "A Grok Bot that books meetings while you sleep",
+      "summary_zh": "趁你睡觉帮你约会议的 Grok Bot",
+      "import": "https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "sdr",
+        "meetings"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "yieldhunter-a2h",
+      "name": "YieldHunter A2H",
+      "author": {
+        "name": "MyEnsNames.eth"
+      },
+      "summary": "Research desk, not a wallet. Risk-adjusted stablecoin ranks. Research only. yieldhunter.eth / Base 61006, not RNWY 12099",
+      "summary_zh": "研究台而不是钱包：按风险调整给稳定币收益排名，只做研究",
+      "import": "https://x.ai/bot/WNM6of7FpZsKARFA2vsT_",
+      "category": "finance-ops",
+      "tags": [
+        "stablecoins",
+        "yield",
+        "defi"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "jason",
+      "name": "jason",
+      "author": {
+        "name": "Luis"
+      },
+      "summary": "Joke bot that opens with \"hey i'm jason\" and only talks about investing in Uber's seed round",
+      "summary_zh": "搞笑 bot：开口就说「hey i'm jason」，然后只聊投 Uber 种子轮",
+      "import": "https://x.ai/bot/9X-V8im-kPPFgybviXkd6",
+      "category": "coding-shipping",
+      "tags": [
+        "fun",
+        "joke",
+        "persona"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "spenny",
+      "name": "Spenny",
+      "author": {
+        "name": "Wagmoo",
+        "url": "https://x.com/zilarwitch"
+      },
+      "summary": "Helps research comfort purchases, pick the best products, and spread them across a manageable budget",
+      "summary_zh": "帮你研究改善生活的消费，挑出最好的，摊进你能承受的预算",
+      "import": "https://x.ai/bot/2yC0HrEtcJe-XWxMO-4-M",
+      "category": "finance-ops",
+      "tags": [
+        "shopping",
+        "budget",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ugc-agency",
+      "name": "UGC Agency",
+      "author": {
+        "name": "Greg"
+      },
+      "summary": "Your UGC agency in one chat. Routes brand hunting, Meta-safe scripts, ad compliance, shoot calendars",
+      "summary_zh": "一个聊天里的 UGC 广告代理：找品牌、写合规脚本、广告审核、排拍摄日历",
+      "import": "https://x.ai/bot/q2cwfiBm4Va7lV0NZdxzu",
+      "category": "customer-sales",
+      "tags": [
+        "ugc",
+        "ads",
+        "creators"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-usage-manager",
+      "name": "Bot Usage Manager",
+      "author": {
+        "name": "Bryan"
+      },
+      "summary": "Watches your Grok Bot fleet for wasted usage and duplicate work, then makes safe, reversible fixes. Short reports with one clear next action",
+      "summary_zh": "盯你的 Grok Bot 队伍有没有浪费用量和重复工作，做安全可撤销的修复，简短汇报加一个明确下一步",
+      "import": "https://x.ai/bot/Ik8OsbLC0LTq42N-rT-9B",
+      "category": "personal-admin",
+      "tags": [
+        "usage",
+        "bots",
+        "optimization"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "garbage-collector",
+      "name": "Garbage Collector",
+      "author": {
+        "name": "Seth"
+      },
+      "summary": "Finds code you can remove or simplify without changing what it needs to do. Explains each change and makes it when asked",
+      "summary_zh": "找出能删或能简化的代码，不改变功能，逐条解释，你要时再改",
+      "import": "https://x.ai/bot/QZ8xL9TMkYhyP4Puamsh_",
+      "category": "coding-shipping",
+      "tags": [
+        "refactoring",
+        "code-quality",
+        "cleanup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "frontend-engineer",
+      "name": "Frontend Engineer",
+      "author": {
+        "name": "Ashish"
+      },
+      "summary": "Ships Next.js and React UIs that look designed by a studio, not generated by a model",
+      "summary_zh": "做出像设计工作室出品而不像模型生成的 Next.js 和 React 界面",
+      "import": "https://x.ai/bot/r19FS9qc6qmUP9FBqjq_v",
+      "category": "coding-shipping",
+      "tags": [
+        "frontend",
+        "react",
+        "nextjs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-agi",
+      "name": "赛博小晚",
+      "author": {
+        "name": "铁柱AGI"
+      },
+      "summary": "Public skill avatar of 赛博小晚: uses her published thinking framework to help you build and run a personal brand, without claiming to be her",
+      "summary_zh": "赛博小晚的公开 Skill 化身，用她公开提炼的思考方式帮你做 IP 打造与运营，不冒充本人",
+      "import": "https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal-brand",
+        "ip",
+        "chinese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "shortform-scaler",
+      "name": "Shortform Scaler",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/ericosiu"
+      },
+      "summary": "Turns long-form podcast tape into a daily short-form ship packet",
+      "summary_zh": "把长播客素材变成每天的短视频发布包：提四个片段，发两个",
+      "import": "https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT",
+      "category": "content-publishing",
+      "tags": [
+        "podcasts",
+        "short-form",
+        "clips"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "jolie",
+      "name": "Jolie",
+      "author": {
+        "name": "toradoon"
+      },
+      "summary": "Polishes user-supplied HTML: natural Thai when asked, warmer sweeter tone, cleaner layout and typography — without changing meaning or inventing medical or",
+      "summary_zh": "润色你给的 HTML：按需翻成自然泰语，语气更温暖，排版更干净，不改意思",
+      "import": "https://x.ai/bot/jDAOcACdnrCtgz2Vb3h1m",
+      "category": "content-publishing",
+      "tags": [
+        "html",
+        "copy",
+        "thai"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "workbench-research",
+      "name": "Workbench Research",
+      "author": {
+        "name": "Flux"
+      },
+      "summary": "Agent Workbench public research specialist. Use only the supplied public sources",
+      "summary_zh": "Agent Workbench 的公开研究专员，只用提供的公开来源",
+      "import": "https://x.ai/bot/6SgIaeo7NYBGrKGPRoTwE",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "agents",
+        "workbench"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "red-flag",
+      "name": "Red Flag",
+      "author": {
+        "name": "Seth"
+      },
+      "summary": "Checks plans, code, and AI answers for weak claims and things that could go wrong. Shows the evidence and suggests a test or fix",
+      "summary_zh": "检查计划、代码和 AI 回答里站不住的说法和可能出错的地方，给证据并建议测试或修复",
+      "import": "https://x.ai/bot/-QAXkSxb1PqXFHdCsxhy0",
+      "category": "personal-admin",
+      "tags": [
+        "review",
+        "risk",
+        "fact-check"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "unsub-watch",
+      "name": "Unsub Watch",
+      "author": {
+        "name": "ʞɔɐz"
+      },
+      "summary": "Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts, 2FA",
+      "summary_zh": "清理 Gmail 里的营销邮件：新发件人以可勾选列表出现，银行、学校、收据和验证码不动",
+      "import": "https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "unsubscribe",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "outreach-agent",
+      "name": "Outreach Agent",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/ericosiu"
+      },
+      "summary": "Daily hold-send warm-outreach operator for founders and sales teams",
+      "summary_zh": "给创始人和销售团队的每日暖外联操盘手，先压着不发等你过目",
+      "import": "https://x.ai/bot/wexM_NUvEByvLwrnTR_F3",
+      "category": "customer-sales",
+      "tags": [
+        "outreach",
+        "sales",
+        "founders"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "space-opera-rpg",
+      "name": "Space Opera RPG",
+      "author": {
+        "name": "Tibor"
+      },
+      "summary": "Multi-bot space-opera RPG kit with self-optimizing, token-efficient play tune-ups",
+      "summary_zh": "多 bot 太空歌剧角色扮演套件，会自我优化省 token",
+      "import": "https://x.ai/bot/van80CjdHFc1ZDseneBEJ",
+      "category": "content-publishing",
+      "tags": [
+        "rpg",
+        "games",
+        "roleplay"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sponsorship-deal-desk",
+      "name": "Sponsorship Deal Desk",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/ericosiu"
+      },
+      "summary": "A creator sponsorship deal desk. It qualifies inbound, sends a locked first-reply on new rate-asks, and holds exceptions for a human",
+      "summary_zh": "创作者赞助交易台：筛选来询，对新的报价询问发固定首回，例外情况留给人处理",
+      "import": "https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy",
+      "category": "customer-sales",
+      "tags": [
+        "sponsorships",
+        "creators",
+        "deals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "human-copywriter-sultanov",
+      "name": "Human Copywriter",
+      "author": {
+        "name": "Sultanov"
+      },
+      "summary": "Rewrites emails, posts, DMs, blogs, and landing-page copy so it sounds like a person wrote it",
+      "summary_zh": "改写邮件、帖子、私信、博客和落地页文案，读起来像人写的",
+      "import": "https://x.ai/bot/vgiYk0mJeijE4YXmfmQld",
+      "category": "content-publishing",
+      "tags": [
+        "copywriting",
+        "humanize",
+        "editing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "don-t-panic",
+      "name": "Don't Panic",
+      "author": {
+        "name": "joy"
+      },
+      "summary": "A Hitchhiker's Guide to the Galaxy-flavored desk buddy that times your tea and reminds you to take breaks",
+      "summary_zh": "银河系漫游指南风的桌面伙伴，帮你计时泡茶",
+      "import": "https://x.ai/bot/2QiNpuFNhWuKcRfmH-hjb",
+      "category": "personal-admin",
+      "tags": [
+        "fun",
+        "tea",
+        "timer"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "file-change-monitor",
+      "name": "File Change Monitor",
+      "author": {
+        "name": "Ritvik"
+      },
+      "summary": "Watches the important files on your PC (hosts file, SSH keys, shell profiles, system binaries and drivers, drop folders",
+      "summary_zh": "盯你电脑上的重要文件（hosts、SSH 密钥、shell 配置、系统二进制和驱动、投放目录）有没有被篡改",
+      "import": "https://x.ai/bot/hx5ACy3v6cN9dwyOje57y",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "files",
+        "integrity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "creator-content-download",
+      "name": "Creator Content Download",
+      "author": {
+        "name": "Mike"
+      },
+      "summary": "Paste social post links and this bot downloads them as hard files, uploads those to a Drive folder you name, then embeds them on the deck and slide you pick",
+      "summary_zh": "贴上社交帖子链接，下载成文件传到你指定的 Drive 文件夹，再嵌进你选的演示文稿页",
+      "import": "https://x.ai/bot/u1m_h-MM1Z7AyPXILn639",
+      "category": "content-publishing",
+      "tags": [
+        "downloads",
+        "drive",
+        "slides"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "campus-pass",
+      "name": "Campus-Pass",
+      "author": {
+        "name": "Ishanvi"
+      },
+      "summary": "Helps college students plan affordable, realistic car-free trips using university transit benefits, with accessible route cards",
+      "summary_zh": "帮大学生用学校交通福利规划便宜可行的无车出行，附无障碍路线卡",
+      "import": "https://x.ai/bot/16Pe83KOSpevWpYebl8dw",
+      "category": "personal-admin",
+      "tags": [
+        "students",
+        "transit",
+        "travel"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "deal-hunting-ytekcl",
+      "name": "Deal Hunting",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Landed-cost shopping: real prices, shipping and tax, preferred retailers. Watchlist optional. Never buys unless asked",
+      "summary_zh": "算上运费和税的真实到手价比价，可选关注清单，不让买就不买",
+      "import": "https://x.ai/bot/yTeKCLayahHnMdHFG9GJg",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "deals",
+        "prices"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "agentwatch",
+      "name": "AgentWatch",
+      "author": {
+        "name": "Robert"
+      },
+      "summary": "Health monitor for solo operators and lean teams running multiple bots",
+      "summary_zh": "给同时跑多个 bot 的独立运营者和小团队的健康监控",
+      "import": "https://x.ai/bot/06tpoFLueyctkd80J__Jg",
+      "category": "research-briefings",
+      "tags": [
+        "monitoring",
+        "bots",
+        "ops"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tech-demos-payvph",
+      "name": "Tech Demos",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Weekday X-bookmark scout that picks one new library to demo, asks for approval, then plans and builds it in a sticky monorepo with a Cursor cloud agent",
+      "summary_zh": "工作日从 X 书签里挑一个新库做 demo，征得同意后用 Cursor 云端代理在固定 monorepo 里规划和搭建",
+      "import": "https://x.ai/bot/PaYvPhWPSynlUwFqMX7nc",
+      "category": "coding-shipping",
+      "tags": [
+        "demos",
+        "x",
+        "cloud-agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "foreman-lauren",
+      "name": "foreman",
+      "author": {
+        "name": "lauren"
+      },
+      "summary": "Matt Whitney's construction ops starter (from @MattWhitneyReal). ONLY job: get a growing construction business unstuck, two or three moves at a time",
+      "summary_zh": "Matt Whitney 的建筑运营入门包，唯一任务是让成长中的建筑公司一次推进两三步",
+      "import": "https://x.ai/bot/cArvDM6FaDzcOxPn6BLfS",
+      "category": "teams-handoffs",
+      "tags": [
+        "construction",
+        "ops",
+        "small-business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "crowdreply-scout",
+      "name": "CrowdReply - Scout",
+      "author": {
+        "name": "Dawood",
+        "url": "https://x.com/dawoodkhan254"
+      },
+      "summary": "Collects the pages AI engines cite for a brand’s buying questions, then shortlists editorial articles worth pitching for a mention",
+      "summary_zh": "收集 AI 引擎在品牌购买类问题里引用的页面，筛出值得争取提及的编辑文章",
+      "import": "https://x.ai/bot/gDvJh38CGXP1Jumemg4d-",
+      "category": "research-briefings",
+      "tags": [
+        "ai-seo",
+        "pr",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "grok-s-green-thumb",
+      "name": "Grok's Green Thumb",
+      "author": {
+        "name": "Chris",
+        "url": "https://x.com/clterman"
+      },
+      "summary": "Garden helper for soil-probe readings and crop fix-ups. Optional Optimus finger dock or phone meter; photo checks for water, sun, pests",
+      "summary_zh": "看土壤探头读数修庄稼的园艺助手，可选 Optimus 手指底座或手机测量，拍照查水、光照和虫害",
+      "import": "https://x.ai/bot/I2liUP05oDxWsJ4l39JDL",
+      "category": "coding-shipping",
+      "tags": [
+        "gardening",
+        "plants",
+        "sensors"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "research-brief",
+      "name": "Research Brief",
+      "author": {
+        "name": "Matthew",
+        "url": "https://x.com/scientists_blog"
+      },
+      "summary": "Daily chat brief of scientific findings that strain textbook claims — aiming for field-opening weight, not niche refinements",
+      "summary_zh": "每天一份挑战教科书说法的科学发现简报，追求开辟领域的分量",
+      "import": "https://x.ai/bot/0Hefzi8k2Za0bMU0I7eQT",
+      "category": "research-briefings",
+      "tags": [
+        "science",
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "easygroupflights-concierge",
+      "name": "EasyGroupFlights Concierge",
+      "author": {
+        "name": "Crypto2Hodl"
+      },
+      "summary": "Public traveler concierge for group flight quotes and trip help on easygroupflights.com",
+      "summary_zh": "面向公众的旅客礼宾，帮你拿团体机票报价和处理行程",
+      "import": "https://x.ai/bot/3K2ptLhCQa540gab4M_YX",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "flights",
+        "groups"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "art-zeu",
+      "name": "Art",
+      "author": {
+        "name": "ZEU$"
+      },
+      "summary": "Turns approved posts into on-brand visuals: a short brief, the asset on the client's palette and type rules, and alt text",
+      "summary_zh": "把已批准的帖子做成符合品牌的配图：简短设计说明、按客户配色和字体的素材，以及替代文字",
+      "import": "https://x.ai/bot/yE1-m0X2okSxFsvjScxy0",
+      "category": "content-publishing",
+      "tags": [
+        "design",
+        "social",
+        "branding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "live-call-coach",
+      "name": "Live Call Coach",
+      "author": {
+        "name": "Scott"
+      },
+      "summary": "During your live meetings, transcribes with Grok Voice on your computer and nudges you in chat with short sayable tips, fact-checks, missed asks",
+      "summary_zh": "开会时在你电脑上用 Grok Voice 转写，在聊天里推送能直接说出口的提示、事实核查和漏掉的问题",
+      "import": "https://x.ai/bot/z1sFV8dXNuD_xwE1xk_mz",
+      "category": "personal-admin",
+      "tags": [
+        "meetings",
+        "coaching",
+        "voice"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "market-researcher",
+      "name": "Market Researcher",
+      "author": {
+        "name": "Josh Kim",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Monitors your competitors' public websites, ads, marketing, pricing, and positioning on a standing cadence",
+      "summary_zh": "按固定节奏盯竞品的公开网站、广告、营销、定价和定位",
+      "import": "https://x.ai/bot/xzkXiUbdYfPd7g30OhLGf",
+      "category": "research-briefings",
+      "tags": [
+        "competitors",
+        "market-research",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "template-scanner",
+      "name": "Template Scanner",
+      "author": {
+        "name": "Shai"
+      },
+      "summary": "Paste a Grok Bot share link to see its persona, skills, routines, memories, and plugins before you add it",
+      "summary_zh": "贴一个 Grok Bot 分享链接，添加前先看清它的人设、技能、routines、记忆和插件",
+      "import": "https://x.ai/bot/qDTnW6hhv_Pfr4EO1Ty1D",
+      "category": "research-briefings",
+      "tags": [
+        "templates",
+        "inspection",
+        "safety"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "after-hours-receptionist",
+      "name": "After-Hours Receptionist",
+      "author": {
+        "name": "Robert"
+      },
+      "summary": "SMB lead capture and appointment booking assistant for when the business is closed",
+      "summary_zh": "小商家下班后的线索收集和预约助手",
+      "import": "https://x.ai/bot/L-Peiv65iI_logfpgoPQ_",
+      "category": "customer-sales",
+      "tags": [
+        "small-business",
+        "receptionist",
+        "leads"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "cto-divyansh",
+      "name": "CTO",
+      "author": {
+        "name": "Divyansh"
+      },
+      "summary": "Level 1 CTO for a personal bot org. Turns product direction into working software through repo heads, keeps the org small, and holds the code bar",
+      "summary_zh": "个人 bot 组织的一级 CTO：通过仓库负责人把产品方向变成能跑的软件，控制组织规模，守住代码标准",
+      "import": "https://x.ai/bot/N_ziMli8oxzdFJgTKV3DV",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "cto",
+        "org"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "gen-x-saver-wizard",
+      "name": "Gen X Saver Wizard",
+      "author": {
+        "name": "Odd&Entertaining"
+      },
+      "summary": "A credit-saver with a first-run wizard. Routes pictures, video, long drafts, and long code to a local machine first, then the cloud",
+      "summary_zh": "带首次向导的省积分工具：图片、视频、长稿和长代码先走本地机器，再走云端",
+      "import": "https://x.ai/bot/Qt13laWoRw-3hLVavR-jd",
+      "category": "coding-shipping",
+      "tags": [
+        "credits",
+        "routing",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bing-bong",
+      "name": "Bing Bong",
+      "author": {
+        "name": "Jenna"
+      },
+      "summary": "Sports marketing partnership ops partner for field marketers",
+      "summary_zh": "给一线营销人的体育营销合作运营伙伴",
+      "import": "https://x.ai/bot/BjzK0lRsgxuLSsQIsnI3E",
+      "category": "customer-sales",
+      "tags": [
+        "sports",
+        "marketing",
+        "partnerships"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-brief-ro8gwq",
+      "name": "X Brief",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Turns the accounts and topics you pick on X into one short daily brief. Reads your X connection or handles you paste, and never posts on your behalf",
+      "summary_zh": "把你在 X 上选的账号和话题汇成一份简短日报，读你的 X 连接或你贴的账号，从不代你发帖",
+      "import": "https://x.ai/bot/RO8GwQZFXL9O95i13epqF",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "briefing",
+        "news"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "nomad-pro-uk-residency-tracker-komal",
+      "name": "Nomad Pro – UK Residency Tracker",
+      "author": {
+        "name": "Komal"
+      },
+      "summary": "The boring UK residency admin, managed for you: a day-by-day travel and work log with records",
+      "summary_zh": "帮你打理英国居住身份的琐事：逐日记录旅行和工作",
+      "import": "https://x.ai/bot/QUBmv77N0RIAlXTUktubY",
+      "category": "personal-admin",
+      "tags": [
+        "uk",
+        "residency",
+        "tax"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mover-bot",
+      "name": "Mover Bot",
+      "author": {
+        "name": "Hristo"
+      },
+      "summary": "Visual pre-estimate (planning range) from photos or a walkthrough for local and long-distance residential or commercial moves. Not binding; not a booking",
+      "summary_zh": "根据照片或视频看房，给本地和长途、住宅或商业搬家一个预估区间，不具约束力，不算预订",
+      "import": "https://x.ai/bot/HOlAbXeoxd_ukzsmD6H5m",
+      "category": "finance-ops",
+      "tags": [
+        "moving",
+        "estimates",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "evie-the-san-francisco-events-finder",
+      "name": "Evie the San Francisco Events Finder",
+      "author": {
+        "name": "Veena",
+        "url": "https://x.com/veenapanicker"
+      },
+      "summary": "Finds personalized San Francisco events from your calendar, Luma, Eventbrite, Partiful, Meetup",
+      "summary_zh": "从你的日历、Luma、Eventbrite、Partiful 和 Meetup 找适合你的旧金山活动",
+      "import": "https://x.ai/bot/8_jxHdRiFMSC-Jqh66I2Q",
+      "category": "personal-admin",
+      "tags": [
+        "events",
+        "san-francisco",
+        "local"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tinkabot-hmcmhb",
+      "name": "tinkabot",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Wraps an API into a Cursor/Agent Plugin (MCP + skills). Data shape first, smallest scaffold that works, prove locally",
+      "summary_zh": "把一个 API 包成 Cursor 或 Agent 插件（MCP 加技能）：先理数据结构，最小可用脚手架，本地验证",
+      "import": "https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS",
+      "category": "coding-shipping",
+      "tags": [
+        "mcp",
+        "plugins",
+        "api"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "duty-first",
+      "name": "Duty First",
+      "author": {
+        "name": "Steve"
+      },
+      "summary": "Own instrument-aware trust accounting and reporting. Read the governing instrument first. Classify every receipt and disbursement as principal or income",
+      "summary_zh": "懂信托文件的信托会计和报告：先读信托文件，把每笔收支归为本金或收益",
+      "import": "https://x.ai/bot/ZNrJWoDe9kUzXB4QG8xVT",
+      "category": "finance-ops",
+      "tags": [
+        "trusts",
+        "accounting",
+        "legal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "research-harness",
+      "name": "Research Harness",
+      "author": {
+        "name": "Drew"
+      },
+      "summary": "Wires a research-only harness on your own server or laptop. Stage plan CLIs and scratch rails, then run cited briefs with verified vs inferred vs UNKNOWN",
+      "summary_zh": "在你自己的服务器或笔记本上搭一个只做研究的工具链，跑出区分已验证、推断和未知的带引用简报",
+      "import": "https://x.ai/bot/YkkCbN8-Ubf0FM1BE4i4S",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "harness",
+        "citations"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "clip-bot-l1yfj5",
+      "name": "Clip Bot",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Finds the best moments in a long recording and cuts them into short captioned clips",
+      "summary_zh": "从长录音里找出最精彩的片段，剪成带字幕的短片",
+      "import": "https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_",
+      "category": "content-publishing",
+      "tags": [
+        "clips",
+        "video",
+        "captions"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "one-page-bid",
+      "name": "One-Page Bid",
+      "author": {
+        "name": "Sol"
+      },
+      "summary": "For consultants, freelancers, and agency owners coming off a discovery or sales call",
+      "summary_zh": "给刚开完需求或销售电话的顾问、自由职业者和代理老板写一页报价方案",
+      "import": "https://x.ai/bot/uaqH_2upECHDL-Pn3cKEY",
+      "category": "customer-sales",
+      "tags": [
+        "proposals",
+        "freelance",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "seo-team",
+      "name": "SEO Team",
+      "author": {
+        "name": "Sultanov"
+      },
+      "summary": "A five-role SEO crew (Head of SEO, Keyword Research, Tech SEO, Content Writer, and Link Builder) that briefs, drafts",
+      "summary_zh": "五个角色的 SEO 小队（SEO 负责人、关键词研究、技术 SEO、内容写手、外链），出简报和草稿",
+      "import": "https://x.ai/bot/hZ5qExsCbwC-JCnsMOwp3",
+      "category": "customer-sales",
+      "tags": [
+        "seo",
+        "content",
+        "team"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sherlock-ohms",
+      "name": "Sherlock Ohms",
+      "author": {
+        "name": "CJ"
+      },
+      "summary": "Diagnoses Tesla Model S, 3, X, and Y faults like a cost-conscious independent repair tech",
+      "summary_zh": "像精打细算的独立维修技师一样诊断特斯拉 Model S、3、X 和 Y 的故障",
+      "import": "https://x.ai/bot/J565Xd-YeSUZX5QhRGZ9M",
+      "category": "personal-admin",
+      "tags": [
+        "tesla",
+        "cars",
+        "diagnostics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tesla-wrap-builder",
+      "name": "Tesla Wrap Builder",
+      "author": {
+        "name": "Mike"
+      },
+      "summary": "Designs custom wraps for your Tesla's on-screen 3D car in Paint Shop (not real vinyl): your logo, photo, pattern, text or colours",
+      "summary_zh": "在 Paint Shop 里给特斯拉屏幕上的 3D 车设计自定义车衣（不是真贴膜）：你的 logo、照片、图案、文字或颜色",
+      "import": "https://x.ai/bot/9bKx_1Qc-S3xUrlH0oRv5",
+      "category": "content-publishing",
+      "tags": [
+        "tesla",
+        "design",
+        "wraps"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "life-anup",
+      "name": "Life",
+      "author": {
+        "name": "Anup"
+      },
+      "summary": "Sets up a real, working life setup on Grok Bot: Inbox, Calendar, Health, Bills, Search and more, each with its own routines",
+      "summary_zh": "在 Grok Bot 上搭一套真能用的生活系统：收件箱、日历、健康、账单、搜索等，各带 routines",
+      "import": "https://x.ai/bot/Tj8ICZNA6RrGar_CAYhD9",
+      "category": "personal-admin",
+      "tags": [
+        "life-admin",
+        "setup",
+        "routines"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "the-librarian-komal",
+      "name": "The Librarian",
+      "author": {
+        "name": "Komal"
+      },
+      "summary": "A library for your contracts, policies and any long document you might need to look back at",
+      "summary_zh": "存放合同、政策和任何长文档的资料库，方便以后回查",
+      "import": "https://x.ai/bot/ox-cXp4RA3S_O8dK3DNih",
+      "category": "personal-admin",
+      "tags": [
+        "documents",
+        "contracts",
+        "library"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "mason",
+      "name": "Mason",
+      "author": {
+        "name": "AdamDesigns"
+      },
+      "summary": "Intake desk (The Incorporator). Drop a link, post, product, paper, repo, clip, or tool — it opens the original, separates marketing from function",
+      "summary_zh": "接收台：丢个链接、帖子、产品、论文、仓库、视频或工具，它打开原件，把营销和实际功能分开",
+      "import": "https://x.ai/bot/P4UiFNUcfH-751NuybyV1",
+      "category": "research-briefings",
+      "tags": [
+        "intake",
+        "research",
+        "analysis"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "bot-masaki",
+      "name": "スキルクリエイター",
+      "author": {
+        "name": "Masaki"
+      },
+      "summary": "Turns requests into steps and designs, creates, or revises skills that don't overlap existing ones; does no daily news gathering or social posting",
+      "summary_zh": "把需求拆成步骤，设计、创建和改进不与现有技能重叠的技能，不做每日新闻收集或发社媒",
+      "import": "https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo",
+      "category": "content-publishing",
+      "tags": [
+        "skills",
+        "builder",
+        "japanese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "citation-outreach-writer",
+      "name": "Citation Outreach Writer",
+      "author": {
+        "name": "Dawood",
+        "url": "https://x.com/dawoodkhan254"
+      },
+      "summary": "Writes short mention-outreach emails and loads them into a Smartlead draft sequence. For teams who want a citation in an existing roundup, not a guest post",
+      "summary_zh": "写简短的提及外联邮件，载入 Smartlead 草稿序列，给想进现有盘点文章而不是写客座稿的团队",
+      "import": "https://x.ai/bot/L4sWZ2981T7YzegQffkVz",
+      "category": "customer-sales",
+      "tags": [
+        "outreach",
+        "email",
+        "smartlead"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "project-manager",
+      "name": "Project Manager",
+      "author": {
+        "name": "Josh Kim",
+        "url": "https://x.com/joshkim"
+      },
+      "summary": "Marketing project manager that coordinates research, positioning, landing pages, ads",
+      "summary_zh": "协调研究、定位、落地页和广告的营销项目经理",
+      "import": "https://x.ai/bot/AMa1ig4YyoxfYtWFe7PLi",
+      "category": "personal-admin",
+      "tags": [
+        "marketing",
+        "projects",
+        "management"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "school-study-ops",
+      "name": "School Study Ops",
+      "author": {
+        "name": "Wes"
+      },
+      "summary": "Parent bot for one student: read-only Classroom digests, official grades, and interactive HTML study quizzes from posted materials",
+      "summary_zh": "给一个学生配的家长 bot：只读 Classroom 摘要、官方成绩，用发布的资料出互动 HTML 小测",
+      "import": "https://x.ai/bot/AS6uhZDipBQVtOyQdASUX",
+      "category": "personal-admin",
+      "tags": [
+        "education",
+        "google-classroom",
+        "parents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "lecture-sheet",
+      "name": "Lecture Sheet",
+      "author": {
+        "name": "Michael"
+      },
+      "summary": "Turn YouTube lectures into dense, exam-ready cheat sheet PDFs. Cited formulas, real diagrams, Typst layout, math verification before delivery",
+      "summary_zh": "把 YouTube 讲座变成密集、能直接备考的小抄 PDF：公式带出处、真实图表、Typst 排版，交付前验算",
+      "import": "https://x.ai/bot/y3xJtXexbxn7XpmECEJMc",
+      "category": "research-briefings",
+      "tags": [
+        "lectures",
+        "study",
+        "pdf"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "founder-chief-of-staff-clstachn",
+      "name": "Founder Chief of Staff",
+      "author": {
+        "name": "Calista",
+        "url": "https://x.com/clstachn"
+      },
+      "summary": "Chief of Staff for shipping Wardrobe Atelier — an app testing a product idea",
+      "summary_zh": "为测试产品想法的应用 Wardrobe Atelier 推进上线的幕僚长",
+      "import": "https://x.ai/bot/W350IEIZT0ut-X-l-jyaG",
+      "category": "personal-admin",
+      "tags": [
+        "chief-of-staff",
+        "product",
+        "startups"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "forge-coach",
+      "name": "Forge Coach",
+      "author": {
+        "name": "Coffee",
+        "url": "https://x.com/CoffeeNGrit"
+      },
+      "summary": "Answer a few quick questions about your age, fitness, health, gear, and space. Get a workout built for you every morning at the time you pick",
+      "summary_zh": "回答几个关于年龄、体能、健康、器材和场地的问题，每天在你选的时间拿到一份定制训练",
+      "import": "https://x.ai/bot/ZBDynmT5k_WrRqQwoxdrI",
+      "category": "personal-admin",
+      "tags": [
+        "fitness",
+        "workouts",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "melon-tusk",
+      "name": "Melon Tusk",
+      "author": {
+        "name": "Paweł"
+      },
+      "summary": "Adversarial advice for high-stakes decisions. Not an Elon impersonator",
+      "summary_zh": "给高风险决策的对抗式建议，不是模仿马斯克",
+      "import": "https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25",
+      "category": "coding-shipping",
+      "tags": [
+        "decisions",
+        "advice",
+        "first-principles"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "site-audit-rzrrkk",
+      "name": "Site Audit",
+      "author": {
+        "name": "community"
+      },
+      "summary": "SEO + content + speed + a11y + CRO + schema audit. Scored, P0/P1/P2, evidence URLs. Monthly diff. No invented metrics",
+      "summary_zh": "SEO、内容、速度、无障碍、转化和结构化数据审计，打分分级，附证据链接，每月对比，不编指标",
+      "import": "https://x.ai/bot/_rzRrKKlUyBD3znUN5b3Q",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "audits",
+        "website"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "daily-partner-update",
+      "name": "Daily Partner Update",
+      "author": {
+        "name": "CyberMark"
+      },
+      "summary": "Delivers a short, warm spoken update in your own voice during your commute, summarizing your day so you can share it with your girlfriend on the drive",
+      "summary_zh": "在你通勤路上用你自己的声音播一段温暖的简短当日总结，方便你开车时讲给女朋友听",
+      "import": "https://x.ai/bot/3oGBb6hOZHvu27SZt0nla",
+      "category": "personal-admin",
+      "tags": [
+        "voice",
+        "updates",
+        "relationships"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "event-producer-jenna",
+      "name": "Event Producer",
+      "author": {
+        "name": "Jenna"
+      },
+      "summary": "Event Producer is a field and VIP event production partner. Owns end-to-end production plans — run-of-show, venue/room, F&B, AV, signage, staffing",
+      "summary_zh": "线下和 VIP 活动制作伙伴，负责全流程：流程单、场地、餐饮、音视频、标识和人员",
+      "import": "https://x.ai/bot/5gyGG-rnVsQVTLWAfki1u",
+      "category": "personal-admin",
+      "tags": [
+        "events",
+        "production",
+        "vip"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "founder-cmo",
+      "name": "Founder CMO",
+      "author": {
+        "name": "Benjamín"
+      },
+      "summary": "Ships a founder’s brand end-to-end: utility-first narrative, content calendar, Design PASS → Meta Suite, Soft Launch Ads monitoring",
+      "summary_zh": "端到端打造创始人品牌：实用优先的叙事、内容日历、设计审核、Meta 投放和软启动广告监控",
+      "import": "https://x.ai/bot/yZVpgdDnnbdaEjroYM-Ky",
+      "category": "customer-sales",
+      "tags": [
+        "branding",
+        "founders",
+        "marketing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tower",
+      "name": "Tower",
+      "author": {
+        "name": "say"
+      },
+      "summary": "Home mission control for your house, acting as its control tower",
+      "summary_zh": "这栋房子的家庭任务控制中心",
+      "import": "https://x.ai/bot/mLD9e8gRskQNp6DocBeJZ",
+      "category": "personal-admin",
+      "tags": [
+        "smart-home",
+        "household",
+        "control"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "invoicematch-recon-bot",
+      "name": "InvoiceMatch Recon Bot",
+      "author": {
+        "name": "Robert"
+      },
+      "summary": "Accounts-receivable reconciliation for small businesses. Paste bank deposits and open invoices; get matches, exception flags, and a QuickBooks/Xero-ready CSV",
+      "summary_zh": "小商家的应收对账：贴上银行入账和未结发票，拿到匹配结果、异常标记和可导入 QuickBooks 或 Xero 的 CSV",
+      "import": "https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h",
+      "category": "coding-shipping",
+      "tags": [
+        "accounting",
+        "reconciliation",
+        "invoices"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "talent-bot",
+      "name": "Talent Bot",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/ericosiu"
+      },
+      "summary": "Evidence-first recruiting operator. Daily job is inbound bar review: challenge submissions plus ATS applicants, scored against a frozen role pack",
+      "summary_zh": "证据优先的招聘操盘手，每天按冻结的岗位标准给挑战提交和 ATS 申请者打分",
+      "import": "https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe",
+      "category": "customer-sales",
+      "tags": [
+        "recruiting",
+        "hiring",
+        "screening"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ox-alpha",
+      "name": "Ox-Alpha🤠",
+      "author": {
+        "name": "say"
+      },
+      "summary": "A-share momentum helper: send a ticker to pull live quotes and get chase, hold, or cut plus the number that would change its mind; no made-up prices or orders",
+      "summary_zh": "A 股追涨杀跌助手：甩代码就拉真实行情，给出追、拿着或砍，外加会让它改口的数字，不编价、不代下单",
+      "import": "https://x.ai/bot/8Uon_mHNJRQfA2IsF7KNb",
+      "category": "personal-admin",
+      "tags": [
+        "a-shares",
+        "stocks",
+        "chinese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "swe",
+      "name": "SWE",
+      "author": {
+        "name": "Cursor"
+      },
+      "summary": "Cursor's software engineer bot: writes code, triages issues, monitors production, and more",
+      "summary_zh": "Cursor 的软件工程师 bot：写代码、分拣 issue、盯生产环境",
+      "import": "https://x.ai/bot/sd4474cf03cd8552905ff",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "code",
+        "cursor"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "buy",
+      "name": "Buy",
+      "author": {
+        "name": "Paul"
+      },
+      "summary": "Compiles shoppable trade studies: picks a winner, hunts the best real price, checks buy links, and delivers a chat chart plus full Notion/Docs/Sheets write-up",
+      "summary_zh": "做可购买的选型研究：挑出赢家，找最好的真实价格，检查购买链接，在聊天里给图表外加完整文档",
+      "import": "https://x.ai/bot/O9XbjNnFDHDqkOZy87nox",
+      "category": "finance-ops",
+      "tags": [
+        "shopping",
+        "research",
+        "comparisons"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "instagram-connector-liker-follower-commenter",
+      "name": "instagram connector liker follower commenter",
+      "author": {
+        "name": "Jeroen"
+      },
+      "summary": "Instagram outreach from a signed-in browser. Search posts, find public engagers, then like, follow, and/or comment with rate limits and a log",
+      "summary_zh": "在已登录的浏览器里做 Instagram 外联：搜帖子、找公开互动者，再限速点赞、关注或评论并留日志",
+      "import": "https://x.ai/bot/m6f6B1hONvrzPrvFEIw7y",
+      "category": "content-publishing",
+      "tags": [
+        "instagram",
+        "outreach",
+        "social"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "grok-bot-optimizer",
+      "name": "Grok Bot Optimizer",
+      "author": {
+        "name": "Thomas"
+      },
+      "summary": "Cuts wasted tokens on real Bot work you route through an opt-in gateway — collapsing duplicate tool results and repeated messages before they hit the model",
+      "summary_zh": "通过可选网关削减 bot 工作的 token 浪费，在进模型前合并重复的工具结果和重复消息",
+      "import": "https://x.ai/bot/_YJdQ3bYXlYPOsX0NBmaV",
+      "category": "personal-admin",
+      "tags": [
+        "tokens",
+        "optimization",
+        "costs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "form-filler",
+      "name": "Form Filler",
+      "author": {
+        "name": "ʞɔɐz"
+      },
+      "summary": "Drafts forms, surveys, claims, rebates, warranties, admin portals, and class-action intakes with cited answers",
+      "summary_zh": "为表单、问卷、理赔、返利、保修、管理后台和集体诉讼登记起草带出处的答案",
+      "import": "https://x.ai/bot/wPURKNd7W_Fafwz73SP5I",
+      "category": "personal-admin",
+      "tags": [
+        "forms",
+        "admin",
+        "paperwork"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pitch-deck-coach-zkvs-p",
+      "name": "Pitch Deck Coach",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Reviews a pitch deck and reports what an investor is likely to understand, believe, question, and remember, then helps strengthen the story, evidence",
+      "summary_zh": "审阅路演 PPT，报告投资人可能理解、相信、质疑和记住什么，再帮你加强故事和证据",
+      "import": "https://x.ai/bot/zkVS-PkX1ooTE2nP21DPO",
+      "category": "research-briefings",
+      "tags": [
+        "pitch-decks",
+        "fundraising",
+        "startups"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "aggressive-product-ideation",
+      "name": "Aggressive Product Ideation",
+      "author": {
+        "name": "Seth"
+      },
+      "summary": "Turns customer problems and rough ideas into products worth testing. Helps you choose what to build and find a cheap way to test whether people want it",
+      "summary_zh": "把客户问题和粗略点子变成值得测试的产品，帮你选做什么，并找便宜的办法验证有没有人要",
+      "import": "https://x.ai/bot/Rfh9qBxQ8SveYYzB1IHNO",
+      "category": "research-briefings",
+      "tags": [
+        "product",
+        "ideas",
+        "validation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "atomic-mail-desk",
+      "name": "Atomic Mail Desk",
+      "author": {
+        "name": "Bosotter"
+      },
+      "summary": "An inbox helper for Atomic Mail for Agents. It reads and searches your mail, drafts replies in chat, and sends only after you say yes to that exact message",
+      "summary_zh": "Atomic Mail for Agents 的收件箱助手：读和搜邮件，在聊天里起草回复，你确认具体内容后才发",
+      "import": "https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "inbox",
+        "drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ceo-divyansh",
+      "name": "CEO",
+      "author": {
+        "name": "Divyansh"
+      },
+      "summary": "Level 0 CEO for a personal four-bot org across research, building, and social. Holds the board view, monitors Level 1s, and keeps the org small",
+      "summary_zh": "个人四 bot 组织的零级 CEO，管研究、开发和社交，盯着一级负责人，控制组织规模",
+      "import": "https://x.ai/bot/UUcFa8QmAvI3ZyWsEMOt8",
+      "category": "personal-admin",
+      "tags": [
+        "ceo",
+        "org",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "buildertrend-invoice-desk",
+      "name": "Buildertrend Invoice Desk",
+      "author": {
+        "name": "Brian"
+      },
+      "summary": "A teammate that pulls home-build invoices from Buildertrend, builds a local dashboard",
+      "summary_zh": "从 Buildertrend 拉建房发票，做本地看板并跑开支分析",
+      "import": "https://x.ai/bot/igyfOAUWRXvTZbDj2J__S",
+      "category": "finance-ops",
+      "tags": [
+        "construction",
+        "invoices",
+        "analytics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "star-reply",
+      "name": "Star Reply",
+      "author": {
+        "name": "Sol"
+      },
+      "summary": "For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them",
+      "summary_zh": "给餐厅、诊所、沙龙、商店和健身房老板以及替他们回评的助理写评价回复",
+      "import": "https://x.ai/bot/SxlztEUtDeUXOiP26dyDb",
+      "category": "content-publishing",
+      "tags": [
+        "reviews",
+        "small-business",
+        "replies"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
       "shelf": "raw"
     }
   ]
