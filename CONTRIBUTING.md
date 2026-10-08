@@ -4,6 +4,31 @@ This repo is a catalog of public Grok Bot share pages that were reachable when a
 
 Chinese or English PRs are both fine.
 
+Recipe field checklist for featured / PROFILE / SETUP entries: [docs/entry-spec.md](docs/entry-spec.md).
+Official guides: [Templates for Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) (recipe, not meal) · [Grok Bot for Engineering](https://x.ai/bot/guides/grok-bot-for-engineering) · [Guides index](https://x.ai/bot/guides).
+
+## Recipe, not clone
+
+A share is a **recipe**, not a 1:1 clone of the author's running bot.
+
+- **Ships:** name, skills (when the export includes them), routines, relevant workflow memories that contain no personal or internal details, first-party marketplace plugins by plugin id.
+- **Does not ship:** computer, files, logins, API keys, custom MCP / scripts, personal / internal memories.
+- Inspect the template details to confirm what is included. After Add, the importer reconnects plugins and supplies their own keys.
+- Skills can fail to travel (preview shows them, export ships `skills: []`).
+
+For featured / PROFILE / SETUP style entries (and as a strong recommend for solid), document:
+
+| Norm | Where |
+| --- | --- |
+| Recipe framing (what ships vs reconnect) | SETUP.md (+ short note in PROFILE) |
+| Plugins to reconnect after Add | SETUP.md; optional `connectors` / `plugins_needed` |
+| Secrets (env **names** only, never values) | SETUP.md; optional `secrets_needed` |
+| `first_safe_task` | catalog + `templates/<slug>/entry.json` (required when a template dir exists) |
+| `approval_boundary` | same |
+| Acceptance / proof of done (coding bots) | SETUP.md; optional `acceptance` (CI green, screenshot, table) |
+
+Raw catalog rows may stay link + summary only. Do not mass-edit all entries to add optional fields.
+
 ## Add a bot
 
 PR a live `https://x.ai/bot/…` URL, a one-sentence summary, and a category.
@@ -11,7 +36,7 @@ PR a live `https://x.ai/bot/…` URL, a one-sentence summary, and a category.
 1. Fork the repo.
 2. Append a matching object to `catalog.json` `entries`.
 3. Add one line to `catalog/en/<category>.md` and `catalog/zh-CN/<category>.md`, and bump that category's count in both READMEs (the `| Category | N |` row and the `Full list (N shares)` / `完整列表（N 条）` line). Catalog lines do not go in the READMEs: GitHub stops rendering a Markdown file after 512,000 bytes, and lint caps each file at 480,000.
-4. PROFILE.md / SETUP.md only if you have extra setup notes (featured style). Then also add `templates/<kebab-slug>/entry.json` that deep-equals the catalog object.
+4. PROFILE.md / SETUP.md only if you have extra setup notes (featured style). Then also add `templates/<kebab-slug>/entry.json` that deep-equals the catalog object. Template dirs must include non-empty `first_safe_task` and `approval_boundary`. Follow [docs/entry-spec.md](docs/entry-spec.md).
 5. Run `node scripts/lint.mjs`. It checks the schema and the exact English/Chinese catalog projection, and must print `OK N entries`.
 6. Open a PR.
 
@@ -22,7 +47,7 @@ Do not submit unpublished bots. `import` must be a live share link. Do not inven
 ## Safety
 
 - No secrets, tokens, or private hosts (localhost, 10.x, 192.168.) in catalog or template files.
-- Never put API keys in SETUP. Importers reconnect their own plugins.
+- Never put API keys in SETUP. Importers reconnect their own plugins. `secrets_needed` is names only.
 - See SECURITY.md for what we reject.
 - Do not submit unverified money or trade bots.
 

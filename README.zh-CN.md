@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 3248 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 3646 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -62,7 +62,7 @@
   <img src="docs/screenshots/add-button.png" alt="一条活分享页。黑色按钮是 Add to Grok Bot。" width="420">
 </p>
 
-分享会带上名字、技能、例行任务和官方市场插件。不会带上电脑、文件、登录或 API key。
+分享是一份**菜谱**，不是克隆（见 [Templates 指南](https://x.ai/bot/guides/templates-for-grok-bot)）。会带上名字、技能、例行任务、不含个人或内部信息的相关工作流记忆，以及官方市场插件。不会带上电脑、文件、登录、自定义 MCP/脚本、API key 或个人/内部记忆。先查看模板详情确认实际包含的内容，Add 之后要自己重连插件并填密钥。技能有时传不过来。
 
 Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上的 App。没有官方 Linux 桌面端。自己电脑是 Linux 的，看 [Linux 笔记本客户端](#linux-笔记本客户端)。
 
@@ -97,7 +97,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 [catalog.json](catalog.json) 里的 `shelf` 是编辑导航（featured、solid、studio-door、aka、raw）。能打开不等于安全。`verified` 是另一套维护者核验标记。
 
-工作室门（调度、安装器、前台）共 **148** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
+工作室门（调度、安装器、前台）共 **155** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
 
 完整列表在下面，按活分类。真人案例和踩坑在链接墙上面。
 
@@ -105,17 +105,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 416 |
-| [Inbox & calendar](#inbox--calendar) | 128 |
-| [Research & briefings](#research--briefings) | 415 |
-| [Customer & sales](#customer--sales) | 275 |
-| [Finance & ops](#finance--ops) | 405 |
-| [Content & publishing](#content--publishing) | 385 |
-| [Personal admin](#personal-admin) | 831 |
-| [Teams & handoffs](#teams--handoffs) | 393 |
-| **合计** | **3248** |
+| [Coding & shipping](#coding--shipping) | 483 |
+| [Inbox & calendar](#inbox--calendar) | 143 |
+| [Research & briefings](#research--briefings) | 465 |
+| [Customer & sales](#customer--sales) | 326 |
+| [Finance & ops](#finance--ops) | 444 |
+| [Content & publishing](#content--publishing) | 436 |
+| [Personal admin](#personal-admin) | 938 |
+| [Teams & handoffs](#teams--handoffs) | 411 |
+| **合计** | **3646** |
 
-2026 年 10 月 5 日检查时，3248 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 3248 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 8 日检查时，3646 个分享页全部返回 HTTP 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 3646 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -215,6 +215,14 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 先看 [overview](https://docs.x.ai/grok-bot/overview)、[get started](https://docs.x.ai/grok-bot/get-started)、[plans](https://cursor.com/help/grok-bot/plans) 和 [FAQ](https://docs.x.ai/grok-bot/faq)。隔离按账号，不按 Bot。抹掉 Grok Bot 等于删 Cursor 账号。
 
+### 指南（x.ai/bot/guides）
+
+- [Guides 索引](https://x.ai/bot/guides) - 官方上手与分享教程总览。
+- [Templates for Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) - 菜谱不是成品。分享里带什么、Add 后要自己重连什么。
+- [Grok Bot for Engineering](https://x.ai/bot/guides/grok-bot-for-engineering) - 外环/内环（Grok Bot 写提示，Cursor cloud agents 写代码）、专才、带证明的反馈闭环、夜间审计与 P0 例程。
+
+本目录按这些指南写的条目规范见 [docs/entry-spec.md](docs/entry-spec.md)。
+
 ### 新闻
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot)
@@ -245,35 +253,35 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Coding & shipping
 
-完整列表（416 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
+完整列表（483 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
 
 ## Inbox & calendar
 
-完整列表（128 条）：[catalog/zh-CN/inbox-calendar.md](catalog/zh-CN/inbox-calendar.md)
+完整列表（143 条）：[catalog/zh-CN/inbox-calendar.md](catalog/zh-CN/inbox-calendar.md)
 
 ## Research & briefings
 
-完整列表（415 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
+完整列表（465 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
 
 ## Customer & sales
 
-完整列表（275 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
+完整列表（326 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
 
 ## Finance & ops
 
-完整列表（405 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（444 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
-完整列表（385 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（436 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（831 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
+完整列表（938 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
 
 ## Teams & handoffs
 
-完整列表（393 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（411 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

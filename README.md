@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 3248 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 3646 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -62,7 +62,7 @@ Live searchable catalog: [majiayu000.github.io/awesome-grok-bot](https://majiayu
   <img src="docs/screenshots/add-button.png" alt="A live share page. The black button is Add to Grok Bot." width="420">
 </p>
 
-A share copies the name, skills, routines, and first-party plugins. It does not copy the computer, files, logins, or API keys.
+A share is a **recipe**, not a clone ([Templates guide](https://x.ai/bot/guides/templates-for-grok-bot)). It copies the name, skills, routines, relevant workflow memories without personal or internal details, and first-party plugins. It does not copy the computer, files, logins, custom MCP/scripts, API keys, or personal/internal memories. Inspect the template details before Add; after Add, reconnect plugins and keys yourself. Skills can fail to travel.
 
 Your bots share one cloud Linux computer (cap 50). That is not the app on your laptop. There is no official Linux desktop app. Linux laptops use [Linux laptop app](#linux-laptop-app).
 
@@ -97,7 +97,7 @@ These are `shelf=featured` in [catalog.json](catalog.json). Start with one share
 
 `shelf` in [catalog.json](catalog.json) is editorial navigation (featured, solid, studio-door, aka, raw). Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Studio doors (orchestrators, installers, front desks): **148** listed in [docs/studio-doors.md](docs/studio-doors.md).
+Studio doors (orchestrators, installers, front desks): **155** listed in [docs/studio-doors.md](docs/studio-doors.md).
 
 The full list is below, grouped by job. Field cases and gotchas sit above the wall of links.
 
@@ -105,17 +105,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 416 |
-| [Inbox & calendar](#inbox--calendar) | 128 |
-| [Research & briefings](#research--briefings) | 415 |
-| [Customer & sales](#customer--sales) | 275 |
-| [Finance & ops](#finance--ops) | 405 |
-| [Content & publishing](#content--publishing) | 385 |
-| [Personal admin](#personal-admin) | 831 |
-| [Teams & handoffs](#teams--handoffs) | 393 |
-| **Total** | **3248** |
+| [Coding & shipping](#coding--shipping) | 483 |
+| [Inbox & calendar](#inbox--calendar) | 143 |
+| [Research & briefings](#research--briefings) | 465 |
+| [Customer & sales](#customer--sales) | 326 |
+| [Finance & ops](#finance--ops) | 444 |
+| [Content & publishing](#content--publishing) | 436 |
+| [Personal admin](#personal-admin) | 938 |
+| [Teams & handoffs](#teams--handoffs) | 411 |
+| **Total** | **3646** |
 
-All 3248 share pages returned HTTP 200 on 5 Oct 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 3248 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 3646 share pages returned HTTP 200 on 8 Oct 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 3646 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -215,6 +215,14 @@ Staff-confirmed or screenshot-backed.
 
 Start with the [overview](https://docs.x.ai/grok-bot/overview), [get started](https://docs.x.ai/grok-bot/get-started), [plans](https://cursor.com/help/grok-bot/plans), and [FAQ](https://docs.x.ai/grok-bot/faq). Isolation is per user, not per Bot. Wiping Grok Bot deletes the Cursor account too.
 
+### Guides (x.ai/bot/guides)
+
+- [Guides index](https://x.ai/bot/guides) - Official walkthroughs for shipping and sharing bots.
+- [Templates for Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) - Recipe not meal. What ships in a share vs what you reconnect after Add.
+- [Grok Bot for Engineering](https://x.ai/bot/guides/grok-bot-for-engineering) - Outer/inner loop with Cursor cloud agents, specialists, feedback with proof, routines for audits and P0.
+
+Catalog entry norms that follow these guides: [docs/entry-spec.md](docs/entry-spec.md).
+
 ### News
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot)
@@ -245,35 +253,35 @@ One share is one bot. Assemble the roster yourself.
 
 ## Coding & shipping
 
-Full list (416 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
+Full list (483 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
 
 ## Inbox & calendar
 
-Full list (128 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
+Full list (143 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
 
 ## Research & briefings
 
-Full list (415 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
+Full list (465 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
 
 ## Customer & sales
 
-Full list (275 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (326 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
-Full list (405 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
+Full list (444 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (385 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (436 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (831 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
+Full list (938 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
 
 ## Teams & handoffs
 
-Full list (393 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (411 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 

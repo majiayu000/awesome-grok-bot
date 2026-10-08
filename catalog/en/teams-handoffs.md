@@ -2,6 +2,24 @@
 
 Back to [README](../../README.md)
 
+- [Bootstrap Bill](https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y) - Keeps an early founder's company board honest and current as a plain card showing the one bet that matters, past bets, and who does what next. [Ivelin](https://x.com/ivelini).
+- [Bot Advisor](https://x.ai/bot/R7WxDKqH_FC6554JJXBhm) - Interviews you about what you want automated, then drafts the other bots' instructions, schedules, and connections. Sultanov.
+- [Bot Boss](https://x.ai/bot/i336HYHYVhW2aMQjXhbxF) - One stream for your bot team. Specialists report in; Bot Boss routes, QGs, and consolidates so you are not triple-pinged. [Josh](https://x.com/joshkim).
+- [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - Build lead for a bot fleet that turns an approved goal into a plan, delegates each piece, and verifies the live result before calling it done. [Marco](https://x.com/MHW42).
+- [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - Walks you through self-hosting Buzz with Tailscale for teammates, standing up a first Grok Build agent, and turning bots into channel teammates. [Justin](https://x.com/jschnett).
+- [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - Runs the household calendar and errand list, posts a weekday-morning summary, and routes travel, inbox and briefing jobs to your other bots. [Hank](https://x.com/hjackson2).
+- [Chief of Staff](https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK) - Coordinates your crew of Grok Bots with routing, shared rules, and a trust ladder, checks results, and only interrupts you when something needs your OK. [Hank](https://x.com/hjackson2).
+- [Dot bot](https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE) - Thin proxy that forwards every ask to your ChatGPT Agent on the web, relays answers back, and drafts anything outbound until you say send. [William](https://x.com/wiiiimm).
+- [Fault Log](https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y) - Captures equipment fault fixes in plain language into a searchable log and answers whether you have seen a fault before from that log only. [Charles](https://x.com/Ryokushen).
+- [Fleet Review Desk](https://x.ai/bot/KT8Px1yf07UDJOmHESqog) - Reviews the Grok Bots you choose once a month and delivers ranked fixes without editing other bots or sending anything external. [weboperater](https://x.com/weboperater).
+- [foreman](https://x.ai/bot/cArvDM6FaDzcOxPn6BLfS) - Matt Whitney's construction ops starter \(from @MattWhitneyReal\). ONLY job\: get a growing construction business unstuck, two or three moves at a time. lauren.
+- [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - Persistent portable memory for a whole bot fleet, wrapping a local SQLite brain every bot can share, with optional IDE MCP attach. [Edward](https://x.com/edtadros).
+- [Job Application Team Setup](https://x.ai/bot/ADOWgqq4qhTAvUrns_8AW) - Walks you through importing a five-bot job-application team of Executive, Writer, Doc Gate, Scout, and Inbox and configuring each one. [Philip](https://x.com/spakoozy).
+- [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) - The only agent you talk to, running a crew of minion bots behind the scenes while Dr. Nefario reviews them weekly, forked from Firstmate. [Jared](https://x.com/Jaredtherich).
+- [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - Boss bot for owners of several businesses, built in hotels and holiday lets, with one weekday briefing across every company and email drafts you approve. [Rob](https://x.com/xdeanozoff).
+- [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - Runs your team's projects from Notion\: one row per project, a channel per project, and tasks your specialist bots claim. community.
+- [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - Watches Slack, suggests comments on interesting threads, and rewrites short updates from teammate bots into a casual times-channel voice. [Kento](https://x.com/AoToLog_).
+- [赛博小晚](https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S) - Public skill avatar of 赛博小晚\: uses her published thinking framework to help you build and run a personal brand, without claiming to be her. 铁柱AGI.
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).
 - [2nd Brain](https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO) - Keeps a short shared work canon so peer bots start from the same role, goals, VIPs, systems, and decisions. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Adam](https://x.ai/bot/s8cUaz0aoomvjsIyOKANn) - Name an outcome and Adam splits it across your bots, then returns one clear decision. [EdisonTanEdtreo](https://x.com/EdisonTanEdtreo).

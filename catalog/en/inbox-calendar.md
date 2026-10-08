@@ -2,6 +2,21 @@
 
 Back to [README](../../README.md)
 
+- [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - An inbox helper for Atomic Mail for Agents. It reads and searches your mail, drafts replies in chat, and sends only after you say yes to that exact message. Bosotter.
+- [Cadence](https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t) - A comms gate for one owner that whitelists who reaches you by person, channel, and topic, drafts replies, and never auto-sends. [Carlos](https://x.com/carlosbedia).
+- [calendar ea](https://x.ai/bot/xH8WGEVpXPslTULtgnN4r) - Calendar EA for Work 101 — Time. Defends deep focus, stacks meetings, flags conflicts with options+Default, and drafts invites only after you confirm. [Josh](https://x.com/joshkim).
+- [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - Sorts your Gmail every morning and suggests today's to-dos in priority order, in Japanese, as a report or as input for your main bot. [UNSER](https://x.com/Tomoya_MovieEdt).
+- [inbox manager](https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr) - First line of defense on email, Slack, and DMs. Read-only by default — surfaces the ~3 that are both important and urgent. Never answers as you. [Josh](https://x.com/joshkim).
+- [Inbox Sentinel](https://x.ai/bot/AXZqtG9WTTh6uF9jGcZuH) - Inbox triage assistant that classifies mail as Actionable, Junk, Spam, or Phishing, quarantines the noisy and dangerous stuff. Robert.
+- [Inbox Zero Assistant](https://x.ai/bot/u1pK59b5PDjThmgM73UUa) - An inbox-zero helper that organizes Gmail, flags messages that need a reply, drafts responses, and prepares bulk-unsubscribe actions. Sultanov.
+- [intel scout](https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah) - Twice-daily brief from inbox, Slack, and meeting notes. Digests what you saw and didn’t — company context that affects you, open follow-ups. [Josh](https://x.com/joshkim).
+- [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - Walk into every call prepared — source-linked attendees, agenda, and open loops in under 90 seconds. [Komil](https://x.com/Limok_igit).
+- [nudge](https://x.ai/bot/uM7mhMmiokRwN379jNvsX) - Calm reminders bot that turns what and when, or a photo of an appointment, into a Google Calendar event and pings you when it is due. [gabriel](https://x.com/gabrielramans).
+- [Only the School Emails that Matter](https://x.ai/bot/iQ9BMmGzaCUN8M8j6CerX) - Watches school email in Gmail or Outlook, learns when mail arrives, trashes clear junk, and pings only when something needs real action. [Gabriel](https://x.com/GabeHernandezOK).
+- [Outlook Calendar Desk](https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk) - Shows your Outlook schedule, drafts creates/updates/cancels for review, and only writes after you approve the exact change. Bosotter.
+- [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - Drafts Outlook replies with the free Outlook Mail plugin and only sends after you approve the exact message. Bosotter.
+- [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts, 2FA. ʞɔɐz.
+- [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - Reads shared family calendars and walks a busy parent through birthdays, appointments, and school events in one morning brief. [Caleeeb](https://x.com/gearcaleeeb).
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - Keeps your agent bench, calendar and inbox on one weekday rhythm. [A-A-ron](https://x.com/theaaron).
 - [Angry email → Soft reply](https://x.ai/bot/-ZHPJfwGTosEKmzelCSOH) - Paste a blunt or angry email draft and optional tone. Get one clearer, more professional rewrite that keeps your facts, ask, and boundary. You copy and. [MisledFan](https://x.com/MisledFan).
 - [Archivist](https://x.ai/bot/0M2KfANsxrPRRp5mqg0m8) - A personal assistant that keeps one person's mailbox tidy, protects mail they must never lose, and counts weekly public mentions of their product. [TRV_Architech](https://x.com/TRV_Architech).

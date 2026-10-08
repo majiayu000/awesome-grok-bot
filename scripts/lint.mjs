@@ -237,6 +237,12 @@ for (const readmeName of ["README.md", "README.zh-CN.md"]) {
     ? `**${verified} verified / ${catalog.entries.length} listed**`
     : `**${verified} 条已核验 / ${catalog.entries.length} 条已收录**`;
   if (!text.includes(status)) fail(`${readmeName}: missing or stale review status: ${status}`);
+
+  const studioDoorCount = catalog.entries.filter((entry) => entry.shelf === "studio-door").length;
+  const studioDoors = readmeName === "README.md"
+    ? `Studio doors (orchestrators, installers, front desks): **${studioDoorCount}** listed in [docs/studio-doors.md](docs/studio-doors.md).`
+    : `工作室门（调度、安装器、前台）共 **${studioDoorCount}** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。`;
+  if (!text.split("\n").includes(studioDoors)) fail(`${readmeName}: missing or stale studio-door summary: ${studioDoors}`);
 }
 
 const shelfCounts = { featured: 0, solid: 0, "studio-door": 0, aka: 0, raw: 0 };

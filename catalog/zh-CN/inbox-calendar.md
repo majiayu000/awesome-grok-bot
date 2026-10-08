@@ -2,6 +2,21 @@
 
 返回 [README](../../README.zh-CN.md)
 
+- [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - Atomic Mail for Agents 的收件箱助手：读和搜邮件，在聊天里起草回复，你确认具体内容后才发. Bosotter.
+- [Cadence](https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t) - 替一个人把守消息入口，按人、渠道和话题设白名单，回复只起草不自动发送. [Carlos](https://x.com/carlosbedia).
+- [calendar ea](https://x.ai/bot/xH8WGEVpXPslTULtgnN4r) - 日历助理：守住深度专注时间，把会议排在一起，冲突时给出选项和默认方案，确认后才发邀请. [Josh](https://x.com/joshkim).
+- [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - 每天早上整理你的 Gmail，用日语按优先级列出今天要做的事，可以只发报告，也可以交给主机器人. [UNSER](https://x.com/Tomoya_MovieEdt).
+- [inbox manager](https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr) - 邮件、Slack 和私信的第一道防线，默认只读，只挑出约 3 条既重要又紧急的，从不替你回复. [Josh](https://x.com/joshkim).
+- [Inbox Sentinel](https://x.ai/bot/AXZqtG9WTTh6uF9jGcZuH) - 邮件分拣：把邮件分成待处理、垃圾、广告和钓鱼，把吵的和危险的隔离. Robert.
+- [Inbox Zero Assistant](https://x.ai/bot/u1pK59b5PDjThmgM73UUa) - 帮你清空收件箱：整理 Gmail，标出需要回复的邮件，起草回复，准备批量退订. Sultanov.
+- [intel scout](https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah) - 每天两次从邮箱、Slack 和会议记录汇总简报：你看到和没看到的、影响你的公司动态、未完成的跟进. [Josh](https://x.com/joshkim).
+- [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - 开会前 90 秒内备好带出处的参会人、议程和未结事项. [Komil](https://x.com/Limok_igit).
+- [nudge](https://x.ai/bot/uM7mhMmiokRwN379jNvsX) - 安静的提醒机器人，说清做什么和什么时候，或者拍一张预约单，它就记进谷歌日历并按时提醒你. [gabriel](https://x.com/gabrielramans).
+- [Only the School Emails that Matter](https://x.ai/bot/iQ9BMmGzaCUN8M8j6CerX) - 盯着 Gmail 或 Outlook 里的学校邮件，摸清来信时段，清掉明显的垃圾，只在需要处理时提醒你. [Gabriel](https://x.com/GabeHernandezOK).
+- [Outlook Calendar Desk](https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk) - 查看 Outlook 日程，起草新建、修改或取消供你审核，批准具体改动后才写入. Bosotter.
+- [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - 用免费的 Outlook Mail 插件起草回复，你批准具体内容后才发送. Bosotter.
+- [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - 清理 Gmail 里的营销邮件：新发件人以可勾选列表出现，银行、学校、收据和验证码不动. ʞɔɐz.
+- [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - 读取家里共享的日历，把生日、预约和学校活动整理成一份早间简报给忙碌的家长. [Caleeeb](https://x.com/gearcaleeeb).
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - 把你的 Bot 席位、日历和收件箱，收进同一套工作日节奏。 [A-A-ron](https://x.com/theaaron).
 - [Angry email → Soft reply](https://x.ai/bot/-ZHPJfwGTosEKmzelCSOH) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [MisledFan](https://x.com/MisledFan).
 - [Archivist](https://x.ai/bot/0M2KfANsxrPRRp5mqg0m8) - 整理一人邮箱，保护绝不能丢的邮件，并统计产品周提及. [TRV_Architech](https://x.com/TRV_Architech).

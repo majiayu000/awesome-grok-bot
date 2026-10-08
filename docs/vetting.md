@@ -11,7 +11,7 @@ Community templates are untrusted third-party software. A share link is public. 
 5. Inspect skills. Preview can show skills while the export ships `skills: []` (forum 169911).
 6. If a featured template lists a first safe task, run it read-only. Otherwise choose a harmless read-only task that fits the Bot's job.
 7. Only then enable routines or writes.
-8. Do not paste API keys into SETUP. Reconnect plugins yourself.
+8. Do not paste API keys into SETUP. Reconnect plugins yourself. A share is a recipe, not a clone - see [entry-spec.md](entry-spec.md) and [Templates for Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot).
 
 ## Account limits
 
