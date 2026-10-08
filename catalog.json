@@ -79360,6 +79360,270 @@
       "verified": false,
       "updated": "2026-10-08",
       "shelf": "raw"
+    },
+    {
+      "slug": "x-academy",
+      "name": "X Academy",
+      "author": {
+        "name": "Nomis",
+        "url": "https://x.com/cradrrat"
+      },
+      "summary": "Finds genuinely free courses, workshops and teaching threads on X, flags scams and hidden paywalls, and can turn a topic into a 6-12 lesson course",
+      "summary_zh": "在 X 上找真正免费的课程、工作坊和教学线程，标出骗局和隐藏付费墙，还能把一个主题排成 6 到 12 课的课程",
+      "import": "https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2",
+      "source": "https://x.com/cradrrat/status/2107969259381092425",
+      "category": "research-briefings",
+      "tags": [
+        "learning",
+        "courses",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "presents",
+      "name": "Presents",
+      "author": {
+        "name": "Dylan",
+        "url": "https://x.com/dkmitc"
+      },
+      "summary": "Keeps a gift ledger per person with lowest price, store, link and photo, re-checks prices weekly, and never buys anything on its own",
+      "summary_zh": "按人记礼物清单：最低价、店铺、链接和图片，每周重新比价，从不自己下单",
+      "import": "https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU",
+      "source": "https://x.com/dkmitc/status/2107978688625066363",
+      "category": "personal-admin",
+      "tags": [
+        "gifts",
+        "prices",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "videe",
+      "name": "Videe",
+      "author": {
+        "name": "nickgaiski",
+        "url": "https://x.com/nickgaiski"
+      },
+      "summary": "Plans multicam edits for podcast and YouTube footage: camera cuts, trims, cleanup, and captions for the full episode and vertical clips",
+      "summary_zh": "给播客和 YouTube 多机位素材出剪辑方案：切哪个机位、删哪段、哪里要清理，并为整集和竖屏短片写字幕",
+      "import": "https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT",
+      "source": "https://x.com/nickgaiski/status/2107944084530733262",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "podcast",
+        "editing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "grok-bot-tutorial-plan2030",
+      "name": "Grok Bot Tutorial",
+      "author": {
+        "name": "터미너스",
+        "url": "https://x.com/plan2030"
+      },
+      "summary": "Teaches Grok Bot through small task-first exercises built around your goal, with every step written in Korean and English side by side",
+      "summary_zh": "围绕你的目标出一个个小练习来教会 Grok Bot，每一步都韩英对照",
+      "import": "https://x.ai/bot/47iKatUB_cpK1ynk04JZg",
+      "source": "https://x.com/plan2030/status/2107966973460218040",
+      "category": "personal-admin",
+      "tags": [
+        "tutorial",
+        "korean",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "fantasy-manager-arshiagm",
+      "name": "Fantasy Manager",
+      "author": {
+        "name": "Arshia",
+        "url": "https://x.com/arshiagm"
+      },
+      "summary": "Checks your ESPN fantasy teams twice a week, reads news and waiver reports, and proposes starts, sits and waiver claims",
+      "summary_zh": "每周两次看你的 ESPN 梦幻球队，读新闻和自由球员报告，给出首发、替补和捡人建议",
+      "import": "https://x.ai/bot/7IwivP0nZscnafCxkhpuC",
+      "source": "https://x.com/arshiagm/status/2107963435237687732",
+      "category": "personal-admin",
+      "tags": [
+        "fantasy-football",
+        "espn",
+        "sports"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "x-articles-you-missed",
+      "name": "X Articles You Missed",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/BrianRoemmele"
+      },
+      "summary": "Each morning sweeps the past day of X for substantial long-form writing on your topics and sends at most ten summaries in one message",
+      "summary_zh": "每天早上扫一遍前一天 X 上你关心话题的长文，最多十条摘要合成一条消息发给你",
+      "import": "https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV",
+      "source": "https://x.com/BrianRoemmele/status/2107974145778782683",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "digest",
+        "long-form"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "health-coach-hjackson2",
+      "name": "Health Coach",
+      "author": {
+        "name": "Hank",
+        "url": "https://x.com/hjackson2"
+      },
+      "summary": "Keeps workouts, meals and check-ins in one place, explains health claims in plain words, preps questions before appointments, and sends a weekly recap",
+      "summary_zh": "把训练、饮食和打卡放在一处，用大白话解释健康说法，看医生前整理好问题，每周发一次总结",
+      "import": "https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1",
+      "source": "https://x.com/hjackson2/status/2107967216075313326",
+      "category": "personal-admin",
+      "tags": [
+        "health",
+        "fitness",
+        "nutrition"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "aka"
+    },
+    {
+      "slug": "phone-receptionist",
+      "name": "Phone Receptionist",
+      "author": {
+        "name": "Cole",
+        "url": "https://x.com/SimplyColeB"
+      },
+      "summary": "Answers your calls, takes caller details and books them into open calendar slots, on xAI's phone plan or a free outbound Bland line",
+      "summary_zh": "替你接电话，记下来电信息并约进日历空档，可用 xAI 付费电话套餐，也可先接免费的 Bland 外呼线路",
+      "import": "https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX",
+      "source": "https://x.com/SimplyColeB/status/2107971762831114461",
+      "category": "customer-sales",
+      "tags": [
+        "phone",
+        "calendar",
+        "booking"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bland-agent",
+      "name": "Bland Agent",
+      "author": {
+        "name": "Cole",
+        "url": "https://x.com/SimplyColeB"
+      },
+      "summary": "Walks non-coders through connecting a Bland phone helper to their bot for errand calls and texts, ending with a guided test call",
+      "summary_zh": "手把手带不会写代码的人把 Bland 电话助手接到 bot 上，用来打跑腿电话和发短信，最后带你试打一通",
+      "import": "https://x.ai/bot/kTIbHezzQ-FNbcJ85zBBc",
+      "source": "https://x.com/SimplyColeB/status/2107971762831114461",
+      "category": "personal-admin",
+      "tags": [
+        "phone",
+        "bland",
+        "setup"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "website-highlight-video-maker",
+      "name": "Website Highlight Video Maker",
+      "author": {
+        "name": "Martin",
+        "url": "https://x.com/DaroFrostad"
+      },
+      "summary": "Walks your own website pages and turns them into narrated tutorial videos with zooms, highlights and captions, plus a vertical cut for social",
+      "summary_zh": "按顺序走一遍你自己网站的页面，做成带旁白、放大、高亮和字幕的讲解视频，另出一版竖屏社媒短片",
+      "import": "https://x.ai/bot/knt08ohuspBYhQ6ohXtKt",
+      "source": "https://x.com/DaroFrostad/status/2107971032351207747",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "website",
+        "tutorials"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "entrepreneur",
+      "name": "Entrepreneur",
+      "author": {
+        "name": "Hank",
+        "url": "https://x.com/hjackson2"
+      },
+      "summary": "Hunts side-business opportunities from a short brief, attaches evidence, risks and one next step to each, and grades its own past picks weekly",
+      "summary_zh": "按一句简短需求去找副业机会，每个都附上证据、风险和下一步，每周回头给自己之前的推荐打分",
+      "import": "https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR",
+      "source": "https://x.com/hjackson2/status/2107967069543075893",
+      "category": "research-briefings",
+      "tags": [
+        "side-business",
+        "ideas",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
+    },
+    {
+      "slug": "chief-administrative-officer",
+      "name": "Chief Administrative Officer",
+      "author": {
+        "name": "Hank",
+        "url": "https://x.com/hjackson2"
+      },
+      "summary": "Runs the household calendar and errand list, posts a weekday-morning summary, and routes travel, inbox and briefing jobs to your other bots",
+      "summary_zh": "管家里的日历和待办跑腿，工作日早上发一条概要，把出行、邮箱和简报的活转给你别的 bot 并追到办完",
+      "import": "https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k",
+      "source": "https://x.com/hjackson2/status/2107966933710901633",
+      "category": "teams-handoffs",
+      "tags": [
+        "household",
+        "calendar",
+        "errands"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-08",
+      "shelf": "raw"
     }
   ]
 }
