@@ -86,3 +86,26 @@ test("studio-door generation escapes summaries and preserves catalog text across
   assert.equal(readFileSync(path, "utf8"), doc);
   assert.equal(readFileSync(join(f.dir, "catalog.json"), "utf8"), catalog);
 });
+
+test("lint rejects stale or missing studio-door summaries in either README", (t) => {
+  for (const name of ["README.md", "README.zh-CN.md"]) {
+    for (const missing of [false, true]) {
+      const f = fixture(t);
+      const count = f.catalog.entries.filter((entry) => entry.shelf === "studio-door").length;
+      // Keep the other language current so each check exercises its own summary.
+      for (const readme of ["README.md", "README.zh-CN.md"]) {
+        const path = join(f.dir, readme);
+        const text = readFileSync(path, "utf8");
+        const summary = text.split("\n").find((line) => /^(Studio doors \(|工作室门（)/.test(line));
+        assert.ok(summary, `${readme}: missing fixture summary`);
+        const replacement = readme === name && missing
+          ? ""
+          : summary.replace(/\*\*\d+\*\*/, `**${readme === name ? count + 1 : count}**`);
+        writeFileSync(path, text.replace(summary, replacement));
+      }
+      const result = f.run("lint.mjs");
+      assert.equal(result.status, 1, `${name}: ${missing ? "missing" : "stale"} summary was accepted`);
+      assert.ok(result.stderr.includes(`${name}: missing or stale studio-door summary:`), result.stderr);
+    }
+  }
+});
