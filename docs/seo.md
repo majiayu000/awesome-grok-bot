@@ -107,10 +107,10 @@ Install pack for humans: `/workspace/downloads/seo-bot-crew-install.md`.
 
 **Routine when catalog grows**
 
-1. Edit `catalog.json` (+ README projections as usual).
+1. Edit `catalog.json` (+ projection lines in `catalog/en/<category>.md` and `catalog/zh-CN/<category>.md`, + category counts in both READMEs).
 2. `node scripts/lint.mjs` → must print `OK N entries`.
 3. `node scripts/build-pages-index.mjs` → refreshes `docs/catalog-index.json`.
-4. Commit both catalog and the regenerated index (and README if counts changed).
+4. Commit `catalog.json`, `catalog/`, the READMEs (counts) and the regenerated index.
 5. Push `main`; Pages redeploys from `/docs` automatically.
 
 `npm run build:pages` is an alias for the index builder.

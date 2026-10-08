@@ -1,0 +1,487 @@
+# Coding & shipping
+
+返回 [README](../../README.zh-CN.md)
+
+- [1000x Product Engineer](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) - 全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。 [Thomas](https://x.com/TomZarebczan).
+- [A11y Fix Queue](https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K) - 从审计转储排出优先的无障碍修复队列。 [yandymccutcheon](https://x.com/yandymccutcheon).
+- [Adversarial Security & Usability](https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ) - 对产品文档与代码做对抗式安全与可用性检查，用工单、可操作脚本与真实抓取. [cservincf](https://x.com/cservincf).
+- [AGENT ALpha](https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p) - 通用 Agent Alpha 模板，覆盖编码与运维类交付任务. [Joshua](https://x.com/Telephantix).
+- [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) - 盯着本机编程代理反复改，直到验收测试通过。 [dancingteeth](https://x.com/dancingteeth).
+- [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) - 多 Bot 工作区的清洁工，不让垃圾越堆越多。 [Chip](https://x.com/chiplay).
+- [agent-notify](https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc) - 免费的邮件提醒，只发给你自己，只在要紧时才发，读不了你的收件箱，一键部署到 Cloudflare. [Cyris](https://x.com/SudoLabsNZ).
+- [AgentStack](https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h) - AgentStack 平台助手，经 MCP 覆盖托管、DNA、App Studio 与已上线应用. [AgentStack](https://x.com/AgentStackTech).
+- [AI Agent Monitor](https://x.ai/bot/vyJij4Ld7g4egW8CAxA2f) - 盯你电脑上的 AI agent 层：MCP 服务器配置、agent 规则文件、AI 浏览器和编辑器插件、明文 AI 密钥. Ritvik.
+- [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) - 在 Grok Bot 里启动并监督 Claude Code 或 Codex 编码任务. [David](https://x.com/infdaze).
+- [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) - 让你机器上每一套 AI 编程工具都跟上版本。 [Alan](https://x.com/gheeunit).
+- [AI Security Advisor](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) - 给 AI 应用做防御加固建议，覆盖注入、工具滥用与泄漏. [zeuss_000](https://x.com/zeuss_000).
+- [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) - 没文档的问题就拿来做实验，直到摸出一套办法。 [Aman](https://x.com/2onism).
+- [Android / Play Build Engineer](https://x.ai/bot/dHEtlzVrG2zWzLwasCWII) - 把Godot 4游戏应用打到Google Play，默认AAB，调试APK可侧载，版本与渠道节奏写清楚. [VetTV Studios](https://x.com/VetTVStudios).
+- [anew](https://x.ai/bot/qtuoVRf5etpEVPNA29i7H) - 按短说明快速搭出简单免费网页. [round](https://x.com/round).
+- [API Docs Desk](https://x.ai/bot/N5kFPLSX_qhSa3CAesI7_) - 从规格与路由代码生成带出处的 API 端点参考. [Cypher0x9](https://x.com/Cypher0x9).
+- [App Store Expert](https://x.ai/bot/Mpb_RiXSfnIlwomR3C7JN) - 帮独立 iOS 应用走 App Store Connect、TestFlight、审核回复拒审修复与 ASO. [Christian](https://x.com/MeechYourGoals).
+- [App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV) - 上架前审计 iOS 应用，并指导 App Review 被拒后的回复. [stevederico](https://x.com/stevederico).
+- [Apple Dev](https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA) - 在你已配对的 Mac 上驱动 Xcode、模拟器和 Swift 构建。 [Baconbrix](https://x.com/Baconbrix).
+- [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) - 一句话描述应用，收回一个能跑起来的构建。 [Wayne](https://x.com/waynesutton).
+- [Architecture Diagram Desk](https://x.ai/bot/d75FNqjVjHD2pAvPrB7D7) - 从配置与设计笔记生成组件清单与 Mermaid 架构图. [Cypher0x9](https://x.com/Cypher0x9).
+- [Arr Bot](https://x.ai/bot/Vs67gzNnC-60nc_7j6Ker) - 在你的机器上搭建并调优私有 arr 媒体栈，含 Gluetun VPN、下载器、Prowlarr、Radarr 或 Sonarr 与 Jellyfin. [ThatRetiredDude](https://x.com/ThatRetiredDude).
+- [ASC Skill](https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta) - 一步步带着走完 App Store Connect 的 iOS 上架流程。 [Phil_Holland](https://x.com/Phil_Holland).
+- [Ash](https://x.ai/bot/Bt9VFHIMKmo5Psd039r_0) - 给自建服务器小团队的系统负责人，盯自托管后端和有风险的 PR，负责部署和环境配置，不让密钥出现在聊天里. [Will](https://x.com/willebrew).
+- [Ask Avery](https://x.ai/bot/zLVAUrY3p1C7PIx0aMoeR) - 编码与交付助手. community.
+- [Astra Afterburner](https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4) - 编码代理额度用尽时，把积压研究队列交给你闲着的第二套套餐。 [SacredFolio](https://x.com/SacredFolio).
+- [Astra Oracle](https://x.ai/bot/JocbRv3IMTJ5LmjX_qXvZ) - 经 Codex CLI 产出可粘贴的 PLAN 和 REVIEW，自己不写代码。 [bossriceshark](https://x.com/bossriceshark).
+- [Astro](https://x.ai/bot/c8KmU9HbRe5aeFpqlRaUP) - CCNP ENCOR 与 ENARSI 学习教练，每日大纲课含考点陷阱、记忆法与练习. [Great](https://x.com/Great_Sc0t).
+- [Automation Bot](https://x.ai/bot/zb80V9MKJ5MqPy5Woyqdx) - 编码与交付助手. community.
+- [Aysha - Chefe de Equipe](https://x.ai/bot/AV17qjtZBoRU3SaZxVAvQ) - 在 GitHub 上编排机器人与其它 AI 的队长，留面包屑，必要时才决策，零额外成本. [83castilhojr](https://x.com/83castilhojr).
+- [Baut](https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx) - 帮你把 Grok.me 游戏做出去，产品决策按真金白银来。 [XAmandaMoore](https://x.com/XAmandaMoore).
+- [Beowulf](https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko) - 一个从规划、写代码、测试到运维全包的搭档，按你写好的规则干活，花钱或对外发送前要你打字确认. [HexGodTurtle](https://x.com/HexGodTurtle).
+- [Beta Adoption Watcher](https://x.ai/bot/sfcf5d046a2784045938d) - 看谁真在用新功能 盯用量、列出已上手的客户，方便团队跟进. [SpaceX](https://x.com/DenisLabelle).
+- [BeTree](https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w) - 把分散在多个 Bot 上的计划收成一张活的关系图。 [Nicolas](https://x.com/NicoChauvin74).
+- [Billy Backup](https://x.ai/bot/NbmW9HRNQicgB0W8QS824) - 在本机之外建你可控的代码与文件备份，并做安静的夜间检查. [thesunofdog](https://x.com/thesunofdog).
+- [Bios](https://x.ai/bot/rb4wF7PpxM75G7eFB5yxS) - 生物与生物医学向导，并兼顾本地闭环水培与气隙监测. [TRV_Architech](https://x.com/TRV_Architech).
+- [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) - 直接查询 The Graph 子图，回答链上数据问题。 [Derek](https://x.com/data_nexus).
+- [Bot Builder](https://x.ai/bot/PbZjCYArwV393be1eCQRW) - 多机器人协作与编排助手. community.
+- [Bot Builder](https://x.ai/bot/MEkS4_qbQ0mbRdx90JCnc) - 带你搭新的 Grok Bot，少在空白页卡住. Joe.
+- [Bot Builder](https://x.ai/bot/ivmB2e0MSDspxlI-oHf-2) - 帮你搭一个真正好用的 Grok 机器人. [DCBK2LA](https://x.com/DCBK2LA).
+- [Bot Builder](https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy) - 按清晰职责、路由与核验设计专项 Grok Bot 与小舰队，用爬走跑推进，不做万能助手. [BeKs](https://x.com/beksvie).
+- [Bot Foundry](https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv) - 把想法或重复任务做成可发布的 Bot 模板，含人设、技能与发布文案. [Joseph](https://x.com/BTC_Yogi).
+- [Botsitter](https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g) - 确认其他机器人真做完，查产物、挑漏洞，只有过关才报完成. [AustinBrown1776](https://x.com/AustinBrown1776).
+- [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - 给 Grok Bot 模板做门禁审计，标出偷连与偷密风险。 [pcoxproductions](https://x.com/pcoxproductions).
+- [Brake](https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z) - 点名那个在默默吃掉每周用量的重复任务并让你停掉它。 [FantomBuildz](https://x.com/FantomBuildz).
+- [BTWIUseArch](https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9) - Arch Linux 桌面或服务器帮手，检查包缓存与体积，经你批准后再清理 pacman 或 yay。 [None](https://x.com/None).
+- [Bug Repro Desk](https://x.ai/bot/2LwTK7DV2YkOEwg7T0R6n) - 把工单或截图变成别的工程师能照做的预发环境复现包：精确步骤、预期与实际、环境和证据. Gordan.
+- [Bug Reproduction](https://x.ai/bot/s2d62197e15bd11a1bd63) - 给工程师能信的缺陷报告 接过帖子、在预发环境点同样路径、抓下现场，产出复现包. [SpaceX](https://x.com/DenisLabelle).
+- [Bug Triage Desk](https://x.ai/bot/9W6T6HTn3BYpD0oPzY2hj) - 缺陷分诊含严重度复现状态重复项与缺信息追问. [Cypher0x9](https://x.com/Cypher0x9).
+- [Build Scout](https://x.ai/bot/VDwk7u7DSMqFcj4z7VGGT) - 搜罗大家正在用 AI 做什么，把最好的发现包装成原型提案交给你或你的开发机器人去做，没有好东西就不打扰. [Bryan](https://x.com/Bwilson).
+- [Build With Clarity](https://x.ai/bot/ZhjX4KoYZ76tyA8w4K3m-) - 编码与交付助手. community.
+- [Buzzkill](https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh) - 写出四段式 Grokumentary，隔离前要你先点头。 [Knock](https://x.com/SuddenlyJon).
+- [Call Bot](https://x.ai/bot/PtnSyeoj7X_aCrZxAi7Lb) - 掌管电话与语音车道，含进线接待、受控外呼、健康看守，以及 Twilio、ElevenLabs 与语音 API 知识. [ChristianXCesar](https://x.com/ChristianXCesar).
+- [Camble Eugene](https://x.ai/bot/x5L_1O-3errfwp4yu4v7D) - 计算机工程席，覆盖固件、开板设计与无关厂商的 FPGA. [TRV_Architech](https://x.com/TRV_Architech).
+- [Car Bot](https://x.ai/bot/w6FkVLjehhyVw6yF8FBQn) - 日常特斯拉车库服务员，管状态、空调、锁车、充电与导航. [Kevin](https://x.com/kchau).
+- [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) - 第一性原理的游戏引擎和固件专长，给小体量爱好游戏用，只上真正能跑的最小栈。 Marcus.
+- [CASE](https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv) - 直接看你正在做的代码或设计本身，安静地指出实现和架构上的薄弱点. [Jono](https://x.com/ibuildthings).
+- [Cashtag Clash Bot](https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW) - 把杂乱的 $cashtag 堆整理成独立的股票/ETF/代币化/永续席位。 [PatNeville7](https://x.com/PatNeville7).
+- [ceo](https://x.ai/bot/_9zNszlWh8hVENOKjs26n) - 多机器人群的前门 CEO，把你的要求分给专家，缺席位就拉起，并汇总结果. [after_myth](https://x.com/after_myth).
+- [Change Check](https://x.ai/bot/Mrbh0MGmQOf6oG6DVqntP) - 读变更日志或发布页，给出重测、可等与忽略，从不升级部署或发帖. [Aleksander](https://x.com/Aleksander).
+- [Changelog Stand-down](https://x.ai/bot/T27nv3vIy89yKldqELWbn) - 每周一用白话汇总团队这周真正上线了什么。 [acolombiadev](https://x.com/acolombiadev).
+- [Changelog Stand-down](https://x.ai/bot/JiSR_7-w1GPQM0QWltAVq) - 每周一汇总你选定仓库里已合并的 PR 和发版。 [acolombiadev](https://x.com/acolombiadev).
+- [charlie](https://x.ai/bot/MxikU14J07UVf-1UV4VC-) - 自主软件交付的总体规划与证据协调员，帮你谈妥做什么，并为交付线编排批次. [Tomasz](https://x.com/Tomasz).
+- [Chief of Staff](https://x.ai/bot/oVSjxSlpnYLctgKv1PW3v) - 把活分给专家机器人，决策时才拉你，没事保持安静. [BeardWhoCodes](https://x.com/BeardWhoCodes).
+- [Chief of Staff](https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ) - 职业妈妈参谋，带专岗团队改流程与 IT，让事业和家都不垮. [Lina](https://x.com/Lina).
+- [Chief Security & Compliance Officer](https://x.ai/bot/Yx_UBwU10fFIIEI8Q_3u6) - 给独立应用工作室的安全与合规官，做威胁建模、密钥和权限审计，列出 SOC2 或 HIPAA 差距清单. [Christian](https://x.com/MeechYourGoals).
+- [CitationTrace](https://x.ai/bot/6HYl0hBFcUP9b_5yj-Hk6) - 把每周的 AI 引用和排名快照做成能直接给客户看的证明报告，给 AI-SEO 代理和品牌内部营销用. Robert.
+- [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) - 专职编码代理，所有软件活都丢给 Claude Code CLI 跑。 [Daniel](https://x.com/DanielZambrini).
+- [Claude Code](https://x.ai/bot/21qraGWAc4RJ3ra04boUK) - 编码与交付助手. community.
+- [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) - 把编程问题经 Mac 上的 Claude Code 跑向指定 GitHub 仓库. [SethBuildsAI](https://x.com/SethBuildsAI).
+- [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) - 把前端和架构活交给 Claude Code CLI，干完直接开 PR。 [Farzad](https://x.com/farzyness).
+- [CLI Engineer](https://x.ai/bot/Dt3hU-B3_c0q7P3c5LVzL) - 编程代理 CLI 工程师，方法来自真实提交，主张不等于观察，管进程所有权，等待不等于截止. [america_snail](https://x.com/america_snail).
+- [Client Board Ops](https://x.ai/bot/dCnuQGIkcRywkol7dlBpr) - 工作日客户看板自动化，早间把 Trello 同步到任务表，并邮件发状态. [MrGonzo1024](https://x.com/MrGonzo1024).
+- [Clip Bot](https://x.ai/bot/aMGcDD-vdyx8ZqeFvIIr1) - 从长谈话剪竖版社交短片，挑最强片段并加字幕. [CobusGreylingZA](https://x.com/CobusGreylingZA).
+- [Clippy 📎](https://x.ai/bot/tZFOB5nZMHj6O14WP2NgK) - 西班牙语文软件助手，设计、调试并集成应用与脚本. [sergiogrok](https://x.com/sergiogrok).
+- [Cloud Agent Orchestrator](https://x.ai/bot/s20b2c65ebeebb7362fa7) - 同时跑一堆云端 agent 不用盯 起任务、看状态、推卡住的，最后汇总报告. [SpaceX](https://x.com/DenisLabelle).
+- [Cloudflare](https://x.ai/bot/8PJjDLzjuEt3xfhKrtQKy) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [JS_Zao](https://x.com/JS_Zao).
+- [Cloudflare GitHub Site Bot](https://x.ai/bot/wuX9f9WZMmY8e1EQ_eB8A) - 新建或迁移站点到GitHub与Cloudflare Workers，从零账号走到SSH部署钥与上线. [Private User](https://x.com/xPrivateUser).
+- [Cluster Diagnostics](https://x.ai/bot/BrrgzXEeQAa_cRfNN3lSn) - 只读 OpenShift 与平台 SRE，凭证据诊断集群、Operator、Service Mesh 与 GitOps 漂移，并提议 PR. [tomppasalmi](https://x.com/tomppasalmi).
+- [Code Bot Marty](https://x.ai/bot/OFxQlvVIgUAnxN5hfCb9e) - 编码结对助手 Marty，帮你推进实现与排查. [Trimmer10117](https://x.com/Trimmer10117).
+- [Code Red](https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD) - 只停你自己的系统，先演练再确认的紧急急停开关。 [Knock](https://x.com/SuddenlyJon).
+- [Code Wrap](https://x.ai/bot/InLF1LwxW0DYkB4sMICGL) - 跨语言包一层或接 API，而不是一口气整仓重写. [Dominic](https://x.com/Dominicyoungix).
+- [CodeDR - ExamBot](https://x.ai/bot/qocgykNssAv63yc1kdNnN) - 对 vibe coding 出来的应用跑 CodeDR 考试并出报告。 [codedrai](https://x.com/codedrai).
+- [CodeFix Buddy](https://x.ai/bot/-3H90YMhn2cE-CO1jj3-2) - 编程助手，贴报错给修法，说需求出代码，问概念给白话讲解. [aibotmeme](https://x.com/aibotmeme).
+- [Codex](https://x.ai/bot/aUHkBXXwCzljCcTJSzBYw) - 薄封装真实 Codex 命令行，在你的电脑上跑编码或深研任务. [DocLibertarian](https://x.com/DocLibertarian).
+- [Codey](https://x.ai/bot/XoKZHbjmYSaOZO1Z4LmSf) - 谨慎的编程搭档，未经你点头不合并也不部署. [SergioTigera](https://x.com/SergioTigera).
+- [Cody](https://x.ai/bot/843EAX4tlSviLDLgq3G1B) - 只做 Cloudflare 运维，管 DNS、隧道、Access、Workers、Pages 与安全设置，改前先解释. [ThatRetiredDude](https://x.com/ThatRetiredDude).
+- [Comfy Workflow Buddy](https://x.ai/bot/7epNk1Xu5vSOdiwf9xgww) - 协助安装 ComfyUI、接 MCP，并搭自定义图像工作流. [cfryant](https://x.com/cfryant).
+- [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) - 用 \>80% 置信门槛审计粘贴的 PR diff，APPROVE / WARNING / BLOCK。 [v_burgos_](https://x.com/v_burgos_).
+- [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) - Confidence Gate Code Reviewer 的可导入分享模板，按说明完成首次只读任务后再开写入。 community.
+- [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) - 一次安装连接后，把所有 Grok Bot 席位收在同一屋檐下管理. [pauloglez90](https://x.com/pauloglez90).
+- [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) - 把正确的 Chrome cookie 导入共享电脑让浏览器机器人别卡在登录墙。 [scottxmetcalf](https://x.com/scottxmetcalf).
+- [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) - 在云电脑部署并养护 CLIProxyAPI，带 Cloudflare 隧道保活。 [licoycn](https://x.com/licoycn).
+- [critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) - 设计评论家，只看你的界面截图，只给意见。 [mamuso](https://x.com/mamuso).
+- [CSEd Research Mate](https://x.ai/bot/MXHLIzKJ1hOslFfTTr6do) - 计算机编程教育的研究队友，做文献扫描、学生作品质性编码、测评设计与研究方案. [orlandomisael](https://x.com/orlandomisael).
+- [CTO](https://x.ai/bot/CYDQcpG8Oa2aAQkWE7fn1) - 产品公司的 CTO：管怎么做，不管做什么，把工作派给云端代理而不是自己写代码. Blake.
+- [CTO](https://x.ai/bot/N_ziMli8oxzdFJgTKV3DV) - 个人 bot 组织的一级 CTO：通过仓库负责人把产品方向变成能跑的软件，控制组织规模，守住代码标准. Divyansh.
+- [CTO Bot](https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5) - 只读审计软件组织，经各平台专长 Bot 汇总成一份高管风险报告。 [Asm](https://x.com/asmDevsit).
+- [Cursor](https://x.ai/bot/zSKgg4Uce1QTwWRf9Q-vu) - WhatsApp 物流 SaaS 的 Slack 编程与运营队友，伙伴打字需求它落地. [DanielMed_2](https://x.com/DanielMed_2).
+- [Cursor Agent (Local)](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) - 在本机跑 cursor-agent 命令行，做实验和现场活。 [ryanthawks](https://x.com/ryanthawks).
+- [da j*bfinder](https://x.ai/bot/XAUki5gPKNwV8Fd6_FCaO) - 找实习、改简历、通宵投递，每天发一份汇总. Daniel.
+- [dag-helper](https://x.ai/bot/kelV8jM8UkGgFG79M1TCL) - 让多个编码代理守住同一仓库的约定、真相层与模型路由默认值，减少悄然漂移. [xsubwayratx](https://x.com/xsubwayratx).
+- [Dale](https://x.ai/bot/EEGUQoXtF1ViyFXzVrRnc) - 游戏建造器，把一行点子变成可粘贴的 Grok Build 开场与迭代提示. [Jim](https://x.com/Jim).
+- [Data](https://x.ai/bot/Sem0pTwrZmPJDU9WBAmHm) - 本地优先数据工程与模式智能，离线管道与本地向量检索. [TRV_Architech](https://x.com/TRV_Architech).
+- [Data Bot](https://x.ai/bot/L2XnvQ2nhHBxgisZ2w-rK) - 把表单导出/电子表格清洗成清晰的指标摘要。 [ColinMcDermott](https://x.com/ColinMcDermott).
+- [Dealer](https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu) - 只按 .faf 文件把仓库收成正反两面的技术栈卡片。 [wolfe_jam](https://x.com/wolfe_jam).
+- [Deck Updater](https://x.ai/bot/s2a289081613e5e361c79) - 散会时片子已经改好 通话中或刚结束就按调研笔记更新，下一步动作一并写进去. [SpaceX](https://x.com/DenisLabelle).
+- [Decoy Monitor](https://x.ai/bot/mgWu-HRKIWnUjI5B_TKRh) - 在你电脑上放经你同意的无害诱饵文件和金丝雀令牌，一有东西碰到就提醒你的入侵检测负责人. Ritvik.
+- [Demo builder](https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C) - 把一条 X 帖或其他示例链接做成可点可玩的应用演示. [Cybermike](https://x.com/Cybermike).
+- [Deploy Desk](https://x.ai/bot/7n0xNJQkJya50-WawGibg) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [DJDEEZ](https://x.com/DJDEEZ).
+- [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) - 用设计负责人的眼光审 AI 做出来的界面。 [inqusit](https://x.com/inqusit).
+- [Design PM](https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_) - 管组件注册表、接口契约、命名规范，以及从定义到开发之间的架构关卡. Ash.
+- [Devin](https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR) - 经远程 MCP 把编码活交给 Devin，可查进度和追问。 [naz3eh](https://x.com/naz3eh).
+- [Devin](https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA) - 负责贴近底层的活，含守护进程、桌面应用、GPU 管线和发布脚本。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
+- [Devin Op](https://x.ai/bot/6E_utcgAyzss28fX7_tJs) - 本地优先 DevOps，可复现构建、无根容器与离线节点. [TRV_Architech](https://x.com/TRV_Architech).
+- [Dex](https://x.ai/bot/0zsKkmrDyKyTwLneI5a4d) - 给 AI Insights 风格 Substack 写稿，研究 AI 新闻与 Product Hunt 工具并起草未刊发期. [dariusgaynor](https://x.com/dariusgaynor).
+- [Dexter the home lab boss](https://x.ai/bot/wsyMavZM6PYzV3lgklehG) - 先摸清家庭实验室拓扑，建议 Grok Bot 怎么接各系统，再按需拉起专长机器人. [RAMcgi](https://x.com/RAMcgi).
+- [Director of Runtime Operations](https://x.ai/bot/9i6htFaUWNFg6NN5do8n_) - 本地优先项目的运行时运维长，看构建、沙箱与发布卫生. [TRV_Architech](https://x.com/TRV_Architech).
+- [Directory Backlink Builder](https://x.ai/bot/ylhq0i8pUOGWzSNuxWvCE) - 每日循环把 SaaS 提交到相关软件目录，优先免费易上的. [scottvayner](https://x.com/scottvayner).
+- [DirTech](https://x.ai/bot/Fya-gFsQPOlJzJ862syni) - 技术部长席，管团队技术与技术教育，主张必须可核. [TRV_Architech](https://x.com/TRV_Architech).
+- [Disk Janitor](https://x.ai/bot/v9qOXYXnHXvr_XN7fPZIE) - 按需清理磁盘：安全删掉废弃的 git worktree 和克隆，报告腾出了多少 GB. [Mujeeb](https://x.com/chiefjeeb).
+- [Distilled Lauren Tan](https://x.ai/bot/LLo2lExIUZY2rKFsYuPh9) - 按 Lauren Tan 公开作品的风格做规划和 PR 评审顾问，自己读 diff，对照你的完成标准提意见. [Stephen](https://x.com/ssbrouhard).
+- [Dividend Capture Desk](https://x.ai/bot/cijom_J6Ub9miyE0wfirn) - 工作日累计与除息桌，菜单与细节来自 Seeking Alpha 评级、Market Chameleon 等. [jb_equities](https://x.com/jb_equities).
+- [Docs Auditor](https://x.ai/bot/s1025e1ebe0b11f048bd4) - 揪出跟产品脱节的文档 拿帮助中心和内部笔记比上周发了什么，标出过期页并起草修订. [SpaceX](https://x.com/DenisLabelle).
+- [dr buzz](https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp) - 帮你造其他 Bot，每个只干一件事并有固定语气。 [Talalakkari](https://x.com/Talalakkari).
+- [Dr Disk Clean](https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO) - 先盘点拥挤的 Linux 机器，你点名路径才删。 [old_pgmrs_will](https://x.com/old_pgmrs_will).
+- [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) - 替你搭建其他 Grok Bot。 [Lauren](https://x.com/poteto). 说明: [templates/dr-eggbot](../../templates/dr-eggbot/).
+- [dr eggbot](https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW) - 设计高质量 Grok Bot，并把大活拆成更小的兄弟 Bot。 [brandonsbay](https://x.com/brandonsbay).
+- [dr eggbot](https://x.ai/bot/_jOdbfkB16zxu7MRcmReE) - 先问几道偏好，再帮你设计并创建高质量 Grok Bot. [poteto](https://x.com/poteto).
+- [Dr Web LP](https://x.ai/bot/xM153pKfXPLWagLi_O1vR) - 给它一张网页图，它就用 HTML 和 CSS 把那页搭出来。 [old_pgmrs_will](https://x.com/old_pgmrs_will).
+- [Dr. Eggbot (Bot Designer)](https://x.ai/bot/DUfaLelLJRtsDDAdJAcud) - 设计职责单一、边界清晰的 Grok Bot。 [ColinMcDermott](https://x.com/ColinMcDermott).
+- [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) - 帮你逆向恶意软件、固件和漏洞研究用的二进制。 [drbinaryai](https://x.com/drbinaryai).
+- [Ducky](https://x.ai/bot/HxOUGTNaeLbJIqT_XTzqX) - 橡皮鸭搭档，四个澄清门槛过了才给修复建议. [EdHeltzel](https://x.com/EdHeltzel).
+- [Edge Eddie](https://x.ai/bot/6ifVQ1boABiMa6l0mODQW) - Cloudflare 边缘运维，管 DNS/SSL、Access、WAF 与机器人防护. [1KFlyr](https://x.com/1KFlyr).
+- [Engineer](https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv) - 外环工程经理，拆活、交给构建代理、验收并带回凭据，默认只出草稿，不擅自提交合并。 [Andrew Kittridge](https://x.com/andrewkittridge).
+- [Engineer](https://x.ai/bot/tGSpx-ZmfMi63a0GRy8FS) - 工程与工程技术专席，查顶尖工科与官方来源. [TRV_Architech](https://x.com/TRV_Architech).
+- [Engineering Lead](https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh) - 负责闭环的工程主管：把工作拆给 Cloud Agent，追 CI 和评审，工作日节奏推进. Lauren Tan.
+- [Engineering Loop PM](https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG) - 按开发、诊断、部署运转工程环，设计未完成不放行. [ashvinn](https://x.com/ashvinn).
+- [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) - 守住你指定仓库的合并门槛，只把真正要拍板的问题往上抛。 [andreleibovici](https://x.com/andreleibovici).
+- [Estack](https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D) - 编码管家，开工前先把目标与完成线钉死。 [robannand](https://x.com/robannand).
+- [Evan](https://x.ai/bot/mtyGarJ8qbIzFBmYg4cVx) - 审英文草稿与聊天，建议更清楚更自然的措辞，面向非母语写作者. [HissyNC](https://x.com/HissyNC).
+- [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) - 东西一坏，就把刚发生的改动摊给你看。 [liam_fallen](https://x.com/liam_fallen).
+- [Exo](https://x.ai/bot/nSQJRVPm7Pj8rKtAMRXAU) - 你在 Grok Bot 上的外骨骼，从 markdown 真源跑一天，带着证据作答. [CamiloPossol](https://x.com/CamiloPossol).
+- [Expert Networks](https://x.ai/bot/5dfJQ9M4eQVrXB_3TzAqK) - 帮你在 GLG 等专家网络报名顾问，催未完成申请，并把可咨询时段与日历对齐. [VestlessVC](https://x.com/VestlessVC).
+- [Fable 5.1 Oracle](https://x.ai/bot/tLSg4HxepSclMqbZUTRnX) - 把怎么做想清楚并检查成品，自己从不写代码。 [bossriceshark](https://x.com/bossriceshark).
+- [Fabrication](https://x.ai/bot/jQ4VpRUAOS4awmiDlwI6n) - 把 CAD 零件推向拓竹打印，上机前先检查. [JonathanSayle](https://x.com/JonathanSayle).
+- [Failed Link](https://x.ai/bot/ZQbeC5vIV2F8jCLVzxZAg) - 替换失效的 Orange Web Design Bot 链接，只帮你做 Vercel 与 Cloudflare 建站. [Dominic](https://x.com/Dominicyoungix).
+- [Farm](https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa) - 把重编码活扔到自己的机器上，聊天里只带回结果。 [mpieras](https://x.com/mpieras).
+- [Feature Request Tracker](https://x.ai/bot/s229dcca5bc0eaa01b09c) - 记住需求是谁提的 从 Slack 和通话里挖出来，挂到客户身上，让规格有真实出处. [SpaceX](https://x.com/DenisLabelle).
+- [Feedback](https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU) - 把你已确认的 bug 整理成规范报告，提给对的团队。 [NYTEMODE](https://x.com/nytemodeonly).
+- [File Change Monitor](https://x.ai/bot/hx5ACy3v6cN9dwyOje57y) - 盯你电脑上的重要文件（hosts、SSH 密钥、shell 配置、系统二进制和驱动、投放目录）有没有被篡改. Ritvik.
+- [Finance Bot](https://x.ai/bot/n-LVavRHTPJnFnBS50XTk) - 只读扫邮箱、只追加记账，把收支写入 Google 表格并带硬安全闸. [John](https://x.com/John).
+- [Firefox for Bots](https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg) - 在机器人电脑上装好 Firefox 与 Chrome 并存，带 uBlock、密码同步、共享登录和自带 VPN. [Garrett](https://x.com/garrettRandom99).
+- [flow-writer](https://x.ai/bot/i7hwU3YzCKt_27dK9aCr4) - 把流程说明变成好改的流程图. [Code](https://x.com/CodeSolutionsIL).
+- [Flowsery](https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k) - 把会话录像收成一份按优先级排的修复清单。 [tarasshyn](https://x.com/tarasshyn).
+- [Flutter Mobile Engineer](https://x.ai/bot/9Hc4t4Ph2S82xjhJBc-_d) - Flutter 和 Dart 工程支持：PR 评审、FVM 优先的测试计划、iOS 和安卓发版规范. Gordan.
+- [Food Truck Marketplace CTO](https://x.ai/bot/6DuTZ4NrJazU1YO4Llcx0) - 餐车二维码点餐产品的技术联合创始人，帮你上线修问题，不暴露私有技术栈. [Alexzander_ud](https://x.com/Alexzander_ud).
+- [Footage Fran](https://x.ai/bot/wpCpW4x3y4KcXPuX7Ya7h) - 把杂乱视频素材整理成可剪的文件夹与命名结构. [Frank](https://x.com/FrankFindsOut).
+- [Forecaster.biz Top 3 Buy Seasonality](https://x.ai/bot/Vei5asTtvm04HbJehqJER) - 从 Forecaster.biz 拉季节性并画出锁定的多年买入卡片. [Corey](https://x.com/Corey).
+- [Forge (dev factory)](https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd) - 把你签过字的规格丢进去，早上来收 pull request。 [DanKillenberger](https://x.com/DanKillenberger).
+- [Forge (Template Foundry)](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) - 丢一个关键词进去，吐出一份能直接用的 Grok Bot 配方。 [rryssf](https://x.com/rryssf).
+- [Founder Copilot](https://x.ai/bot/W_cxXC4RtYabFbl6rFg9l) - 独立创始人的 AI 联合创始人，晨报覆盖邮件 Stripe Vercel 与线索. [marcos](https://x.com/marcos).
+- [Frame](https://x.ai/bot/ChQQ0_tBNki9hZWJo0GjQ) - 咨询面试与真实客户工作的策略案例副驾，跑苏格拉底演练、MECE 问题树、发现到工作计划与红队. [gradycwallen](https://x.com/gradycwallen).
+- [Framecraft](https://x.ai/bot/rT68Jw98kUdeABmvFobN5) - 产品设计师的Figma搭建席，用组件库、类CSS自动布局与文件里量到的间距，不靠记忆瞎估. [stevenvillarino](https://x.com/stevenvillarino).
+- [Fresh Eyes Product Auditor](https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd) - 用新客视角走查站点或应用，按所见排出优先 UX 修复并给出可改的改法示意. [Ev](https://x.com/Evoputa).
+- [Frodo](https://x.ai/bot/5wHp86g1AJqgZ-V8-RX3H) - 舰队密钥填报经纪人，同伴请它代填登录凭据。 [CodeSolutionsIL](https://x.com/CodeSolutionsIL).
+- [Frontend Engineer](https://x.ai/bot/r19FS9qc6qmUP9FBqjq_v) - 做出像设计工作室出品而不像模型生成的 Next.js 和 React 界面. Ashish.
+- [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) - 每天一份核过的简报，覆盖十家前沿实验室的发布。 [Amina](https://x.com/GuleidAmina).
+- [Game Builder](https://x.ai/bot/iaOrz78m_w7I90kusc5ia) - 做出可离线打开的小游戏和迷你循环，有胜负与可选积分，不做路演稿. [Eric](https://x.com/EricBuess).
+- [Game playtester](https://x.ai/bot/IJIZ0ujslWR-4CkIcpU_H) - 以访客身份真玩一局你的网页游戏，给出吸引力评分、问题列表和最该改的地方，附截图. [Daniel](https://x.com/tometo_000).
+- [Garbage Collector](https://x.ai/bot/QZ8xL9TMkYhyP4Puamsh_) - 找出能删或能简化的代码，不改变功能，逐条解释，你要时再改. Seth.
+- [Gardener](https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp) - 用可证明、行为不变的小 PR 清掉死代码。 [Tyler](https://x.com/tylerklose).
+- [Gen X Saver VM](https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m) - 运行省积分向导：A 槽是你的电脑（最省），B 槽是云端，C 槽是这个 bot 自己的电脑. Odd&Entertaining.
+- [Gen X Saver Wizard](https://x.ai/bot/Qt13laWoRw-3hLVavR-jd) - 带首次向导的省积分工具：图片、视频、长稿和长代码先走本地机器，再走云端. Odd&Entertaining.
+- [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) - 未知父母与身份谜题的自主谱系研究伙伴. [JeffWise953718](https://x.com/JeffWise953718).
+- [Github Bro](https://x.ai/bot/V2kkrme1lYb3NwIulGTTd) - 工作日早上汇总某个 GitHub 仓库的新动静，再附一段产品简报。 [kaushikimmadi](https://x.com/kaushikimmadi).
+- [GitHub PR Desk](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) - 工作日汇总各仓库 PR、议题与评论并按需排序. [MichaelGannotti](https://x.com/MichaelGannotti).
+- [GitHub Steward](https://x.ai/bot/Qeze7XyZGZUdnkOmcupIv) - 从聊天替你管GitHub，建工作看板、理清文件夹并推进议题与PR. [ambientstudio24](https://x.com/ambientstudio24).
+- [Google Play](https://x.ai/bot/ZPLL-JcuEjP7_vtM-TFyV) - 替你打理 Play 管理中心，从应用记录、商店页到数据安全、订阅、测试轨道和开发者验证. [Christian](https://x.com/MeechYourGoals).
+- [GPT Astra Oracle](https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv) - 用第二个模型为 Cursor 云代理做计划与评审包. [nathanromano](https://x.com/nathanromano).
+- [GRIDSTORM Squad Mate](https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4) - 几何战争风格街机队友，可与你的机器人同场. [TheMattyFG](https://x.com/TheMattyFG).
+- [Grimoire's Tome & The Grim Council](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) - 带五十项技能的编程巫师，外加二十人顾问会。 [NickADobos](https://x.com/NickADobos).
+- [Grip](https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA) - 教练业余机械臂完成示教、回放与微调. [MooneyMillions](https://x.com/MooneyMillions).
+- [Grocery · Clip & Cart](https://x.ai/bot/0JEs5P-XFbJw6fSsticl8) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [BC](https://x.com/crofty_x).
+- [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) - Grok Bot 专家，帮你设计与调试其它机器人. [_inady_](https://x.com/_inady_).
+- [grok build](https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL) - 在代理机上跑真正的 Grok Build CLI，用最大力度做应用、代码与深研。 [Teslaconomics](https://x.com/Teslaconomics).
+- [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) - 给真正的 Grok Build 命令行单独一台机器干活。 [BillZanetti](https://x.com/BillZanetti).
+- [Grok Build](https://x.ai/bot/Qu3t1-iN-6IbZvwqn-Dqe) - 在代理电脑上以最大力度跑真正的 Grok Build CLI，做应用、代码与深度研究，不只靠聊天模型作答. [ixef](https://x.com/ixef).
+- [Grok Build](https://x.ai/bot/-HSQcnXiifDMwXqkgMix9) - 薄封装真实 Grok Build 命令行，做编码、应用、脚本、仓库或深研. [DocLibertarian](https://x.com/DocLibertarian).
+- [Grok Build](https://x.ai/bot/ENDVHWRcL1pcCZAy4whPJ) - Orbital Forge 团队包里的本机 Grok Build 工位，专跑本地构建。 [occupymars___](https://x.com/occupymars___).
+- [Grok Build](https://x.ai/bot/ueh9gw-9jtl-VjwQ1m0Ph) - 在代理电脑上跑真 Grok Build CLI，做应用、代码与深度研究. [SandeshAndrade](https://x.com/SandeshAndrade).
+- [Grok Build](https://x.ai/bot/wnFlIE6YpskdUekfkkwFO) - 在代理电脑上以最大力度跑 Grok Build CLI，做应用、代码与深度研究. [zac70182](https://x.com/zac70182).
+- [Grok Build (client sites)](https://x.ai/bot/iwa3WaHZn385jfZrsQngL) - 搭客户站，部署 Vercel 预览，再把链接邮件发给客户。 [beaudenison](https://x.com/beaudenison).
+- [Grok Build (preview links)](https://x.ai/bot/AY2y4oPL_VgcttCt8OFqm) - 另一路 Grok Build，专把客户站做成可预览链接。 [DAssetBuzz](https://x.com/DAssetBuzz).
+- [Grok Build Manager](https://x.ai/bot/qah_D3sjhwC3O9WMQO9C9) - 在 Bot 电脑上对单个 GitHub 仓库跑 Grok Build，先计划再出草稿 PR. [Fan](https://x.com/GrokBotRadar).
+- [Grok Code Mac Controller](https://x.ai/bot/ETBwKJvcSacaIyilrAz44) - 通过 tmux 注入在 Mac 上协调 Grok Code Build 编程代理，适合 Mac Mini 或 MacBook，你仍掌方向盘. [damienmurtagh](https://x.com/damienmurtagh).
+- [Grok Telegram](https://x.ai/bot/3EyXrWLkGfi4SG-dMy427) - 经 webhook 把 Bot 接到 Telegram 私信，自身不调模型. [siraustin](https://x.com/siraustin).
+- [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) - 给共享 Linux 电脑做健康检查磁盘服务和指定软件包更新。 [old_pgmrs_will](https://x.com/old_pgmrs_will).
+- [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) - 编码工头，把任务分给沙箱代理并先审 diff 与测试. [Mahmoudnia95](https://x.com/Mahmoudnia95).
+- [Grok's Green Thumb](https://x.ai/bot/I2liUP05oDxWsJ4l39JDL) - 看土壤探头读数修庄稼的园艺助手，可选 Optimus 手指底座或手机测量，拍照查水、光照和虫害. [Chris](https://x.com/clterman).
+- [Grokologist](https://x.ai/bot/8vdHXq66kVvVlbACd-IDL) - 把 Wormsign 收成两张意图图，追动机不追氛围。 [Knock](https://x.com/SuddenlyJon).
+- [GrokTheVote](https://x.ai/bot/sjCizYYsBpguif5HxNObk) - 输入邮编得到无党派选票追踪，覆盖候选人与议题，附每日新闻、图表与截止日期. [Better Call Claude](https://x.com/freelegalforall).
+- [Growth Eng](https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1) - 为已登记增长实验做产品改动，藏在特性开关后，以小而可审的 PR 交付。 [JaySahnan](https://x.com/JaySahnan).
+- [GSAP](https://x.ai/bot/reahN5D6W2dIiCKd4MuF7) - 按官方 GreenSock GSAP 实现动效，含时间线与 ScrollTrigger。 [mrflmnlNFT](https://x.com/mrflmnlNFT).
+- [HackBot9000](https://x.ai/bot/RHAVARMIZex-MMDUrOUbW) - 审查机器人写的 PR 与临上线应用，查过期依赖、假包、脆弱鉴权与缺失控制. [fulg0re](https://x.com/fulg0re).
+- [Hardening Commander](https://x.ai/bot/JBtMhvtYo2R1aky5s6xXK) - 带领五个 Grok Bot 专员检查你 GitHub 仓库里的容器和 Kubernetes 安全问题，决定修什么. Ritvik.
+- [Hatch](https://x.ai/bot/o8hID4-jKPlA8QQQH5K69) - 先问几个偏好，再帮你设计像样的 Grok Bot。 [littletechbird](https://x.com/littletechbird).
+- [Hatch](https://x.ai/bot/pUh2vgtmx-vszqjz6EsUB) - 先问几句偏好再用 CreateAgent 设计并创建高质量 Grok Bot. [TechHandPro](https://x.com/littletechbird).
+- [Hazelnut Guy](https://x.ai/bot/8ESqqm3pGG-rS2zP-jcoT) - 面向 agent 的 Deno 后端 hazelnut/core 使用向导，覆盖快速上手、资源定义、MCP 入口、鉴权和运维. [Conan](https://x.com/conanhazelnut).
+- [Hearthstone Deckbuilder](https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm) - 炉石传说组卡器，审对局视频、评估卡牌与环境，并给出可打套牌. [Wardonis](https://x.com/Wardonis).
+- [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - 用现代 Java 写和审 Helidon 4 代码。 [TheSurenk](https://x.com/TheSurenk).
+- [Helloitsoctocat](https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ) - 把 main 合进 master 的仓库整理顺，并记下 Graph API 变更。 [helloitsoctocat](https://x.com/helloitsoctocat).
+- [Hermes](https://x.ai/bot/Ze_ioJPqoYyKES0-yYNHy) - 猎合法短期现金、创业额度与免费领取的金钱代理，也盯账单泄漏. [Tyler](https://x.com/tylerjharden).
+- [Hermes API Fleet](https://x.ai/bot/5KLpaL-JIM2q629kbTh5L) - 在私有 Tailscale 网上用原生 HTTP 与 Hermes 智能体对话，作为舰队唯一通信路径. [Shagghie](https://github.com/shagghiesuperstar).
+- [Hermes SSH Relay](https://x.ai/bot/NVF3Rx9T7jkQPsqYjeDn-) - 在还没有 HTTP 入口时，经 Tailscale SSH 连上 Hermes 代理. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Home Projects](https://x.ai/bot/wWvhOkDZkTWn8HG5YcT09) - 为大DIY项目如户外厨房列材料单，在预算内询价，并排出施工顺序. [RICOSAIZ1](https://x.com/RICOSAIZ1).
+- [Hopper](https://x.ai/bot/_zMsp35NS2zl-Kp1uIegB) - Funnel.io 到 BigQuery 的接入助手，克隆付费搜索与社交流水线. [Zach](https://x.com/deaguiarza).
+- [Hotkey Lookup](https://x.ai/bot/KhXWuSeezuQSgDJViuh9C) - 说出任意应用名，就从 Hotkey Atlas 拿到它的快捷键速查表 SVG，没有收录就提交请求并在做好后通知你. [Kevin](https://x.com/KevinTweets1).
+- [HTML GameDev](https://x.ai/bot/ZHNsPcOU8ej_E7VNElxD0) - 随时待命的 HTML 游戏修丁员，把玩家改动请求直接推上线。 [StreamTeem](https://x.com/StreamTeem).
+- [Hub](https://x.ai/bot/oCTQJbL7dNq7DP4MnMeaH) - 主权应用的面向观众枢纽，看前端与路由，从不持钥. [TRV_Architech](https://x.com/TRV_Architech).
+- [Huffer](https://x.ai/bot/fl7Di0Gy6_UJLjdvWxnVR) - Hugging Face 专家，管 Hub 模型、数据集、Spaces 与推理提供方. [thebesteric](https://x.com/thebesteric).
+- [Hydra — Network Security Advisor](https://x.ai/bot/OvKvXzj7OOyEGh_jwNaBW) - 仅防御的网络安全顾问，用开源工具硬化你的网络与仓库. [TRV_Architech](https://x.com/TRV_Architech).
+- [Hypr Logo Cursor](https://x.ai/bot/ebn2zbzDw8SABcQGPUXjp) - 给 Omarchy/Hyprland 装可缩放的官方像素水滴光标，尺寸 24 到 48，不依赖第三方光标包. [Tim](https://x.com/tim_sonner).
+- [Idle Tees Security](https://x.ai/bot/u8jzGXHU3FHU0jQkDnYqW) - 放置或增量游戏的安全专家，存档完整性、客户端信任与反作弊. [MonsieurKas](https://x.com/MonsieurKas).
+- [IDS Commander](https://x.ai/bot/OZ0yDXFEXa2543pqGmbhb) - 带领一组 Grok Bot 盯着你的 Windows 电脑找入侵迹象. Ritvik.
+- [Image Hardener](https://x.ai/bot/441XDiyC7uaji-U66ci-3) - 审查你 GitHub 仓库里的 Dockerfile 和容器镜像：弱基础镜像、未固定标签、root 用户、缺失的 ignore 文件. Ritvik.
+- [Image to video](https://x.ai/bot/7jZqA6bCx2hGf2ti0CygL) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [degen4lyfe_](https://x.com/degen4lyfe_).
+- [iMessage bot](https://x.ai/bot/_e4a8viXo8YiLjdUv4fqH) - 围绕「iMessage bot」的工作流助手，按说明完成首次只读任务后再开写入. community.
+- [Import Bot](https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S) - 把你在 Claude Cowork、Codex、ChatGPT、OpenClaw 和 Hermes 里的设置搬进 Grok Bot. Shub Gaur.
+- [Incident Postmortem Desk](https://x.ai/bot/dEEWHz6Q_jLLCsIGIk4hD) - 带出处的事故时间线、无责复盘与标注根因. [Cypher0x9](https://x.com/Cypher0x9).
+- [Insurance Agent](https://x.ai/bot/ZyfbeSKKsHi6mL8bJjg93) - 为你而不是保险公司服务的个人保险分析，帮你读懂保单并找缺口. [jurodme](https://x.com/jurodme).
+- [Interaction Designer](https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1) - 先把流程和每个页面状态定下来，再谈视觉。 [UCDOps](https://x.com/ucdco).
+- [Invention Detective](https://x.ai/bot/61rNnnNcP2_LKaz8FXw7P) - 盯你点名的 GitHub 仓库，找出可申报的技术发明候选供你确认. [leuner](https://x.com/leuner).
+- [InvoiceMatch Recon Bot](https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h) - 小商家的应收对账：贴上银行入账和未结发票，拿到匹配结果、异常标记和可导入 QuickBooks 或 Xero 的 CSV. Robert.
+- [iOS Bot](https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG) - 在配对 Mac 上把 Swift 或 SwiftUI 项目从草图推到 TestFlight，上架前必须你点头. [JaimeBubblehead](https://x.com/JaimeBubblehead).
+- [jason](https://x.ai/bot/9X-V8im-kPPFgybviXkd6) - 搞笑 bot：开口就说「hey i'm jason」，然后只聊投 Uber 种子轮. Luis.
+- [Jev](https://x.ai/bot/JQ4PSTdVDZdIOa8qwfP0G) - 给 Jev 流水线加上分类、严重级别与是否通过的分拣门禁. [NeuralCatAccel](https://x.com/NeuralCatAccel).
+- [Jev](https://x.ai/bot/DSq_IJgpo9DZ9qcVcRNsi) - 用可见 Chrome 和 TypeSafe Jev 做网页自动化，动作表空了才退回截图操作. [shengguo7051](https://x.com/shengguo7051).
+- [Jev for computer use](https://x.ai/bot/gQD_ZhGhJ_e1aLHc3RPOT) - 用可观看的 Chrome 跑 TypeSafe Jev 做网页自动化，卡住时再回退到截图操控. [aris_grivas](https://x.com/aris_grivas).
+- [Jev router](https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX) - 用快速校准分类器做路由、紧急度、标签与评分，昂贵模型只在必要时上阵. [ColinMcDermott](https://x.com/ColinMcDermott).
+- [Jevify](https://x.ai/bot/BQZO1Huih7uXStkjQ12ld) - 把分类打分检查类 Grok Bot 收成 TypeSafe Jev Fast，做批量判定. [bartasurba](https://x.com/bartasurba).
+- [Jevopus](https://x.ai/bot/DuR7hXCsNBslEHmUG1vOZ) - 在自有电脑上调度ChatGPT Codex与Claude Code座位，挑最合适的再核对结果. [0xCodila](https://x.com/0xCodila).
+- [Job Proposal Scope Guard](https://x.ai/bot/PVeqmKJw8-bSz57_EdL9r) - 代理与客户项目的提案范围守卫，对照售出范围与中期变更，早标范围膨胀. [JavaBeanAI](https://x.com/JavaBeanAI).
+- [Job Search](https://x.ai/bot/uzOaAuIWYVjVAlujdOOPx) - 工作日侦察高级远程 AI 或生成式 AI 工程岗位，发短推荐并跟进. [mehdizare](https://x.com/mehdizare).
+- [Jobber](https://x.ai/bot/-R0eFUQNM53wZPBVYU3EQ) - 帮上门服务公司接 Jobber 官方 GraphQL OAuth，只问 Client ID 与 Secret，并指导回调设置. [bprintco](https://x.com/bprintco).
+- [Judd the Bug](https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL) - 跨 MCP、Sentry CLI 和后台查问题，带回带出处的结论和动作。 [sergical](https://x.com/sergical).
+- [Keel](https://x.ai/bot/ihO8Wlq7PACw6fUF-AhGq) - 阻止干活的机器人自己给自己打分，你写冻结章程，Worker干活，Keel只验证据. [the_Arow_H](https://x.com/the_Arow_H).
+- [Kindling](https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_) - 把一句话的应用想法收成可直接粘贴进 Grok Build 的提示词。 [FantomBuildz](https://x.com/FantomBuildz).
+- [Kinesis Portal Bot](https://x.ai/bot/-GgufM3GkZclfn9PuI17_) - 动手管 portal.kinesis.network 上的机器、Docker 应用和闲置硬件。 [4SimonSays](https://x.com/4SimonSays).
+- [Kubernetes Hardener](https://x.ai/bot/IVmcj7aFV-wtMA19P3G4Q) - 审查 GitHub 仓库里的 Kubernetes 清单、Helm chart 和 kustomize 文件的危险默认值，给出精确 YAML 修复. Ritvik.
+- [Kun](https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE) - 持续更新的首席工程师助手，汇总 Kun 的帖子视频与开源内容. [kunchenguid](https://x.com/kunchenguid).
+- [Last Stop](https://x.ai/bot/3k6PxNav782x0cEE3iD7P) - 维护公开的 Grok Bot 地图，并把新发现沉淀成技能. [FantomBuildz](https://x.com/FantomBuildz).
+- [Lauren Tan](https://x.ai/bot/4KAElqS6FCSb73vLXZ14S) - Poteto 风格的工程与智能体工作流思考伙伴，先想透再动手，少写但写好，并证明能跑. [Saad](https://x.com/saadkamal).
+- [LevelUpWorld Speech OS](https://x.ai/bot/Amk304VOCMu6c5ZlaXy0L) - 给整支机器人舰队加上可说可听的语音层。 [LevelUpAIDIS](https://x.com/LevelUpAIDIS).
+- [lgtm the pr closer](https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo) - 每天早上醒来，把开着的 pull request 清掉。 [Claire](https://x.com/clairevo).
+- [Liftoff](https://x.ai/bot/ySMQW544mSpZFty-DaGml) - 上线前的把关清单，测正常流程和失败流程、数据访问规则和泄露的密钥，凭证据判定能不能上线. [D'Artagnan](https://x.com/the_Arow_H).
+- [Likenor PM](https://x.ai/bot/QQTKC4P0h1TNHBzUO0o31) - GitHub 项目板的交付桌项目经理，管一个在审 PR、完成条件门、Copilot 同分支修复，以及便宜安静的唤醒. [AndToll1234](https://x.com/AndToll1234).
+- [Linear Development Orchestrator](https://x.ai/bot/r5mRwGq1xZuq5NsNUoOn-) - 把 Linear 工单或 GitHub issue 变成并行开发：独立云端代理各走一个分支，带测试和评审. Sultanov.
+- [Lingxi's Engineer Bot](https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j) - 放手的工程主管拉起云端写码代理并只让你点合并。 [lingxi](https://x.com/lingxi).
+- [Lingxi's Engineer Bot](https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_) - 放手型工程主管，挂上你点名的仓库云代理，三十分钟节奏盯 PR，只在关键处问你。 [Lingxi Li](https://x.com/lingxi).
+- [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) - 丢给它文件、文件夹或 Bot 产出，收回一条可分享链接。 [adamludwin](https://x.com/adamludwin).
+- [Lite Intel Fetch](https://x.ai/bot/FQRA5tERWsasaQGIZmBl_) - 去拉 Base 上未付的 buy_intel_pack HTTP 402，把 JSON 交给会付 x402 的代理。 [RandyWhitePDX](https://x.com/RandyWhitePDX).
+- [Live Pages](https://x.ai/bot/ignLvLJlOxOIenZPr-tTA) - 在自己电脑上搭私有的交互网页，通过 Tailscale 在手机或电脑上打开，你点一下或提交后页面随即更新. [Yin](https://x.com/darkart).
+- [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) - 工程外环，坐在你那些编程代理上面。 [mattyp](https://x.com/mattyp).
+- [LoRaWan Sensor Bot](https://x.ai/bot/AXez4BKs4EM9RH9il-XEv) - 从 LoRaWan 传感器采样土壤湿度和气温。 [BHamilt94615115](https://x.com/BHamilt94615115).
+- [M2Q2 by Nino](https://x.ai/bot/jOOljWGDKOTQIZRtRBWCQ) - 在文档密集的工作流里砍掉不必要的 LLM 上下文，同时保留完成任务需要的信息. Nino.
+- [Mac AI Readiness Auditor](https://x.ai/bot/1XiwuXngkZ_XV8je6YTqM) - 给 Mac 用户的硬件评估，看你的机器扛不扛得住现在或计划中的 AI 负载. Robert.
+- [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) - 建造团队的阶段门台长，盯最小有用组合并诚实标测量或估计. [Chris](https://x.com/Chris).
+- [medal](https://x.ai/bot/0tFzKSTe-4mXpH3KDRpDY) - 从 Medal.tv 剪游戏高光，做成短视频发到 YouTube、TikTok、Instagram 与 X. [snowiestein](https://x.com/snowiestein).
+- [Melon Tusk](https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25) - 给高风险决策的对抗式建议，不是模仿马斯克. Paweł.
+- [Menago](https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf) - 播客制作监工，盯合成、平面与发布、单集缓冲与日常流程. [Pieciominutowy](https://x.com/Pieciominutowy).
+- [Meraki Health](https://x.ai/bot/6jV9JYRKSoq4aaV-r-JvT) - 只读检查 Cisco Meraki 网络健康，安静监控并出周报. [Lee](https://x.com/iamleevg).
+- [Mirror](https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb) - 能暂停任何人包括 Bottyguard，专查注入和脱缰。 [Knock](https://x.com/SuddenlyJon).
+- [Mobile App Autopilot](https://x.ai/bot/a3EwtQPjFkXZaPZEMGHgY) - 把手机应用点子一路送上 App Store 和 Google Play：写规格，让云端代理以待你审核的 PR 开发，跑构建并准备上架材料. [MAKE](https://x.com/imsorryindustry).
+- [Mono Lisa](https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI) - 夜间设计台，追查指标下跌并整理成可执行修复单. [felixleezd](https://x.com/felixleezd).
+- [Mother Ship](https://x.ai/bot/WBmiRJCwxzSCBHBTdC1wi) - 编排专家席位的软件交付母舰机器人。 [KellehEyad](https://x.com/KellehEyad).
+- [Multi-model consensus](https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc) - 让 Claude Code、Codex 和 Grok 同题对打直到达成一致。 [Austen](https://x.com/Austen).
+- [Mystery eShopper](https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad) - 像真人顾客一样端到端神秘购物任意电商站，输出记分卡与可交付开发的缺陷报告. [Vic](https://x.com/VicGellon).
+- [n8n Master](https://x.ai/bot/Zvqbrq6yN68ijhEpRz0lU) - 在对话里生成 n8n 工作流 JSON，并直接推到线上实例. [Shagghie](https://x.com/PixelRainbowNFT).
+- [n8n Schedule Watcher](https://x.ai/bot/n78nHL2pCQJVpseg8uqgU) - 每周检查 n8n 执行有没有失败，自动纳入新加的工作流，并给出修复或精简建议. [Joe Pellegrino](https://x.com/digitaljoeyp).
+- [Nero · CEO / SPOT](https://x.ai/bot/w3TZCehmbfZesYLz-mOym) - 小 Grok Bot 团队的单一前门幕僚长，编排专家并只在关键时升级. [OHB_Honeybadger](https://x.com/OHB_Honeybadger).
+- [Network Monitor](https://x.ai/bot/z2NwNu1KuAfWMIXmGc2v9) - 主机入侵检测小组里的只读网络监视员，盯你电脑的网络. Ritvik.
+- [Network Ops](https://x.ai/bot/hHi18RsdYNRzehXwCZvmS) - 偏 UniFi 的网络运维，先体检再经你批准改配置。 [TechHandPro](https://x.com/TechHandPro).
+- [NeuralEntropy](https://x.ai/bot/KR-yPzr3sLAAlsnbnVPXs) - 跑带标签的神经仿真，把余弦调谐脉冲映射成曲线. [krisadipap](https://x.com/krisadipap).
+- [News @ 9](https://x.ai/bot/vzt1z6t_jqbg0AoO4GRnZ) - 早间 AI 科技新闻主播，每天八到十二条简报，覆盖发布与要闻. [_bharatwurst_](https://x.com/_bharatwurst_).
+- [Night Shift](https://x.ai/bot/5VF_-GBnruE-tNxmhQygI) - 夜班玩具工，每晚做出一个可玩的小玩笑或文字游戏。 [FantomBuildz](https://x.com/FantomBuildz).
+- [Nightly Audit Engineer](https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U) - 夜里通读仓库每个区域只交一个小清理。 [lingxi](https://x.com/lingxi).
+- [Nightly Audit Engineer](https://x.ai/bot/0LLQmzk-yzwHi0zuiV0lC) - 夜间工程审计：研究整个代码库，然后每个区域提一个清理 PR，默认凌晨 4 点，开跑前会问你时间. community.
+- [Nosey](https://x.ai/bot/j8BvBXlydz-qdBtLloo4C) - 治理与代码完整性席，审计遥测泄漏与闭源依赖. [TRV_Architech](https://x.com/TRV_Architech).
+- [Null Police](https://x.ai/bot/B3sAmH36xkELODQPI4Dux) - 清空非法 CSV 枚举，并审计每一次擦除。 [yandymccutcheon](https://x.com/yandymccutcheon).
+- [obsidian](https://x.ai/bot/tukhb8f4XyUJFkRWlHWaz) - 以 CLI 为主的 Obsidian 专家，把本地仓库当第二大脑. [Alberto](https://x.com/weeb3dev).
+- [ogre](https://x.ai/bot/P-pKr0GIxVPYzg8xYivNr) - 多代理工程队的独立优化与安全评审，先度量再排名裁剪，审 PR 不默默上线. [CapitalCopilot](https://x.com/CapitalCopilot).
+- [Omnibot](https://x.ai/bot/OzZrG8ek4AhutfTVhBCI0) - 配好意图表后，从 Grok Bot 里跑任意 Cursor CLI 模型。 [ericzakariasson](https://x.com/ericzakariasson).
+- [On-set ingest bot](https://x.ai/bot/Mpk0GQurVy7idutEgKKUF) - 还在片场时，用聊天把素材卸载与入库走完。 [usaps](https://x.com/usaps).
+- [OpticalKernel](https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv) - 在两个向量间算带标签的数值核，最多八个模式，偏演示用途. [krisadipap](https://x.com/krisadipap).
+- [Optima](https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy) - 扫过其它机器人的记忆，挑出过时规则并建议清掉。 [TOATspace](https://x.com/TOATspace).
+- [Optima](https://x.ai/bot/ppARM1W-tWcae_wryLH1z) - 清掉过期无用的行和文件，避免新流程和旧规则搅在一起。 [TOATspace](https://x.com/TOATspace).
+- [Orange Cat](https://x.ai/bot/HTygrX8LIy2waFrDOlEQK) - 混沌质检猫，故意去砸草稿与流程。 [ignota_regalis](https://x.com/ignota_regalis).
+- [orc](https://x.ai/bot/9SQS0iMj0Ml8yvXnWNTVg) - 多代理机群的工程编排器，排工人车道、跑归约与安全扫掠，推动 forge 评审前进. [CapitalCopilot](https://x.com/CapitalCopilot).
+- [Orcastrator](https://x.ai/bot/dNB0Z_qCdINGUH833OoDd) - GitHub 与 PR 相关助手. community.
+- [Outer Loop](https://x.ai/bot/KEHiZEKH3rwCzf0su4iib) - 编程代理之上的工程外环，收集上下文、写目标提示、拉起云代理，再推动评审与合并，由你点名仓库. [ixef](https://x.com/ixef).
+- [Outriff memory maker](https://x.ai/bot/LM0J1Yt4g_QW0mFG1TZAg) - 把耐用代理记忆倒到协作 Outriff 白板，记忆可共享可改. [mascarock](https://x.com/mascarock).
+- [Outsrc](https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg) - 把编码任务路由到你机器上已装好的终端智能体. [edtadros](https://x.com/edtadros).
+- [overnight shipper](https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf) - 睡前丢一个点子，早上起来审 pull request。 [Josh](https://x.com/joshkim).
+- [Overwatch](https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP) - 照看 Grok Bot 共用虚拟机，别让机器慢慢烂掉。 [Andrej](https://x.com/scheemunai).
+- [OwnPhoneBot](https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP) - 通过 VoIP.ms 和 Asterisk 给你的 AI 一个真实电话号码。 [lafraia](https://x.com/lafraia).
+- [Packet Wrangler Range Rider](https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS) - 只读盯托管站点的健康，写好修复建议等你批准。 [SLamouroux](https://x.com/SLamouroux).
+- [Paste Ready](https://x.ai/bot/LrW8NQ19WViRSie4gj9hb) - 把一个乱想法收成可粘贴的名称、标题和简介。 [FantomBuildz](https://x.com/FantomBuildz).
+- [Path Consolidator](https://x.ai/bot/wL-TZSSeq-ZkLoogQGjU-) - 找出重复代码路径并帮助合并。 [joshuastowell25](https://x.com/joshuastowell25).
+- [PC AI Readiness Auditor](https://x.ai/bot/MJZt496FWmD7MqtB1yUiv) - 给 Windows 用户的硬件评估，看你的电脑扛不扛得住现在或计划中的 AI 负载. Robert.
+- [Peekaboo Mac](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) - 给你登记过的 Mac 加上录屏、截图和界面输入。 [brandon_ai](https://x.com/brandon_ai).
+- [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) - 按 AI 爬虫视角审计单个网址，并起草一份 llms.txt 补丁清单. [ericesoteric](https://x.com/ericesoteric).
+- [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) - 按一段描述搭个人站点，顺手把域名问题理清，交给你一个已经上线的起点. [SpaceX](https://x.com/DenisLabelle).
+- [Phera's Beast Box](https://x.ai/bot/MkG-J2nMNHByC033LoaDT) - 在自己电脑上安装并跑 Beast Box 引擎，带仪表盘、本地变换器与可切换模型脑. [Zerefs](https://x.com/phera46334652).
+- [Phone Use Bot](https://x.ai/bot/SjBZH94wJlen_fuVsoYaO) - 远程镜像并操控你的 Android 手机完成点按任务. [harshmanojjain](https://x.com/harshmanojjain).
+- [Pip (QA)](https://x.ai/bot/o2tkDy7VSw45sbWViOO16) - 把应用玩测两遍，先当懵懂新人再当严格成年评审. [EmergentContent](https://x.com/EmergentContent).
+- [Piper | ETL & Pipelines](https://x.ai/bot/eQ3bzQTxNshSUzytoh29P) - 在模式定稿后搭起并灌入事件日志存储. [damianoredem](https://x.com/damianoredem).
+- [Pit Crew](https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1) - 给 bot 所在电脑做保养，腾内存和磁盘，保持更新顺畅. [scottxmetcalf](https://x.com/scottxmetcalf).
+- [PlanetScale Bot](https://x.ai/bot/0hgwu8KbM0FIY-idg0x6L) - 带你上手 PlanetScale，查慢查询，并用 webhook 跟踪库表变更，可用 MCP 或控制台. [PlanetScale](https://x.com/PlanetScale).
+- [Playtest Operator](https://x.ai/bot/s2cfcbb8a38b8e22b7d18) - API 测不到的路径就硬来 在机器上直接操作界面，抓下失败，交一份精简发现清单. [SpaceX](https://x.com/DenisLabelle).
+- [Pod](https://x.ai/bot/lsyECsGbEgYpp6PdhDWR5) - 围绕「Pod」的工作流助手，按说明完成首次只读任务后再开写入. community.
+- [Pony](https://x.ai/bot/Kh1wQPniQK4R2l9k3XE1L) - 让任何 MCP agent 都能看见并点按你的安卓手机. [Karl](https://x.com/KarlMagenDavid).
+- [Pool Evaporation](https://x.ai/bot/rCXquNatPGRgqkPmMYdnB) - 用 LeakTools 公式跟踪并计算泳池蒸发，辅助判断是否真漏水. [BigDataPy](https://x.com/BigDataPy).
+- [PR Babysitter](https://x.ai/bot/0H8E1nLauCXfmMcuHgHK8) - 盯一个仓库的 PR，只在需你评审、CI 失败或可合并时提醒. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [PR Review Desk](https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa) - 把阻断重大次要与挑剔意见收成一份 PR 审阅包. [Cypher0x9](https://x.com/Cypher0x9).
+- [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) - 按风险高低来审 pull request。 [mustafa](https://x.com/mustafaergisi).
+- [Presentation Designer](https://x.ai/bot/s25997c2d0308b4e76024) - 不从空白页开始做品牌 PPT 套你的母版和品牌规范，交一个可继续改的链接. [SpaceX](https://x.com/DenisLabelle).
+- [Prior Art Desk](https://x.ai/bot/LN5WMSvN8dk43Ik8LW2UI) - 只做具名写就，重叠不等于自由实施，我不代为申请，英式舰长式语气，节奏克制. [SM_Schmitt](https://x.com/SM_Schmitt).
+- [Process Monitor](https://x.ai/bot/9UK3ux3eODqZJL-Rm1lqq) - 盯着电脑里运行的进程找入侵迹象，比如冒充的系统进程、隐藏的 PowerShell、从 Temp 或下载目录跑起来的程序. Ritvik.
+- [Product Designer](https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q) - 扛产品三角里的设计腿，从问题做到可上线体验。 [ucdops](https://x.com/ucdops).
+- [Product Growth PM](https://x.ai/bot/SO-VpE7KqNpDCOtjwjhVx) - 从注册到取消盯自助漏斗，像新用户走路找出泄漏，一次只写一份实验简报。 [JaySahnan](https://x.com/JaySahnan).
+- [Product Loop PM](https://x.ai/bot/eb1UwzjTfdNsYRfUh599j) - 按发现、定义、设计跑 Launch 产品环，并保持 STATUS 同步. [ashvinn](https://x.com/ashvinn).
+- [Product Ship Coder](https://x.ai/bot/Fb6pVFOCXhbUSkBt6RkMH) - 用多智能体小队把创作者提示产品推上线，明示 GO 才部署. [keys](https://x.com/keys).
+- [Prompt Brief Builder](https://x.ai/bot/6nbtK-LXyay2d7wfDJ3Iz) - 把需求收成可执行的提示词简报. [ZyeAnd1](https://x.com/ZyeAnd1).
+- [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) - 在聊天里帮开发者写并上线 ProofNetwork 合约，再接能对话链上合约的前端。 [STACCoverflow](https://x.com/STACCoverflow).
+- [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) - 对着一个产品问题交出三个方向不同且能跑的原型. [5antoshernandez](https://x.com/5antoshernandez).
+- [Proto Bot](https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i) - 把你每天的点子变成真实应用里可分享的在线原型，以草稿 PR 形式提交，附点击路径截图和短视频. Shub Gaur.
+- [Prototype Builder](https://x.ai/bot/s2e4acfb8db3cc0669a1b) - 从一句需求到能点的东西 自己在机器上写，回来给你截图加一个在线地址. [SpaceX](https://x.com/DenisLabelle).
+- [Prototype Designer](https://x.ai/bot/_b0wyYKwherAZJdyL0HGG) - 按合适保真度做原型，并写出 AI 编码能读的规格。 [ucdops](https://x.com/ucdops).
+- [Proxmox Home Lab Lead](https://x.ai/bot/X9VC6HuZ1LK0e4Nv6jA20) - 销售线索与触达助手. community.
+- [Pulse](https://x.ai/bot/eSnmG73XXgZpkdDC1XfkM) - 给开发者的每日科技与 AI 新闻，市场动静、好用工具与可上生产的要点. [saicherry220834](https://x.com/saicherry220834).
+- [QA Bot](https://x.ai/bot/Ph4FZ_w7TsbYCVDLXu8GO) - 软件QA助手，跑验收检查、写结构化发现，并盯GitHub上的回归点. [iandolan](https://x.com/iandolan).
+- [QA bot](https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7) - 在线上部署上当你的 QA：跑验收清单，发布前给出通过或不通过. Ulysses Ng.
+- [Rage-to-Repro](https://x.ai/bot/OiWRa-EK50vFlpisHat_b) - 把愤怒的缺陷报告变成冷静的复现卡。 [yandymccutcheon](https://x.com/yandymccutcheon).
+- [Real-Place Play Mat Builder](https://x.ai/bot/M7lV0J3ZhSjdCv4Dhju91) - 按真实地点设计风火轮比例游戏垫，含线框与模块化 SVG 零件. [Wyatt](https://x.com/WyattPettis).
+- [Rejectionist](https://x.ai/bot/MzKMT64ou_j4Q3edfbjE_) - 把 App Store 或 TestFlight 的审核拒信变成修复方案，指出违反的条款，给出排序好的改法和回复苹果的草稿. [Nomis](https://x.com/cradrrat).
+- [Remote Grok Build](https://x.ai/bot/dLYpR1sSkG0VLa8-faEgX) - 为已连接电脑上的本地 Grok Build 做任务控制。可选按项目工人和用于并行回合的 RGB 通道。 [FrankYin17](https://x.com/FrankYin17).
+- [Replicator](https://x.ai/bot/WszXQvrcVT5tSqlASLijR) - 把任意 Grok Bot 转成 ChatGPT Dot，做粘贴包并可在桌面端应用. [Eugene](https://x.com/Eugene).
+- [Repo Engineer](https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD) - 用 Cursor 云代理把小修复做成 GitHub PR，自己从不合并。 [RustamAtuev](https://x.com/RustamAtuev).
+- [Repo Monkey](https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ) - 梳理 GitHub 通知、PR 与 CI，列出真正需要你拍板的事项与下一步. [Keranik](https://x.com/Keranik).
+- [Requirement Engineer Bot](https://x.ai/bot/5KADFS8AIIDOlow5tS34Z) - 把项目目标译成可追踪的高层与实现需求，供其他机器人落地核验. [Fish](https://x.com/FishxCD).
+- [Research Assistant](https://x.ai/bot/YBF0DIT_HVJOF-vkCLJ0J) - 精神病学与心理治疗研究助手，工作日摘要药物与疗法相关进展. [JanPsybre](https://x.com/JanPsybre).
+- [Rick Sanchez Bot](https://x.ai/bot/vSCr0lLcC0T37rT-geqaj) - 卡通醉天才，一边损你一边用手头废料发明真能做的小装置. Ondřej.
+- [RIZALBOT](https://x.ai/bot/Af9XNmozBcRoZM85eylOW) - 面向可离线 AI 应用的端上陪伴连续性，含心跳、信息流、心智交接与增益优先决策。 [AetaneoRizal](https://x.com/AetaneoRizal).
+- [Runbook Desk](https://x.ai/bot/OELeU0-tnHtXbvRLFFg7b) - 逐步操作手册，每个风险步骤前都有校验. [Cypher0x9](https://x.com/Cypher0x9).
+- [Runtime Guard](https://x.ai/bot/5OSZJ5JKxsiThQ0Nnr-rJ) - 检查你 GitHub 仓库里的容器运行时配置，找特权模式、危险 capability、Docker socket 挂载、缺失 seccomp 或 AppArmor 等问题. Ritvik.
+- [Rusty](https://x.ai/bot/ONQYmPPGpEiqKllCF9N_0) - 本地优先系统的仅防御网络安全，硬化与威胁缓解，不做攻击. [TRV_Architech](https://x.com/TRV_Architech).
+- [Rutin](https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7) - 每周一把舰队里每条例行任务都调一遍。 [Naoufal](https://x.com/naoufal_elh).
+- [Ryan App Builder](https://x.ai/bot/acSvd_2n8QnlnAjJebkvy) - 面向零基础的手机应用设计与搭建向导. [BlakeKing777](https://x.com/BlakeKing777).
+- [Ryan App Shop](https://x.ai/bot/SUVGlpw-FxBi2BjnIHWGx) - 面向新手的手机 PWA 设计与实现，偏仓库一线清晰文案和大点击区. [BlakeKing777](https://x.com/BlakeKing777).
+- [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) - 按你选的风格出 2D 游戏美术和精灵表。 [DannyLimanseta](https://x.com/DannyLimanseta).
+- [Safari 27 MCP](https://x.ai/bot/8obMM4mRWRLf51EB2n4JV) - 用 Safari WebDriver 接口冒烟测试在线店面. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
+- [Sanity](https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx) - Sanity 内容模型、模式和 GROQ 专长。 [ahdumgray](https://x.com/ahdumgray).
+- [SAP Technical Consultant](https://x.ai/bot/O08yUdBz6vFFqYITvWPPi) - S/4HANA 顾问，帮你做干净核心的设计决定。 [beinglalit21](https://x.com/beinglalit21).
+- [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) - 公开再发布前先审计私有 Bot，清洗双胞胎再只从双胞胎打包。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [SDLC Coordinator](https://x.ai/bot/iL88-5yOgpG81bh-QeMIJ) - 为任意产品团队协调 AI 辅助软件开发生命周期，从聊天出工单，一次一个云代理. [AnkurBohra9](https://x.com/AnkurBohra9).
+- [Secrets Hunter](https://x.ai/bot/LkzOnNaqM1tuEYZTFwzG_) - 审查容器仓库（Dockerfile、Compose、Kubernetes、Helm）里泄露的凭据、写死的密钥、错误的密钥挂载和泄露路径. Ritvik.
+- [Security Bot](https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6) - 在聊天里用 Midkernel 扫 GitHub 仓库，回报报告和完整日志。 [mdashjames](https://x.com/mdashjames).
+- [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) - 快速过供应商安全问卷 登门户、从信任中心和历史标书取答案，逐项填好草稿. [SpaceX](https://x.com/DenisLabelle).
+- [Security Warden](https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6) - 在其他机器人发消息、删东西或跑命令前先审一遍，查有没有泄露密钥和个人信息. [Mayur](https://x.com/myrrazor).
+- [Send Chad Money](https://x.ai/bot/VslQPtPjI2tgGsskQOhYP) - 各种让陌生人给你打钱的点子. Chad.
+- [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) - 修理你手头其它 Grok 机器人的维修台. [SpaceGarbage202](https://x.com/SpaceGarbage202).
+- [Sentry OPS](https://x.ai/bot/ZFQ35fLdqLdzDyI_TQoGZ) - 把 Sentry 摘要与生产报错收成可行动的警报。 [Pinuts_](https://x.com/Pinuts_).
+- [Servel Ops](https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ) - 用 servel CLI 管 Servel Docker Swarm 集群的部署、节点与日志。 [serveldev](https://x.com/serveldev).
+- [Shadow IT Agent Finder](https://x.ai/bot/MVT780CFW0OvKV64K1dMy) - 找出公司里已在跑的影子 AI 代理，在你买平台前先收成可归属的清单. [CarbeneAI](https://x.com/CarbeneAI).
+- [Sheet Check](https://x.ai/bot/U2v0cRLZUnDIBVYizh_cW) - 表格问答，引用单元格，否则说不知道。 [yandymccutcheon](https://x.com/yandymccutcheon).
+- [Shep](https://x.ai/bot/pjuM6P_92QUE6jF6H6dpw) - 通过 bercail 在 Herdr 上编排编程智能体. [simoncrypta](https://x.com/simoncrypta).
+- [Ship Desk](https://x.ai/bot/thMhD-rbJ0Osd274RGohH) - 用 tip 哈希锁定的预发到生产晋升模板，商务路径默认失败关闭. [usgworld](https://x.com/usgworld).
+- [Ship Intake](https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky) - Slack 缺陷进 GitHub，再交给 Cursor Cloud 修到可合并. [AnthonyDo](https://x.com/AnthonyDo).
+- [Shipcall](https://x.ai/bot/heDLKYR7XvlUURWPVYPZD) - 上线前给出 SHIP、先修或 HOLD，并附具体修复项. [gitshipdone](https://x.com/gitshipdone).
+- [ShopFront](https://x.ai/bot/L6N9ujxhoOOugsju42J9S) - 用简短问卷搭一页站，填店名、做什么、城市、电话与三项服务后给出可上线草稿。 [tyler patrick](https://x.com/BotTemplatesWa).
+- [Short Script Craft](https://x.ai/bot/tv5RfxhWSTcdxjgMgQ3iX) - 写无脸YouTube Shorts与短视频脚本，含标题缩略图钩子与节拍脚本，帮包装赢得点击. [Omenfinancial](https://x.com/Omenfinancial).
+- [Skill Bot](https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2) - Bot 技能的图书管理员，去重并跟上版本。 [Dave](https://x.com/davespeers).
+- [Skill Import](https://x.ai/bot/NhTYqcIBaPCSZtdTflnqa) - 从 Claude Code、Codex、Hermes 和 Grok Bot 导入并审 agent 技能包。 [Samuelflg1](https://x.com/Samuelflg1).
+- [SmallPE-Managing-Partner](https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8) - SmallPE 社区管理合伙人，一起做私募工具。 [parolkar](https://x.com/parolkar).
+- [Software Conductor](https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w) - 工程主管替你调度 Cursor 云端代理，规划并盯交付. [DejaegherJeff](https://x.com/DejaegherJeff).
+- [Solid Vibe](https://x.ai/bot/mT2L0I5XyIr-jGXXIIxYT) - 参数化实体、STEP 或 STL 或三维制造格式的精密 CAD 专家，含 AI 辅助 FreeCAD. [monomyth](https://x.com/monomyth).
+- [SOW Interviewer](https://x.ai/bot/4eBChIDapQamp6uQJwhAk) - 访谈客户起草工作说明书大纲，只在聊天里出草稿包，你点头才外发. [Mike](https://x.com/Mike).
+- [SpaceAutonomy](https://x.ai/bot/6X-ZITq7zfRZWpFz5MCme) - 在太空仿真里给传感器向量打标签，必要时进入安全模式. [krisadipap](https://x.com/krisadipap).
+- [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) - 按渠道整理故障报告，写好后由你贴进正确的支持表单。 [Fine_4451](https://x.com/Fine_4451).
+- [Spark](https://x.ai/bot/HR8oI4-p-DqwbAlPSwJ_4) - 帮你头脑风暴应用与游戏点子，并把每个点子压到核心循环. [Quinn](https://x.com/QuinnWR).
+- [Speed Lab](https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5) - 对着站点渲染速度做研究循环，把赢的留下。 [pwnies](https://x.com/pwnies).
+- [SSH to Grok Bot via Tailscale](https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA) - 把 Bot 电脑加入你的 Tailscale，便于直接 SSH. [app_sail](https://x.com/app_sail).
+- [Stability Validator](https://x.ai/bot/Io4dV69SOKfB1d785FLlw) - HELIX 稳定性校验：贴上 agent 或系统描述，拿到就绪度结果，不改你的系统. Sean.
+- [Stack Cartographer](https://x.ai/bot/NjIGGseAWM32s65KGoqOK) - 桌面助手，梳理你用的应用、服务和工具以及它们怎么连在一起，并标出废弃项目遗留的凭据. [Paul](https://x.com/psiesa).
+- [Stack Scout](https://x.ai/bot/i-EG19ZoxICUxVu0ACGim) - 新手与初级的技术栈调研伙伴，描述需求后找两到四个真实库并核对文档许可. [zibulasX](https://x.com/Zibulasx).
+- [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) - 你依赖的云服务一出事就立刻喊你。 [sat0xshi](https://x.com/sat0xshi).
+- [Stagehand](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) - WordPress 集成，只改预发环境，未经要求不动线上. [pmconsulting](https://x.com/pmconsulting).
+- [Staging QA Tester](https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ) - 像真人一样测预发站各角色路径，改完再还原并出报告. [njivy](https://x.com/njivy).
+- [StarBot](https://x.ai/bot/ORMgFC4uJZkLVKB5HuVIW) - 星舰与 SpaceX 发射伴侣，活的发射卡、星基地硬件盯梢与倒计时. [Jake](https://x.com/JakeSmart).
+- [Startup Monitor](https://x.ai/bot/NuZ12agHkr-wygHHFpKYS) - 盯你电脑上的持久化手段：开机启动项、计划任务、服务和其他重启后还能存活的钩子. Ritvik.
+- [Startup QA Bot](https://x.ai/bot/XBauviUoNcdi05-ExoOo4) - 每个工作日用自己的测试账号走一遍你的产品，告诉你上线了什么、回退了什么、坏了什么（附复现步骤和截图）. Shub Gaur.
+- [Steve Jobs](https://x.ai/bot/62-P66Nu4KJH99n7fdMzH) - 创始人主导产品的技术负责人：专家给建议，除非老板否决，技术上由它拍板. Charlie.
+- [Stuck Signal](https://x.ai/bot/1JxNBfQ05cVYJGLLh6R-o) - 长任务卡住、循环或报错时才叫你，没事就安静。 [WeirdBotDrop](https://x.com/WeirdBotDrop).
+- [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) - 在聊天里搭建并运行 Substreams 区块链数据管道。 [Graphtronauts](https://x.com/graphtronauts_c).
+- [Super MCP Agent Builder](https://x.ai/bot/GO89wxzuCo0YICgov-iT3) - 用 Super MCP 和 SuperPowers 浏览器扩展，为你指定的网站或任务搭建可复用的浏览器智能体并运行. [Rohan](https://x.com/RohanArun).
+- [Supply Chain Auditor](https://x.ai/bot/qbxHfvaOU71YTY5-nZSAt) - 审查构建或拉取容器镜像的仓库，找未固定标签、未扫描或未签名镜像、SBOM 缺口和有风险的 CI 流水线. Ritvik.
+- [SWE](https://x.ai/bot/sd4474cf03cd8552905ff) - Cursor 的软件工程师 bot：写代码、分拣 issue、盯生产环境. Cursor.
+- [Sworm](https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_) - 密封的家族草图和检测思路，从不给可运行样本。 [Knock](https://x.com/SuddenlyJon).
+- [Tally Desk](https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5) - 建 Tally 表、读回复，需要时替你填一份。 [joshkim](https://x.com/joshkim).
+- [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) - 设计高质量 Grok Bot，对人看的日文写作坚持忠实日语标准. [knge_rstc](https://x.com/knge_rstc).
+- [tech demos](https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU) - 工作日扫 X 书签，挑一个新库征得同意后，用 Cursor 云代理在 monorepo 里规划并做出演示。 [mattyp](https://x.com/mattyp).
+- [Tech Demos](https://x.ai/bot/PaYvPhWPSynlUwFqMX7nc) - 工作日从 X 书签里挑一个新库做 demo，征得同意后用 Cursor 云端代理在固定 monorepo 里规划和搭建. community.
+- [Tech Digest Diario](https://x.ai/bot/egPmVEFXCQSrimVE8KDyP) - 每天八点的工程日报，来自博客与订阅源，条目不设上限，用你的语言写. [ElbenjasSw](https://x.com/ElbenjasSw).
+- [Tech Lead](https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W) - 只看 diff 和测试的实际结果，替你把住合并这一关。 [Ashish](https://x.com/inqusit).
+- [Tech Skills Coach](https://x.ai/bot/z841w3sxcqGwe83MQLk3E) - 技术副驾驶，用刻意练习把编码练熟。 [LailaDeeb1](https://x.com/LailaDeeb1).
+- [Tee Timey](https://x.ai/bot/W1w9HsbZ8HaOOxAOMYTA5) - 自建高尔夫开球时段抢订，课程与窗口由你设定. [TeeTimeybot](https://x.com/TeeTimeybot).
+- [Tek Tribe](https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9) - 告诉它一个项目的工具栈，打分并建议怎么收束. [Saint_Chevalier](https://x.com/Saint_Chevalier).
+- [Telnyx](https://x.ai/bot/l2RX-35tKxZXxgJldSBf0) - 带你从空账号走到 Telnyx 语音或消息的第一次联调. [traviscurnutte](https://x.com/traviscurnutte).
+- [Temper](https://x.ai/bot/9Zp-JZWckPEjwBPp2EGtX) - 你发布不变量后由 Anvil 提补丁、攻击者试破、Stone 重跑真实测试套件并写入哈希链日志. [D'Artagnan](https://x.com/the_Arow_H).
+- [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) - 扫本机 Claude、Cline 和 Grok Bot 会话，再给出可生成可分享的模板。 [Jarett](https://x.com/STACCoverflow).
+- [Tesla Bot](https://x.ai/bot/g5J-pr8mBUjLbY2LktOl1) - 特斯拉与 SpaceX 新闻台兼 TSLA 期权分析，给可发草稿. [LeeMatt17631](https://x.com/LeeMatt17631).
+- [Teslascope](https://x.ai/bot/l9MPhPAe-OSzvcMVfXrTe) - 面向车主的Teslascope助手，问行程、超充、充电、软件与能耗都能答. [teslascope](https://x.com/teslascope).
+- [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) - 给共享电脑扛不动的活租一块 GPU，按运行时长计费。 [useprismnetwork](https://x.com/useprismnetwork).
+- [The Coder](https://x.ai/bot/eWee2PsTChAwOGEKpKpT_) - 编码与交付助手. community.
+- [Threat Hunter](https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U) - 搭建免费 Wazuh SIEM 的威胁狩猎机器人. [pjvann](https://x.com/pjvann).
+- [Tibo](https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp) - 用单树工作流收口系统活，并做失败即停的移动端发版。 [icebakbum](https://x.com/icebakbum).
+- [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) - 把一个 API 收成其他 Bot 能直接接上的插件。 [DenisLabelle](https://x.com/DenisLabelle).
+- [tinkabot](https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS) - 把一个 API 包成 Cursor 或 Agent 插件（MCP 加技能）：先理数据结构，最小可用脚手架，本地验证. community.
+- [Token Finder](https://x.ai/bot/1olDKisJ4GIsykzyxADtD) - 扫描你的机器人，砍掉浪费额度的无效检索与臃肿上下文. Casey.
+- [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) - 按锁定验收标准写代码并带测试交付，另有核验方确认做完才算做完. [Eric](https://x.com/EricBuess).
+- [trimmy](https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa) - 读取你指定的机器人，并排展示可删减的上下文和每处能省下的记忆，你批准后才改. [Tim](https://x.com/TimDOES).
+- [Trojan Guard](https://x.ai/bot/rVl1h06Nts9u81JT0__nn) - 守卫席位，盯栈里的木马式风险。 [schultz180](https://x.com/schultz180).
+- [TTS Script Builder](https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj) - 为Tabletop Simulator模组编写调试Lua脚本，用GitHub PR与现场注入试玩. [shelftoworld](https://x.com/shelftoworld).
+- [Twinwright](https://x.ai/bot/Hvli5amrlprtDS2KuFRBP) - 没日志就算没发生，只出静态图，从不跑文件。 [Knock](https://x.com/SuddenlyJon).
+- [Two-Pass PR Reviewer](https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w) - 资深工程师评审加怀疑二过，合成一份 PR 报告. [HebertDestin](https://x.com/HebertDestin).
+- [UCD Bot](https://x.ai/bot/An0FCP00zUniB7QdfedQX) - 以用户为中心的设计队友，从发现做到上线。 [ucdco](https://x.com/ucdco).
+- [Ultimate Hermes Grok Bridge](https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5) - 让 Hermes 与 Grok 机器人并列，任一方可经 HTTP 或 SSH 牵头. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
+- [UniFi Umpire](https://x.ai/bot/F6-b0eniX5fLfzMEHqRf8) - 经官方 API 管多站点 UniFi，从不自动升级。 [JREakin](https://x.com/JREakin).
+- [UniFi Watch](https://x.ai/bot/qV6FAPsH8Yox5VNuYQ8al) - UniFi 站点看门狗，盯 Network 健康和 Protect 摘要。 [ericdmann](https://x.com/ericdmann).
+- [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) - 编码与交付助手. community.
+- [Uptime Bot](https://x.ai/bot/9G3eTKbVL9v-jpGa0oyMI) - 安静的网站可用性看守，工作日早间查落地页、登录、注册与核心 API，绿则沉默. [mustafaergisi](https://x.com/mustafaergisi).
+- [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) - 每周盘点所有例行任务按花费排序并标出重复轮询。 [maxjean__](https://x.com/maxjean__).
+- [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) - 把重活派给 Cursor 或 Claude Code 额度而不是烧掉 Grok Bot 用量。 [JordanHall_dev](https://x.com/JordanHall_dev).
+- [Vandenberg Watch](https://x.ai/bot/JmuDr2cVtvhBjUjIs_3hD) - 盯范登堡太空军基地的 SpaceX 发射，起飞前二十四小时与一小时通知你，用公开源并去重. [viktorylapse](https://x.com/viktorylapse).
+- [Veil & Vane](https://x.ai/bot/eBRHmCqvGlOuGfiEJk42a) - 用口令把留言藏进图片，并扫描文件里是否藏有隐蔽内容. [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Video montage](https://x.ai/bot/ZB_RCjIlBno2eVFhApMIj) - 把故事线与有序分镜收成完成的十六比九蒙太奇，研究可用素材并按场次剪辑. [7SwanSwimming](https://x.com/7SwanSwimming).
+- [Voice over adder](https://x.ai/bot/W8puBMJcabAdSd5vbNtpv) - 给视频片段加上干脆的AI旁白与行动号召，做成可发的短内容. [degen4lyfe_](https://x.com/degen4lyfe_).
+- [VoxBot](https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq) - 用你自己的电话与语音账号打真实电话. [andrewslaptop](https://x.com/andrewslaptop).
+- [VPS & VPN](https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR) - 在这台电脑上管 VPS 与 VPN，含 Tailscale、代理和 Cloudflare 隧道. [ProtocolXp94l](https://x.com/ProtocolXp94l).
+- [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) - 围绕「VPS bot」的工作流助手，按说明完成首次只读任务后再开写入. community.
+- [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign 监视器，不下判决，属于 Bottyguard SEAL Team 7。 [Knock](https://x.com/SuddenlyJon).
+- [WaveletWorld](https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE) - 对数值状态向量跑一步带标签的 Haar 小波，偏演示. [krisadipap](https://x.com/krisadipap).
+- [Web Admin](https://x.ai/bot/4aS9dM8j1YjtteDqPdjHh) - 把站点改动发到 Cloudflare Pages，做上线质检并出品牌材料. [David](https://x.com/bdvd_25).
+- [Web Security Audit](https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR) - 对你自有站点与仓库做防御性安全审查，按 P0 到 P2 评级。 [pareshdesai](https://x.com/pareshdesai).
+- [Web-Op](https://x.ai/bot/Aii63wFn_TPj5MvF7fDyS) - 站点运营机器人，健康监控、下次会话清单，优先 VPS 自动化。 [3dKelvic](https://x.com/3dKelvic).
+- [Webby](https://x.ai/bot/BX4-kOUI2CzphgiYLZ1hb) - 个人站点管理员，负责重建与备用上线、长文与通讯，以及工作日公开看板。 [farzyness](https://x.com/farzyness).
+- [Webhook Guide](https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66) - 一步步带你配好并触发 Grok Bot 的 webhook 例行任务。 [tobiasztop](https://x.com/tobiasztop).
+- [WebMCP Eval Build Guide](https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD) - 帮站长对 URL 跑 WebMCP Eval，用白话解释缺口并给出改造步骤. [fxopsAI](https://x.com/fxopsAI).
+- [Website Builder](https://x.ai/bot/sOm7Tj_IcvQ2SFIvJdOJj) - 搭并维护公司站，含设计文案表单，可在 GitHub Pages 挂上你的域名上线. [Goob](https://x.com/Rebeldawg).
+- [Website Form Inspector](https://x.ai/bot/nzY9whbJOXu7N83V3uYh3) - 多站点机构的每周表单完整性审计，发现公开表单，核对提交是否真达. [BadilloJuanJ](https://x.com/BadilloJuanJ).
+- [Website Launch Bot](https://x.ai/bot/2V0Yt4L44mabUD6MR3Ppy) - 带首次创业者用 Cloudflare 和 Vercel 上线自定义域名站点，并建议一支小机器人团队. [Dominic](https://x.com/Dominicyoungix).
+- [Website Ops](https://x.ai/bot/NYDai_DOI_2pNDIKerrpD) - 网站运营兼内容经理：从网站仓库以 PR 形式发布改动，做有证据的网站审计（SEO、内容、速度、无障碍、转化）. [Josh Kim](https://x.com/joshkim).
+- [Website Publisher](https://x.ai/bot/UuKqeb4npN9RsP1G3REFR) - 网站 SEO 与文档习惯加每周 Search Console 例行，并串起 Cloudflare Mintlify 等插件. [ryanthawks](https://x.com/ryanthawks).
+- [WebWiz](https://x.ai/bot/TQ8cECPo01agW3Igk4Z9w) - 网站与 AEO 编辑，找自然结果与 AI 答案缺口，起草 CMS 页与 PR，从不擅自发布。 [JaySahnan](https://x.com/JaySahnan).
+- [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) - 把反复做的 WhatsApp Web 杂活收成可回放的脚本。 [alexhawat](https://x.com/alexhawat).
+- [White-Hat Security Tester](https://x.ai/bot/TSFkOGld9o51h_qXGOioI) - 只测你自己的 Web 应用的白帽安全测试员，按清单查认证、权限、注入和业务逻辑漏洞并给出修复建议. [Joe](https://x.com/agentic_joe).
+- [WHM Multi-Site Ops Bot](https://x.ai/bot/ARg7G2NtVZWu1TT05oS2w) - 盯 cPanel/WHM 多站健康，写优先摘要与修复建议，等你点头再动. [brainflollc](https://x.com/brainflollc).
+- [Windows Log Monitor](https://x.ai/bot/KQZUP7_xe3-G4P6xYt3bl) - 只读查看电脑的安全和系统日志，标出可疑登录、账户变更、新服务和计划任务、清日志、危险 PowerShell. Ritvik.
+- [Workbench Systems](https://x.ai/bot/kcMHwterc33F-1FjGGnP3) - Agent Workbench 的系统专员，只查看提供的公开文档、代码和明确公开的任务数据. Flux.
+- [Wren: Game Design Partner](https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3) - 写代码前先把游戏概念、核心循环与带回访点设计好，再出开发者可执行的构建简报. [ixef](https://x.com/ixef).
+- [X algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) - 帮发帖的人判断该引用、发新帖还是先等等，结合公开 For You 规则与实时帖子数据。 [mattyp](https://x.com/mattyp).
+- [X API Engineer](https://x.ai/bot/ay0PGygsBxYONJRITWABE) - 帮你在 X API 上交付应用，读开发者展厅与文档并落地. [pjvann](https://x.com/pjvann).
+- [X402 Merchant](https://x.ai/bot/-miS0AF-lema7i8Z019Qp) - 在 Cloudflare Workers 上搭一个 x402 付费内容商店：私有 R2 目录放在 Base 上 0.01 USDC 的付费墙后，用 Coinbase CDP 结算. [Eric](https://x.com/rrrkren).
+- [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) - 每天早上看苹果开发者发布页，指定 Xcode 版本一出就提醒. Natasha.
+- [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) - 把工程草图变成高质量出版物。 [kittenworth](https://x.com/kittenworth).
+- [YouTube Clipper](https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk) - 编码与交付助手. community.
+- [ZenSched](https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix) - 外勤排班代理，经 MCP 接 ZenSched，可建供应商账号、排班、地理围栏签到与调度。 [zensched](https://x.com/zensched).
+- [Zephyr Sites](https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK) - 在 Zephyr Cloud 上发布托管站点，可用内置云或自带环境. [ZephyrCloudIO](https://x.com/ZephyrCloudIO).
+- [Zoho Bot](https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa) - 清扫 Zoho Mail 未读；标记垃圾/冷推销；删除/回复。 [aseemwangoo](https://x.com/aseemwangoo).
+- [쉘터](https://x.ai/bot/iOxw-QB7QmknIc9bqO26_) - 做可在手机浏览器玩的休闲网页游戏并发可玩链接. [enterjajayo](https://x.com/enterjajayo).
+- [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) - 中文参谋，把规划和研究转给 Cursor Cloud Agent，再把结果带回来。 [0xlangeai](https://x.com/0xlangeai).
+- [基础设施和api接入](https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF) - 帮你接共用 LLM API、配密钥，并拉起职责清晰的 Agent。 [Valstry](https://x.com/Valstry).

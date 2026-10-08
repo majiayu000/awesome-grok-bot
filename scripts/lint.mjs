@@ -3,19 +3,10 @@ import { readdirSync, readFileSync, statSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { escapeMarkdownSummary } from "./summary-markdown.mjs";
+import { CATEGORY_META, MAX_MARKDOWN_BYTES, catalogFileFor, catalogLinkLine } from "./catalog-files.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const entrySchema = JSON.parse(readFileSync(join(root, "schema", "entry.schema.json"), "utf8"));
-const CATEGORY_META = {
-  "coding-shipping": { heading: "Coding & shipping", anchor: "coding--shipping" },
-  "inbox-calendar": { heading: "Inbox & calendar", anchor: "inbox--calendar" },
-  "research-briefings": { heading: "Research & briefings", anchor: "research--briefings" },
-  "customer-sales": { heading: "Customer & sales", anchor: "customer--sales" },
-  "finance-ops": { heading: "Finance & ops", anchor: "finance--ops" },
-  "content-publishing": { heading: "Content & publishing", anchor: "content--publishing" },
-  "personal-admin": { heading: "Personal admin", anchor: "personal-admin" },
-  "teams-handoffs": { heading: "Teams & handoffs", anchor: "teams--handoffs" },
-};
 for (const category of entrySchema.properties.category.enum) {
   if (!CATEGORY_META[category]) throw new Error(`Missing README metadata for category: ${category}`);
 }
@@ -27,6 +18,11 @@ const SECRET_RES = [
   /api[_-]?key\s*=/i,
 ];
 const PRIVATE_HOST = /\b(localhost|127\.0\.0\.1|10\.\d+\.\d+\.\d+|192\.168\.\d+\.\d+)\b/i;
+function checkMarkdownSize(name, text) {
+  const bytes = Buffer.byteLength(text, "utf8");
+  if (bytes > MAX_MARKDOWN_BYTES) fail(`${name}: ${bytes} bytes exceeds ${MAX_MARKDOWN_BYTES} (GitHub stops rendering at 512000)`);
+}
+
 function fail(msg) {
   console.error(msg);
   process.exit(1);
@@ -125,7 +121,7 @@ function expectedReadmeLine(entry, readmeName) {
     : escapeMarkdownPlainText(entry.author.name);
   const hasTemplate = slugsOnDisk.includes(entry.slug);
   const notes = hasTemplate
-    ? ` ${chinese ? "说明" : "Notes"}: [templates/${entry.slug}](templates/${entry.slug}/).`
+    ? ` ${chinese ? "说明" : "Notes"}: [templates/${entry.slug}](../../templates/${entry.slug}/).`
     : "";
   return `- ${markdownLink(entry.name, entry.import)} - ${punctuate(escapeMarkdownSummary(summary))} ${author}.${notes}`;
 }
@@ -199,24 +195,35 @@ for (const slug of slugsOnDisk) {
 
 for (const readmeName of ["README.md", "README.zh-CN.md"]) {
   const text = readFileSync(join(root, readmeName), "utf8");
-  const lines = text.split("\n");
+  checkMarkdownSize(readmeName, text);
+  const catalogLines = new Map();
+  if (text.split("\n").some((line) => line.startsWith("- [") && line.includes("](https://x.ai/bot/") && catalogImports.has(line.match(/\]\((https:\/\/x\.ai\/bot\/[^)]+)\) - /)?.[1]))) {
+    fail(`${readmeName}: catalog entries belong in catalog/, not the README`);
+  }
+  for (const category of Object.keys(CATEGORY_META)) {
+    const rel = catalogFileFor(category, readmeName);
+    const count = catalog.entries.filter((entry) => entry.category === category).length;
+    if (!text.split("\n").includes(catalogLinkLine(category, readmeName, count))) {
+      fail(`${readmeName}: expected line "${catalogLinkLine(category, readmeName, count)}"`);
+    }
+    const catalogText = readFileSync(join(root, rel), "utf8");
+    checkMarkdownSize(rel, catalogText);
+    catalogLines.set(rel, catalogText.split("\n"));
+    const listed = catalogLines.get(rel).filter((line) => line.startsWith("- [")).length;
+    if (listed !== count) fail(`${rel}: ${listed} list lines, expected ${count} ${category} entries`);
+  }
   for (const entry of catalog.entries) {
+    const fileName = catalogFileFor(entry.category, readmeName);
+    const lines = catalogLines.get(fileName);
     const matches = lines
       .map((line, index) => ({ line, index }))
       .filter(({ line }) => line.startsWith("- [") && line.includes(`](${entry.import}) - `));
     if (matches.length !== 1) {
-      fail(`${readmeName}: expected one catalog line for ${entry.slug}, found ${matches.length}`);
+      fail(`${fileName}: expected one catalog line for ${entry.slug}, found ${matches.length}`);
     }
     const expected = expectedReadmeLine(entry, readmeName);
     if (matches[0].line !== expected) {
-      fail(`${readmeName}:${matches[0].index + 1}: catalog line does not match ${entry.slug}`);
-    }
-    const section = lines
-      .slice(0, matches[0].index + 1)
-      .reverse()
-      .find((line) => line.startsWith("## "));
-    if (section !== `## ${CATEGORY_META[entry.category].heading}`) {
-      fail(`${readmeName}:${matches[0].index + 1}: ${entry.slug} is under the wrong category`);
+      fail(`${fileName}:${matches[0].index + 1}: catalog line does not match ${entry.slug}`);
     }
   }
 

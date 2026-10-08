@@ -5,7 +5,8 @@
 3646 live shares in catalog.json: https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json
 Human index: https://github.com/majiayu000/awesome-grok-bot
 Chinese: https://github.com/majiayu000/awesome-grok-bot/blob/main/README.zh-CN.md
-Shelf (editorial): featured 20, studio-door 150, aka 229, raw 2968 — see docs/studio-doors.md
+Shelf (editorial): featured 20, studio-door 155, aka 283, raw 3188 — see docs/studio-doors.md
+Per-category share lists (Markdown): catalog/en/<category>.md, catalog/zh-CN/<category>.md
 Featured notes: templates/
 Vetting: docs/vetting.md
 Team recipes (one share = one bot): packs/
