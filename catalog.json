@@ -79624,6 +79624,336 @@
       "verified": false,
       "updated": "2026-10-08",
       "shelf": "raw"
+    },
+    {
+      "slug": "stevecad",
+      "name": "SteveCAD",
+      "author": {
+        "name": "10_X_eng",
+        "url": "https://x.com/10_X_eng"
+      },
+      "summary": "Works alongside you in CAD: builds and edits 3D models from instructions, finds catalog parts that fit, and runs analysis studies on the drawing",
+      "summary_zh": "陪你做 CAD：按指令建模和修改 3D 模型，找合适的标准件，并对图纸跑分析",
+      "import": "https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_",
+      "source": "https://x.com/10_X_eng/status/2108346976160928220",
+      "category": "coding-shipping",
+      "tags": [
+        "cad",
+        "3d",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fit-coach",
+      "name": "Fit Coach",
+      "author": {
+        "name": "centurion1775",
+        "url": "https://x.com/centurion1775"
+      },
+      "summary": "Asks two daily questions about how your body feels and when you last trained, then picks a strength, power, speed or recovery day and writes the workout",
+      "summary_zh": "每天问两个问题：身体感觉如何、上次训练多久前，然后选力量、爆发、速度或恢复日并写出当天训练",
+      "import": "https://x.ai/bot/029xyNepam5LGMNYLIDP8",
+      "source": "https://x.com/centurion1775/status/2108346019414994949",
+      "category": "personal-admin",
+      "tags": [
+        "fitness",
+        "training",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "second-look",
+      "name": "Second Look",
+      "author": {
+        "name": "cradrrat",
+        "url": "https://x.com/cradrrat"
+      },
+      "summary": "Reads a suspended GitHub account's repos against the platform rules, quotes likely breaches with evidence, and drafts an appeal you send yourself",
+      "summary_zh": "对照平台规则检查被封 GitHub 账号的仓库，引用疑似违规及证据，并写好申诉信由你自己发送",
+      "import": "https://x.ai/bot/1xkIClLvscskj-Q4LsQIy",
+      "source": "https://x.com/cradrrat/status/2108335312669986890",
+      "category": "coding-shipping",
+      "tags": [
+        "github",
+        "appeal",
+        "support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "author": {
+        "name": "_The_Lake",
+        "url": "https://x.com/_The_Lake"
+      },
+      "summary": "Nightly snapshots every bot you run (profile, routines, working state) to Google Drive and flags instructions drifting from what you wrote",
+      "summary_zh": "每晚把你所有 bot 的资料、例行任务和工作状态快照存到 Google Drive，并标出偏离原始指令的改动",
+      "import": "https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr",
+      "source": "https://x.com/_The_Lake/status/2108328361756172593",
+      "category": "teams-handoffs",
+      "tags": [
+        "backup",
+        "bots",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "chief-of-staff-fleet",
+      "name": "Chief of Staff Fleet",
+      "author": {
+        "name": "sravanjay",
+        "url": "https://x.com/sravanjay"
+      },
+      "summary": "A coordinator over six life-area helpers (projects, health, relationships, calendar, notes) that rolls up one morning briefing; nothing sent without sign-off",
+      "summary_zh": "一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西",
+      "import": "https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE",
+      "source": "https://x.com/sravanjay/status/2108323707689341106",
+      "category": "teams-handoffs",
+      "tags": [
+        "agent-team",
+        "briefing",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "shopify-bot",
+      "name": "Shopify Bot",
+      "author": {
+        "name": "nick_nehaul",
+        "url": "https://x.com/nick_nehaul"
+      },
+      "summary": "Runs a Shopify store day to day via the official plugin: catalog tidying, stock watching, conversion work and customer questions",
+      "summary_zh": "通过官方插件日常打理 Shopify 店铺：整理商品、盯库存、优化转化、回复顾客问题",
+      "import": "https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE",
+      "source": "https://x.com/nick_nehaul/status/2108304525866193171",
+      "category": "customer-sales",
+      "tags": [
+        "shopify",
+        "ecommerce",
+        "support"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "devin-manager",
+      "name": "Devin Manager",
+      "author": {
+        "name": "kr0der",
+        "url": "https://x.com/kr0der"
+      },
+      "summary": "Opens Devin sessions per job, steers drifting agents, and brings screenshots and test recordings back into the chat for review",
+      "summary_zh": "为每个任务开 Devin 会话，纠正跑偏的 agent，并把截图和测试录屏带回聊天里供你审阅",
+      "import": "https://x.ai/bot/p6mYbkrvmKcJ5THLVz-EH",
+      "source": "https://x.com/kr0der/status/2108240764488864114",
+      "category": "coding-shipping",
+      "tags": [
+        "devin",
+        "agents",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "expo-builder",
+      "name": "Expo Builder",
+      "author": {
+        "name": "_philpl",
+        "url": "https://x.com/_philpl"
+      },
+      "summary": "Scaffolds a mobile project with pnpm, reviews each change, and runs the app on EAS cloud simulators via dev builds and tunnels",
+      "summary_zh": "用 pnpm 起移动项目，审每次改动，并通过 dev build 和隧道在 EAS 云模拟器上跑应用",
+      "import": "https://x.ai/bot/JjH-pvNlzX_wMv-YgSrb8",
+      "source": "https://x.com/_philpl/status/2108240617361002980",
+      "category": "coding-shipping",
+      "tags": [
+        "expo",
+        "mobile",
+        "eas"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "music-video",
+      "name": "Music Video",
+      "author": {
+        "name": "bossriceshark",
+        "url": "https://x.com/bossriceshark"
+      },
+      "summary": "Generates a track from your lyrics, syncs every line to the beat, and renders kinetic-typography visuals into a draft music video",
+      "summary_zh": "根据你的歌词生成歌曲，逐句对齐节拍，并渲染动态文字画面，出一版 MV 草稿",
+      "import": "https://x.ai/bot/1Et06G_Q820_RNat-_0tQ",
+      "source": "https://x.com/bossriceshark/status/2108235663493726358",
+      "category": "content-publishing",
+      "tags": [
+        "music",
+        "video",
+        "lyrics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mac-pilot",
+      "name": "Mac Pilot",
+      "author": {
+        "name": "Luca_Hagenmayer",
+        "url": "https://x.com/Luca_Hagenmayer"
+      },
+      "summary": "Controls apps on your Mac (cursor, typing, files, forms) and pauses for confirmation before anything hard to undo like deleting or sending",
+      "summary_zh": "操控你 Mac 上的应用：移动光标、打字、整理文件、填表；删除、发送等难撤销操作先等你确认",
+      "import": "https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q",
+      "source": "https://x.com/Luca_Hagenmayer/status/2108164143572529209",
+      "category": "personal-admin",
+      "tags": [
+        "mac",
+        "computer-use",
+        "automation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "astra-oracle-neuralcataccel",
+      "name": "Astra Oracle",
+      "author": {
+        "name": "NeuralCatAccel",
+        "url": "https://x.com/NeuralCatAccel"
+      },
+      "summary": "Sits above your Cursor cloud coding agent and runs a Codex CLI session to write structured PLAN and REVIEW packets, never code",
+      "summary_zh": "在 Cursor 云端编码 agent 之上，用 Codex CLI 产出结构化的 PLAN 和 REVIEW，从不写代码",
+      "import": "https://x.ai/bot/KUVDy0-4lTMX59aJpvkEE",
+      "source": "https://x.com/NeuralCatAccel/status/2108163584773562578",
+      "category": "coding-shipping",
+      "tags": [
+        "planning",
+        "code-review",
+        "codex"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "news-feed",
+      "name": "News Feed",
+      "author": {
+        "name": "Av1dlive",
+        "url": "https://x.com/Av1dlive"
+      },
+      "summary": "Watches X accounts and RSS feeds you pick and posts a deduplicated news summary every 15 minutes, read-only",
+      "summary_zh": "盯你选定的 X 账号和 RSS 源，每 15 分钟发一份去重新闻摘要，全程只读",
+      "import": "https://x.ai/bot/ERa5jibQitS0Q9xDpEpeL",
+      "source": "https://x.com/Av1dlive/status/2108155052615782427",
+      "category": "research-briefings",
+      "tags": [
+        "news",
+        "rss",
+        "trading"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "your-travel-planner",
+      "name": "Your Travel Planner 🧳",
+      "author": {
+        "name": "mamboitaliano__",
+        "url": "https://x.com/mamboitaliano__"
+      },
+      "summary": "Turns a destination into a realistic day-by-day itinerary with transport and lodging trade-offs, checklists and a fallback plan",
+      "summary_zh": "把目的地排成可行的逐日行程，列出交通住宿利弊、清单和备选方案",
+      "import": "https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG",
+      "source": "https://x.com/mamboitaliano__/status/2108142863519261026",
+      "category": "personal-admin",
+      "tags": [
+        "travel",
+        "itinerary",
+        "planning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "local-business-website-hunter",
+      "name": "Local Business Website Hunter",
+      "author": {
+        "name": "NewLongMoney",
+        "url": "https://x.com/NewLongMoney"
+      },
+      "summary": "Finds local businesses with no website, builds a demo site from their public material, and drafts a quote and pitch email held for your approval",
+      "summary_zh": "找没有网站的本地商家，用其公开资料做演示站，并起草报价和推销邮件，等你批准再发",
+      "import": "https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG",
+      "source": "https://x.com/NewLongMoney/status/2108069128846328185",
+      "category": "customer-sales",
+      "tags": [
+        "leads",
+        "websites",
+        "outreach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
+    },
+    {
+      "slug": "phone-call-bot",
+      "name": "Phone Call Bot",
+      "author": {
+        "name": "JooVoice",
+        "url": "https://x.com/JooVoice"
+      },
+      "summary": "Linked to a JooVoice number, places calls for you: booking appointments, chasing refunds, cancelling bookings, asking shops for quotes",
+      "summary_zh": "接上 JooVoice 号码后替你打电话：约时间、催退款、取消预订、问店铺报价",
+      "import": "https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj",
+      "source": "https://x.com/JooVoice/status/2108048564660416776",
+      "category": "personal-admin",
+      "tags": [
+        "phone",
+        "calls",
+        "errands"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-09",
+      "shelf": "raw"
     }
   ]
 }
