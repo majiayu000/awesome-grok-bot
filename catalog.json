@@ -79954,6 +79954,477 @@
       "verified": false,
       "updated": "2026-10-09",
       "shelf": "raw"
+    },
+    {
+      "slug": "sittawhile",
+      "name": "Sittawhile",
+      "author": {
+        "name": "Michael"
+      },
+      "summary": "A warm companion for people who spend a lot of time alone: short daily visits in a voice you choose",
+      "summary_zh": "给常独处的人一个温暖陪伴：每天用你选的声音来聊几句",
+      "import": "https://x.ai/bot/50a-UaeqVWBnrZICU7Jti",
+      "category": "personal-admin",
+      "tags": [
+        "companion",
+        "voice"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tesla-dj",
+      "name": "Tesla DJ",
+      "author": {
+        "name": "Collin"
+      },
+      "summary": "Spotify Premium playlist control for Tesla owners: add, move, undo and queue songs by chat",
+      "summary_zh": "给特斯拉车主的 Spotify 歌单遥控：聊天就能加歌、挪歌、撤销和排队",
+      "import": "https://x.ai/bot/7eNHk3dIdqm41qsqQxUKd",
+      "category": "personal-admin",
+      "tags": [
+        "spotify",
+        "tesla",
+        "music"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "beat-cut",
+      "name": "Beat Cut",
+      "author": {
+        "name": "DisruptionUp",
+        "url": "https://x.com/DisruptionUp"
+      },
+      "summary": "Turns your song, or a beat it composes, into a beat-synced music video while keeping API costs low",
+      "summary_zh": "把你的歌或它作的曲做成卡点 MV，尽量省 API 成本",
+      "import": "https://x.ai/bot/9VWen13yCOgJi--kDJtcW",
+      "category": "content-publishing",
+      "tags": [
+        "music-video",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ancestry-bot",
+      "name": "Ancestry Bot",
+      "author": {
+        "name": "mcdanderson",
+        "url": "https://x.com/mcdanderson"
+      },
+      "summary": "Genealogy assistant that builds and verifies your family tree from real records and DNA, citing every fact",
+      "summary_zh": "家谱研究助手：用真实档案和 DNA 建立并核实家族树，每条事实都附来源",
+      "import": "https://x.ai/bot/AINP9mLXBIt__NMVeFXGO",
+      "category": "personal-admin",
+      "tags": [
+        "genealogy",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "homehalo",
+      "name": "HomeHalo",
+      "author": {
+        "name": "bedpost"
+      },
+      "summary": "Home-maintenance assistant: finds manuals from appliance labels, schedules upkeep and watches recalls and warranties",
+      "summary_zh": "家居保养助手：拍家电铭牌找说明书，排保养计划，盯召回和保修",
+      "import": "https://x.ai/bot/FpdbqJCh_MUJ99UBjd6mK",
+      "category": "personal-admin",
+      "tags": [
+        "home",
+        "maintenance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "storagebot",
+      "name": "StorageBot",
+      "author": {
+        "name": "Andrew",
+        "url": "https://x.com/andrewslaptop"
+      },
+      "summary": "Maps Mac disk space and plugged-in drives; never deletes, moves or formats without an exact yes",
+      "summary_zh": "盘点 Mac 磁盘和外接硬盘空间，没有明确同意绝不删除、移动或格式化",
+      "import": "https://x.ai/bot/JgnU5msSvNDUyc_-E0sKO",
+      "category": "coding-shipping",
+      "tags": [
+        "mac",
+        "disk"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "rental-investor-research-desk",
+      "name": "Rental Investor Research Desk",
+      "author": {
+        "name": "Tom"
+      },
+      "summary": "Research desk for small rental investors: screens listings against your buy box, logs rents and helps underwrite deals",
+      "summary_zh": "小型房东投资研究台：按你的标准筛房源，记录租金，帮你测算交易",
+      "import": "https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt",
+      "category": "finance-ops",
+      "tags": [
+        "real-estate",
+        "investing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "night-shift-morrigancora",
+      "name": "Night Shift",
+      "author": {
+        "name": "MorriganCora",
+        "url": "https://x.com/MorriganCora"
+      },
+      "summary": "Overnight steward that nudges your other bots to stay efficient and tidy, speaking up only when something is wrong",
+      "summary_zh": "夜班管家：每晚督促其他 bot 省用量、清理标签页和临时文件，有问题才开口",
+      "import": "https://x.ai/bot/SLLBNwseegBForG62KVRC",
+      "category": "teams-handoffs",
+      "tags": [
+        "maintenance",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sg-cards-guide",
+      "name": "SG Cards Guide",
+      "author": {
+        "name": "varunparakh",
+        "url": "https://x.com/varunparakh"
+      },
+      "summary": "Information-only guide to Singapore credit cards, answering from an open, bank-cited dataset",
+      "summary_zh": "新加坡信用卡信息指南：基于引用银行来源的公开数据回答，只提供信息",
+      "import": "https://x.ai/bot/UXBrZP3ZZJYUIFJLf1SkV",
+      "category": "personal-admin",
+      "tags": [
+        "singapore",
+        "credit-cards"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "cloud-file-mover",
+      "name": "Cloud File Mover",
+      "author": {
+        "name": "Heidi"
+      },
+      "summary": "Moves photos, videos and files between cloud services in safe batches and verifies every file arrived intact",
+      "summary_zh": "在云服务之间分批搬运照片、视频和文件，逐个核对完整到达",
+      "import": "https://x.ai/bot/Viss4kB3hUAxd_uw74t4t",
+      "category": "personal-admin",
+      "tags": [
+        "cloud",
+        "files"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "builder-prime",
+      "name": "Builder Prime",
+      "author": {
+        "name": "Michael"
+      },
+      "summary": "Builder half of a two-bot coding team with Gatekeeper Prime: plans, codes, tests, opens PRs and fixes review findings",
+      "summary_zh": "双 bot 编程组的开发方，搭配 Gatekeeper Prime：规划、写码、测试、开 PR 并按评审修改",
+      "import": "https://x.ai/bot/W_emQTXhJxJWJOi-c3hjD",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "pull-requests"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gatekeeper-prime",
+      "name": "Gatekeeper Prime",
+      "author": {
+        "name": "Michael"
+      },
+      "summary": "Reviewer half of a two-bot coding team with Builder Prime: reviews every PR, demands proof and merges only on your yes",
+      "summary_zh": "双 bot 编程组的评审方，搭配 Builder Prime：审每个 PR、要求证据，你同意才合并",
+      "import": "https://x.ai/bot/re7nU5kngjZPu3qNtvzUx",
+      "category": "coding-shipping",
+      "tags": [
+        "code-review",
+        "pull-requests"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "family-organizer",
+      "name": "Family Organizer",
+      "author": {
+        "name": "PrairieWatcher",
+        "url": "https://x.com/PrairieWatcher"
+      },
+      "summary": "Turns forwarded school emails into kid digests and calendar events, plus chore reminders and a weekly meal plan",
+      "summary_zh": "把转发的学校邮件变成孩子摘要和日历事件，还有家务提醒和每周餐单",
+      "import": "https://x.ai/bot/ZXZJKvToI4zz1t935mr7q",
+      "category": "personal-admin",
+      "tags": [
+        "family",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bob-prairiewatcher",
+      "name": "Bob",
+      "author": {
+        "name": "PrairieWatcher",
+        "url": "https://x.com/PrairieWatcher"
+      },
+      "summary": "Build project coordinator for owner-builders: keeps you on the critical path, runs trade expert bots and sends a weekly plan",
+      "summary_zh": "自建房项目协调员：盯关键路径，调度各工种专家 bot，每周发计划",
+      "import": "https://x.ai/bot/m9Cywb2QyPGZnl4l70aR-",
+      "category": "personal-admin",
+      "tags": [
+        "construction",
+        "project-management"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tiktok-downloader",
+      "name": "TikTok Downloader",
+      "author": {
+        "name": "Heidi"
+      },
+      "summary": "Paste a TikTok link and get the video, or just its audio, saved to your computer",
+      "summary_zh": "贴 TikTok 链接，把视频或音频保存到电脑",
+      "import": "https://x.ai/bot/d-8Ufl3xjScgPS7putqr7",
+      "category": "content-publishing",
+      "tags": [
+        "tiktok",
+        "download"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "hurricane-watch",
+      "name": "Hurricane Watch",
+      "author": {
+        "name": "Jeremy"
+      },
+      "summary": "Tracks Atlantic and Gulf tropical systems and explains in plain words what a storm means for your location",
+      "summary_zh": "追踪大西洋和墨西哥湾热带气旋，用大白话讲风暴对你所在位置的影响",
+      "import": "https://x.ai/bot/fiVZA-y8AnlvIdb-oNBH6",
+      "category": "personal-admin",
+      "tags": [
+        "weather",
+        "hurricane"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "cline",
+      "name": "cline",
+      "author": {
+        "name": "weeb3dev",
+        "url": "https://x.com/weeb3dev"
+      },
+      "summary": "Installs and drives Cline CLI and Desktop on its own computer so you can hand off tasks and get verified results",
+      "summary_zh": "在自己的电脑上装好并驱动 Cline CLI 和桌面版，交任务给它拿回验证过的结果",
+      "import": "https://x.ai/bot/gL7FcTFcs1SHMCD3pozTM",
+      "category": "coding-shipping",
+      "tags": [
+        "cline",
+        "coding-agent"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-bot-wad0427",
+      "name": "X監視Bot",
+      "author": {
+        "name": "wad0427",
+        "url": "https://x.com/wad0427"
+      },
+      "summary": "Watches chosen X accounts, lists and keywords and sends a morning digest of rising posts and replies to you (Japanese)",
+      "summary_zh": "盯指定的 X 账号、列表和关键词，每早汇总起量帖和对你的回应（日语）",
+      "import": "https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "monitoring",
+        "japanese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "testchimp-qa-bot",
+      "name": "TestChimp QA Bot",
+      "author": {
+        "name": "Nuwan"
+      },
+      "summary": "QA bot for AI coding agents per TestChimp project: watches pushes and test results and runs the next QA step on approval",
+      "summary_zh": "给 AI 编程 agent 配的 QA bot：盯推送和测试结果，你批准后执行下一步 QA",
+      "import": "https://x.ai/bot/jYqZ5GfGQhddkJmErACwe",
+      "category": "teams-handoffs",
+      "tags": [
+        "qa",
+        "testing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "takibi-ops",
+      "name": "Takibi Ops",
+      "author": {
+        "name": "Deian"
+      },
+      "summary": "Drives your Takibi Base board and docs from chat through the takibi CLI",
+      "summary_zh": "通过 takibi CLI 在聊天里操作你的 Takibi Base 看板和文档",
+      "import": "https://x.ai/bot/nHK32i1egqWUdv1mhvvW2",
+      "category": "personal-admin",
+      "tags": [
+        "takibi",
+        "cli"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ccn",
+      "name": "CCN",
+      "author": {
+        "name": "MagaShawn",
+        "url": "https://x.com/MagaShawn"
+      },
+      "summary": "Live crypto and AI-agent news desk pulling the latest CCN headlines on Bitcoin, markets, DeFi and x402",
+      "summary_zh": "加密和 AI agent 新闻台：拉取 CCN 关于比特币、市场、DeFi 和 x402 的最新头条",
+      "import": "https://x.ai/bot/nxJpEb_kwY2NqXnGA0krW",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "news"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai",
+      "name": "AI 官号雷达",
+      "author": {
+        "name": "Chaosai0",
+        "url": "https://x.com/Chaosai0"
+      },
+      "summary": "Monitors AI company and coding-agent X accounts for launches, credits and pricing changes, with twice-daily Chinese digests",
+      "summary_zh": "监控 AI 公司和编程 agent 的 X 官号，新品、额度、价格变动即时推送，早晚中文汇总",
+      "import": "https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi",
+      "category": "research-briefings",
+      "tags": [
+        "ai-news",
+        "x",
+        "chinese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai-official-account-radar",
+      "name": "AI Official Account Radar",
+      "author": {
+        "name": "Chaosai0",
+        "url": "https://x.com/Chaosai0"
+      },
+      "summary": "Monitors official AI and coding-agent X accounts for new models, free credits and pricing changes, with morning and evening digests",
+      "summary_zh": "监控 AI 和编程 agent 官方 X 账号，提醒新模型、免费额度和定价变化，早晚各一份汇总",
+      "import": "https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF",
+      "category": "research-briefings",
+      "tags": [
+        "ai-news",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dr-codexbot",
+      "name": "Dr. CodexBot",
+      "author": {
+        "name": "Semantic_Craft"
+      },
+      "summary": "Brings official Codex Desktop into your Grok Bot team through an open-source bridge",
+      "summary_zh": "通过开源桥接把官方 Codex 桌面版接入你的 Grok Bot 团队",
+      "import": "https://x.ai/bot/ykLC52WABc0cWPpl6b3MH",
+      "category": "coding-shipping",
+      "tags": [
+        "codex",
+        "bridge"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-10",
+      "shelf": "raw"
     }
   ]
 }
