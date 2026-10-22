@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 5543 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 5545 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -109,13 +109,13 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Inbox & calendar](#inbox--calendar) | 222 |
 | [Research & briefings](#research--briefings) | 665 |
 | [Customer & sales](#customer--sales) | 449 |
-| [Finance & ops](#finance--ops) | 627 |
+| [Finance & ops](#finance--ops) | 629 |
 | [Content & publishing](#content--publishing) | 658 |
 | [Personal admin](#personal-admin) | 1574 |
 | [Teams & handoffs](#teams--handoffs) | 594 |
-| **Total** | **5543** |
+| **Total** | **5545** |
 
-On 23 Oct 2026, 5508 of 5543 share pages returned HTTP 200 (35 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 5543 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 23 Oct 2026, 5508 of 5543 share pages returned HTTP 200 (35 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 5545 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -269,7 +269,7 @@ Full list (449 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales
 
 ## Finance & ops
 
-Full list (627 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
+Full list (629 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 

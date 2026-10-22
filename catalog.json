@@ -116940,6 +116940,50 @@
       "verified": false,
       "updated": "2026-10-23",
       "shelf": "aka"
+    },
+    {
+      "slug": "pumpfun-dev-check",
+      "name": "pump.fun dev check",
+      "author": {
+        "name": "pumpdata.fun",
+        "url": "https://x.com/pumpdatafun"
+      },
+      "summary": "Reads dev history and holdings via pumpdata.fun. Limited free access; optional email/key signup with consent. No trades or pump.fun affiliation.",
+      "summary_zh": "通过 pumpdata.fun 读取开发者历史和早期持仓。免费接口有限额；可选邮箱/API key 注册需先获同意。不交易，与 pump.fun 无关联。",
+      "import": "https://x.ai/bot/_YDgLvBN91gVc6aDdcD96",
+      "source": "https://github.com/pumpdatafun/grokbot-pumpfun-template",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "research",
+        "finance"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pumpfun-daily",
+      "name": "pump.fun daily",
+      "author": {
+        "name": "pumpdata.fun",
+        "url": "https://x.com/pumpdatafun"
+      },
+      "summary": "Each morning sends yesterday's pump.fun launches, graduations, volume, busiest coins and odds, via pumpdata.fun. Free, read-only. Not affiliated with pump.fun.",
+      "summary_zh": "每天早上发送 pump.fun 昨日概况，包括发币数、毕业数、交易量、最活跃的币和各市值段的概率，数据来自 pumpdata.fun 免费接口。免费使用，只读，不交易。与 pump.fun 无关联。",
+      "import": "https://x.ai/bot/Cog-D_HjN4wAK_3arFAWM",
+      "source": "https://github.com/pumpdatafun/grokbot-pumpfun-template",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "briefing",
+        "scheduled"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
     }
   ]
 }

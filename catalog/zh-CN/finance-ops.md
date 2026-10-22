@@ -629,3 +629,5 @@
 - [记账管家](https://x.ai/bot/WW-UbmTKXn79q0yXapvJE) - 用文字、小票截图或语音入账的私人账本，可选同步飞书多维表。 [铁柱AGI](https://x.com/cgnot996).
 - [财报锦囊](https://x.ai/bot/d48QaYERwvgtUmYsGlyz8) - 给美股 ticker 做最新一季财报中文速读，对照 LSEG 一致预期与指引电话会要点，不给买卖建议. [CHENG](https://x.com/kaixinluo6268).
 - [账单进口](https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH) - 把微信和支付宝账单 CSV 或截图解析去重分类，预览确认后再写入账本。 Tony.
+- [pump.fun dev check](https://x.ai/bot/_YDgLvBN91gVc6aDdcD96) - 通过 pumpdata.fun 读取开发者历史和早期持仓。免费接口有限额；可选邮箱/API key 注册需先获同意。不交易，与 pump.fun 无关联。 [pumpdata.fun](https://x.com/pumpdatafun).
+- [pump.fun daily](https://x.ai/bot/Cog-D_HjN4wAK_3arFAWM) - 每天早上发送 pump.fun 昨日概况，包括发币数、毕业数、交易量、最活跃的币和各市值段的概率，数据来自 pumpdata.fun 免费接口。免费使用，只读，不交易。与 pump.fun 无关联。 [pumpdata.fun](https://x.com/pumpdatafun).

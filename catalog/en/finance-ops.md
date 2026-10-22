@@ -629,3 +629,5 @@ Back to [README](../../README.md)
 - [记账管家](https://x.ai/bot/WW-UbmTKXn79q0yXapvJE) - Private ledger fed by text, receipt photos, or voice notes, with optional Feishu sync. [铁柱AGI](https://x.com/cgnot996).
 - [财报锦囊](https://x.ai/bot/d48QaYERwvgtUmYsGlyz8) - Chinese earnings reader for a US ticker\: latest quarter, LSEG consensus, guidance, and call points in a 7-point brief. [CHENG](https://x.com/kaixinluo6268).
 - [账单进口](https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH) - Imports WeChat and Alipay bill CSV or screenshots into a ledger after you confirm the preview. Tony.
+- [pump.fun dev check](https://x.ai/bot/_YDgLvBN91gVc6aDdcD96) - Reads dev history and holdings via pumpdata.fun. Limited free access; optional email/key signup with consent. No trades or pump.fun affiliation. [pumpdata.fun](https://x.com/pumpdatafun).
+- [pump.fun daily](https://x.ai/bot/Cog-D_HjN4wAK_3arFAWM) - Each morning sends yesterday's pump.fun launches, graduations, volume, busiest coins and odds, via pumpdata.fun. Free, read-only. Not affiliated with pump.fun. [pumpdata.fun](https://x.com/pumpdatafun).

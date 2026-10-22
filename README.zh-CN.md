@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 5543 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 5545 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -109,13 +109,13 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Inbox & calendar](#inbox--calendar) | 222 |
 | [Research & briefings](#research--briefings) | 665 |
 | [Customer & sales](#customer--sales) | 449 |
-| [Finance & ops](#finance--ops) | 627 |
+| [Finance & ops](#finance--ops) | 629 |
 | [Content & publishing](#content--publishing) | 658 |
 | [Personal admin](#personal-admin) | 1574 |
 | [Teams & handoffs](#teams--handoffs) | 594 |
-| **合计** | **5543** |
+| **合计** | **5545** |
 
-2026 年 10 月 23 日检查时，5543 个分享页中 5508 个返回 HTTP 200（35 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 5543 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 23 日检查时，5543 个分享页中 5508 个返回 HTTP 200（35 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 5545 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -269,7 +269,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Finance & ops
 
-完整列表（627 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（629 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
