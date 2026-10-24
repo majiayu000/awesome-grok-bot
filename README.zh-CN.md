@@ -428,6 +428,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 橙皮书见上面的 [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book)。
 - [面向小企业的 Grok Bot 设置指南](https://whatshouldmybotdo.com/guides/grok-bot-setup-guide) - WhatShouldMyBotDo。首个 Bot、连接器权限、“草稿需你批准”规则，然后是第一个例行任务。
+- [grokguide.si 中文教程站](https://grokguide.si/) - 非官方中文教程站。从 0 到 1 课程，加上安装、例行任务、技能和 Linux 版的分步实操。
 
 ## 评测
 
