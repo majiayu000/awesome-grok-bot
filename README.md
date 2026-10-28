@@ -331,6 +331,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [Convoy](https://github.com/Deploy-Forward/convoy) - Public MCP plus hop CLI. Grok Bot conducts; BYO harness CLIs do the hops.
 - [grokbot-openai](https://github.com/owenisas/grokbot-openai) - PKCE login like the app, then a local OpenAI /v1/chat/completions for Hermes, OpenCode, or curl.
 - [grok-bot-gateway](https://github.com/dimpurr/grok-bot-gateway) - Skill so Claude Code, Codex, or scripts can list Grok Bots, read a transcript, and message a Bot through an official webhook routine. Results come back over a return path you choose, none by default.
+- [aibot-hostkit](https://github.com/monarchsofchaos004-gif/aibot-hostkit) - One-command setup for the Bot computer: keeps Claude Code, Codex or Gemini CLI running in tmux, restarts it if it dies, and pings your phone (ntfy / Telegram / Discord / LINE). Unofficial; not yet tested on a live Bot computer.
 
 ### Chat bridges
 
