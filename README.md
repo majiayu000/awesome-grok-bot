@@ -390,6 +390,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [pigeon-mcp](https://github.com/iXanadu/pigeon-mcp) - Self-hosted multi-account Gmail MCP with real MIME send and attachments, not Google's hosted MCP.
 - [multiBot](https://github.com/simo255/multiBot) - Factory pack that spawns CLI-delegated teammates through CreateAgent.
 - [GojiberryAI Sales OS](https://github.com/romangojiberryAI/gojiberryai-sales-os) - Open outbound sales roster for Grok Bot on the GojiberryAI MCP.
+- [deed-page-skill](https://github.com/f-o-x11/deed-page-skill) - Skill plus `.grok-plugin` and remote MCP so a Bot can publish HTML or a folder to a permanent `<slug>.deed.page` URL, no account needed.
 
 ### Open-source alternatives
 
