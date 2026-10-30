@@ -346,6 +346,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [grokbot-discord](https://github.com/RudeDude/grokbot-discord) - Python Discord 网关。一个 Discord bot 管多个 Grok Bot，webhook 叫醒，异步回帖。
 - [Discord for Grok Bot](https://github.com/NinjaProtocol/grokbot-discord-plugin) - 可粘贴的 Discord 插件。白名单频道里的 @ 会叫醒 Bot。
 - [twilio-grok-voice-bridge](https://github.com/jeffhuber/twilio-grok-voice-bridge) - 实验性 Twilio Media Streams 桥，让 Bot 打出站 Grok Voice 电话。
+- [call-me](https://github.com/radres/call-me) - 远程 MCP 服务器加 Grok 插件，让代理给你的手机打电话或发消息，并把你的口头回答以文字送回。
 
 ### 技能包和玩法
 
