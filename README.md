@@ -346,6 +346,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [grokbot-discord](https://github.com/RudeDude/grokbot-discord) - Python Discord gateway. One Discord bot, many Grok Bots, webhook wake, async reply.
 - [Discord for Grok Bot](https://github.com/NinjaProtocol/grokbot-discord-plugin) - Paste-in Discord plugin. Mentions in allowlisted channels wake the Bot.
 - [twilio-grok-voice-bridge](https://github.com/jeffhuber/twilio-grok-voice-bridge) - Experimental Twilio Media Streams bridge so a Bot can place outbound Grok Voice calls.
+- [call-me](https://github.com/radres/call-me) - Remote MCP server and Grok plugin so an agent can ring or text your phone and take your spoken answer back as text.
 
 ### Skill packs and playbooks
 
