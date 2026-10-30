@@ -331,6 +331,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [Convoy](https://github.com/Deploy-Forward/convoy) - Public MCP plus hop CLI. Grok Bot conducts; BYO harness CLIs do the hops.
 - [grokbot-openai](https://github.com/owenisas/grokbot-openai) - PKCE login like the app, then a local OpenAI /v1/chat/completions for Hermes, OpenCode, or curl.
 - [grok-bot-gateway](https://github.com/dimpurr/grok-bot-gateway) - Skill so Claude Code, Codex, or scripts can list Grok Bots, read a transcript, and message a Bot through an official webhook routine. Results come back over a return path you choose, none by default.
+- [Ironheights](https://github.com/Frank-Masciopinto/ironheights) - Open-source, local-first CLI that scans a skill folder with a `SKILL.md` for prompt injection, credential reads, and remote-exec installs before you add it to a Bot. Static rules only, so a clean result is not proof of safety.
 
 ### Chat bridges
 
