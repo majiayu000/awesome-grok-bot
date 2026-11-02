@@ -390,6 +390,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [pigeon-mcp](https://github.com/iXanadu/pigeon-mcp) - 自托管多账号 Gmail MCP 可真正组 MIME 发信与附件。
 - [multiBot](https://github.com/simo255/multiBot) - 工厂包。用 CreateAgent 拉起把重活交给 CLI 的队友。
 - [GojiberryAI Sales OS](https://github.com/romangojiberryAI/gojiberryai-sales-os) - 挂在 GojiberryAI MCP 上的开源外销销售小队。
+- [deed-page-skill](https://github.com/f-o-x11/deed-page-skill) - 技能包加 `.grok-plugin` 和远程 MCP，让 Bot 把 HTML 或整个文件夹发布成永久的 `<slug>.deed.page` 网址，无需注册账号。
 
 ### 开源替代
 
