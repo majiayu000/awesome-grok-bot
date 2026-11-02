@@ -152284,6 +152284,26 @@
       "verified": false,
       "updated": "2026-11-02",
       "shelf": "raw"
+    },
+    {
+      "slug": "skeinbot",
+      "name": "SkeinBot",
+      "author": {
+        "name": "FegaPierre",
+        "url": "https://x.com/FegaPierre"
+      },
+      "summary": "Turns one idea into a closed PRD around a measurable outcome, then a one-role-per-bot swarm spec, and creates no bot until you say yes to each seat",
+      "summary_zh": "把一个想法收敛成围绕可衡量结果的 PRD，再拆成一角色一机器人的协作方案；每个席位都要你同意后才创建",
+      "import": "https://x.ai/bot/A4m2jiIPNxiE514fI2L2h",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "planning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
     }
   ]
 }

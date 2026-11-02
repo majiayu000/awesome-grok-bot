@@ -789,3 +789,4 @@ Back to [README](../../README.md)
 - [Team Front Door](https://x.ai/bot/ihywZwdvzvh6Oc67fh08k) - A front door bot that runs a whole team of helper bots for one person. [SpreadMisery](https://x.com/lowbudetmisery).
 - [Grok Bot Factory](https://x.ai/bot/SbuZfViNYHIEvK1jaBF85) - A fun showroom for your Grok Bot fleet. It builds a 'factory office' Page with a desk for every bot, showing its job, picture, template link and status,. James.
 - [Usage Watch Walt](https://x.ai/bot/aPgoCcrr2G2TOjYzjocbz) - A friendly, plain-English Grok Bot usage watchdog. It shows a green, yellow or red gauge with a forecast, finds the bots and routines using the most,. James.
+- [SkeinBot](https://x.ai/bot/A4m2jiIPNxiE514fI2L2h) - Turns one idea into a closed PRD around a measurable outcome, then a one-role-per-bot swarm spec, and creates no bot until you say yes to each seat. [FegaPierre](https://x.com/FegaPierre).

@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7327 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 7328 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -112,10 +112,10 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Finance & ops](#finance--ops) | 728 |
 | [Content & publishing](#content--publishing) | 934 |
 | [Personal admin](#personal-admin) | 2225 |
-| [Teams & handoffs](#teams--handoffs) | 787 |
-| **Total** | **7327** |
+| [Teams & handoffs](#teams--handoffs) | 788 |
+| **Total** | **7328** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7327 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7328 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -281,7 +281,7 @@ Full list (2225 shares): [catalog/en/personal-admin.md](catalog/en/personal-admi
 
 ## Teams & handoffs
 
-Full list (787 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (788 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 
@@ -457,6 +457,6 @@ Do not invent share URLs. Do not paste another person's full standing instructio
 
 ## Related
 
-Community galleries of live shares: [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com)
+Community galleries of live shares: [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com) · [agentcookbook.dev](https://agentcookbook.dev/grok-bot-use-cases)
 
 Catalog and recipes (`catalog.json`, `catalog/`, `templates/`, `packs/`) are CC0-1.0 ([LICENSE](LICENSE)). Scripts (`scripts/`) are MIT ([LICENSE-MIT](LICENSE-MIT)). Chinese: [README.zh-CN.md](README.zh-CN.md).
