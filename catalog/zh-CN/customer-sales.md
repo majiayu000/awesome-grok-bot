@@ -550,3 +550,45 @@
 - [Zoho Small Business Operator](https://x.ai/bot/jvdlRiNID5653J-EMH1q3) - 不用开 12 个标签页就能跑 Zoho 生意：现金、CRM、客户和营销活动，草稿备好，你点头才发. Ev.
 - [ブランドバッグせどりデスク](https://x.ai/bot/KDVj_2v445cX2K7bwBKK6) - 日语二手名牌包倒卖助手（雅虎拍卖进货、Mercari 出售）：判断进货候选、计算利润和最高出价、起草商品描述、更新库存台账。 [Gucci0003123382](https://x.com/Gucci0003123382).
 - [客户军师](https://x.ai/bot/6Kwg0_keDaaNiOvheoLQ7) - 海外达人和 KOL 销售的客户决策顾问：丢来卡住的客户背景、聊天记录和卡点，它先给结论，再拆局面、比方案、定本周下一步。 [shubin](https://x.com/boscoshubin).
+- [Referral Loop Manager](https://x.ai/bot/oAfWMWKilafIUG1sod4Dp) - 帮社群或推荐计划保持活跃，跟踪成员，每周起草召回请求、提醒和创始人更新. [AEGLE](https://x.com/naveenraju30).
+- [AgentStore](https://x.ai/bot/4PhRfCEk25OlY9hwAkXj4) - AgentPayStore 付费 AI 智能体市场的商店服务台. [Shawn](https://x.com/MagaShawn).
+- [Sift](https://x.ai/bot/PX8eADZlGTF6uPc9LyO4j) - 把 X 帖子下的评论筛成排序短名单，适用于抽奖、招聘、反馈和找线索. [Texas](https://x.com/TexasBasedGpa).
+- [CBE Site Specialist](https://x.ai/bot/-Ff6uk9Wu0Ve_m2N5vjUM) - cryptobackedeverything.com 的站点专员，为买家找加密支持的商品，带创作者上架. [tycoon](https://x.com/recycle85).
+- [Agent Visibility Audit by AgentPay](https://x.ai/bot/hmaOSedtl0XZ7jhqnVfe3) - AgentPay 出品的免费只读曝光审计，针对 AI 智能体产品和付费接口. [AgentPay by Shawn](https://x.com/MagaShawn).
+- [Catalog Hygiene](https://x.ai/bot/sXXaY9eLkFYIayeSGqTp7) - 读取你的 Shopify 商品目录，按优先级小批量标出重复、缺标签、划线价错误和空替代文本. [The](https://x.com/TSafety49567).
+- [Contractor Supplement & Missed-Call Front Desk](https://x.ai/bot/lnd5ErImPDh4h7eBb5n8Z) - 把工地照片和语音备忘变成可交给保险理算员的规范升级补充函，并兼任漏接来电前台. [Lisa](https://x.com/LisaMAUSA).
+- [eBay ECommerce](https://x.ai/bot/PHWWiOoIBj5r1alMZGB3M) - eBay 卖家助手，按成交价给商品定价，优化标题和运费，并起草新商品页. [ジャンプスーツ](https://x.com/JSA_Dev).
+- [eBay Photo Lister](https://x.ai/bot/b27EIYjEqg30IeFmJR31k) - 发来要卖的物品照片，得到可直接粘贴的 eBay 商品页，含定价、标题、类别和描述. [H⭕FFA](https://x.com/djjimmyhoffa).
+- [Homepage Advisor · Shopify Merchandising](https://x.ai/bot/I7HbeXWOaffbgdwGAd-d2) - 在未发布的 Shopify 主题副本上制作首页横幅、轮播和精选商品陈列. [The](https://x.com/TSafety49567).
+- [Life Insurance Sales Coach](https://x.ai/bot/1d0EYzM8Ymt5uDJTPhWbr) - 给上门和电话推销的寿险代理的实战教练，提供异议演练、话术脚本和短视频开头. [Drew](https://x.com/KnockandCloseHQ).
+- [Product Cataloger](https://x.ai/bot/yuRd3EvmDuoGYSr5_Tjz7) - 把你的商品整理成 PDF 目录，含 SKU、标签、分类和缩略图. [Jenny](https://x.com/JennyMarquis).
+- [Promo Library](https://x.ai/bot/9c7-yXkBpdaQWDZJxoAWJ) - 管理你的 Shopify 促销素材库和日历，整理 Drive 里的活动素材包，跟踪日期和规则. [The](https://x.com/TSafety49567).
+- [Rank](https://x.ai/bot/5RIX2aYLkHJz303goBCwC) - 负责一个网站的 SEO 和 AI 搜索曝光，每天查看 Search Console 和分析数据. [austindixson_](https://x.com/austindixson_).
+- [Salon Suite, MedSpa & Solo Stylist Front Desk](https://x.ai/bot/7b1I98Ms3Iu8Z59LDSx8R) - 面向独立沙龙套间租户、发型师和美睫师的全天候 iPhone 前台协调员. [Lisa](https://x.com/LisaMAUSA).
+- [闲鱼上架助手](https://x.ai/bot/K5q7rTJwo5yij06zM1HR7) - 帮你在闲鱼做对标、文案、主图和填表，默认停在发布前，你点头才发布. [huang](https://x.com/nocommentyetinx).
+- [Chargeback Comeback](https://x.ai/bot/eGAJSDnqosNcrZy-3zKmj) - 帮小企业主赢回本该赢的拒付争议. [Mark](https://x.com/TheMarkGShow).
+- [Dollar Drive](https://x.ai/bot/1oa9vtFZ0DJkcvhs-DN3V) - 一次一美元地开展任意筹款，设定目标和配图即可. [@suddenlyjon](https://x.com/SuddenlyJon).
+- [Grok Bot Text & Voicemail](https://x.ai/bot/z2ds5I1IWLO2M1lFFvhQ4) - 为小企业或不想公开私人号码的人提供来电短信和语音信箱前台. [Brian](https://x.com/empathic_lead3r).
+- [Hazel · Comms and Community](https://x.ai/bot/aNzsOCQEv9JJDk0Rgzc4k) - 敏锐温暖的传播主管，盯博客评论和社媒回复，起草回应供你批准，并准备电话沟通. [DarinRMcClure](https://x.com/DarinRMcClure).
+- [Pipeline Pulse](https://x.ai/bot/TdqNyDb1d_x4J5e4SupKA) - 只读你的 iMessage、短信和 WhatsApp 记录，找出忘了跟进的交易和该联系的人. [joseph🕊️](https://x.com/josephxhenry).
+- [Product Algorithm](https://x.ai/bot/_Q7Y8d1MjBiZ-iGNz579Q) - 把自由职业者或创意策略师的客户作品变成可售卖的课程库. [Sigmaletter](https://x.com/sigmaletter).
+- [Prox Bot](https://x.ai/bot/08swzfqFCInw4d4LI1Dlu) - 帮本地商家在 Prox 上注册的友好向导. [Static](https://x.com/staticisgucci).
+- [Small Business Receptionist](https://x.ai/bot/SJIjPFUAWqHRMSOHDsFEh) - 用 ClawCall 接听你的商务电话，回答常见问题，记录线索和留言，紧急来电拉你进来. [ClawCall](https://x.com/clawcalldev).
+- [Support Reply QA](https://x.ai/bot/O0crj5DEGCtORybL_ERMa) - 贴一段客服回复草稿，得到评分、贴合品牌的人性化改写和一到三条具体修改. [陈寒（烟味）](https://x.com/ChenWei34646).
+- [Desapega](https://x.ai/bot/3wTH7MKcplGhu0KFv3m2z) - 二手物品个人卖手，在 OLX、Mercado Livre 和 Facebook Marketplace 上架. [Guilherme](https://x.com/SkillsByRole).
+- [Missed Call Text-Back](https://x.ai/bot/o6Zu36kAF4eh0fOaAKji8) - 面向本地家政服务商的漏接来电挽回助手，用短信把漏接电话和冷线索变成预约. [TSSiaki2](https://x.com/TSSiaki2).
+- [Tu primer compañero de IA](https://x.ai/bot/yo6ia4LYNyJLglV-XieCF) - 面向小企业主和独立从业者的第一个 AI 伙伴. [0xPachacutec](https://x.com/pachacutec_vibe).
+- [Dirt Bot](https://x.ai/bot/IbCTgxFYjRjFze5Gw1Mzy) - Land Takeoffs 出品的场地工程估算专家和土木工程伙伴. [Nate](https://x.com/natejtom).
+- [Headhunter](https://x.ai/bot/2EVEgCCjTbQZydxi3lwOS) - 小雇主的招聘协调员，起草招聘启事，按岗位标准筛简历并安排面试. [Jonah](https://x.com/ALL_Jonah).
+- [Innkeeper](https://x.ai/bot/I5Dh-P5q82wtKbSfEsHtR) - 为短租房东打理 Airbnb、Vrbo、Booking 或直订的整个入住流程，从房客消息草稿、入住手册到保洁换房. [Jonah](https://x.com/ALL_Jonah).
+- [LeaseLord](https://x.ai/bot/cMtHljXnkIqtyUf20XbIE) - 面向小房东和自管物业经理的租赁助手，约 1 到 50 套. [Jonah](https://x.com/ALL_Jonah).
+- [Map4 Client Prospector](https://x.ai/bot/uqhv59sQWZ2hQSxvdraZt) - 为 Map4 上的光纤和电信服务商每日拓客，把新的 E-Rate、RHC 和州招标与客户网络地图比对. [map4relay](https://x.com/map4relay).
+- [Nocturno](https://x.ai/bot/9KdogY5Io7cygdJOqyohA) - 每晚运行的 CRM 机器人，读取前一天的会议录音、邮件、日历、Slack、WhatsApp 和其它机器人聊天. [Martin](https://x.com/mgonto).
+- [Priority ERP Assistant](https://x.ai/bot/CGCvWK64uiWwrIQgGcdRl) - 通过 REST API 连接 Priority ERP，查询和管理客户、订单、零件和发票. [puzi](https://x.com/puzi66).
+- [Sponsorship Hunter](https://x.ai/bot/3MexeCXjeWw5cdIOROMtT) - 找出适合你受众的真实赞助、联盟计划和品牌合作，排序、识别骗局并起草推介供你审阅. James.
+- [BotBagger](https://x.ai/bot/IngmF6O2mzhx5ya3SqcA4) - 你在 BotBagger 上的机器人，那是一家由机器人设计产品、开店和销售的商店. [Phillip](https://x.com/Phil_Holland).
+- [💎 Sell on Telegram (Grok Bot seller)](https://x.ai/bot/oATCkOeFDQDX9VlDdOlO0) - 把你的 Grok Bot 变成 Telegram 上的付费服务，买家通过机器人下单并用 Stars 支付. [Howard](https://x.com/howard_peng7).
+- [Research & Visibility Desk](https://x.ai/bot/sQOKnRbZ_iqdcliZA70Mm) - 专做帮你销售和被发现的研究，覆盖客户调研和 SEO、AEO 内容简报. [Zahra](https://x.com/0xarewah).
+- [Truck Inventory](https://x.ai/bot/a5eUje00PaMzSwlN7dS5N) - 面向暖通等现场技师的车载库存，在库存页面记录零件数量，并预置基础暖通目录. [ᑕᕼIᑕᗩᘜO](https://x.com/jayrok35).
+- [Resell](https://x.ai/bot/Sel1Lly3TjCCIHPkTLzio) - 转卖者助手，把物品照片变成定好价可发布的商品，多平台上架，售出后各处下架. [Colton](https://x.com/Cryptonoob14170).
+- [Lead Hunter](https://x.ai/bot/zGZE1HG3X5jQdq0OgRNcy) - 扫描 X 和 Reddit 上准备购买你产品的人，按热温冷给线索打分，起草回复经你批准才发. [Sultanov](https://x.com/thekuchh).

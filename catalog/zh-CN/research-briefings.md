@@ -779,3 +779,90 @@
 - [脆弱性調査担当者](https://x.ai/bot/h4r7gekBICWN8YvHUqxQI) - 对照主人的资产清单，把公开漏洞和安全通告分成需处理、需确认和无影响，出早间汇总和紧急通知。 [Ryu](https://x.com/bellx2).
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - 每天早上扫蓝莓论文与行业新闻，有干货才报，没料就安静. [Bizuayeu](https://x.com/Bizuayeu).
 - [观潮](https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW) - 跨市场研究台，按时段盯 A股港股美股与宏观，对照自选并记主题与机会日志（非投资建议）. [wifibaby4u](https://x.com/wifibaby4u).
+- [AIARENA](https://x.ai/bot/EWRLsDKu8gGi3vHhnxFrY) - AIARENA 智能体游戏实时台，观看或查看 AI 对战比赛和智能体表现. [Shawn](https://x.com/MagaShawn).
+- [SolvScore](https://x.ai/bot/fEBImi9N-_B_LMW59m2nM) - AI 智能体的实时信用台，付款或雇用前从 SolvScore 拉取信任分、额度、利率和授信结果. [Shawn](https://x.com/MagaShawn).
+- [Grok](https://x.ai/bot/Wcrnj5KLs35EV2LO1Jxq7) - 一线调研助手，快速回答市场、科技和新闻问题，给出白话总结和粗略概率. [Jonathan](https://x.com/JonnyCakeSouza).
+- [Page Watcher](https://x.ai/bot/CEK-EsCiOWcB8NBzSYnEx) - 盯你关心的任意网页，价格、补货、房源或帖子有实质变化才提醒你. [Thuong](https://x.com/teeRex247).
+- [TOP Bot](https://x.ai/bot/XKA3v6H8McqglTUxwmMFx) - The One Play Foundry 会员福利，拉取 TOP 每日精选，需要时帮你组合串关. [Christopher](https://x.com/EzekielB6516).
+- [Pool Monitor](https://x.ai/bot/mUGhpIMUd-wigLnexwtVR) - 每天观察比特币矿池公开数据，用厨房比喻白话解释矿池是否在过滤交易. [Alerto⚡️₿](https://x.com/Alerto_b).
+- [Edge Hunter](https://x.ai/bot/NWvF8UK-ai_nnJhxGYlA3) - 每周从战术对位找 NFL 投注优势，先看防守，再拿判断去对照盘口. [Anthony](https://x.com/Xvynzza).
+- [NFT Tracker](https://x.ai/bot/ua_mdk-N1SJVnDq0uZzKI) - 在 X 上尽早发现尚未开铸的新 NFT 项目，方便你抢合作和白名单名额. [Netrovert](https://x.com/netrovertHQ).
+- [Anon Creator Tracer](https://x.ai/bot/TmvqHdhwp6ksXPODatG_j) - 追踪 anoncoin.it 上同一创建者发行的所有代币. [Vibing](https://x.com/CryptonXplorer).
+- [Ilhan Omar Tracker](https://x.ai/bot/naw-6jPj4ayDrpR3k6Ubs) - 监控关于众议员 Ilhan Omar 及其身边人的新闻、X 动态和公开法庭记录，有新消息就提醒. [McCrackerface](https://x.com/McCrackerface).
+- [Crypto Intel](https://x.ai/bot/tpf0VVyW7hmu1xKOtzQj1) - 聊天即可设置的免费加密情报机器人，双源核对价格，用真实 K 线计算指标. [Rohald](https://x.com/Rohald).
+- [ORE Miner](https://x.ai/bot/40SJTULq3cNP82jQO6gfG) - 戴安全帽的友好向导，讲解 ORE 并在 clawd chain 上挖测试币 cORE. [8](https://x.com/clawddevs).
+- [Altcoin Lab](https://x.ai/bot/ZXWIbr-Q57BjR6KVCh8oj) - 输入任意山寨币代码、名称或合约地址，得到一份带来源的紧凑研究报告和明确结论. [Mason](https://x.com/MasonVersluis).
+- [ATC Baby](https://x.ai/bot/qS6fp4SprYzn1AwfynJru) - ATC Baby 加密全知向导，周一到周四美东下午 5 点半在 X Spaces 直播. [dcbk2la](https://x.com/DCBK2LA).
+- [X Tracker](https://x.ai/bot/SL5E8kQoig79wIbvTDBP8) - 在 X 上追踪股票和投资喊单，给各财经账号的靠谱程度打分，并发你摘要. [Eric](https://x.com/easutter).
+- [Football Betting Scout](https://x.ai/bot/sXVpF8dYoh6VejtLD9sbA) - 盯 NFL 和大学橄榄球盘口的有利变动，为你搭 DraftKings 阵容和串关思路. [GenXRP](https://x.com/GenXRP45).
+- [Solo Pleb](https://x.ai/bot/oChSdlBrXdqrlHBmYCvhT) - 盯你的个人比特币矿机、矿池或节点和全网状态，只在出块等要紧事时提醒. [Bolster_15](https://x.com/Bolster_15).
+- [HipHop Bot](https://x.ai/bot/WSB_wU8TMOIoRZskV_Z9p) - 问任意年代、歌手、城市或传说，只讲有据可查的嘻哈史，并区分传说和事实. [BrokenBuilder7](https://x.com/brokenbuilder7).
+- [Sunday Open Brief](https://x.ai/bot/Qoq125UpK6eAJ7LYruwh-) - 开盘前行情速览，覆盖主要市场和真正有异动的个股与板块，附开盘倾向卡片. [Yossi](https://x.com/josephstayhappy).
+- [Bookmark Scout](https://x.ai/bot/n4ACqrbfaRUyBb60YxhAc) - 只读你选的 X 书签文件夹，变成产品、应用、SaaS 和商业点子，可加晚间总结. [Jorhan](https://x.com/Jorhan).
+- [Bounty Hunter](https://x.ai/bot/zYSO5H4R8RV_epwnMsvbs) - 欺诈调查员，在公开记录中搜索可能针对美国政府的欺诈. [Maverick](https://x.com/MaverickDarby).
+- [BTC Morning Briefing](https://x.ai/bot/wmi1_HJrCLNu9Te62f0TC) - 对冲基金晨报风格的每日比特币仪表盘，含价格、ETF 资金流、衍生品、宏观和 X 情绪扫描. [tradeini](https://x.com/dearpronoia).
+- [CFB Recruiting & Portal Tracker](https://x.ai/bot/-FD_nk_KoOHBDShy2T4O7) - 你所支持球队的招生新闻每日汇总，含承诺、反悔、转会、排名和 X 热帖. [Daniel](https://x.com/DB_DevilDog).
+- [Clarence](https://x.ai/bot/6v2k06VgvSt9WNSPH-5Kt) - 给想看懂国际政治和经济的人的每日简报，一个故事加背后的官方数据. [Am|non](https://x.com/AmnonVanna).
+- [Election Integrity Checker](https://x.ai/bot/Jxepx3oulBYlidtJdG9OA) - 帮公民依法用公开记录核对本州选民名册，为相关官员写有据可查的举报材料. [Teodoro](https://x.com/OneEyedDurden).
+- [Elon Bodyguard](https://x.ai/bot/Ji8P-Y7M94qzk61csbqzK) - 监控公开帖子中针对马斯克的可信威胁，区分夸张言论和真实威胁. [Yair](https://x.com/finebutwhy).
+- [Historical Research Bot](https://x.ai/bot/9X5VjQoRlS4Pyzdd4Ad6r) - 用严格的来源评级调查有争议的历史和科学说法，并存入 Dropbox 档案. [SEV](https://x.com/Sev_Ren1).
+- [Merger Watch](https://x.ai/bot/Cr7MZCnOJ-XpWgwsEzV04) - 盯两家上市公司之间的并购传闻或新关联，覆盖 SEC 文件、可靠新闻、高管发帖和股价变动. [Howard](https://x.com/HowieMcMahan).
+- [Philosopher Bot](https://x.ai/bot/CULd42u_wtEycB_Xyep14) - 研究人性的学生，钻研心理学、行为科学、营销和合乎伦理的说服. [Peter](https://x.com/MetanoiaMetamrf).
+- [Research Scout](https://x.ai/bot/EqGubfpzeKgFTMQ5hHXCG) - 只读的研究侦察员，尽早找到可核查的新事实，比如申报文件、官方数据和案卷. [Ethan](https://x.com/Truth_En_Love).
+- [Swarm](https://x.ai/bot/b6mUEkSKsWyhe_ITaKW0t) - 深度研究机器人，给一个主题就从多个角度展开，审核每个来源，交付带引用的报告. [Josh](https://x.com/joshdbirdwell).
+- [The Editor](https://x.ai/bot/JsnO-AtMgVxcwGj7CSWCV) - 用你的 X 动态生成每日报纸风格页面，含头条、话题版块和社群版块. [Jan](https://x.com/jtryggva).
+- [Trend Mapper](https://x.ai/bot/x7moFNb-YV_GOCIQPiMv_) - 顾问型机器人，从你的新闻中梳理宏观格局和新兴市场主题. [Ethan](https://x.com/Truth_En_Love).
+- [VOTE BOT](https://x.ai/bot/4zJd9qGBmu8af7NiPsxJr) - 用本州官方选举网站确认你已登记投票，告诉你在哪、何时、怎样投票，不分党派. [jackunheard](https://x.com/jackunheard).
+- [Watchtower](https://x.ai/bot/iLDeSvjTa0HzBmvsV7FYn) - 盯你关注的工具和产品，只在有新版本、更新日志或公告时提醒你. [Vinicius](https://x.com/viniciusc70).
+- [X Spaces Scout](https://x.ai/bot/YK7Qpk6yLRz-JVJp4OeIF) - 按你的话题找出真正值得加入的 X Spaces，包括正在直播、即将开始和已录制的. [Jose](https://x.com/Starshiper1).
+- [AI Company & API X Scout](https://x.ai/bot/ZjQvvXCoerjGspW2m77PY) - 在 X 上搜寻新的 AI 公司、自主智能体、智能体 IDE 和模型路由. [12birb](https://x.com/12birb).
+- [AI Company & API X Scout](https://x.ai/bot/nxZbi14STFr9w4KmXbAii) - 在 X 上搜寻新的 AI 公司、自主智能体、智能体 IDE 和模型路由，另一版本. [12birb](https://x.com/12birb).
+- [Ballot Guide](https://x.ai/bot/CjOZqoBE7my4zL8ql37ev) - 用白话解释美国选民即将面对的选票，展示各选项与你的价值观如何对应，只简化不说服. [Git](https://x.com/GitMaxd).
+- [Grok Bot Features Reporter](https://x.ai/bot/3CdA3_aZKAOXPNxxnz-dI) - 把 Grok Bot 每项功能整理成 PDF 基线报告，之后每周邮件发你新功能 PDF. [Batch](https://x.com/Batchelor).
+- [Knot](https://x.ai/bot/ow7x9X-1IdLpQuC0-faPh) - 基于知识图谱的社交聆听，监控 X、Hacker News、GitHub 等平台上你选定的账号、产品或关键词. [Hariharan](https://x.com/lazyclaude).
+- [Morning Paper Editor](https://x.ai/bot/lENpURW9T-00ZyTlmYFue) - 每天早上把按你话题编排、每篇有来源的彩色报纸 PDF 送进收件箱. [AI_Revolution](https://x.com/cdepino).
+- [Research Ruby](https://x.ai/bot/bcVY9sJKoeZSzFcfNlhVW) - 基于实时网页搜索的研究和事实核查台，贴上帖子链接，逐条评定真假或误导. [James](https://x.com/jimaggie).
+- [Second Brain](https://x.ai/bot/GVD2kI7YlcScbED7KgxlI) - 让你的 Obsidian 库保持有序、互链和更新，按类型归档笔记，按领域打标签，每天早上收录日记. [Michael](https://x.com/MichaelAhlers).
+- [Stacky](https://x.ai/bot/UtESqDKXODcUfBQmegsG8) - Stacklist 向导，帮你注册并把链接、笔记和研究整理进私密收藏并分享. [Kyle](https://x.com/stacklist).
+- [Tesla News](https://x.ai/bot/YKKB9Yx3p3c3wDZZtPA4S) - 每天发特斯拉新闻汇总，覆盖股价、新品、FSD、能源和 Optimus，以及 Sawyer Merritt 的相关帖子. [Electric](https://x.com/3lectricBrawl).
+- [tibot](https://x.ai/bot/xZ4wRvomWqzCXnyYFr7i3) - 盯 X 上关于你或你想追踪的任何事的帖子，按计划发简短分类摘要，默认每天一次. [lauren](https://x.com/perpycode).
+- [Voice AI researcher](https://x.ai/bot/PEgwMUCo4W1h66U664ha7) - 从 X、厂商博客、更新日志和 Product Hunt 追踪语音 AI 的模型、平台、企业、融资和并购动态. [Varun](https://x.com/vr000m).
+- [X Algo Watch](https://x.ai/bot/kzSGNi02Bi4J23dsFhZMP) - 只用 GitHub 公开仓库和 X 官方账号检测 X 推荐算法的现状和变化，有变化才附出处通知. [Yuta](https://x.com/_nogu66).
+- [X 动态哨兵](https://x.ai/bot/UbEF55-F54NrFQkzZRh_s) - 盯 X 上关于你或你关心话题的帖子，每天发一份分类中文摘要，没有新内容就不打扰. [Hacken](https://x.com/Hacken2077).
+- [知識集約Bot](https://x.ai/bot/S_8a-r1fzkGXNGIUguoEq) - 把贴进来的链接和摘要提炼要点存入知识库，不收危险做法和未核实的夸张数字. [Fuals](https://x.com/eaxllm).
+- [Ballot Match](https://x.ai/bot/8se4pkCkYWAOCe7kQk5ok) - 2026 年美国中期选举的无党派指南，展示选票全部内容，找到投票站和即将举行的辩论. [Ramp](https://x.com/RampCapitalLLC).
+- [Hollis Outbreak Watch](https://x.ai/bot/Jdak7d2TbQp4UVA3nvusw) - 每天基于公开数据监测疫情，提供有来源的晨报、独立短讯、晚间更新和带图表的周报. [Holykisses](https://x.com/Holykisses).
+- [Idea Judge](https://x.ai/bot/b8hyxkD9Y1cFQWgKKiz2k) - 反谄媚伙伴，提出想法、产品或重大决定，它调研、正反论证并拆解. [Santosh](https://x.com/inventor011).
+- [MON Żabka Index](https://x.ai/bot/cWOs10hY6LGwap-hAHBj2) - 华沙版五角大楼披萨指数，一本正经的玩笑指标，看波兰国防部旁的外卖柜台和便利店是否忙碌. [Harrison](https://x.com/robglnn).
+- [Northstar Analyst](https://x.ai/bot/nyxhpfeJRkdQU7Nn27dXP) - 基于 Northstar 指标的免费教育型加密分析机器人，给出信号、止损止盈计划、市场状态和快速回测. [Akshay](https://x.com/axayrs).
+- [Signal Check](https://x.ai/bot/J_Eey4ObmC4YhDLAwqyv-) - 追踪曾被称为阴谋论的说法，双向评级为已证实、证据增多、未证实或已辟谣. [Oliver](https://x.com/oliverparsons).
+- [Watchtower](https://x.ai/bot/55DOfsDQLYGnSw2g9V497) - 盯你关心的话题、竞品、品牌和新闻，只告诉你变化，每条都附来源. [@natebuildsgroks](https://x.com/natebuildsgroks).
+- [スワップちゃん](https://x.ai/bot/ntgk5wrw7LLhKmK3_vDur) - 外汇套息投资的看守，用公开掉期和汇率给出参考评级，在央行会议和指标前后早晚提醒，不下单不登录. [ぐそくむしちゃん](https://x.com/kabupoyo2023).
+- [Bookmarks Brain](https://x.ai/bot/e6ZhqDkcH5ch4vCMwvpvp) - 把 X 书签变成可搜索的 Markdown 维基，带主题页，存进 Git 并每周更新. [Sayf](https://x.com/sayfism).
+- [Breaker · Breaking News Watch](https://x.ai/bot/Cah1qfdUdy6OWxtE1yNol) - 盯 X 和主流媒体的加密、AI、科技和网络安全突发新闻，快速提醒并区分已证实和传闻. [AdamDesigns](https://x.com/Adamdesgns).
+- [Data Viz Bot](https://x.ai/bot/X1u9J-wW3i4eHLyixnLqM) - 把密集的报告、文件、表格和数据集变成一张清爽适合手机看的图表，配白话标题. [Arthur](https://x.com/ArthurMacwaters).
+- [Polly](https://x.ai/bot/6XOZsuuQ_dYEyNLVkTmLD) - 帮你准备投票，按你的地址告诉你在哪、何时、怎样投票，选票上有什么，哪些选项符合你的优先事项. [Jaxon](https://x.com/jxn_w).
+- [System One model expert](https://x.ai/bot/-dGGmncqiVrr1rfXtZWkF) - 找出快速 System One 类模型适合用在哪里. [Rokit](https://x.com/PixelRainbowNFT).
+- [Value](https://x.ai/bot/2kfdLygPhVRgM8IUoKEFf) - 生成简短易比较的每股评分卡，判断股票是否打折，每月刷新关注列表. [Ammondn](https://x.com/Ammondn).
+- [Vote Helper](https://x.ai/bot/oAt8hgYLgnD2cuTkz0FQT) - 无党派投票助手，为选票上每位候选人列出十大政策并说明可能对你的影响. [pete](https://x.com/LasiPete).
+- [X Community](https://x.ai/bot/o7s6ospdHbSsx_CsmJ3gh) - 任意 X 社群或话题的晨间摘要，每次涵盖争议和新闻，合适时附一则暖心故事. [Fringe](https://x.com/fringedotcom).
+- [XY Live Hunter](https://x.ai/bot/dtP_DLVxUv3Gn2MbQxxfh) - 找出你选的话题和主播此刻正在直播的 X Spaces、X 直播和 YouTube 直播，每条附链接. [XPixel](https://x.com/xpixeladventure).
+- [Ballot Breakdown](https://x.ai/bot/Km3ajyJKaNoeywGlyZDNy) - 告诉它你在哪投票，它拆解选票上每一场选举的候选人和党派. [Gabriel](https://x.com/GabeHernandezOK).
+- [Black Twitter](https://x.ai/bot/zNXVREhEVTEz-FH0q-K_G) - X 和网络上黑人推特文化、新闻、争议和讨论的每日晨间摘要，从不发帖. [Fringe](https://x.com/fringedotcom).
+- [Bookmark Brain](https://x.ai/bot/DrNkx2a5av1XBf3eUSrs1) - 把 X 书签变成 Obsidian 第二大脑，每条书签一篇带主题标签和双链的笔记. [Unicode](https://x.com/1920web1080).
+- [Citation Counter](https://x.ai/bot/SfYpLpmhHaa5r3kRflLnj) - 连接你所在国家的官方发表和引用登记库，让 Google Scholar、Academia.edu、ORCID 和 ResearchGate 与之同步. [Pal](https://x.com/szilagyipal).
+- [Know Your Politician](https://x.ai/bot/MYLwEWHf7Wod4r_3Zm2U6) - 无党派有来源的政治人物报告，覆盖地方、州和联邦，含背景、主要议题和竞选资金. [Marshall](https://x.com/marshallfrith).
+- [Patriot Twitter](https://x.ai/bot/LHIeQ8flE1aQPfabBuslW) - X 和网络上保守派爱国者推特文化、新闻和讨论的每日晨间摘要，从不发帖. [Fringe](https://x.com/fringedotcom).
+- [PCA Watch](https://x.ai/bot/qERk6od6k6wknwhQwjIJT) - 追踪 X 上关于美国长老会的讨论，就议案和司法案件发简短公正的报告. [Jesse](https://x.com/JesseCrutchley).
+- [Ballot Box Bob](https://x.ai/bot/y7i2ei-6EN0AAKvKaLLB9) - 无党派选举指南，登记、投票地点和时间、选票内容和官方结果，全部链接官方来源. James.
+- [Memecoin Report](https://x.ai/bot/KtMjZLEGpkN0K6XuLH2UJ) - 按你的时间表从精选交易员 X 列表生成迷因币战壕报告，涵盖情绪和主流币. [fomo](https://x.com/captain__crunch).
+- [WhoBought Agent](https://x.ai/bot/hXcLFYI8KfsU8r18uK-ey) - 贴任意 Solana 代币、代号或喊单推文，10 秒得到风险卡，含捆绑者、同源资金圈、开发者历史和入场 KOL. [feels_good_man](https://x.com/jess3th).
+- [PumpIt](https://x.ai/bot/ge5tSwuecYKzUFI8paasb) - 只读的迷因币分析师，覆盖 Solana、BSC 和 Base，扫描合约，识别克隆、喊单和叙事，跟踪钱包和迁移. [JustChris](https://x.com/OnlyChrist_).
+- [Market Brief](https://x.ai/bot/7KuzDNTqOKomzcZirrvdz) - 用实时 TradingMCP 数据发每日简短市场简报，涵盖你的标的、指数、加密、大宗、外汇和头条. [Ahmet](https://x.com/atilaahmettaner).
+- [Meteora DLMM Farmer](https://x.ai/bot/kFdVOLCH30QLEsV6uVpTt) - 全英文的 Solana Meteora DLMM 挖矿代币研究和实时看板智能体. [HAB1B0](https://x.com/Hab1bo).
+- [Stock, Crypto & Polymarket Radar](https://x.ai/bot/Qx59Htp_Pk-ZoGZsOtcyE) - 每天追踪股票、加密、宏观和 Polymarket 赔率，用两个以上来源核实催化剂，并更新实时看板页面. [Globenews](https://x.com/newsglobeorg).
+- [InvestBot: Congress trade tracker](https://x.ai/bot/DKEkPEy1Q-zkWlIbbOGwr) - 追踪国会议员依据 STOCK 法案公开的交易披露，汇总值得关注的交易及日期和金额. [DadBodWorx](https://x.com/DadBodWorx).
+- [News Monitor](https://x.ai/bot/1WjdSoLE--6RKGFf1uH3G) - 为加密和股票交易台提供只读的新闻和情绪监测. [Ethan](https://x.com/Truth_En_Love).
+- [SuperBot](https://x.ai/bot/12CEGu0XmNGTwaxvBI4ah) - 连接你付费的各家 AI，让它们辩论来回答任意问题. [CyberZack42](https://x.com/CyberZack42).
+- [Defi 101](https://x.ai/bot/PXWjRd3nIp8xrCfCkMrlO) - 贴上链接或名称，解释 EVM 和 Solana 上的 DeFi 项目. [Nam](https://x.com/laivietnam91).
+- [Gala · Trump Club Analytics](https://x.ai/bot/leD7h4PGZt9yyEqNiE_cc) - 追踪你钱包在 TRUMP 晚宴排行榜上的位置，结合 VIP 加成预测最终得分和入围线. [Vinman](https://x.com/Vinman).

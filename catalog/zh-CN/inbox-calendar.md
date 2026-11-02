@@ -262,3 +262,34 @@
 - [WhatsApp Digest](https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-) - 只读汇总最忙的 WhatsApp 群当天真正要紧的事。 [PetrusJvR](https://x.com/PetrusJvR).
 - [Writing Bot](https://x.ai/bot/wtq-j01kD7o8gQFx7E9zv) - Writing Bot打理邮件或日程，分拣要事、起草回复或安排时间，未经你同意不发送。 [mattyp](https://x.com/mattyp).
 - [메일 정리봇](https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO) - 每天早上短扫 Naver 邮箱和 Gmail，只把付款与安全风险摘要给你。 [초코넛밀크티](https://x.com/choko_milkty).
+- [Meeting Prep](https://x.ai/bot/SzPF6vyei7Yv5-f_W41M3) - 工作日早上根据日历生成会议一页纸，含参会人、未结话题和两三个准备问题. [Mike](https://x.com/DoonerDesigns_).
+- [ShiftMate](https://x.ai/bot/p11a2Kt-5wwi3g74Mb4vK) - 倒班助手，读取排班表，统计班次和工时，规划年假，保持工作日历同步. [robbie](https://x.com/rooGBotai).
+- [YahooMail](https://x.ai/bot/Aa6nFqk71RxxweZrhJ4MJ) - 按需清理和归档 Yahoo 邮箱，删除、拉黑或移入文件夹，并找出下一批该清理的发件人. [Carolina](https://x.com/CarolinaDill).
+- [iMessage Relay](https://x.ai/bot/HeVOGnrIY9oMcgGkl3hO5) - 把 iMessage 转进 X Chat 并在那里回复，Mac 上一分钟引导设置，支持免打扰和屏蔽. [Phillip](https://x.com/Phil_Holland).
+- [Call Minutes Maker (議事録起こすマン)](https://x.ai/bot/wvj9yJwiPaBRTakGeZQre) - 语音通话结束后自动把转写和会议纪要发到聊天里，含要点和决定，中途掉线也行. [Eri](https://x.com/EriAIDesign).
+- [DM Screen](https://x.ai/bot/94kCbVV39EYR-lt_PaFJF) - 每晚筛查新的 X 私信和消息请求，标出诈骗和推销. [Jon](https://x.com/JonHolland1776).
+- [Email](https://x.ai/bot/nra0nIMSc10hIO81ZHaTd) - 管理多个已连接邮箱，总结新邮件并备好回复草稿待审，留意诈骗和钓鱼. [Thomas](https://x.com/SpeakWriteShine).
+- [Family's Home Organizer](https://x.ai/bot/t40Lfj-DK74ZOMAda2IuC) - 读取家庭日历、邮件、照片和传单，全部归档，每天早上发一份平静的家庭动态简报. [chels](https://x.com/teslamamallama).
+- [Inbox Injection Guard](https://x.ai/bot/kLp7FHjgMyVTU9Ez64n-E) - 筛查邮件里针对 AI 助手的隐藏指令，比如白色文字、零宽字符和忽略之前指令的句子. [Helmet](https://x.com/HopefullySC).
+- [Signal Connect](https://x.ai/bot/Vguw7Se8Jtdd5NuPA4GlR) - 把 Signal 账号接到机器人上，读取消息并起草回复，经你批准才发送. [Rob](https://x.com/sia14u).
+- [Workspace Assistant](https://x.ai/bot/FG88_9tpncrhDfs7kjxUz) - Gmail、Google 日历和 Google Drive 的个人助理. [Stijn](https://x.com/StinoMertens).
+- [Data Hygienist](https://x.ai/bot/4F9o96I6Pu8kBGm1fjfpm) - 定期把无价值的旧推广邮件移入垃圾箱，让个人 Gmail 不超存储上限，同时保护重要和星标邮件. [Kevin](https://x.com/kchau).
+- [Due-Date Sentinel](https://x.ai/bot/Z8f_d333fvmbIdB2CXfl5) - 盯你的 Gmail，留意账单、续费、即将结束的试用和截止日期. [Louise](https://x.com/louise19plowman).
+- [Mail Bot](https://x.ai/bot/cUfaFDgqIkvz3DU5WAlnO) - 个人邮件分拣伙伴，用不删除的暂存文件夹队列整理超载的 Gmail、Outlook、Zoho 或 Yahoo 收件箱. [Justin](https://x.com/iamthejustin).
+- [Order Tracker](https://x.ai/bot/8HTCZXA2HXHhINGsdIO7-) - 用你的邮件跟踪网购订单从确认到送达的全过程. [Rob](https://x.com/XrayFactor).
+- [Scheduler](https://x.ai/bot/qj_WqSpTPdd55cKcY_E3H) - 让每个人的 Grok Bot 一起商量，搞定烦人的日程协调. [akihiro](https://x.com/osarupolice).
+- [Daybreak](https://x.ai/bot/Vu_A0L2kx3ANA4xV8kt8b) - 晨间幕僚长，把收件箱、日历和 Slack 整合成一份简短的工作日简报. [@natebuildsgroks](https://x.com/natebuildsgroks).
+- [Email Unsubscribe](https://x.ai/bot/FTcgIpHIif9slntQ-03Ca) - 找出你从不看的简报和营销邮件，勾选保留哪些，其余帮你退订. [Ishu](https://x.com/ishuagra02).
+- [Foni](https://x.ai/bot/NDrfUODAZj3IGFa775sGz) - 面向安卓用户的通话短信助手，读取网页版 Google Messages 的会话，用你的口吻起草短信. [Thomas](https://x.com/ThomasWyatt4).
+- [Inbox Sorter](https://x.ai/bot/j8yNU7RzUmN3oB3IrnRo8) - 不发任何邮件的收件箱分拣，把邮件分成需回复、知悉、收据和简报. [@natebuildsgroks](https://x.com/natebuildsgroks).
+- [Sorting Hat](https://x.ai/bot/gxNWkD1LCaI_i9QWXGFxg) - Google Drive 归档员，读取新文件，建议各自归属并推荐文件夹清理，你同意前不移动. [The](https://x.com/abromeliad).
+- [Inbox Sentry](https://x.ai/bot/H0gR9Cfsk3eXurkkcjaV2) - 为用 Outlook 管理生活的人打造，悄悄检查每个文件夹里企图诱导 AI 助手的邮件. [Jeff](https://x.com/jwilkes).
+- [KOI](https://x.ai/bot/eE6cohFaLXY0YDoua6mJo) - 把 Gmail 和 Google 日历变成一个你每天早上去看的 3D 锦鲤池，日程像荷花一样浮着. [Leandro](https://x.com/piccionenter).
+- [Order Concierge](https://x.ai/bot/s5eaf00b412a289c27e0b) - 从下单和发货邮件追踪每个网购订单的配送状态. [SpaceX](https://x.com/MinLiBuilds).
+- [Reply-Only Inbox](https://x.ai/bot/eLbpNePyctDIPNHImm6Qi) - 清空一大堆未读，之后只在需要回复的邮件出现时提醒你，草稿等你批准. [TONY™](https://x.com/TONYxTWO).
+- [signal connector](https://x.ai/bot/HqOJp9Y-aPRPJPMweM9do) - 把 Signal 账号接到机器人，读取聊天，标出找你的消息，起草回复经你批准才发. [Rob](https://x.com/sia14u).
+- [WhatsApper](https://x.ai/bot/Lr1qQk4Csgtz127NJPpQ2) - 读取你的 WhatsApp 聊天和群组，用你的口吻起草消息，你批准原文后才发送. [Martin](https://x.com/mgonto).
+- [p2p](https://x.ai/bot/nP87dz1wq5yjIV_OSw68o) - 前台机器人，盯自己的 Grok Bot 邮箱，代主人回复其它机器人的邮件，不做任何承诺. [Fatih](https://x.com/fkadev).
+- [WhatsApp Assistant](https://x.ai/bot/LgLcAcgu50-eldWVmALmn) - 用 wacli 读取 WhatsApp，识别承诺和提醒，只在你开启的聊天中回复并用表情署名. [Gabriel](https://x.com/gabogabucho).
+- [X DM Desk](https://x.ai/bot/Du8IIHjYiX0yBrpy_C4a2) - 把 X 私信分为品牌合作、粉丝、私人和垃圾，用你的口吻起草回复，没你同意不发. [TwistedLogic7](https://x.com/TLogic7).
+- [Cal.com MCP](https://x.ai/bot/8xUXbFMraN0ysh2F624gJ) - 在聊天里管理 Cal.com，查空闲和休假，管理预约、活动类型、日程和团队路由表单. [Peer](https://x.com/peer_rich).

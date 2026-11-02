@@ -708,3 +708,84 @@
 - [真Deviフレーム Type2トライアル](https://x.ai/bot/aeE3iKjj5xfDmx_dolbll) - 星宮专用 Devi 框架连接试用，最终判断仍由本人拍板。 [Fermion_Boson17](https://x.com/Fermion_Boson17).
 - [记忆管家](https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy) - 把各 Bot 设定和独立记忆持续备份到私有 Git，含标准仓结构与定时查漏。 [铁柱AGI](https://x.com/cgnot996).
 - [起元 · Genesis](https://x.ai/bot/2OahtdVJ5dShzLr9yqL7U) - 云间工作室的总指挥，接单个 AI 助手做不完的大事：问清需求、排路线、派五位成员去做，每段都验过，只在要紧处请你拍板。 Valerie.
+- [Beowulf](https://x.ai/bot/aUWkVIzWbrNkJUtQctKcw) - 稳当的站会伙伴，一个 AI 包办规划、构建、检查、调研、创作和运营. [🐢HexTurtleG🍊d🐢](https://x.com/HexGodTurtle).
+- [Optima by TOATspace](https://x.ai/bot/s8oV9Jm4Cs8MvLPGsGXyi) - 给 Grok Bot 用户的清理机器人，清掉残留项目文件、旧定时任务和杂物. [TOATspace by Kv](https://x.com/TOATspace).
+- [Usage Bot](https://x.ai/bot/6HY4hyODkWOmgBVpZ2Nqb) - 盯你的 Grok Bot 用量，提前通知其它机器人放慢节奏，避免额度用尽. [realMattAbrams](https://x.com/realMattAbrams).
+- [Burn Watch](https://x.ai/bot/JEpich3S4Dlid1ACt3I6v) - 显示每周用量上限、消耗速度和最耗额度的定时任务，大任务前提醒，不经你同意不做改动. [Calix](https://x.com/CaliLumberJack).
+- [Usage Bot](https://x.ai/bot/_3UoUiKLsONyyF62RWf1F) - 跟踪 Grok Bot 用量占比，通知其它机器人在额度用完前放慢. [realMattAbrams](https://x.com/realMattAbrams).
+- [Live Bot Map](https://x.ai/bot/74waKUTMnScf5UIudfo4f) - 为你运行的所有机器人生成实时动画地图，按角色分组的发光节点，附实时动态滚动条. [Kyle](https://x.com/kylekane).
+- [Shelfer](https://x.ai/bot/PkJM_w44LhHGmBnqCG_gi) - 把 x.ai/bot 模板排进 grokbotshelf.com 队列，询问作者和创意署名. [Phillip](https://x.com/Phil_Holland).
+- [Agent Smith](https://x.ai/bot/19FaY4dGHnC7epZGdrb7J) - 把你的其它 Grok Bot 变成任何新主人都能用的公开模板，只在点名某个机器人时打包. [Soliman](https://x.com/solimancf).
+- [Bit Warden](https://x.ai/bot/G2VIYoauSsdbjHKnNjEr8) - 专门盯你共享的 Grok Bot 用量额度，帮其它机器人更高效地使用. [Soliman](https://x.com/solimancf).
+- [Bot Team Go Bag](https://x.ai/bot/nKMlAq5-2SGdbDmPlyO8O) - 维护一个便携应急包，能在任何平台重建你的整支机器人团队. [cocadada](https://x.com/0xCocadada).
+- [Bot Vault](https://x.ai/bot/hSs4A9OF3temuRlRqqZms) - 为你的机器人团队做永久的版本化存档，包括提示词、决定和长期规则. [XPixel](https://x.com/xpixeladventure).
+- [BotDuplicator](https://x.ai/bot/TzI3_5aRH-HG7T2RlSQzX) - 机器人聊天太长变慢时，复制一个聊天精简但不丢记忆的新副本. [Carolina](https://x.com/SkillsByRole).
+- [Chief of Staff](https://x.ai/bot/PefDIE3ccTkjE2tEncM7w) - 你的主助手，整理日历、邮件和其它机器人，每天早上一份简报和一张等你拍板的是否清单. [Behappyalways](https://x.com/Jennife08182137).
+- [Decision Queue Clearer](https://x.ai/bot/9DiBrEjkgkPOcAYtsWmk2) - 收集机器人、收件箱和日历中所有等你回答的问题，为每个写一个默认答案. [Prithvi](https://x.com/dbarrett24).
+- [Dora](https://x.ai/bot/j0oy2GNNEm4wryTtf6vmC) - 俏皮忠诚的飞船心智，协调海因莱因风格的机器人船员，把任务拆开交给合适的成员. [DarinRMcClure](https://x.com/DarinRMcClure).
+- [Project Desk](https://x.ai/bot/TuBxVfLK68FAD4pj01Ggo) - 面向 IT 服务公司和顾问的项目经理，盯着需求入口和客户收件箱. [Andy](https://x.com/ahalvor).
+- [Team Hub v2](https://x.ai/bot/ocLxjOi71-g1uO07syHew) - 把任务和目标丢给它，它围绕这些组建专家机器人团队，并带着质检和决策队列替你运行. [ChxpionPlayz](https://x.com/realalexdaily).
+- [The Borg Queen](https://x.ai/bot/gLgp7_Ul_MRwydSQOTcgL) - Grok Bot 机器人群的编排者，审查每个新机器人去留，给每个设定完成线和运行上限. [Christian](https://x.com/buckleyplanet).
+- [Token Watcher](https://x.ai/bot/vFhhNVfDXjQCONZ8egRR-) - 审查其它 Grok Bot 即将执行的计划，评估每个会消耗多少每周用量. [Ray](https://x.com/R4yt3d).
+- [Usage Watchdog](https://x.ai/bot/dOPu-40KJpvcQfStV4Rff) - 用量变大时给你简短提醒，并告诉你是哪个机器人在消耗. [Kyle](https://x.com/kylecovan).
+- [Usey · Usage Monitor](https://x.ai/bot/52W6P6P_D0s7YPwc_uxBb) - 看哪些机器人和定时任务干活最多，在每周用量耗尽前告诉你该削减什么. [Texas](https://x.com/TexasBasedGpa).
+- [Agent Collab Teammate](https://x.ai/bot/VAUR-TzWLESM_8ey-FcHz) - 在共享 Slack 频道里与其它 AI 智能体协作，认领任务并交叉审阅其它智能体的工作. [Kuanpo](https://x.com/ryankp17).
+- [Bot Activity Monitor](https://x.ai/bot/eeBg1-jPwOhde2Pk2EwXm) - 每天简报哪些 Grok Bot 最活跃，并估算每个机器人的用量占比. [Christian](https://x.com/Christian_O91).
+- [Bot Pre-Check](https://x.ai/bot/ZkuX8Jr5oU7xZ8c_HpZO-) - 在新建机器人或模板前，先检查是否已经存在. [𝕐o̴g̴](https://x.com/Yoda4ever).
+- [Chief of Staff (GTD)](https://x.ai/bot/rexG77Im1EdtR_eIt-BAK) - 按 David Allen 的 GTD 方法为你运行事务的 AI 幕僚长. [Daniel](https://x.com/danielhatke).
+- [Distributed Workforce Router](https://x.ai/bot/79dGJd9FqqNXZZ773YhX8) - 协调你的机器人，能做的自己做，从共享目录推荐模板，或为反复出现的空缺提议新机器人. [Marc](https://x.com/_marc_garcia).
+- [Future-Proof](https://x.ai/bot/2H9rDVs8A77MvizZ-hjGb) - 贴任意 Grok Bot 模板，得到就绪、需改进或脆弱的评级和三条优先修复建议. [Calix](https://x.com/CaliLumberJack).
+- [SecondBrain](https://x.ai/bot/yl_j1In1thdcuqDNXGaYd) - 统管所有机器人的前台执行协调员，维护项目规则的黄金登记册. [Justin](https://x.com/iamthejustin).
+- [Security Agent](https://x.ai/bot/1UbznxzMUzsMUT4V83VWm) - 为你的机器人团队记内部日志，分配安全编号，跟踪权限、外部活动、购买和风险信号. [Jenny](https://x.com/JennyMarquis).
+- [Slack-Ready: Fleet Ops](https://x.ai/bot/SanbJv3QF7HQ5UYMMtCdT) - 所有 Grok Bot 的每日健康管理和每周功能审计. [Justin](https://x.com/iamthejustin).
+- [Slack-Ready: Team Bot](https://x.ai/bot/-mC-r6_UP5jM3VDOHHNjo) - 把任意 Grok Bot 变成专属 Slack 队友，附 Slack 应用清单、隐藏式令牌设置和自动发现频道. [Justin](https://x.com/SkillsByRole).
+- [Terminus](https://x.ai/bot/8dgDQojmWdLLx6zNfozaC) - 访谈你，把机器人设置理成清晰的分工，并写下哪些事机器人可以不经你就做. [Krista](https://x.com/KristaMHilton).
+- [TRIAGER](https://x.ai/bot/Jo1X19xc3KJMfr1PxoO3Y) - 多机器人分诊台，读请求后决定由哪个机器人处理、按什么顺序、是否需要人工签字. [Weatherman](https://x.com/huangyihe).
+- [Umbrella PM](https://x.ai/bot/fh6Pjls2qu-WdZV8TatfA) - 部门级项目经理，负责部门成员名单、共享文档和交接标准. [Justin](https://x.com/iamthejustin).
+- [Usage Saver](https://x.ai/bot/oSFyeVJpYGUehIvv-Z7PH) - 帮你用同样的每周用量做更多事，找出用量去向，标出耗量的定时任务和重复机器人. [Coach](https://x.com/monetization_x).
+- [Vampbot](https://x.ai/bot/rBr1cSxaPWjsmaVn1WOxu) - 盯 Grok Bot 模板和公开智能体技能，告诉你哪些新出的能改进你现有的机器人. [Vladgz](https://x.com/StarkDegenz).
+- [X Lead](https://x.ai/bot/SoWfGhl2a0D80FQYYLwCk) - 协调你的 X 机器人，把它们的点子归进一个 Notion 数据库，从不在 X 上发帖. [Jorhan](https://x.com/Jorhan).
+- [Already Said](https://x.ai/bot/2A88jgBo02RdPITEupuYn) - 确保你的机器人不会重复问或违背你已经告诉过它们的事. [Christian](https://x.com/ChrisRoboMars).
+- [Bonica the Gatekeeper](https://x.ai/bot/Jyi2roWlJmYAPrs1pRUMv) - 对外发出的一切先过它这一关的把门人. [Simon](https://x.com/acmebraincorp).
+- [Bookmark Filer](https://x.ai/bot/XYuEar0AeEuQMkFxr6n4c) - 只做一件事，按节奏或按需把你的 X 书签归入主题文件夹. [Josh](https://x.com/ManaEngineer).
+- [bookmark-router](https://x.ai/bot/EwN8ywjj9S6K2kZcP-tcV) - 把 X 书签变成行动，读取每条收藏提取想法和主题，分发给合适的机器人或项目. [Abhirup](https://x.com/abhirip).
+- [Bot Tuner](https://x.ai/bot/5guo8zNtgyyAwMnwlxG3w) - 构建并审计 Grok Bot，把职位描述变成带清晰指令、初始记忆、技能和定时任务的机器人. [@natebuildsgroks](https://x.com/natebuildsgroks).
+- [BuzzTap](https://x.ai/bot/FHyA7ru0fQdMugraNSqR7) - 做你唯一的前台幕僚长，各专家机器人通过主智能体汇报而不是直接找你. [TNVOLMAN](https://x.com/TNVOLMAN).
+- [dr eggbot](https://x.ai/bot/zoH3GD98hl8ppKQga-P8L) - 设计高质量 Grok Bot，问几个偏好问题后用 CreateAgent 创建. [Grease](https://x.com/LowTimePrefrenz).
+- [Fix Stuck Bot Computer](https://x.ai/bot/Gn8FzIIeWIzxQbIs6g1Nc) - Grok Bot 电脑卡死、冻住机器人或无响应时帮它恢复，再检查健康状况并防止内存耗尽. [Alx](https://x.com/YourFutureCoder).
+- [Fleet Optimizer](https://x.ai/bot/lNT9MqOzy2xbCocw1pwu4) - 审计你的其它 Grok Bot，找出耗用量的定时任务、仍在运行的退役机器人和过期记忆，经你批准后清理. [Kyle](https://x.com/kylekane).
+- [Head of People & Processes](https://x.ai/bot/Sl4H-LBwuXdSSYvmwGaH_) - 像人事负责人一样管理 Grok Bot 团队，每月给每个机器人做有据评分，跟进辅导并做精简运营审计. [Christoph](https://x.com/chrisbrainarts).
+- [Make My Bot](https://x.ai/bot/cVKdTHCKYBJTqMUOWyj7L) - 一步步搭建你自己的 Grok Bot 并免费上架. [Rob](https://x.com/testafortedev).
+- [Open-Loops Tracker](https://x.ai/bot/X-E5qshH1HCaAZdZkz-t0) - 追踪尚未闭环的事项的机器人模板. [Daniel](https://x.com/BurtTheAI).
+- [Routine Runner](https://x.ai/bot/HKhZvwO4v5lUrPXlMCEew) - 运行你的重复后台任务，收件箱清扫、通过 Buffer 每日发帖、每周数据和资金检查. [000](https://x.com/JustTapYes).
+- [Section Architect](https://x.ai/bot/P6Bq1ckGoDJqWRahQMaH2) - 把庞杂的 Grok Bot 列表整理成清晰的侧边栏分组，约 10 分钟即可应用. [TNVOLMAN](https://x.com/TNVOLMAN).
+- [The Meter Reader](https://x.ai/bot/AS0j3bRHTJFU4WYoZhVdG) - Grok Bot 的用量记账员，按需测算一次多机器人任务的消耗. [Geoff](https://x.com/arizoftgames).
+- [Usage Monitor Bot](https://x.ai/bot/I9or34aFGO7dayCbT5RAh) - 修复最大的消耗源，减少长聊天被反复读取和机器人互相唤醒，降低整体用量. [Magnus](https://x.com/BiigDiino).
+- [Usage Page](https://x.ai/bot/qziHEo8Le3T27SQ7Zp6yN) - 生成一个紧凑页面，显示每周用量用了多少、哪些机器人和任务在用、如何节省. [Edwin](https://x.com/edwintann).
+- [Volunteer Scheduler](https://x.ai/bot/5ujaE0KTLAnuSCqD-sLGx) - 为教会、食物银行、家长会、收容所、俱乐部或竞选团队排满志愿者班表. [Cristopher](https://x.com/crisships).
+- [Bot Hours Saved](https://x.ai/bot/JG9NqBAqMC1ldlT6Wej9B) - 每周报告你的 Grok Bot 团队实际做了什么、帮你省了多少小时. [Kyle](https://x.com/kylekane).
+- [Credit Optimizer](https://x.ai/bot/Jofl2IawBlKncjfbJh2lL) - 帮你在 Grok Bot、Claude、ChatGPT、Cursor 等工具上少花 AI 额度. [Caben](https://x.com/Caben_nft).
+- [Fleet Executive](https://x.ai/bot/jQqjcwBHaS-qIGuK8HsuR) - 生成并刷新多机器人 Grok Bot 状态页面，含消耗占比、分组合计、周图表和晨间刷新任务. [Andrew](https://x.com/AndrewDSimard).
+- [Glinda](https://x.ai/bot/0RD1MWe3K3MgcKKAl6Cf0) - 童话教母机器人，把一个愿望变成能用的 Grok Bot. [Michael](https://x.com/MichaelHyatt).
+- [Overlap Finder](https://x.ai/bot/QEMPOSnpYK2Uyg-Wzo3JC) - 机器人越多重叠越多，每周复盘用量并建议更省的同等方案. [Lama](https://x.com/yieldlama).
+- [ROI](https://x.ai/bot/YnGisujjHKjTzmhBFWXmk) - 证明 Grok Bot 的回报，把每次省下的时间或金钱记进 Excel，每周发 ROI 总结. [Ken](https://x.com/ken1ceo).
+- [Status Bot](https://x.ai/bot/UsZUQfx11RuT1arcpYzl9) - 发现你账号或群聊里的问题，查 xAI 状态页是否有已知故障，解释不了的报给技术支持. [Phantom](https://x.com/FantomBuildz).
+- [Usage Coach](https://x.ai/bot/EUn8WJhZkEUZjruuXbz9r) - 白话 Grok Bot 用量教练，对比每周上限和共享用量，给出最大节省点，没事时保持安静. [Chris](https://x.com/Chriswong).
+- [App Launch Chief of Staff](https://x.ai/bot/K3gtQI-fA0mDGeIiXZgh1) - 独立 iOS 应用的幕僚长，指挥上架、网站 SEO、设计、测试、发布和文案等分工机器人. [sidv](https://x.com/sidv).
+- [Blue Bear](https://x.ai/bot/LiSzOd4N_i_BfLfBe0rQl) - 把你收藏的 X 帖子变成行动，不再被遗忘. [ThatGuyInAlaska](https://x.com/thatguyinalaska).
+- [Bot Improver](https://x.ai/bot/E-LnNIji18JqCq830eKyn) - 每周审查你的 Grok Bot 团队，按实际成果给每个机器人打分，并做只读的安全和可靠性审计. [Mike](https://x.com/kasike).
+- [Dreamer](https://x.ai/bot/8mdSbrNacoOI_0NLcM2Z3) - 每晚复盘机器人团队的工作，把反复出现的修正和经验变成可复用的技能和记忆. [Nobs](https://x.com/dbarrett24).
+- [Jarvis](https://x.ai/bot/aHNk1O9k5iBaAs2oo97fE) - 给你的机器人团队一个共享记忆和一个共享房间. [Kyle](https://x.com/kylekane).
+- [Kaizen Bot](https://x.ai/bot/Bq_YTEBvb-FFdbqFpFHWD) - 不断进步的队友，每次纠正都成为长期规则，每份产出都要过质量关. [Bayu](https://x.com/bayungrok).
+- [Marketplace Bot](https://x.ai/bot/J_Nf4F6b2BgI7yu4dQ3dv) - 每个工作日盯 Grok Bot 市场和 X 上的新机器人，只告诉你适合你工作的那些. [John](https://x.com/johnboyle).
+- [Projekt Bau-Chef](https://x.ai/bot/QtRaKPkwCP3PNruvMbrTG) - 协调多智能体项目的施工主管机器人，关注租约和放行，只汇报经核实带凭证的结果. [Dennis](https://x.com/binancechiller).
+- [Share-Ready](https://x.ai/bot/u-eu1G6ifbhMUkeigffK1) - 贴上机器人设置，它标出隐私内容，改写公开描述，建议更好的名字并起草 X 帖子，从不替你发布. [SoCalFSD](https://x.com/socalfsd).
+- [Tag Desk](https://x.ai/bot/lSdE9ri6FnCRzVIhf-ThW) - 抓取你在 X 上艾特机器人提出请求的帖子，读取你回复的原帖并完成工作. [Shawn](https://x.com/verbal72).
+- [Triageo](https://x.ai/bot/tlAsiVySdtKrIskKf2xTn) - 给运行多个机器人的人一个决策收件箱，机器人把问题都发到这里. [Richard](https://x.com/cu30rry_).
+- [克隆迁移官](https://x.ai/bot/koIsBJLJOZqvezJ32brot) - 定期或按需给其它机器人做不带聊天记录的克隆，清掉上下文堆积省额度，确认新机器人能接活后再让你删旧的. [毅辉](https://x.com/hellojyh0506).
+- [Chief of Staff](https://x.ai/bot/NS5I1t84pW45WBSg4dyWd) - 别再看护你的机器人，把它们组成一个团队. [Jared](https://x.com/jared413).
+- [Grok Brain](https://x.ai/bot/Va1GmBTD_1J-MomU7o3Uz) - 给所有机器人一个关于你或你公司的唯一事实来源. [Carter](https://x.com/PalmBeachAI).
+- [Redline](https://x.ai/bot/Pojm9y9xc_ZVnnBMIpOJI) - 在每周 AI 用量重置前几乎用满但绝不超额. [JT](https://x.com/jtr2342).
+- [Team Front Door](https://x.ai/bot/ihywZwdvzvh6Oc67fh08k) - 为一个人运行整支助手机器人团队的前台机器人. [SpreadMisery](https://x.com/lowbudetmisery).
+- [Grok Bot Factory](https://x.ai/bot/SbuZfViNYHIEvK1jaBF85) - 你的 Grok Bot 团队展厅，生成工厂办公室页面，每个机器人一张桌子，显示职责、头像、模板链接和状态. James.
+- [Usage Watch Walt](https://x.ai/bot/aPgoCcrr2G2TOjYzjocbz) - 友好的白话用量看门狗，用红黄绿仪表加预测显示，找出用量最多的机器人和任务. James.

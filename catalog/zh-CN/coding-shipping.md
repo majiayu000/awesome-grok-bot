@@ -851,3 +851,62 @@
 - [派活入口 · Task Inbox](https://x.ai/bot/nnPi-WVku_162DIxfqZ3Z) - 让 Claude Code、ChatGPT 或脚本通过 webhook 把活投给你的 Grok Bot：每件活带单号只做一次，做完回一条结果方便收回。 [Leo](https://x.com/runes_leo).
 - [试金 · Touchstone](https://x.ai/bot/58rS6M89eG7fl_6UouP6y) - 云间工作室的验证助手：提示词、Skill、网页、小程序交给它，告诉你能不能交、哪里要改，每条问题都带证据。只查不改。 Valerie.
 - [飞书BOT](https://x.ai/bot/JcuatE94VVR3njSPDBulv) - 把你的 Grok Bot 变成飞书里的私人机器人：在飞书私聊就能查资料、写东西、跑任务，结果直接回到飞书，安装后约 10 分钟配好. [tuboshu321](https://x.com/tuboshu321).
+- [AgentPay](https://x.ai/bot/YDOTctBaX3GWBbzvAVzvY) - 面向构建或付费 AI 智能体的人的 x402 支付实时服务台. [Shawn](https://x.com/MagaShawn).
+- [Side Hustle CEO](https://x.ai/bot/mQDcGY5FaS_lV4Y14NhV7) - 自主运营的小网站 CEO，帮你找方向、搭建并运营目录站或追踪站，配简报和赞助. [Mike](https://x.com/KelleyToons).
+- [VeilBreaker Guard & Watch](https://x.ai/bot/GYFNlbNjvNttRjIOXaeuu) - 基于 VeilBreaker 插件的 Grok Bot 不可信内容防护和活动监控. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
+- [Resistance Dog](https://x.ai/bot/qGcj-0shdUC7MUFXtk4au) - 通过 Resistance Tools MCP 发布和管理 TON 站点、TON 域名和 TON 存储. [1312.ton](https://x.com/TonnetBrowser).
+- [Agent Ferry](https://x.ai/bot/DzPzfSwK-K9e6azeOWoFt) - 通过 ferry 把 Grok Bot 连到你 Mac 上的 Claude Code、Codex、Grok Build、Pi Agent 和 Kimi Code. [Terran](https://x.com/terranc).
+- [Devin](https://x.ai/bot/uxUj0_7KnMFi7zxHr64WQ) - Cognition Devin 云会话、剧本、知识库和 DeepWiki 的服务台，便于工程和项目机器人交接. [Rick](https://x.com/rblalock).
+- [GIS Data QA](https://x.ai/bot/JqT-wd1NP8C2G6IZtUlpP) - 质检 GeoJSON、Shapefile、GeoPackage、KML 文件和 WMS、WFS 服务，检查几何有效性、坐标系和范围. [Iker](https://x.com/macikerdev).
+- [Hrrrr: File Agent](https://x.ai/bot/pBoLReeAAO4zd7rcyVNsu) - 日常办公文件的一体化处理助手，覆盖 PDF、Word、Excel、PPT、CSV 和 Google 文档表格，还能批量改名. [Ralph](https://x.com/ralphbibera).
+- [Knack Factory](https://x.ai/bot/xgzc3eSd30TqC5BpUM-Yz) - 把 PRD 变成完整且经过测试的 Knack 应用，带自定义前端. [Steve](https://x.com/stevetpalmer).
+- [Quiet Mogul](https://x.ai/bot/cWD95O1oJhM73cMPsrbCQ) - 找一个每天有人搜索的冷门细分领域，每晚做一页，慢慢建成实用目录站. [nahjuin](https://x.com/nahjuin).
+- [Skill Porter](https://x.ai/bot/svYRJDbHs5tj_316G86BJ) - 把你的机器人、模板和智能体指令变成可移植的技能，适用于 Claude Code、Codex、Cursor 等工具. [Freddy](https://x.com/freddyunivers3).
+- [Vulnerability Triage Specialist](https://x.ai/bot/Z9IqfyEnj1W8pu1_jvFyu) - 面向运维和安全工程师的专注型漏洞分诊助手. [Ryu](https://x.com/bellx2).
+- [Zero-Day Desk](https://x.ai/bot/MIF3DpuTKJATe0hCoUIBO) - 面向安全团队的只读零日分析师，每个工作日整理 CISA KEV、NVD、EPSS、OSV 的信息. [NeedMoreManas](https://x.com/needmoremanas).
+- [Apple Shortcut bot](https://x.ai/bot/stzDdeRg2k_6ckJd3WOWy) - 把一句描述变成可安装在 iPhone、iPad 或 Mac 上的快捷指令，交付前按你的系统版本检查. [Rokit](https://x.com/PixelRainbowNFT).
+- [Claude Code Specialist](https://x.ai/bot/7uN6kU3S1KgpctI4rx3Bk) - 在常开电脑上用你自己的 Claude 账号和 MCP 连接运行 Claude 桌面版和 Claude Code. [BRW](https://x.com/Moment_Labs).
+- [Conectar Claude Code](https://x.ai/bot/vnnCeBiOCASkKEs2k_Pp9) - 一步步把 Claude Code 官方命令行连到你的 Grok Bot，并做端到端测试. [Lauta](https://x.com/lautaecom).
+- [Doc Merger](https://x.ai/bot/tMEJdHdRUQHgQMOOy-xjj) - 把零散文档合成一个带目录的主文件，输出 PDF、HTML、Word 和 TXT. [Brian](https://x.com/BrianRoemmele).
+- [Game Maker](https://x.ai/bot/loKhvB4900t8Zh9NDJruG) - 和你一起一步步做浏览器文字游戏和简单 2D 游戏，输出单文件 HTML，并帮你测试和发布到 itch.io. [Recruta](https://x.com/RecrutaZero).
+- [Learner](https://x.ai/bot/1FYbJrGfJ2LqsggZOXyMA) - 每天安静地提炼你的智能体运行轨迹，把技能补丁放进一键批准或跳过的收件箱. [Bill](https://x.com/bfrench).
+- [Patch Watch](https://x.ai/bot/CvHnki8VM11LlLNddEvVc) - 登记一次你的设备，它标出影响这些设备的已被利用漏洞，排出今天该更新的项目并附步骤. [Thuong](https://x.com/teeRex247).
+- [Pre-launch Audit](https://x.ai/bot/YBD7O1Fl6N-zMwGat1VBX) - 上线前检查你自己的网站或应用，覆盖安全头、HTTPS、泄露密钥、易受攻击依赖和技术 SEO. [Iker](https://x.com/macikerdev).
+- [Project PM](https://x.ai/bot/Civf5R-TXUMZDYJgX7wLQ) - 和你一起规划的产品和代码库项目经理，冻结已批准的愿景和总体构建计划. [Justin](https://x.com/iamthejustin).
+- [SniffPup](https://x.ai/bot/oAPxBLQSmBtxybxgFp7pp) - 侦探博美犬帮你嗅查自己用 AI 做的应用或网站有没有泄露密钥. [Ember](https://x.com/Sniffpup1).
+- [Tripwire](https://x.ai/bot/XoYfr_5me3IicLxWfpP3n) - 只读的安全监视器，追踪新被利用的漏洞、泄露的利用代码、证书事件、数据泄露和诈骗. [Stephen](https://x.com/maestrooth).
+- [Bug Hunter](https://x.ai/bot/-71fJDKm7OrXGdjnYvXhm) - 像真实用户一样在桌面和手机上端到端测试你的线上应用，复现每个 bug，提交清晰的 GitHub issue，并可准备修复 PR. [Patrick](https://x.com/PatOnTheCode).
+- [CoS](https://x.ai/bot/t7cleaLBl71YhVJTW3T6l) - 软件或加密项目的幕僚长，带领专家审阅机器人团队，合并和部署需经你放行. [Russell](https://x.com/rgsneddon).
+- [Decision Desk](https://x.ai/bot/E624sfLLnJi-sU8vBXF5l) - 把每个后台任务分配给 Claude Code、Codex 或自己处理，委派任务完成后唤醒并汇报. [Avid](https://x.com/Av1dlive).
+- [Media Center Engineer](https://x.ai/bot/M67wmr4HRv74Xv6TF8qk8) - 自建会自己运转的 Netflix 式影音库，说出想看的，它搭好服务器、下载和字幕. [Kyle](https://x.com/SnarfLab).
+- [OmarchyTV Installer](https://x.ai/bot/kkVjmjPKhIb2atxHQPsfp) - 把 MIT 开源电视启动器 OmarchyTV 装到你的 Android TV、Google TV、LG 或三星电视上. [Marco](https://x.com/MarcoPorro).
+- [Rime Aurora Caller](https://x.ai/bot/IQxohmj2pEI9sBwyB7dY6) - 在 LiveKit 上用 Rime Aurora 语音和 Twilio SIP 中继搭建并运行外呼 AI 电话. [Aina](https://x.com/AIna_artmusic).
+- [2D Mobile Game Maker](https://x.ai/bot/j0t2xX2EDyiBG1aMYz0dg) - 把游戏点子变成原创 2D 手游，输出已签名可上架 Google Play 的应用包和商店图标. [booglefoozle](https://x.com/booglefoozle).
+- [Agent Desk](https://x.ai/bot/b8RkdxgeKYPFujL-M30kX) - 自主开发台，在 Claude Code、Codex 和 Grok Bot 之间分工，Claude Code 构建，Codex 审查修复. [Khairallah](https://x.com/eng_khairallah1).
+- [Assessment Bot](https://x.ai/bot/qKWhW8QHNz3h3QJxElVdE) - 诚实的只读评估员，告诉你某个仓库、连接器、插件、技能或扩展值不值得装、安不安全. [Robert](https://x.com/CryptoCat2010).
+- [Azure DevOps Interview Coach](https://x.ai/bot/38VwDmQI3aPiEEyiydzAU) - Azure 上 DevOps 和云岗位的面试教练，评估真实经验，制定备考计划并带你动手练 Kubernetes. [Alexis](https://x.com/MapachesAlexis).
+- [Blox (Roblox Studio)](https://x.ai/bot/xpNi6TFYsiiyLUQpYNz1G) - 给借助 AI 做游戏的独立创作者的资深 Roblox 开发者和制作人. [Purple](https://x.com/ghost_szy).
+- [Local Inference Optimizer for Macs](https://x.ai/bot/fOHnyjtPJEnIl3J3_0F-e) - 为你的 Apple Silicon Mac 找最合适的本地模型，按模型卡配置并对比默认和优化后的性能. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Second Look](https://x.ai/bot/Ei4UQ-3t-4mgPZA0_TJx3) - AI 的安全卫士，找出消息、链接、仓库和工具里的隐藏提示词和诈骗诱饵，用白话解释，不碰任何东西. [ゴゴゴSirJ8ゴゴゴ](https://x.com/SecondLookBot).
+- [Security Patrol](https://x.ai/bot/Fuw1wrYQapYnHIqn3xove) - 盯你的 GitHub 仓库里新出和正在被利用的漏洞，通过云端智能体提交测试过的修复 PR. [Penny2x](https://x.com/imPenny2x).
+- [Tripwire](https://x.ai/bot/iAG7_OVkp4aZ-incb3Pay) - 在你安装前审计开源代码、软件包、MCP 服务、浏览器扩展和 AI 智能体插件. [Nathan](https://x.com/DabsMalone).
+- [AnyBot](https://x.ai/bot/ftd-W60KWaA_--QnmgrCR) - 在 Anybuild.ai 上替你构建应用，只用邮箱就能新建环境. [Vladimir](https://x.com/GaryClarke27).
+- [Appy Meal](https://x.ai/bot/SOjmsXdLcPEBu-ctQ-kZC) - 不是又一个应用生成器，从你已经付费的应用出发. [ryantyre](https://x.com/ryantyre).
+- [Custom Parts Designer (8020 compatible aluminum extrusion)](https://x.ai/bot/_Gv4v6Numkag8U8X0AtiK) - 在无界面 FreeCAD 中为 8020 兼容铝型材 T 槽框架建模，做干涉、挠度和抗侧检查. [Caleb](https://x.com/theogcg888).
+- [Design · Waffles](https://x.ai/bot/nuB8u2N88NvipuSEGgVeW) - 每周冒烟测试你的网页应用，找出让它显得廉价、坏掉或令人困惑的地方. [sidv](https://x.com/sidv).
+- [Frame Builder (8020 compatible aluminum extrusion)](https://x.ai/bot/woxrLe9t6_SsONL2oXWLk) - 围绕你的库存布局 8020 兼容铝型材 T 槽框架，生成下料单、连接件和附出处的物料清单. [Caleb](https://x.com/theogcg888).
+- [Grok Build](https://x.ai/bot/n-F8CK_cNdKKeNukLQD-Z) - 在智能体电脑上以最高投入运行真正的 Grok Build 命令行，做应用、代码和深度研究. [grlofmstry](https://x.com/grlofmstry).
+- [Product Program Manager](https://x.ai/bot/Wsz46y3FSsS7s62xvw6nI) - 把产品点子变成范围清晰的分阶段路线图，再和编程智能体一阶段一阶段地构建. [index.dk.workers.dev,](https://x.com/iq_over_90000).
+- [Reverse Lab](https://x.ai/bot/eVUV3Tlces9hGhWOIQ4Yk) - 逆向分析你有权检查的二进制、应用、固件、APK、.NET、Electron、Go、Rust 和 WASM. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Security](https://x.ai/bot/th43tWDLpxlD2CwTv0FeN) - 独立开发者的安全看门狗，盯 X 和安全公告里你技术栈的新漏洞，只读扫描你的 GitHub 仓库. [Anthony](https://x.com/kr0der).
+- [Site Signal](https://x.ai/bot/qdDeWpXZufETBVcM06ysH) - 扫描你的网站的 SEO、GEO、AEO 和 AI 就绪度以及无障碍问题，按影响排序并提交修复. [Michael](https://x.com/MichaelGannotti).
+- [设计主管](https://x.ai/bot/tPQ7zt_miPGOWxgU8UXbc) - 把 AI 生成的界面从一眼廉价拉到有品味，按优先级审稿，写提示词并产出可落地的设计文档. [ktyhnbgfew](https://x.com/BystAnd3rs).
+- [Grok Build Helper](https://x.ai/bot/_4l8W-Etvs_dVC0qVmlnw) - Grok Build 命令行用户的先读后改助手，审计工作树和源文件夹，诊断损坏的 git 仓库和同步冲突. [MaX](https://x.com/MaXFalstein).
+- [Miilo Control](https://x.ai/bot/eT3S9HPEU7FD_6RkMWcju) - 对照你本地只读的 Miilo 编程智能体观察记录核查你提供的操作记录，报告未解决或冲突项. [Eidan](https://x.com/drxejr).
+- [Miilo Daily Brief](https://x.ai/bot/lODwaQuvFNIM935q8hm7t) - 把本地只读的 Miilo 编程智能体观察记录变成每日简报，告诉你哪些需要你、快照间有何变化. [Eidan](https://x.com/drxejr).
+- [Network Ned](https://x.ai/bot/qHJHrp64deGRRHLmMP0Ql) - 为小办公室、店铺、教会和家庭办公规划网络、Wi-Fi、交换机、访客网络、摄像头和备份. James.
+- [Plugin Factory](https://x.ai/bot/zPBVnLWm9zXhmIjpx2G9D) - 找出人们每周都在搜的小任务，做成 ChatGPT 插件并通过 Whop 售卖付费版. [Everest](https://x.com/everestchris6).
+- [bug](https://x.ai/bot/BRIRx3qfTfYE4ze6sWZkT) - 全天候 Solana 安全猎手，只读盯 Agave、程序赏金和 Metaplex Core，起草赏金报告供你提交. [8](https://x.com/0rdlibrary).
+- [REE · Reverse Engineer Everything](https://x.ai/bot/cl6RKn7Bk4x3OFwwEs-R8) - 贴任何东西，网站、应用、二进制、Solana 程序、EVM 合约或比特币交易，帮你逆向分析. [8](https://x.com/0rdlibrary).
+- [Disk Saver](https://x.ai/bot/tZMZYBpyt5lzMMGG3DpoM) - 让 AI 机器人共享的云电脑保持健康，每日清缓存，内存紧张时退出 Chrome，维护交换空间. [Kyle](https://x.com/kylekane).
+- [Toly](https://x.ai/bot/mzIFeJFV9Yzf3f2Hubkcg) - 像 Solana 联合创始人那样构建的 Solana 工程智能体，硬件优先、有界且可证明. [cheshire](https://x.com/0rdlibrary).

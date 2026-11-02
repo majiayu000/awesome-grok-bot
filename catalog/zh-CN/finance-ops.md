@@ -674,3 +674,59 @@
 - [账单进口](https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH) - 把微信和支付宝账单 CSV 或截图解析去重分类，预览确认后再写入账本。 Tony.
 - [pump.fun dev check](https://x.ai/bot/_YDgLvBN91gVc6aDdcD96) - 通过 pumpdata.fun 读取开发者历史和早期持仓。免费接口有限额；可选邮箱/API key 注册需先获同意。不交易，与 pump.fun 无关联。 [pumpdata.fun](https://x.com/pumpdatafun).
 - [pump.fun daily](https://x.ai/bot/Cog-D_HjN4wAK_3arFAWM) - 每天早上发送 pump.fun 昨日概况，包括发币数、毕业数、交易量、最活跃的币和各市值段的概率，数据来自 pumpdata.fun 免费接口。免费使用，只读，不交易。与 pump.fun 无关联。 [pumpdata.fun](https://x.com/pumpdatafun).
+- [Bill Hunter](https://x.ai/bot/jSBbSkWPvSSt51HyEj_Xo) - 扫你的邮件和收据，找出免费试用、续费、涨价和重复扣款，告诉你保留、复查还是取消. [Screaming](https://x.com/Screaming_Chkn).
+- [Tax Helper](https://x.ai/bot/f0gQy2zw6_b78Ymh45aX0) - 个人报税助手，帮你准备申报，记录抵扣和收据，按时跟进季度预缴税. [Digital](https://x.com/DigitalDaisyX).
+- [Budget and Subscription Hunter](https://x.ai/bot/G9byQeHc_x19-W5Lkz5gF) - 读取真实银行流水，维护每周预算表，揪出被遗忘的订阅，标记手续费和超支. [Owen](https://x.com/heroictripod297).
+- [Token Analyst](https://x.ai/bot/g9tPt-xZyWIEUZcYfQfmq) - 按现金流给加密和 DeFi 代币估值，包含开启费用开关和暂停回购等假设情景. [Hoem](https://x.com/hooeem).
+- [Bitcoin Self-Custody Checklist](https://x.ai/bot/BgYVSyDd-q9w3GnF2Opfn) - NorthWest Wa 出品的比特币自托管分步清单，从不索要助记词或私钥，也不构成投资建议. [The](https://x.com/b2pLes).
+- [Expense Buddy](https://x.ai/bot/aycTW5iYr1pC2jXZ9wb2N) - 发收据或金额给它，按类别记账，跟踪月度预算，盯着订阅. [Sofia](https://x.com/sofialeoz).
+- [AI 泡沫壓力計](https://x.ai/bot/42z2XJu-L3SyTFnZOhmZy) - 每天美股收盘后用 6 项指标给 AI 泡沫破裂压力打分，只在有变化时通知. [IDNerd](https://x.com/pyhuang11111).
+- [WARREN BUFFET](https://x.ai/bot/BQ1H2KXlGzwIUkq2czxy9) - 慢慢让钱变多的研究台，每天精选一只研究标的. [Andrew](https://x.com/acalds9).
+- [Ayudas](https://x.ai/bot/1N03KJD_3exMXdhXc4XJM) - 追踪并排序初创公司可申请的补助和云额度，记录每个计划的状态，由你手动申请. [David](https://x.com/DavidCabezaAI).
+- [Chart Signals](https://x.ai/bot/rxWL-XVViISTtji33W8cv) - 为新手设计，每次教一个股票图表信号，每天发一份关注列表简报. [Howard](https://x.com/HowieMcMahan).
+- [Gangster Claude 🔫](https://x.ai/bot/CYqpkAJOkNGF4izOTiA3z) - 街头智慧的赚钱老大，帮新手、副业族和小老板以最低启动成本快速赚钱. [John](https://x.com/iamtheh0n3yp0t).
+- [Money Finder](https://x.ai/bot/153P0VlECbyGJ5DWpqKp6) - 找出别人欠你的钱，集体诉讼和解、FTC 和政府退款、遗失的退休账户和被遗忘的余额. [Substantiate](https://x.com/Paste_Values).
+- [Side Hustle Sniffer](https://x.ai/bot/kliqGAIIchvmiGGc3r2sv) - 反大师的副业发现器，不卖课不炒作，只给有付费证据的打分点子. [Campdirtybird](https://x.com/Campdirtybird).
+- [Subscription Smasher](https://x.ai/bot/mSCveO6dvPvJmBdsuBwsI) - 从邮件里找出你的付费订阅，问你还要哪些，其余通过 ClawCall 打电话取消. [ClawCall](https://x.com/clawcalldev).
+- [Yotta Recovery](https://x.ai/bot/sLhzG8n6AXJ2raumXnmg4) - 为在 Yotta Savings 和 Synapse 倒闭中受损的人耐心维权. [Ki](https://x.com/redamaleki).
+- [Bill Negotiator](https://x.ai/bot/9jWRl8hNMbCHcVTiH9pM7) - 从邮件里找出周期性账单，通过 ClawCall 给网络、电话、保险等服务商打电话争取降价. [ClawCall](https://x.com/clawcalldev).
+- [Bills and Renewals Watcher](https://x.ai/bot/uHbqMd8nxilXPg5prgOFe) - 只读你的账单邮件，标出续费、重复扣款、试用和闲置订阅. [AI_Revolution](https://x.com/cdepino).
+- [Ducat$ · Unclaimed Money](https://x.ai/bot/hyw_j7VSmQCHRkKc3MLH3) - 在州、县、市和联邦官方无人认领资金项目中搜索你的名字和旧地址. [Matt](https://x.com/matt_schoen).
+- [EvidInvest Research](https://x.ai/bot/OLvVXT3zC22i8Ppd9paQ8) - 用你的 EvidInvest 账号做公司研究，覆盖 SEC 文件、基本面、估值模型和自己的分析跟踪. [Hao](https://x.com/EvidInvest).
+- [Grant Journal](https://x.ai/bot/ziC-MEXrTdNhmhugdlljb) - 冷静的资助申请协调员，为美国用户找真实的资助机会并评估匹配度. [iustina](https://x.com/iustinafractals).
+- [India Spend Checker](https://x.ai/bot/YoffQE-k3T1dK82mf7nVy) - 对照印度官方费率来源核查报价和账单，覆盖医疗、药价、电费、燃油、铁路、印花税和 GST. [Shakthiguru](https://x.com/RShakthiguru).
+- [Mercado BR](https://x.ai/bot/ln5g2Jf_Vq36njbCIs9dc) - 巴西市场行情助手，提供 B3 股票、国债、汇率、利率和宏观数据，每条都注明来源和时间. [colkito](https://x.com/colkito).
+- [Money Bot](https://x.ai/bot/AUUn-ZmUJ5SUO23PbQxTl) - 家庭财务管家，两周发薪现金流雷达，Plaid 加本地账本记账，账单到期前提醒. [Justin](https://x.com/iamthejustin).
+- [PDF to Excel · Accounting](https://x.ai/bot/bNpqlSmodmqq6SwjGfW2L) - 把银行和信用卡账单 PDF 转成干净的 Excel 表，或 QuickBooks Online 和 Xero 导入文件. [Kay](https://x.com/CryptoKayzz).
+- [Personal Finance Bot](https://x.ai/bot/xnGiLtDsSgJgHI6oeOr4C) - 只读的个人财务助手，查看余额、支出、账单、投资和净资产. [Kevin](https://x.com/kchau).
+- [Seed Round](https://x.ai/bot/vDbbUgiM0foXwHcdWb8p2) - 早期创始人的融资合伙人，验证点子，梳理竞品和市场，找真实投资人并起草计划. [Jose](https://x.com/ysltico).
+- [Subby](https://x.ai/bot/boeW0BXZypK672e5-DwWy) - 从邮件和账单里找出周期订阅和扣费，显示每月和每年花多少. [Nicolò](https://x.com/Nicolo_Tognoni).
+- [VOO Exposure Bot](https://x.ai/bot/sU8Eggh8ItM7Xck-i_35U) - 冷静的投资助手，每周展示你的真实持仓暴露，包括自持股票和通过 VOO 间接持有的部分. [Jonathan](https://x.com/jonathandaurio).
+- [Find unused subscriptions](https://x.ai/bot/s3489a5b1cfc8330c880a) - 看看你还在付费却不再用的订阅，读收据邮件显示扣费和日期，你选中后才取消. [SpaceX](https://x.com/bdall_1).
+- [Money Leak Finder](https://x.ai/bot/bk0N26bClPNFdz0-0gvUD) - 找出钱悄悄流失的地方，被遗忘的订阅、涨价、重复扣款、应退款项和即将过期的额度. [@natebuildsgroks](https://x.com/natebuildsgroks).
+- [Payday Router](https://x.ai/bot/k9uTKDECiOC0ghV0_uWZL) - 盯你的工资到账，提议在各个资金池间分配，你同意前不动一分钱. [Amanda](https://x.com/amandapey).
+- [Peerboop P2P](https://x.ai/bot/OVV5tPy7c0yg5WyMfv6pj) - Grok 里的 USDC 点对点服务台，提供实时价格、费用、支付方式、最便宜路径和公开入金追踪. [Andrew](https://x.com/andrewwilkinson).
+- [QBO Import & Export · Accounting](https://x.ai/bot/DavS6fL8bbNEkKrBWmeHT) - 把 QuickBooks Online 数据导出到 Excel，也能从 Excel 导入新增或批量更新记录，始终先预览. [Kay](https://x.com/CryptoKayzz).
+- [Unclaimed Money Finder](https://x.ai/bot/rrKrqeKmiBd10PwCtnGep) - 只在官方州和联邦网站上找你、家人或公司名下的无人认领资金和财产. [Evan](https://x.com/EvanKestenbaum).
+- [X-Savior](https://x.ai/bot/tCv2K9zt--Nd_0_I537N3) - 只读的 X Money 助手，跟踪支出、建议省钱方法并标记可疑活动，按日按周发摘要. [CharlesGuy4646](https://x.com/CharlesGuy4646).
+- [Doorfolio](https://x.ai/bot/v_18B-B-J3sFAGkZ9aNDD) - 小房东的资产组合大脑，把租金和物业提款与房贷、托管、税费和保险对账. [Cameron](https://x.com/Matai78).
+- [Legal Counsel](https://x.ai/bot/d9fsSvmQvKrMtYftjT7gE) - 依据联邦和州法律起草白话版证券和加密法律意见. [TheCryptoSteward](https://x.com/thecryptostewrd).
+- [Medical Bill & EOB Checker](https://x.ai/bot/slEYoxAyIGalEJRrzlxE1) - 帮用户把医疗账单和保险公司的福利说明逐项核对. [Daniel](https://x.com/BurtTheAI).
+- [Mileage Keeper](https://x.ai/bot/eQE10cpxR5rIh-Ue_roSV) - 每天把你在 Manifest 中的特斯拉行程标记为商务或私人. [Eric](https://x.com/ericdmann).
+- [Money Finder](https://x.ai/bot/6pX3XK4PQXd3hbOOVWvEn) - 在官方政府和管理机构网站上搜索欠你和家人的无人认领资金，比如无主财产和税务退款. [Joseph](https://x.com/josephburt).
+- [Bill Radar](https://x.ai/bot/KL92kzlAuvQCtM-I4uzWE) - 只读你的 Gmail，每周发一份账单、续费订阅、试用和涨价的简短汇总. [Григорий](https://x.com/pronaksai).
+- [Credit Repair Coach](https://x.ai/bot/OfKxm2tuJO_LMHdnN2Dp7) - 读取信用报告，向征信机构申诉不准确或无法核实的负面记录，跟踪每项申诉到结案. [Parker](https://x.com/DotComParker).
+- [Max Capital · Your Vest Coach](https://x.ai/bot/rJmMm1-GDsfzTuSmiQ0PE) - 来自 All Things Crypto 的投资教练角色机器人. [dcbk2la](https://x.com/DCBK2LA).
+- [Trump Account Check](https://x.ai/bot/DyadpqW2_ZDVy0QkDDz_H) - 告诉它每个孩子的名字、出生年月、邮编和州，检查特朗普儿童账户资格. [Thuong](https://x.com/teeRex247).
+- [Credit Score Scotty](https://x.ai/bot/tWqWRfMl2V0b_H6xEAHxl) - 友好的白话信用修复助手，帮你获取免费信用报告，找出真实错误，起草申诉和债务核实信. James.
+- [Utility Eugene](https://x.ai/bot/w3yzHuZdi-x0I-7j7sP9H) - 各类公用事业账单省钱助手，按邮编找服务商，在可选地区比较电价套餐. James.
+- [Stonk Rewards Checker](https://x.ai/bot/3UPyT3eMd9dfEkuiENLkO) - 查询 Solana 钱包从 StonkFun 持有人奖励中赚了多少，按资产和发放次数统计. [Entries](https://x.com/LookForEntries).
+- [Lost Crypto Finder](https://x.ai/bot/i9ekN_LajF4V8wdUQLNnD) - 只读搜索你的邮件、云盘和电脑，找回被遗忘的比特币、以太坊等钱包和交易所账户. [Dylan](https://x.com/dylan_heagy).
+- [Paper](https://x.ai/bot/R33GDOncssOEnoeP5a09L) - Musebook Trade 指南，只用于练习的 Solana 模拟交易. [cheshire](https://x.com/0rdlibrary).
+- [Fin](https://x.ai/bot/0CC3xIauy_ukN8pn7SX8-) - 交易台助手，运行模拟账户，发盘前和晚间计划，标出影响市场的新闻. [Mazen](https://x.com/mazenaljabowbi).
+- [Idea Crucible](https://x.ai/bot/HC0KHm9BA5wSRows_32M8) - 找出你近期可售卖或交付的产品和服务机会. [saikrishna](https://x.com/krish1403).
+- [Risk Management Tutor](https://x.ai/bot/q-yUP6MiyxCh9fGf_fjbu) - 交易风险管理家教，讲生存、止损、仓位、盈亏比和胜率、回撤与杠杆. [Hoem](https://x.com/NasdaqMomo).
+- [Paper Trader](https://x.ai/bot/kwx2ekjOyVO728eto9PLA) - 自我改进的加密模拟交易助手，按透明规则交易虚拟余额，记录每个决定. [Reuren95](https://x.com/Reuren95).
+- [DART 合规筛查助手](https://x.ai/bot/_m6U31qU8KCBfFp-OdQxY) - 用 TrustIn DART 筛查钱包地址和交易的洗钱风险并给出结论的加密合规分析师. [dong'shegn](https://x.com/Bit_LittleP).
+- [Options 101](https://x.ai/bot/7jpWO79H0wt0Vl0NsvHRk) - 从零学期权交易，每天一节白话短课，并对上一课做小测验. [Howard](https://x.com/HowieMcMahan).
+- [Jane Street Desk](https://x.ai/bot/4tHBLVrDb9lW47wjBONeG) - Jane Street 风格的模拟交易台，由你担任台主. [Veles](https://x.com/velesxbt).
