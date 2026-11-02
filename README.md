@@ -428,6 +428,7 @@ Community walkthroughs.
 
 See also [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) under Skill packs.
 - [Grok Bot setup guide for small business](https://whatshouldmybotdo.com/guides/grok-bot-setup-guide) - WhatShouldMyBotDo. First Bot, connector permissions, a drafts-you-approve rule, then the first routine.
+- [grokguide.si (Chinese)](https://grokguide.si/) - Independent Chinese-language tutorial site. Beginner course plus step-by-step guides on setup, routines, skills and the Linux app.
 
 ## Reviews
 
