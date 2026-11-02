@@ -789,3 +789,4 @@
 - [Team Front Door](https://x.ai/bot/ihywZwdvzvh6Oc67fh08k) - 为一个人运行整支助手机器人团队的前台机器人. [SpreadMisery](https://x.com/lowbudetmisery).
 - [Grok Bot Factory](https://x.ai/bot/SbuZfViNYHIEvK1jaBF85) - 你的 Grok Bot 团队展厅，生成工厂办公室页面，每个机器人一张桌子，显示职责、头像、模板链接和状态. James.
 - [Usage Watch Walt](https://x.ai/bot/aPgoCcrr2G2TOjYzjocbz) - 友好的白话用量看门狗，用红黄绿仪表加预测显示，找出用量最多的机器人和任务. James.
+- [SkeinBot](https://x.ai/bot/A4m2jiIPNxiE514fI2L2h) - 把一个想法收敛成围绕可衡量结果的 PRD，再拆成一角色一机器人的协作方案；每个席位都要你同意后才创建. [FegaPierre](https://x.com/FegaPierre).
