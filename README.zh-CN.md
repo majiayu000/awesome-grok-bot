@@ -331,6 +331,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [Convoy](https://github.com/Deploy-Forward/convoy) - 公开 MCP 加 hop 命令行。Grok Bot 当指挥，自带的 harness CLI 去干活。
 - [grokbot-openai](https://github.com/owenisas/grokbot-openai) - 用与官方相同的登录在本机提供 OpenAI 兼容接口给其他工具调用。
 - [grok-bot-gateway](https://github.com/dimpurr/grok-bot-gateway) - 技能，让 Claude Code、Codex 或脚本经官方 webhook 例程列出 Grok Bot、读对话、给 Bot 发消息。结果走你选的回程路径，默认不回传。
+- [Ironheights](https://github.com/Frank-Masciopinto/ironheights) - 开源本地命令行，在把技能加到 Bot 之前扫描含 `SKILL.md` 的技能目录，检查提示注入、读取凭据和远程执行安装。只用静态规则，没有发现不代表安全。
 
 ### 聊天桥
 
