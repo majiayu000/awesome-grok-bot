@@ -1,6 +1,6 @@
 # Personal admin
 
-Back to [README](../../README.md)
+Back to [README](../../README.md) · Continued in [personal-admin-2.md](personal-admin-2.md)
 
 - [.0](https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ) - A plain-words guide for someone new to Grok Bot / @bot. Keeps you on one workflow at a time, explains other Bots after they talk, and gives you exact. [ghost2man](https://x.com/ghost2man).
 - [✝️ Christian Devotional Bot](https://x.ai/bot/Nfwkt1S4xtLJZpkENJZ3Q) - A daily Christian devotional fitted to your tradition and translation\: accurately quoted Scripture, a short reflection, a prayer. [Phil_Holland](https://x.com/Phil_Holland).

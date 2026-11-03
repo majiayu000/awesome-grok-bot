@@ -594,3 +594,5 @@ Back to [README](../../README.md)
 - [Lead Hunter](https://x.ai/bot/zGZE1HG3X5jQdq0OgRNcy) - Scans X and Reddit for people ready to buy what you sell, scores each lead HOT/WARM/SKIP, and drafts human replies you approve before anything goes out. [Sultanov](https://x.com/thekuchh).
 - [Lead Desk](https://x.ai/bot/zqCY7u_VOCpgNSzOwpfNz) - One job\: catch every new lead, sort it, and hand you a draft follow-up. [Calix](https://x.com/CaliLumberJack).
 - [Franchise Opportunity Finder](https://x.ai/bot/BTt50YzAQhs_wpleTbRSh) - Finds and vets franchise opportunities that fit your budget, location, time commitment, and skills. [Igor](https://x.com/igormajdov).
+- [clutch · live coach](https://x.ai/bot/dlxokqZ4cLjnOzjX8VQln) - A tap-driven sales coach for before, during and right after calls, with objection buttons, SPIN prompts and buyer role play for reps. [josiah](https://x.com/josiahXXI).
+- [High Website Secretary](https://x.ai/bot/LtJhUnD70XELBwSntpqif) - A website secretary for business owners that answers site chat with takeover anytime, numbers orders, sends receipts and marks sold-out items. [High](https://x.com/Hightv).

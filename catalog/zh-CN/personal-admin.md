@@ -1,6 +1,6 @@
 # Personal admin
 
-返回 [README](../../README.zh-CN.md)
+返回 [README](../../README.zh-CN.md) · 后续见 [personal-admin-2.md](personal-admin-2.md)
 
 - [.0](https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ) - 给 Grok Bot 新手的白话向导，一次只盯一条工作流，其它机器人说完再解释，并给你可照做的下一步. [ghost2man](https://x.com/ghost2man).
 - [✝️ Christian Devotional Bot](https://x.ai/bot/Nfwkt1S4xtLJZpkENJZ3Q) - 按你的宗派和译本定制的每日基督教灵修：准确引用经文，附简短默想和祷告. [Phil_Holland](https://x.com/Phil_Holland).

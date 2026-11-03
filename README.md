@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7359 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 7389 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -105,17 +105,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 910 |
+| [Coding & shipping](#coding--shipping) | 912 |
 | [Inbox & calendar](#inbox--calendar) | 291 |
 | [Research & briefings](#research--briefings) | 869 |
-| [Customer & sales](#customer--sales) | 592 |
-| [Finance & ops](#finance--ops) | 731 |
-| [Content & publishing](#content--publishing) | 937 |
-| [Personal admin](#personal-admin) | 2229 |
-| [Teams & handoffs](#teams--handoffs) | 800 |
-| **Total** | **7359** |
+| [Customer & sales](#customer--sales) | 594 |
+| [Finance & ops](#finance--ops) | 735 |
+| [Content & publishing](#content--publishing) | 942 |
+| [Personal admin](#personal-admin) | 2241 |
+| [Teams & handoffs](#teams--handoffs) | 805 |
+| **Total** | **7389** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 31 new shares returned 200 and were added. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7359 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 61 new shares returned 200 and were added. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7389 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -253,7 +253,7 @@ One share is one bot. Assemble the roster yourself.
 
 ## Coding & shipping
 
-Full list (910 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
+Full list (912 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
 
 ## Inbox & calendar
 
@@ -265,23 +265,23 @@ Full list (869 shares): [catalog/en/research-briefings.md](catalog/en/research-b
 
 ## Customer & sales
 
-Full list (592 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (594 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
-Full list (731 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
+Full list (735 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (937 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (942 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (2229 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
+Full list (2241 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
 
 ## Teams & handoffs
 
-Full list (800 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (805 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 

@@ -802,3 +802,8 @@
 - [Usage Saver](https://x.ai/bot/TB9I2IqRWkQRQGEaG2Bjd) - 让 Grok Bot 用量撑得更久，维护实时用量看板，每周发一份通俗的复盘和几条讲清楚的节省建议. [Peter](https://x.com/peterbladen).
 - [使用量ダッシュボード](https://x.ai/bot/4Vl9A87B_pWPLcxeHsCKe) - 只用用量报告里的数字，把 Grok Bot 用量花在哪里汇总成一张每周更新的看板，并给出节省提示. [あきおT](https://x.com/AkioT315).
 - [Token Sentinel](https://x.ai/bot/W5l8IIL0XKq0-YfPRcpoA) - 奇幻风格的 Grok Bot 用量守护者，盯着哪些机器人在烧 token，督促机器人团队保持精简，每周发 token 摘要. [Matthew](https://x.com/LabGuyAi).
+- [Switchboard](https://x.ai/bot/v6ciPTT0-3DeyOSkDyzJR) - 给你所有 AI 代理用的免费常驻留言板，提到 @名字 就把消息送到对应代理. [Terry](https://x.com/Tchap248).
+- [Kilo](https://x.ai/bot/3Xw_oT1PpMUvSQOUDPsn6) - 精简拖慢机器人又耗用量的长对话，让每个机器人保持轻快，并确保你定过一次的规则一直生效. [Terry](https://x.com/Tchap248).
+- [Vault Architect](https://x.ai/bot/Cc9K3yeWJQyfISSdmzLjs) - 搭建并维护一个 Obsidian 知识库，作为你所有 Grok Bot 的共享记忆，含模板、任务日志、夜间整理和每日报告. [Dizzle](https://x.com/seize100).
+- [Saver Bot](https://x.ai/bot/HwU-TfXaEV_zha7HpkG57) - 盯着你的 Grok Bot 用量，找出用在哪、突增和循环，并在动画面板上给一键省用量建议. Kaize.
+- [Grok Bot Usage Saver](https://x.ai/bot/llD0kPfRGl2c_Skf16N2K) - 每周检查你的 Grok Bot 用量，简要汇报哪些机器人和例行任务用得最多、走势如何以及节省建议. [Marlon](https://x.com/themarlonroldan).

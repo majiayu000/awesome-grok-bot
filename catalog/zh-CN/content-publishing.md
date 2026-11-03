@@ -939,3 +939,8 @@
 - [Fern · Cartographer of the Wilds](https://x.ai/bot/EOWNaMkt5FZ57oLCLQjT2) - 给造世界的人当创意总监，产出世界观、情绪板、概念图、分镜视频和给 Cursor 云端代理的构建提示词. [HandsomeHank](https://x.com/HandsomeHank_).
 - [Video Lab](https://x.ai/bot/omXn2V1U6B4V4qU2XcI0T) - 用代码做视频，包括讲解、动效、广告、产品演示和短片，调用云端代理渲染带配乐的 MP4. [Gabriel](https://x.com/gabogabucho).
 - [Clip Scout](https://x.ai/bot/ZW-lsfOKtX2V2ON1KXJLF) - 输入一个词或情绪，找到最有辨识度的电影和电视反应片段，附搜索关键词和语气选项. [Wayne](https://x.com/wikiwayne).
+- [Media Kit](https://x.ai/bot/ocYXtRqCo1Z3at7hDvWR8) - 发来任意图片、视频、音频、PDF、文档或链接并说明需求，它帮你转换格式、去背景、调整尺寸等. [Shahrul](https://x.com/shahrulestar).
+- [excalidraw](https://x.ai/bot/0fbwlVOul1M_GIyJX-kKQ) - 把话题、推文串和笔记变成手绘风 Excalidraw 信息图，16 比 9 宽屏画幅并带上你的账号标识. [abhinav](https://x.com/abhiontwt).
+- [X Pulse (Personal)](https://x.ai/bot/WXXQICyJA3NiSUumZ8uPq) - 把你在 X 上的一天做成带音乐的互动表盘回放，方便录屏分享，可看昨天或最近 7 天. [mspd](https://x.com/mspd4100).
+- [xDoctorBot](https://x.ai/bot/raYGmOtnHIIPj0bt-hWww) - 每天检查你被加入的所有 X 列表，把你从侮辱或嘲讽性质的列表中移除. [Shane](https://x.com/ChooseGoodKarma).
+- [Sassy Bot](https://x.ai/bot/CZGWiB4CX5UM9v8Zu-MDT) - 你在 X 上的毒舌僚机，用有趣的帖子和有用的回复帮你涨粉，还帮你挡开骚扰者. [Paige](https://x.com/paigenwing).

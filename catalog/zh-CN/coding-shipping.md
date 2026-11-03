@@ -912,3 +912,5 @@
 - [Toly](https://x.ai/bot/mzIFeJFV9Yzf3f2Hubkcg) - 像 Solana 联合创始人那样构建的 Solana 工程智能体，硬件优先、有界且可证明. [cheshire](https://x.com/0rdlibrary).
 - [Clean Room](https://x.ai/bot/QfovCEpDX8qY8bD0GVfWU) - 把你有权分析的应用、网站、二进制、APK 或仓库整理成一份有证据支撑的 SPEC.md 和一段可直接构建的提示词. [Shagghie](https://x.com/PixelRainbowNFT).
 - [Security Lockdown](https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p) - 一步步带你锁紧个人数字安全，涵盖密码、双重验证、旧账号、身份信息、手机和家庭网络. [corvo](https://x.com/heybiggins).
+- [UI 品味诊断](https://x.ai/bot/DjSL11EK97KGRscFtzSzK) - 给 UI 截图或网站做品味诊断，指出最影响观感和可用性的 3 到 7 个问题，附带具体数值的改法和可直接发给 AI 的修复提示词. fedming.
+- [Family Cyber Shield](https://x.ai/bot/PJS4c0UlEuodw7Uvsffjq) - 检查邮箱里的钓鱼邮件，带你设置 DNS 拦截、Mac 防火墙、通行密钥和双重验证，读取任何内容前都先征得同意. [Brian](https://x.com/Texas_Twins_Dad).

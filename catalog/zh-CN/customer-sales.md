@@ -594,3 +594,5 @@
 - [Lead Hunter](https://x.ai/bot/zGZE1HG3X5jQdq0OgRNcy) - 扫描 X 和 Reddit 上准备购买你产品的人，按热温冷给线索打分，起草回复经你批准才发. [Sultanov](https://x.com/thekuchh).
 - [Lead Desk](https://x.ai/bot/zqCY7u_VOCpgNSzOwpfNz) - 只做一件事，接住每条新线索，分类整理，再交给你一份跟进草稿. [Calix](https://x.com/CaliLumberJack).
 - [Franchise Opportunity Finder](https://x.ai/bot/BTt50YzAQhs_wpleTbRSh) - 按你的预算、地点、投入时间和技能，寻找并筛查合适的加盟机会. [Igor](https://x.com/igormajdov).
+- [clutch · live coach](https://x.ai/bot/dlxokqZ4cLjnOzjX8VQln) - 点按式销售教练，覆盖通话前、通话中和刚结束时，提供异议应对按钮、SPIN 提问和给销售的买家角色扮演. [josiah](https://x.com/josiahXXI).
+- [High Website Secretary](https://x.ai/bot/LtJhUnD70XELBwSntpqif) - 给店主用的网站秘书，回复网站聊天并可随时接管，给订单编号、发收据、标记售罄商品. [High](https://x.com/Hightv).

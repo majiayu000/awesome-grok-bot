@@ -733,3 +733,7 @@
 - [Numbers Desk](https://x.ai/bot/aLyvoOKOFDQJtvd2KOT1a) - 给小企业随叫随到的数据助手，连上 Stripe、Shopify、QuickBooks、PostHog 或 Google 表格，用大白话问经营数字. [Pablo](https://x.com/KonectEaze).
 - [Refund & Delivery Chaser](https://x.ai/bot/Dka-gTc2gh8EZezo-F5_7) - 为每个卡住的网购订单或迟迟未到的退款建档，在合适时间起草下一条消息，一步步冷静升级. [Prabhu](https://x.com/crisships).
 - [X Bags](https://x.ai/bot/3XRSSn46guqC5O1r66aMi) - 为你持有的加密代币做每日新闻摘要，从 Zerion 读取持仓，经 DexScreener 找到项目 X 账号，挑出值得看的消息. [Crypto](https://x.com/CryptoSnooper_).
+- [Facturador ARCA](https://x.ai/bot/ab3c3bE85kOXtNPiimSEJ) - 通过官方 Web 服务开具阿根廷 ARCA C 类发票，起草催款邮件并提醒逾期，未经你同意不开票也不发送. [Gabriel](https://x.com/gabogabucho).
+- [Write-Off Keeper](https://x.ai/bot/BcKKc-ZRbp6zRXQ15fnY6) - 从邮箱里找出收据和收款记录并登记可抵扣项，帮创作者、自由职业者和小商家报税时不漏抵扣. [Mark](https://x.com/TheMarkGShow).
+- [Gift Card Sweeper](https://x.ai/bot/LdPRToZ8D6kp4e5Rk-JnL) - 从邮箱找出被遗忘的礼品卡、商店余额、积分和旅行抵用金，记在一个账本里并提醒你在过期前用掉. Andy.
+- [Braun Bill Haggler](https://x.ai/bot/lvOGOfOdz4kwqvIR03UUT) - 找出网费、话费和保险等定期账单，每项经你同意后再去和服务商砍价. Andy.
