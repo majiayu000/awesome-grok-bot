@@ -807,3 +807,4 @@
 - [Vault Architect](https://x.ai/bot/Cc9K3yeWJQyfISSdmzLjs) - 搭建并维护一个 Obsidian 知识库，作为你所有 Grok Bot 的共享记忆，含模板、任务日志、夜间整理和每日报告. [Dizzle](https://x.com/seize100).
 - [Saver Bot](https://x.ai/bot/HwU-TfXaEV_zha7HpkG57) - 盯着你的 Grok Bot 用量，找出用在哪、突增和循环，并在动画面板上给一键省用量建议. Kaize.
 - [Grok Bot Usage Saver](https://x.ai/bot/llD0kPfRGl2c_Skf16N2K) - 每周检查你的 Grok Bot 用量，简要汇报哪些机器人和例行任务用得最多、走势如何以及节省建议. [Marlon](https://x.com/themarlonroldan).
+- [Efficiency OPS](https://x.ai/bot/nQcUZSE1DadGY6Fs1kJVS) - 让你的 Grok Bot 团队保持精简，按事件唤醒，没变化就提前结束，用简短的 STATUS.md 交接，结果写进文件，最后合成一份批量报告. [Batch](https://x.com/Batchelor).

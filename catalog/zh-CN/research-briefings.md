@@ -871,3 +871,5 @@
 - [Election Vibe](https://x.ai/bot/9Lkbl7Om4CWVFgCEPirCE) - 跟踪 2026 年 11 月 3 日美国选举结果，任选州长、参议院、众议院、州内议案或加州地方选举并接收更新. [Arturo](https://x.com/arturogarrido).
 - [First-Principles Bot](https://x.ai/bot/Ood0IKoWBxfUbnEDNKKaG) - 把难题从第一性原理拆开推演，带回通俗答案，附真实数字、核对过程和仍未知的部分. [Jeff](https://x.com/Brotherhoodoft5).
 - [last30days](https://x.ai/bot/_TMcFyY_Y8DqYRYg5OAYh) - 调研过去 30 天里人们在 Reddit、X、YouTube、TikTok、Instagram、Hacker News 等平台上对任意话题的真实讨论. [Ariana](https://x.com/shawtybee_arii).
+- [Grok Bot Updates](https://x.ai/bot/-HaPVRV7W2o9yTtoOUAz-) - 跟踪 Grok Bot 的新功能，把每次更新变成能用在你的生意和其他 bot 上的具体点子，工作日安静地发一份摘要. [Michael](https://x.com/michaelokeje).
+- [中文圈日报官](https://x.ai/bot/JhxY8jW8terP0k7UOASGC) - 按你关心的中文 X 话题每天整理一份结构化日报，标出值得认真回复的帖子，不刷量也不代你发帖. [xJimKwong](https://x.com/xJimKwong).

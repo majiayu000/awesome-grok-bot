@@ -807,3 +807,4 @@ Back to [README](../../README.md)
 - [Vault Architect](https://x.ai/bot/Cc9K3yeWJQyfISSdmzLjs) - Builds and runs one Obsidian vault as shared memory for all your Grok Bots, with templates, task logs, nightly upkeep and a daily report. [Dizzle](https://x.com/seize100).
 - [Saver Bot](https://x.ai/bot/HwU-TfXaEV_zha7HpkG57) - Watches your Grok Bot usage, spotting where it goes, spikes and loops, with one-tap saving tips on an animated dashboard. Kaize.
 - [Grok Bot Usage Saver](https://x.ai/bot/llD0kPfRGl2c_Skf16N2K) - Reviews your Grok Bot usage every week and sends a short summary of which bots and routines use the most, the trend and tips to cut back. [Marlon](https://x.com/themarlonroldan).
+- [Efficiency OPS](https://x.ai/bot/nQcUZSE1DadGY6Fs1kJVS) - Keeps your Grok Bot swarm lean with event-driven wakes, early exits when nothing changed, short STATUS.md handoffs, file-based outputs and one batched report. [Batch](https://x.com/Batchelor).

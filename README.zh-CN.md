@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7389 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 7394 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -97,7 +97,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 [catalog.json](catalog.json) 里的 `shelf` 是编辑导航（featured、solid、studio-door、aka、raw）。能打开不等于安全。`verified` 是另一套维护者核验标记。
 
-工作室门（调度、安装器、前台）共 **214** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
+工作室门（调度、安装器、前台）共 **215** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
 
 完整列表在下面，按活分类。真人案例和踩坑在链接墙上面。
 
@@ -107,15 +107,15 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 912 |
 | [Inbox & calendar](#inbox--calendar) | 291 |
-| [Research & briefings](#research--briefings) | 869 |
+| [Research & briefings](#research--briefings) | 871 |
 | [Customer & sales](#customer--sales) | 594 |
-| [Finance & ops](#finance--ops) | 735 |
+| [Finance & ops](#finance--ops) | 737 |
 | [Content & publishing](#content--publishing) | 942 |
 | [Personal admin](#personal-admin) | 2241 |
-| [Teams & handoffs](#teams--handoffs) | 805 |
-| **合计** | **7389** |
+| [Teams & handoffs](#teams--handoffs) | 806 |
+| **合计** | **7394** |
 
-2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 61 个分享均返回 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7389 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7394 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -261,7 +261,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Research & briefings
 
-完整列表（869 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
+完整列表（871 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
 
 ## Customer & sales
 
@@ -269,7 +269,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Finance & ops
 
-完整列表（735 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（737 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
@@ -281,7 +281,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Teams & handoffs
 
-完整列表（805 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（806 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

@@ -737,3 +737,5 @@
 - [Write-Off Keeper](https://x.ai/bot/BcKKc-ZRbp6zRXQ15fnY6) - 从邮箱里找出收据和收款记录并登记可抵扣项，帮创作者、自由职业者和小商家报税时不漏抵扣. [Mark](https://x.com/TheMarkGShow).
 - [Gift Card Sweeper](https://x.ai/bot/LdPRToZ8D6kp4e5Rk-JnL) - 从邮箱找出被遗忘的礼品卡、商店余额、积分和旅行抵用金，记在一个账本里并提醒你在过期前用掉. Andy.
 - [Braun Bill Haggler](https://x.ai/bot/lvOGOfOdz4kwqvIR03UUT) - 找出网费、话费和保险等定期账单，每项经你同意后再去和服务商砍价. Andy.
+- [Web3 Guide](https://x.ai/bot/P51xpyJAB6Bb1zJAeyxtU) - 面向新手和开发者的 Web3 向导，讲清钱包、DeFi、身份、交易工具和链上开发，并附带 QIE 链的实时数据. [QIE](https://x.com/qieblockchain).
+- [Fine Print Collector](https://x.ai/bot/Y2F-nwlFyeoBQlQdvHP5e) - 找出商店、航空公司和酒店在条款细则里承诺过你的钱，核对你的收据并起草索赔，不经你同意什么都不发. [J.](https://x.com/YourQuietEdge).
