@@ -152304,6 +152304,631 @@
       "verified": false,
       "updated": "2026-11-03",
       "shelf": "raw"
+    },
+    {
+      "slug": "advogado-do-diabo",
+      "name": "Advogado do Diabo",
+      "author": {
+        "name": "Bruno",
+        "url": "https://x.com/BrunoIAAI"
+      },
+      "summary": "Send an idea, plan, deck or decision and it argues back on purpose, pointing out holes, risks, hidden costs and the hard questions",
+      "summary_zh": "发来一个想法、计划、演示或决定，它会故意唱反调，指出漏洞、风险、隐藏成本和尖锐问题",
+      "import": "https://x.ai/bot/AJyPH2uLJlaRDYi0W4RPi",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "avatar-maker",
+      "name": "Avatar Maker",
+      "author": {
+        "name": "Rafal",
+        "url": "https://x.com/rafalmmmmm"
+      },
+      "summary": "Draws cute animated profile pictures in the Grok Bot avatar style (a flat colour character with two eye capsules) and sets them for your bot.",
+      "summary_zh": "按 Grok Bot 头像风格画可爱的动画头像，扁平色块角色配两个胶囊眼睛，并直接设为你的机器人头像",
+      "import": "https://x.ai/bot/fkON_AaHLT6jKHCzgjp31",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-guard",
+      "name": "Bot Guard",
+      "author": {
+        "name": "Fernando",
+        "url": "https://x.com/ferlogs"
+      },
+      "summary": "Its only job is protecting its owner from malicious or risky Grok Bots. It audits bot templates before import and audits every bot right after import",
+      "summary_zh": "只做一件事，保护主人免受恶意或高风险的 Grok Bot，导入前审查模板，导入后再审查每个机器人",
+      "import": "https://x.ai/bot/5SBqQtWvbxlytLfpgf3gr",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "botking-2",
+      "name": "BotKing",
+      "author": {
+        "name": "Screaming",
+        "url": "https://x.com/Screaming_Chkn"
+      },
+      "summary": "BotKing, the usage-aware chief of staff. Runs as hard as you want, tracks your usage %, and throttles itself to your rules",
+      "summary_zh": "会看用量的总管，按你的规则追踪用量百分比并自动降速，在额度内把活干完",
+      "import": "https://x.ai/bot/OLsAMYzOzCi364PMVGZN4",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "aka"
+    },
+    {
+      "slug": "clean-room-2",
+      "name": "Clean Room",
+      "author": {
+        "name": "Shagghie",
+        "url": "https://x.com/PixelRainbowNFT"
+      },
+      "summary": "Turns a target you are allowed to examine (app, website, binary, APK, repo) into one evidence-backed SPEC.md and a self-contained one-shot build prompt.",
+      "summary_zh": "把你有权分析的应用、网站、二进制、APK 或仓库整理成一份有证据支撑的 SPEC.md 和一段可直接构建的提示词",
+      "import": "https://x.ai/bot/QfovCEpDX8qY8bD0GVfWU",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "aka"
+    },
+    {
+      "slug": "election-day-freedom-bot",
+      "name": "Election Day FREEDOM Bot",
+      "author": {
+        "name": "Corben",
+        "url": "https://x.com/CorbenH414"
+      },
+      "summary": "A Republican Election Day ballot guide. Tell it your county and get a starred pick sheet for your ballot",
+      "summary_zh": "美国中期选举日的共和党选票指南，告诉它你所在的县，拿到一份标星的投票推荐表",
+      "import": "https://x.ai/bot/YnKJxi4wHKcgmPvg5XlXp",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "election-vibe",
+      "name": "Election Vibe",
+      "author": {
+        "name": "Arturo",
+        "url": "https://x.com/arturogarrido"
+      },
+      "summary": "Follow the Nov 3, 2026 US election results. Pick any governor, Senate or House race, statewide measure, or local California contest and get updates",
+      "summary_zh": "跟踪 2026 年 11 月 3 日美国选举结果，任选州长、参议院、众议院、州内议案或加州地方选举并接收更新",
+      "import": "https://x.ai/bot/9Lkbl7Om4CWVFgCEPirCE",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fern-cartographer-of-the-wilds",
+      "name": "Fern · Cartographer of the Wilds",
+      "author": {
+        "name": "HandsomeHank",
+        "url": "https://x.com/HandsomeHank_"
+      },
+      "summary": "A creative lead for builders of worlds: lore, mood boards, concept art, shot-by-shot videos, and build prompts for Cursor cloud agents.",
+      "summary_zh": "给造世界的人当创意总监，产出世界观、情绪板、概念图、分镜视频和给 Cursor 云端代理的构建提示词",
+      "import": "https://x.ai/bot/EOWNaMkt5FZ57oLCLQjT2",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "first-principles-bot",
+      "name": "First-Principles Bot",
+      "author": {
+        "name": "Jeff",
+        "url": "https://x.com/Brotherhoodoft5"
+      },
+      "summary": "Takes a hard question, builds it from first principles, and brings back a plain-language answer with real numbers, checks, and what is still unknown",
+      "summary_zh": "把难题从第一性原理拆开推演，带回通俗答案，附真实数字、核对过程和仍未知的部分",
+      "import": "https://x.ai/bot/Ood0IKoWBxfUbnEDNKKaG",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "job-search-agent-team",
+      "name": "Job Search Agent Team",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/johnboyle"
+      },
+      "summary": "An AI job search team in one chat. Your lead bot builds four specialists (Job Hunter, Resume Optimizer, Job Applier, Company Outreach) and runs them",
+      "summary_zh": "一个对话里的求职团队，主机器人搭起找职位、改简历、投递和联系公司四个专员并统筹运行",
+      "import": "https://x.ai/bot/IZ4okiqY8WE4XR8Ujb-l3",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "last30days-3",
+      "name": "last30days",
+      "author": {
+        "name": "Ariana",
+        "url": "https://x.com/shawtybee_arii"
+      },
+      "summary": "Researches what people actually say about any topic in the last 30 days across Reddit, X, YouTube, TikTok, Instagram, Hacker News and more",
+      "summary_zh": "调研过去 30 天里人们在 Reddit、X、YouTube、TikTok、Instagram、Hacker News 等平台上对任意话题的真实讨论",
+      "import": "https://x.ai/bot/_TMcFyY_Y8DqYRYg5OAYh",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "aka"
+    },
+    {
+      "slug": "lead-desk",
+      "name": "Lead Desk",
+      "author": {
+        "name": "Calix",
+        "url": "https://x.com/CaliLumberJack"
+      },
+      "summary": "One job: catch every new lead, sort it, and hand you a draft follow-up",
+      "summary_zh": "只做一件事，接住每条新线索，分类整理，再交给你一份跟进草稿",
+      "import": "https://x.ai/bot/zqCY7u_VOCpgNSzOwpfNz",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "limit-saver-2",
+      "name": "Limit Saver",
+      "author": {
+        "name": "Unicode",
+        "url": "https://x.com/1920web1080"
+      },
+      "summary": "Keeps your Grok Bot usage from burning through limits. Scans every bot's routines against usage, flags wasteful wakes, and proposes at most three fixes",
+      "summary_zh": "防止 Grok Bot 用量烧穿额度，对照用量扫描每个机器人的例行任务，标出浪费的唤醒并给出最多三条建议",
+      "import": "https://x.ai/bot/dIKn0E8UBuGTaKq_EVpkc",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "aka"
+    },
+    {
+      "slug": "mature-beauty-advisor",
+      "name": "Mature Beauty Advisor",
+      "author": {
+        "name": "Carey",
+        "url": "https://x.com/taysmom1"
+      },
+      "summary": "A warm skin and makeup advisor for women 50+ that shares evidence-based tips, verified deals, new beauty tech, research news, and a weekly digest",
+      "summary_zh": "面向 50 岁以上女性的护肤和彩妆顾问，分享有依据的建议、核实过的优惠、美容新科技和研究新闻，每周一份摘要",
+      "import": "https://x.ai/bot/80-90l4AUWkrhpaOI7kfU",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "music-teacher",
+      "name": "Music Teacher",
+      "author": {
+        "name": "Pretorian",
+        "url": "https://x.com/cd2jjs5g86"
+      },
+      "summary": "A friendly music teacher and gear advisor for guitar, drums, keys and bass. It gives short, hands-on lessons built around songs you love",
+      "summary_zh": "友好的音乐老师兼器材顾问，覆盖吉他、鼓、键盘和贝斯，围绕你喜欢的歌上简短实操课",
+      "import": "https://x.ai/bot/XjVgmRXNssEllgpV6fwNW",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "never-forget-a-present-bot",
+      "name": "Never Forget a Present Bot",
+      "author": {
+        "name": "Martin",
+        "url": "https://x.com/crisships"
+      },
+      "summary": "Keeps track of everyone you buy presents for, reminds you in good time, finds great ideas within budget and only orders when you tap Pay",
+      "summary_zh": "记录你要送礼的每个人，提前提醒，在预算内找好点子，只有你点支付时才下单",
+      "import": "https://x.ai/bot/cAyhe5UQimaUNYKWsgwOJ",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "numbers-desk",
+      "name": "Numbers Desk",
+      "author": {
+        "name": "Pablo",
+        "url": "https://x.com/KonectEaze"
+      },
+      "summary": "A data person on call for small businesses. Connect Stripe, Shopify, QuickBooks, PostHog or a Google Sheet and ask about your numbers in plain English",
+      "summary_zh": "给小企业随叫随到的数据助手，连上 Stripe、Shopify、QuickBooks、PostHog 或 Google 表格，用大白话问经营数字",
+      "import": "https://x.ai/bot/aLyvoOKOFDQJtvd2KOT1a",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "quota-saver",
+      "name": "Quota Saver",
+      "author": {
+        "name": "Albert",
+        "url": "https://x.com/dbarrett24"
+      },
+      "summary": "Helps you save Grok Bot usage across a fleet of bots by swapping idle watch routines for free cron prefilters that wake a bot only on change",
+      "summary_zh": "帮一组机器人省 Grok Bot 用量，把空转的盯梢任务换成免费的定时预筛，只在有变化时唤醒机器人",
+      "import": "https://x.ai/bot/8BJUbtrTlSwTl9b8cJ7jh",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "refund-delivery-chaser",
+      "name": "Refund & Delivery Chaser",
+      "author": {
+        "name": "Prabhu",
+        "url": "https://x.com/crisships"
+      },
+      "summary": "Keeps a case file for each stuck online order or missing refund and drafts the right next message at the right time, escalating calmly",
+      "summary_zh": "为每个卡住的网购订单或迟迟未到的退款建档，在合适时间起草下一条消息，一步步冷静升级",
+      "import": "https://x.ai/bot/Dka-gTc2gh8EZezo-F5_7",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "routine-auditor-2",
+      "name": "Routine Auditor",
+      "author": {
+        "name": "Brad",
+        "url": "https://x.com/bradgarland"
+      },
+      "summary": "Audits your routines once a month: logs every run, finds failures and runs that do nothing, grades each routine and proposes trims you approve",
+      "summary_zh": "每月审计一次你的例行任务，记录每次运行，找出失败和空跑，给每个任务打分并提出待你批准的精简方案",
+      "import": "https://x.ai/bot/3y5FglJHBwwg_nR7TxFaI",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "aka"
+    },
+    {
+      "slug": "security-lockdown",
+      "name": "Security Lockdown",
+      "author": {
+        "name": "corvo",
+        "url": "https://x.com/heybiggins"
+      },
+      "summary": "Walks you step by step through locking down your personal digital security: passwords, two-factor, old accounts, identity, phone and home network",
+      "summary_zh": "一步步带你锁紧个人数字安全，涵盖密码、双重验证、旧账号、身份信息、手机和家庭网络",
+      "import": "https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "token-optimizer-2",
+      "name": "Token Optimizer",
+      "author": {
+        "name": "Pretorian",
+        "url": "https://x.com/cd2jjs5g86"
+      },
+      "summary": "A propose-only desk that audits your Grok Bot fleet for token waste and sends a weekly usage check, with savings ideas that keep output quality intact.",
+      "summary_zh": "只提建议的用量审计台，检查机器人群的 token 浪费，每周发用量报告和不降低质量的节省点子",
+      "import": "https://x.ai/bot/kcYuH7VND2hJnhTLB9JC3",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "aka"
+    },
+    {
+      "slug": "usage-saver-3",
+      "name": "Usage Saver",
+      "author": {
+        "name": "bobby",
+        "url": "https://x.com/bobbyhalljr_dev"
+      },
+      "summary": "See what's eating your Grok Bot limit and get it back, with no change made until you say yes.",
+      "summary_zh": "看清是什么在吃你的 Grok Bot 额度并把它省回来，你同意之前不做任何改动",
+      "import": "https://x.ai/bot/TsvAlS9EqLm8hjObMxEbp",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "aka"
+    },
+    {
+      "slug": "usage-saver-4",
+      "name": "Usage Saver",
+      "author": {
+        "name": "Peter",
+        "url": "https://x.com/peterbladen"
+      },
+      "summary": "Helps your Grok Bot usage last longer. It keeps a live usage dashboard and sends a weekly plain-English review with a few clearly explained savings",
+      "summary_zh": "让 Grok Bot 用量撑得更久，维护实时用量看板，每周发一份通俗的复盘和几条讲清楚的节省建议",
+      "import": "https://x.ai/bot/TB9I2IqRWkQRQGEaG2Bjd",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "aka"
+    },
+    {
+      "slug": "video-lab",
+      "name": "Video Lab",
+      "author": {
+        "name": "Gabriel",
+        "url": "https://x.com/gabogabucho"
+      },
+      "summary": "Makes videos with code (explainers, motion graphics, ads, product demos, short clips) by launching cloud agents that render an MP4 with designed sound.",
+      "summary_zh": "用代码做视频，包括讲解、动效、广告、产品演示和短片，调用云端代理渲染带配乐的 MP4",
+      "import": "https://x.ai/bot/omXn2V1U6B4V4qU2XcI0T",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "walk-buddy",
+      "name": "Walk Buddy",
+      "author": {
+        "name": "EV",
+        "url": "https://x.com/W3EconomicLabs"
+      },
+      "summary": "Hate walking? Walk Buddy talks with you on walks with sourced facts, trivia and games, and lets you play two free worldwide daily contests",
+      "summary_zh": "讨厌走路的话，它在散步时陪你聊有出处的知识、冷知识和小游戏，还能参加两个全球每日免费比赛",
+      "import": "https://x.ai/bot/ofX7dIqaoy92jcobdTRnl",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-bags",
+      "name": "X Bags",
+      "author": {
+        "name": "Crypto",
+        "url": "https://x.com/CryptoSnooper_"
+      },
+      "summary": "Daily news digest for crypto tokens you hold. Pulls positions from Zerion, finds project X accounts via DexScreener, and surfaces what is worth reading",
+      "summary_zh": "为你持有的加密代币做每日新闻摘要，从 Zerion 读取持仓，经 DexScreener 找到项目 X 账号，挑出值得看的消息",
+      "import": "https://x.ai/bot/3XRSSn46guqC5O1r66aMi",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "x",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-4vl9a87b",
+      "name": "使用量ダッシュボード",
+      "author": {
+        "name": "あきおT",
+        "url": "https://x.com/AkioT315"
+      },
+      "summary": "Grok Botの使用量が何に使われたかを、使用量レポートの数字だけで1枚のダッシュボードにまとめ、毎週更新する係です。節約のヒントも出します。",
+      "summary_zh": "只用用量报告里的数字，把 Grok Bot 用量花在哪里汇总成一张每周更新的看板，并给出节省提示",
+      "import": "https://x.ai/bot/4Vl9A87B_pWPLcxeHsCKe",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw"
+    },
+    {
+      "slug": "clip-scout",
+      "name": "Clip Scout",
+      "author": {
+        "name": "Wayne",
+        "url": "https://x.com/wikiwayne"
+      },
+      "summary": "Type a word or emotion and get the most recognizable movie and TV reaction clips for your edit, with search strings and tone options",
+      "summary_zh": "输入一个词或情绪，找到最有辨识度的电影和电视反应片段，附搜索关键词和语气选项",
+      "import": "https://x.ai/bot/ZW-lsfOKtX2V2ON1KXJLF",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw",
+      "source": "https://x.com/wikiwayne/status/2117274785239519328"
+    },
+    {
+      "slug": "token-sentinel",
+      "name": "Token Sentinel",
+      "author": {
+        "name": "Matthew",
+        "url": "https://x.com/LabGuyAi"
+      },
+      "summary": "A high-fantasy guardian of your Grok Bot usage. It watches which bots burn tokens, coaches your bot team to stay lean, and sends you a weekly token digest.",
+      "summary_zh": "奇幻风格的 Grok Bot 用量守护者，盯着哪些机器人在烧 token，督促机器人团队保持精简，每周发 token 摘要",
+      "import": "https://x.ai/bot/W5l8IIL0XKq0-YfPRcpoA",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw",
+      "source": "https://x.com/LabGuyAi/status/2117271798072934707"
+    },
+    {
+      "slug": "franchise-opportunity-finder",
+      "name": "Franchise Opportunity Finder",
+      "author": {
+        "name": "Igor",
+        "url": "https://x.com/igormajdov"
+      },
+      "summary": "Finds and vets franchise opportunities that fit your budget, location, time commitment, and skills.",
+      "summary_zh": "按你的预算、地点、投入时间和技能，寻找并筛查合适的加盟机会",
+      "import": "https://x.ai/bot/BTt50YzAQhs_wpleTbRSh",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-03",
+      "shelf": "raw",
+      "source": "https://x.com/igormajdov/status/2117265367059808563"
     }
   ]
 }

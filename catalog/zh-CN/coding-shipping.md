@@ -910,3 +910,5 @@
 - [REE · Reverse Engineer Everything](https://x.ai/bot/cl6RKn7Bk4x3OFwwEs-R8) - 贴任何东西，网站、应用、二进制、Solana 程序、EVM 合约或比特币交易，帮你逆向分析. [8](https://x.com/0rdlibrary).
 - [Disk Saver](https://x.ai/bot/tZMZYBpyt5lzMMGG3DpoM) - 让 AI 机器人共享的云电脑保持健康，每日清缓存，内存紧张时退出 Chrome，维护交换空间. [Kyle](https://x.com/kylekane).
 - [Toly](https://x.ai/bot/mzIFeJFV9Yzf3f2Hubkcg) - 像 Solana 联合创始人那样构建的 Solana 工程智能体，硬件优先、有界且可证明. [cheshire](https://x.com/0rdlibrary).
+- [Clean Room](https://x.ai/bot/QfovCEpDX8qY8bD0GVfWU) - 把你有权分析的应用、网站、二进制、APK 或仓库整理成一份有证据支撑的 SPEC.md 和一段可直接构建的提示词. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Security Lockdown](https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p) - 一步步带你锁紧个人数字安全，涵盖密码、双重验证、旧账号、身份信息、手机和家庭网络. [corvo](https://x.com/heybiggins).

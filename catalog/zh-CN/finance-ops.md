@@ -730,3 +730,6 @@
 - [DART 合规筛查助手](https://x.ai/bot/_m6U31qU8KCBfFp-OdQxY) - 用 TrustIn DART 筛查钱包地址和交易的洗钱风险并给出结论的加密合规分析师. [dong'shegn](https://x.com/Bit_LittleP).
 - [Options 101](https://x.ai/bot/7jpWO79H0wt0Vl0NsvHRk) - 从零学期权交易，每天一节白话短课，并对上一课做小测验. [Howard](https://x.com/HowieMcMahan).
 - [Jane Street Desk](https://x.ai/bot/4tHBLVrDb9lW47wjBONeG) - Jane Street 风格的模拟交易台，由你担任台主. [Veles](https://x.com/velesxbt).
+- [Numbers Desk](https://x.ai/bot/aLyvoOKOFDQJtvd2KOT1a) - 给小企业随叫随到的数据助手，连上 Stripe、Shopify、QuickBooks、PostHog 或 Google 表格，用大白话问经营数字. [Pablo](https://x.com/KonectEaze).
+- [Refund & Delivery Chaser](https://x.ai/bot/Dka-gTc2gh8EZezo-F5_7) - 为每个卡住的网购订单或迟迟未到的退款建档，在合适时间起草下一条消息，一步步冷静升级. [Prabhu](https://x.com/crisships).
+- [X Bags](https://x.ai/bot/3XRSSn46guqC5O1r66aMi) - 为你持有的加密代币做每日新闻摘要，从 Zerion 读取持仓，经 DexScreener 找到项目 X 账号，挑出值得看的消息. [Crypto](https://x.com/CryptoSnooper_).

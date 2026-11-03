@@ -790,3 +790,15 @@
 - [Grok Bot Factory](https://x.ai/bot/SbuZfViNYHIEvK1jaBF85) - 你的 Grok Bot 团队展厅，生成工厂办公室页面，每个机器人一张桌子，显示职责、头像、模板链接和状态. James.
 - [Usage Watch Walt](https://x.ai/bot/aPgoCcrr2G2TOjYzjocbz) - 友好的白话用量看门狗，用红黄绿仪表加预测显示，找出用量最多的机器人和任务. James.
 - [SkeinBot](https://x.ai/bot/A4m2jiIPNxiE514fI2L2h) - 把一个想法收敛成围绕可衡量结果的 PRD，再拆成一角色一机器人的协作方案；每个席位都要你同意后才创建. [FegaPierre](https://x.com/FegaPierre).
+- [Avatar Maker](https://x.ai/bot/fkON_AaHLT6jKHCzgjp31) - 按 Grok Bot 头像风格画可爱的动画头像，扁平色块角色配两个胶囊眼睛，并直接设为你的机器人头像. [Rafal](https://x.com/rafalmmmmm).
+- [Bot Guard](https://x.ai/bot/5SBqQtWvbxlytLfpgf3gr) - 只做一件事，保护主人免受恶意或高风险的 Grok Bot，导入前审查模板，导入后再审查每个机器人. [Fernando](https://x.com/ferlogs).
+- [BotKing](https://x.ai/bot/OLsAMYzOzCi364PMVGZN4) - 会看用量的总管，按你的规则追踪用量百分比并自动降速，在额度内把活干完. [Screaming](https://x.com/Screaming_Chkn).
+- [Job Search Agent Team](https://x.ai/bot/IZ4okiqY8WE4XR8Ujb-l3) - 一个对话里的求职团队，主机器人搭起找职位、改简历、投递和联系公司四个专员并统筹运行. [John](https://x.com/johnboyle).
+- [Limit Saver](https://x.ai/bot/dIKn0E8UBuGTaKq_EVpkc) - 防止 Grok Bot 用量烧穿额度，对照用量扫描每个机器人的例行任务，标出浪费的唤醒并给出最多三条建议. [Unicode](https://x.com/1920web1080).
+- [Quota Saver](https://x.ai/bot/8BJUbtrTlSwTl9b8cJ7jh) - 帮一组机器人省 Grok Bot 用量，把空转的盯梢任务换成免费的定时预筛，只在有变化时唤醒机器人. [Albert](https://x.com/dbarrett24).
+- [Routine Auditor](https://x.ai/bot/3y5FglJHBwwg_nR7TxFaI) - 每月审计一次你的例行任务，记录每次运行，找出失败和空跑，给每个任务打分并提出待你批准的精简方案. [Brad](https://x.com/bradgarland).
+- [Token Optimizer](https://x.ai/bot/kcYuH7VND2hJnhTLB9JC3) - 只提建议的用量审计台，检查机器人群的 token 浪费，每周发用量报告和不降低质量的节省点子. [Pretorian](https://x.com/cd2jjs5g86).
+- [Usage Saver](https://x.ai/bot/TsvAlS9EqLm8hjObMxEbp) - 看清是什么在吃你的 Grok Bot 额度并把它省回来，你同意之前不做任何改动. [bobby](https://x.com/bobbyhalljr_dev).
+- [Usage Saver](https://x.ai/bot/TB9I2IqRWkQRQGEaG2Bjd) - 让 Grok Bot 用量撑得更久，维护实时用量看板，每周发一份通俗的复盘和几条讲清楚的节省建议. [Peter](https://x.com/peterbladen).
+- [使用量ダッシュボード](https://x.ai/bot/4Vl9A87B_pWPLcxeHsCKe) - 只用用量报告里的数字，把 Grok Bot 用量花在哪里汇总成一张每周更新的看板，并给出节省提示. [あきおT](https://x.com/AkioT315).
+- [Token Sentinel](https://x.ai/bot/W5l8IIL0XKq0-YfPRcpoA) - 奇幻风格的 Grok Bot 用量守护者，盯着哪些机器人在烧 token，督促机器人团队保持精简，每周发 token 摘要. [Matthew](https://x.com/LabGuyAi).

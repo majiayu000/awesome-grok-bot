@@ -592,3 +592,5 @@ Back to [README](../../README.md)
 - [Truck Inventory](https://x.ai/bot/a5eUje00PaMzSwlN7dS5N) - Truck stock for field techs \(HVAC and trades\). Keeps part counts on an Inventory Page; seeds a basic HVAC/furnace/boiler catalog. [ᑕᕼIᑕᗩᘜO](https://x.com/jayrok35).
 - [Resell](https://x.ai/bot/Sel1Lly3TjCCIHPkTLzio) - A reseller's assistant\: turns item photos into priced, ready-to-post listings, cross-lists them, delists everywhere when something sells. [Colton](https://x.com/Cryptonoob14170).
 - [Lead Hunter](https://x.ai/bot/zGZE1HG3X5jQdq0OgRNcy) - Scans X and Reddit for people ready to buy what you sell, scores each lead HOT/WARM/SKIP, and drafts human replies you approve before anything goes out. [Sultanov](https://x.com/thekuchh).
+- [Lead Desk](https://x.ai/bot/zqCY7u_VOCpgNSzOwpfNz) - One job\: catch every new lead, sort it, and hand you a draft follow-up. [Calix](https://x.com/CaliLumberJack).
+- [Franchise Opportunity Finder](https://x.ai/bot/BTt50YzAQhs_wpleTbRSh) - Finds and vets franchise opportunities that fit your budget, location, time commitment, and skills. [Igor](https://x.com/igormajdov).

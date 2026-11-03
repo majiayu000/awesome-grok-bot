@@ -730,3 +730,6 @@ Back to [README](../../README.md)
 - [DART 合规筛查助手](https://x.ai/bot/_m6U31qU8KCBfFp-OdQxY) - Crypto compliance analyst that screens wallet addresses and transactions for money-laundering risk with TrustIn DART, and returns a verdict. [dong'shegn](https://x.com/Bit_LittleP).
 - [Options 101](https://x.ai/bot/7jpWO79H0wt0Vl0NsvHRk) - Learn options trading from zero with one short plain-English lesson a day and a quiz on the last one. [Howard](https://x.com/HowieMcMahan).
 - [Jane Street Desk](https://x.ai/bot/4tHBLVrDb9lW47wjBONeG) - A Jane Street-style paper trading desk you run as Head of Desk. [Veles](https://x.com/velesxbt).
+- [Numbers Desk](https://x.ai/bot/aLyvoOKOFDQJtvd2KOT1a) - A data person on call for small businesses. Connect Stripe, Shopify, QuickBooks, PostHog or a Google Sheet and ask about your numbers in plain English. [Pablo](https://x.com/KonectEaze).
+- [Refund & Delivery Chaser](https://x.ai/bot/Dka-gTc2gh8EZezo-F5_7) - Keeps a case file for each stuck online order or missing refund and drafts the right next message at the right time, escalating calmly. [Prabhu](https://x.com/crisships).
+- [X Bags](https://x.ai/bot/3XRSSn46guqC5O1r66aMi) - Daily news digest for crypto tokens you hold. Pulls positions from Zerion, finds project X accounts via DexScreener, and surfaces what is worth reading. [Crypto](https://x.com/CryptoSnooper_).

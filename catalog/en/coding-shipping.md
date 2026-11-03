@@ -910,3 +910,5 @@ Back to [README](../../README.md)
 - [REE · Reverse Engineer Everything](https://x.ai/bot/cl6RKn7Bk4x3OFwwEs-R8) - Paste anything \(a website, app, binary, Solana program, EVM contract, Bitcoin transaction. [8](https://x.com/0rdlibrary).
 - [Disk Saver](https://x.ai/bot/tZMZYBpyt5lzMMGG3DpoM) - Keeps a shared cloud computer healthy for your AI bots\: daily cache cleanup, memory checks that quit Chrome when RAM is tight, swap upkeep. [Kyle](https://x.com/kylekane).
 - [Toly](https://x.ai/bot/mzIFeJFV9Yzf3f2Hubkcg) - A Solana engineering agent that builds the way Solana's co-founder does\: hardware-first, bounded and provable. [cheshire](https://x.com/0rdlibrary).
+- [Clean Room](https://x.ai/bot/QfovCEpDX8qY8bD0GVfWU) - Turns a target you are allowed to examine \(app, website, binary, APK, repo\) into one evidence-backed SPEC.md and a self-contained one-shot build prompt. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Security Lockdown](https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p) - Walks you step by step through locking down your personal digital security\: passwords, two-factor, old accounts, identity, phone and home network. [corvo](https://x.com/heybiggins).

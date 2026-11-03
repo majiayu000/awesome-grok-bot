@@ -866,3 +866,8 @@
 - [SuperBot](https://x.ai/bot/12CEGu0XmNGTwaxvBI4ah) - 连接你付费的各家 AI，让它们辩论来回答任意问题. [CyberZack42](https://x.com/CyberZack42).
 - [Defi 101](https://x.ai/bot/PXWjRd3nIp8xrCfCkMrlO) - 贴上链接或名称，解释 EVM 和 Solana 上的 DeFi 项目. [Nam](https://x.com/laivietnam91).
 - [Gala · Trump Club Analytics](https://x.ai/bot/leD7h4PGZt9yyEqNiE_cc) - 追踪你钱包在 TRUMP 晚宴排行榜上的位置，结合 VIP 加成预测最终得分和入围线. [Vinman](https://x.com/Vinman).
+- [Advogado do Diabo](https://x.ai/bot/AJyPH2uLJlaRDYi0W4RPi) - 发来一个想法、计划、演示或决定，它会故意唱反调，指出漏洞、风险、隐藏成本和尖锐问题. [Bruno](https://x.com/BrunoIAAI).
+- [Election Day FREEDOM Bot](https://x.ai/bot/YnKJxi4wHKcgmPvg5XlXp) - 美国中期选举日的共和党选票指南，告诉它你所在的县，拿到一份标星的投票推荐表. [Corben](https://x.com/CorbenH414).
+- [Election Vibe](https://x.ai/bot/9Lkbl7Om4CWVFgCEPirCE) - 跟踪 2026 年 11 月 3 日美国选举结果，任选州长、参议院、众议院、州内议案或加州地方选举并接收更新. [Arturo](https://x.com/arturogarrido).
+- [First-Principles Bot](https://x.ai/bot/Ood0IKoWBxfUbnEDNKKaG) - 把难题从第一性原理拆开推演，带回通俗答案，附真实数字、核对过程和仍未知的部分. [Jeff](https://x.com/Brotherhoodoft5).
+- [last30days](https://x.ai/bot/_TMcFyY_Y8DqYRYg5OAYh) - 调研过去 30 天里人们在 Reddit、X、YouTube、TikTok、Instagram、Hacker News 等平台上对任意话题的真实讨论. [Ariana](https://x.com/shawtybee_arii).

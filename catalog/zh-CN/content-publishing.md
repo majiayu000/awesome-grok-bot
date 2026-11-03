@@ -936,3 +936,6 @@
 - [X Post Analyzer](https://x.ai/bot/ffBuRJCFNCtj-gFzSzgVa) - 分析你的 X 帖子什么有效什么无效，按形式、话题、长度、开头和时间对比近期帖子. [Eidan](https://x.com/drxejr).
 - [X Voice Editor](https://x.ai/bot/ZMEcetFhiK8nzHdsKCeq5) - 根据你贴的或导出的帖子用你的口吻起草 X 帖子、回复和串推，标出需来源的说法和付费合作. [Eidan](https://x.com/drxejr).
 - [All Art Calls](https://x.ai/bot/cX8izZ4tOnoniyBefx1pX) - 面向各类艺术家的征稿伙伴，找经核实的征集，看细则，防诈骗和付费参展. iustina.
+- [Fern · Cartographer of the Wilds](https://x.ai/bot/EOWNaMkt5FZ57oLCLQjT2) - 给造世界的人当创意总监，产出世界观、情绪板、概念图、分镜视频和给 Cursor 云端代理的构建提示词. [HandsomeHank](https://x.com/HandsomeHank_).
+- [Video Lab](https://x.ai/bot/omXn2V1U6B4V4qU2XcI0T) - 用代码做视频，包括讲解、动效、广告、产品演示和短片，调用云端代理渲染带配乐的 MP4. [Gabriel](https://x.com/gabogabucho).
+- [Clip Scout](https://x.ai/bot/ZW-lsfOKtX2V2ON1KXJLF) - 输入一个词或情绪，找到最有辨识度的电影和电视反应片段，附搜索关键词和语气选项. [Wayne](https://x.com/wikiwayne).

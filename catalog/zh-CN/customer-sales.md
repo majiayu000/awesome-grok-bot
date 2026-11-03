@@ -592,3 +592,5 @@
 - [Truck Inventory](https://x.ai/bot/a5eUje00PaMzSwlN7dS5N) - 面向暖通等现场技师的车载库存，在库存页面记录零件数量，并预置基础暖通目录. [ᑕᕼIᑕᗩᘜO](https://x.com/jayrok35).
 - [Resell](https://x.ai/bot/Sel1Lly3TjCCIHPkTLzio) - 转卖者助手，把物品照片变成定好价可发布的商品，多平台上架，售出后各处下架. [Colton](https://x.com/Cryptonoob14170).
 - [Lead Hunter](https://x.ai/bot/zGZE1HG3X5jQdq0OgRNcy) - 扫描 X 和 Reddit 上准备购买你产品的人，按热温冷给线索打分，起草回复经你批准才发. [Sultanov](https://x.com/thekuchh).
+- [Lead Desk](https://x.ai/bot/zqCY7u_VOCpgNSzOwpfNz) - 只做一件事，接住每条新线索，分类整理，再交给你一份跟进草稿. [Calix](https://x.com/CaliLumberJack).
+- [Franchise Opportunity Finder](https://x.ai/bot/BTt50YzAQhs_wpleTbRSh) - 按你的预算、地点、投入时间和技能，寻找并筛查合适的加盟机会. [Igor](https://x.com/igormajdov).
