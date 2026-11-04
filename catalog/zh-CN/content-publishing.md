@@ -944,3 +944,12 @@
 - [X Pulse (Personal)](https://x.ai/bot/WXXQICyJA3NiSUumZ8uPq) - 把你在 X 上的一天做成带音乐的互动表盘回放，方便录屏分享，可看昨天或最近 7 天. [mspd](https://x.com/mspd4100).
 - [xDoctorBot](https://x.ai/bot/raYGmOtnHIIPj0bt-hWww) - 每天检查你被加入的所有 X 列表，把你从侮辱或嘲讽性质的列表中移除. [Shane](https://x.com/ChooseGoodKarma).
 - [Sassy Bot](https://x.ai/bot/CZGWiB4CX5UM9v8Zu-MDT) - 你在 X 上的毒舌僚机，用有趣的帖子和有用的回复帮你涨粉，还帮你挡开骚扰者. [Paige](https://x.com/paigenwing).
+- [AI Text Detector & Editor](https://x.ai/bot/yYsPajAZ18gCh95GuYEUU) - 检查你的草稿里有没有 AI 腔，指出是哪些说法触发的，帮你改掉又不丢掉你自己的语气. [Daniel](https://x.com/liminalprompt).
+- [gmi](https://x.ai/bot/5IFu9DKwavLtu18sinCSv) - 你在 GMI Cloud 上的制作工作室，能做图片、视频、配音和音乐，还会报告余额和花费. [Alberto](https://x.com/weeb3dev).
+- [NFT Art Bot](https://x.ai/bot/OwB7-1LWZIQ9smmqtfwOv) - 按你的要求制作 NFT 风格的粉丝创作图. [Mav](https://x.com/UlrichNeujahr).
+- [Penny](https://x.ai/bot/Rspkl49IjkacoAbMMfZyw) - 修改你的草稿、邮件、帖子和页面，让它们读起来像真人写的，保留你的语气并标出每处改动. [Kyle](https://x.com/KGtheGent88).
+- [STE writer](https://x.ai/bot/b1ixA_xKFWOLpELVV2Zeb) - 面向技术写作者，用 ASD-STE100 简化技术英语回答问题、改写文本并检查是否合规. [pili](https://x.com/0xpili_).
+- [Video Creation](https://x.ai/bot/JQhSaJ8cZ_wMZOO_uTpeW) - 从有出处的调研到 Grok Imagine 片段，一条龙制作两分钟的历史和未来科普视频以及音乐视频. [Fuji](https://x.com/bentruong).
+- [X Unbaiter](https://x.ai/bot/40wlwmt9OINkBw3daAcNR) - 在 X 上任何标题党帖子下回复 unbait，就能拿到对照原文核实过的直白标题和真正答案. [Sebastian](https://x.com/sebs_tweets).
+- [X-algo](https://x.ai/bot/138yNvmimSez4w_hTXEo0) - 用 X 开源的推荐算法给你的帖子打分，再改写让分数更高. [Ethan](https://x.com/EthanSDE).
+- [𝕏 Twin](https://x.ai/bot/AFtZlQY7LQaCnoYHw1t1I) - 你的 X 发帖分身，从你的 X 存档学会你的语气，帮你起草帖子、回复和配图文字. [sara](https://x.com/muse_inmotion).

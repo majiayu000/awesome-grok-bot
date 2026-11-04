@@ -739,3 +739,8 @@
 - [Braun Bill Haggler](https://x.ai/bot/lvOGOfOdz4kwqvIR03UUT) - 找出网费、话费和保险等定期账单，每项经你同意后再去和服务商砍价. Andy.
 - [Web3 Guide](https://x.ai/bot/P51xpyJAB6Bb1zJAeyxtU) - 面向新手和开发者的 Web3 向导，讲清钱包、DeFi、身份、交易工具和链上开发，并附带 QIE 链的实时数据. [QIE](https://x.com/qieblockchain).
 - [Fine Print Collector](https://x.ai/bot/Y2F-nwlFyeoBQlQdvHP5e) - 找出商店、航空公司和酒店在条款细则里承诺过你的钱，核对你的收据并起草索赔，不经你同意什么都不发. [J.](https://x.com/YourQuietEdge).
+- [Bollinger Bands Bot](https://x.ai/bot/fDmwgQ07GDRQrE-gZTgwN) - 在你的自选股里找布林带回归机会，为每个机会写好完整的下单单据，遇到强趋势就跳过. [Right](https://x.com/rightwingink1).
+- [Stochastic Indicator Bot](https://x.ai/bot/Ot1gCNj6aSVmMu2RBFmTv) - 在你的自选股里找随机指标的交易机会，为每个机会写好完整的下单单据，遇到强趋势就跳过. [Right](https://x.com/rightwingink1).
+- [VWAP Indicator Bot](https://x.ai/bot/RoAR_UbUgzGmrAefLvvmX) - 在你的日内自选股里找 VWAP 回踩机会，为每个机会写好完整的下单单据，行情来回震荡时就跳过. [Right](https://x.com/rightwingink1).
+- [Broker](https://x.ai/bot/_lwaVlXcjTz2RnZHfJjiD) - 帮你买保险的私人助手，收齐车险、房屋险和洪水险保单，按同等条件比价，标出保障缺口和可用折扣. [Dylan](https://x.com/dkmitc).
+- [Crypto Tax Assistant](https://x.ai/bot/YZ-9DQTxLsCgVt3zMUSbw) - 用活泼的语气把你的钱包或智能合约的链上记录整理进 Google 表格，报税时直接用. [Materia](https://x.com/MateriaWealth).

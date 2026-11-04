@@ -596,3 +596,6 @@ Back to [README](../../README.md)
 - [Franchise Opportunity Finder](https://x.ai/bot/BTt50YzAQhs_wpleTbRSh) - Finds and vets franchise opportunities that fit your budget, location, time commitment, and skills. [Igor](https://x.com/igormajdov).
 - [clutch · live coach](https://x.ai/bot/dlxokqZ4cLjnOzjX8VQln) - A tap-driven sales coach for before, during and right after calls, with objection buttons, SPIN prompts and buyer role play for reps. [josiah](https://x.com/josiahXXI).
 - [High Website Secretary](https://x.ai/bot/LtJhUnD70XELBwSntpqif) - A website secretary for business owners that answers site chat with takeover anytime, numbers orders, sends receipts and marks sold-out items. [High](https://x.com/Hightv).
+- [FAFO Homestead Helper](https://x.ai/bot/deZ5MwQ-PJaPLAmi_LAY1) - A warm step-by-step helper for women starting a homestead or small farm business, from LLC setup to USDA paperwork and grants. [Jennifer](https://x.com/JenFlood17).
+- [Revenue Rex](https://x.ai/bot/1OnUg1oZyw2c49tpKkez9) - Your marketing team in one bot for indie hackers and SaaS builders, covering pages, pricing, emails and launches. [Paul](https://x.com/0xPaulvibe).
+- [X Reply & Networking Assistant](https://x.ai/bot/SDKTO3mMc0NDQljmbOubN) - Learns your expertise, then finds the real practitioners in your niche on X to network and reply with. [Felix](https://x.com/hereFelixK).

@@ -808,3 +808,14 @@
 - [Saver Bot](https://x.ai/bot/HwU-TfXaEV_zha7HpkG57) - 盯着你的 Grok Bot 用量，找出用在哪、突增和循环，并在动画面板上给一键省用量建议. Kaize.
 - [Grok Bot Usage Saver](https://x.ai/bot/llD0kPfRGl2c_Skf16N2K) - 每周检查你的 Grok Bot 用量，简要汇报哪些机器人和例行任务用得最多、走势如何以及节省建议. [Marlon](https://x.com/themarlonroldan).
 - [Efficiency OPS](https://x.ai/bot/nQcUZSE1DadGY6Fs1kJVS) - 让你的 Grok Bot 团队保持精简，按事件唤醒，没变化就提前结束，用简短的 STATUS.md 交接，结果写进文件，最后合成一份批量报告. [Batch](https://x.com/Batchelor).
+- [Audit Bot](https://x.ai/bot/r-lBVOMjzF_h3K6H-RQ7v) - 每周检查你的 Grok Bot，找出重复或太吵的例程、职责重叠、过时的记忆和卡住的 bot，并给修复排优先级. [Patrick](https://x.com/patrickonx).
+- [BloatBot](https://x.ai/bot/Lv3i6LS69DYQ0l-Ya8iKp) - 专门审计你的 Grok Bot 团队浪费额度的地方，找出让 bot 烧 token 的原因，比如臃肿的记忆和描述. [Scott](https://x.com/scottcjordan).
+- [Bot Optimizer](https://x.ai/bot/g-m5pDVEjklVWOovjOhI8) - 每周检查你的 Grok Bot，找出最浪费用量的地方，把修复方案和实测能省下的量放在一张确认卡片上. [Lon](https://x.com/Lonbaker).
+- [BotRank Scout](https://x.ai/bot/vAlR7Qh5UUQRQ4IKUyn8S) - 带你逛 botrank.lol 这个 Grok bot 排行榜，按类别找热门 bot，也帮你把自己的 bot 登上榜单. [NateBuildsHQ](https://x.com/natebuildsHQ).
+- [Freebot](https://x.ai/bot/mrEaEhbIahB380oYB8N19) - 把你整套 Grok Bot 配置搬到 Turnstone，每个 bot 连同记忆、操作说明和例程都一起迁过去. Aryan.
+- [Routine Slimmer](https://x.ai/bot/vAbvc0ys9gwEUg2w0cVzI) - 把不需要 AI 的例程搬到 n8n 工作流里，需要判断的留下，帮你省 Grok Bot 用量. [Robert](https://x.com/RobertMerkel_).
+- [Throughput](https://x.ai/bot/S30ZPAp12AqWnlc05gND4) - 每周的团队产出报告，问你侧边栏里的各个 bot 完成了什么，汇总任务数和估计省下的时间. [Kane](https://x.com/kanesimms).
+- [Token Regulator](https://x.ai/bot/B4aqGT48qOIQjE9BWRvDh) - 用每日上限控制 Grok Bot 用量的节奏，并整理主 bot 发给其他 bot 和编程代理的指令. [Yuvan](https://x.com/loccoai).
+- [Usage Dashboard](https://x.ai/bot/uru7DsAamYpDSkUnuodC0) - 把你的 Grok Bot 用量做成可交互的仪表盘页面，每月存档，方便按年按月回看. [MIJINION](https://x.com/Mijinions).
+- [WWID](https://x.ai/bot/xqY6kH7E_q5JMMbL5Xwoc) - 一个第二大脑，从你发给其他 bot 的消息里学习你怎么做决定、怎么写东西. [Shaishav](https://x.com/shaivpidadi).
+- [奥卡姆大师](https://x.ai/bot/KAEAWzrt3thPIKUWUhQ_n) - 每周自动审计你所有的 Bot、例程、技能和脚本，找出烧额度和闲置的地方，你确认后再改造或清理. [雨落風間](https://x.com/arito_si).

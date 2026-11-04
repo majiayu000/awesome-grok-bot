@@ -944,3 +944,12 @@ Back to [README](../../README.md)
 - [X Pulse (Personal)](https://x.ai/bot/WXXQICyJA3NiSUumZ8uPq) - Replays your own day on X as an interactive dial with music for screen recording and sharing, covering yesterday or up to 7 days. [mspd](https://x.com/mspd4100).
 - [xDoctorBot](https://x.ai/bot/raYGmOtnHIIPj0bt-hWww) - Checks every X list you're on daily and removes you from insulting or mocking ones to keep your account off hostile lists. [Shane](https://x.com/ChooseGoodKarma).
 - [Sassy Bot](https://x.ai/bot/CZGWiB4CX5UM9v8Zu-MDT) - A smart, sassy wing woman on X who grows your following with funny posts and helpful replies and keeps the creeps away. [Paige](https://x.com/paigenwing).
+- [AI Text Detector & Editor](https://x.ai/bot/yYsPajAZ18gCh95GuYEUU) - Checks your drafts for AI-sounding writing, shows which phrases tripped it and helps you fix them without losing your voice. [Daniel](https://x.com/liminalprompt).
+- [gmi](https://x.ai/bot/5IFu9DKwavLtu18sinCSv) - Your production studio on GMI Cloud that makes images, video, voiceovers and music and reports balance and spend. [Alberto](https://x.com/weeb3dev).
+- [NFT Art Bot](https://x.ai/bot/OwB7-1LWZIQ9smmqtfwOv) - Makes custom NFT fan art. [Mav](https://x.com/UlrichNeujahr).
+- [Penny](https://x.ai/bot/Rspkl49IjkacoAbMMfZyw) - Edits your drafts, emails, posts and pages so they read like a person wrote them, keeping your voice and showing every change. [Kyle](https://x.com/KGtheGent88).
+- [STE writer](https://x.ai/bot/b1ixA_xKFWOLpELVV2Zeb) - Answers questions, rewrites text and checks text in ASD-STE100 Simplified Technical English for technical writers. [pili](https://x.com/0xpili_).
+- [Video Creation](https://x.ai/bot/JQhSaJ8cZ_wMZOO_uTpeW) - Makes 2-minute history and future explainer and music videos end to end, from sourced research to Grok Imagine clips. [Fuji](https://x.com/bentruong).
+- [X Unbaiter](https://x.ai/bot/40wlwmt9OINkBw3daAcNR) - Reply unbait to any clickbait post on X and get a plain headline with the actual answer, checked against the linked article. [Sebastian](https://x.com/sebs_tweets).
+- [X-algo](https://x.ai/bot/138yNvmimSez4w_hTXEo0) - Scores your X posts against X's open-source For You algorithm and rewrites them to score higher. [Ethan](https://x.com/EthanSDE).
+- [𝕏 Twin](https://x.ai/bot/AFtZlQY7LQaCnoYHw1t1I) - Your X posting twin that learns your voice from your X archive and drafts posts, replies and captions. [sara](https://x.com/muse_inmotion).

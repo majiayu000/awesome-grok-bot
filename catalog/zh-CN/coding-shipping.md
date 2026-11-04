@@ -914,3 +914,7 @@
 - [Security Lockdown](https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p) - 一步步带你锁紧个人数字安全，涵盖密码、双重验证、旧账号、身份信息、手机和家庭网络. [corvo](https://x.com/heybiggins).
 - [UI 品味诊断](https://x.ai/bot/DjSL11EK97KGRscFtzSzK) - 给 UI 截图或网站做品味诊断，指出最影响观感和可用性的 3 到 7 个问题，附带具体数值的改法和可直接发给 AI 的修复提示词. fedming.
 - [Family Cyber Shield](https://x.ai/bot/PJS4c0UlEuodw7Uvsffjq) - 检查邮箱里的钓鱼邮件，带你设置 DNS 拦截、Mac 防火墙、通行密钥和双重验证，读取任何内容前都先征得同意. [Brian](https://x.com/Texas_Twins_Dad).
+- [ADMRN Bridge Setup Guide](https://x.ai/bot/_LRoMViTIJ9HkJ4J98DvD) - 一步步带你在自己的 Cloudflare 账号上装好 ADMRN Bridge Basic，并把它接到 Grok Bot. [Viet](https://x.com/vl2edo).
+- [Graveyard Shift](https://x.ai/bot/FiGaCx_wiFaAD0OnAC0-G) - 盯着你所有的副业项目，看哪些挂了、哪些快续费、哪些白花钱，然后问你留着、暂停、关掉还是卖掉. [Estilo](https://x.com/TonkaToyXL).
+- [PC Voice Control Assistant](https://x.ai/bot/XTcXcyZErWRrEcB0LdPrz) - 用唤醒词启动的语音助手，躺在床上也能用声音控制你的 Windows 电脑. [Mishiro](https://x.com/ZGMF_X31S).
+- [Prompt Lab](https://x.ai/bot/NN5pqHjmr-wC-vJ9d27EG) - 写好编程提示词，让你贴给几个 AI 模型，比较它们用代码做可视化效果的水平. [Wayne](https://x.com/wikiwayne).

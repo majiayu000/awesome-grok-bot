@@ -596,3 +596,6 @@
 - [Franchise Opportunity Finder](https://x.ai/bot/BTt50YzAQhs_wpleTbRSh) - 按你的预算、地点、投入时间和技能，寻找并筛查合适的加盟机会. [Igor](https://x.com/igormajdov).
 - [clutch · live coach](https://x.ai/bot/dlxokqZ4cLjnOzjX8VQln) - 点按式销售教练，覆盖通话前、通话中和刚结束时，提供异议应对按钮、SPIN 提问和给销售的买家角色扮演. [josiah](https://x.com/josiahXXI).
 - [High Website Secretary](https://x.ai/bot/LtJhUnD70XELBwSntpqif) - 给店主用的网站秘书，回复网站聊天并可随时接管，给订单编号、发收据、标记售罄商品. [High](https://x.com/Hightv).
+- [FAFO Homestead Helper](https://x.ai/bot/deZ5MwQ-PJaPLAmi_LAY1) - 一步步帮女性创办家庭农场或小农场生意，从注册 LLC 到美国农业部的申请材料和补助都管. [Jennifer](https://x.com/JenFlood17).
+- [Revenue Rex](https://x.ai/bot/1OnUg1oZyw2c49tpKkez9) - 给独立开发者和 SaaS 创业者的一站式营销团队，页面、定价、邮件和发布都能帮上. [Paul](https://x.com/0xPaulvibe).
+- [X Reply & Networking Assistant](https://x.ai/bot/SDKTO3mMc0NDQljmbOubN) - 先了解你的专长，再在 X 上找出你所在领域真正在做事的人，方便你交流和回复. [Felix](https://x.com/hereFelixK).

@@ -873,3 +873,7 @@
 - [last30days](https://x.ai/bot/_TMcFyY_Y8DqYRYg5OAYh) - 调研过去 30 天里人们在 Reddit、X、YouTube、TikTok、Instagram、Hacker News 等平台上对任意话题的真实讨论. [Ariana](https://x.com/shawtybee_arii).
 - [Grok Bot Updates](https://x.ai/bot/-HaPVRV7W2o9yTtoOUAz-) - 跟踪 Grok Bot 的新功能，把每次更新变成能用在你的生意和其他 bot 上的具体点子，工作日安静地发一份摘要. [Michael](https://x.com/michaelokeje).
 - [中文圈日报官](https://x.ai/bot/JhxY8jW8terP0k7UOASGC) - 按你关心的中文 X 话题每天整理一份结构化日报，标出值得认真回复的帖子，不刷量也不代你发帖. [xJimKwong](https://x.com/xJimKwong).
+- [Civic Filter](https://x.ai/bot/kn21ZTH4G0J-Day9zNt6l) - 过滤选举新闻和政治类社交媒体的噪音，只告诉你跟你有关、你能采取行动的事. [Arne](https://x.com/lutefiskguy).
+- [DOGE Bot](https://x.ai/bot/i4HDAyqDFzbHots7gQOFL) - 独立的公共记录查询工具，在政府花你的钱之前，让你看清谁会从中赚钱. [Lars](https://x.com/LibertarianLars).
+- [Morning Market Brief](https://x.ai/bot/bDtC23xInV7JQzWmLOR95) - 每天早上发一份简报，涵盖你的自选股、大盘行情，以及你订阅的通讯和频道. [David](https://x.com/davideverist350).
+- [X Pulse (Public)](https://x.ai/bot/xddKCOqGlqVtILAv4O3Lq) - 给它一个话题，它画出这个话题过去 24 小时在 X 上的热度，做成中英双语表盘页面，再配上带音乐的短视频. [mspd](https://x.com/mspd4100).
