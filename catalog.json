@@ -157247,6 +157247,302 @@
       "updated": "2026-11-06",
       "shelf": "raw",
       "source": "https://x.com/BarrakAli/status/2118608502780567802"
+    },
+    {
+      "slug": "rebalance-keeper",
+      "name": "Rebalance Keeper",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Compares your holdings to your target allocation, flags drift and lays out a DCA plan, then stops; it never trades",
+      "summary_zh": "对照目标仓位检查持仓并标出偏离给出定投计划后停下从不下单",
+      "import": "https://x.ai/bot/wdkaFZSukxdUWzVoqscbX",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118675099851292778"
+    },
+    {
+      "slug": "vibe-seismograph",
+      "name": "Vibe Seismograph",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Audits how a brand is perceived versus 5 to 8 rivals with counted sentiment across X, Reddit, reviews and news, plus themes, risks and ranked fixes",
+      "summary_zh": "对照五到八个竞品统计 X、Reddit、评论与新闻里的品牌观感标出主题风险并给出修复优先级",
+      "import": "https://x.ai/bot/vgpP8K_tqNp_8sRSvr3Sm",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118674036624654424"
+    },
+    {
+      "slug": "shadow-signal",
+      "name": "Shadow Signal",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Alt-data detective for public tickers that benchmarks spend, demand, web or app and hiring signals against comps, then reconciles them with KPIs; never trades",
+      "summary_zh": "用另类数据对照同行核对上市公司的支出需求流量与招聘信号再和 KPI 对账从不下单",
+      "import": "https://x.ai/bot/s8D5AA4QaeGe-c5peTxz9",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118670894067245282"
+    },
+    {
+      "slug": "kpi-data-room",
+      "name": "KPI Data Room",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Source-linked 5-year / 20-quarter KPI workbook for one public ticker plus a zip of filings; blanks cells it cannot source",
+      "summary_zh": "给一只上市公司做带出处的五年二十季 KPI 工作簿并附原始财报压缩包核不到来源的格子就留空",
+      "import": "https://x.ai/bot/mJ6Ul7sJykXp0sGRHy1b4",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118670573869944988"
+    },
+    {
+      "slug": "market-memo-publisher",
+      "name": "Market Memo Publisher",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Stitches verified work from the other finance-suite bots into one chart-rich draft memo, then waits for your approval and never auto-publishes",
+      "summary_zh": "把财务套件里其它 bot 已核实的结果拼成带图草稿备忘录后等你批准从不自动发布",
+      "import": "https://x.ai/bot/QEIJ5GC006A3ElCVNZ97M",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118670047547937128"
+    },
+    {
+      "slug": "behavioral-post-mortem-analyst",
+      "name": "Behavioral Post-Mortem Analyst",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Reads your trading journal for process not P&L, checking whether you followed your own plan, kind but data-honest and never places orders",
+      "summary_zh": "按过程而非盈亏读你的交易日志核对你是否按自己的计划执行语气温和但有数据从不下单",
+      "import": "https://x.ai/bot/cmmcspTxgjaB0qQsdCTwM",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118668253144744190"
+    },
+    {
+      "slug": "macro-catalyst-scheduler",
+      "name": "Macro Catalyst Scheduler",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Builds a decision-relevant catalyst calendar for your watchlist covering what drops when and why it matters, with zero price predictions",
+      "summary_zh": "按你的观察列表做决策向催化剂日历写清何时出什么以及为何要紧不做价格预测",
+      "import": "https://x.ai/bot/kl4V_lz_v-0VGA-QntsU6",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118667970935505377"
+    },
+    {
+      "slug": "regime-cartographer",
+      "name": "Regime Cartographer",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Maps the market environment across trend, volatility, liquidity, correlation, breadth and macro sensitivity, with zero price predictions",
+      "summary_zh": "从趋势波动流动性相关性广度与宏观敏感度刻画当前市场环境不做价格预测",
+      "import": "https://x.ai/bot/JlIAsBubOWg2Z6zc3yz5q",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118667108770869565"
+    },
+    {
+      "slug": "backtest-forensics-lab",
+      "name": "Backtest Forensics Lab",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "A reproducible lab that stress-tests and disqualifies fragile or overfit backtests; it never deploys or recommends a live strategy",
+      "summary_zh": "可复现的回测法医室用来压测并淘汰过拟合或不稳的策略从不部署或推荐实盘",
+      "import": "https://x.ai/bot/p7oqGCeaRvTirZ0dcZdpP",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118661818164097059"
+    },
+    {
+      "slug": "expectations-decoder",
+      "name": "Expectations Decoder",
+      "author": {
+        "name": "Turac",
+        "url": "https://x.com/TuracTheThinker"
+      },
+      "summary": "Maps what the market already prices for an event from option-implied moves, positioning, consensus and history; not a forecast",
+      "summary_zh": "用有出处的期权隐含波动仓位共识与历史画出市场已定价的事件预期图不是预测会发生什么",
+      "import": "https://x.ai/bot/F1S-OSFwNfep5RBDgzvqM",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/TuracTheThinker/status/2118655928052646324"
+    },
+    {
+      "slug": "ux-ui-designer",
+      "name": "UX/UI Designer",
+      "author": {
+        "name": "mr.robot",
+        "url": "https://x.com/mr_robot777"
+      },
+      "summary": "Designs the visual layer of mobile and web interfaces in modern, minimal or any named style, accessibility-first, with specs before any file edits",
+      "summary_zh": "专做移动与网页界面的视觉层可按现代极简或指定风格先出规格再改文件并优先无障碍",
+      "import": "https://x.ai/bot/DWorDFJGA-RbMCvTpewU8",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "jobs",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/mr_robot777/status/2118643756626813337"
+    },
+    {
+      "slug": "design-systems",
+      "name": "Design Systems",
+      "author": {
+        "name": "mr.robot",
+        "url": "https://x.com/mr_robot777"
+      },
+      "summary": "Builds design-system structure for desktop and web products: tokens, component libraries, component specs, documentation, flows and IA",
+      "summary_zh": "为桌面与网页产品搭设计系统结构含 token、组件库、组件规格、文档、流程与信息架构",
+      "import": "https://x.ai/bot/C9_sXN7trbw5bSj_mD5VL",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "jobs",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/mr_robot777/status/2118643756626813337"
+    },
+    {
+      "slug": "muse-2",
+      "name": "Muse引き継ぎ",
+      "author": {
+        "name": "わだ",
+        "url": "https://x.com/da21aw"
+      },
+      "summary": "Turns in-progress Grok Bot work into a handoff brief and start instructions for muse.ai; it does not send, publish, pay or merge",
+      "summary_zh": "把进行中的 Grok Bot 工作整理成交给 muse.ai 的交接书与开工指示不发送不公开不付款不合并",
+      "import": "https://x.ai/bot/7VMwTpyn0YjJkAi7cf71i",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/da21aw/status/2118641619192942911"
+    },
+    {
+      "slug": "drafter",
+      "name": "Drafter",
+      "author": {
+        "name": "mmt",
+        "url": "https://x.com/eaxmmt"
+      },
+      "summary": "Helps builders write sharp human X posts for product launches, features, teasers, updates and Grok Bot drops after pulling real details from you first",
+      "summary_zh": "先问清真实细节再帮开发者写产品发布功能预告更新与 Grok Bot 上线用的真人味 X 帖",
+      "import": "https://x.ai/bot/WBhcFoClSD5T9ZgB7NkYv",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/eaxmmt/status/2118534404481970607"
     }
   ]
 }

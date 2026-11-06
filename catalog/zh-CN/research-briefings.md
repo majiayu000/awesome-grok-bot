@@ -885,3 +885,11 @@
 - [Local AI Archivist](https://x.ai/bot/2hZDOa0yarT3DElVfXrGe) - 每周归档最适合本机跑的开源权重模型，按 8GB 笔记本、未来 32GB 与更高显存三档匹配. [Christopher](https://x.com/cfryant).
 - [Medical Researcher](https://x.ai/bot/j_Kp0pBKqQao81d_XMYrP) - 面向任一疾病或状况的医学研究助手，只收录高严谨研究，并用白话说明. [prince_twets](https://x.com/prince_twets).
 - [X Radar](https://x.ai/bot/QUETfslfc34mH1WqpVbLH) - 每日 AI 资讯雷达，早间简体中文邮件汇总 X 与官方博客，另有两小时热点与半小时大事抽查. [Alan](https://x.com/Alan_yiyao).
+- [Vibe Seismograph](https://x.ai/bot/vgpP8K_tqNp_8sRSvr3Sm) - 对照五到八个竞品统计 X、Reddit、评论与新闻里的品牌观感标出主题风险并给出修复优先级. [Turac](https://x.com/TuracTheThinker).
+- [Shadow Signal](https://x.ai/bot/s8D5AA4QaeGe-c5peTxz9) - 用另类数据对照同行核对上市公司的支出需求流量与招聘信号再和 KPI 对账从不下单. [Turac](https://x.com/TuracTheThinker).
+- [KPI Data Room](https://x.ai/bot/mJ6Ul7sJykXp0sGRHy1b4) - 给一只上市公司做带出处的五年二十季 KPI 工作簿并附原始财报压缩包核不到来源的格子就留空. [Turac](https://x.com/TuracTheThinker).
+- [Market Memo Publisher](https://x.ai/bot/QEIJ5GC006A3ElCVNZ97M) - 把财务套件里其它 bot 已核实的结果拼成带图草稿备忘录后等你批准从不自动发布. [Turac](https://x.com/TuracTheThinker).
+- [Macro Catalyst Scheduler](https://x.ai/bot/kl4V_lz_v-0VGA-QntsU6) - 按你的观察列表做决策向催化剂日历写清何时出什么以及为何要紧不做价格预测. [Turac](https://x.com/TuracTheThinker).
+- [Regime Cartographer](https://x.ai/bot/JlIAsBubOWg2Z6zc3yz5q) - 从趋势波动流动性相关性广度与宏观敏感度刻画当前市场环境不做价格预测. [Turac](https://x.com/TuracTheThinker).
+- [Backtest Forensics Lab](https://x.ai/bot/p7oqGCeaRvTirZ0dcZdpP) - 可复现的回测法医室用来压测并淘汰过拟合或不稳的策略从不部署或推荐实盘. [Turac](https://x.com/TuracTheThinker).
+- [Expectations Decoder](https://x.ai/bot/F1S-OSFwNfep5RBDgzvqM) - 用有出处的期权隐含波动仓位共识与历史画出市场已定价的事件预期图不是预测会发生什么. [Turac](https://x.com/TuracTheThinker).

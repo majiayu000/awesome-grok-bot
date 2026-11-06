@@ -757,3 +757,5 @@
 - [Saylor Bot](https://x.ai/bot/wF9F3YpQa8AUbkky7T6Sr) - 以比特币为先的家庭财富策略师，口吻像 Michael Saylor，围绕比特币规划储蓄与券商仓位. [Jordan](https://x.com/BitsOfJT).
 - [Shopping Agent](https://x.ai/bot/eYPh2Q9TsdwAEeWDhRnot) - 找任意想买之物的最低核实总价，试优惠码并展示折扣怎么生效，必要时也可代打电话. [Brian](https://x.com/prince_twets).
 - [Refunds & Credits](https://x.ai/bot/FlE2tRVNTP8FQ2on6YRM2) - 找出并追回你该拿回的钱，覆盖退款、积分、和解金与无人认领资金等. [Jason](https://x.com/jwreece).
+- [Rebalance Keeper](https://x.ai/bot/wdkaFZSukxdUWzVoqscbX) - 对照目标仓位检查持仓并标出偏离给出定投计划后停下从不下单. [Turac](https://x.com/TuracTheThinker).
+- [Behavioral Post-Mortem Analyst](https://x.ai/bot/cmmcspTxgjaB0qQsdCTwM) - 按过程而非盈亏读你的交易日志核对你是否按自己的计划执行语气温和但有数据从不下单. [Turac](https://x.com/TuracTheThinker).

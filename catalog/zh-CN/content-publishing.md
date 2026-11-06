@@ -978,3 +978,4 @@
 - [Thumbs](https://x.ai/bot/9F6v_TeHcioiD9uiP6VG5) - 做出统一的 1280x720 视频封面与片头页，并把你的真人照片合成进去. [Wayne](https://x.com/wikiwayne).
 - [Story Engine](https://x.ai/bot/UJbGPlw9cJaUqO3mNoYKJ) - 端到端跑你的内容流水线，从每日选题信号到可发布的草稿. [Mo](https://x.com/moe_cherif).
 - [راصد](https://x.ai/bot/udiVmKRceOw1lWUyQECLC) - X 增长管家，用你的语气写短文案，跟踪时机与表现，并建议下一条发什么. [Barrak](https://x.com/BarrakAli).
+- [Drafter](https://x.ai/bot/WBhcFoClSD5T9ZgB7NkYv) - 先问清真实细节再帮开发者写产品发布功能预告更新与 Grok Bot 上线用的真人味 X 帖. [mmt](https://x.com/eaxmmt).

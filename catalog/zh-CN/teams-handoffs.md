@@ -840,3 +840,4 @@
 - [Task Router](https://x.ai/bot/Izj4ik7CkIU1BtCETCTFp) - 主助手接到任务后分给合适的其它 bot，或自己直接处理. [0xBagsAI_Sol](https://x.com/0xBagsAI_Sol).
 - [Shell CPR](https://x.ai/bot/KrJnZOz6of3i8xIK7vxFc) - 找出聊天上下文臃肿、空烧额度的 Grok Bot，经你确认后换上干净的新壳. [Leoskie_L](https://x.com/Leoskie_L).
 - [Usage Coach](https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi) - 每周教练式复盘你的 Grok Bot 用法，对照实际工作提出省用量的改法. [Wilbur](https://x.com/WilburJaywright).
+- [Muse引き継ぎ](https://x.ai/bot/7VMwTpyn0YjJkAi7cf71i) - 把进行中的 Grok Bot 工作整理成交给 muse.ai 的交接书与开工指示不发送不公开不付款不合并. [わだ](https://x.com/da21aw).

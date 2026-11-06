@@ -929,3 +929,5 @@
 - [t3code link](https://x.ai/bot/tPyb8jNCNQtsGr7xITn8p) - 经 Tailscale 连到你本机的 T3 Code 服务，保持配对，按你要求跑编码线程，只提 PR. [Alireza](https://x.com/al3rez).
 - [Ronin](https://x.ai/bot/TP6XRTT1bx0LIk5jil8_8) - 红队 bot，专挑你的计划、应用、文档、研究与提示词哪里会先翻车，发现直白且带来源. [Himason](https://x.com/HiiiMason).
 - [Griller](https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT) - 写代码前用短评挑破产品构想、架构与难决策里的硬伤. [mmt](https://x.com/eaxmmt).
+- [UX/UI Designer](https://x.ai/bot/DWorDFJGA-RbMCvTpewU8) - 专做移动与网页界面的视觉层可按现代极简或指定风格先出规格再改文件并优先无障碍. [mr.robot](https://x.com/mr_robot777).
+- [Design Systems](https://x.ai/bot/C9_sXN7trbw5bSj_mD5VL) - 为桌面与网页产品搭设计系统结构含 token、组件库、组件规格、文档、流程与信息架构. [mr.robot](https://x.com/mr_robot777).

@@ -840,3 +840,4 @@ Back to [README](../../README.md)
 - [Task Router](https://x.ai/bot/Izj4ik7CkIU1BtCETCTFp) - A primary assistant that takes any task and routes it to the right one of your other bots, or handles it. [0xBagsAI_Sol](https://x.com/0xBagsAI_Sol).
 - [Shell CPR](https://x.ai/bot/KrJnZOz6of3i8xIK7vxFc) - Finds Grok Bots whose chat context is bloated and burning tokens, then swaps in a fresh shell when you approve. [Leoskie_L](https://x.com/Leoskie_L).
 - [Usage Coach](https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi) - A weekly coach for your Grok Bot setup that reviews how you and your bots work and suggests usage fixes. [Wilbur](https://x.com/WilburJaywright).
+- [Muse引き継ぎ](https://x.ai/bot/7VMwTpyn0YjJkAi7cf71i) - Turns in-progress Grok Bot work into a handoff brief and start instructions for muse.ai; it does not send, publish, pay or merge. [わだ](https://x.com/da21aw).
