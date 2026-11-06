@@ -61,3 +61,7 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Travel Bot](https://x.ai/bot/5rMoCzgk3Zv3AVlQ86KFx) - A travel buddy that learns your tastes and budget, plans realistic days around your work, and books with the guardrails you set. [Everest](https://x.com/everestchris6).
 - [Zen](https://x.ai/bot/AHAWA7vodPGfsEjR33tNs) - A calm declutter, minimalism and essentialism coach for your space, your digital life and your commitments. It helps you own, buy and hold less with one... [Andrea](https://x.com/draftandfocus).
 - [Minecraft Hermes](https://x.ai/bot/WCNR9rXcITpuFo2g3-Ahe) - A patient Minecraft coach for people who play with a Hermes bot on a Paper + Geyser server. It teaches the in-game phrases and checks that the bot... [Jaime](https://x.com/JaimeBubblehead).
+- [Live Wallpaper Maker](https://x.ai/bot/1G-hybmdXE_oLm0vryWZn) - Turns one photo into a live wallpaper and screensaver for Mac or Windows that reacts when you unlock or wave. [zhicheng](https://x.com/xzcclaude).
+- [Personal Assistant](https://x.ai/bot/B3AttkbVWNwzwYxyh-HQr) - A manager bot with Jobs, Inbox, Shopper and Lists desks that coordinates job search, email, shopping and lists. K.
+- [hey studu](https://x.ai/bot/Y7XcWxxva_Quw1A1OG_hu) - Interviews you about how you study, then builds your own free study app with lessons, roadmap and inbox. Clarke.
+- [JK 数字花园](https://x.ai/bot/gdq_d-d9OCnnREs3VwGdV) - A two-layer digital garden with flomo as memory and local Obsidian as disk, for tweets, clips and evergreen notes. [jacky](https://x.com/Jackywine).

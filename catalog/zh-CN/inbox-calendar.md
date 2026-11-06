@@ -298,3 +298,4 @@
 - [Ultimate Calling Assistant Bot](https://x.ai/bot/7mv_WGWHsjwnuQM1k1xB3) - 长时占线电话的总机秘书，先写通话简报，再用 Grok Bot 内置通话在语音树里替你等. [Brian](https://x.com/BrianRoemmele).
 - [Inbox](https://x.ai/bot/zsnCR-2rKTYLRve6w98Ls) - 把多个 Gmail 收在一处，简要说明哪些要回、哪些账单和日程将至、哪些是噪音. [Bearhugsink](https://x.com/Bearhugsink).
 - [Travel Calendar Sync](https://x.ai/bot/FrCwEP7u_7mRiakVg0HvK) - 盯订票邮件里的航班、酒店与租车，自动更新日历，可给固定人或任意同行发邀请. [Matt](https://x.com/carlinmcFL).
+- [Apple Desk](https://x.ai/bot/LneMGVrkfLOfrJkw283Bs) - 从 Grok Bot 操控 Mac 上的提醒事项、日历、备忘录、通讯录、信息与快捷指令. Daniel.

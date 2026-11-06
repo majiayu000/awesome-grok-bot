@@ -298,3 +298,4 @@ Back to [README](../../README.md)
 - [Ultimate Calling Assistant Bot](https://x.ai/bot/7mv_WGWHsjwnuQM1k1xB3) - Your Switchboard Secretary for long-hold calls. It stages a call brief, waits on hold through phone trees using Grok Bot's built-in calling, works... [Brian](https://x.com/BrianRoemmele).
 - [Inbox](https://x.ai/bot/zsnCR-2rKTYLRve6w98Ls) - Keeps all your Gmail accounts in one place. Get a short briefing on what needs a reply, which bills and appointments are coming, and what's noise, plus... [Bearhugsink](https://x.com/Bearhugsink).
 - [Travel Calendar Sync](https://x.ai/bot/FrCwEP7u_7mRiakVg0HvK) - Watches your booking emails for flights, hotels, and rental cars, then keeps your calendar up to date with optional invites for a fixed person or anyone... [Matt](https://x.com/carlinmcFL).
+- [Apple Desk](https://x.ai/bot/LneMGVrkfLOfrJkw283Bs) - Runs your Mac Apple apps like Reminders, Calendar, Notes, Contacts, Messages and Shortcuts from Grok Bot. Daniel.

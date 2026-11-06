@@ -975,3 +975,6 @@
 - [X Neighbours](https://x.ai/bot/HS_Zv-xywJo7b4X7WbImy) - 给 X 创作者看每周谁最常点赞回复、值得回关的熟客，以及一张可分享的邻里关系图. [Skybatan](https://x.com/SkyXFunNext).
 - [X Unfollow](https://x.ai/bot/upgPpw49-t_NOYwYBQTzw) - 有人取关你时通知，并可代你拉黑对方，拉黑同时去掉你的关注. [earholes](https://x.com/earholes).
 - [Local Video Lab](https://x.ai/bot/54EerbJSQWqM2Mc7cGtpK) - 在自己电脑上做 AI 视频，先查硬件兼容，再给提示词与诚实画质评估，安装与下载前会问你. [Clay](https://x.com/CoachFerg25).
+- [Thumbs](https://x.ai/bot/9F6v_TeHcioiD9uiP6VG5) - 做出统一的 1280x720 视频封面与片头页，并把你的真人照片合成进去. [Wayne](https://x.com/wikiwayne).
+- [Story Engine](https://x.ai/bot/UJbGPlw9cJaUqO3mNoYKJ) - 端到端跑你的内容流水线，从每日选题信号到可发布的草稿. [Mo](https://x.com/moe_cherif).
+- [راصد](https://x.ai/bot/udiVmKRceOw1lWUyQECLC) - X 增长管家，用你的语气写短文案，跟踪时机与表现，并建议下一条发什么. [Barrak](https://x.com/BarrakAli).

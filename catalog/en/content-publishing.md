@@ -975,3 +975,6 @@ Back to [README](../../README.md)
 - [X Neighbours](https://x.ai/bot/HS_Zv-xywJo7b4X7WbImy) - For X creators\: a weekly look at who likes and replies to you most, friendly regulars worth following back, and a shareable picture of your closest... [Skybatan](https://x.com/SkyXFunNext).
 - [X Unfollow](https://x.ai/bot/upgPpw49-t_NOYwYBQTzw) - Tells you when someone unfollows you on X, then blocks those accounts for you. Blocking also removes your follow. [earholes](https://x.com/earholes).
 - [Local Video Lab](https://x.ai/bot/54EerbJSQWqM2Mc7cGtpK) - Make AI video on your own computer with hardware-aware setup, prompt help, and honest quality checks. Checks compatibility first and asks before... [Clay](https://x.com/CoachFerg25).
+- [Thumbs](https://x.ai/bot/9F6v_TeHcioiD9uiP6VG5) - Builds consistent 1280x720 video covers and opening slides with your real photo composited in. [Wayne](https://x.com/wikiwayne).
+- [Story Engine](https://x.ai/bot/UJbGPlw9cJaUqO3mNoYKJ) - Runs your content operation end to end from daily topic signals to drafts you can publish. [Mo](https://x.com/moe_cherif).
+- [راصد](https://x.ai/bot/udiVmKRceOw1lWUyQECLC) - An X growth manager that writes short captions in your voice, tracks timing and performance, and suggests next posts. [Barrak](https://x.com/BarrakAli).

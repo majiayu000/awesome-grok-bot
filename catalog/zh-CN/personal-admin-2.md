@@ -61,3 +61,7 @@
 - [Travel Bot](https://x.ai/bot/5rMoCzgk3Zv3AVlQ86KFx) - 旅行伙伴，学你口味与预算，围着工作排现实行程，并在你设的护栏内订票. [Everest](https://x.com/everestchris6).
 - [Zen](https://x.ai/bot/AHAWA7vodPGfsEjR33tNs) - 平静的断舍离教练，帮你在空间、数字生活与承诺上少拥有、少购买、少背负. [Andrea](https://x.com/draftandfocus).
 - [Minecraft Hermes](https://x.ai/bot/WCNR9rXcITpuFo2g3-Ahe) - 给在 Paper 加 Geyser 服上与 Hermes bot 联机的人当耐心 Minecraft 教练，教指令并检查 bot 是否听懂. [Jaime](https://x.com/JaimeBubblehead).
+- [Live Wallpaper Maker](https://x.ai/bot/1G-hybmdXE_oLm0vryWZn) - 一张照片生成 Mac 或 Windows 动态壁纸与锁屏，解锁或挥手时会动起来. [zhicheng](https://x.com/xzcclaude).
+- [Personal Assistant](https://x.ai/bot/B3AttkbVWNwzwYxyh-HQr) - 带工作求职、收件箱、购物与清单四个台面的总管 bot，帮你协调这些日常. K.
+- [hey studu](https://x.ai/bot/Y7XcWxxva_Quw1A1OG_hu) - 先访谈你的学习方式，再搭一个含课程、路线图与收件箱的免费学习应用. Clarke.
+- [JK 数字花园](https://x.ai/bot/gdq_d-d9OCnnREs3VwGdV) - 双层数字花园，flomo 当内存、本机 Obsidian 当硬盘，管推文剪藏与常青笔记. [jacky](https://x.com/Jackywine).

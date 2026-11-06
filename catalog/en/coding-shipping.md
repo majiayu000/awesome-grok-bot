@@ -928,3 +928,4 @@ Back to [README](../../README.md)
 - [Portal Mail Assistant](https://x.ai/bot/8K19qlH_8lAleMf5xJuqh) - Handles emails that link into a web portal\: signs in, pulls the facts and files, logs them, and replies on the thread with a clear summary and attachments. [Traube](https://x.com/rumnusstraube).
 - [t3code link](https://x.ai/bot/tPyb8jNCNQtsGr7xITn8p) - Connects to your T3 Code server on your own machine over Tailscale, keeps the pairing alive, and runs T3 coding threads there when you ask, PRs only. [Alireza](https://x.com/al3rez).
 - [Ronin](https://x.ai/bot/TP6XRTT1bx0LIk5jil8_8) - A red-team bot that tears into your plans, apps, documents, research and AI prompts to find how they fail before reality does. Blunt findings, sourced... [Himason](https://x.com/HiiiMason).
+- [Griller](https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT) - A concise critic that pokes holes in product ideas, architecture and tough decisions before you write code. [mmt](https://x.com/eaxmmt).

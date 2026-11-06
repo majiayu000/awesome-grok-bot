@@ -928,3 +928,4 @@
 - [Portal Mail Assistant](https://x.ai/bot/8K19qlH_8lAleMf5xJuqh) - 处理要进网页门户的邮件，登录拉取事实与附件、记账，并在原线程用清晰摘要回复. [Traube](https://x.com/rumnusstraube).
 - [t3code link](https://x.ai/bot/tPyb8jNCNQtsGr7xITn8p) - 经 Tailscale 连到你本机的 T3 Code 服务，保持配对，按你要求跑编码线程，只提 PR. [Alireza](https://x.com/al3rez).
 - [Ronin](https://x.ai/bot/TP6XRTT1bx0LIk5jil8_8) - 红队 bot，专挑你的计划、应用、文档、研究与提示词哪里会先翻车，发现直白且带来源. [Himason](https://x.com/HiiiMason).
+- [Griller](https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT) - 写代码前用短评挑破产品构想、架构与难决策里的硬伤. [mmt](https://x.com/eaxmmt).

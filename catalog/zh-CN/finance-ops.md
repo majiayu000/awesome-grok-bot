@@ -756,3 +756,4 @@
 - [Paperasse · Syndic de Copropriété](https://x.ai/bot/F1uQVa6SA7p-8YbhGL_y0) - 业主委员会协助，管大会、分摊、账目、工程与欠费，基于开源 Paperasse. [Romain](https://x.com/romainsimon).
 - [Saylor Bot](https://x.ai/bot/wF9F3YpQa8AUbkky7T6Sr) - 以比特币为先的家庭财富策略师，口吻像 Michael Saylor，围绕比特币规划储蓄与券商仓位. [Jordan](https://x.com/BitsOfJT).
 - [Shopping Agent](https://x.ai/bot/eYPh2Q9TsdwAEeWDhRnot) - 找任意想买之物的最低核实总价，试优惠码并展示折扣怎么生效，必要时也可代打电话. [Brian](https://x.com/prince_twets).
+- [Refunds & Credits](https://x.ai/bot/FlE2tRVNTP8FQ2on6YRM2) - 找出并追回你该拿回的钱，覆盖退款、积分、和解金与无人认领资金等. [Jason](https://x.com/jwreece).

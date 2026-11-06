@@ -835,3 +835,8 @@
 - [Template Rewards Buddy](https://x.ai/bot/W--1VVIiFSfSRFxv4WZwn) - 帮 Creator Rewards 成员盯已发布模板，检查是否在要求渠道按时贴出模板链接. [Tom](https://x.com/TitaniumTomP).
 - [Template Scrub Desk](https://x.ai/bot/tKzEEP-Fmlzi_zAgOU71r) - 公开发布或上架前清洗简介、技能、例程与导出文本里的密钥与个人隐私，返回通过或需处理. [Umashankar](https://x.com/usgworld).
 - [Ultima · Find your next Grok Bot](https://x.ai/bot/zeTTsQVmX8rloJ0V8qklt) - Grok Bot 新手说想做的事，得到三个能做它的公开 bot、各自擅长，外加一个可继续做的原创点子. [Joe](https://x.com/CardCaptain).
+- [Context Bot](https://x.ai/bot/-lByS9XGxzqHgCrOhrrJY) - 先打开 context-bot 技能，让跨 bot 的长任务始终踩在同一份共享上下文上. [SoyAnaDev](https://x.com/SoyAnaDev).
+- [Vorthax](https://x.ai/bot/0i8NbFVc0abhgTwGLECWw) - 升级其它 agent 的配置档，让新版本能做上一版做不到的工作. [FantomBuildz](https://x.com/FantomBuildz).
+- [Task Router](https://x.ai/bot/Izj4ik7CkIU1BtCETCTFp) - 主助手接到任务后分给合适的其它 bot，或自己直接处理. [0xBagsAI_Sol](https://x.com/0xBagsAI_Sol).
+- [Shell CPR](https://x.ai/bot/KrJnZOz6of3i8xIK7vxFc) - 找出聊天上下文臃肿、空烧额度的 Grok Bot，经你确认后换上干净的新壳. [Leoskie_L](https://x.com/Leoskie_L).
+- [Usage Coach](https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi) - 每周教练式复盘你的 Grok Bot 用法，对照实际工作提出省用量的改法. [Wilbur](https://x.com/WilburJaywright).

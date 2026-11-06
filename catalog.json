@@ -156932,6 +156932,321 @@
       "updated": "2026-11-06",
       "shelf": "raw",
       "source": "https://x.com/JaimeBubblehead/status/2118499828762128505"
+    },
+    {
+      "slug": "context-bot",
+      "name": "Context Bot",
+      "author": {
+        "name": "SoyAnaDev",
+        "url": "https://x.com/SoyAnaDev"
+      },
+      "summary": "Loads your context-bot skill first and keeps long-running work grounded in shared context across bots",
+      "summary_zh": "先打开 context-bot 技能，让跨 bot 的长任务始终踩在同一份共享上下文上",
+      "import": "https://x.ai/bot/-lByS9XGxzqHgCrOhrrJY",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/cu30rry_/status/2118540122706891122"
+    },
+    {
+      "slug": "vorthax",
+      "name": "Vorthax",
+      "author": {
+        "name": "FantomBuildz",
+        "url": "https://x.com/FantomBuildz"
+      },
+      "summary": "Upgrades other agent profiles so each new version can do a job the last one could not",
+      "summary_zh": "升级其它 agent 的配置档，让新版本能做上一版做不到的工作",
+      "import": "https://x.ai/bot/0i8NbFVc0abhgTwGLECWw",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/prince_twets/status/2118561738396164522"
+    },
+    {
+      "slug": "live-wallpaper-maker",
+      "name": "Live Wallpaper Maker",
+      "author": {
+        "name": "zhicheng",
+        "url": "https://x.com/xzcclaude"
+      },
+      "summary": "Turns one photo into a live wallpaper and screensaver for Mac or Windows that reacts when you unlock or wave",
+      "summary_zh": "一张照片生成 Mac 或 Windows 动态壁纸与锁屏，解锁或挥手时会动起来",
+      "import": "https://x.ai/bot/1G-hybmdXE_oLm0vryWZn",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/xzcclaude/status/2118598258859884966"
+    },
+    {
+      "slug": "griller",
+      "name": "Griller",
+      "author": {
+        "name": "mmt",
+        "url": "https://x.com/eaxmmt"
+      },
+      "summary": "A concise critic that pokes holes in product ideas, architecture and tough decisions before you write code",
+      "summary_zh": "写代码前用短评挑破产品构想、架构与难决策里的硬伤",
+      "import": "https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/eaxmmt/status/2118534404481970607"
+    },
+    {
+      "slug": "thumbs",
+      "name": "Thumbs",
+      "author": {
+        "name": "Wayne",
+        "url": "https://x.com/wikiwayne"
+      },
+      "summary": "Builds consistent 1280x720 video covers and opening slides with your real photo composited in",
+      "summary_zh": "做出统一的 1280x720 视频封面与片头页，并把你的真人照片合成进去",
+      "import": "https://x.ai/bot/9F6v_TeHcioiD9uiP6VG5",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/wikiwayne/status/2118513698650431930"
+    },
+    {
+      "slug": "personal-assistant-2",
+      "name": "Personal Assistant",
+      "author": {
+        "name": "K"
+      },
+      "summary": "A manager bot with Jobs, Inbox, Shopper and Lists desks that coordinates job search, email, shopping and lists",
+      "summary_zh": "带工作求职、收件箱、购物与清单四个台面的总管 bot，帮你协调这些日常",
+      "import": "https://x.ai/bot/B3AttkbVWNwzwYxyh-HQr",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "jobs",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/prince_twets/status/2118561738396164522"
+    },
+    {
+      "slug": "refunds-credits",
+      "name": "Refunds & Credits",
+      "author": {
+        "name": "Jason",
+        "url": "https://x.com/jwreece"
+      },
+      "summary": "Finds and recovers money you are owed from refunds, credits, settlements, unclaimed funds and similar pots",
+      "summary_zh": "找出并追回你该拿回的钱，覆盖退款、积分、和解金与无人认领资金等",
+      "import": "https://x.ai/bot/FlE2tRVNTP8FQ2on6YRM2",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/jwreece/status/2118513940623970803"
+    },
+    {
+      "slug": "task-router",
+      "name": "Task Router",
+      "author": {
+        "name": "0xBagsAI_Sol",
+        "url": "https://x.com/0xBagsAI_Sol"
+      },
+      "summary": "A primary assistant that takes any task and routes it to the right one of your other bots, or handles it",
+      "summary_zh": "主助手接到任务后分给合适的其它 bot，或自己直接处理",
+      "import": "https://x.ai/bot/Izj4ik7CkIU1BtCETCTFp",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/0xBagsAI_Sol/status/2118524556143149101"
+    },
+    {
+      "slug": "shell-cpr",
+      "name": "Shell CPR",
+      "author": {
+        "name": "Leoskie_L",
+        "url": "https://x.com/Leoskie_L"
+      },
+      "summary": "Finds Grok Bots whose chat context is bloated and burning tokens, then swaps in a fresh shell when you approve",
+      "summary_zh": "找出聊天上下文臃肿、空烧额度的 Grok Bot，经你确认后换上干净的新壳",
+      "import": "https://x.ai/bot/KrJnZOz6of3i8xIK7vxFc",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/Leoskie_L/status/2118516463296536616"
+    },
+    {
+      "slug": "apple-desk-2",
+      "name": "Apple Desk",
+      "author": {
+        "name": "Daniel"
+      },
+      "summary": "Runs your Mac Apple apps like Reminders, Calendar, Notes, Contacts, Messages and Shortcuts from Grok Bot",
+      "summary_zh": "从 Grok Bot 操控 Mac 上的提醒事项、日历、备忘录、通讯录、信息与快捷指令",
+      "import": "https://x.ai/bot/LneMGVrkfLOfrJkw283Bs",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/soul_zah/status/2118574096044978188"
+    },
+    {
+      "slug": "story-engine",
+      "name": "Story Engine",
+      "author": {
+        "name": "Mo",
+        "url": "https://x.com/moe_cherif"
+      },
+      "summary": "Runs your content operation end to end from daily topic signals to drafts you can publish",
+      "summary_zh": "端到端跑你的内容流水线，从每日选题信号到可发布的草稿",
+      "import": "https://x.ai/bot/UJbGPlw9cJaUqO3mNoYKJ",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/moe_cherif/status/2118520565749403945"
+    },
+    {
+      "slug": "usage-coach-2",
+      "name": "Usage Coach",
+      "author": {
+        "name": "Wilbur",
+        "url": "https://x.com/WilburJaywright"
+      },
+      "summary": "A weekly coach for your Grok Bot setup that reviews how you and your bots work and suggests usage fixes",
+      "summary_zh": "每周教练式复盘你的 Grok Bot 用法，对照实际工作提出省用量的改法",
+      "import": "https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/WilburJaywright/status/2118563418261053755"
+    },
+    {
+      "slug": "hey-studu",
+      "name": "hey studu",
+      "author": {
+        "name": "Clarke"
+      },
+      "summary": "Interviews you about how you study, then builds your own free study app with lessons, roadmap and inbox",
+      "summary_zh": "先访谈你的学习方式，再搭一个含课程、路线图与收件箱的免费学习应用",
+      "import": "https://x.ai/bot/Y7XcWxxva_Quw1A1OG_hu",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/prince_twets/status/2118561738396164522"
+    },
+    {
+      "slug": "jk-digital-garden",
+      "name": "JK 数字花园",
+      "author": {
+        "name": "jacky",
+        "url": "https://x.com/Jackywine"
+      },
+      "summary": "A two-layer digital garden with flomo as memory and local Obsidian as disk, for tweets, clips and evergreen notes",
+      "summary_zh": "双层数字花园，flomo 当内存、本机 Obsidian 当硬盘，管推文剪藏与常青笔记",
+      "import": "https://x.ai/bot/gdq_d-d9OCnnREs3VwGdV",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "x",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/Jackywine/status/2118529866077544465"
+    },
+    {
+      "slug": "rased",
+      "name": "راصد",
+      "author": {
+        "name": "Barrak",
+        "url": "https://x.com/BarrakAli"
+      },
+      "summary": "An X growth manager that writes short captions in your voice, tracks timing and performance, and suggests next posts",
+      "summary_zh": "X 增长管家，用你的语气写短文案，跟踪时机与表现，并建议下一条发什么",
+      "import": "https://x.ai/bot/udiVmKRceOw1lWUyQECLC",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-06",
+      "shelf": "raw",
+      "source": "https://x.com/BarrakAli/status/2118608502780567802"
     }
   ]
 }
