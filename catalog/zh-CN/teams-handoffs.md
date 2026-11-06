@@ -819,3 +819,19 @@
 - [Usage Dashboard](https://x.ai/bot/uru7DsAamYpDSkUnuodC0) - 把你的 Grok Bot 用量做成可交互的仪表盘页面，每月存档，方便按年按月回看. [MIJINION](https://x.com/Mijinions).
 - [WWID](https://x.ai/bot/xqY6kH7E_q5JMMbL5Xwoc) - 一个第二大脑，从你发给其他 bot 的消息里学习你怎么做决定、怎么写东西. [Shaishav](https://x.com/shaivpidadi).
 - [奥卡姆大师](https://x.ai/bot/KAEAWzrt3thPIKUWUhQ_n) - 每周自动审计你所有的 Bot、例程、技能和脚本，找出烧额度和闲置的地方，你确认后再改造或清理. [雨落風間](https://x.com/arito_si).
+- [Bot Ledger](https://x.ai/bot/iuH6fqQ6W0cOSiYyyifMb) - 把 bot 之间互发的消息改写进一份共享账本文件，大家读写同一份，少烧用量. [Ryan](https://x.com/ryanthawks).
+- [Bot Ops](https://x.ai/bot/5m2m9lYxF7s6f53kxkQXS) - 每天检查你的 Grok Bot 舰队用量和健康状况，管好每周额度节奏，只提改进建议不擅自改. [Doug](https://x.com/dougknowles76).
+- [Bot Auditor](https://x.ai/bot/CZmV0y1xhpdRPhYZBxsF7) - 每周独立审计你的 Grok Bot，找重叠、缺口、闲置、弱描述和过时记忆，并给出排序修复建议. [Luis](https://x.com/luisbarragan).
+- [BotDrop](https://x.ai/bot/tiPBfc-5UyhitWk3O9bqL) - 对方接受邀请后，可把笔记、文件、链接或语音丢到对方的 BotDrop，云端配对，未经同意不留存. [Rob](https://x.com/sia14u).
+- [Context Cleaner](https://x.ai/bot/o1VBmI9hXG9E2BnENz_BV) - 审计 Grok Bot 里浪费用量的地方，每次只提交一项需你批准的清理，覆盖例程、记忆、技能和群聊. [Jason](https://x.com/NoHypeGuy).
+- [Foreman](https://x.ai/bot/jt786H746ybSFGZvH4w5-) - 多 bot 效率负责人，找能少耗用量、多出活的持久改法，并把成果固化下来. [Tyler](https://x.com/STFUnion).
+- [goat skills bot](https://x.ai/bot/lvrUulGch21LndWuzMMRz) - 把创作者自己的 X 帖整理成一份带出处的 agent skill（SKILL.md），任意 bot 都能套用. [Vladgz](https://x.com/StarkDegenz).
+- [Grok Bot Efficiency Optimizer](https://x.ai/bot/6q44k3eKlHmC0keocH7He) - 帮你把 Grok Bot 用量用得更久，每周回顾 bot 与例程消耗，提出更省的改法. [Sawyer](https://x.com/cu30rry_).
+- [Grokvis](https://x.ai/bot/dOrBkhpwk1lUNPmyRC2Mo) - 多 bot 指挥台，生成含收件箱、紧急事项、点子、认领检查和主题切换的机组看板. [Travis](https://x.com/prince_twets).
+- [Instruction Audit](https://x.ai/bot/9udY0coBs2IRDWx_J1az_) - 每月审计指令并清理重复 bot，只提保留或删除建议，删除必须你批准. [Rob](https://x.com/sia14u).
+- [Mover Grok Bot Guide](https://x.ai/bot/McIlGodjwFT2NR4-9san7) - 搬家公司专用，从十个高影响方向（先做线索响应速度）选一个，为你生成对应 bot. [Travis](https://x.com/TravisWeathers).
+- [Muscle Memory](https://x.ai/bot/a6dyKcIPqcb5AsmVnimTS) - 找出 Grok Bot 每天重复却无新结果的检查，把它们从例程里拿掉，省下用量. [Daniel](https://x.com/FirstDeployAI).
+- [SpaceXAI Engineer](https://x.ai/bot/EepQjJuhRXhzkaEbRoCLe) - 回答 Grok Bot 能不能做某事，展示 SpaceXAI、Cursor 与 X 工程师怎么做，并附公开帖链接. [Codila](https://x.com/prince_twets).
+- [Template Rewards Buddy](https://x.ai/bot/W--1VVIiFSfSRFxv4WZwn) - 帮 Creator Rewards 成员盯已发布模板，检查是否在要求渠道按时贴出模板链接. [Tom](https://x.com/TitaniumTomP).
+- [Template Scrub Desk](https://x.ai/bot/tKzEEP-Fmlzi_zAgOU71r) - 公开发布或上架前清洗简介、技能、例程与导出文本里的密钥与个人隐私，返回通过或需处理. [Umashankar](https://x.com/usgworld).
+- [Ultima · Find your next Grok Bot](https://x.ai/bot/zeTTsQVmX8rloJ0V8qklt) - Grok Bot 新手说想做的事，得到三个能做它的公开 bot、各自擅长，外加一个可继续做的原创点子. [Joe](https://x.com/CardCaptain).

@@ -599,3 +599,7 @@
 - [FAFO Homestead Helper](https://x.ai/bot/deZ5MwQ-PJaPLAmi_LAY1) - 一步步帮女性创办家庭农场或小农场生意，从注册 LLC 到美国农业部的申请材料和补助都管. [Jennifer](https://x.com/JenFlood17).
 - [Revenue Rex](https://x.ai/bot/1OnUg1oZyw2c49tpKkez9) - 给独立开发者和 SaaS 创业者的一站式营销团队，页面、定价、邮件和发布都能帮上. [Paul](https://x.com/0xPaulvibe).
 - [X Reply & Networking Assistant](https://x.ai/bot/SDKTO3mMc0NDQljmbOubN) - 先了解你的专长，再在 X 上找出你所在领域真正在做事的人，方便你交流和回复. [Felix](https://x.com/hereFelixK).
+- [Sell Bot](https://x.ai/bot/hQPVJuB_EjmPHlnSkrLv_) - 创始人的销售与客户成功台，准备通话、起草跟进与方案、盯账户，发出前都要你点头. [Luis](https://x.com/ThePsalm46Guy).
+- [Hilo · Gestor de Oportunidades](https://x.ai/bot/emVFqy7IGl2DFJBue2pNf) - 从邮件、日历、Slack 与 Teams 管理 Hilo CRM 商机，记流水线、准备跟进并复盘. [dollarbillj](https://x.com/jrodrigocoronel).
+- [Keyword Tagging Suite](https://x.ai/bot/mA92FsTcyDVegzVf7BZcz) - 亚马逊关键词打标，覆盖 ABA 原子标签、SIF 需求到广告结构，以及搜索词特征词经济性. [Emily](https://x.com/starai82685).
+- [LinkedIn Prospector](https://x.ai/bot/Ls_S-fd1NhZ3xdXxFfxo5) - B2B LinkedIn 拓客，每个工作日找符合画像的人，起草连接语和首条私信，只发你批准的. [Kyle](https://x.com/KGtheGent88).

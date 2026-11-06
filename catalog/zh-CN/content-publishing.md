@@ -953,3 +953,25 @@
 - [X Unbaiter](https://x.ai/bot/40wlwmt9OINkBw3daAcNR) - 在 X 上任何标题党帖子下回复 unbait，就能拿到对照原文核实过的直白标题和真正答案. [Sebastian](https://x.com/sebs_tweets).
 - [X-algo](https://x.ai/bot/138yNvmimSez4w_hTXEo0) - 用 X 开源的推荐算法给你的帖子打分，再改写让分数更高. [Ethan](https://x.com/EthanSDE).
 - [𝕏 Twin](https://x.ai/bot/AFtZlQY7LQaCnoYHw1t1I) - 你的 X 发帖分身，从你的 X 存档学会你的语气，帮你起草帖子、回复和配图文字. [sara](https://x.com/muse_inmotion).
+- [First Page Finder](https://x.ai/bot/3OcMc_2Y5cKf7F00uLSv8) - 帮小主播找到 Twitch、Kick 或 YouTube Gaming 上更容易被人看见的分区和时段. [Mark](https://x.com/TheMarkGShow).
+- [Gauntlet](https://x.ai/bot/V8PEtwUMDHq3kFVOcyizc) - 把已核验的 AI 模型测试跑分做成记分卡和带 PASS 章的 1280x720 对决短片. [Wayne](https://x.com/wikiwayne).
+- [MegaJam Producer](https://x.ai/bot/O_S6tTQcEQ5vx9DtmFvPc) - 2026 Epic AI MegaJam 的制作人与规则顾问，帮团队按时交出合规、有完成度的作品. [Captain](https://x.com/AgentShorts).
+- [Versus](https://x.ai/bot/9RuGvNg6YS66-crQDZ1rj) - 固定版式做模型对决视频，左侧主模型、右侧轮换对手，盖 STAR WINNER 章并诚实收尾. [Wayne](https://x.com/wikiwayne).
+- [X Feed Cleaner](https://x.ai/bot/sKQxJ9cdam3YzgHx0CBKp) - 每天早上通读 X 首页时间线，只把值得看的帖子存进主题书签夹，并按你的去留来学习. [Zertyn](https://x.com/pblmnz).
+- [X Post Deletion](https://x.ai/bot/F4NQI7Pz1JNDEd8JPeNE1) - 列出你明确吹捧共和党、特朗普或 MAGA 的 X 帖，只删你勾选确认的那些. [Petru](https://x.com/realpetru).
+- [X Post Reviewer](https://x.ai/bot/JfClE2layd1IcxXXfEzFl) - 把 X 草稿对照开源排序信号审一遍，指出利弊，并按你的语气给出更强改写. [Rob](https://x.com/testafortedev).
+- [X Score](https://x.ai/bot/rOLfgjEovpDiHiG4sBBoo) - 给任意 X 账号打有趣但诚实的 0 到 100 分，含头像、八个维度和规则型人设标签. [huseyin1tekin](https://x.com/huseyin1tekin).
+- [Director](https://x.ai/bot/E6NdmXG5F9O_B6nFiDIJW) - 六人视频制作小队的导演，把活分给对口专家、统一片风，并在交片前做质检. [Wayne](https://x.com/prince_twets).
+- [Filmbot](https://x.ai/bot/lGHtTxD_lhGIVYMDc6m1J) - 用 OpenFilm 导演并交付短视频，解说、产品或 3D 展示与宣传片，竖屏或横屏，可配本地旁白. [Eneko](https://x.com/EnekoMontero).
+- [Ghostwriter](https://x.ai/bot/bpiiZii93BwUdO58qZ45A) - 学你口味的写歌 bot，写出适合 Suno 的歌词与风格提示，钩子适合短视频. [Alexander](https://x.com/allegoricalred).
+- [GIF Creator](https://x.ai/bot/SQYseKTJVi0ttPVORWPJu) - 把任意视频或链接做成适合 Slack、Discord、iMessage、X 等的短循环 GIF，选准节拍还可加字幕. [headyrobot](https://x.com/headyrobot).
+- [Launch Video Studio](https://x.ai/bot/yJjaezpZxjVMYGwYNxed5) - 做短的启动与宣传视频，常可模仿你给的参考片风，交付带原创配乐的 MP4. [xaitoshi](https://x.com/xaitoshi_).
+- [Lectern](https://x.ai/bot/jBMaK3Bh6U-FrXGDSNHJU) - 把 X 帖和博客链接变成忠实可听的语音备忘，粘贴 URL 后整篇朗读并按长度分段. [Sam](https://x.com/samkettleson).
+- [Meme Creator](https://x.ai/bot/Xzw7MMpw3Mth8jM2TOPox) - 把场景或图片做成完整 meme，可按你的原文配图，或找三个合适模板写好文案并渲染. [headyrobot](https://x.com/headyrobot).
+- [Recorded X spaces note taker](https://x.ai/bot/X7aszUICnIrq6eMwjoBd-) - 把录好的 X Space 整理成带时间戳的笔记，含摘要、要点、金句和后续，适合加密 Space. [Peach](https://x.com/PeachCobblr).
+- [Shorts](https://x.ai/bot/Gz5l1KsT-Tn0sV7D3WUyi) - 做 35 到 50 秒竖屏短片（720x1280），模型测试与高光，开头就有动作，两秒内进钩子，只用核验过的数字. [Wayne](https://x.com/wikiwayne).
+- [Unfollower Bot](https://x.ai/bot/lLMf_deF_f48YbHva8rvl) - 一键清理 X，看清谁没回关，一次取关 10 个僵尸粉，并在有人取关你当天提醒. [Rollmeta](https://x.com/Rollmeta).
+- [Vid Bot](https://x.ai/bot/CUb45gh5h3qmoXKzxVIDf) - 丢进家人或孩子的素材，做成配免版税音乐的电影感卡点合集，你选调色并给每刀意见. [Lyndall](https://x.com/lyndallschreinr).
+- [X Neighbours](https://x.ai/bot/HS_Zv-xywJo7b4X7WbImy) - 给 X 创作者看每周谁最常点赞回复、值得回关的熟客，以及一张可分享的邻里关系图. [Skybatan](https://x.com/SkyXFunNext).
+- [X Unfollow](https://x.ai/bot/upgPpw49-t_NOYwYBQTzw) - 有人取关你时通知，并可代你拉黑对方，拉黑同时去掉你的关注. [earholes](https://x.com/earholes).
+- [Local Video Lab](https://x.ai/bot/54EerbJSQWqM2Mc7cGtpK) - 在自己电脑上做 AI 视频，先查硬件兼容，再给提示词与诚实画质评估，安装与下载前会问你. [Clay](https://x.com/CoachFerg25).

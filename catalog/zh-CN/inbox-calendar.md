@@ -293,3 +293,8 @@
 - [WhatsApp Assistant](https://x.ai/bot/LgLcAcgu50-eldWVmALmn) - 用 wacli 读取 WhatsApp，识别承诺和提醒，只在你开启的聊天中回复并用表情署名. [Gabriel](https://x.com/gabogabucho).
 - [X DM Desk](https://x.ai/bot/Du8IIHjYiX0yBrpy_C4a2) - 把 X 私信分为品牌合作、粉丝、私人和垃圾，用你的口吻起草回复，没你同意不发. [TwistedLogic7](https://x.com/TLogic7).
 - [Cal.com MCP](https://x.ai/bot/8xUXbFMraN0ysh2F624gJ) - 在聊天里管理 Cal.com，查空闲和休假，管理预约、活动类型、日程和团队路由表单. [Peer](https://x.com/peer_rich).
+- [BoardingBuddy](https://x.ai/bot/iRN5hVT_cAfwJMcMHVRLZ) - 航班起飞前24小时自动帮你值机，并把登机牌发回来，每次确认都留日志. [Dillon](https://x.com/nollidzsab).
+- [Pre-Call Brief](https://x.ai/bot/GjAx9sLjHoYK4AdKV-GxN) - 会前唯一任务是根据你的日历整理一页简报，让你走进会议室时心里有数. [Calix](https://x.com/CaliLumberJack).
+- [Ultimate Calling Assistant Bot](https://x.ai/bot/7mv_WGWHsjwnuQM1k1xB3) - 长时占线电话的总机秘书，先写通话简报，再用 Grok Bot 内置通话在语音树里替你等. [Brian](https://x.com/BrianRoemmele).
+- [Inbox](https://x.ai/bot/zsnCR-2rKTYLRve6w98Ls) - 把多个 Gmail 收在一处，简要说明哪些要回、哪些账单和日程将至、哪些是噪音. [Bearhugsink](https://x.com/Bearhugsink).
+- [Travel Calendar Sync](https://x.ai/bot/FrCwEP7u_7mRiakVg0HvK) - 盯订票邮件里的航班、酒店与租车，自动更新日历，可给固定人或任意同行发邀请. [Matt](https://x.com/carlinmcFL).

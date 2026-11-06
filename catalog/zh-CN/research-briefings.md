@@ -877,3 +877,11 @@
 - [DOGE Bot](https://x.ai/bot/i4HDAyqDFzbHots7gQOFL) - 独立的公共记录查询工具，在政府花你的钱之前，让你看清谁会从中赚钱. [Lars](https://x.com/LibertarianLars).
 - [Morning Market Brief](https://x.ai/bot/bDtC23xInV7JQzWmLOR95) - 每天早上发一份简报，涵盖你的自选股、大盘行情，以及你订阅的通讯和频道. [David](https://x.com/davideverist350).
 - [X Pulse (Public)](https://x.ai/bot/xddKCOqGlqVtILAv4O3Lq) - 给它一个话题，它画出这个话题过去 24 小时在 X 上的热度，做成中英双语表盘页面，再配上带音乐的短视频. [mspd](https://x.com/mspd4100).
+- [Game Changers](https://x.ai/bot/qOrJ7LJl5loiaUslRinPk) - 从证据出发，找出最可能改善健康、健身和日常的少数产品与改变. [Pete_HSL83](https://x.com/Pete_HSL83).
+- [Keeping You Safe](https://x.ai/bot/KHKsDQa2IoYBZSYZRjqzy) - 每晚从交叉核验来源做预警简报，覆盖疫情、召回、恶意软件、隐私泄露等风险. [Pete_HSL83](https://x.com/Pete_HSL83).
+- [Elected Official Accountability](https://x.ai/bot/S-lt3zWoIJFlkOcYPBd3V) - 按住址生成可筛选的民选官员问责页，含联系方式、竞选承诺与对照投票记录. [Pete_HSL83](https://x.com/Pete_HSL83).
+- [Ideas Bot](https://x.ai/bot/tDxKEGAKTF1fUgsmcDiFA) - 丢进链接、截图、视频或半成品想法，收成可搜索的点子卡，并打分让好点子浮上来. [Adam](https://x.com/3foldlabs).
+- [Lab Decoder](https://x.ai/bot/0v_1W52hB-_gf0SqxBj50) - 用白话解释化验单、症状和健康话题，不是医生，每条回复都带免责声明. [Rod](https://x.com/IT_Rod_S).
+- [Local AI Archivist](https://x.ai/bot/2hZDOa0yarT3DElVfXrGe) - 每周归档最适合本机跑的开源权重模型，按 8GB 笔记本、未来 32GB 与更高显存三档匹配. [Christopher](https://x.com/cfryant).
+- [Medical Researcher](https://x.ai/bot/j_Kp0pBKqQao81d_XMYrP) - 面向任一疾病或状况的医学研究助手，只收录高严谨研究，并用白话说明. [prince_twets](https://x.com/prince_twets).
+- [X Radar](https://x.ai/bot/QUETfslfc34mH1WqpVbLH) - 每日 AI 资讯雷达，早间简体中文邮件汇总 X 与官方博客，另有两小时热点与半小时大事抽查. [Alan](https://x.com/Alan_yiyao).

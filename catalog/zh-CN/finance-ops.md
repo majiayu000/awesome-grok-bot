@@ -744,3 +744,15 @@
 - [VWAP Indicator Bot](https://x.ai/bot/RoAR_UbUgzGmrAefLvvmX) - 在你的日内自选股里找 VWAP 回踩机会，为每个机会写好完整的下单单据，行情来回震荡时就跳过. [Right](https://x.com/rightwingink1).
 - [Broker](https://x.ai/bot/_lwaVlXcjTz2RnZHfJjiD) - 帮你买保险的私人助手，收齐车险、房屋险和洪水险保单，按同等条件比价，标出保障缺口和可用折扣. [Dylan](https://x.com/dkmitc).
 - [Crypto Tax Assistant](https://x.ai/bot/YZ-9DQTxLsCgVt3zMUSbw) - 用活泼的语气把你的钱包或智能合约的链上记录整理进 Google 表格，报税时直接用. [Materia](https://x.com/MateriaWealth).
+- [Finanzas AR](https://x.ai/bot/G5DfaHdEfPksNTsc7FlPq) - 阿根廷实时金融数据，美元、PIX、加密、BYMA、CEDEAR、国债和利率，带来源和时间戳. [Fermin](https://x.com/ferminrp).
+- [Finanzas AR](https://x.ai/bot/ImaKRrq6IwiHsbG_dmiFl) - 阿根廷市场新鲜数据与 IOL 组合工具，带来源、时间戳和清晰图表，给盯盘的人用. [Juan](https://x.com/juanmanuelcosta).
+- [Haggler](https://x.ai/bot/44nZYeBNq-nRQWs3Kkook) - 帮你谈低经常性账单，查清套餐与竞品挽留价，做作战计划，也可代你打电话（需批准）. [Jason](https://x.com/dubsonly_1).
+- [Jimothy Wallet](https://x.ai/bot/U2iAqCj-InwvoOGA0mY9I) - 粘贴公开钱包地址，得到只读组合页，含余额、图表和每个代币的安全徽章. [Santa](https://x.com/JimothyRac).
+- [Paperasse · Commissaire aux Comptes](https://x.ai/bot/_zuqAPpyDT_WV2zpSvPxK) - 按法国 NEP 分七阶段做法定年审，并准备审计意见，给企业主与会计用. [Romain](https://x.com/romainsimon).
+- [Paperasse · Contrôleur Fiscal](https://x.ai/bot/rGTJjgN2hrX5vJvM4wfis) - 模拟法国税务稽查，分析 FEC 与可能调整点，帮你准备查账. [Romain](https://x.com/romainsimon).
+- [Paperasse · Expert-Comptable](https://x.ai/bot/MmwMdZ7OVKXIKBUfc1dE5) - 法国企业会计搭档，覆盖增值税、所得税、结账、FEC、税表与 2026 电子发票. [Romain](https://x.com/romainsimon).
+- [Paperasse · Fiscaliste Particuliers](https://x.ai/bot/GNroMbol-LOahbXzb8Ovw) - 法国个人税务助手，覆盖所得税、IFI、PFU、PEA、人寿保险、LMNP、RSU、加密与 PER. [Romain](https://x.com/romainsimon).
+- [Paperasse · Notaire](https://x.ai/bot/-H7Vc-5QDpqqEbF1PqLxy) - 公证副驾，按 paperasse 公证技能估算公证费、继承、赠与、SCI 与 PACS，不替代真人公证. [Romain](https://x.com/romainsimon).
+- [Paperasse · Syndic de Copropriété](https://x.ai/bot/F1uQVa6SA7p-8YbhGL_y0) - 业主委员会协助，管大会、分摊、账目、工程与欠费，基于开源 Paperasse. [Romain](https://x.com/romainsimon).
+- [Saylor Bot](https://x.ai/bot/wF9F3YpQa8AUbkky7T6Sr) - 以比特币为先的家庭财富策略师，口吻像 Michael Saylor，围绕比特币规划储蓄与券商仓位. [Jordan](https://x.com/BitsOfJT).
+- [Shopping Agent](https://x.ai/bot/eYPh2Q9TsdwAEeWDhRnot) - 找任意想买之物的最低核实总价，试优惠码并展示折扣怎么生效，必要时也可代打电话. [Brian](https://x.com/prince_twets).

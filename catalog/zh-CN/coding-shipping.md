@@ -918,3 +918,13 @@
 - [Graveyard Shift](https://x.ai/bot/FiGaCx_wiFaAD0OnAC0-G) - 盯着你所有的副业项目，看哪些挂了、哪些快续费、哪些白花钱，然后问你留着、暂停、关掉还是卖掉. [Estilo](https://x.com/TonkaToyXL).
 - [PC Voice Control Assistant](https://x.ai/bot/XTcXcyZErWRrEcB0LdPrz) - 用唤醒词启动的语音助手，躺在床上也能用声音控制你的 Windows 电脑. [Mishiro](https://x.com/ZGMF_X31S).
 - [Prompt Lab](https://x.ai/bot/NN5pqHjmr-wC-vJ9d27EG) - 写好编程提示词，让你贴给几个 AI 模型，比较它们用代码做可视化效果的水平. [Wayne](https://x.com/wikiwayne).
+- [FOIA Bot](https://x.ai/bot/J5hE9pdZCTgbgsGAWhl5T) - 帮你起草并跟踪向美国联邦机构提交的 FOIA 与隐私法申请，信件、归档和截止日都管. [SkillsByRole](https://x.com/SkillsByRole).
+- [Product Builder](https://x.ai/bot/ebdU_pyQCp4EGTsIf2cLY) - 端到端负责一款软件产品，规划待办、经云端编程代理改应用和站点，并保留变更记录. [John](https://x.com/JohnBerryTweets).
+- [Breach Watch](https://x.ai/bot/PoHak8r9Bo76500L5mpHC) - 面向普通人与小企业的安全助手，盯你用过服务的泄露、查可疑邮件，并给通俗修复建议. [Tommy](https://x.com/prince_twets).
+- [FiXXer](https://x.ai/bot/XGef9bPV3M6SdIM3DAjHy) - 上手修电脑、网络、网站、应用和更新问题，也能帮其他 Grok Bot，能自动修的会自己动手. [Meyer](https://x.com/MeyerdeBeer).
+- [Google Search Console Indexer](https://x.ai/bot/KyGauyqAJthOvsN-GFoKS) - 盯着网站在 Google 的收录，查站点地图、在每日限额内请求收录新页，并用白话解释状态. [Auny](https://x.com/AunySillyMe).
+- [HackerNews](https://x.ai/bot/aPbalO0IG8dkEHdGyLw0b) - 工作日安全摘要，汇集紧急的 Web 与 Linux 漏洞、CVE、泄露和恶意软件动态. [Anibal](https://x.com/aardid).
+- [Old Geezer - COBOL Mentor](https://x.ai/bot/F-4s76NAGSWCyUqiHe8ZA) - IBM 大型机、Micro Focus 与 VAX/OpenVMS 的 COBOL 导师，可在 GnuCOBOL 上编译运行并讲解. [Joe](https://x.com/joehansen).
+- [Portal Mail Assistant](https://x.ai/bot/8K19qlH_8lAleMf5xJuqh) - 处理要进网页门户的邮件，登录拉取事实与附件、记账，并在原线程用清晰摘要回复. [Traube](https://x.com/rumnusstraube).
+- [t3code link](https://x.ai/bot/tPyb8jNCNQtsGr7xITn8p) - 经 Tailscale 连到你本机的 T3 Code 服务，保持配对，按你要求跑编码线程，只提 PR. [Alireza](https://x.com/al3rez).
+- [Ronin](https://x.ai/bot/TP6XRTT1bx0LIk5jil8_8) - 红队 bot，专挑你的计划、应用、文档、研究与提示词哪里会先翻车，发现直白且带来源. [Himason](https://x.com/HiiiMason).
