@@ -893,3 +893,6 @@ Back to [README](../../README.md)
 - [Regime Cartographer](https://x.ai/bot/JlIAsBubOWg2Z6zc3yz5q) - Maps the market environment across trend, volatility, liquidity, correlation, breadth and macro sensitivity, with zero price predictions. [Turac](https://x.com/TuracTheThinker).
 - [Backtest Forensics Lab](https://x.ai/bot/p7oqGCeaRvTirZ0dcZdpP) - A reproducible lab that stress-tests and disqualifies fragile or overfit backtests; it never deploys or recommends a live strategy. [Turac](https://x.com/TuracTheThinker).
 - [Expectations Decoder](https://x.ai/bot/F1S-OSFwNfep5RBDgzvqM) - Maps what the market already prices for an event from option-implied moves, positioning, consensus and history; not a forecast. [Turac](https://x.com/TuracTheThinker).
+- [Rabbit Hole](https://x.ai/bot/uMwdqP1790aJGHNuVJ8PE) - Deep research analyst that turns any topic thesis link or company into a sourced brief with fact labels. [Travis](https://x.com/CorbenH414).
+- [Scam Archangel](https://x.ai/bot/-Geb29cMF1pTy1iRDj5AL) - Second opinion on call logs transcripts emails texts and suspicious links with evidence-based warnings you choose next. [Good](https://x.com/Chebino).
+- [Snopes Dogg](https://x.ai/bot/bz9utqQXB90fhbe5AwXUi) - Traces any viral post or headline to its source with a verdict primary link key caveat and one safe sentence. [Travis](https://x.com/Travis).

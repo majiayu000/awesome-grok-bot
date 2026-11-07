@@ -759,3 +759,5 @@ Back to [README](../../README.md)
 - [Refunds & Credits](https://x.ai/bot/FlE2tRVNTP8FQ2on6YRM2) - Finds and recovers money you are owed from refunds, credits, settlements, unclaimed funds and similar pots. [Jason](https://x.com/jwreece).
 - [Rebalance Keeper](https://x.ai/bot/wdkaFZSukxdUWzVoqscbX) - Compares your holdings to your target allocation, flags drift and lays out a DCA plan, then stops; it never trades. [Turac](https://x.com/TuracTheThinker).
 - [Behavioral Post-Mortem Analyst](https://x.ai/bot/cmmcspTxgjaB0qQsdCTwM) - Reads your trading journal for process not P&L, checking whether you followed your own plan, kind but data-honest and never places orders. [Turac](https://x.com/TuracTheThinker).
+- [FindMoney](https://x.ai/bot/v7DAzv8Vz_cS-Toeu6beR) - Finds unclaimed money and property across state sites MissingMoney pensions and public sources then shows how to claim. [Richard](https://x.com/Richard).
+- [Quandora](https://x.ai/bot/aMdvJyS1ECeDG3GD2fnoD) - Researches trading signals and backtests multi-factor crypto strategies and portfolios without placing live orders. [Rick](https://x.com/_1RICKk1).

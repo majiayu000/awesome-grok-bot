@@ -299,3 +299,4 @@
 - [Inbox](https://x.ai/bot/zsnCR-2rKTYLRve6w98Ls) - 把多个 Gmail 收在一处，简要说明哪些要回、哪些账单和日程将至、哪些是噪音. [Bearhugsink](https://x.com/Bearhugsink).
 - [Travel Calendar Sync](https://x.ai/bot/FrCwEP7u_7mRiakVg0HvK) - 盯订票邮件里的航班、酒店与租车，自动更新日历，可给固定人或任意同行发邀请. [Matt](https://x.com/carlinmcFL).
 - [Apple Desk](https://x.ai/bot/LneMGVrkfLOfrJkw283Bs) - 从 Grok Bot 操控 Mac 上的提醒事项、日历、备忘录、通讯录、信息与快捷指令. Daniel.
+- [Email Scam Filter](https://x.ai/bot/MfhUu1dlT8X4fVSUXtydD) - 每天只读扫描 Gmail 给可疑邮件打零到一百的诈骗风险分并用颜色标出. [Travis](https://x.com/Travis).

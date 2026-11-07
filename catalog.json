@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -157543,6 +157543,676 @@
       "updated": "2026-11-06",
       "shelf": "raw",
       "source": "https://x.com/eaxmmt/status/2118534404481970607"
+    },
+    {
+      "slug": "animator",
+      "name": "Animator",
+      "author": {
+        "name": "Nima",
+        "url": "https://x.com/Nima"
+      },
+      "summary": "Turns a motion idea into a multi-scene story-driven animated video in code you can iterate on",
+      "summary_zh": "把一个动效想法写成多场景叙事动画代码方便你反复改",
+      "import": "https://x.ai/bot/Hp85sZKzJNjabj8hakjee",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/nima_owji/status/2118771148187902362"
+    },
+    {
+      "slug": "bills-and-deadlines-guard",
+      "name": "Bills and Deadlines Guard",
+      "author": {
+        "name": "Ellodia",
+        "url": "https://x.com/ElloForo8A"
+      },
+      "summary": "Keeps one list of recurring bills and one-off deadlines, nudges a week out and the day before, never pays or logs into your bank",
+      "summary_zh": "把账单与截止日期收成一张清单提前一周和当天提醒从不付款也不登录银行",
+      "import": "https://x.ai/bot/eFfsS2UVOwEQZSJkK_Gma",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/ElloForo8A/status/2118842601814057004"
+    },
+    {
+      "slug": "botpeek-setup",
+      "name": "BotPeek Setup",
+      "author": {
+        "name": "Denis",
+        "url": "https://x.com/CorbenH414"
+      },
+      "summary": "Installs BotPeek on your Mac so Grok Bot peeks from the screen edge when it needs an answer and walks you through setup",
+      "summary_zh": "在 Mac 上装好 BotPeek 让 Grok Bot 需要你回答时从屏幕边缘探头并带你完成设置",
+      "import": "https://x.ai/bot/RqNY4wgoVGOE2G7MGPWea",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bp26-side-events-autoregister",
+      "name": "BP26 Side Events Autoregister",
+      "author": {
+        "name": "Mathys",
+        "url": "https://x.com/Mathys"
+      },
+      "summary": "Registers you for Solana Breakpoint 2026 London side events on Luma with saved answers, skips paid ones, and rechecks",
+      "summary_zh": "用你存好的答案报名 Solana Breakpoint 2026 伦敦周边活动跳过付费场并复查",
+      "import": "https://x.ai/bot/7HzGMnst8L3s0FFCagfWR",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/mattdgn/status/2118676461364392165"
+    },
+    {
+      "slug": "celeste",
+      "name": "Celeste",
+      "author": {
+        "name": "Ashleigh",
+        "url": "https://x.com/AshleighEWrites"
+      },
+      "summary": "Friendly astrology and numerology guide that writes a personal morning letter for fun not prediction",
+      "summary_zh": "友好的占星与数字命理向导每天写一封趣味晨信不做预测",
+      "import": "https://x.ai/bot/tKiKAdbBSk-FUl7oZIqSD",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/AshleighEWrites/status/2118824179583930695"
+    },
+    {
+      "slug": "drop-watcher",
+      "name": "Drop Watcher",
+      "author": {
+        "name": "Mavro",
+        "url": "https://x.com/Mavro"
+      },
+      "summary": "Keeps a Twitch streamer playing on its own computer to earn drops and messages you when an item is ready to claim",
+      "summary_zh": "在自己的电脑上挂着指定主播帮你刷 Twitch 掉落并在可领取时通知你",
+      "import": "https://x.ai/bot/WmlJtOE9F2h63JGSYIsWJ",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/Bogdan_94/status/2118757923228991954"
+    },
+    {
+      "slug": "email-scam-filter-2",
+      "name": "Email Scam Filter",
+      "author": {
+        "name": "Travis",
+        "url": "https://x.com/Travis"
+      },
+      "summary": "Scans Gmail read-only each morning and scores suspicious mail from 0 to 100 with color-coded scam risk",
+      "summary_zh": "每天只读扫描 Gmail 给可疑邮件打零到一百的诈骗风险分并用颜色标出",
+      "import": "https://x.ai/bot/MfhUu1dlT8X4fVSUXtydD",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/CorbenH414/status/2118759032563356131"
+    },
+    {
+      "slug": "findmoney",
+      "name": "FindMoney",
+      "author": {
+        "name": "Richard",
+        "url": "https://x.com/Richard"
+      },
+      "summary": "Finds unclaimed money and property across state sites MissingMoney pensions and public sources then shows how to claim",
+      "summary_zh": "在各州网站 MissingMoney 养老金等公开源里找无人认领的钱与财产并说明怎么领",
+      "import": "https://x.ai/bot/v7DAzv8Vz_cS-Toeu6beR",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/rburton/status/2118728503067803812"
+    },
+    {
+      "slug": "game-autopilot",
+      "name": "Game Autopilot",
+      "author": {
+        "name": "winch",
+        "url": "https://x.com/winch"
+      },
+      "summary": "Runs dailies quests and farming in browser Telegram and web3 games after a screenshot trial run and never spends without you",
+      "summary_zh": "先截图试跑再帮你刷浏览器 Telegram 与 web3 游戏的日常任务没有你点头从不花钱",
+      "import": "https://x.ai/bot/jw6voppvf9dS3sXR_QUFo",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/winchxyz/status/2118770340411379832"
+    },
+    {
+      "slug": "gatekeeper-2",
+      "name": "Gatekeeper",
+      "author": {
+        "name": "Marcell",
+        "url": "https://x.com/Marcellhazzard"
+      },
+      "summary": "Home network admin that watches Wi-Fi router and devices tracks slow or dropped links and proposes fixes you approve",
+      "summary_zh": "看家用 Wi-Fi 路由与设备标出变慢或掉线并提出要你批准的修复",
+      "import": "https://x.ai/bot/Crr1UQcVzVwOIdnFjobGF",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/Marcellhazzard/status/2118708008867987542"
+    },
+    {
+      "slug": "gork-2",
+      "name": "Gork",
+      "author": {
+        "name": "Travis",
+        "url": "https://x.com/Travis"
+      },
+      "summary": "Text-adventure narrator in the Infocom Zork spirit that replies in prose when you type commands like GO NORTH",
+      "summary_zh": "Infocom 风格文字冒险旁白你输入 GO NORTH 这类指令它用散文回应",
+      "import": "https://x.ai/bot/fLejPwaj2nZNk-J-gnHzW",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/TravisHillLPC/status/2118705429291376696"
+    },
+    {
+      "slug": "grok-bot-efficiency-optimizer-2",
+      "name": "Grok Bot Efficiency Optimizer",
+      "author": {
+        "name": "MCFABULOUSFAB",
+        "url": "https://x.com/MCFABULOUSFAB"
+      },
+      "summary": "Reviews what your bots and routines burn and suggests clearer prompts and cuts so weekly usage lasts longer",
+      "summary_zh": "复盘各 bot 与例程的用量并给出更干净的提示与裁剪建议让周额度更耐用",
+      "import": "https://x.ai/bot/fm3pNKUAtn01kmLPhmhwu",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/FabGeorjon/status/2118765740392055109"
+    },
+    {
+      "slug": "grok-bot-usage-optimizer",
+      "name": "Grok Bot Usage Optimizer",
+      "author": {
+        "name": "Steve",
+        "url": "https://x.com/Steve"
+      },
+      "summary": "Shows where this week Grok Bot usage goes on a refreshable page split by bot and by chats versus routines",
+      "summary_zh": "在可刷新页面上按 bot 以及聊天与例程拆开展示本周用量去向",
+      "import": "https://x.ai/bot/ELO-JlArhJz08-sGEfBa5",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/steveDOTplus/status/2118717971971600407"
+    },
+    {
+      "slug": "grokbot-zone-mcp",
+      "name": "Grokbot.zone MCP",
+      "author": {
+        "name": "Shagghie",
+        "url": "https://x.com/Shagghie"
+      },
+      "summary": "Finds Grok bots for your goals on grokbot.zone lists bots you built and can submit templates via MCP",
+      "summary_zh": "按目标在 grokbot.zone 找 bot 列出你做过的模板并可用 MCP 提交",
+      "import": "https://x.ai/bot/CR-fivgIY1F5kq8Kb3ags",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/PixelRainbowNFT/status/2118824543318085937"
+    },
+    {
+      "slug": "happy-narrator-dude-v16",
+      "name": "Happy Narrator Dude v16",
+      "author": {
+        "name": "Sean",
+        "url": "https://x.com/Sean"
+      },
+      "summary": "PG guide to the Happy daily story set at Canoga Park High from 1980 to 1983 answering lore questions in character",
+      "summary_zh": "用友善分级语言讲解 Happy 里一九八零到八三年 Canoga Park 高中故事并答设定问",
+      "import": "https://x.ai/bot/DSEVMXqieyZsifLeO40ok",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/CanogaParkHappy/status/2118844180633907382"
+    },
+    {
+      "slug": "home-organization-and-decorator",
+      "name": "Home Organization and Decorator",
+      "author": {
+        "name": "Bryan",
+        "url": "https://x.com/Bryan"
+      },
+      "summary": "Works from your real room photos to organize clutter improve everyday function and suggest practical decor",
+      "summary_zh": "按你真实房间照片整理杂物改善日常动线并给出务实的布置建议",
+      "import": "https://x.ai/bot/pWuQPVgp7-NqliTE0czIp",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/BeBryanMichaels/status/2118768907674693829"
+    },
+    {
+      "slug": "idea-bot",
+      "name": "Idea Bot",
+      "author": {
+        "name": "ALK",
+        "url": "https://x.com/ALK"
+      },
+      "summary": "Finds and validates business ideas daily kills weak ones fast and brings only ones worth a zero-dollar test",
+      "summary_zh": "每天找并验证商业点子快速砍掉弱的只留下值得零成本试的",
+      "import": "https://x.ai/bot/rTZQlYcR-FB2JoGsk5GXh",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/ALKTrading/status/2118743305110339612"
+    },
+    {
+      "slug": "orgobot",
+      "name": "OrgoBot",
+      "author": {
+        "name": "Nicholas",
+        "url": "https://x.com/nickvasilescu"
+      },
+      "summary": "Gives agents their own Orgo cloud computer for shell screenshots files and computer-use then tears it down",
+      "summary_zh": "给 agent 各自一台 Orgo 云电脑跑 shell 截图文件与键鼠操作用完再拆掉",
+      "import": "https://x.ai/bot/INhNj6FhTywM0GNehFavt",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/nickvasilescu/status/2118843746934722954"
+    },
+    {
+      "slug": "quandora",
+      "name": "Quandora",
+      "author": {
+        "name": "Rick",
+        "url": "https://x.com/_1RICKk1"
+      },
+      "summary": "Researches trading signals and backtests multi-factor crypto strategies and portfolios without placing live orders",
+      "summary_zh": "研究交易信号并回测加密多因子策略与组合不下真实单",
+      "import": "https://x.ai/bot/aMdvJyS1ECeDG3GD2fnoD",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "rabbit-hole",
+      "name": "Rabbit Hole",
+      "author": {
+        "name": "Travis",
+        "url": "https://x.com/CorbenH414"
+      },
+      "summary": "Deep research analyst that turns any topic thesis link or company into a sourced brief with fact labels",
+      "summary_zh": "把任意主题论点链接或公司挖成带出处的简报并为每点标事实等级",
+      "import": "https://x.ai/bot/uMwdqP1790aJGHNuVJ8PE",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw"
+    },
+    {
+      "slug": "rat",
+      "name": "Rat",
+      "author": {
+        "name": "Jonto",
+        "url": "https://x.com/Jonto"
+      },
+      "summary": "Grok Bot you message over Ratspeak on the Reticulum LXMF off-grid mesh with an always-on bridge",
+      "summary_zh": "通过 Reticulum LXMF 离网 mesh 的 Ratspeak 收发消息并跑常驻桥接",
+      "import": "https://x.ai/bot/eWyEVP-kY8b9t3bp9P6Wk",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/jonto21/status/2118741747765494123"
+    },
+    {
+      "slug": "reverse-website-swarm",
+      "name": "Reverse Website Swarm",
+      "author": {
+        "name": "monokern",
+        "url": "https://x.com/monokern"
+      },
+      "summary": "Studies how a website is built and crafts a working copy with Craft Anything from a URL or brief",
+      "summary_zh": "研究网站怎么搭成再用 Craft Anything 按链接或简述做出可运行的副本",
+      "import": "https://x.ai/bot/43Pa_W8af71QSWZkb90m8",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/monokern/status/2118689671580471356"
+    },
+    {
+      "slug": "riffrow",
+      "name": "Riffrow",
+      "author": {
+        "name": "Wayne",
+        "url": "https://x.com/wikiwayne"
+      },
+      "summary": "MST3K-style riff bot that takes a clip writes a three-character riff script voices it and renders theater video",
+      "summary_zh": "神秘科学剧院风格吐槽把片段写成三人剧本配音并渲成剧场视频",
+      "import": "https://x.ai/bot/2_uBthmv20DacnSl1bAAu",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/wikiwayne/status/2118829528911081924"
+    },
+    {
+      "slug": "routinizer",
+      "name": "Routinizer",
+      "author": {
+        "name": "Ivan",
+        "url": "https://x.com/Ivan"
+      },
+      "summary": "Finds work other bots redo from scratch daily and turns it into background Python that only wakes AI when needed",
+      "summary_zh": "找出其它 bot 每天从头重做的活改成后台 Python 只在需要时叫醒 AI",
+      "import": "https://x.ai/bot/QIxjmlkTZr7SJbS599gWe",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/RobOps_xyz/status/2118702263342666136"
+    },
+    {
+      "slug": "scam-archangel",
+      "name": "Scam Archangel",
+      "author": {
+        "name": "Good",
+        "url": "https://x.com/Chebino"
+      },
+      "summary": "Second opinion on call logs transcripts emails texts and suspicious links with evidence-based warnings you choose next",
+      "summary_zh": "对通话记录邮件短信与可疑链接给基于证据的二次意见并让你选下一步",
+      "import": "https://x.ai/bot/-Geb29cMF1pTy1iRDj5AL",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/Chebino/status/2118826263863316561"
+    },
+    {
+      "slug": "security-and-privacy",
+      "name": "Security and Privacy",
+      "author": {
+        "name": "NicholasGibbs",
+        "url": "https://x.com/NicholasGibbs"
+      },
+      "summary": "Finds X accounts impersonating you reports them and keeps watching if they stay up or only change a photo",
+      "summary_zh": "找出冒充你的 X 账号去举报并持续盯是否还在或只改了头像",
+      "import": "https://x.ai/bot/_lfnP-J1qucMZEfgyEFQO",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/NickGibbsIAG/status/2118803177340379481"
+    },
+    {
+      "slug": "snopes-dogg",
+      "name": "Snopes Dogg",
+      "author": {
+        "name": "Travis",
+        "url": "https://x.com/Travis"
+      },
+      "summary": "Traces any viral post or headline to its source with a verdict primary link key caveat and one safe sentence",
+      "summary_zh": "把热帖或标题追到源头给出裁决主链接关键保留与一句稳妥表述",
+      "import": "https://x.ai/bot/bz9utqQXB90fhbe5AwXUi",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/CorbenH414/status/2118759032563356131"
+    },
+    {
+      "slug": "superledger",
+      "name": "SuperLedger",
+      "author": {
+        "name": "Bill",
+        "url": "https://x.com/bfrench"
+      },
+      "summary": "Shared deterministic memory for your team and Grok Bots in one Coda doc with formula gates and human approvals",
+      "summary_zh": "在一份 Coda 文档里给团队与 Grok Bot 共享确定性记忆用公式门控和人工批准",
+      "import": "https://x.ai/bot/u2Eywod5aeGH3a-YU0rZB",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/bfrench/status/2118833502783234132"
+    },
+    {
+      "slug": "system-one-model-expert-2",
+      "name": "System One model expert",
+      "author": {
+        "name": "Shagghie",
+        "url": "https://x.com/Shagghie"
+      },
+      "summary": "Finds where fast System One models like Jev Clef Clairic Decisions and peers can replace slower calls safely",
+      "summary_zh": "找出 Jev Clef Clairic Decisions 等快模型能安全替掉慢调用的位置",
+      "import": "https://x.ai/bot/OvqA8fIxj_psVxfBghP5f",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/PixelRainbowNFT/status/2118732252716966094"
+    },
+    {
+      "slug": "texas-homestead-exemption-helper",
+      "name": "Texas Homestead Exemption Helper",
+      "author": {
+        "name": "Tek",
+        "url": "https://x.com/Tek"
+      },
+      "summary": "Helps Texas homeowners check missing Residence Homestead Exemption and spot costly fee refund mailers",
+      "summary_zh": "帮德州房主核对是否漏办住宅宅地免税并识别高收费退税推销信",
+      "import": "https://x.ai/bot/kye2ywkDeCuXQ8VXstvHc",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/adsilva264/status/2118769512669749748"
+    },
+    {
+      "slug": "boycott-sponsor-mailer",
+      "name": "Boycott Sponsor Mailer",
+      "author": {
+        "name": "Adam",
+        "url": "https://x.com/AdamLowisz"
+      },
+      "summary": "Drafts emails to companies sponsoring a target so you can review and send a boycott ask yourself",
+      "summary_zh": "给赞助某对象的公司起草抵制邮件由你审阅后再亲自发送",
+      "import": "https://x.ai/bot/eNMapsYhwVrk1Y3D_7w_a",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/AdamLowisz/status/2118859493832343574"
+    },
+    {
+      "slug": "post-copy-watcher",
+      "name": "Post Copy Watcher",
+      "author": {
+        "name": "Mr",
+        "url": "https://x.com/MrTacticalX"
+      },
+      "summary": "Watches your original videos images and text daily and messages you only when it finds a likely uncredited copy",
+      "summary_zh": "每天盯你的原创视频图文只在发现疑似未署名搬运时通知你",
+      "import": "https://x.ai/bot/dn8ndRg7Re50JS0hruwso",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/MrTacticalX/status/2118859989770989812"
     }
   ]
 }

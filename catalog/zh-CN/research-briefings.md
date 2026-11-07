@@ -893,3 +893,6 @@
 - [Regime Cartographer](https://x.ai/bot/JlIAsBubOWg2Z6zc3yz5q) - 从趋势波动流动性相关性广度与宏观敏感度刻画当前市场环境不做价格预测. [Turac](https://x.com/TuracTheThinker).
 - [Backtest Forensics Lab](https://x.ai/bot/p7oqGCeaRvTirZ0dcZdpP) - 可复现的回测法医室用来压测并淘汰过拟合或不稳的策略从不部署或推荐实盘. [Turac](https://x.com/TuracTheThinker).
 - [Expectations Decoder](https://x.ai/bot/F1S-OSFwNfep5RBDgzvqM) - 用有出处的期权隐含波动仓位共识与历史画出市场已定价的事件预期图不是预测会发生什么. [Turac](https://x.com/TuracTheThinker).
+- [Rabbit Hole](https://x.ai/bot/uMwdqP1790aJGHNuVJ8PE) - 把任意主题论点链接或公司挖成带出处的简报并为每点标事实等级. [Travis](https://x.com/CorbenH414).
+- [Scam Archangel](https://x.ai/bot/-Geb29cMF1pTy1iRDj5AL) - 对通话记录邮件短信与可疑链接给基于证据的二次意见并让你选下一步. [Good](https://x.com/Chebino).
+- [Snopes Dogg](https://x.ai/bot/bz9utqQXB90fhbe5AwXUi) - 把热帖或标题追到源头给出裁决主链接关键保留与一句稳妥表述. [Travis](https://x.com/Travis).

@@ -979,3 +979,6 @@
 - [Story Engine](https://x.ai/bot/UJbGPlw9cJaUqO3mNoYKJ) - 端到端跑你的内容流水线，从每日选题信号到可发布的草稿. [Mo](https://x.com/moe_cherif).
 - [راصد](https://x.ai/bot/udiVmKRceOw1lWUyQECLC) - X 增长管家，用你的语气写短文案，跟踪时机与表现，并建议下一条发什么. [Barrak](https://x.com/BarrakAli).
 - [Drafter](https://x.ai/bot/WBhcFoClSD5T9ZgB7NkYv) - 先问清真实细节再帮开发者写产品发布功能预告更新与 Grok Bot 上线用的真人味 X 帖. [mmt](https://x.com/eaxmmt).
+- [Animator](https://x.ai/bot/Hp85sZKzJNjabj8hakjee) - 把一个动效想法写成多场景叙事动画代码方便你反复改. [Nima](https://x.com/Nima).
+- [Riffrow](https://x.ai/bot/2_uBthmv20DacnSl1bAAu) - 神秘科学剧院风格吐槽把片段写成三人剧本配音并渲成剧场视频. [Wayne](https://x.com/wikiwayne).
+- [Post Copy Watcher](https://x.ai/bot/dn8ndRg7Re50JS0hruwso) - 每天盯你的原创视频图文只在发现疑似未署名搬运时通知你. [Mr](https://x.com/MrTacticalX).

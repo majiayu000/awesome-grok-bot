@@ -299,3 +299,4 @@ Back to [README](../../README.md)
 - [Inbox](https://x.ai/bot/zsnCR-2rKTYLRve6w98Ls) - Keeps all your Gmail accounts in one place. Get a short briefing on what needs a reply, which bills and appointments are coming, and what's noise, plus... [Bearhugsink](https://x.com/Bearhugsink).
 - [Travel Calendar Sync](https://x.ai/bot/FrCwEP7u_7mRiakVg0HvK) - Watches your booking emails for flights, hotels, and rental cars, then keeps your calendar up to date with optional invites for a fixed person or anyone... [Matt](https://x.com/carlinmcFL).
 - [Apple Desk](https://x.ai/bot/LneMGVrkfLOfrJkw283Bs) - Runs your Mac Apple apps like Reminders, Calendar, Notes, Contacts, Messages and Shortcuts from Grok Bot. Daniel.
+- [Email Scam Filter](https://x.ai/bot/MfhUu1dlT8X4fVSUXtydD) - Scans Gmail read-only each morning and scores suspicious mail from 0 to 100 with color-coded scam risk. [Travis](https://x.com/Travis).

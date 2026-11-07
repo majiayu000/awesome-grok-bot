@@ -759,3 +759,5 @@
 - [Refunds & Credits](https://x.ai/bot/FlE2tRVNTP8FQ2on6YRM2) - 找出并追回你该拿回的钱，覆盖退款、积分、和解金与无人认领资金等. [Jason](https://x.com/jwreece).
 - [Rebalance Keeper](https://x.ai/bot/wdkaFZSukxdUWzVoqscbX) - 对照目标仓位检查持仓并标出偏离给出定投计划后停下从不下单. [Turac](https://x.com/TuracTheThinker).
 - [Behavioral Post-Mortem Analyst](https://x.ai/bot/cmmcspTxgjaB0qQsdCTwM) - 按过程而非盈亏读你的交易日志核对你是否按自己的计划执行语气温和但有数据从不下单. [Turac](https://x.com/TuracTheThinker).
+- [FindMoney](https://x.ai/bot/v7DAzv8Vz_cS-Toeu6beR) - 在各州网站 MissingMoney 养老金等公开源里找无人认领的钱与财产并说明怎么领. [Richard](https://x.com/Richard).
+- [Quandora](https://x.ai/bot/aMdvJyS1ECeDG3GD2fnoD) - 研究交易信号并回测加密多因子策略与组合不下真实单. [Rick](https://x.com/_1RICKk1).

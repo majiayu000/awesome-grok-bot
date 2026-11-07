@@ -931,3 +931,6 @@
 - [Griller](https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT) - 写代码前用短评挑破产品构想、架构与难决策里的硬伤. [mmt](https://x.com/eaxmmt).
 - [UX/UI Designer](https://x.ai/bot/DWorDFJGA-RbMCvTpewU8) - 专做移动与网页界面的视觉层可按现代极简或指定风格先出规格再改文件并优先无障碍. [mr.robot](https://x.com/mr_robot777).
 - [Design Systems](https://x.ai/bot/C9_sXN7trbw5bSj_mD5VL) - 为桌面与网页产品搭设计系统结构含 token、组件库、组件规格、文档、流程与信息架构. [mr.robot](https://x.com/mr_robot777).
+- [OrgoBot](https://x.ai/bot/INhNj6FhTywM0GNehFavt) - 给 agent 各自一台 Orgo 云电脑跑 shell 截图文件与键鼠操作用完再拆掉. [Nicholas](https://x.com/nickvasilescu).
+- [Reverse Website Swarm](https://x.ai/bot/43Pa_W8af71QSWZkb90m8) - 研究网站怎么搭成再用 Craft Anything 按链接或简述做出可运行的副本. [monokern](https://x.com/monokern).
+- [System One model expert](https://x.ai/bot/OvqA8fIxj_psVxfBghP5f) - 找出 Jev Clef Clairic Decisions 等快模型能安全替掉慢调用的位置. [Shagghie](https://x.com/Shagghie).

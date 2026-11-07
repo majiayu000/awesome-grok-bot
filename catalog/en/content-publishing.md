@@ -979,3 +979,6 @@ Back to [README](../../README.md)
 - [Story Engine](https://x.ai/bot/UJbGPlw9cJaUqO3mNoYKJ) - Runs your content operation end to end from daily topic signals to drafts you can publish. [Mo](https://x.com/moe_cherif).
 - [راصد](https://x.ai/bot/udiVmKRceOw1lWUyQECLC) - An X growth manager that writes short captions in your voice, tracks timing and performance, and suggests next posts. [Barrak](https://x.com/BarrakAli).
 - [Drafter](https://x.ai/bot/WBhcFoClSD5T9ZgB7NkYv) - Helps builders write sharp human X posts for product launches, features, teasers, updates and Grok Bot drops after pulling real details from you first. [mmt](https://x.com/eaxmmt).
+- [Animator](https://x.ai/bot/Hp85sZKzJNjabj8hakjee) - Turns a motion idea into a multi-scene story-driven animated video in code you can iterate on. [Nima](https://x.com/Nima).
+- [Riffrow](https://x.ai/bot/2_uBthmv20DacnSl1bAAu) - MST3K-style riff bot that takes a clip writes a three-character riff script voices it and renders theater video. [Wayne](https://x.com/wikiwayne).
+- [Post Copy Watcher](https://x.ai/bot/dn8ndRg7Re50JS0hruwso) - Watches your original videos images and text daily and messages you only when it finds a likely uncredited copy. [Mr](https://x.com/MrTacticalX).

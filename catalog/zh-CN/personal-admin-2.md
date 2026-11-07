@@ -65,3 +65,14 @@
 - [Personal Assistant](https://x.ai/bot/B3AttkbVWNwzwYxyh-HQr) - 带工作求职、收件箱、购物与清单四个台面的总管 bot，帮你协调这些日常. K.
 - [hey studu](https://x.ai/bot/Y7XcWxxva_Quw1A1OG_hu) - 先访谈你的学习方式，再搭一个含课程、路线图与收件箱的免费学习应用. Clarke.
 - [JK 数字花园](https://x.ai/bot/gdq_d-d9OCnnREs3VwGdV) - 双层数字花园，flomo 当内存、本机 Obsidian 当硬盘，管推文剪藏与常青笔记. [jacky](https://x.com/Jackywine).
+- [Bills and Deadlines Guard](https://x.ai/bot/eFfsS2UVOwEQZSJkK_Gma) - 把账单与截止日期收成一张清单提前一周和当天提醒从不付款也不登录银行. [Ellodia](https://x.com/ElloForo8A).
+- [BP26 Side Events Autoregister](https://x.ai/bot/7HzGMnst8L3s0FFCagfWR) - 用你存好的答案报名 Solana Breakpoint 2026 伦敦周边活动跳过付费场并复查. [Mathys](https://x.com/Mathys).
+- [Celeste](https://x.ai/bot/tKiKAdbBSk-FUl7oZIqSD) - 友好的占星与数字命理向导每天写一封趣味晨信不做预测. [Ashleigh](https://x.com/AshleighEWrites).
+- [Drop Watcher](https://x.ai/bot/WmlJtOE9F2h63JGSYIsWJ) - 在自己的电脑上挂着指定主播帮你刷 Twitch 掉落并在可领取时通知你. [Mavro](https://x.com/Mavro).
+- [Game Autopilot](https://x.ai/bot/jw6voppvf9dS3sXR_QUFo) - 先截图试跑再帮你刷浏览器 Telegram 与 web3 游戏的日常任务没有你点头从不花钱. [winch](https://x.com/winch).
+- [Gatekeeper](https://x.ai/bot/Crr1UQcVzVwOIdnFjobGF) - 看家用 Wi-Fi 路由与设备标出变慢或掉线并提出要你批准的修复. [Marcell](https://x.com/Marcellhazzard).
+- [Gork](https://x.ai/bot/fLejPwaj2nZNk-J-gnHzW) - Infocom 风格文字冒险旁白你输入 GO NORTH 这类指令它用散文回应. [Travis](https://x.com/Travis).
+- [Happy Narrator Dude v16](https://x.ai/bot/DSEVMXqieyZsifLeO40ok) - 用友善分级语言讲解 Happy 里一九八零到八三年 Canoga Park 高中故事并答设定问. [Sean](https://x.com/Sean).
+- [Home Organization and Decorator](https://x.ai/bot/pWuQPVgp7-NqliTE0czIp) - 按你真实房间照片整理杂物改善日常动线并给出务实的布置建议. [Bryan](https://x.com/Bryan).
+- [Security and Privacy](https://x.ai/bot/_lfnP-J1qucMZEfgyEFQO) - 找出冒充你的 X 账号去举报并持续盯是否还在或只改了头像. [NicholasGibbs](https://x.com/NicholasGibbs).
+- [Texas Homestead Exemption Helper](https://x.ai/bot/kye2ywkDeCuXQ8VXstvHc) - 帮德州房主核对是否漏办住宅宅地免税并识别高收费退税推销信. [Tek](https://x.com/Tek).

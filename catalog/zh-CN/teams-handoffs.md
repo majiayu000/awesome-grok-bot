@@ -841,3 +841,10 @@
 - [Shell CPR](https://x.ai/bot/KrJnZOz6of3i8xIK7vxFc) - 找出聊天上下文臃肿、空烧额度的 Grok Bot，经你确认后换上干净的新壳. [Leoskie_L](https://x.com/Leoskie_L).
 - [Usage Coach](https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi) - 每周教练式复盘你的 Grok Bot 用法，对照实际工作提出省用量的改法. [Wilbur](https://x.com/WilburJaywright).
 - [Muse引き継ぎ](https://x.ai/bot/7VMwTpyn0YjJkAi7cf71i) - 把进行中的 Grok Bot 工作整理成交给 muse.ai 的交接书与开工指示不发送不公开不付款不合并. [わだ](https://x.com/da21aw).
+- [BotPeek Setup](https://x.ai/bot/RqNY4wgoVGOE2G7MGPWea) - 在 Mac 上装好 BotPeek 让 Grok Bot 需要你回答时从屏幕边缘探头并带你完成设置. [Denis](https://x.com/CorbenH414).
+- [Grok Bot Efficiency Optimizer](https://x.ai/bot/fm3pNKUAtn01kmLPhmhwu) - 复盘各 bot 与例程的用量并给出更干净的提示与裁剪建议让周额度更耐用. [MCFABULOUSFAB](https://x.com/MCFABULOUSFAB).
+- [Grok Bot Usage Optimizer](https://x.ai/bot/ELO-JlArhJz08-sGEfBa5) - 在可刷新页面上按 bot 以及聊天与例程拆开展示本周用量去向. [Steve](https://x.com/Steve).
+- [Grokbot.zone MCP](https://x.ai/bot/CR-fivgIY1F5kq8Kb3ags) - 按目标在 grokbot.zone 找 bot 列出你做过的模板并可用 MCP 提交. [Shagghie](https://x.com/Shagghie).
+- [Rat](https://x.ai/bot/eWyEVP-kY8b9t3bp9P6Wk) - 通过 Reticulum LXMF 离网 mesh 的 Ratspeak 收发消息并跑常驻桥接. [Jonto](https://x.com/Jonto).
+- [Routinizer](https://x.ai/bot/QIxjmlkTZr7SJbS599gWe) - 找出其它 bot 每天从头重做的活改成后台 Python 只在需要时叫醒 AI. [Ivan](https://x.com/Ivan).
+- [SuperLedger](https://x.ai/bot/u2Eywod5aeGH3a-YU0rZB) - 在一份 Coda 文档里给团队与 Grok Bot 共享确定性记忆用公式门控和人工批准. [Bill](https://x.com/bfrench).

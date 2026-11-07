@@ -931,3 +931,6 @@ Back to [README](../../README.md)
 - [Griller](https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT) - A concise critic that pokes holes in product ideas, architecture and tough decisions before you write code. [mmt](https://x.com/eaxmmt).
 - [UX/UI Designer](https://x.ai/bot/DWorDFJGA-RbMCvTpewU8) - Designs the visual layer of mobile and web interfaces in modern, minimal or any named style, accessibility-first, with specs before any file edits. [mr.robot](https://x.com/mr_robot777).
 - [Design Systems](https://x.ai/bot/C9_sXN7trbw5bSj_mD5VL) - Builds design-system structure for desktop and web products\: tokens, component libraries, component specs, documentation, flows and IA. [mr.robot](https://x.com/mr_robot777).
+- [OrgoBot](https://x.ai/bot/INhNj6FhTywM0GNehFavt) - Gives agents their own Orgo cloud computer for shell screenshots files and computer-use then tears it down. [Nicholas](https://x.com/nickvasilescu).
+- [Reverse Website Swarm](https://x.ai/bot/43Pa_W8af71QSWZkb90m8) - Studies how a website is built and crafts a working copy with Craft Anything from a URL or brief. [monokern](https://x.com/monokern).
+- [System One model expert](https://x.ai/bot/OvqA8fIxj_psVxfBghP5f) - Finds where fast System One models like Jev Clef Clairic Decisions and peers can replace slower calls safely. [Shagghie](https://x.com/Shagghie).

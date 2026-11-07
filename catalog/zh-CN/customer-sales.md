@@ -603,3 +603,5 @@
 - [Hilo · Gestor de Oportunidades](https://x.ai/bot/emVFqy7IGl2DFJBue2pNf) - 从邮件、日历、Slack 与 Teams 管理 Hilo CRM 商机，记流水线、准备跟进并复盘. [dollarbillj](https://x.com/jrodrigocoronel).
 - [Keyword Tagging Suite](https://x.ai/bot/mA92FsTcyDVegzVf7BZcz) - 亚马逊关键词打标，覆盖 ABA 原子标签、SIF 需求到广告结构，以及搜索词特征词经济性. [Emily](https://x.com/starai82685).
 - [LinkedIn Prospector](https://x.ai/bot/Ls_S-fd1NhZ3xdXxFfxo5) - B2B LinkedIn 拓客，每个工作日找符合画像的人，起草连接语和首条私信，只发你批准的. [Kyle](https://x.com/KGtheGent88).
+- [Idea Bot](https://x.ai/bot/rTZQlYcR-FB2JoGsk5GXh) - 每天找并验证商业点子快速砍掉弱的只留下值得零成本试的. [ALK](https://x.com/ALK).
+- [Boycott Sponsor Mailer](https://x.ai/bot/eNMapsYhwVrk1Y3D_7w_a) - 给赞助某对象的公司起草抵制邮件由你审阅后再亲自发送. [Adam](https://x.com/AdamLowisz).

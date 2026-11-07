@@ -841,3 +841,10 @@ Back to [README](../../README.md)
 - [Shell CPR](https://x.ai/bot/KrJnZOz6of3i8xIK7vxFc) - Finds Grok Bots whose chat context is bloated and burning tokens, then swaps in a fresh shell when you approve. [Leoskie_L](https://x.com/Leoskie_L).
 - [Usage Coach](https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi) - A weekly coach for your Grok Bot setup that reviews how you and your bots work and suggests usage fixes. [Wilbur](https://x.com/WilburJaywright).
 - [Muse引き継ぎ](https://x.ai/bot/7VMwTpyn0YjJkAi7cf71i) - Turns in-progress Grok Bot work into a handoff brief and start instructions for muse.ai; it does not send, publish, pay or merge. [わだ](https://x.com/da21aw).
+- [BotPeek Setup](https://x.ai/bot/RqNY4wgoVGOE2G7MGPWea) - Installs BotPeek on your Mac so Grok Bot peeks from the screen edge when it needs an answer and walks you through setup. [Denis](https://x.com/CorbenH414).
+- [Grok Bot Efficiency Optimizer](https://x.ai/bot/fm3pNKUAtn01kmLPhmhwu) - Reviews what your bots and routines burn and suggests clearer prompts and cuts so weekly usage lasts longer. [MCFABULOUSFAB](https://x.com/MCFABULOUSFAB).
+- [Grok Bot Usage Optimizer](https://x.ai/bot/ELO-JlArhJz08-sGEfBa5) - Shows where this week Grok Bot usage goes on a refreshable page split by bot and by chats versus routines. [Steve](https://x.com/Steve).
+- [Grokbot.zone MCP](https://x.ai/bot/CR-fivgIY1F5kq8Kb3ags) - Finds Grok bots for your goals on grokbot.zone lists bots you built and can submit templates via MCP. [Shagghie](https://x.com/Shagghie).
+- [Rat](https://x.ai/bot/eWyEVP-kY8b9t3bp9P6Wk) - Grok Bot you message over Ratspeak on the Reticulum LXMF off-grid mesh with an always-on bridge. [Jonto](https://x.com/Jonto).
+- [Routinizer](https://x.ai/bot/QIxjmlkTZr7SJbS599gWe) - Finds work other bots redo from scratch daily and turns it into background Python that only wakes AI when needed. [Ivan](https://x.com/Ivan).
+- [SuperLedger](https://x.ai/bot/u2Eywod5aeGH3a-YU0rZB) - Shared deterministic memory for your team and Grok Bots in one Coda doc with formula gates and human approvals. [Bill](https://x.com/bfrench).
