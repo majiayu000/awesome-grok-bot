@@ -896,3 +896,4 @@ Back to [README](../../README.md)
 - [Rabbit Hole](https://x.ai/bot/uMwdqP1790aJGHNuVJ8PE) - Deep research analyst that turns any topic thesis link or company into a sourced brief with fact labels. [Travis](https://x.com/CorbenH414).
 - [Scam Archangel](https://x.ai/bot/-Geb29cMF1pTy1iRDj5AL) - Second opinion on call logs transcripts emails texts and suspicious links with evidence-based warnings you choose next. [Good](https://x.com/Chebino).
 - [Snopes Dogg](https://x.ai/bot/bz9utqQXB90fhbe5AwXUi) - Traces any viral post or headline to its source with a verdict primary link key caveat and one safe sentence. [Travis](https://x.com/Travis).
+- [Local GOP Guide](https://x.ai/bot/nqankoYfy4ny_PXIREIgj) - Finds public Republican Party meetings in your state and explains precinct roles, committees and election procedures. [Jacob](https://x.com/ConsideringNH).

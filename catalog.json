@@ -158213,6 +158213,111 @@
       "updated": "2026-11-07",
       "shelf": "raw",
       "source": "https://x.com/MrTacticalX/status/2118859989770989812"
+    },
+    {
+      "slug": "blender-worlds",
+      "name": "Blender Worlds",
+      "author": {
+        "name": "Denny",
+        "url": "https://x.com/Teslasintheshop"
+      },
+      "summary": "Turns your floor plan, site photos and open terrain data into Blender 3D mockups with a private walk-around viewer",
+      "summary_zh": "把平面图和现场照片加上公开地形数据做成 Blender 三维模型并附带可走动浏览的私密查看器",
+      "import": "https://x.ai/bot/jkqV2JOccGju3PTwbXwK4",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/Teslasintheshop/status/2118971199577313408"
+    },
+    {
+      "slug": "local-gop-guide",
+      "name": "Local GOP Guide",
+      "author": {
+        "name": "Jacob",
+        "url": "https://x.com/ConsideringNH"
+      },
+      "summary": "Finds public Republican Party meetings in your state and explains precinct roles, committees and election procedures",
+      "summary_zh": "查找你所在州的共和党公开会议并讲清选区职位和委员会及选举流程",
+      "import": "https://x.ai/bot/nqankoYfy4ny_PXIREIgj",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/ConsideringNH/status/2118893180750123505"
+    },
+    {
+      "slug": "sentinel-elite-ai-cybersecurity-commander",
+      "name": "SENTINEL · Elite AI Cybersecurity Commander",
+      "author": {
+        "name": "sam",
+        "url": "https://x.com/lucassam888"
+      },
+      "summary": "Evidence-first security assistant for founders and small teams that reviews code, secrets and website security",
+      "summary_zh": "面向创始人和小团队的安全助手，基于证据审查代码和密钥以及网站安全",
+      "import": "https://x.ai/bot/AtrEsUmXIyOYzTi_9S8pN",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/lucassam888/status/2118923430729027643"
+    },
+    {
+      "slug": "evening-resolution-tracker",
+      "name": "Evening Resolution Tracker",
+      "author": {
+        "name": "Cleetus",
+        "url": "https://x.com/175rng"
+      },
+      "summary": "Leads a short evening examination of conscience with the Act of Contrition and asks for one concrete resolution for tomorrow",
+      "summary_zh": "每晚带你做简短的良心省察和痛悔经并请你定下第二天的一个具体决心",
+      "import": "https://x.ai/bot/6Vt9-JCeDtZSAzhdOmeG8",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/175rng/status/2118923970636337663"
+    },
+    {
+      "slug": "zoom-meeting-companion",
+      "name": "Zoom Meeting Companion",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/cu30rry_"
+      },
+      "summary": "Joins your Zoom meetings from a link or your calendar, takes detailed notes and tracks decisions and action items",
+      "summary_zh": "从链接或日历加入你的 Zoom 会议，记录详细笔记并跟踪决定和待办事项",
+      "import": "https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-07",
+      "shelf": "raw",
+      "source": "https://x.com/cu30rry_/status/2118902510991634850"
     }
   ]
 }

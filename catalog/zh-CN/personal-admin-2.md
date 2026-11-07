@@ -76,3 +76,5 @@
 - [Home Organization and Decorator](https://x.ai/bot/pWuQPVgp7-NqliTE0czIp) - 按你真实房间照片整理杂物改善日常动线并给出务实的布置建议. [Bryan](https://x.com/Bryan).
 - [Security and Privacy](https://x.ai/bot/_lfnP-J1qucMZEfgyEFQO) - 找出冒充你的 X 账号去举报并持续盯是否还在或只改了头像. [NicholasGibbs](https://x.com/NicholasGibbs).
 - [Texas Homestead Exemption Helper](https://x.ai/bot/kye2ywkDeCuXQ8VXstvHc) - 帮德州房主核对是否漏办住宅宅地免税并识别高收费退税推销信. [Tek](https://x.com/Tek).
+- [Blender Worlds](https://x.ai/bot/jkqV2JOccGju3PTwbXwK4) - 把平面图和现场照片加上公开地形数据做成 Blender 三维模型并附带可走动浏览的私密查看器. [Denny](https://x.com/Teslasintheshop).
+- [Evening Resolution Tracker](https://x.ai/bot/6Vt9-JCeDtZSAzhdOmeG8) - 每晚带你做简短的良心省察和痛悔经并请你定下第二天的一个具体决心. [Cleetus](https://x.com/175rng).

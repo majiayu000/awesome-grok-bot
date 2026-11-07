@@ -76,3 +76,5 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Home Organization and Decorator](https://x.ai/bot/pWuQPVgp7-NqliTE0czIp) - Works from your real room photos to organize clutter improve everyday function and suggest practical decor. [Bryan](https://x.com/Bryan).
 - [Security and Privacy](https://x.ai/bot/_lfnP-J1qucMZEfgyEFQO) - Finds X accounts impersonating you reports them and keeps watching if they stay up or only change a photo. [NicholasGibbs](https://x.com/NicholasGibbs).
 - [Texas Homestead Exemption Helper](https://x.ai/bot/kye2ywkDeCuXQ8VXstvHc) - Helps Texas homeowners check missing Residence Homestead Exemption and spot costly fee refund mailers. [Tek](https://x.com/Tek).
+- [Blender Worlds](https://x.ai/bot/jkqV2JOccGju3PTwbXwK4) - Turns your floor plan, site photos and open terrain data into Blender 3D mockups with a private walk-around viewer. [Denny](https://x.com/Teslasintheshop).
+- [Evening Resolution Tracker](https://x.ai/bot/6Vt9-JCeDtZSAzhdOmeG8) - Leads a short evening examination of conscience with the Act of Contrition and asks for one concrete resolution for tomorrow. [Cleetus](https://x.com/175rng).

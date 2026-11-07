@@ -896,3 +896,4 @@
 - [Rabbit Hole](https://x.ai/bot/uMwdqP1790aJGHNuVJ8PE) - 把任意主题论点链接或公司挖成带出处的简报并为每点标事实等级. [Travis](https://x.com/CorbenH414).
 - [Scam Archangel](https://x.ai/bot/-Geb29cMF1pTy1iRDj5AL) - 对通话记录邮件短信与可疑链接给基于证据的二次意见并让你选下一步. [Good](https://x.com/Chebino).
 - [Snopes Dogg](https://x.ai/bot/bz9utqQXB90fhbe5AwXUi) - 把热帖或标题追到源头给出裁决主链接关键保留与一句稳妥表述. [Travis](https://x.com/Travis).
+- [Local GOP Guide](https://x.ai/bot/nqankoYfy4ny_PXIREIgj) - 查找你所在州的共和党公开会议并讲清选区职位和委员会及选举流程. [Jacob](https://x.com/ConsideringNH).

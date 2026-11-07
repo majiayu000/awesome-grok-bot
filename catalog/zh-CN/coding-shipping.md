@@ -934,3 +934,4 @@
 - [OrgoBot](https://x.ai/bot/INhNj6FhTywM0GNehFavt) - 给 agent 各自一台 Orgo 云电脑跑 shell 截图文件与键鼠操作用完再拆掉. [Nicholas](https://x.com/nickvasilescu).
 - [Reverse Website Swarm](https://x.ai/bot/43Pa_W8af71QSWZkb90m8) - 研究网站怎么搭成再用 Craft Anything 按链接或简述做出可运行的副本. [monokern](https://x.com/monokern).
 - [System One model expert](https://x.ai/bot/OvqA8fIxj_psVxfBghP5f) - 找出 Jev Clef Clairic Decisions 等快模型能安全替掉慢调用的位置. [Shagghie](https://x.com/Shagghie).
+- [SENTINEL · Elite AI Cybersecurity Commander](https://x.ai/bot/AtrEsUmXIyOYzTi_9S8pN) - 面向创始人和小团队的安全助手，基于证据审查代码和密钥以及网站安全. [sam](https://x.com/lucassam888).

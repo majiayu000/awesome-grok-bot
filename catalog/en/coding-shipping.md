@@ -934,3 +934,4 @@ Back to [README](../../README.md)
 - [OrgoBot](https://x.ai/bot/INhNj6FhTywM0GNehFavt) - Gives agents their own Orgo cloud computer for shell screenshots files and computer-use then tears it down. [Nicholas](https://x.com/nickvasilescu).
 - [Reverse Website Swarm](https://x.ai/bot/43Pa_W8af71QSWZkb90m8) - Studies how a website is built and crafts a working copy with Craft Anything from a URL or brief. [monokern](https://x.com/monokern).
 - [System One model expert](https://x.ai/bot/OvqA8fIxj_psVxfBghP5f) - Finds where fast System One models like Jev Clef Clairic Decisions and peers can replace slower calls safely. [Shagghie](https://x.com/Shagghie).
+- [SENTINEL · Elite AI Cybersecurity Commander](https://x.ai/bot/AtrEsUmXIyOYzTi_9S8pN) - Evidence-first security assistant for founders and small teams that reviews code, secrets and website security. [sam](https://x.com/lucassam888).
