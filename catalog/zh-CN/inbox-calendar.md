@@ -301,3 +301,4 @@
 - [Apple Desk](https://x.ai/bot/LneMGVrkfLOfrJkw283Bs) - 从 Grok Bot 操控 Mac 上的提醒事项、日历、备忘录、通讯录、信息与快捷指令. Daniel.
 - [Email Scam Filter](https://x.ai/bot/MfhUu1dlT8X4fVSUXtydD) - 每天只读扫描 Gmail 给可疑邮件打零到一百的诈骗风险分并用颜色标出. [Travis](https://x.com/Travis).
 - [Zoom Meeting Companion](https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6) - 从链接或日历加入你的 Zoom 会议，记录详细笔记并跟踪决定和待办事项. [Brian](https://x.com/cu30rry_).
+- [Galloway Bot](https://x.ai/bot/jH4t29uiZ37tULZyqgOQK) - 核查与 Scott Galloway 相关的广告主证据和来源，并起草供你审阅的单独邮件. [Kevin](https://x.com/kchau).

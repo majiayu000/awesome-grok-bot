@@ -935,3 +935,7 @@
 - [Reverse Website Swarm](https://x.ai/bot/43Pa_W8af71QSWZkb90m8) - 研究网站怎么搭成再用 Craft Anything 按链接或简述做出可运行的副本. [monokern](https://x.com/monokern).
 - [System One model expert](https://x.ai/bot/OvqA8fIxj_psVxfBghP5f) - 找出 Jev Clef Clairic Decisions 等快模型能安全替掉慢调用的位置. [Shagghie](https://x.com/Shagghie).
 - [SENTINEL · Elite AI Cybersecurity Commander](https://x.ai/bot/AtrEsUmXIyOYzTi_9S8pN) - 面向创始人和小团队的安全助手，基于证据审查代码和密钥以及网站安全. [sam](https://x.com/lucassam888).
+- [Cybersecurity Bot](https://x.ai/bot/hTYGaHobQhRab-Lz9eyhN) - 默认只读地检查你的机器人、账号和设备安全，首次设置可选新闻、钓鱼扫描等功能. [Brian](https://x.com/BrianAhuja).
+- [LOVE](https://x.ai/bot/qA0Gttkc5D_cRkA5MP7sY) - 帮你整理项目、开发简单可扩展的应用，并起草商务邮件，把想法变成下一步行动. [Justin](https://x.com/JustintTalbott).
+- [Hermes](https://x.ai/bot/Lg1yD7lFxLTR8BJoYt3pk) - 在你的电脑上调用 Nous Research 的 Hermes Agent 命令行，运行提示词并保持工具更新. [Wayne](https://x.com/wikiwayne).
+- [Pixeltable Data Apps](https://x.ai/bot/Z9VlRBBZqZBzAYKOv7RVz) - 每天早上发布一个新的 Pixeltable 应用，在本地和云端运行，并把故障记到 Slack、Jira 和 GitHub. [Pierre](https://x.com/pjlbrunelle).

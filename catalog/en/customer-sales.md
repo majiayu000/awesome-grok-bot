@@ -605,3 +605,4 @@ Back to [README](../../README.md)
 - [LinkedIn Prospector](https://x.ai/bot/Ls_S-fd1NhZ3xdXxFfxo5) - A B2B LinkedIn prospecting bot. It finds people who fit your ICP each weekday, drafts connection notes and first DMs for you to approve, sends only what... [Kyle](https://x.com/KGtheGent88).
 - [Idea Bot](https://x.ai/bot/rTZQlYcR-FB2JoGsk5GXh) - Finds and validates business ideas daily kills weak ones fast and brings only ones worth a zero-dollar test. [ALK](https://x.com/ALK).
 - [Boycott Sponsor Mailer](https://x.ai/bot/eNMapsYhwVrk1Y3D_7w_a) - Drafts emails to companies sponsoring a target so you can review and send a boycott ask yourself. [Adam](https://x.com/AdamLowisz).
+- [SponsorSeeker](https://x.ai/bot/xN_QWP_EWHZxDkrL_DSVL) - Finds and qualifies sponsors for your newsletter or podcast, drafts pitches and rate cards, and vets high-ticket affiliate programs. [Jethro](https://x.com/jethrojones).

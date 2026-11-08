@@ -848,3 +848,6 @@ Back to [README](../../README.md)
 - [Rat](https://x.ai/bot/eWyEVP-kY8b9t3bp9P6Wk) - Grok Bot you message over Ratspeak on the Reticulum LXMF off-grid mesh with an always-on bridge. [Jonto](https://x.com/Jonto).
 - [Routinizer](https://x.ai/bot/QIxjmlkTZr7SJbS599gWe) - Finds work other bots redo from scratch daily and turns it into background Python that only wakes AI when needed. [Ivan](https://x.com/Ivan).
 - [SuperLedger](https://x.ai/bot/u2Eywod5aeGH3a-YU0rZB) - Shared deterministic memory for your team and Grok Bots in one Coda doc with formula gates and human approvals. [Bill](https://x.com/bfrench).
+- [Persona Bot](https://x.ai/bot/xQp89oDJn122IVVD1uRV3) - Holds your portable you-file so every Grok Bot can start useful without re-interviewing you. Other bots ask, and you approve each share. [Phillip](https://x.com/Phil_Holland).
+- [Meet My Bot](https://x.ai/bot/HuOMWRR5_-Y0Qra8kuZoC) - Finds the right Grok Bot for any job from the meetmybot.ai directory, and creators can submit their own bot right in the chat. [Luis](https://x.com/luisbarragan).
+- [Jev](https://x.ai/bot/bB09Tr7zFYd8KtzbCvk84) - A TypeSafe System One decision layer for a fleet of bots that turns structured state into typed decisions with a confidence score. [IndependentDocX](https://x.com/DocLibertarian).

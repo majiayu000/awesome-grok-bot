@@ -848,3 +848,6 @@
 - [Rat](https://x.ai/bot/eWyEVP-kY8b9t3bp9P6Wk) - 通过 Reticulum LXMF 离网 mesh 的 Ratspeak 收发消息并跑常驻桥接. [Jonto](https://x.com/Jonto).
 - [Routinizer](https://x.ai/bot/QIxjmlkTZr7SJbS599gWe) - 找出其它 bot 每天从头重做的活改成后台 Python 只在需要时叫醒 AI. [Ivan](https://x.com/Ivan).
 - [SuperLedger](https://x.ai/bot/u2Eywod5aeGH3a-YU0rZB) - 在一份 Coda 文档里给团队与 Grok Bot 共享确定性记忆用公式门控和人工批准. [Bill](https://x.com/bfrench).
+- [Persona Bot](https://x.ai/bot/xQp89oDJn122IVVD1uRV3) - 保存一份可移植的个人档案，其他机器人按需调取，每次分享都要你批准. [Phillip](https://x.com/Phil_Holland).
+- [Meet My Bot](https://x.ai/bot/HuOMWRR5_-Y0Qra8kuZoC) - 在目录里帮你找到合适的 Grok Bot，创作者也可以直接在对话里提交自己的机器人. [Luis](https://x.com/luisbarragan).
+- [Jev](https://x.ai/bot/bB09Tr7zFYd8KtzbCvk84) - 为机器人团队提供类型安全的决策层，把结构化状态变成带置信度的选择或评分. [IndependentDocX](https://x.com/DocLibertarian).

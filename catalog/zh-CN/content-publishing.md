@@ -982,3 +982,4 @@
 - [Animator](https://x.ai/bot/Hp85sZKzJNjabj8hakjee) - 把一个动效想法写成多场景叙事动画代码方便你反复改. [Nima](https://x.com/Nima).
 - [Riffrow](https://x.ai/bot/2_uBthmv20DacnSl1bAAu) - 神秘科学剧院风格吐槽把片段写成三人剧本配音并渲成剧场视频. [Wayne](https://x.com/wikiwayne).
 - [Post Copy Watcher](https://x.ai/bot/dn8ndRg7Re50JS0hruwso) - 每天盯你的原创视频图文只在发现疑似未署名搬运时通知你. [Mr](https://x.com/MrTacticalX).
+- [PANDORA OOI](https://x.ai/bot/98CSOAsCpEXWJagiVtxbH) - 作为 SwarmTech 网络里的个人节点，捕捉并演化帖子，再把每条记成带日期的公开回执. [forgedusa1](https://x.com/forgedusa1).

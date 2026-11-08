@@ -982,3 +982,4 @@ Back to [README](../../README.md)
 - [Animator](https://x.ai/bot/Hp85sZKzJNjabj8hakjee) - Turns a motion idea into a multi-scene story-driven animated video in code you can iterate on. [Nima](https://x.com/Nima).
 - [Riffrow](https://x.ai/bot/2_uBthmv20DacnSl1bAAu) - MST3K-style riff bot that takes a clip writes a three-character riff script voices it and renders theater video. [Wayne](https://x.com/wikiwayne).
 - [Post Copy Watcher](https://x.ai/bot/dn8ndRg7Re50JS0hruwso) - Watches your original videos images and text daily and messages you only when it finds a likely uncredited copy. [Mr](https://x.com/MrTacticalX).
+- [PANDORA OOI](https://x.ai/bot/98CSOAsCpEXWJagiVtxbH) - A personal OOI node for the SwarmTech mesh that captures, evolves, and forks posts, then logs each one as a dated public receipt. [forgedusa1](https://x.com/forgedusa1).

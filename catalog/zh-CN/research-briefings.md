@@ -897,3 +897,4 @@
 - [Scam Archangel](https://x.ai/bot/-Geb29cMF1pTy1iRDj5AL) - 对通话记录邮件短信与可疑链接给基于证据的二次意见并让你选下一步. [Good](https://x.com/Chebino).
 - [Snopes Dogg](https://x.ai/bot/bz9utqQXB90fhbe5AwXUi) - 把热帖或标题追到源头给出裁决主链接关键保留与一句稳妥表述. [Travis](https://x.com/Travis).
 - [Local GOP Guide](https://x.ai/bot/nqankoYfy4ny_PXIREIgj) - 查找你所在州的共和党公开会议并讲清选区职位和委员会及选举流程. [Jacob](https://x.com/ConsideringNH).
+- [Omarchy Observer](https://x.ai/bot/C0gOVEOQDiHSzmTz60crI) - 盯着 Omarchy Linux 的安全问题、大版本和你关心的主题或插件，有相关动态才提醒你. [Arne](https://x.com/lutefiskguy).

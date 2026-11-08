@@ -78,3 +78,13 @@
 - [Texas Homestead Exemption Helper](https://x.ai/bot/kye2ywkDeCuXQ8VXstvHc) - 帮德州房主核对是否漏办住宅宅地免税并识别高收费退税推销信. [Tek](https://x.com/Tek).
 - [Blender Worlds](https://x.ai/bot/jkqV2JOccGju3PTwbXwK4) - 把平面图和现场照片加上公开地形数据做成 Blender 三维模型并附带可走动浏览的私密查看器. [Denny](https://x.com/Teslasintheshop).
 - [Evening Resolution Tracker](https://x.ai/bot/6Vt9-JCeDtZSAzhdOmeG8) - 每晚带你做简短的良心省察和痛悔经并请你定下第二天的一个具体决心. [Cleetus](https://x.com/175rng).
+- [Growth](https://x.ai/bot/Fo7dELbkk5DSJkuPWjR18) - 帮你找合适的工作，经你同意后协助投递，并跟踪雇主回复和学习进度. [Yazid](https://x.com/Joyyb_1).
+- [Local Events Roundup](https://x.ai/bot/906iGrd94sK-sgWhPQw79) - 按你的地点和兴趣汇总音乐会、节日、展览和附近活动，每周推送并可选当天提醒. [𝓶.𝓪.𝓹.](https://x.com/shymicron).
+- [Gift Detective](https://x.ai/bot/s9LmRBYDJNp9UctFu2qi7) - 根据对方公开的 X 动态和你的预算，找出最多三份有购买链接的礼物并注明依据. [Brett](https://x.com/Bro7388).
+- [Bring a Dish](https://x.ai/bot/YnB0MGcaCbUsIWKMd6oFx) - 告诉它人数、车程和忌口，帮你选一道适合带到感恩节或圣诞聚餐且路上好带的菜. [Erinn](https://x.com/ErinnFL).
+- [Device Health Check Bot](https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0) - 只读检查你的手机和电脑的安全、隐私、存储和卡顿，并给出排序后的修复清单和报告. [Brian](https://x.com/BrianRoemmele).
+- [scrub daddy](https://x.ai/bot/vq6-NJAb6WLGyo7orUp6V) - 在人肉搜索和数据经纪网站上找出你的信息并提交退出申请，每周复查直到删除或确认处理中. [Sam](https://x.com/SamAiAm85).
+- [The Book Whisperer](https://x.ai/bot/1AdzkaHDcFOHpCcCtB_vB) - 记住你的阅读口味和已读书单，并据此推荐下一本合适的书. [Campdirtybird](https://x.com/Campdirtybird).
+- [FreebieBot](https://x.ai/bot/HOFnwCWZU-u-09WL5pjtl) - 在 X、Instagram、Facebook 和品牌站寻找正规免费抽奖，筛掉骗局并给你一键报名链接. [Full](https://x.com/fullvaluedan).
+- [Study Buddy](https://x.ai/bot/_-LDZX4_M3rfCzU-mhftn) - 把课堂幻灯片或笔记发给它，生成学习指南、练习测验和可翻转闪卡. [Mav](https://x.com/Mavmetax).
+- [Steady Hand](https://x.ai/bot/WNa0UvXDfvRkZ31PmJ93r) - 在失去配偶后的几周里帮你弄清该问人事、社保和医保什么，以及哪些账单该不该你来付. [Salty FL Cracker](https://x.com/the_seth_ard).

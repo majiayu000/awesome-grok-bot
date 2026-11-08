@@ -301,3 +301,4 @@ Back to [README](../../README.md)
 - [Apple Desk](https://x.ai/bot/LneMGVrkfLOfrJkw283Bs) - Runs your Mac Apple apps like Reminders, Calendar, Notes, Contacts, Messages and Shortcuts from Grok Bot. Daniel.
 - [Email Scam Filter](https://x.ai/bot/MfhUu1dlT8X4fVSUXtydD) - Scans Gmail read-only each morning and scores suspicious mail from 0 to 100 with color-coded scam risk. [Travis](https://x.com/Travis).
 - [Zoom Meeting Companion](https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6) - Joins your Zoom meetings from a link or your calendar, takes detailed notes and tracks decisions and action items. [Brian](https://x.com/cu30rry_).
+- [Galloway Bot](https://x.ai/bot/jH4t29uiZ37tULZyqgOQK) - Checks Scott Galloway-related advertiser evidence and source context, then prepares factual, individual email cards for your approval. [Kevin](https://x.com/kchau).
