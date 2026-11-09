@@ -2227,3 +2227,4 @@ Back to [README](../../README.md)
 - [Amazox](https://x.ai/bot/jiLOi4VlqjpSaqa1rWVuG) - Dedicated Amazon order, return, exchange, and refund auditor that tracks return-in-transit packages, prevents multi-item UPS drop-off retrocharges. [realpeteyb123](https://x.com/realpeteyb123).
 - [Bench Coach](https://x.ai/bot/5patx2eCnpNfJ2VMWN28y) - Bench Coach is a fantasy coach that works with Yahoo Fantasy leagues in football, basketball, baseball and hockey, with lineup, injury, waiver and trade. Daniel.
 - [Diploma Dana](https://x.ai/bot/XMMTF1EY-B5VbizW64-0T) - A friendly guide to life after high school for students, parents, career changers and veterans. Compares colleges, community colleges, trade schools,. James.
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) - Your personal guide to Roman's World. Answers in the characters' own words and walks you to the right page\: stories, books, news, podcast, game. [Roman](https://x.com/romansgameworld).

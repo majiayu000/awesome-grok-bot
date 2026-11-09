@@ -2227,3 +2227,4 @@
 - [Amazox](https://x.ai/bot/jiLOi4VlqjpSaqa1rWVuG) - 专职 Amazon 订单、退换货和退款审计员，追踪退货在途包裹，防止 UPS 多件投递被扣款. [realpeteyb123](https://x.com/realpeteyb123).
 - [Bench Coach](https://x.ai/bot/5patx2eCnpNfJ2VMWN28y) - 配合 Yahoo 梦幻联赛的教练，覆盖橄榄球、篮球、棒球和冰球的阵容、伤病、自由球员和交易. Daniel.
 - [Diploma Dana](https://x.ai/bot/XMMTF1EY-B5VbizW64-0T) - 高中毕业后的人生指南，面向学生、家长、转行者和退伍军人，比较大学、社区学院和职业学校. James.
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) - 以故事中角色自己的口吻回答，带你找到罗马世界里对应的页面。 [Roman](https://x.com/romansgameworld).
