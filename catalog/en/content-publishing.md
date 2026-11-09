@@ -983,3 +983,6 @@ Back to [README](../../README.md)
 - [Riffrow](https://x.ai/bot/2_uBthmv20DacnSl1bAAu) - MST3K-style riff bot that takes a clip writes a three-character riff script voices it and renders theater video. [Wayne](https://x.com/wikiwayne).
 - [Post Copy Watcher](https://x.ai/bot/dn8ndRg7Re50JS0hruwso) - Watches your original videos images and text daily and messages you only when it finds a likely uncredited copy. [Mr](https://x.com/MrTacticalX).
 - [PANDORA OOI](https://x.ai/bot/98CSOAsCpEXWJagiVtxbH) - A personal OOI node for the SwarmTech mesh that captures, evolves, and forks posts, then logs each one as a dated public receipt. [forgedusa1](https://x.com/forgedusa1).
+- [MVボット](https://x.ai/bot/vr3dNf5orMqsiYHG1PzRD) - Makes lyric motion music videos with animated text, using Grok Image and Grok Video for visuals and keeping characters consistent in 1080p. [いとぱん](https://x.com/takamasa045).
+- [Flow Film Maker](https://x.ai/bot/EaBu_d_aTVqQffsAheeMC) - Makes short vertical AI films in Google Flow on your own account, using your characters, scenes, narration, art style and photos. [ecoay](https://x.com/ecoay).
+- [Following Interest Reviewer](https://x.ai/bot/DV1Icl-5UdIg_hlLaQRSA) - Reviews the X accounts you follow against your interests and timeline, then sends mismatches in batches of 10 for your approval. [Cleetus](https://x.com/175rng).

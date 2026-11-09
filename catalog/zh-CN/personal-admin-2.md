@@ -88,3 +88,5 @@
 - [FreebieBot](https://x.ai/bot/HOFnwCWZU-u-09WL5pjtl) - 在 X、Instagram、Facebook 和品牌站寻找正规免费抽奖，筛掉骗局并给你一键报名链接. [Full](https://x.com/fullvaluedan).
 - [Study Buddy](https://x.ai/bot/_-LDZX4_M3rfCzU-mhftn) - 把课堂幻灯片或笔记发给它，生成学习指南、练习测验和可翻转闪卡. [Mav](https://x.com/Mavmetax).
 - [Steady Hand](https://x.ai/bot/WNa0UvXDfvRkZ31PmJ93r) - 在失去配偶后的几周里帮你弄清该问人事、社保和医保什么，以及哪些账单该不该你来付. [Salty FL Cracker](https://x.com/the_seth_ard).
+- [Coding Scribe](https://x.ai/bot/sYCu3Tox5M_9QWABK2RaF) - 把编程视频和教程（多为 YouTube）整理成简明实用的教程笔记，存进你的 Obsidian 库. [Elijah](https://x.com/loco_coder).
+- [Unstuck](https://x.ai/bot/5Ov0WI-Ad7vtb3yfWT7sP) - 整理你杂乱的想法倾倒，挑出唯一的下一步，缩成两分钟就能开始的小事，并记录你的小胜利，适合 ADHD 用户. [billgwolcott](https://x.com/billgwolcott).

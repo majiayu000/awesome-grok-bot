@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08",
+  "generated": "2026-11-09",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -158763,6 +158763,175 @@
       "updated": "2026-11-08",
       "shelf": "raw",
       "source": "https://x.com/jethrojones/status/2119151651323843056"
+    },
+    {
+      "slug": "karen-bot-2",
+      "name": "Karen Bot",
+      "author": {
+        "name": "Kevin",
+        "url": "https://x.com/kchau"
+      },
+      "summary": "Researches a complaint, checks the evidence and official contacts, and drafts firm, factual emails for you to review and send",
+      "summary_zh": "帮你调查投诉事项，核对证据和官方联系方式，起草坚定而有据的邮件供你审阅后发送",
+      "import": "https://x.ai/bot/KzsNGVtbCvgpWc9MXdXyr",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-09",
+      "shelf": "raw",
+      "source": "https://x.com/kchau/status/2119643865082925072"
+    },
+    {
+      "slug": "coding-scribe",
+      "name": "Coding Scribe",
+      "author": {
+        "name": "Elijah",
+        "url": "https://x.com/loco_coder"
+      },
+      "summary": "Turns coding videos and tutorials, mostly YouTube, into concise practical tutorials saved as organized notes in your Obsidian vault",
+      "summary_zh": "把编程视频和教程（多为 YouTube）整理成简明实用的教程笔记，存进你的 Obsidian 库",
+      "import": "https://x.ai/bot/sYCu3Tox5M_9QWABK2RaF",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "video",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-09",
+      "shelf": "raw",
+      "source": "https://x.com/loco_coder/status/2119640325492969821"
+    },
+    {
+      "slug": "mv",
+      "name": "MVボット",
+      "author": {
+        "name": "いとぱん",
+        "url": "https://x.com/takamasa045"
+      },
+      "summary": "Makes lyric motion music videos with animated text, using Grok Image and Grok Video for visuals and keeping characters consistent in 1080p",
+      "summary_zh": "制作歌词文字动画 MV，用 Grok Image 和 Grok Video 生成画面，保持角色一致并输出 1080p",
+      "import": "https://x.ai/bot/vr3dNf5orMqsiYHG1PzRD",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-09",
+      "shelf": "raw",
+      "source": "https://x.com/takamasa045/status/2119629006056354219"
+    },
+    {
+      "slug": "unstuck-2",
+      "name": "Unstuck",
+      "author": {
+        "name": "billgwolcott",
+        "url": "https://x.com/billgwolcott"
+      },
+      "summary": "Takes your messy brain dump, picks one next step, shrinks it to a 2-minute start, and keeps a wins log for ADHD minds",
+      "summary_zh": "整理你杂乱的想法倾倒，挑出唯一的下一步，缩成两分钟就能开始的小事，并记录你的小胜利，适合 ADHD 用户",
+      "import": "https://x.ai/bot/5Ov0WI-Ad7vtb3yfWT7sP",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-09",
+      "shelf": "raw",
+      "source": "https://x.com/billgwolcott/status/2119648960675766456"
+    },
+    {
+      "slug": "flow-film-maker",
+      "name": "Flow Film Maker",
+      "author": {
+        "name": "ecoay",
+        "url": "https://x.com/ecoay"
+      },
+      "summary": "Makes short vertical AI films in Google Flow on your own account, using your characters, scenes, narration, art style and photos",
+      "summary_zh": "在你自己的账号里用 Google Flow 制作竖屏 AI 短片，沿用你的角色、场景、旁白、画风和照片",
+      "import": "https://x.ai/bot/EaBu_d_aTVqQffsAheeMC",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-09",
+      "shelf": "raw",
+      "source": "https://x.com/ecoay/status/2119677516776415297"
+    },
+    {
+      "slug": "following-interest-reviewer",
+      "name": "Following Interest Reviewer",
+      "author": {
+        "name": "Cleetus",
+        "url": "https://x.com/175rng"
+      },
+      "summary": "Reviews the X accounts you follow against your interests and timeline, then sends mismatches in batches of 10 for your approval",
+      "summary_zh": "对照你的兴趣和时间线检查你关注的 X 账号，把不匹配的按每批 10 个发给你确认",
+      "import": "https://x.ai/bot/DV1Icl-5UdIg_hlLaQRSA",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-09",
+      "shelf": "raw",
+      "source": "https://x.com/175rng/status/2119597308048277813"
+    },
+    {
+      "slug": "saleslumen-bot",
+      "name": "Saleslumen Bot",
+      "author": {
+        "name": "Saleslumen",
+        "url": "https://x.com/saleslumen"
+      },
+      "summary": "Helps you set up and run Saleslumen campaigns, email, workflows and integrations, preferring the sl CLI and current official guidance",
+      "summary_zh": "帮你搭建并运行 Saleslumen 的营销活动、邮件、工作流和集成，优先使用 sl CLI 和最新官方指引",
+      "import": "https://x.ai/bot/yl1-5MQXPh_X9bt4TMGIk",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-09",
+      "shelf": "raw",
+      "source": "https://x.com/saleslumen/status/2119661204440293404"
+    },
+    {
+      "slug": "walter-cronkite",
+      "name": "Walter Cronkite",
+      "author": {
+        "name": "Ernst",
+        "url": "https://x.com/ernst320"
+      },
+      "summary": "Delivers calm, plain-spoken, sourced news briefings on AI, world affairs, government and assistive technology on your schedule",
+      "summary_zh": "按你的时间表送来沉稳平实、附来源的新闻简报，涵盖 AI、国际事务、政府和辅助技术",
+      "import": "https://x.ai/bot/8HkaY3kazSO4mRKj35zfG",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-09",
+      "shelf": "raw",
+      "source": "https://x.com/ernst320/status/2119609572407320872"
     }
   ]
 }

@@ -898,3 +898,4 @@ Back to [README](../../README.md)
 - [Snopes Dogg](https://x.ai/bot/bz9utqQXB90fhbe5AwXUi) - Traces any viral post or headline to its source with a verdict primary link key caveat and one safe sentence. [Travis](https://x.com/Travis).
 - [Local GOP Guide](https://x.ai/bot/nqankoYfy4ny_PXIREIgj) - Finds public Republican Party meetings in your state and explains precinct roles, committees and election procedures. [Jacob](https://x.com/ConsideringNH).
 - [Omarchy Observer](https://x.ai/bot/C0gOVEOQDiHSzmTz60crI) - Watches Omarchy Linux for security issues, major releases, and themes or plugins you care about, and pings you only when something relevant lands. [Arne](https://x.com/lutefiskguy).
+- [Walter Cronkite](https://x.ai/bot/8HkaY3kazSO4mRKj35zfG) - Delivers calm, plain-spoken, sourced news briefings on AI, world affairs, government and assistive technology on your schedule. [Ernst](https://x.com/ernst320).

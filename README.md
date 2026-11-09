@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7641 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 7649 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -106,16 +106,16 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | Category | Listed |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 937 |
-| [Inbox & calendar](#inbox--calendar) | 300 |
-| [Research & briefings](#research--briefings) | 896 |
-| [Customer & sales](#customer--sales) | 604 |
+| [Inbox & calendar](#inbox--calendar) | 301 |
+| [Research & briefings](#research--briefings) | 897 |
+| [Customer & sales](#customer--sales) | 605 |
 | [Finance & ops](#finance--ops) | 759 |
-| [Content & publishing](#content--publishing) | 981 |
-| [Personal admin](#personal-admin) | 2315 |
+| [Content & publishing](#content--publishing) | 984 |
+| [Personal admin](#personal-admin) | 2317 |
 | [Teams & handoffs](#teams--handoffs) | 849 |
-| **Total** | **7641** |
+| **Total** | **7649** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7641 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7649 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -257,15 +257,15 @@ Full list (937 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shippi
 
 ## Inbox & calendar
 
-Full list (300 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
+Full list (301 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
 
 ## Research & briefings
 
-Full list (896 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
+Full list (897 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
 
 ## Customer & sales
 
-Full list (604 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (605 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
@@ -273,11 +273,11 @@ Full list (759 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (981 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (984 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (2315 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
+Full list (2317 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
 
 ## Teams & handoffs
 

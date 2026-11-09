@@ -983,3 +983,6 @@
 - [Riffrow](https://x.ai/bot/2_uBthmv20DacnSl1bAAu) - 神秘科学剧院风格吐槽把片段写成三人剧本配音并渲成剧场视频. [Wayne](https://x.com/wikiwayne).
 - [Post Copy Watcher](https://x.ai/bot/dn8ndRg7Re50JS0hruwso) - 每天盯你的原创视频图文只在发现疑似未署名搬运时通知你. [Mr](https://x.com/MrTacticalX).
 - [PANDORA OOI](https://x.ai/bot/98CSOAsCpEXWJagiVtxbH) - 作为 SwarmTech 网络里的个人节点，捕捉并演化帖子，再把每条记成带日期的公开回执. [forgedusa1](https://x.com/forgedusa1).
+- [MVボット](https://x.ai/bot/vr3dNf5orMqsiYHG1PzRD) - 制作歌词文字动画 MV，用 Grok Image 和 Grok Video 生成画面，保持角色一致并输出 1080p. [いとぱん](https://x.com/takamasa045).
+- [Flow Film Maker](https://x.ai/bot/EaBu_d_aTVqQffsAheeMC) - 在你自己的账号里用 Google Flow 制作竖屏 AI 短片，沿用你的角色、场景、旁白、画风和照片. [ecoay](https://x.com/ecoay).
+- [Following Interest Reviewer](https://x.ai/bot/DV1Icl-5UdIg_hlLaQRSA) - 对照你的兴趣和时间线检查你关注的 X 账号，把不匹配的按每批 10 个发给你确认. [Cleetus](https://x.com/175rng).

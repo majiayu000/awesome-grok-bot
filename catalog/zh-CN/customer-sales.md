@@ -606,3 +606,4 @@
 - [Idea Bot](https://x.ai/bot/rTZQlYcR-FB2JoGsk5GXh) - 每天找并验证商业点子快速砍掉弱的只留下值得零成本试的. [ALK](https://x.com/ALK).
 - [Boycott Sponsor Mailer](https://x.ai/bot/eNMapsYhwVrk1Y3D_7w_a) - 给赞助某对象的公司起草抵制邮件由你审阅后再亲自发送. [Adam](https://x.com/AdamLowisz).
 - [SponsorSeeker](https://x.ai/bot/xN_QWP_EWHZxDkrL_DSVL) - 为你的通讯或播客寻找并筛选赞助商，起草洽谈邮件和价目表，同时核查高客单价联盟项目. [Jethro](https://x.com/jethrojones).
+- [Saleslumen Bot](https://x.ai/bot/yl1-5MQXPh_X9bt4TMGIk) - 帮你搭建并运行 Saleslumen 的营销活动、邮件、工作流和集成，优先使用 sl CLI 和最新官方指引. [Saleslumen](https://x.com/saleslumen).

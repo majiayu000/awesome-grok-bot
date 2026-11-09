@@ -302,3 +302,4 @@
 - [Email Scam Filter](https://x.ai/bot/MfhUu1dlT8X4fVSUXtydD) - 每天只读扫描 Gmail 给可疑邮件打零到一百的诈骗风险分并用颜色标出. [Travis](https://x.com/Travis).
 - [Zoom Meeting Companion](https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6) - 从链接或日历加入你的 Zoom 会议，记录详细笔记并跟踪决定和待办事项. [Brian](https://x.com/cu30rry_).
 - [Galloway Bot](https://x.ai/bot/jH4t29uiZ37tULZyqgOQK) - 核查与 Scott Galloway 相关的广告主证据和来源，并起草供你审阅的单独邮件. [Kevin](https://x.com/kchau).
+- [Karen Bot](https://x.ai/bot/KzsNGVtbCvgpWc9MXdXyr) - 帮你调查投诉事项，核对证据和官方联系方式，起草坚定而有据的邮件供你审阅后发送. [Kevin](https://x.com/kchau).

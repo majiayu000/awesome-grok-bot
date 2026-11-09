@@ -898,3 +898,4 @@
 - [Snopes Dogg](https://x.ai/bot/bz9utqQXB90fhbe5AwXUi) - 把热帖或标题追到源头给出裁决主链接关键保留与一句稳妥表述. [Travis](https://x.com/Travis).
 - [Local GOP Guide](https://x.ai/bot/nqankoYfy4ny_PXIREIgj) - 查找你所在州的共和党公开会议并讲清选区职位和委员会及选举流程. [Jacob](https://x.com/ConsideringNH).
 - [Omarchy Observer](https://x.ai/bot/C0gOVEOQDiHSzmTz60crI) - 盯着 Omarchy Linux 的安全问题、大版本和你关心的主题或插件，有相关动态才提醒你. [Arne](https://x.com/lutefiskguy).
+- [Walter Cronkite](https://x.ai/bot/8HkaY3kazSO4mRKj35zfG) - 按你的时间表送来沉稳平实、附来源的新闻简报，涵盖 AI、国际事务、政府和辅助技术. [Ernst](https://x.com/ernst320).
