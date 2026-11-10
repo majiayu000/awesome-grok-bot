@@ -854,3 +854,4 @@ Back to [README](../../README.md)
 - [Contact Your Reps](https://x.ai/bot/HdP5C0zOBXXRQaUAugAnS) - Finds your federal and state officials and prepares individually addressed letters on a 14 point agenda for you to review before sending. [Troy](https://x.com/whitenoise301).
 - [Checkup](https://x.ai/bot/ffy9_7mBUraesvnoSouFC) - Read-only checkup bot for people running many Grok Bots, checking transcripts, routines and the computer's health on a schedule. [Carolina](https://x.com/CarolinaDill).
 - [Mastermind](https://x.ai/bot/zdBkQ_7mp77gFyt20d3N0) - Brain librarian for a Grok Bot fleet that keeps an Obsidian-style Markdown brain clean, current and linked. [NoFace](https://x.com/0xStarfox).
+- [Muse Bridge](https://x.ai/bot/Eyq2_3_2eIs2mXpFJsso8) - Connects your Muse assistant to Grok Bot so you can message its main session or a per-project session, bring replies back and keep logs. [Haidong](https://x.com/HeHaidong27050).

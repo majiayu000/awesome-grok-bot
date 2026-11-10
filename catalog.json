@@ -159437,6 +159437,154 @@
       "updated": "2026-11-10",
       "shelf": "raw",
       "source": "https://x.com/shoaib_t7/status/2119838657993388367"
+    },
+    {
+      "slug": "tweet-analyser",
+      "name": "Tweet Analyser",
+      "author": {
+        "name": "Zeeshan",
+        "url": "https://x.com/zeeshan_utd"
+      },
+      "summary": "Checks an X post draft for a ship, tweak or rewrite verdict, with plain-English fixes based on X open-source ranking code and a rewrite in your voice",
+      "summary_zh": "检查 X 帖子草稿并给出发布、微调或重写的判断，按 X 开源排序代码给出白话修改建议，并用你的口吻重写",
+      "import": "https://x.ai/bot/Se-KI83s3bSoiGx6jeXMg",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-10",
+      "shelf": "raw",
+      "source": "https://x.com/zeeshan_utd/status/2120000242674467017"
+    },
+    {
+      "slug": "any-video-into-a-magazine",
+      "name": "Any Video Into A Magazine",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/0xlangeai"
+      },
+      "summary": "Turns the YouTube channels and podcasts you follow into a weekly magazine with feature articles, real video photos and word-for-word pull quotes",
+      "summary_zh": "把你关注的 YouTube 频道和播客整理成每周杂志，含专题文章、视频真实截图和逐字引语",
+      "import": "https://x.ai/bot/Dky0PJsMVdTE6h_6cN6kq",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-10",
+      "shelf": "raw",
+      "source": "https://x.com/0xlangeai/status/2119999177371558276"
+    },
+    {
+      "slug": "muse-bridge",
+      "name": "Muse Bridge",
+      "author": {
+        "name": "Haidong",
+        "url": "https://x.com/HeHaidong27050"
+      },
+      "summary": "Connects your Muse assistant to Grok Bot so you can message its main session or a per-project session, bring replies back and keep logs",
+      "summary_zh": "把 Muse 助手接进 Grok Bot，可给 Muse 主会话或各项目会话发消息，并把回复带回来、存日志",
+      "import": "https://x.ai/bot/Eyq2_3_2eIs2mXpFJsso8",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-10",
+      "shelf": "raw",
+      "source": "https://x.com/HeHaidong27050/status/2119996391334326313"
+    },
+    {
+      "slug": "video-director",
+      "name": "Video Director",
+      "author": {
+        "name": "Chee",
+        "url": "https://x.com/cheeweng_"
+      },
+      "summary": "Directs and produces videos up to about 30 minutes and edits existing footage, starting with a brief interview and research",
+      "summary_zh": "导演并制作最长约 30 分钟的视频，也能剪辑现有素材，先访谈需求并做调研",
+      "import": "https://x.ai/bot/meTDwFI6Jtm-uTyQtyrbb",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-10",
+      "shelf": "raw",
+      "source": "https://x.com/cheeweng_/status/2120027172299592164"
+    },
+    {
+      "slug": "precious-time",
+      "name": "Precious Time",
+      "author": {
+        "name": "S4LTYBOT",
+        "url": "https://x.com/s4ltybotdoteth"
+      },
+      "summary": "A time-card bot that tracks how long you spend on each project and sub-task, keeping totals when you start, switch or stop",
+      "summary_zh": "记录每个项目和子任务耗时的计时卡 bot，你开始、切换或停止时它会累计总时长",
+      "import": "https://x.ai/bot/h5-ZLJewg2-OUqby-bdwX",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-10",
+      "shelf": "raw",
+      "source": "https://x.com/s4ltybotdoteth/status/2119980291976753574"
+    },
+    {
+      "slug": "clip-scout-2",
+      "name": "Clip Scout",
+      "author": {
+        "name": "bwolcottauthor",
+        "url": "https://x.com/bwolcottauthor"
+      },
+      "summary": "Helps you find the moments in long videos worth clipping for X Clipping, 5 to 60 seconds with your own take",
+      "summary_zh": "帮你在长视频里找出值得做成 X 剪辑（5 到 60 秒并加上你的看法）的片段",
+      "import": "https://x.ai/bot/SY9HT-xabGZ0FxGDdhD5z",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-10",
+      "shelf": "raw",
+      "source": "https://x.com/bwolcottauthor/status/2119982530191638934"
+    },
+    {
+      "slug": "speak-for-me",
+      "name": "Speak For Me",
+      "author": {
+        "name": "Ryan",
+        "url": "https://x.com/ryanthawks"
+      },
+      "summary": "Tell it what you need from a business or office in your own language, it calls in English and reports back in your language",
+      "summary_zh": "用你的语言说明想向商家或办公室办的事，它用英语打电话，再用你的语言汇报结果",
+      "import": "https://x.ai/bot/dJkudgT1xfPF-1SbIkm23",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-10",
+      "shelf": "raw",
+      "source": "https://x.com/ryanthawks/status/2119963660470653262"
     }
   ]
 }

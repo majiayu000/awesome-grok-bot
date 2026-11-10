@@ -990,3 +990,6 @@
 - [Save Shelter Dogs](https://x.ai/bot/fJCklr7BGXas0RA0b9imH) - 每天在 X 上推广本地收容所高风险名单里的狗，包括照片帖、置顶幻灯片和认养承诺活动. [SaveMASDog](https://x.com/SaveMASDog).
 - [80s Fake Footage](https://x.ai/bot/u1MG6utY3VGmo52GPs7-x) - 用一句话加类型、语气和角色，生成像出自不存在的 80 年代电影的无声循环 GIF. [Brandon](https://x.com/BrandonPlantz).
 - [X Growth Bot](https://x.ai/bot/O60Icbx5BlKTkHBCrAgDe) - 帮小众 X 账号冲原创内容奖励，包括抢先回复大号、回复评论者、趋势提醒和早间复盘. [Shoaib](https://x.com/shoaib_t7).
+- [Tweet Analyser](https://x.ai/bot/Se-KI83s3bSoiGx6jeXMg) - 检查 X 帖子草稿并给出发布、微调或重写的判断，按 X 开源排序代码给出白话修改建议，并用你的口吻重写. [Zeeshan](https://x.com/zeeshan_utd).
+- [Video Director](https://x.ai/bot/meTDwFI6Jtm-uTyQtyrbb) - 导演并制作最长约 30 分钟的视频，也能剪辑现有素材，先访谈需求并做调研. [Chee](https://x.com/cheeweng_).
+- [Clip Scout](https://x.ai/bot/SY9HT-xabGZ0FxGDdhD5z) - 帮你在长视频里找出值得做成 X 剪辑（5 到 60 秒并加上你的看法）的片段. [bwolcottauthor](https://x.com/bwolcottauthor).

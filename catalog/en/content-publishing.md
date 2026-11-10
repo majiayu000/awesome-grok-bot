@@ -990,3 +990,6 @@ Back to [README](../../README.md)
 - [Save Shelter Dogs](https://x.ai/bot/fJCklr7BGXas0RA0b9imH) - Promotes dogs on a local shelter's at-risk list on X daily with photo posts, a pinned slideshow and pledge drives. [SaveMASDog](https://x.com/SaveMASDog).
 - [80s Fake Footage](https://x.ai/bot/u1MG6utY3VGmo52GPs7-x) - Turns a line, genre, tone and character into a silent looping GIF that looks cut from a nonexistent 80s movie. [Brandon](https://x.com/BrandonPlantz).
 - [X Growth Bot](https://x.ai/bot/O60Icbx5BlKTkHBCrAgDe) - Grows a niche X account toward Original Content Rewards with early replies, commenter replies, trend alerts and morning recaps. [Shoaib](https://x.com/shoaib_t7).
+- [Tweet Analyser](https://x.ai/bot/Se-KI83s3bSoiGx6jeXMg) - Checks an X post draft for a ship, tweak or rewrite verdict, with plain-English fixes based on X open-source ranking code and a rewrite in your voice. [Zeeshan](https://x.com/zeeshan_utd).
+- [Video Director](https://x.ai/bot/meTDwFI6Jtm-uTyQtyrbb) - Directs and produces videos up to about 30 minutes and edits existing footage, starting with a brief interview and research. [Chee](https://x.com/cheeweng_).
+- [Clip Scout](https://x.ai/bot/SY9HT-xabGZ0FxGDdhD5z) - Helps you find the moments in long videos worth clipping for X Clipping, 5 to 60 seconds with your own take. [bwolcottauthor](https://x.com/bwolcottauthor).

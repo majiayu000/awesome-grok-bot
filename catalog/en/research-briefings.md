@@ -901,3 +901,4 @@ Back to [README](../../README.md)
 - [Walter Cronkite](https://x.ai/bot/8HkaY3kazSO4mRKj35zfG) - Delivers calm, plain-spoken, sourced news briefings on AI, world affairs, government and assistive technology on your schedule. [Ernst](https://x.com/ernst320).
 - [OpenAny](https://x.ai/bot/wZ0PqEbJCTJizVYNK9Ohs) - Connects your bot to OpenAny for 150+ AI models and 3,000+ data and tool APIs with one key and pay-per-call balance. [Pistis](https://x.com/openanysi).
 - [Tesla Owner Copilot](https://x.ai/bot/KWkMaZUFZmvpp-_xbAVTI) - Keeps Tesla owners up to date on software, FSD, recalls and deals from public sources, with no car connection or account. [TheNorthernTrail](https://x.com/TacticaLJes).
+- [Any Video Into A Magazine](https://x.ai/bot/Dky0PJsMVdTE6h_6cN6kq) - Turns the YouTube channels and podcasts you follow into a weekly magazine with feature articles, real video photos and word-for-word pull quotes. [Brian](https://x.com/0xlangeai).

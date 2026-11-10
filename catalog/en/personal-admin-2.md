@@ -97,3 +97,5 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Same Team](https://x.ai/bot/SwPnn9g6m32pNIL-NvJ65) - Helps co-parents in two homes write clear friendly messages, send kid updates, and plan schedules and holidays. [billgwolcott](https://x.com/billgwolcott).
 - [Mobbi Grok](https://x.ai/bot/ZkYt-p7_BweHRkUoqUD_d) - Books, checks and cancels parking spots on your company's MobbiPro portal using your usual zone, spot type and vehicle. [Vasco](https://x.com/vhbmsp).
 - [Help, I Haven't Checked In](https://x.ai/bot/iGiD-76C2lv6MB1otClec) - Trip check-in fail-safe for hikers, drivers and paddlers that alerts someone if you miss your check-in time. [Brian](https://x.com/BrianRoemmele).
+- [Precious Time](https://x.ai/bot/h5-ZLJewg2-OUqby-bdwX) - A time-card bot that tracks how long you spend on each project and sub-task, keeping totals when you start, switch or stop. [S4LTYBOT](https://x.com/s4ltybotdoteth).
+- [Speak For Me](https://x.ai/bot/dJkudgT1xfPF-1SbIkm23) - Tell it what you need from a business or office in your own language, it calls in English and reports back in your language. [Ryan](https://x.com/ryanthawks).

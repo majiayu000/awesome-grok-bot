@@ -97,3 +97,5 @@
 - [Same Team](https://x.ai/bot/SwPnn9g6m32pNIL-NvJ65) - 帮两个家庭的共同抚养人写清晰友好的消息、发送孩子近况，并规划日程和节假日. [billgwolcott](https://x.com/billgwolcott).
 - [Mobbi Grok](https://x.ai/bot/ZkYt-p7_BweHRkUoqUD_d) - 在公司的 MobbiPro 门户预订、查看和取消车位，沿用你常用的区域、车位类型和车辆. [Vasco](https://x.com/vhbmsp).
 - [Help, I Haven't Checked In](https://x.ai/bot/iGiD-76C2lv6MB1otClec) - 面向徒步、野外驾驶和划船者的行程签到保险，超过签到时间没回来就通知别人. [Brian](https://x.com/BrianRoemmele).
+- [Precious Time](https://x.ai/bot/h5-ZLJewg2-OUqby-bdwX) - 记录每个项目和子任务耗时的计时卡 bot，你开始、切换或停止时它会累计总时长. [S4LTYBOT](https://x.com/s4ltybotdoteth).
+- [Speak For Me](https://x.ai/bot/dJkudgT1xfPF-1SbIkm23) - 用你的语言说明想向商家或办公室办的事，它用英语打电话，再用你的语言汇报结果. [Ryan](https://x.com/ryanthawks).
