@@ -608,3 +608,4 @@
 - [SponsorSeeker](https://x.ai/bot/xN_QWP_EWHZxDkrL_DSVL) - 为你的通讯或播客寻找并筛选赞助商，起草洽谈邮件和价目表，同时核查高客单价联盟项目. [Jethro](https://x.com/jethrojones).
 - [Saleslumen Bot](https://x.ai/bot/yl1-5MQXPh_X9bt4TMGIk) - 帮你搭建并运行 Saleslumen 的营销活动、邮件、工作流和集成，优先使用 sl CLI 和最新官方指引. [Saleslumen](https://x.com/saleslumen).
 - [Forge](https://x.ai/bot/fHUfj7QKrEt6_QHBDbRwX) - 面向数字产品卖家的制作工具，生成可打印表格、PDF 套件、Pinterest 图片和商品文案成品文件. [TechEcho](https://x.com/techechohq).
+- [Anti-Adfraud Bot](https://x.ai/bot/A9PR4APmjoosYN1LAWZ_L) - 用通俗德语讲解谷歌广告里的点击欺诈和虚假线索，带你做 10 道题的自查，并指向免费审计，无需关联账号. [Markus](https://x.com/adfraudit).

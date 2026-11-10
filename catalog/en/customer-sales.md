@@ -608,3 +608,4 @@ Back to [README](../../README.md)
 - [SponsorSeeker](https://x.ai/bot/xN_QWP_EWHZxDkrL_DSVL) - Finds and qualifies sponsors for your newsletter or podcast, drafts pitches and rate cards, and vets high-ticket affiliate programs. [Jethro](https://x.com/jethrojones).
 - [Saleslumen Bot](https://x.ai/bot/yl1-5MQXPh_X9bt4TMGIk) - Helps you set up and run Saleslumen campaigns, email, workflows and integrations, preferring the sl CLI and current official guidance. [Saleslumen](https://x.com/saleslumen).
 - [Forge](https://x.ai/bot/fHUfj7QKrEt6_QHBDbRwX) - Product maker for digital sellers that builds printable spreadsheets, PDF kits, Pinterest pins and listing copy as finished files. [TechEcho](https://x.com/techechohq).
+- [Anti-Adfraud Bot](https://x.ai/bot/A9PR4APmjoosYN1LAWZ_L) - Explains click fraud and fake leads in Google Ads in plain German, runs a 10-question self-check and points to a free audit, with no account linking. [Markus](https://x.com/adfraudit).

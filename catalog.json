@@ -159585,6 +159585,27 @@
       "updated": "2026-11-10",
       "shelf": "raw",
       "source": "https://x.com/ryanthawks/status/2119963660470653262"
+    },
+    {
+      "slug": "anti-adfraud-bot",
+      "name": "Anti-Adfraud Bot",
+      "author": {
+        "name": "Markus",
+        "url": "https://x.com/adfraudit"
+      },
+      "summary": "Explains click fraud and fake leads in Google Ads in plain German, runs a 10-question self-check and points to a free audit, with no account linking",
+      "summary_zh": "用通俗德语讲解谷歌广告里的点击欺诈和虚假线索，带你做 10 道题的自查，并指向免费审计，无需关联账号",
+      "import": "https://x.ai/bot/A9PR4APmjoosYN1LAWZ_L",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-10",
+      "shelf": "raw",
+      "source": "https://x.com/adfraudit/status/2120080353377517958"
     }
   ]
 }
