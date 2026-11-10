@@ -899,3 +899,5 @@
 - [Local GOP Guide](https://x.ai/bot/nqankoYfy4ny_PXIREIgj) - 查找你所在州的共和党公开会议并讲清选区职位和委员会及选举流程. [Jacob](https://x.com/ConsideringNH).
 - [Omarchy Observer](https://x.ai/bot/C0gOVEOQDiHSzmTz60crI) - 盯着 Omarchy Linux 的安全问题、大版本和你关心的主题或插件，有相关动态才提醒你. [Arne](https://x.com/lutefiskguy).
 - [Walter Cronkite](https://x.ai/bot/8HkaY3kazSO4mRKj35zfG) - 按你的时间表送来沉稳平实、附来源的新闻简报，涵盖 AI、国际事务、政府和辅助技术. [Ernst](https://x.com/ernst320).
+- [OpenAny](https://x.ai/bot/wZ0PqEbJCTJizVYNK9Ohs) - 让机器人连接 OpenAny，用一个密钥和按次付费的余额调用 150 多个 AI 模型和 3000 多个数据与工具接口. [Pistis](https://x.com/openanysi).
+- [Tesla Owner Copilot](https://x.ai/bot/KWkMaZUFZmvpp-_xbAVTI) - 用公开来源让特斯拉车主了解软件更新、FSD、召回和优惠，无需连接车辆或账号. [TheNorthernTrail](https://x.com/TacticaLJes).

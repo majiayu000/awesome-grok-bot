@@ -761,3 +761,5 @@
 - [Behavioral Post-Mortem Analyst](https://x.ai/bot/cmmcspTxgjaB0qQsdCTwM) - 按过程而非盈亏读你的交易日志核对你是否按自己的计划执行语气温和但有数据从不下单. [Turac](https://x.com/TuracTheThinker).
 - [FindMoney](https://x.ai/bot/v7DAzv8Vz_cS-Toeu6beR) - 在各州网站 MissingMoney 养老金等公开源里找无人认领的钱与财产并说明怎么领. [Richard](https://x.com/Richard).
 - [Quandora](https://x.ai/bot/aMdvJyS1ECeDG3GD2fnoD) - 研究交易信号并回测加密多因子策略与组合不下真实单. [Rick](https://x.com/_1RICKk1).
+- [XSP Check](https://x.ai/bot/ECaGV3Qi7xh6ztui_iVpl) - 只读检查 1 手看跌信用价差的最大亏损、盈亏平衡点和购买力，对照 tastytrade 模拟运行，从不下单. [Alvin](https://x.com/hallway247).
+- [Bot do MEI](https://x.ai/bot/m6tmgTZ2-05pAQTZlxo4N) - 提醒巴西 MEI 个体户每月的 DAS 和 DASN 截止日，并用通俗葡萄牙语结合官方来源讲解 2027 年规则. [Henrique](https://x.com/henriquepiri).

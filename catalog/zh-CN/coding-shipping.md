@@ -939,3 +939,6 @@
 - [LOVE](https://x.ai/bot/qA0Gttkc5D_cRkA5MP7sY) - 帮你整理项目、开发简单可扩展的应用，并起草商务邮件，把想法变成下一步行动. [Justin](https://x.com/JustintTalbott).
 - [Hermes](https://x.ai/bot/Lg1yD7lFxLTR8BJoYt3pk) - 在你的电脑上调用 Nous Research 的 Hermes Agent 命令行，运行提示词并保持工具更新. [Wayne](https://x.com/wikiwayne).
 - [Pixeltable Data Apps](https://x.ai/bot/Z9VlRBBZqZBzAYKOv7RVz) - 每天早上发布一个新的 Pixeltable 应用，在本地和云端运行，并把故障记到 Slack、Jira 和 GitHub. [Pierre](https://x.com/pjlbrunelle).
+- [Hermes Backup + Repair Bot](https://x.ai/bot/7zwfNAfwtPvEkxLPMXLWK) - 安全地备份、诊断、修复并验证 Hermes Agent 安装，先查维护中的参考资料和官方来源. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Design System Extractor](https://x.ai/bot/KXS8-NWpwI0YgR3N__Q-u) - 给一个网址，逆向还原网站的设计系统，包括精确的颜色、字体、间距、组件和动效. [Bogdan](https://x.com/bnistordev).
+- [Web Developer](https://x.ai/bot/OnybhGfwbfR3ahaa6RBwI) - 根据设计系统在你的 GitHub 仓库里构建完整网站（前后端），以小而经过验证的拉取请求交付. [Bogdan](https://x.com/bnistordev).

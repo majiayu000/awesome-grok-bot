@@ -90,3 +90,10 @@
 - [Steady Hand](https://x.ai/bot/WNa0UvXDfvRkZ31PmJ93r) - 在失去配偶后的几周里帮你弄清该问人事、社保和医保什么，以及哪些账单该不该你来付. [Salty FL Cracker](https://x.com/the_seth_ard).
 - [Coding Scribe](https://x.ai/bot/sYCu3Tox5M_9QWABK2RaF) - 把编程视频和教程（多为 YouTube）整理成简明实用的教程笔记，存进你的 Obsidian 库. [Elijah](https://x.com/loco_coder).
 - [Unstuck](https://x.ai/bot/5Ov0WI-Ad7vtb3yfWT7sP) - 整理你杂乱的想法倾倒，挑出唯一的下一步，缩成两分钟就能开始的小事，并记录你的小胜利，适合 ADHD 用户. [billgwolcott](https://x.com/billgwolcott).
+- [Host Mode](https://x.ai/bot/F0skXyX7J2DtsFPBxzbs3) - 按人数和饮食需求规划感恩节或友谊节聚餐，给出菜单、分量，以及倒推的解冻、备菜和烤箱时间表. [Ryan](https://x.com/ryanthawks).
+- [Call Around](https://x.ai/bot/BfJSlxG9eRuKVL4jEYse9) - 替你给几家本地商家打电话问同样的问题，再整理成报价、档期和备注的排序对比. [Ryan](https://x.com/ryanthawks).
+- [Spam-Call Scrubber](https://x.ai/bot/q34Uw0YlLx3ypGqj_bEu7) - 查找你的号码在人员搜索网站和数据经纪商的记录，提交退出申请、完成邮件确认，并定期复查. [Thomas](https://x.com/thomasjuranek).
+- [Caregiver Co-pilot](https://x.ai/bot/kmGahHjSuTnIfCKL5DwQw) - 帮照顾年迈父母的成年子女整理照护事务，是一份系统提示词模板. [Daniel](https://x.com/BurtTheAI).
+- [Same Team](https://x.ai/bot/SwPnn9g6m32pNIL-NvJ65) - 帮两个家庭的共同抚养人写清晰友好的消息、发送孩子近况，并规划日程和节假日. [billgwolcott](https://x.com/billgwolcott).
+- [Mobbi Grok](https://x.ai/bot/ZkYt-p7_BweHRkUoqUD_d) - 在公司的 MobbiPro 门户预订、查看和取消车位，沿用你常用的区域、车位类型和车辆. [Vasco](https://x.com/vhbmsp).
+- [Help, I Haven't Checked In](https://x.ai/bot/iGiD-76C2lv6MB1otClec) - 面向徒步、野外驾驶和划船者的行程签到保险，超过签到时间没回来就通知别人. [Brian](https://x.com/BrianRoemmele).

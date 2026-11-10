@@ -761,3 +761,5 @@ Back to [README](../../README.md)
 - [Behavioral Post-Mortem Analyst](https://x.ai/bot/cmmcspTxgjaB0qQsdCTwM) - Reads your trading journal for process not P&L, checking whether you followed your own plan, kind but data-honest and never places orders. [Turac](https://x.com/TuracTheThinker).
 - [FindMoney](https://x.ai/bot/v7DAzv8Vz_cS-Toeu6beR) - Finds unclaimed money and property across state sites MissingMoney pensions and public sources then shows how to claim. [Richard](https://x.com/Richard).
 - [Quandora](https://x.ai/bot/aMdvJyS1ECeDG3GD2fnoD) - Researches trading signals and backtests multi-factor crypto strategies and portfolios without placing live orders. [Rick](https://x.com/_1RICKk1).
+- [XSP Check](https://x.ai/bot/ECaGV3Qi7xh6ztui_iVpl) - Read-only check of a 1-lot put credit vertical's max loss, breakeven and buying power against a tastytrade dry run, never placing the order. [Alvin](https://x.com/hallway247).
+- [Bot do MEI](https://x.ai/bot/m6tmgTZ2-05pAQTZlxo4N) - Reminds Brazilian MEI owners about monthly DAS and DASN deadlines and explains 2027 rules in plain Portuguese with official sources. [Henrique](https://x.com/henriquepiri).

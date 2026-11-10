@@ -899,3 +899,5 @@ Back to [README](../../README.md)
 - [Local GOP Guide](https://x.ai/bot/nqankoYfy4ny_PXIREIgj) - Finds public Republican Party meetings in your state and explains precinct roles, committees and election procedures. [Jacob](https://x.com/ConsideringNH).
 - [Omarchy Observer](https://x.ai/bot/C0gOVEOQDiHSzmTz60crI) - Watches Omarchy Linux for security issues, major releases, and themes or plugins you care about, and pings you only when something relevant lands. [Arne](https://x.com/lutefiskguy).
 - [Walter Cronkite](https://x.ai/bot/8HkaY3kazSO4mRKj35zfG) - Delivers calm, plain-spoken, sourced news briefings on AI, world affairs, government and assistive technology on your schedule. [Ernst](https://x.com/ernst320).
+- [OpenAny](https://x.ai/bot/wZ0PqEbJCTJizVYNK9Ohs) - Connects your bot to OpenAny for 150+ AI models and 3,000+ data and tool APIs with one key and pay-per-call balance. [Pistis](https://x.com/openanysi).
+- [Tesla Owner Copilot](https://x.ai/bot/KWkMaZUFZmvpp-_xbAVTI) - Keeps Tesla owners up to date on software, FSD, recalls and deals from public sources, with no car connection or account. [TheNorthernTrail](https://x.com/TacticaLJes).

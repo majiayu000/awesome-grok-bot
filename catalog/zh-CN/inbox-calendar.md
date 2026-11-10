@@ -303,3 +303,5 @@
 - [Zoom Meeting Companion](https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6) - 从链接或日历加入你的 Zoom 会议，记录详细笔记并跟踪决定和待办事项. [Brian](https://x.com/cu30rry_).
 - [Galloway Bot](https://x.ai/bot/jH4t29uiZ37tULZyqgOQK) - 核查与 Scott Galloway 相关的广告主证据和来源，并起草供你审阅的单独邮件. [Kevin](https://x.com/kchau).
 - [Karen Bot](https://x.ai/bot/KzsNGVtbCvgpWc9MXdXyr) - 帮你调查投诉事项，核对证据和官方联系方式，起草坚定而有据的邮件供你审阅后发送. [Kevin](https://x.com/kchau).
+- [Inbox Cleanup](https://x.ai/bot/vxICDdg7chCZWnDX6FL0T) - 定时清理 Gmail 垃圾邮件，把订阅、促销和群发邮件移入废纸篓并保留重要邮件，每周发送报告. [Viking69](https://x.com/vikingErik69).
+- [iCloud Connector](https://x.ai/bot/3NyjtdIRmgx38jmpzwgok) - 在免费 Oracle Cloud 服务器上搭建私有 iCloud 连接器（邮件、日历、通讯录、提醒事项），并接入 Grok Bot. [Jon](https://x.com/flightmediic).

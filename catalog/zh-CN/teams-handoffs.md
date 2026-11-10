@@ -851,3 +851,6 @@
 - [Persona Bot](https://x.ai/bot/xQp89oDJn122IVVD1uRV3) - 保存一份可移植的个人档案，其他机器人按需调取，每次分享都要你批准. [Phillip](https://x.com/Phil_Holland).
 - [Meet My Bot](https://x.ai/bot/HuOMWRR5_-Y0Qra8kuZoC) - 在目录里帮你找到合适的 Grok Bot，创作者也可以直接在对话里提交自己的机器人. [Luis](https://x.com/luisbarragan).
 - [Jev](https://x.ai/bot/bB09Tr7zFYd8KtzbCvk84) - 为机器人团队提供类型安全的决策层，把结构化状态变成带置信度的选择或评分. [IndependentDocX](https://x.com/DocLibertarian).
+- [Contact Your Reps](https://x.ai/bot/HdP5C0zOBXXRQaUAugAnS) - 查找你的联邦和州级官员，按 14 点议程准备逐一署名的信件，发送前由你审阅. [Troy](https://x.com/whitenoise301).
+- [Checkup](https://x.ai/bot/ffy9_7mBUraesvnoSouFC) - 给运行很多 Grok Bot 的人用的只读体检机器人，定时检查对话记录、例行任务和电脑状态. [Carolina](https://x.com/CarolinaDill).
+- [Mastermind](https://x.ai/bot/zdBkQ_7mp77gFyt20d3N0) - Grok Bot 群的知识管理员，维护一个 Obsidian 风格的 Markdown 知识库，保持整洁、最新且互相链接. [NoFace](https://x.com/0xStarfox).

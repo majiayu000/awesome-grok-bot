@@ -303,3 +303,5 @@ Back to [README](../../README.md)
 - [Zoom Meeting Companion](https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6) - Joins your Zoom meetings from a link or your calendar, takes detailed notes and tracks decisions and action items. [Brian](https://x.com/cu30rry_).
 - [Galloway Bot](https://x.ai/bot/jH4t29uiZ37tULZyqgOQK) - Checks Scott Galloway-related advertiser evidence and source context, then prepares factual, individual email cards for your approval. [Kevin](https://x.com/kchau).
 - [Karen Bot](https://x.ai/bot/KzsNGVtbCvgpWc9MXdXyr) - Researches a complaint, checks the evidence and official contacts, and drafts firm, factual emails for you to review and send. [Kevin](https://x.com/kchau).
+- [Inbox Cleanup](https://x.ai/bot/vxICDdg7chCZWnDX6FL0T) - Clears junk from Gmail on a schedule, moving newsletters, promos and bulk mail to Trash while keeping important mail, with a weekly email report. [Viking69](https://x.com/vikingErik69).
+- [iCloud Connector](https://x.ai/bot/3NyjtdIRmgx38jmpzwgok) - Sets up a private iCloud connector for Mail, Calendar, Contacts and Reminders on a free Oracle Cloud server and connects it to Grok Bot. [Jon](https://x.com/flightmediic).

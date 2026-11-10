@@ -986,3 +986,7 @@
 - [MVボット](https://x.ai/bot/vr3dNf5orMqsiYHG1PzRD) - 制作歌词文字动画 MV，用 Grok Image 和 Grok Video 生成画面，保持角色一致并输出 1080p. [いとぱん](https://x.com/takamasa045).
 - [Flow Film Maker](https://x.ai/bot/EaBu_d_aTVqQffsAheeMC) - 在你自己的账号里用 Google Flow 制作竖屏 AI 短片，沿用你的角色、场景、旁白、画风和照片. [ecoay](https://x.com/ecoay).
 - [Following Interest Reviewer](https://x.ai/bot/DV1Icl-5UdIg_hlLaQRSA) - 对照你的兴趣和时间线检查你关注的 X 账号，把不匹配的按每批 10 个发给你确认. [Cleetus](https://x.com/175rng).
+- [Launch Page Pro](https://x.ai/bot/Vui7gf2M2iVLgwAieHJeh) - 把商家链接或几句介绍变成可预览的落地页，看起来像专业机构做的，不像模板. [Thuong](https://x.com/teeRex247).
+- [Save Shelter Dogs](https://x.ai/bot/fJCklr7BGXas0RA0b9imH) - 每天在 X 上推广本地收容所高风险名单里的狗，包括照片帖、置顶幻灯片和认养承诺活动. [SaveMASDog](https://x.com/SaveMASDog).
+- [80s Fake Footage](https://x.ai/bot/u1MG6utY3VGmo52GPs7-x) - 用一句话加类型、语气和角色，生成像出自不存在的 80 年代电影的无声循环 GIF. [Brandon](https://x.com/BrandonPlantz).
+- [X Growth Bot](https://x.ai/bot/O60Icbx5BlKTkHBCrAgDe) - 帮小众 X 账号冲原创内容奖励，包括抢先回复大号、回复评论者、趋势提醒和早间复盘. [Shoaib](https://x.com/shoaib_t7).
