@@ -1000,3 +1000,8 @@
 - [Game Content Coach](https://x.ai/bot/gvCwVFynuIPr92qD3jMNf) - 面向时间有限的新手游戏创作者的每日教练，每天早上给出一条帖子、一个拍摄目标和一个发布时间. [Gabriel](https://x.com/Tijs_Fan).
 - [It's Alive 4D Posts](https://x.ai/bot/PxLus1MpAZobBdrWjEwv1) - 发送任意 X 帖子，得到一段抓眼球的 4D 短片，逼真的角色从帖子里爬出来，做出与内容相关的动作并循环. [Mav](https://x.com/Mavmetax).
 - [Pixel](https://x.ai/bot/gM0DHWfNDysR-M6FdEkhr) - 设计机器人，用 GIMP、Inkscape、Krita 等真实编辑器制作标志、缩略图、封面、图标、帖子配图和界面原型. [𝕃𝕖𝕧𝕚](https://x.com/LeviHoliday4).
+- [BTDS OOI](https://x.ai/bot/agrfii00vkcnuZlH9PMaO) - 按 BTDS 的公开帖子风格做的粉丝致敬机器人，用那种口吻起草回复. [forgedusa1](https://x.com/forgedusa1).
+- [Talking-Head Director v2](https://x.ai/bot/qxD_0iH_MxE6qBHe5arIS) - 把访谈、播客和讲解类的真人出镜录像剪成竖屏动态视频，带人物抠像和动画. [Adem](https://x.com/AdemVessell_o).
+- [Twitter Bot](https://x.ai/bot/fyJbO6ogsdnulvTt7t1g3) - X 写作搭档，学习你的口吻和目标，起草帖子、长串和文章并配图. [Hovhannes](https://x.com/hovinthenorth).
+- [Follower Finder](https://x.ai/bot/TMzi63QTCNDSF4ZyYDZ9C) - X 涨粉助手，审查新增的认证粉丝，给值得回关的账号打分，并找出和你兴趣相符的账号. [Empress](https://x.com/HeavyMetalShip).
+- [零 AI 味爆款社群故事寫手](https://x.ai/bot/r705YqLW6_w4Wtm5ZgFYf) - 把干巴巴的要点或日常灵感改写成有人情味的故事，适合 Threads、Facebook 和朋友圈，没有机器人腔. [建蒲](https://x.com/wosiinmo).

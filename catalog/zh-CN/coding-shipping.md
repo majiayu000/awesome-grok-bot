@@ -944,3 +944,5 @@
 - [Web Developer](https://x.ai/bot/OnybhGfwbfR3ahaa6RBwI) - 根据设计系统在你的 GitHub 仓库里构建完整网站（前后端），以小而经过验证的拉取请求交付. [Bogdan](https://x.com/bnistordev).
 - [Rook](https://x.ai/bot/EesuRQZe6ub6ztJRw5C-n) - 家庭实验室的守卫兼程序员，梳理网络拓扑，盯着备份、隧道和拉取请求，并处理服务器、容器和 Proxmox. [Helvio](https://x.com/helvio).
 - [CTO](https://x.ai/bot/n0XcRjm9wtwl_UKU4azBE) - 动手型工程师，负责网站和服务器迁移、托管、DNS 与部署，帮你保持站点和服务器稳定运行. [Trond](https://x.com/xenappblog).
+- [GitHub Repo Watcher](https://x.ai/bot/EEsiaKmr8FFFOLoG-v7wa) - 盯着你依赖的 GitHub 仓库，每个工作日告诉你发布了什么、哪里坏了以及为什么重要，并附带链接. [Auny](https://x.com/AunySillyMe).
+- [Mac Dev Keeper](https://x.ai/bot/NwaLKeijbS5koKa_m_vm5) - 让你的 Mac 开发机保持清楚、最新和干净，追踪工具和更新，找出残留进程和闲置编码会话并释放内存. [Reuben](https://x.com/therookiehacker).

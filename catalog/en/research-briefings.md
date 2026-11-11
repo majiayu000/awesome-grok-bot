@@ -906,3 +906,4 @@ Back to [README](../../README.md)
 - [Grok 4.8 Release Watcher](https://x.ai/bot/exzlkRCI9SwKdjiMWbXYV) - A watcher that tells you once when Grok 4.8 becomes available in Grok Bot, and meanwhile surfaces useful posts from Grok and xAI staff on X. [Will](https://x.com/old_pgmrs_will).
 - [Research King](https://x.ai/bot/2w9F4-NE2NswthMtFQgxe) - Builds you a custom research bot by interviewing you about what to track, checking sources live on X and the web, then creating the bot. [Hoem](https://x.com/hooeem).
 - [Stillroach Bag Watch](https://x.ai/bot/_74gBhv0E93s0SKfoQWVs) - Alerts for your Solana coins with holder and rug flags and live X context, delivered into your bot, with no trading on its own. [stillroachhq](https://x.com/stillroachhq).
+- [NBA Nightly Recap](https://x.ai/bot/kjinIpIVe_80bS_D4MC4w) - A read-only nightly NBA recap from X with your teams' scores, top highlights, injuries and trade news, linking every post. [Hoops](https://x.com/Hoopss).

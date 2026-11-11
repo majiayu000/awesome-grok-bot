@@ -612,3 +612,4 @@
 - [The Tough Buyer](https://x.ai/bot/rTNKMC1APefwrp23niJ7s) - 任何销售场景的强硬买家，抛出真实异议，逼得太紧就挂电话，只有你争取到才答应，并给每通电话打分. [Roland](https://x.com/LALAWOODER).
 - [Scout](https://x.ai/bot/Ww_WuI-z3Pr2B-NAEUTu6) - 每个工作日早上扫描 SAM.gov 等联邦招标来源，找出你技术方向的合同机会并筛出合适的. [Morgan](https://x.com/badmorgan420).
 - [Defect Spotter](https://x.ai/bot/sG7POI3KI0UcnuZmK34Zt) - 上传零件、焊缝、图纸或收货照片，它会标出可见的杂质、裂纹、划痕、缺件和运输损伤. [Thuong](https://x.com/teeRex247).
+- [Shopify AI Research](https://x.ai/bot/P6UI0mB6IjiV0TxySTkoG) - 帮 Shopify 小商家检查 ChatGPT、Perplexity 或 Google AI Mode 是否推荐了自己或竞品，以及价格和信息是否准确. [百乐](https://x.com/Brin100_0).

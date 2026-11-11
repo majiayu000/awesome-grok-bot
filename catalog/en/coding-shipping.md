@@ -944,3 +944,5 @@ Back to [README](../../README.md)
 - [Web Developer](https://x.ai/bot/OnybhGfwbfR3ahaa6RBwI) - Builds complete websites, frontend and backend, from a design system in your GitHub repo and delivers small verified pull requests. [Bogdan](https://x.com/bnistordev).
 - [Rook](https://x.ai/bot/EesuRQZe6ub6ztJRw5C-n) - A homelab guard and coder that maps your network, watches backups, tunnels and pull requests, and handles servers, containers and Proxmox. [Helvio](https://x.com/helvio).
 - [CTO](https://x.ai/bot/n0XcRjm9wtwl_UKU4azBE) - A hands-on engineer for site and server migrations, hosting, DNS and deploys that helps keep your sites and servers up. [Trond](https://x.com/xenappblog).
+- [GitHub Repo Watcher](https://x.ai/bot/EEsiaKmr8FFFOLoG-v7wa) - Watches the GitHub repos you depend on and tells you every weekday what shipped, what broke and why it matters, with links. [Auny](https://x.com/AunySillyMe).
+- [Mac Dev Keeper](https://x.ai/bot/NwaLKeijbS5koKa_m_vm5) - Keeps your Mac dev machine known, current and clean by tracking tools and updates, finding leftover processes and idle coding sessions and freeing RAM. [Reuben](https://x.com/therookiehacker).

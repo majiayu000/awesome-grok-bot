@@ -160301,6 +160301,322 @@
       "updated": "2026-11-11",
       "shelf": "raw",
       "source": "https://x.com/ericosiu/status/2120184826246332702"
+    },
+    {
+      "slug": "baby-yoda",
+      "name": "baby yoda",
+      "author": {
+        "name": "Supreme",
+        "url": "https://x.com/eggbotdoc"
+      },
+      "summary": "A baby-care reminder buddy for new parents that logs feeds, diapers and sleep in plain words and pings you when the next one is due",
+      "summary_zh": "给新手父母的育儿提醒小帮手，用日常话记录喂奶、换尿布和睡眠，并在下一次到点时提醒你",
+      "import": "https://x.ai/bot/8Xr10NWIondmn3hoP7CAr",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/eggbotdoc/status/2120385144393724339"
+    },
+    {
+      "slug": "github-repo-watcher",
+      "name": "GitHub Repo Watcher",
+      "author": {
+        "name": "Auny",
+        "url": "https://x.com/AunySillyMe"
+      },
+      "summary": "Watches the GitHub repos you depend on and tells you every weekday what shipped, what broke and why it matters, with links",
+      "summary_zh": "盯着你依赖的 GitHub 仓库，每个工作日告诉你发布了什么、哪里坏了以及为什么重要，并附带链接",
+      "import": "https://x.ai/bot/EEsiaKmr8FFFOLoG-v7wa",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/AunySillyMe/status/2120425697818947659"
+    },
+    {
+      "slug": "btds-ooi",
+      "name": "BTDS OOI",
+      "author": {
+        "name": "forgedusa1",
+        "url": "https://x.com/forgedusa1"
+      },
+      "summary": "A fan-made tribute bot modeled on the public posts of BTDS that drafts replies in that voice",
+      "summary_zh": "按 BTDS 的公开帖子风格做的粉丝致敬机器人，用那种口吻起草回复",
+      "import": "https://x.ai/bot/agrfii00vkcnuZlH9PMaO",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/forgedusa1/status/2120338388809396330"
+    },
+    {
+      "slug": "costco-price-adjust",
+      "name": "Costco Price Adjust",
+      "author": {
+        "name": "Tyler",
+        "url": "https://x.com/Tjt_22"
+      },
+      "summary": "Checks your Costco receipts against the current Instant Savings book and tells you when an item you bought in the last 30 days dropped in price",
+      "summary_zh": "把你的 Costco 小票和当前即时优惠册对照，30 天内买过的商品降价时提醒你",
+      "import": "https://x.ai/bot/e-n9Jr0TNFAfVCgAhusb0",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/Tjt_22/status/2120408048573546773"
+    },
+    {
+      "slug": "talking-head-director-v2",
+      "name": "Talking-Head Director v2",
+      "author": {
+        "name": "Adem",
+        "url": "https://x.com/AdemVessell_o"
+      },
+      "summary": "Turns talking-head recordings such as interviews, podcasts and explainers into dynamic vertical edits with speaker cutouts and animations",
+      "summary_zh": "把访谈、播客和讲解类的真人出镜录像剪成竖屏动态视频，带人物抠像和动画",
+      "import": "https://x.ai/bot/qxD_0iH_MxE6qBHe5arIS",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/AdemVessell_o/status/2120390390377595252"
+    },
+    {
+      "slug": "twitter-bot",
+      "name": "Twitter Bot",
+      "author": {
+        "name": "Hovhannes",
+        "url": "https://x.com/hovinthenorth"
+      },
+      "summary": "An X writing partner that learns your voice and goals, then drafts posts, threads and articles and makes matching images",
+      "summary_zh": "X 写作搭档，学习你的口吻和目标，起草帖子、长串和文章并配图",
+      "import": "https://x.ai/bot/fyJbO6ogsdnulvTt7t1g3",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/hovinthenorth/status/2120404170134151558"
+    },
+    {
+      "slug": "guard-bot",
+      "name": "Guard Bot",
+      "author": {
+        "name": "Calix",
+        "url": "https://x.com/CaliLumberJack"
+      },
+      "summary": "A read-only security auditor for your Grok Bot setup that scans for exposed secrets, risky dependencies, open permissions and unapproved bot actions",
+      "summary_zh": "只读的 Grok Bot 安全审计员，扫描泄露的密钥、有风险的依赖、过宽的权限和未经批准的机器人操作",
+      "import": "https://x.ai/bot/VgXd27csgB7BXF4oX7BDW",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/CaliLumberJack/status/2120350815198011430"
+    },
+    {
+      "slug": "follower-finder",
+      "name": "Follower Finder",
+      "author": {
+        "name": "Empress",
+        "url": "https://x.com/HeavyMetalShip"
+      },
+      "summary": "An X growth helper that reviews new verified followers, scores who is worth following back and finds accounts that match your interests",
+      "summary_zh": "X 涨粉助手，审查新增的认证粉丝，给值得回关的账号打分，并找出和你兴趣相符的账号",
+      "import": "https://x.ai/bot/TMzi63QTCNDSF4ZyYDZ9C",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/HeavyMetalShip/status/2120339122036552111"
+    },
+    {
+      "slug": "ai-3",
+      "name": "零 AI 味爆款社群故事寫手",
+      "author": {
+        "name": "建蒲",
+        "url": "https://x.com/wosiinmo"
+      },
+      "summary": "Turns dry key points or everyday ideas into human, pain-point-driven stories for Threads, Facebook and WeChat Moments, without the robotic tone",
+      "summary_zh": "把干巴巴的要点或日常灵感改写成有人情味的故事，适合 Threads、Facebook 和朋友圈，没有机器人腔",
+      "import": "https://x.ai/bot/r705YqLW6_w4Wtm5ZgFYf",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/wosiinmo/status/2120373453589291042"
+    },
+    {
+      "slug": "rook-chief-of-staff-2",
+      "name": "Rook · Chief of Staff",
+      "author": {
+        "name": "Sarah",
+        "url": "https://x.com/SpaceCowgirlTX"
+      },
+      "summary": "A chief of staff for solo founders who run a crew of AI bots, running your morning board, chasing blockers and routing work to your other bots",
+      "summary_zh": "给独立创始人的幕僚长，统筹你的一群 AI 机器人，负责早间看板、追进阻塞项并把活派给其他机器人",
+      "import": "https://x.ai/bot/CR53dPKbs_rBRerKssfvD",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/SpaceCowgirlTX/status/2120407433143091215"
+    },
+    {
+      "slug": "shopify-ai-research",
+      "name": "Shopify AI Research",
+      "author": {
+        "name": "百乐",
+        "url": "https://x.com/Brin100_0"
+      },
+      "summary": "Helps small Shopify merchants check whether ChatGPT, Perplexity or Google AI Mode recommends them or a competitor, and whether prices and details are correct",
+      "summary_zh": "帮 Shopify 小商家检查 ChatGPT、Perplexity 或 Google AI Mode 是否推荐了自己或竞品，以及价格和信息是否准确",
+      "import": "https://x.ai/bot/P6UI0mB6IjiV0TxySTkoG",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/Brin100_0/status/2120352727335391427"
+    },
+    {
+      "slug": "veterans-day-bro",
+      "name": "Veterans Day Bro",
+      "author": {
+        "name": "Joshua",
+        "url": "https://x.com/JoshSeefried"
+      },
+      "summary": "Finds verified Veterans Day freebies and discounts for your ZIP code, meals first, then entertainment and store deals",
+      "summary_zh": "按你的邮编找退伍军人节的免费和折扣优惠，先列餐饮，再列娱乐和商店优惠",
+      "import": "https://x.ai/bot/fnGtsSHn4jSH00iKvBEF3",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/JoshSeefried/status/2120364090904207705"
+    },
+    {
+      "slug": "mac-dev-keeper",
+      "name": "Mac Dev Keeper",
+      "author": {
+        "name": "Reuben",
+        "url": "https://x.com/therookiehacker"
+      },
+      "summary": "Keeps your Mac dev machine known, current and clean by tracking tools and updates, finding leftover processes and idle coding sessions and freeing RAM",
+      "summary_zh": "让你的 Mac 开发机保持清楚、最新和干净，追踪工具和更新，找出残留进程和闲置编码会话并释放内存",
+      "import": "https://x.ai/bot/NwaLKeijbS5koKa_m_vm5",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/therookiehacker/status/2120355180835442858"
+    },
+    {
+      "slug": "mindset-coach",
+      "name": "Mindset coach",
+      "author": {
+        "name": "Rachel",
+        "url": "https://x.com/RachelVT42"
+      },
+      "summary": "A mindset coach that uses short Socratic questions to help you get unstuck, prepare for big moments and build small weekly habits",
+      "summary_zh": "心态教练，用简短的苏格拉底式提问帮你走出卡点、准备重要时刻并养成每周小习惯",
+      "import": "https://x.ai/bot/_B6MxCsIXuYNMoTVAP9UA",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/RachelVT42/status/2120339071255843296"
+    },
+    {
+      "slug": "nba-nightly-recap",
+      "name": "NBA Nightly Recap",
+      "author": {
+        "name": "Hoops",
+        "url": "https://x.com/Hoopss"
+      },
+      "summary": "A read-only nightly NBA recap from X with your teams' scores, top highlights, injuries and trade news, linking every post",
+      "summary_zh": "每晚从 X 生成只读的 NBA 战报，包含你关注球队的比分、精彩集锦、伤病和交易消息，并链接每条帖子",
+      "import": "https://x.ai/bot/kjinIpIVe_80bS_D4MC4w",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/Hoopss/status/2120410191191540120"
     }
   ]
 }

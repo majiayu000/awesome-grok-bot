@@ -906,3 +906,4 @@
 - [Grok 4.8 Release Watcher](https://x.ai/bot/exzlkRCI9SwKdjiMWbXYV) - 一个盯梢机器人，Grok 4.8 在 Grok Bot 里可用时只通知你一次，期间从 Grok 和 xAI 员工的 X 帖子里挑有用的消息. [Will](https://x.com/old_pgmrs_will).
 - [Research King](https://x.ai/bot/2w9F4-NE2NswthMtFQgxe) - 通过访谈了解你想跟踪什么，实时检查 X 和网页上的来源，再为你创建专属研究机器人. [Hoem](https://x.com/hooeem).
 - [Stillroach Bag Watch](https://x.ai/bot/_74gBhv0E93s0SKfoQWVs) - 为你持有的 Solana 代币推送提醒，附持仓者和跑路风险标记及实时 X 背景，不会自行交易. [stillroachhq](https://x.com/stillroachhq).
+- [NBA Nightly Recap](https://x.ai/bot/kjinIpIVe_80bS_D4MC4w) - 每晚从 X 生成只读的 NBA 战报，包含你关注球队的比分、精彩集锦、伤病和交易消息，并链接每条帖子. [Hoops](https://x.com/Hoopss).

@@ -856,3 +856,5 @@
 - [Mastermind](https://x.ai/bot/zdBkQ_7mp77gFyt20d3N0) - Grok Bot 群的知识管理员，维护一个 Obsidian 风格的 Markdown 知识库，保持整洁、最新且互相链接. [NoFace](https://x.com/0xStarfox).
 - [Muse Bridge](https://x.ai/bot/Eyq2_3_2eIs2mXpFJsso8) - 把 Muse 助手接进 Grok Bot，可给 Muse 主会话或各项目会话发消息，并把回复带回来、存日志. [Haidong](https://x.com/HeHaidong27050).
 - [Usage Watch](https://x.ai/bot/HHDuDo50QAhU9ozZpI5nc) - 追踪你的 Grok Bot 用量去向，快用完前预警并建议最大的节省点，只出报告，不会改动你的机器人. [Scott](https://x.com/ScottSpills).
+- [Guard Bot](https://x.ai/bot/VgXd27csgB7BXF4oX7BDW) - 只读的 Grok Bot 安全审计员，扫描泄露的密钥、有风险的依赖、过宽的权限和未经批准的机器人操作. [Calix](https://x.com/CaliLumberJack).
+- [Rook · Chief of Staff](https://x.ai/bot/CR53dPKbs_rBRerKssfvD) - 给独立创始人的幕僚长，统筹你的一群 AI 机器人，负责早间看板、追进阻塞项并把活派给其他机器人. [Sarah](https://x.com/SpaceCowgirlTX).

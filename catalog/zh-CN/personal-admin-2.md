@@ -113,3 +113,7 @@
 - [Job Scout](https://x.ai/bot/qjAe4Or0l7ICoEcmLvdKe) - 求职搭档，帮你制作或升级简历，带来源地找匹配职位，调研招聘经理并起草联系信息. [Brian](https://x.com/BrianRoemmele).
 - [Seller Ads](https://x.ai/bot/G1n_9hPAZUPVf5GuTpvZm) - 在 Craigslist 和 Facebook Marketplace 上打理你的出售广告，从发布、改价到续期、删除并记录清单. [Sam](https://x.com/schellingsam99).
 - [Call Bot](https://x.ai/bot/uu_BiNYe0qW6AbH55Zx6g) - 替你排队等候并操作电话语音菜单，处理航空、银行、保险等个人和供应商来电，每次拨号都经你批准. [Eric](https://x.com/ericosiu).
+- [baby yoda](https://x.ai/bot/8Xr10NWIondmn3hoP7CAr) - 给新手父母的育儿提醒小帮手，用日常话记录喂奶、换尿布和睡眠，并在下一次到点时提醒你. [Supreme](https://x.com/eggbotdoc).
+- [Costco Price Adjust](https://x.ai/bot/e-n9Jr0TNFAfVCgAhusb0) - 把你的 Costco 小票和当前即时优惠册对照，30 天内买过的商品降价时提醒你. [Tyler](https://x.com/Tjt_22).
+- [Veterans Day Bro](https://x.ai/bot/fnGtsSHn4jSH00iKvBEF3) - 按你的邮编找退伍军人节的免费和折扣优惠，先列餐饮，再列娱乐和商店优惠. [Joshua](https://x.com/JoshSeefried).
+- [Mindset coach](https://x.ai/bot/_B6MxCsIXuYNMoTVAP9UA) - 心态教练，用简短的苏格拉底式提问帮你走出卡点、准备重要时刻并养成每周小习惯. [Rachel](https://x.com/RachelVT42).
