@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7329 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 7734 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -97,7 +97,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 [catalog.json](catalog.json) 里的 `shelf` 是编辑导航（featured、solid、studio-door、aka、raw）。能打开不等于安全。`verified` 是另一套维护者核验标记。
 
-工作室门（调度、安装器、前台）共 **214** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
+工作室门（调度、安装器、前台）共 **215** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
 
 完整列表在下面，按活分类。真人案例和踩坑在链接墙上面。
 
@@ -105,17 +105,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 908 |
-| [Inbox & calendar](#inbox--calendar) | 291 |
-| [Research & briefings](#research--briefings) | 864 |
-| [Customer & sales](#customer--sales) | 590 |
-| [Finance & ops](#finance--ops) | 728 |
-| [Content & publishing](#content--publishing) | 934 |
-| [Personal admin](#personal-admin) | 2226 |
-| [Teams & handoffs](#teams--handoffs) | 788 |
-| **合计** | **7329** |
+| [Coding & shipping](#coding--shipping) | 944 |
+| [Inbox & calendar](#inbox--calendar) | 304 |
+| [Research & briefings](#research--briefings) | 905 |
+| [Customer & sales](#customer--sales) | 611 |
+| [Finance & ops](#finance--ops) | 762 |
+| [Content & publishing](#content--publishing) | 1005 |
+| [Personal admin](#personal-admin) | 2346 |
+| [Teams & handoffs](#teams--handoffs) | 857 |
+| **合计** | **7734** |
 
-2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7329 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200；2026 年 11 月 4 日又新增 52 个，均返回 200；2026 年 11 月 6 日又新增 108 个，均返回 200；同日下午增量又新增 15 个，均返回 200；同日晚间增量又新增 14 个，均返回 200。2026-11-07 又有 32 个新分享返回 200 并已收录；同日下午增量又新增 5 个，均返回 200。2026 年 11 月 8 日又新增 21 个，均返回 200；11 月 9 日下午增量又新增 8 个，均返回 200；11 月 10 日上午全量又新增 24 个、下午增量又新增 7 个、晚间增量又新增 1 个，均返回 200；11 月 11 日上午全量又新增 33 个，下午增量又新增 15 个、晚间增量又新增 4 个，均返回 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7734 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -253,35 +253,35 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Coding & shipping
 
-完整列表（908 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
+完整列表（944 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
 
 ## Inbox & calendar
 
-完整列表（291 条）：[catalog/zh-CN/inbox-calendar.md](catalog/zh-CN/inbox-calendar.md)
+完整列表（304 条）：[catalog/zh-CN/inbox-calendar.md](catalog/zh-CN/inbox-calendar.md)
 
 ## Research & briefings
 
-完整列表（864 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
+完整列表（905 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
 
 ## Customer & sales
 
-完整列表（590 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
+完整列表（611 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
 
 ## Finance & ops
 
-完整列表（728 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（762 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
-完整列表（934 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（1005 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（2226 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
+完整列表（2346 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
 
 ## Teams & handoffs
 
-完整列表（788 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（857 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

@@ -293,3 +293,16 @@
 - [WhatsApp Assistant](https://x.ai/bot/LgLcAcgu50-eldWVmALmn) - 用 wacli 读取 WhatsApp，识别承诺和提醒，只在你开启的聊天中回复并用表情署名. [Gabriel](https://x.com/gabogabucho).
 - [X DM Desk](https://x.ai/bot/Du8IIHjYiX0yBrpy_C4a2) - 把 X 私信分为品牌合作、粉丝、私人和垃圾，用你的口吻起草回复，没你同意不发. [TwistedLogic7](https://x.com/TLogic7).
 - [Cal.com MCP](https://x.ai/bot/8xUXbFMraN0ysh2F624gJ) - 在聊天里管理 Cal.com，查空闲和休假，管理预约、活动类型、日程和团队路由表单. [Peer](https://x.com/peer_rich).
+- [BoardingBuddy](https://x.ai/bot/iRN5hVT_cAfwJMcMHVRLZ) - 航班起飞前24小时自动帮你值机，并把登机牌发回来，每次确认都留日志. [Dillon](https://x.com/nollidzsab).
+- [Pre-Call Brief](https://x.ai/bot/GjAx9sLjHoYK4AdKV-GxN) - 会前唯一任务是根据你的日历整理一页简报，让你走进会议室时心里有数. [Calix](https://x.com/CaliLumberJack).
+- [Ultimate Calling Assistant Bot](https://x.ai/bot/7mv_WGWHsjwnuQM1k1xB3) - 长时占线电话的总机秘书，先写通话简报，再用 Grok Bot 内置通话在语音树里替你等. [Brian](https://x.com/BrianRoemmele).
+- [Inbox](https://x.ai/bot/zsnCR-2rKTYLRve6w98Ls) - 把多个 Gmail 收在一处，简要说明哪些要回、哪些账单和日程将至、哪些是噪音. [Bearhugsink](https://x.com/Bearhugsink).
+- [Travel Calendar Sync](https://x.ai/bot/FrCwEP7u_7mRiakVg0HvK) - 盯订票邮件里的航班、酒店与租车，自动更新日历，可给固定人或任意同行发邀请. [Matt](https://x.com/carlinmcFL).
+- [Apple Desk](https://x.ai/bot/LneMGVrkfLOfrJkw283Bs) - 从 Grok Bot 操控 Mac 上的提醒事项、日历、备忘录、通讯录、信息与快捷指令. Daniel.
+- [Email Scam Filter](https://x.ai/bot/MfhUu1dlT8X4fVSUXtydD) - 每天只读扫描 Gmail 给可疑邮件打零到一百的诈骗风险分并用颜色标出. [Travis](https://x.com/Travis).
+- [Zoom Meeting Companion](https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6) - 从链接或日历加入你的 Zoom 会议，记录详细笔记并跟踪决定和待办事项. [Brian](https://x.com/cu30rry_).
+- [Galloway Bot](https://x.ai/bot/jH4t29uiZ37tULZyqgOQK) - 核查与 Scott Galloway 相关的广告主证据和来源，并起草供你审阅的单独邮件. [Kevin](https://x.com/kchau).
+- [Karen Bot](https://x.ai/bot/KzsNGVtbCvgpWc9MXdXyr) - 帮你调查投诉事项，核对证据和官方联系方式，起草坚定而有据的邮件供你审阅后发送. [Kevin](https://x.com/kchau).
+- [Inbox Cleanup](https://x.ai/bot/vxICDdg7chCZWnDX6FL0T) - 定时清理 Gmail 垃圾邮件，把订阅、促销和群发邮件移入废纸篓并保留重要邮件，每周发送报告. [Viking69](https://x.com/vikingErik69).
+- [iCloud Connector](https://x.ai/bot/3NyjtdIRmgx38jmpzwgok) - 在免费 Oracle Cloud 服务器上搭建私有 iCloud 连接器（邮件、日历、通讯录、提醒事项），并接入 Grok Bot. [Jon](https://x.com/flightmediic).
+- [Amazon Email Fix](https://x.ai/bot/k0gaVOXTYMwyq_H9jK-lN) - 把亚马逊简陋的下单、发货和送达邮件替换成带明细的亚马逊风格版本，只发给你自己. [David](https://x.com/davidvatz).

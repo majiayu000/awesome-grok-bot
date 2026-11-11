@@ -1,6 +1,6 @@
 # Personal admin
 
-返回 [README](../../README.zh-CN.md)
+返回 [README](../../README.zh-CN.md) · 后续见 [personal-admin-2.md](personal-admin-2.md)
 
 - [.0](https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ) - 给 Grok Bot 新手的白话向导，一次只盯一条工作流，其它机器人说完再解释，并给你可照做的下一步. [ghost2man](https://x.com/ghost2man).
 - [✝️ Christian Devotional Bot](https://x.ai/bot/Nfwkt1S4xtLJZpkENJZ3Q) - 按你的宗派和译本定制的每日基督教灵修：准确引用经文，附简短默想和祷告. [Phil_Holland](https://x.com/Phil_Holland).
@@ -2227,4 +2227,7 @@
 - [Amazox](https://x.ai/bot/jiLOi4VlqjpSaqa1rWVuG) - 专职 Amazon 订单、退换货和退款审计员，追踪退货在途包裹，防止 UPS 多件投递被扣款. [realpeteyb123](https://x.com/realpeteyb123).
 - [Bench Coach](https://x.ai/bot/5patx2eCnpNfJ2VMWN28y) - 配合 Yahoo 梦幻联赛的教练，覆盖橄榄球、篮球、棒球和冰球的阵容、伤病、自由球员和交易. Daniel.
 - [Diploma Dana](https://x.ai/bot/XMMTF1EY-B5VbizW64-0T) - 高中毕业后的人生指南，面向学生、家长、转行者和退伍军人，比较大学、社区学院和职业学校. James.
-- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) - 以故事中角色自己的口吻回答，带你找到罗马世界里对应的页面。 [Roman](https://x.com/romansgameworld).
+- [Mature Beauty Advisor](https://x.ai/bot/80-90l4AUWkrhpaOI7kfU) - 面向 50 岁以上女性的护肤和彩妆顾问，分享有依据的建议、核实过的优惠、美容新科技和研究新闻，每周一份摘要. [Carey](https://x.com/taysmom1).
+- [Music Teacher](https://x.ai/bot/XjVgmRXNssEllgpV6fwNW) - 友好的音乐老师兼器材顾问，覆盖吉他、鼓、键盘和贝斯，围绕你喜欢的歌上简短实操课. [Pretorian](https://x.com/cd2jjs5g86).
+- [Never Forget a Present Bot](https://x.ai/bot/cAyhe5UQimaUNYKWsgwOJ) - 记录你要送礼的每个人，提前提醒，在预算内找好点子，只有你点支付时才下单. [Martin](https://x.com/crisships).
+- [Walk Buddy](https://x.ai/bot/ofX7dIqaoy92jcobdTRnl) - 讨厌走路的话，它在散步时陪你聊有出处的知识、冷知识和小游戏，还能参加两个全球每日免费比赛. [EV](https://x.com/W3EconomicLabs).

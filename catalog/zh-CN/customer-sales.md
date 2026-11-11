@@ -592,3 +592,24 @@
 - [Truck Inventory](https://x.ai/bot/a5eUje00PaMzSwlN7dS5N) - 面向暖通等现场技师的车载库存，在库存页面记录零件数量，并预置基础暖通目录. [ᑕᕼIᑕᗩᘜO](https://x.com/jayrok35).
 - [Resell](https://x.ai/bot/Sel1Lly3TjCCIHPkTLzio) - 转卖者助手，把物品照片变成定好价可发布的商品，多平台上架，售出后各处下架. [Colton](https://x.com/Cryptonoob14170).
 - [Lead Hunter](https://x.ai/bot/zGZE1HG3X5jQdq0OgRNcy) - 扫描 X 和 Reddit 上准备购买你产品的人，按热温冷给线索打分，起草回复经你批准才发. [Sultanov](https://x.com/thekuchh).
+- [Lead Desk](https://x.ai/bot/zqCY7u_VOCpgNSzOwpfNz) - 只做一件事，接住每条新线索，分类整理，再交给你一份跟进草稿. [Calix](https://x.com/CaliLumberJack).
+- [Franchise Opportunity Finder](https://x.ai/bot/BTt50YzAQhs_wpleTbRSh) - 按你的预算、地点、投入时间和技能，寻找并筛查合适的加盟机会. [Igor](https://x.com/igormajdov).
+- [clutch · live coach](https://x.ai/bot/dlxokqZ4cLjnOzjX8VQln) - 点按式销售教练，覆盖通话前、通话中和刚结束时，提供异议应对按钮、SPIN 提问和给销售的买家角色扮演. [josiah](https://x.com/josiahXXI).
+- [High Website Secretary](https://x.ai/bot/LtJhUnD70XELBwSntpqif) - 给店主用的网站秘书，回复网站聊天并可随时接管，给订单编号、发收据、标记售罄商品. [High](https://x.com/Hightv).
+- [FAFO Homestead Helper](https://x.ai/bot/deZ5MwQ-PJaPLAmi_LAY1) - 一步步帮女性创办家庭农场或小农场生意，从注册 LLC 到美国农业部的申请材料和补助都管. [Jennifer](https://x.com/JenFlood17).
+- [Revenue Rex](https://x.ai/bot/1OnUg1oZyw2c49tpKkez9) - 给独立开发者和 SaaS 创业者的一站式营销团队，页面、定价、邮件和发布都能帮上. [Paul](https://x.com/0xPaulvibe).
+- [X Reply & Networking Assistant](https://x.ai/bot/SDKTO3mMc0NDQljmbOubN) - 先了解你的专长，再在 X 上找出你所在领域真正在做事的人，方便你交流和回复. [Felix](https://x.com/hereFelixK).
+- [Sell Bot](https://x.ai/bot/hQPVJuB_EjmPHlnSkrLv_) - 创始人的销售与客户成功台，准备通话、起草跟进与方案、盯账户，发出前都要你点头. [Luis](https://x.com/ThePsalm46Guy).
+- [Hilo · Gestor de Oportunidades](https://x.ai/bot/emVFqy7IGl2DFJBue2pNf) - 从邮件、日历、Slack 与 Teams 管理 Hilo CRM 商机，记流水线、准备跟进并复盘. [dollarbillj](https://x.com/jrodrigocoronel).
+- [Keyword Tagging Suite](https://x.ai/bot/mA92FsTcyDVegzVf7BZcz) - 亚马逊关键词打标，覆盖 ABA 原子标签、SIF 需求到广告结构，以及搜索词特征词经济性. [Emily](https://x.com/starai82685).
+- [LinkedIn Prospector](https://x.ai/bot/Ls_S-fd1NhZ3xdXxFfxo5) - B2B LinkedIn 拓客，每个工作日找符合画像的人，起草连接语和首条私信，只发你批准的. [Kyle](https://x.com/KGtheGent88).
+- [Idea Bot](https://x.ai/bot/rTZQlYcR-FB2JoGsk5GXh) - 每天找并验证商业点子快速砍掉弱的只留下值得零成本试的. [ALK](https://x.com/ALK).
+- [Boycott Sponsor Mailer](https://x.ai/bot/eNMapsYhwVrk1Y3D_7w_a) - 给赞助某对象的公司起草抵制邮件由你审阅后再亲自发送. [Adam](https://x.com/AdamLowisz).
+- [SponsorSeeker](https://x.ai/bot/xN_QWP_EWHZxDkrL_DSVL) - 为你的通讯或播客寻找并筛选赞助商，起草洽谈邮件和价目表，同时核查高客单价联盟项目. [Jethro](https://x.com/jethrojones).
+- [Saleslumen Bot](https://x.ai/bot/yl1-5MQXPh_X9bt4TMGIk) - 帮你搭建并运行 Saleslumen 的营销活动、邮件、工作流和集成，优先使用 sl CLI 和最新官方指引. [Saleslumen](https://x.com/saleslumen).
+- [Forge](https://x.ai/bot/fHUfj7QKrEt6_QHBDbRwX) - 面向数字产品卖家的制作工具，生成可打印表格、PDF 套件、Pinterest 图片和商品文案成品文件. [TechEcho](https://x.com/techechohq).
+- [Anti-Adfraud Bot](https://x.ai/bot/A9PR4APmjoosYN1LAWZ_L) - 用通俗德语讲解谷歌广告里的点击欺诈和虚假线索，带你做 10 道题的自查，并指向免费审计，无需关联账号. [Markus](https://x.com/adfraudit).
+- [The Tough Buyer](https://x.ai/bot/rTNKMC1APefwrp23niJ7s) - 任何销售场景的强硬买家，抛出真实异议，逼得太紧就挂电话，只有你争取到才答应，并给每通电话打分. [Roland](https://x.com/LALAWOODER).
+- [Scout](https://x.ai/bot/Ww_WuI-z3Pr2B-NAEUTu6) - 每个工作日早上扫描 SAM.gov 等联邦招标来源，找出你技术方向的合同机会并筛出合适的. [Morgan](https://x.com/badmorgan420).
+- [Defect Spotter](https://x.ai/bot/sG7POI3KI0UcnuZmK34Zt) - 上传零件、焊缝、图纸或收货照片，它会标出可见的杂质、裂纹、划痕、缺件和运输损伤. [Thuong](https://x.com/teeRex247).
+- [Shopify AI Research](https://x.ai/bot/P6UI0mB6IjiV0TxySTkoG) - 帮 Shopify 小商家检查 ChatGPT、Perplexity 或 Google AI Mode 是否推荐了自己或竞品，以及价格和信息是否准确. [百乐](https://x.com/Brin100_0).

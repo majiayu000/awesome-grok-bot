@@ -730,3 +730,37 @@
 - [DART 合规筛查助手](https://x.ai/bot/_m6U31qU8KCBfFp-OdQxY) - 用 TrustIn DART 筛查钱包地址和交易的洗钱风险并给出结论的加密合规分析师. [dong'shegn](https://x.com/Bit_LittleP).
 - [Options 101](https://x.ai/bot/7jpWO79H0wt0Vl0NsvHRk) - 从零学期权交易，每天一节白话短课，并对上一课做小测验. [Howard](https://x.com/HowieMcMahan).
 - [Jane Street Desk](https://x.ai/bot/4tHBLVrDb9lW47wjBONeG) - Jane Street 风格的模拟交易台，由你担任台主. [Veles](https://x.com/velesxbt).
+- [Numbers Desk](https://x.ai/bot/aLyvoOKOFDQJtvd2KOT1a) - 给小企业随叫随到的数据助手，连上 Stripe、Shopify、QuickBooks、PostHog 或 Google 表格，用大白话问经营数字. [Pablo](https://x.com/KonectEaze).
+- [Refund & Delivery Chaser](https://x.ai/bot/Dka-gTc2gh8EZezo-F5_7) - 为每个卡住的网购订单或迟迟未到的退款建档，在合适时间起草下一条消息，一步步冷静升级. [Prabhu](https://x.com/crisships).
+- [X Bags](https://x.ai/bot/3XRSSn46guqC5O1r66aMi) - 为你持有的加密代币做每日新闻摘要，从 Zerion 读取持仓，经 DexScreener 找到项目 X 账号，挑出值得看的消息. [Crypto](https://x.com/CryptoSnooper_).
+- [Facturador ARCA](https://x.ai/bot/ab3c3bE85kOXtNPiimSEJ) - 通过官方 Web 服务开具阿根廷 ARCA C 类发票，起草催款邮件并提醒逾期，未经你同意不开票也不发送. [Gabriel](https://x.com/gabogabucho).
+- [Write-Off Keeper](https://x.ai/bot/BcKKc-ZRbp6zRXQ15fnY6) - 从邮箱里找出收据和收款记录并登记可抵扣项，帮创作者、自由职业者和小商家报税时不漏抵扣. [Mark](https://x.com/TheMarkGShow).
+- [Gift Card Sweeper](https://x.ai/bot/LdPRToZ8D6kp4e5Rk-JnL) - 从邮箱找出被遗忘的礼品卡、商店余额、积分和旅行抵用金，记在一个账本里并提醒你在过期前用掉. Andy.
+- [Braun Bill Haggler](https://x.ai/bot/lvOGOfOdz4kwqvIR03UUT) - 找出网费、话费和保险等定期账单，每项经你同意后再去和服务商砍价. Andy.
+- [Web3 Guide](https://x.ai/bot/P51xpyJAB6Bb1zJAeyxtU) - 面向新手和开发者的 Web3 向导，讲清钱包、DeFi、身份、交易工具和链上开发，并附带 QIE 链的实时数据. [QIE](https://x.com/qieblockchain).
+- [Fine Print Collector](https://x.ai/bot/Y2F-nwlFyeoBQlQdvHP5e) - 找出商店、航空公司和酒店在条款细则里承诺过你的钱，核对你的收据并起草索赔，不经你同意什么都不发. [J.](https://x.com/YourQuietEdge).
+- [Bollinger Bands Bot](https://x.ai/bot/fDmwgQ07GDRQrE-gZTgwN) - 在你的自选股里找布林带回归机会，为每个机会写好完整的下单单据，遇到强趋势就跳过. [Right](https://x.com/rightwingink1).
+- [Stochastic Indicator Bot](https://x.ai/bot/Ot1gCNj6aSVmMu2RBFmTv) - 在你的自选股里找随机指标的交易机会，为每个机会写好完整的下单单据，遇到强趋势就跳过. [Right](https://x.com/rightwingink1).
+- [VWAP Indicator Bot](https://x.ai/bot/RoAR_UbUgzGmrAefLvvmX) - 在你的日内自选股里找 VWAP 回踩机会，为每个机会写好完整的下单单据，行情来回震荡时就跳过. [Right](https://x.com/rightwingink1).
+- [Broker](https://x.ai/bot/_lwaVlXcjTz2RnZHfJjiD) - 帮你买保险的私人助手，收齐车险、房屋险和洪水险保单，按同等条件比价，标出保障缺口和可用折扣. [Dylan](https://x.com/dkmitc).
+- [Crypto Tax Assistant](https://x.ai/bot/YZ-9DQTxLsCgVt3zMUSbw) - 用活泼的语气把你的钱包或智能合约的链上记录整理进 Google 表格，报税时直接用. [Materia](https://x.com/MateriaWealth).
+- [Finanzas AR](https://x.ai/bot/G5DfaHdEfPksNTsc7FlPq) - 阿根廷实时金融数据，美元、PIX、加密、BYMA、CEDEAR、国债和利率，带来源和时间戳. [Fermin](https://x.com/ferminrp).
+- [Finanzas AR](https://x.ai/bot/ImaKRrq6IwiHsbG_dmiFl) - 阿根廷市场新鲜数据与 IOL 组合工具，带来源、时间戳和清晰图表，给盯盘的人用. [Juan](https://x.com/juanmanuelcosta).
+- [Haggler](https://x.ai/bot/44nZYeBNq-nRQWs3Kkook) - 帮你谈低经常性账单，查清套餐与竞品挽留价，做作战计划，也可代你打电话（需批准）. [Jason](https://x.com/dubsonly_1).
+- [Jimothy Wallet](https://x.ai/bot/U2iAqCj-InwvoOGA0mY9I) - 粘贴公开钱包地址，得到只读组合页，含余额、图表和每个代币的安全徽章. [Santa](https://x.com/JimothyRac).
+- [Paperasse · Commissaire aux Comptes](https://x.ai/bot/_zuqAPpyDT_WV2zpSvPxK) - 按法国 NEP 分七阶段做法定年审，并准备审计意见，给企业主与会计用. [Romain](https://x.com/romainsimon).
+- [Paperasse · Contrôleur Fiscal](https://x.ai/bot/rGTJjgN2hrX5vJvM4wfis) - 模拟法国税务稽查，分析 FEC 与可能调整点，帮你准备查账. [Romain](https://x.com/romainsimon).
+- [Paperasse · Expert-Comptable](https://x.ai/bot/MmwMdZ7OVKXIKBUfc1dE5) - 法国企业会计搭档，覆盖增值税、所得税、结账、FEC、税表与 2026 电子发票. [Romain](https://x.com/romainsimon).
+- [Paperasse · Fiscaliste Particuliers](https://x.ai/bot/GNroMbol-LOahbXzb8Ovw) - 法国个人税务助手，覆盖所得税、IFI、PFU、PEA、人寿保险、LMNP、RSU、加密与 PER. [Romain](https://x.com/romainsimon).
+- [Paperasse · Notaire](https://x.ai/bot/-H7Vc-5QDpqqEbF1PqLxy) - 公证副驾，按 paperasse 公证技能估算公证费、继承、赠与、SCI 与 PACS，不替代真人公证. [Romain](https://x.com/romainsimon).
+- [Paperasse · Syndic de Copropriété](https://x.ai/bot/F1uQVa6SA7p-8YbhGL_y0) - 业主委员会协助，管大会、分摊、账目、工程与欠费，基于开源 Paperasse. [Romain](https://x.com/romainsimon).
+- [Saylor Bot](https://x.ai/bot/wF9F3YpQa8AUbkky7T6Sr) - 以比特币为先的家庭财富策略师，口吻像 Michael Saylor，围绕比特币规划储蓄与券商仓位. [Jordan](https://x.com/BitsOfJT).
+- [Shopping Agent](https://x.ai/bot/eYPh2Q9TsdwAEeWDhRnot) - 找任意想买之物的最低核实总价，试优惠码并展示折扣怎么生效，必要时也可代打电话. [Brian](https://x.com/prince_twets).
+- [Refunds & Credits](https://x.ai/bot/FlE2tRVNTP8FQ2on6YRM2) - 找出并追回你该拿回的钱，覆盖退款、积分、和解金与无人认领资金等. [Jason](https://x.com/jwreece).
+- [Rebalance Keeper](https://x.ai/bot/wdkaFZSukxdUWzVoqscbX) - 对照目标仓位检查持仓并标出偏离给出定投计划后停下从不下单. [Turac](https://x.com/TuracTheThinker).
+- [Behavioral Post-Mortem Analyst](https://x.ai/bot/cmmcspTxgjaB0qQsdCTwM) - 按过程而非盈亏读你的交易日志核对你是否按自己的计划执行语气温和但有数据从不下单. [Turac](https://x.com/TuracTheThinker).
+- [FindMoney](https://x.ai/bot/v7DAzv8Vz_cS-Toeu6beR) - 在各州网站 MissingMoney 养老金等公开源里找无人认领的钱与财产并说明怎么领. [Richard](https://x.com/Richard).
+- [Quandora](https://x.ai/bot/aMdvJyS1ECeDG3GD2fnoD) - 研究交易信号并回测加密多因子策略与组合不下真实单. [Rick](https://x.com/_1RICKk1).
+- [XSP Check](https://x.ai/bot/ECaGV3Qi7xh6ztui_iVpl) - 只读检查 1 手看跌信用价差的最大亏损、盈亏平衡点和购买力，对照 tastytrade 模拟运行，从不下单. [Alvin](https://x.com/hallway247).
+- [Bot do MEI](https://x.ai/bot/m6tmgTZ2-05pAQTZlxo4N) - 提醒巴西 MEI 个体户每月的 DAS 和 DASN 截止日，并用通俗葡萄牙语结合官方来源讲解 2027 年规则. [Henrique](https://x.com/henriquepiri).
+- [SaaS Spend Check](https://x.ai/bot/hFnxPrJ7wOqRr3dbSnY1a) - 读取已连接邮箱里的订阅收据，列出你付费的每个工具、费用以及多花钱的地方. [Calix](https://x.com/CaliLumberJack).

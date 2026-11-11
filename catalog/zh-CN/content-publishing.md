@@ -936,3 +936,74 @@
 - [X Post Analyzer](https://x.ai/bot/ffBuRJCFNCtj-gFzSzgVa) - 分析你的 X 帖子什么有效什么无效，按形式、话题、长度、开头和时间对比近期帖子. [Eidan](https://x.com/drxejr).
 - [X Voice Editor](https://x.ai/bot/ZMEcetFhiK8nzHdsKCeq5) - 根据你贴的或导出的帖子用你的口吻起草 X 帖子、回复和串推，标出需来源的说法和付费合作. [Eidan](https://x.com/drxejr).
 - [All Art Calls](https://x.ai/bot/cX8izZ4tOnoniyBefx1pX) - 面向各类艺术家的征稿伙伴，找经核实的征集，看细则，防诈骗和付费参展. iustina.
+- [Fern · Cartographer of the Wilds](https://x.ai/bot/EOWNaMkt5FZ57oLCLQjT2) - 给造世界的人当创意总监，产出世界观、情绪板、概念图、分镜视频和给 Cursor 云端代理的构建提示词. [HandsomeHank](https://x.com/HandsomeHank_).
+- [Video Lab](https://x.ai/bot/omXn2V1U6B4V4qU2XcI0T) - 用代码做视频，包括讲解、动效、广告、产品演示和短片，调用云端代理渲染带配乐的 MP4. [Gabriel](https://x.com/gabogabucho).
+- [Clip Scout](https://x.ai/bot/ZW-lsfOKtX2V2ON1KXJLF) - 输入一个词或情绪，找到最有辨识度的电影和电视反应片段，附搜索关键词和语气选项. [Wayne](https://x.com/wikiwayne).
+- [Media Kit](https://x.ai/bot/ocYXtRqCo1Z3at7hDvWR8) - 发来任意图片、视频、音频、PDF、文档或链接并说明需求，它帮你转换格式、去背景、调整尺寸等. [Shahrul](https://x.com/shahrulestar).
+- [excalidraw](https://x.ai/bot/0fbwlVOul1M_GIyJX-kKQ) - 把话题、推文串和笔记变成手绘风 Excalidraw 信息图，16 比 9 宽屏画幅并带上你的账号标识. [abhinav](https://x.com/abhiontwt).
+- [X Pulse (Personal)](https://x.ai/bot/WXXQICyJA3NiSUumZ8uPq) - 把你在 X 上的一天做成带音乐的互动表盘回放，方便录屏分享，可看昨天或最近 7 天. [mspd](https://x.com/mspd4100).
+- [xDoctorBot](https://x.ai/bot/raYGmOtnHIIPj0bt-hWww) - 每天检查你被加入的所有 X 列表，把你从侮辱或嘲讽性质的列表中移除. [Shane](https://x.com/ChooseGoodKarma).
+- [Sassy Bot](https://x.ai/bot/CZGWiB4CX5UM9v8Zu-MDT) - 你在 X 上的毒舌僚机，用有趣的帖子和有用的回复帮你涨粉，还帮你挡开骚扰者. [Paige](https://x.com/paigenwing).
+- [AI Text Detector & Editor](https://x.ai/bot/yYsPajAZ18gCh95GuYEUU) - 检查你的草稿里有没有 AI 腔，指出是哪些说法触发的，帮你改掉又不丢掉你自己的语气. [Daniel](https://x.com/liminalprompt).
+- [gmi](https://x.ai/bot/5IFu9DKwavLtu18sinCSv) - 你在 GMI Cloud 上的制作工作室，能做图片、视频、配音和音乐，还会报告余额和花费. [Alberto](https://x.com/weeb3dev).
+- [NFT Art Bot](https://x.ai/bot/OwB7-1LWZIQ9smmqtfwOv) - 按你的要求制作 NFT 风格的粉丝创作图. [Mav](https://x.com/UlrichNeujahr).
+- [Penny](https://x.ai/bot/Rspkl49IjkacoAbMMfZyw) - 修改你的草稿、邮件、帖子和页面，让它们读起来像真人写的，保留你的语气并标出每处改动. [Kyle](https://x.com/KGtheGent88).
+- [STE writer](https://x.ai/bot/b1ixA_xKFWOLpELVV2Zeb) - 面向技术写作者，用 ASD-STE100 简化技术英语回答问题、改写文本并检查是否合规. [pili](https://x.com/0xpili_).
+- [Video Creation](https://x.ai/bot/JQhSaJ8cZ_wMZOO_uTpeW) - 从有出处的调研到 Grok Imagine 片段，一条龙制作两分钟的历史和未来科普视频以及音乐视频. [Fuji](https://x.com/bentruong).
+- [X Unbaiter](https://x.ai/bot/40wlwmt9OINkBw3daAcNR) - 在 X 上任何标题党帖子下回复 unbait，就能拿到对照原文核实过的直白标题和真正答案. [Sebastian](https://x.com/sebs_tweets).
+- [X-algo](https://x.ai/bot/138yNvmimSez4w_hTXEo0) - 用 X 开源的推荐算法给你的帖子打分，再改写让分数更高. [Ethan](https://x.com/EthanSDE).
+- [𝕏 Twin](https://x.ai/bot/AFtZlQY7LQaCnoYHw1t1I) - 你的 X 发帖分身，从你的 X 存档学会你的语气，帮你起草帖子、回复和配图文字. [sara](https://x.com/muse_inmotion).
+- [First Page Finder](https://x.ai/bot/3OcMc_2Y5cKf7F00uLSv8) - 帮小主播找到 Twitch、Kick 或 YouTube Gaming 上更容易被人看见的分区和时段. [Mark](https://x.com/TheMarkGShow).
+- [Gauntlet](https://x.ai/bot/V8PEtwUMDHq3kFVOcyizc) - 把已核验的 AI 模型测试跑分做成记分卡和带 PASS 章的 1280x720 对决短片. [Wayne](https://x.com/wikiwayne).
+- [MegaJam Producer](https://x.ai/bot/O_S6tTQcEQ5vx9DtmFvPc) - 2026 Epic AI MegaJam 的制作人与规则顾问，帮团队按时交出合规、有完成度的作品. [Captain](https://x.com/AgentShorts).
+- [Versus](https://x.ai/bot/9RuGvNg6YS66-crQDZ1rj) - 固定版式做模型对决视频，左侧主模型、右侧轮换对手，盖 STAR WINNER 章并诚实收尾. [Wayne](https://x.com/wikiwayne).
+- [X Feed Cleaner](https://x.ai/bot/sKQxJ9cdam3YzgHx0CBKp) - 每天早上通读 X 首页时间线，只把值得看的帖子存进主题书签夹，并按你的去留来学习. [Zertyn](https://x.com/pblmnz).
+- [X Post Deletion](https://x.ai/bot/F4NQI7Pz1JNDEd8JPeNE1) - 列出你明确吹捧共和党、特朗普或 MAGA 的 X 帖，只删你勾选确认的那些. [Petru](https://x.com/realpetru).
+- [X Post Reviewer](https://x.ai/bot/JfClE2layd1IcxXXfEzFl) - 把 X 草稿对照开源排序信号审一遍，指出利弊，并按你的语气给出更强改写. [Rob](https://x.com/testafortedev).
+- [X Score](https://x.ai/bot/rOLfgjEovpDiHiG4sBBoo) - 给任意 X 账号打有趣但诚实的 0 到 100 分，含头像、八个维度和规则型人设标签. [huseyin1tekin](https://x.com/huseyin1tekin).
+- [Director](https://x.ai/bot/E6NdmXG5F9O_B6nFiDIJW) - 六人视频制作小队的导演，把活分给对口专家、统一片风，并在交片前做质检. [Wayne](https://x.com/prince_twets).
+- [Filmbot](https://x.ai/bot/lGHtTxD_lhGIVYMDc6m1J) - 用 OpenFilm 导演并交付短视频，解说、产品或 3D 展示与宣传片，竖屏或横屏，可配本地旁白. [Eneko](https://x.com/EnekoMontero).
+- [Ghostwriter](https://x.ai/bot/bpiiZii93BwUdO58qZ45A) - 学你口味的写歌 bot，写出适合 Suno 的歌词与风格提示，钩子适合短视频. [Alexander](https://x.com/allegoricalred).
+- [GIF Creator](https://x.ai/bot/SQYseKTJVi0ttPVORWPJu) - 把任意视频或链接做成适合 Slack、Discord、iMessage、X 等的短循环 GIF，选准节拍还可加字幕. [headyrobot](https://x.com/headyrobot).
+- [Launch Video Studio](https://x.ai/bot/yJjaezpZxjVMYGwYNxed5) - 做短的启动与宣传视频，常可模仿你给的参考片风，交付带原创配乐的 MP4. [xaitoshi](https://x.com/xaitoshi_).
+- [Lectern](https://x.ai/bot/jBMaK3Bh6U-FrXGDSNHJU) - 把 X 帖和博客链接变成忠实可听的语音备忘，粘贴 URL 后整篇朗读并按长度分段. [Sam](https://x.com/samkettleson).
+- [Meme Creator](https://x.ai/bot/Xzw7MMpw3Mth8jM2TOPox) - 把场景或图片做成完整 meme，可按你的原文配图，或找三个合适模板写好文案并渲染. [headyrobot](https://x.com/headyrobot).
+- [Recorded X spaces note taker](https://x.ai/bot/X7aszUICnIrq6eMwjoBd-) - 把录好的 X Space 整理成带时间戳的笔记，含摘要、要点、金句和后续，适合加密 Space. [Peach](https://x.com/PeachCobblr).
+- [Shorts](https://x.ai/bot/Gz5l1KsT-Tn0sV7D3WUyi) - 做 35 到 50 秒竖屏短片（720x1280），模型测试与高光，开头就有动作，两秒内进钩子，只用核验过的数字. [Wayne](https://x.com/wikiwayne).
+- [Unfollower Bot](https://x.ai/bot/lLMf_deF_f48YbHva8rvl) - 一键清理 X，看清谁没回关，一次取关 10 个僵尸粉，并在有人取关你当天提醒. [Rollmeta](https://x.com/Rollmeta).
+- [Vid Bot](https://x.ai/bot/CUb45gh5h3qmoXKzxVIDf) - 丢进家人或孩子的素材，做成配免版税音乐的电影感卡点合集，你选调色并给每刀意见. [Lyndall](https://x.com/lyndallschreinr).
+- [X Neighbours](https://x.ai/bot/HS_Zv-xywJo7b4X7WbImy) - 给 X 创作者看每周谁最常点赞回复、值得回关的熟客，以及一张可分享的邻里关系图. [Skybatan](https://x.com/SkyXFunNext).
+- [X Unfollow](https://x.ai/bot/upgPpw49-t_NOYwYBQTzw) - 有人取关你时通知，并可代你拉黑对方，拉黑同时去掉你的关注. [earholes](https://x.com/earholes).
+- [Local Video Lab](https://x.ai/bot/54EerbJSQWqM2Mc7cGtpK) - 在自己电脑上做 AI 视频，先查硬件兼容，再给提示词与诚实画质评估，安装与下载前会问你. [Clay](https://x.com/CoachFerg25).
+- [Thumbs](https://x.ai/bot/9F6v_TeHcioiD9uiP6VG5) - 做出统一的 1280x720 视频封面与片头页，并把你的真人照片合成进去. [Wayne](https://x.com/wikiwayne).
+- [Story Engine](https://x.ai/bot/UJbGPlw9cJaUqO3mNoYKJ) - 端到端跑你的内容流水线，从每日选题信号到可发布的草稿. [Mo](https://x.com/moe_cherif).
+- [راصد](https://x.ai/bot/udiVmKRceOw1lWUyQECLC) - X 增长管家，用你的语气写短文案，跟踪时机与表现，并建议下一条发什么. [Barrak](https://x.com/BarrakAli).
+- [Drafter](https://x.ai/bot/WBhcFoClSD5T9ZgB7NkYv) - 先问清真实细节再帮开发者写产品发布功能预告更新与 Grok Bot 上线用的真人味 X 帖. [mmt](https://x.com/eaxmmt).
+- [Animator](https://x.ai/bot/Hp85sZKzJNjabj8hakjee) - 把一个动效想法写成多场景叙事动画代码方便你反复改. [Nima](https://x.com/Nima).
+- [Riffrow](https://x.ai/bot/2_uBthmv20DacnSl1bAAu) - 神秘科学剧院风格吐槽把片段写成三人剧本配音并渲成剧场视频. [Wayne](https://x.com/wikiwayne).
+- [Post Copy Watcher](https://x.ai/bot/dn8ndRg7Re50JS0hruwso) - 每天盯你的原创视频图文只在发现疑似未署名搬运时通知你. [Mr](https://x.com/MrTacticalX).
+- [PANDORA OOI](https://x.ai/bot/98CSOAsCpEXWJagiVtxbH) - 作为 SwarmTech 网络里的个人节点，捕捉并演化帖子，再把每条记成带日期的公开回执. [forgedusa1](https://x.com/forgedusa1).
+- [MVボット](https://x.ai/bot/vr3dNf5orMqsiYHG1PzRD) - 制作歌词文字动画 MV，用 Grok Image 和 Grok Video 生成画面，保持角色一致并输出 1080p. [いとぱん](https://x.com/takamasa045).
+- [Flow Film Maker](https://x.ai/bot/EaBu_d_aTVqQffsAheeMC) - 在你自己的账号里用 Google Flow 制作竖屏 AI 短片，沿用你的角色、场景、旁白、画风和照片. [ecoay](https://x.com/ecoay).
+- [Following Interest Reviewer](https://x.ai/bot/DV1Icl-5UdIg_hlLaQRSA) - 对照你的兴趣和时间线检查你关注的 X 账号，把不匹配的按每批 10 个发给你确认. [Cleetus](https://x.com/175rng).
+- [Launch Page Pro](https://x.ai/bot/Vui7gf2M2iVLgwAieHJeh) - 把商家链接或几句介绍变成可预览的落地页，看起来像专业机构做的，不像模板. [Thuong](https://x.com/teeRex247).
+- [Save Shelter Dogs](https://x.ai/bot/fJCklr7BGXas0RA0b9imH) - 每天在 X 上推广本地收容所高风险名单里的狗，包括照片帖、置顶幻灯片和认养承诺活动. [SaveMASDog](https://x.com/SaveMASDog).
+- [80s Fake Footage](https://x.ai/bot/u1MG6utY3VGmo52GPs7-x) - 用一句话加类型、语气和角色，生成像出自不存在的 80 年代电影的无声循环 GIF. [Brandon](https://x.com/BrandonPlantz).
+- [X Growth Bot](https://x.ai/bot/O60Icbx5BlKTkHBCrAgDe) - 帮小众 X 账号冲原创内容奖励，包括抢先回复大号、回复评论者、趋势提醒和早间复盘. [Shoaib](https://x.com/shoaib_t7).
+- [Tweet Analyser](https://x.ai/bot/Se-KI83s3bSoiGx6jeXMg) - 检查 X 帖子草稿并给出发布、微调或重写的判断，按 X 开源排序代码给出白话修改建议，并用你的口吻重写. [Zeeshan](https://x.com/zeeshan_utd).
+- [Video Director](https://x.ai/bot/meTDwFI6Jtm-uTyQtyrbb) - 导演并制作最长约 30 分钟的视频，也能剪辑现有素材，先访谈需求并做调研. [Chee](https://x.com/cheeweng_).
+- [Clip Scout](https://x.ai/bot/SY9HT-xabGZ0FxGDdhD5z) - 帮你在长视频里找出值得做成 X 剪辑（5 到 60 秒并加上你的看法）的片段. [bwolcottauthor](https://x.com/bwolcottauthor).
+- [BROWN ELMO](https://x.ai/bot/xthzGA7hjo8nWPzgU_ml7) - 来自 OOI LLC 的暴脾气讽刺机器人，从创作者的帖子里提取内容，并以角色口吻回复. [forgedusa1](https://x.com/forgedusa1).
+- [Book Trailer Studio](https://x.ai/bot/xKvoesbjyWII6Efvos1fh) - 读你的小说，提炼卖点，写 30 到 60 秒预告片的脚本和分镜，再用你的封面和真实素材生成视频. [Edward](https://x.com/ewillett).
+- [Social Team](https://x.ai/bot/9PABfxmoAA-NLLysh01cA) - 把整个社媒团队装进一个机器人，找出你领域里值得发的内容，先问你的看法，再为每个平台写一个版本. [bwolcottauthor](https://x.com/bwolcottauthor).
+- [Spam Spotter](https://x.ai/bot/E3d8jVV2u6Zm7V2Hz9g3s) - 检查你 X 帖子下的回复和提及里的垃圾机器人、骗子和引战内容，给出带链接的简短名单方便屏蔽或静音. [ReconBailey](https://x.com/ReconBailey).
+- [Game Content Coach](https://x.ai/bot/gvCwVFynuIPr92qD3jMNf) - 面向时间有限的新手游戏创作者的每日教练，每天早上给出一条帖子、一个拍摄目标和一个发布时间. [Gabriel](https://x.com/Tijs_Fan).
+- [It's Alive 4D Posts](https://x.ai/bot/PxLus1MpAZobBdrWjEwv1) - 发送任意 X 帖子，得到一段抓眼球的 4D 短片，逼真的角色从帖子里爬出来，做出与内容相关的动作并循环. [Mav](https://x.com/Mavmetax).
+- [Pixel](https://x.ai/bot/gM0DHWfNDysR-M6FdEkhr) - 设计机器人，用 GIMP、Inkscape、Krita 等真实编辑器制作标志、缩略图、封面、图标、帖子配图和界面原型. [𝕃𝕖𝕧𝕚](https://x.com/LeviHoliday4).
+- [BTDS OOI](https://x.ai/bot/agrfii00vkcnuZlH9PMaO) - 按 BTDS 的公开帖子风格做的粉丝致敬机器人，用那种口吻起草回复. [forgedusa1](https://x.com/forgedusa1).
+- [Talking-Head Director v2](https://x.ai/bot/qxD_0iH_MxE6qBHe5arIS) - 把访谈、播客和讲解类的真人出镜录像剪成竖屏动态视频，带人物抠像和动画. [Adem](https://x.com/AdemVessell_o).
+- [Twitter Bot](https://x.ai/bot/fyJbO6ogsdnulvTt7t1g3) - X 写作搭档，学习你的口吻和目标，起草帖子、长串和文章并配图. [Hovhannes](https://x.com/hovinthenorth).
+- [Follower Finder](https://x.ai/bot/TMzi63QTCNDSF4ZyYDZ9C) - X 涨粉助手，审查新增的认证粉丝，给值得回关的账号打分，并找出和你兴趣相符的账号. [Empress](https://x.com/HeavyMetalShip).
+- [零 AI 味爆款社群故事寫手](https://x.ai/bot/r705YqLW6_w4Wtm5ZgFYf) - 把干巴巴的要点或日常灵感改写成有人情味的故事，适合 Threads、Facebook 和朋友圈，没有机器人腔. [建蒲](https://x.com/wosiinmo).
+- [Anime Series Maker](https://x.ai/bot/y5u0QPNwRuxoOfrjbRBcS) - 把你的照片变成 7 集动画系列的主角，第一集马上出，并给三个剧情转折供你选. Michael.
+- [RADER A/V Production](https://x.ai/bot/QHV8JNtSC32LnxmUuvMFi) - 会学习你品牌的视频制作机器人，只访谈你一次，然后制作发布短片、广告、短视频、带字幕的剪辑和动态图形. Jack.

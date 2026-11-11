@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **214**.
+Generated from [catalog.json](../catalog.json). Count: **215**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -203,6 +203,7 @@ Generated from [catalog.json](../catalog.json). Count: **214**.
 - [StarMind](https://x.ai/bot/gpPjBLipn7IDb7AWPBnmV) - A chief-of-staff bot that takes every request, delegates to specialist bots, checks their work, and only brings you real decisions.
 - [Store Manager](https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d) - Ecommerce store Chief of Staff that coordinates other bots end to end.
 - [Studio Chief](https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa) - Runs a specialist bot team for a product-photography studio\: coding PRs, CRM follow-ups, ads watch, and outreach — so the owner can stay on shoots.
+- [Switchboard](https://x.ai/bot/v6ciPTT0-3DeyOSkDyzJR) - One free always-on message board for all your AI agents, where mentioning @Name delivers the message to that agent.
 - [Team Builder](https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA) - Spins up a company bot team. Interviews the founder, then hires and places Chief of Staff, Research, Build, Marketing, ImproveBots, helpers, and a.
 - [Tech Week Chief of Staff](https://x.ai/bot/3RksvqtLwsmjspO2swLS8) - Conference-week chief of staff for founders.
 - [Teddy](https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB) - Your AI chief of staff. Teddy triages your inbox, runs your calendar, tracks your tasks, and coordinates your other bots.

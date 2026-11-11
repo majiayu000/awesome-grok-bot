@@ -910,3 +910,39 @@
 - [REE · Reverse Engineer Everything](https://x.ai/bot/cl6RKn7Bk4x3OFwwEs-R8) - 贴任何东西，网站、应用、二进制、Solana 程序、EVM 合约或比特币交易，帮你逆向分析. [8](https://x.com/0rdlibrary).
 - [Disk Saver](https://x.ai/bot/tZMZYBpyt5lzMMGG3DpoM) - 让 AI 机器人共享的云电脑保持健康，每日清缓存，内存紧张时退出 Chrome，维护交换空间. [Kyle](https://x.com/kylekane).
 - [Toly](https://x.ai/bot/mzIFeJFV9Yzf3f2Hubkcg) - 像 Solana 联合创始人那样构建的 Solana 工程智能体，硬件优先、有界且可证明. [cheshire](https://x.com/0rdlibrary).
+- [Clean Room](https://x.ai/bot/QfovCEpDX8qY8bD0GVfWU) - 把你有权分析的应用、网站、二进制、APK 或仓库整理成一份有证据支撑的 SPEC.md 和一段可直接构建的提示词. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Security Lockdown](https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p) - 一步步带你锁紧个人数字安全，涵盖密码、双重验证、旧账号、身份信息、手机和家庭网络. [corvo](https://x.com/heybiggins).
+- [UI 品味诊断](https://x.ai/bot/DjSL11EK97KGRscFtzSzK) - 给 UI 截图或网站做品味诊断，指出最影响观感和可用性的 3 到 7 个问题，附带具体数值的改法和可直接发给 AI 的修复提示词. fedming.
+- [Family Cyber Shield](https://x.ai/bot/PJS4c0UlEuodw7Uvsffjq) - 检查邮箱里的钓鱼邮件，带你设置 DNS 拦截、Mac 防火墙、通行密钥和双重验证，读取任何内容前都先征得同意. [Brian](https://x.com/Texas_Twins_Dad).
+- [ADMRN Bridge Setup Guide](https://x.ai/bot/_LRoMViTIJ9HkJ4J98DvD) - 一步步带你在自己的 Cloudflare 账号上装好 ADMRN Bridge Basic，并把它接到 Grok Bot. [Viet](https://x.com/vl2edo).
+- [Graveyard Shift](https://x.ai/bot/FiGaCx_wiFaAD0OnAC0-G) - 盯着你所有的副业项目，看哪些挂了、哪些快续费、哪些白花钱，然后问你留着、暂停、关掉还是卖掉. [Estilo](https://x.com/TonkaToyXL).
+- [PC Voice Control Assistant](https://x.ai/bot/XTcXcyZErWRrEcB0LdPrz) - 用唤醒词启动的语音助手，躺在床上也能用声音控制你的 Windows 电脑. [Mishiro](https://x.com/ZGMF_X31S).
+- [Prompt Lab](https://x.ai/bot/NN5pqHjmr-wC-vJ9d27EG) - 写好编程提示词，让你贴给几个 AI 模型，比较它们用代码做可视化效果的水平. [Wayne](https://x.com/wikiwayne).
+- [FOIA Bot](https://x.ai/bot/J5hE9pdZCTgbgsGAWhl5T) - 帮你起草并跟踪向美国联邦机构提交的 FOIA 与隐私法申请，信件、归档和截止日都管. [SkillsByRole](https://x.com/SkillsByRole).
+- [Product Builder](https://x.ai/bot/ebdU_pyQCp4EGTsIf2cLY) - 端到端负责一款软件产品，规划待办、经云端编程代理改应用和站点，并保留变更记录. [John](https://x.com/JohnBerryTweets).
+- [Breach Watch](https://x.ai/bot/PoHak8r9Bo76500L5mpHC) - 面向普通人与小企业的安全助手，盯你用过服务的泄露、查可疑邮件，并给通俗修复建议. [Tommy](https://x.com/prince_twets).
+- [FiXXer](https://x.ai/bot/XGef9bPV3M6SdIM3DAjHy) - 上手修电脑、网络、网站、应用和更新问题，也能帮其他 Grok Bot，能自动修的会自己动手. [Meyer](https://x.com/MeyerdeBeer).
+- [Google Search Console Indexer](https://x.ai/bot/KyGauyqAJthOvsN-GFoKS) - 盯着网站在 Google 的收录，查站点地图、在每日限额内请求收录新页，并用白话解释状态. [Auny](https://x.com/AunySillyMe).
+- [HackerNews](https://x.ai/bot/aPbalO0IG8dkEHdGyLw0b) - 工作日安全摘要，汇集紧急的 Web 与 Linux 漏洞、CVE、泄露和恶意软件动态. [Anibal](https://x.com/aardid).
+- [Old Geezer - COBOL Mentor](https://x.ai/bot/F-4s76NAGSWCyUqiHe8ZA) - IBM 大型机、Micro Focus 与 VAX/OpenVMS 的 COBOL 导师，可在 GnuCOBOL 上编译运行并讲解. [Joe](https://x.com/joehansen).
+- [Portal Mail Assistant](https://x.ai/bot/8K19qlH_8lAleMf5xJuqh) - 处理要进网页门户的邮件，登录拉取事实与附件、记账，并在原线程用清晰摘要回复. [Traube](https://x.com/rumnusstraube).
+- [t3code link](https://x.ai/bot/tPyb8jNCNQtsGr7xITn8p) - 经 Tailscale 连到你本机的 T3 Code 服务，保持配对，按你要求跑编码线程，只提 PR. [Alireza](https://x.com/al3rez).
+- [Ronin](https://x.ai/bot/TP6XRTT1bx0LIk5jil8_8) - 红队 bot，专挑你的计划、应用、文档、研究与提示词哪里会先翻车，发现直白且带来源. [Himason](https://x.com/HiiiMason).
+- [Griller](https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT) - 写代码前用短评挑破产品构想、架构与难决策里的硬伤. [mmt](https://x.com/eaxmmt).
+- [UX/UI Designer](https://x.ai/bot/DWorDFJGA-RbMCvTpewU8) - 专做移动与网页界面的视觉层可按现代极简或指定风格先出规格再改文件并优先无障碍. [mr.robot](https://x.com/mr_robot777).
+- [Design Systems](https://x.ai/bot/C9_sXN7trbw5bSj_mD5VL) - 为桌面与网页产品搭设计系统结构含 token、组件库、组件规格、文档、流程与信息架构. [mr.robot](https://x.com/mr_robot777).
+- [OrgoBot](https://x.ai/bot/INhNj6FhTywM0GNehFavt) - 给 agent 各自一台 Orgo 云电脑跑 shell 截图文件与键鼠操作用完再拆掉. [Nicholas](https://x.com/nickvasilescu).
+- [Reverse Website Swarm](https://x.ai/bot/43Pa_W8af71QSWZkb90m8) - 研究网站怎么搭成再用 Craft Anything 按链接或简述做出可运行的副本. [monokern](https://x.com/monokern).
+- [System One model expert](https://x.ai/bot/OvqA8fIxj_psVxfBghP5f) - 找出 Jev Clef Clairic Decisions 等快模型能安全替掉慢调用的位置. [Shagghie](https://x.com/Shagghie).
+- [SENTINEL · Elite AI Cybersecurity Commander](https://x.ai/bot/AtrEsUmXIyOYzTi_9S8pN) - 面向创始人和小团队的安全助手，基于证据审查代码和密钥以及网站安全. [sam](https://x.com/lucassam888).
+- [Cybersecurity Bot](https://x.ai/bot/hTYGaHobQhRab-Lz9eyhN) - 默认只读地检查你的机器人、账号和设备安全，首次设置可选新闻、钓鱼扫描等功能. [Brian](https://x.com/BrianAhuja).
+- [LOVE](https://x.ai/bot/qA0Gttkc5D_cRkA5MP7sY) - 帮你整理项目、开发简单可扩展的应用，并起草商务邮件，把想法变成下一步行动. [Justin](https://x.com/JustintTalbott).
+- [Hermes](https://x.ai/bot/Lg1yD7lFxLTR8BJoYt3pk) - 在你的电脑上调用 Nous Research 的 Hermes Agent 命令行，运行提示词并保持工具更新. [Wayne](https://x.com/wikiwayne).
+- [Pixeltable Data Apps](https://x.ai/bot/Z9VlRBBZqZBzAYKOv7RVz) - 每天早上发布一个新的 Pixeltable 应用，在本地和云端运行，并把故障记到 Slack、Jira 和 GitHub. [Pierre](https://x.com/pjlbrunelle).
+- [Hermes Backup + Repair Bot](https://x.ai/bot/7zwfNAfwtPvEkxLPMXLWK) - 安全地备份、诊断、修复并验证 Hermes Agent 安装，先查维护中的参考资料和官方来源. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Design System Extractor](https://x.ai/bot/KXS8-NWpwI0YgR3N__Q-u) - 给一个网址，逆向还原网站的设计系统，包括精确的颜色、字体、间距、组件和动效. [Bogdan](https://x.com/bnistordev).
+- [Web Developer](https://x.ai/bot/OnybhGfwbfR3ahaa6RBwI) - 根据设计系统在你的 GitHub 仓库里构建完整网站（前后端），以小而经过验证的拉取请求交付. [Bogdan](https://x.com/bnistordev).
+- [Rook](https://x.ai/bot/EesuRQZe6ub6ztJRw5C-n) - 家庭实验室的守卫兼程序员，梳理网络拓扑，盯着备份、隧道和拉取请求，并处理服务器、容器和 Proxmox. [Helvio](https://x.com/helvio).
+- [CTO](https://x.ai/bot/n0XcRjm9wtwl_UKU4azBE) - 动手型工程师，负责网站和服务器迁移、托管、DNS 与部署，帮你保持站点和服务器稳定运行. [Trond](https://x.com/xenappblog).
+- [GitHub Repo Watcher](https://x.ai/bot/EEsiaKmr8FFFOLoG-v7wa) - 盯着你依赖的 GitHub 仓库，每个工作日告诉你发布了什么、哪里坏了以及为什么重要，并附带链接. [Auny](https://x.com/AunySillyMe).
+- [Mac Dev Keeper](https://x.ai/bot/NwaLKeijbS5koKa_m_vm5) - 让你的 Mac 开发机保持清楚、最新和干净，追踪工具和更新，找出残留进程和闲置编码会话并释放内存. [Reuben](https://x.com/therookiehacker).

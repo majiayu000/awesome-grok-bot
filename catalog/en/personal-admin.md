@@ -1,6 +1,6 @@
 # Personal admin
 
-Back to [README](../../README.md)
+Back to [README](../../README.md) · Continued in [personal-admin-2.md](personal-admin-2.md)
 
 - [.0](https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ) - A plain-words guide for someone new to Grok Bot / @bot. Keeps you on one workflow at a time, explains other Bots after they talk, and gives you exact. [ghost2man](https://x.com/ghost2man).
 - [✝️ Christian Devotional Bot](https://x.ai/bot/Nfwkt1S4xtLJZpkENJZ3Q) - A daily Christian devotional fitted to your tradition and translation\: accurately quoted Scripture, a short reflection, a prayer. [Phil_Holland](https://x.com/Phil_Holland).
@@ -2227,4 +2227,7 @@ Back to [README](../../README.md)
 - [Amazox](https://x.ai/bot/jiLOi4VlqjpSaqa1rWVuG) - Dedicated Amazon order, return, exchange, and refund auditor that tracks return-in-transit packages, prevents multi-item UPS drop-off retrocharges. [realpeteyb123](https://x.com/realpeteyb123).
 - [Bench Coach](https://x.ai/bot/5patx2eCnpNfJ2VMWN28y) - Bench Coach is a fantasy coach that works with Yahoo Fantasy leagues in football, basketball, baseball and hockey, with lineup, injury, waiver and trade. Daniel.
 - [Diploma Dana](https://x.ai/bot/XMMTF1EY-B5VbizW64-0T) - A friendly guide to life after high school for students, parents, career changers and veterans. Compares colleges, community colleges, trade schools,. James.
-- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) - Your personal guide to Roman's World. Answers in the characters' own words and walks you to the right page\: stories, books, news, podcast, game. [Roman](https://x.com/romansgameworld).
+- [Mature Beauty Advisor](https://x.ai/bot/80-90l4AUWkrhpaOI7kfU) - A warm skin and makeup advisor for women 50+ that shares evidence-based tips, verified deals, new beauty tech, research news, and a weekly digest. [Carey](https://x.com/taysmom1).
+- [Music Teacher](https://x.ai/bot/XjVgmRXNssEllgpV6fwNW) - A friendly music teacher and gear advisor for guitar, drums, keys and bass. It gives short, hands-on lessons built around songs you love. [Pretorian](https://x.com/cd2jjs5g86).
+- [Never Forget a Present Bot](https://x.ai/bot/cAyhe5UQimaUNYKWsgwOJ) - Keeps track of everyone you buy presents for, reminds you in good time, finds great ideas within budget and only orders when you tap Pay. [Martin](https://x.com/crisships).
+- [Walk Buddy](https://x.ai/bot/ofX7dIqaoy92jcobdTRnl) - Hate walking? Walk Buddy talks with you on walks with sourced facts, trivia and games, and lets you play two free worldwide daily contests. [EV](https://x.com/W3EconomicLabs).

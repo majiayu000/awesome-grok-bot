@@ -1,0 +1,121 @@
+# Personal admin（第 2 部分）
+
+返回 [README](../../README.zh-CN.md) · 第 1 部分见 [personal-admin.md](personal-admin.md)
+
+- [Ready](https://x.ai/bot/HisgKxaoXrRoD5PbEB_RF) - 打开就是免费 GPS 地图，显示你的位置和实时气温，点任意城镇或海域还能看天气. [ZKHub](https://x.com/xrayzone).
+- [小玄子](https://x.ai/bot/U2kCmA8V-h1fol0sEt88u) - 天纪流派的中文玄学助手，提供紫微斗数排盘、流年流月运势、合盘、易经卜卦和风水. [技术流兔子🐰](https://x.com/tuzibtc).
+- [Game of Life](https://x.ai/bot/UsGYY-MNcyVTQiSLoA9mV) - 把你的人生故事做成复古 Sierra 风格冒险游戏，玩家输入各种怪命令都有毒舌双关回应. [Daniel](https://x.com/ziggyfro).
+- [Telly](https://x.ai/bot/UC5JcnrB1O5SBT-Nq9HTw) - 每天生成一页你订阅的流媒体上新内容，包括首播、新一季、新电影和院线上映. [Ryan](https://x.com/BellverseLabs).
+- [VA Disability Bot](https://x.ai/bot/weDCWqtPnKBdN9NpFS_Li) - 帮退伍军人看懂 VA 伤残评级，审阅信件和病历，整理提高评级或新增病症的申请. [HaplessHotdog](https://x.com/HaplessHotdog).
+- [GenealogyBot](https://x.ai/bot/j6tQoM_OsdYKrG6mfttN_) - 严谨的家谱研究助手，一代代往上搭家族树，每条事实都对应真实出处并标注可信程度. [Scott](https://x.com/scottcjordan).
+- [Genealogist](https://x.ai/bot/d7V7uN9P2Ghzl2FPhX7VZ) - 家谱研究助手，优先查原始资料，每条发现都注明出处和可信度，保存证据截图并搭建带出处的家族树. [Radu](https://x.com/radurosunow).
+- [Call Runner](https://x.ai/bot/yU4QeXl4-SRxS8p3G86dP) - 替你打电话办预约、挂号、跟进、客服和账单问题，打之前先跟你确认. [Adrian](https://x.com/agents_studio).
+- [Stitch Your Pitch · Resume & Cover Letter Tailor](https://x.ai/bot/Yaqu1CNc1OG_Ffi-vVWsY) - 发来简历和职位描述，得到有依据的匹配评估、定制简历和求职信. [Lion@Zion](https://x.com/DumbEinstein).
+- [Maestro](https://x.ai/bot/NJiwSSjtnZ_uaUer8oSkt) - 帝国风格、气场压人的通用助手，帮你接手杂事，比如在 Amazon Music、Apple Music、Tidal 和 Spotify 上建歌单. [Jason](https://x.com/bauminater).
+- [Virtual Ozempic](https://x.ai/bot/XdeOg1-B_RzzaDiJbvVzw) - 温和的饮食习惯教练，不用药物，靠少量高蛋白餐等方法追求类似 GLP-1 药物的少吃效果. [N](https://x.com/NoemiTitarenco).
+- [Jim – Life Reset Mentor](https://x.ai/bot/r_CMgXVxSBRKhogVE42c6) - 基于 Jim Rohn 理念和 Dan Koe 一天重启人生方法的私人导师，通过访谈找出你在逃避什么. [skan](https://x.com/skan_io).
+- [Amazon Butler](https://x.ai/bot/vkhoIjZYIiDoB7KeEOOyH) - 你的亚马逊助手，跟踪订单到具体送达时段，处理退货、取消和回购，还帮你盯价格. [Bearhugsink](https://x.com/Bearhugsink).
+- [Ballot Scout](https://x.ai/bot/tL4Rmvq9J8vcxKjaXz5G_) - 陪你过一遍你所在地的真实选票，先做个简短问卷，再用免费资料逐场给出候选人和提案卡片. [Yossi](https://x.com/josephstayhappy).
+- [Care Desk](https://x.ai/bot/Gw86wWSPMk5ctpyAfGzYn) - 帮你准备看诊、整理用药清单、记症状日志、讲清保险流程，用大白话解读患者门户里的内容，不替代医生，由你做主. [John](https://x.com/Jwlpt45).
+- [Current SF 2026 Companion](https://x.ai/bot/UPpW_gQXJB6Puqhe6MxAB) - Current San Francisco 2026 大会的随身助手，帮你找场次、按兴趣推荐演讲，快开始时提醒你. [gAmUssA](https://x.com/gAmUssA).
+- [Genealogist Bot](https://x.ai/bot/XPAutriAEFfiu9jxqQN7k) - 你的私人家族史学家，用免费档案追溯祖先，每条事实都标出处并评定可信度. [Mike](https://x.com/mikeyerke).
+- [Kids Lifting Coach](https://x.ai/bot/42pcFjka9AoN9reS0SQ49) - 友好的力量教练，按你家里的器材给孩子定一份安全的 12 周计划，带他们在家开始练力量. [justin](https://x.com/jrd_cincy).
+- [Pastor Assistant Bot](https://x.ai/bot/tUcwd-OGOdzdl5JiRNRLN) - 给牧师用的事工助手，语气亲切直白，帮你写讲道大纲、每周电子周报和访客欢迎页. [Kent](https://x.com/SoonerWire).
+- [Price Hawk](https://x.ai/bot/EEdDidugNLswL8k2hhGZl) - 每天检查你的关注清单，只有新东西达到你设定的价格或折扣条件时才提醒你，不刷屏. [Campdirtybird](https://x.com/Campdirtybird).
+- [Safeway](https://x.ai/bot/DjjuCiefk-gCfACqogjas) - 帮你领取 Safeway for U 里你真会买的东西的优惠券，把匹配结果和五天晚餐计划一起发邮件给你. [justin](https://x.com/jrd_cincy).
+- [Storage Rescue Bot](https://x.ai/bot/CyfdggIe62V4StcH1zhG-) - 帮运行 Grok Bot 应用的电脑腾出空间，先只读排查占用，不会删掉你还需要的东西. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Trip Planner Pro](https://x.ai/bot/giex8DlUbyLpN-jZvK6tK) - 给它城市和日期，它就规划整趟行程，挑合适时间的航班、选好住处，还找附近便宜好吃的. [Bearhugsink](https://x.com/Bearhugsink).
+- [E-Card Greetings Bot](https://x.ai/bot/gsXyaV3getUuez29IRkm_) - 为感恩节、圣诞节、光明节、生日、婚礼等场合定制并发送免费电子贺卡. [Paige](https://x.com/calculatemyrate).
+- [Coach Kettle](https://x.ai/bot/zuNJiDS1XJzyYRP2srK1E) - 毒舌又冷幽默的居家私教，带新手每周练五天壶铃和自重训练，并记录每周进度. [Riaan](https://x.com/saayman_riaan).
+- [FSD](https://x.ai/bot/-QjlODSL1lCU2Cv2WtnF3) - 友好地介绍特斯拉完全自动驾驶（监督版），适合想了解或想试试的人. [ggabrielmmm](https://x.com/ggabrielmmm).
+- [Shelf Help](https://x.ai/bot/aba6Zfq3H8dXyxOwTt4Of) - 晚上十点想不出架上小精灵的点子时，它给你今晚的摆法、用家里现成东西的材料清单，再附一张小精灵留言. [Clay](https://x.com/CoachFerg25).
+- [Exo](https://x.ai/bot/kBfqXhnrd1LBRva9IL_he) - 你的 Cybertruck 专家和副驾，参数、配置、FSD、拖挂、越野、充电、改装和新闻都能聊. [ggabrielmmm](https://x.com/ggabrielmmm).
+- [CV Pro](https://x.ai/bot/hTeVavqZNPb8EFGXTRKdL) - 像 ATS 一样审你的简历，给诚实分数并改写，帮你过筛选、打动招聘经理. [Ain](https://x.com/ainponce).
+- [Gym Buddy](https://x.ai/bot/tJaKmTx4aVpFKEii32Ou3) - 私人力量教练兼营养助手，按需排推拉练、记重量和体重，帮你坚持下去. [Pete_HSL83](https://x.com/Pete_HSL83).
+- [Job Jedi](https://x.ai/bot/IDbZStqgxltMWLMsqvyZG) - 用简短友好的访谈了解兴趣与经历，帮你发现适合自己的职业和岗位. [Dr.](https://x.com/JebraFaushay).
+- [Made In America](https://x.ai/bot/nSdiEND1lOY8RhRKMc3ov) - 告诉它你要什么，它只找经核实的美国制造商品或服务，按价格和评价排序并给安全购买链接. [Pete_HSL83](https://x.com/Pete_HSL83).
+- [Music Coach](https://x.ai/bot/KWHQNI0umj6FdaLf0_i-8) - 耐心的每日乐器老师，每天发一节约10分钟的互动课，含图示、乐理和练习. [Darius](https://x.com/TalentedSun4404).
+- [Property Bot](https://x.ai/bot/a5wQQGaKc_bm6UFZgmP0c) - 面向自己打理房源的房东，看预订、准备入住退房、处理客人消息，无需物业软件. [Cathryn](https://x.com/cathrynlavery).
+- [Red Pen Pal](https://x.ai/bot/iN774utjakDLgVBXhBA83) - 为老师写简短、温暖、具体的学生作业反馈，审过即可贴进 Google Classroom 等平台. [Colleen](https://x.com/colleeno711).
+- [Wedding OS](https://x.ai/bot/G5AcR1QDzXxoX3iURnl_4) - 没有全职策划时的婚礼运营搭档，弹性清单、预算拆分、需你批准的商家联络和宾客 RSVP. [Addison](https://x.com/WeddingOS).
+- [八字命理](https://x.ai/bot/Qfgr_8F4ZJM_6fGEeykrc) - 本地紫微斗数引擎排八字与命盘，白话讲性格、事业、感情与合盘，适合想看盘、看流年的人. [城](https://x.com/tngchng14578).
+- [90-Second Reset Coach](https://x.ai/bot/tDUZyhrPHfyTud3vnyW1I) - 用迷走制动（4-7-8 呼吸）在 90 秒内帮你平静神经，可配早中晚小练习. [Liiv](https://x.com/I__Liiv).
+- [D&D Character Creator](https://x.ai/bot/svnYE1H2_kJiAdU5OBbyw) - 桌游式 D&D 创角，每步骰点可见、规则有出处、按外观生成肖像，并给出可分享的角色包. [ecoay](https://x.com/ecoay).
+- [Day Route](https://x.ai/bot/PkTnGEOiw17_0NhFSuYF6) - 把口述或打字的途经点核成有序的特斯拉导航路线，你说发送再发，需连接 Teslascope Plus 或 Pro. [Marquis](https://x.com/DhalgrenMarquis).
+- [Dr Bot](https://x.ai/bot/6z5La7Gefkqs6KCwCiSEi) - 个人就医助手，找附近网络内医生、起草询信供你批准，并跟踪回复、预约和后续. [Caroline](https://x.com/cspenc97).
+- [Football Score Alerts](https://x.ai/bot/UXaj0WGoSMJI2AMdXZImw) - 直播比分追踪，进球、节末、加时和终场都会推送，可跟一场或整季. [headyrobot](https://x.com/headyrobot).
+- [Gamify bot](https://x.ai/bot/eUqNnTtFJyktAIWj9W1o4) - 把生活和工作变成轻度龙与地下城，有经验、任务、等级、徽章和带奖励动图的每日总览. [Nik](https://x.com/roboflock).
+- [Gift Concierge](https://x.ai/bot/se48b1c0ce0321a5fc6c6) - 把整份节日礼物清单买齐并按时送达，按人设预算、找点子、提醒下单与物流. [SpaceX](https://x.com/prince_twets).
+- [Glow Up](https://x.ai/bot/NCy5afIaZzGWavZGDDHiu) - 发一张自拍，得到夸张讨喜的华丽变妆，大头发浓妆，可选选美皇后或迪斯科等风格. [Wayne](https://x.com/wikiwayne).
+- [Hermes Waitlist](https://x.ai/bot/lG14EWh_Fjkh7nhnN0CZZ) - 替你报名应用候补名单（如 Hermes Mobile Beta），选好平台和邮箱，礼貌重试直到成功. [Ivan](https://x.com/0ooooo0).
+- [Home Maintenance Tracker](https://x.ai/bot/Fq4fzudPhdDaIPhbgxAgG) - 季节性房屋检查清单、维修与质保日志、粗略造价，以及给房东或承包商的草稿，未经你点头不外发. [Kelly](https://x.com/createwithima).
+- [Kringle Desk](https://x.ai/bot/aqKXwlmkUMveeRW8_wGFZ) - 为你爱的人做礼物突击台，先访谈、再查货架，交回一小叠可选方案. [Joseph](https://x.com/JoePro).
+- [Muse bot](https://x.ai/bot/63PaLakWxH1-ImLyMxSO3) - 通过本机 muse2api 网关调用 Muse 免费额度，对话、生图、生视频，适合已自建网关的人. [建辉](https://x.com/superdemo2023).
+- [Nutrition Bot](https://x.ai/bot/qT6lXCnA3iLBlHGzvzNE_) - 无评判营养教练，分阶段帮你更健康，先两周饮食记录，再评估模式，一次只改一小步. [cate](https://x.com/catebligh).
+- [Polyglot PLaMo](https://x.ai/bot/UXYkvvtgrHo2RKrwV2oYw) - 经 Hugging Face 调用 PLaMo 3 翻译，粘贴文本、设方向与可选术语表，拿回译文. [Takqpon](https://x.com/Lillion_Takaya).
+- [Prep Stockpile Buyer](https://x.ai/bot/1i1u_HwLCcm0SUDcOkuta) - 访谈家庭、预算与已有物资，列个人应急补给清单，缺口分批采购且每笔需你批准. [Gary](https://x.com/garybear86).
+- [Put Her in the Dress](https://x.ai/bot/kGJKMbg0kymJt0dj6Hshk) - 上传成年女性肖像与衣服照片，指定场合与地点，生成她在该处穿着该装的写实图. [Georg](https://x.com/GeorgGrok).
+- [Scam Second Opinion](https://x.ai/bot/UoJ81zfk-RrkdEkMdIw9w) - 在你点击、付款或回复可疑信息前给冷静第二意见，标红旗与稳妥下一步. [Prabhu](https://x.com/KuttyPrabhu).
+- [Starlink](https://x.ai/bot/XMSgVy6ciHKor-7qxJlZH) - 在聊天里监控与控制 Starlink 天线，状态、告警、遮挡、短历史，重启与收纳需你批准. [Rob](https://x.com/sia14u).
+- [The Oracle](https://x.ai/bot/XEvod6iN09DnfPJSW3gjo) - 毒舌算命先生，看星盘、塔罗、手相、数字、前世与水晶，全程一副不耐烦. [Jack](https://x.com/JackScarizzy).
+- [Travel Bot](https://x.ai/bot/5rMoCzgk3Zv3AVlQ86KFx) - 旅行伙伴，学你口味与预算，围着工作排现实行程，并在你设的护栏内订票. [Everest](https://x.com/everestchris6).
+- [Zen](https://x.ai/bot/AHAWA7vodPGfsEjR33tNs) - 平静的断舍离教练，帮你在空间、数字生活与承诺上少拥有、少购买、少背负. [Andrea](https://x.com/draftandfocus).
+- [Minecraft Hermes](https://x.ai/bot/WCNR9rXcITpuFo2g3-Ahe) - 给在 Paper 加 Geyser 服上与 Hermes bot 联机的人当耐心 Minecraft 教练，教指令并检查 bot 是否听懂. [Jaime](https://x.com/JaimeBubblehead).
+- [Live Wallpaper Maker](https://x.ai/bot/1G-hybmdXE_oLm0vryWZn) - 一张照片生成 Mac 或 Windows 动态壁纸与锁屏，解锁或挥手时会动起来. [zhicheng](https://x.com/xzcclaude).
+- [Personal Assistant](https://x.ai/bot/B3AttkbVWNwzwYxyh-HQr) - 带工作求职、收件箱、购物与清单四个台面的总管 bot，帮你协调这些日常. K.
+- [hey studu](https://x.ai/bot/Y7XcWxxva_Quw1A1OG_hu) - 先访谈你的学习方式，再搭一个含课程、路线图与收件箱的免费学习应用. Clarke.
+- [JK 数字花园](https://x.ai/bot/gdq_d-d9OCnnREs3VwGdV) - 双层数字花园，flomo 当内存、本机 Obsidian 当硬盘，管推文剪藏与常青笔记. [jacky](https://x.com/Jackywine).
+- [Bills and Deadlines Guard](https://x.ai/bot/eFfsS2UVOwEQZSJkK_Gma) - 把账单与截止日期收成一张清单提前一周和当天提醒从不付款也不登录银行. [Ellodia](https://x.com/ElloForo8A).
+- [BP26 Side Events Autoregister](https://x.ai/bot/7HzGMnst8L3s0FFCagfWR) - 用你存好的答案报名 Solana Breakpoint 2026 伦敦周边活动跳过付费场并复查. [Mathys](https://x.com/Mathys).
+- [Celeste](https://x.ai/bot/tKiKAdbBSk-FUl7oZIqSD) - 友好的占星与数字命理向导每天写一封趣味晨信不做预测. [Ashleigh](https://x.com/AshleighEWrites).
+- [Drop Watcher](https://x.ai/bot/WmlJtOE9F2h63JGSYIsWJ) - 在自己的电脑上挂着指定主播帮你刷 Twitch 掉落并在可领取时通知你. [Mavro](https://x.com/Mavro).
+- [Game Autopilot](https://x.ai/bot/jw6voppvf9dS3sXR_QUFo) - 先截图试跑再帮你刷浏览器 Telegram 与 web3 游戏的日常任务没有你点头从不花钱. [winch](https://x.com/winch).
+- [Gatekeeper](https://x.ai/bot/Crr1UQcVzVwOIdnFjobGF) - 看家用 Wi-Fi 路由与设备标出变慢或掉线并提出要你批准的修复. [Marcell](https://x.com/Marcellhazzard).
+- [Gork](https://x.ai/bot/fLejPwaj2nZNk-J-gnHzW) - Infocom 风格文字冒险旁白你输入 GO NORTH 这类指令它用散文回应. [Travis](https://x.com/Travis).
+- [Happy Narrator Dude v16](https://x.ai/bot/DSEVMXqieyZsifLeO40ok) - 用友善分级语言讲解 Happy 里一九八零到八三年 Canoga Park 高中故事并答设定问. [Sean](https://x.com/Sean).
+- [Home Organization and Decorator](https://x.ai/bot/pWuQPVgp7-NqliTE0czIp) - 按你真实房间照片整理杂物改善日常动线并给出务实的布置建议. [Bryan](https://x.com/Bryan).
+- [Security and Privacy](https://x.ai/bot/_lfnP-J1qucMZEfgyEFQO) - 找出冒充你的 X 账号去举报并持续盯是否还在或只改了头像. [NicholasGibbs](https://x.com/NicholasGibbs).
+- [Texas Homestead Exemption Helper](https://x.ai/bot/kye2ywkDeCuXQ8VXstvHc) - 帮德州房主核对是否漏办住宅宅地免税并识别高收费退税推销信. [Tek](https://x.com/Tek).
+- [Blender Worlds](https://x.ai/bot/jkqV2JOccGju3PTwbXwK4) - 把平面图和现场照片加上公开地形数据做成 Blender 三维模型并附带可走动浏览的私密查看器. [Denny](https://x.com/Teslasintheshop).
+- [Evening Resolution Tracker](https://x.ai/bot/6Vt9-JCeDtZSAzhdOmeG8) - 每晚带你做简短的良心省察和痛悔经并请你定下第二天的一个具体决心. [Cleetus](https://x.com/175rng).
+- [Growth](https://x.ai/bot/Fo7dELbkk5DSJkuPWjR18) - 帮你找合适的工作，经你同意后协助投递，并跟踪雇主回复和学习进度. [Yazid](https://x.com/Joyyb_1).
+- [Local Events Roundup](https://x.ai/bot/906iGrd94sK-sgWhPQw79) - 按你的地点和兴趣汇总音乐会、节日、展览和附近活动，每周推送并可选当天提醒. [𝓶.𝓪.𝓹.](https://x.com/shymicron).
+- [Gift Detective](https://x.ai/bot/s9LmRBYDJNp9UctFu2qi7) - 根据对方公开的 X 动态和你的预算，找出最多三份有购买链接的礼物并注明依据. [Brett](https://x.com/Bro7388).
+- [Bring a Dish](https://x.ai/bot/YnB0MGcaCbUsIWKMd6oFx) - 告诉它人数、车程和忌口，帮你选一道适合带到感恩节或圣诞聚餐且路上好带的菜. [Erinn](https://x.com/ErinnFL).
+- [Device Health Check Bot](https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0) - 只读检查你的手机和电脑的安全、隐私、存储和卡顿，并给出排序后的修复清单和报告. [Brian](https://x.com/BrianRoemmele).
+- [scrub daddy](https://x.ai/bot/vq6-NJAb6WLGyo7orUp6V) - 在人肉搜索和数据经纪网站上找出你的信息并提交退出申请，每周复查直到删除或确认处理中. [Sam](https://x.com/SamAiAm85).
+- [The Book Whisperer](https://x.ai/bot/1AdzkaHDcFOHpCcCtB_vB) - 记住你的阅读口味和已读书单，并据此推荐下一本合适的书. [Campdirtybird](https://x.com/Campdirtybird).
+- [FreebieBot](https://x.ai/bot/HOFnwCWZU-u-09WL5pjtl) - 在 X、Instagram、Facebook 和品牌站寻找正规免费抽奖，筛掉骗局并给你一键报名链接. [Full](https://x.com/fullvaluedan).
+- [Study Buddy](https://x.ai/bot/_-LDZX4_M3rfCzU-mhftn) - 把课堂幻灯片或笔记发给它，生成学习指南、练习测验和可翻转闪卡. [Mav](https://x.com/Mavmetax).
+- [Steady Hand](https://x.ai/bot/WNa0UvXDfvRkZ31PmJ93r) - 在失去配偶后的几周里帮你弄清该问人事、社保和医保什么，以及哪些账单该不该你来付. [Salty FL Cracker](https://x.com/the_seth_ard).
+- [Coding Scribe](https://x.ai/bot/sYCu3Tox5M_9QWABK2RaF) - 把编程视频和教程（多为 YouTube）整理成简明实用的教程笔记，存进你的 Obsidian 库. [Elijah](https://x.com/loco_coder).
+- [Unstuck](https://x.ai/bot/5Ov0WI-Ad7vtb3yfWT7sP) - 整理你杂乱的想法倾倒，挑出唯一的下一步，缩成两分钟就能开始的小事，并记录你的小胜利，适合 ADHD 用户. [billgwolcott](https://x.com/billgwolcott).
+- [Host Mode](https://x.ai/bot/F0skXyX7J2DtsFPBxzbs3) - 按人数和饮食需求规划感恩节或友谊节聚餐，给出菜单、分量，以及倒推的解冻、备菜和烤箱时间表. [Ryan](https://x.com/ryanthawks).
+- [Call Around](https://x.ai/bot/BfJSlxG9eRuKVL4jEYse9) - 替你给几家本地商家打电话问同样的问题，再整理成报价、档期和备注的排序对比. [Ryan](https://x.com/ryanthawks).
+- [Spam-Call Scrubber](https://x.ai/bot/q34Uw0YlLx3ypGqj_bEu7) - 查找你的号码在人员搜索网站和数据经纪商的记录，提交退出申请、完成邮件确认，并定期复查. [Thomas](https://x.com/thomasjuranek).
+- [Caregiver Co-pilot](https://x.ai/bot/kmGahHjSuTnIfCKL5DwQw) - 帮照顾年迈父母的成年子女整理照护事务，是一份系统提示词模板. [Daniel](https://x.com/BurtTheAI).
+- [Same Team](https://x.ai/bot/SwPnn9g6m32pNIL-NvJ65) - 帮两个家庭的共同抚养人写清晰友好的消息、发送孩子近况，并规划日程和节假日. [billgwolcott](https://x.com/billgwolcott).
+- [Mobbi Grok](https://x.ai/bot/ZkYt-p7_BweHRkUoqUD_d) - 在公司的 MobbiPro 门户预订、查看和取消车位，沿用你常用的区域、车位类型和车辆. [Vasco](https://x.com/vhbmsp).
+- [Help, I Haven't Checked In](https://x.ai/bot/iGiD-76C2lv6MB1otClec) - 面向徒步、野外驾驶和划船者的行程签到保险，超过签到时间没回来就通知别人. [Brian](https://x.com/BrianRoemmele).
+- [Precious Time](https://x.ai/bot/h5-ZLJewg2-OUqby-bdwX) - 记录每个项目和子任务耗时的计时卡 bot，你开始、切换或停止时它会累计总时长. [S4LTYBOT](https://x.com/s4ltybotdoteth).
+- [Speak For Me](https://x.ai/bot/dJkudgT1xfPF-1SbIkm23) - 用你的语言说明想向商家或办公室办的事，它用英语打电话，再用你的语言汇报结果. [Ryan](https://x.com/ryanthawks).
+- [WinRed Do Not Solicit](https://x.ai/bot/ofi02xeThboVrpqzpcLP7) - 帮你向 WinRed 提交一份礼貌的书面拒绝征集和撤销同意通知，并协助退出政治募捐活动和委员会. [Steve](https://x.com/viewtifuljoseph).
+- [Alibime](https://x.ai/bot/dbElnxjDXugy6zRblCXTh) - 给它一个过去的时间段和发生的事，它只用你自己的记录来还原你当时在哪，比如消息、邮件、日历和刷卡记录. [𝗠𝗶𝗰𝗵𝗮𝗲𝗹](https://x.com/Michael35715972).
+- [Language Tutor](https://x.ai/bot/s_WZdU_Er927twSRWB2yr) - 一位耐心温和的语言家教，支持任意语言，提供短课、对话练习、温和纠错、测验和闪卡. [Tommy](https://x.com/tanderson9).
+- [Sui Generis](https://x.ai/bot/4KAhedlW6LAODXIJ_c9w4) - 对任何计划、观点、论证或草稿给出直率的二次审读，包含强项、弱点、修正结论，可直接粘贴的改写和一个五分钟行动. [Sarah](https://x.com/SpaceCowgirlTX).
+- [Workout](https://x.ai/bot/1IvxISrOUfo1hmmYZuFCn) - 务实的健身教练，按你手头的器材制定计划，记录组数和有氧，并建议何时加重或保持. [Hank](https://x.com/hjackson2).
+- [Nearby Reminders](https://x.ai/bot/osi4qnCsyi_E_58tQShCJ) - 基于位置的待办清单，把事项绑定到商店、地址或某类地点，手机显示你在附近时提醒你. [Kevin](https://x.com/kcmcdonald).
+- [Job Application Desk](https://x.ai/bot/cTc02RRIrpShsv4WFM1kf) - 找到适合你的在招职位，根据你的真实经历为每个职位定制简历，并端到端填写申请. [Z23](https://x.com/ZyMoProfit).
+- [Cabin Commander](https://x.ai/bot/exnvJCPLFTqvpn18up5WB) - 随叫随到的特斯拉助手，开口就能预热车舱、开启狗狗模式、查电量或锁车，使用你车自己的安全密钥. [Tom](https://x.com/TitaniumTomP).
+- [Health Bot](https://x.ai/bot/Vl0yMkCKmpfj0cO4pnsXQ) - 个人健康助手，根据照片把餐食记入 Google 表格饮食日记，并追踪热量、营养、饮水、体重和活动量. [Eduardo](https://x.com/AnotherHumanSol).
+- [Movie Actor Streak](https://x.ai/bot/JF3hJaodw9DJ6l3Kb9k7e) - 输入演员姓名，按从旧到新列出他出演的所有长片，附 IMDb 和 TMDB 评分. [Troels](https://x.com/TroelsMJensen).
+- [Foreman](https://x.ai/bot/u_CJDYG42N8gt6l-t-S6H) - 把家装项目、承包商报价、发票和截止日期集中在一张 Google 表格里，没有你同意绝不联系或付款给供应商. [TechEcho](https://x.com/techechohq).
+- [Job Scout](https://x.ai/bot/qjAe4Or0l7ICoEcmLvdKe) - 求职搭档，帮你制作或升级简历，带来源地找匹配职位，调研招聘经理并起草联系信息. [Brian](https://x.com/BrianRoemmele).
+- [Seller Ads](https://x.ai/bot/G1n_9hPAZUPVf5GuTpvZm) - 在 Craigslist 和 Facebook Marketplace 上打理你的出售广告，从发布、改价到续期、删除并记录清单. [Sam](https://x.com/schellingsam99).
+- [Call Bot](https://x.ai/bot/uu_BiNYe0qW6AbH55Zx6g) - 替你排队等候并操作电话语音菜单，处理航空、银行、保险等个人和供应商来电，每次拨号都经你批准. [Eric](https://x.com/ericosiu).
+- [baby yoda](https://x.ai/bot/8Xr10NWIondmn3hoP7CAr) - 给新手父母的育儿提醒小帮手，用日常话记录喂奶、换尿布和睡眠，并在下一次到点时提醒你. [Supreme](https://x.com/eggbotdoc).
+- [Costco Price Adjust](https://x.ai/bot/e-n9Jr0TNFAfVCgAhusb0) - 把你的 Costco 小票和当前即时优惠册对照，30 天内买过的商品降价时提醒你. [Tyler](https://x.com/Tjt_22).
+- [Veterans Day Bro](https://x.ai/bot/fnGtsSHn4jSH00iKvBEF3) - 按你的邮编找退伍军人节的免费和折扣优惠，先列餐饮，再列娱乐和商店优惠. [Joshua](https://x.com/JoshSeefried).
+- [Mindset coach](https://x.ai/bot/_B6MxCsIXuYNMoTVAP9UA) - 心态教练，用简短的苏格拉底式提问帮你走出卡点、准备重要时刻并养成每周小习惯. [Rachel](https://x.com/RachelVT42).
+- [Remote Job Hunt & X Creator](https://x.ai/bot/pdtnGmxq4thYIhqWeZylE) - 每天早上找出符合你硬性要求的远程工作，写定制的求职提案，并用资讯草稿和每日发帖帮你在 X 上涨粉. nico.
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) - 以故事中角色自己的口吻回答，带你找到罗马世界里对应的页面。 [Roman](https://x.com/romansgameworld).

@@ -3,7 +3,7 @@ import { readdirSync, readFileSync, statSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { escapeMarkdownSummary } from "./summary-markdown.mjs";
-import { CATEGORY_META, MAX_MARKDOWN_BYTES, catalogFileFor, catalogLinkLine } from "./catalog-files.mjs";
+import { CATEGORY_META, MAX_MARKDOWN_BYTES, catalogFilesFor, catalogLinkLine } from "./catalog-files.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const entrySchema = JSON.parse(readFileSync(join(root, "schema", "entry.schema.json"), "utf8"));
@@ -204,29 +204,32 @@ for (const readmeName of ["README.md", "README.zh-CN.md"]) {
     fail(`${readmeName}: catalog entries belong in catalog/, not the README`);
   }
   for (const category of Object.keys(CATEGORY_META)) {
-    const rel = catalogFileFor(category, readmeName);
     const count = catalog.entries.filter((entry) => entry.category === category).length;
     if (!text.split("\n").includes(catalogLinkLine(category, readmeName, count))) {
       fail(`${readmeName}: expected line "${catalogLinkLine(category, readmeName, count)}"`);
     }
-    const catalogText = readFileSync(join(root, rel), "utf8");
-    checkMarkdownSize(rel, catalogText);
-    catalogLines.set(rel, catalogText.split("\n"));
-    const listed = catalogLines.get(rel).filter((line) => line.startsWith("- [")).length;
-    if (listed !== count) fail(`${rel}: ${listed} list lines, expected ${count} ${category} entries`);
+    let listed = 0;
+    for (const rel of catalogFilesFor(category, readmeName)) {
+      const catalogText = readFileSync(join(root, rel), "utf8");
+      checkMarkdownSize(rel, catalogText);
+      catalogLines.set(rel, catalogText.split("\n"));
+      listed += catalogLines.get(rel).filter((line) => line.startsWith("- [")).length;
+    }
+    if (listed !== count) fail(`catalog/${category}: ${listed} list lines, expected ${count} ${category} entries`);
   }
   for (const entry of catalog.entries) {
-    const fileName = catalogFileFor(entry.category, readmeName);
-    const lines = catalogLines.get(fileName);
-    const matches = lines
-      .map((line, index) => ({ line, index }))
-      .filter(({ line }) => line.startsWith("- [") && line.includes(`](${entry.import}) - `));
+    const matches = catalogFilesFor(entry.category, readmeName).flatMap((fileName) =>
+      catalogLines
+        .get(fileName)
+        .map((line, index) => ({ fileName, line, index }))
+        .filter(({ line }) => line.startsWith("- [") && line.includes(`](${entry.import}) - `))
+    );
     if (matches.length !== 1) {
-      fail(`${fileName}: expected one catalog line for ${entry.slug}, found ${matches.length}`);
+      fail(`catalog/${entry.category}: expected one catalog line for ${entry.slug}, found ${matches.length}`);
     }
     const expected = expectedReadmeLine(entry, readmeName);
     if (matches[0].line !== expected) {
-      fail(`${fileName}:${matches[0].index + 1}: catalog line does not match ${entry.slug}`);
+      fail(`${matches[0].fileName}:${matches[0].index + 1}: catalog line does not match ${entry.slug}`);
     }
   }
 
