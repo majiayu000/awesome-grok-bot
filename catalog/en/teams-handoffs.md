@@ -855,3 +855,4 @@ Back to [README](../../README.md)
 - [Checkup](https://x.ai/bot/ffy9_7mBUraesvnoSouFC) - Read-only checkup bot for people running many Grok Bots, checking transcripts, routines and the computer's health on a schedule. [Carolina](https://x.com/CarolinaDill).
 - [Mastermind](https://x.ai/bot/zdBkQ_7mp77gFyt20d3N0) - Brain librarian for a Grok Bot fleet that keeps an Obsidian-style Markdown brain clean, current and linked. [NoFace](https://x.com/0xStarfox).
 - [Muse Bridge](https://x.ai/bot/Eyq2_3_2eIs2mXpFJsso8) - Connects your Muse assistant to Grok Bot so you can message its main session or a per-project session, bring replies back and keep logs. [Haidong](https://x.com/HeHaidong27050).
+- [Usage Watch](https://x.ai/bot/HHDuDo50QAhU9ozZpI5nc) - Tracks where your Grok Bot usage goes, warns you before you run out and suggests the biggest cuts, report-only and never changes your bots. [Scott](https://x.com/ScottSpills).

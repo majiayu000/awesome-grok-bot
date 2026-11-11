@@ -763,3 +763,4 @@
 - [Quandora](https://x.ai/bot/aMdvJyS1ECeDG3GD2fnoD) - 研究交易信号并回测加密多因子策略与组合不下真实单. [Rick](https://x.com/_1RICKk1).
 - [XSP Check](https://x.ai/bot/ECaGV3Qi7xh6ztui_iVpl) - 只读检查 1 手看跌信用价差的最大亏损、盈亏平衡点和购买力，对照 tastytrade 模拟运行，从不下单. [Alvin](https://x.com/hallway247).
 - [Bot do MEI](https://x.ai/bot/m6tmgTZ2-05pAQTZlxo4N) - 提醒巴西 MEI 个体户每月的 DAS 和 DASN 截止日，并用通俗葡萄牙语结合官方来源讲解 2027 年规则. [Henrique](https://x.com/henriquepiri).
+- [SaaS Spend Check](https://x.ai/bot/hFnxPrJ7wOqRr3dbSnY1a) - 读取已连接邮箱里的订阅收据，列出你付费的每个工具、费用以及多花钱的地方. [Calix](https://x.com/CaliLumberJack).

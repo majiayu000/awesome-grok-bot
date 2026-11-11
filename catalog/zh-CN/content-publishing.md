@@ -993,3 +993,10 @@
 - [Tweet Analyser](https://x.ai/bot/Se-KI83s3bSoiGx6jeXMg) - 检查 X 帖子草稿并给出发布、微调或重写的判断，按 X 开源排序代码给出白话修改建议，并用你的口吻重写. [Zeeshan](https://x.com/zeeshan_utd).
 - [Video Director](https://x.ai/bot/meTDwFI6Jtm-uTyQtyrbb) - 导演并制作最长约 30 分钟的视频，也能剪辑现有素材，先访谈需求并做调研. [Chee](https://x.com/cheeweng_).
 - [Clip Scout](https://x.ai/bot/SY9HT-xabGZ0FxGDdhD5z) - 帮你在长视频里找出值得做成 X 剪辑（5 到 60 秒并加上你的看法）的片段. [bwolcottauthor](https://x.com/bwolcottauthor).
+- [BROWN ELMO](https://x.ai/bot/xthzGA7hjo8nWPzgU_ml7) - 来自 OOI LLC 的暴脾气讽刺机器人，从创作者的帖子里提取内容，并以角色口吻回复. [forgedusa1](https://x.com/forgedusa1).
+- [Book Trailer Studio](https://x.ai/bot/xKvoesbjyWII6Efvos1fh) - 读你的小说，提炼卖点，写 30 到 60 秒预告片的脚本和分镜，再用你的封面和真实素材生成视频. [Edward](https://x.com/ewillett).
+- [Social Team](https://x.ai/bot/9PABfxmoAA-NLLysh01cA) - 把整个社媒团队装进一个机器人，找出你领域里值得发的内容，先问你的看法，再为每个平台写一个版本. [bwolcottauthor](https://x.com/bwolcottauthor).
+- [Spam Spotter](https://x.ai/bot/E3d8jVV2u6Zm7V2Hz9g3s) - 检查你 X 帖子下的回复和提及里的垃圾机器人、骗子和引战内容，给出带链接的简短名单方便屏蔽或静音. [ReconBailey](https://x.com/ReconBailey).
+- [Game Content Coach](https://x.ai/bot/gvCwVFynuIPr92qD3jMNf) - 面向时间有限的新手游戏创作者的每日教练，每天早上给出一条帖子、一个拍摄目标和一个发布时间. [Gabriel](https://x.com/Tijs_Fan).
+- [It's Alive 4D Posts](https://x.ai/bot/PxLus1MpAZobBdrWjEwv1) - 发送任意 X 帖子，得到一段抓眼球的 4D 短片，逼真的角色从帖子里爬出来，做出与内容相关的动作并循环. [Mav](https://x.com/Mavmetax).
+- [Pixel](https://x.ai/bot/gM0DHWfNDysR-M6FdEkhr) - 设计机器人，用 GIMP、Inkscape、Krita 等真实编辑器制作标志、缩略图、封面、图标、帖子配图和界面原型. [𝕃𝕖𝕧𝕚](https://x.com/LeviHoliday4).

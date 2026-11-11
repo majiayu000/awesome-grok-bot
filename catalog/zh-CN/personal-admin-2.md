@@ -99,3 +99,17 @@
 - [Help, I Haven't Checked In](https://x.ai/bot/iGiD-76C2lv6MB1otClec) - 面向徒步、野外驾驶和划船者的行程签到保险，超过签到时间没回来就通知别人. [Brian](https://x.com/BrianRoemmele).
 - [Precious Time](https://x.ai/bot/h5-ZLJewg2-OUqby-bdwX) - 记录每个项目和子任务耗时的计时卡 bot，你开始、切换或停止时它会累计总时长. [S4LTYBOT](https://x.com/s4ltybotdoteth).
 - [Speak For Me](https://x.ai/bot/dJkudgT1xfPF-1SbIkm23) - 用你的语言说明想向商家或办公室办的事，它用英语打电话，再用你的语言汇报结果. [Ryan](https://x.com/ryanthawks).
+- [WinRed Do Not Solicit](https://x.ai/bot/ofi02xeThboVrpqzpcLP7) - 帮你向 WinRed 提交一份礼貌的书面拒绝征集和撤销同意通知，并协助退出政治募捐活动和委员会. [Steve](https://x.com/viewtifuljoseph).
+- [Alibime](https://x.ai/bot/dbElnxjDXugy6zRblCXTh) - 给它一个过去的时间段和发生的事，它只用你自己的记录来还原你当时在哪，比如消息、邮件、日历和刷卡记录. [𝗠𝗶𝗰𝗵𝗮𝗲𝗹](https://x.com/Michael35715972).
+- [Language Tutor](https://x.ai/bot/s_WZdU_Er927twSRWB2yr) - 一位耐心温和的语言家教，支持任意语言，提供短课、对话练习、温和纠错、测验和闪卡. [Tommy](https://x.com/tanderson9).
+- [Sui Generis](https://x.ai/bot/4KAhedlW6LAODXIJ_c9w4) - 对任何计划、观点、论证或草稿给出直率的二次审读，包含强项、弱点、修正结论，可直接粘贴的改写和一个五分钟行动. [Sarah](https://x.com/SpaceCowgirlTX).
+- [Workout](https://x.ai/bot/1IvxISrOUfo1hmmYZuFCn) - 务实的健身教练，按你手头的器材制定计划，记录组数和有氧，并建议何时加重或保持. [Hank](https://x.com/hjackson2).
+- [Nearby Reminders](https://x.ai/bot/osi4qnCsyi_E_58tQShCJ) - 基于位置的待办清单，把事项绑定到商店、地址或某类地点，手机显示你在附近时提醒你. [Kevin](https://x.com/kcmcdonald).
+- [Job Application Desk](https://x.ai/bot/cTc02RRIrpShsv4WFM1kf) - 找到适合你的在招职位，根据你的真实经历为每个职位定制简历，并端到端填写申请. [Z23](https://x.com/ZyMoProfit).
+- [Cabin Commander](https://x.ai/bot/exnvJCPLFTqvpn18up5WB) - 随叫随到的特斯拉助手，开口就能预热车舱、开启狗狗模式、查电量或锁车，使用你车自己的安全密钥. [Tom](https://x.com/TitaniumTomP).
+- [Health Bot](https://x.ai/bot/Vl0yMkCKmpfj0cO4pnsXQ) - 个人健康助手，根据照片把餐食记入 Google 表格饮食日记，并追踪热量、营养、饮水、体重和活动量. [Eduardo](https://x.com/AnotherHumanSol).
+- [Movie Actor Streak](https://x.ai/bot/JF3hJaodw9DJ6l3Kb9k7e) - 输入演员姓名，按从旧到新列出他出演的所有长片，附 IMDb 和 TMDB 评分. [Troels](https://x.com/TroelsMJensen).
+- [Foreman](https://x.ai/bot/u_CJDYG42N8gt6l-t-S6H) - 把家装项目、承包商报价、发票和截止日期集中在一张 Google 表格里，没有你同意绝不联系或付款给供应商. [TechEcho](https://x.com/techechohq).
+- [Job Scout](https://x.ai/bot/qjAe4Or0l7ICoEcmLvdKe) - 求职搭档，帮你制作或升级简历，带来源地找匹配职位，调研招聘经理并起草联系信息. [Brian](https://x.com/BrianRoemmele).
+- [Seller Ads](https://x.ai/bot/G1n_9hPAZUPVf5GuTpvZm) - 在 Craigslist 和 Facebook Marketplace 上打理你的出售广告，从发布、改价到续期、删除并记录清单. [Sam](https://x.com/schellingsam99).
+- [Call Bot](https://x.ai/bot/uu_BiNYe0qW6AbH55Zx6g) - 替你排队等候并操作电话语音菜单，处理航空、银行、保险等个人和供应商来电，每次拨号都经你批准. [Eric](https://x.com/ericosiu).

@@ -855,3 +855,4 @@
 - [Checkup](https://x.ai/bot/ffy9_7mBUraesvnoSouFC) - 给运行很多 Grok Bot 的人用的只读体检机器人，定时检查对话记录、例行任务和电脑状态. [Carolina](https://x.com/CarolinaDill).
 - [Mastermind](https://x.ai/bot/zdBkQ_7mp77gFyt20d3N0) - Grok Bot 群的知识管理员，维护一个 Obsidian 风格的 Markdown 知识库，保持整洁、最新且互相链接. [NoFace](https://x.com/0xStarfox).
 - [Muse Bridge](https://x.ai/bot/Eyq2_3_2eIs2mXpFJsso8) - 把 Muse 助手接进 Grok Bot，可给 Muse 主会话或各项目会话发消息，并把回复带回来、存日志. [Haidong](https://x.com/HeHaidong27050).
+- [Usage Watch](https://x.ai/bot/HHDuDo50QAhU9ozZpI5nc) - 追踪你的 Grok Bot 用量去向，快用完前预警并建议最大的节省点，只出报告，不会改动你的机器人. [Scott](https://x.com/ScottSpills).

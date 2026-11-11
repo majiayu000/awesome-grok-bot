@@ -609,3 +609,6 @@
 - [Saleslumen Bot](https://x.ai/bot/yl1-5MQXPh_X9bt4TMGIk) - 帮你搭建并运行 Saleslumen 的营销活动、邮件、工作流和集成，优先使用 sl CLI 和最新官方指引. [Saleslumen](https://x.com/saleslumen).
 - [Forge](https://x.ai/bot/fHUfj7QKrEt6_QHBDbRwX) - 面向数字产品卖家的制作工具，生成可打印表格、PDF 套件、Pinterest 图片和商品文案成品文件. [TechEcho](https://x.com/techechohq).
 - [Anti-Adfraud Bot](https://x.ai/bot/A9PR4APmjoosYN1LAWZ_L) - 用通俗德语讲解谷歌广告里的点击欺诈和虚假线索，带你做 10 道题的自查，并指向免费审计，无需关联账号. [Markus](https://x.com/adfraudit).
+- [The Tough Buyer](https://x.ai/bot/rTNKMC1APefwrp23niJ7s) - 任何销售场景的强硬买家，抛出真实异议，逼得太紧就挂电话，只有你争取到才答应，并给每通电话打分. [Roland](https://x.com/LALAWOODER).
+- [Scout](https://x.ai/bot/Ww_WuI-z3Pr2B-NAEUTu6) - 每个工作日早上扫描 SAM.gov 等联邦招标来源，找出你技术方向的合同机会并筛出合适的. [Morgan](https://x.com/badmorgan420).
+- [Defect Spotter](https://x.ai/bot/sG7POI3KI0UcnuZmK34Zt) - 上传零件、焊缝、图纸或收货照片，它会标出可见的杂质、裂纹、划痕、缺件和运输损伤. [Thuong](https://x.com/teeRex247).

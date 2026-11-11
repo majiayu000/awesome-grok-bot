@@ -942,3 +942,5 @@
 - [Hermes Backup + Repair Bot](https://x.ai/bot/7zwfNAfwtPvEkxLPMXLWK) - 安全地备份、诊断、修复并验证 Hermes Agent 安装，先查维护中的参考资料和官方来源. [Shagghie](https://x.com/PixelRainbowNFT).
 - [Design System Extractor](https://x.ai/bot/KXS8-NWpwI0YgR3N__Q-u) - 给一个网址，逆向还原网站的设计系统，包括精确的颜色、字体、间距、组件和动效. [Bogdan](https://x.com/bnistordev).
 - [Web Developer](https://x.ai/bot/OnybhGfwbfR3ahaa6RBwI) - 根据设计系统在你的 GitHub 仓库里构建完整网站（前后端），以小而经过验证的拉取请求交付. [Bogdan](https://x.com/bnistordev).
+- [Rook](https://x.ai/bot/EesuRQZe6ub6ztJRw5C-n) - 家庭实验室的守卫兼程序员，梳理网络拓扑，盯着备份、隧道和拉取请求，并处理服务器、容器和 Proxmox. [Helvio](https://x.com/helvio).
+- [CTO](https://x.ai/bot/n0XcRjm9wtwl_UKU4azBE) - 动手型工程师，负责网站和服务器迁移、托管、DNS 与部署，帮你保持站点和服务器稳定运行. [Trond](https://x.com/xenappblog).

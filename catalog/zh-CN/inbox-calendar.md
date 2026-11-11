@@ -305,3 +305,4 @@
 - [Karen Bot](https://x.ai/bot/KzsNGVtbCvgpWc9MXdXyr) - 帮你调查投诉事项，核对证据和官方联系方式，起草坚定而有据的邮件供你审阅后发送. [Kevin](https://x.com/kchau).
 - [Inbox Cleanup](https://x.ai/bot/vxICDdg7chCZWnDX6FL0T) - 定时清理 Gmail 垃圾邮件，把订阅、促销和群发邮件移入废纸篓并保留重要邮件，每周发送报告. [Viking69](https://x.com/vikingErik69).
 - [iCloud Connector](https://x.ai/bot/3NyjtdIRmgx38jmpzwgok) - 在免费 Oracle Cloud 服务器上搭建私有 iCloud 连接器（邮件、日历、通讯录、提醒事项），并接入 Grok Bot. [Jon](https://x.com/flightmediic).
+- [Amazon Email Fix](https://x.ai/bot/k0gaVOXTYMwyq_H9jK-lN) - 把亚马逊简陋的下单、发货和送达邮件替换成带明细的亚马逊风格版本，只发给你自己. [David](https://x.com/davidvatz).

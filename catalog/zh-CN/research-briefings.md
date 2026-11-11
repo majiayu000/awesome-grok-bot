@@ -902,3 +902,7 @@
 - [OpenAny](https://x.ai/bot/wZ0PqEbJCTJizVYNK9Ohs) - 让机器人连接 OpenAny，用一个密钥和按次付费的余额调用 150 多个 AI 模型和 3000 多个数据与工具接口. [Pistis](https://x.com/openanysi).
 - [Tesla Owner Copilot](https://x.ai/bot/KWkMaZUFZmvpp-_xbAVTI) - 用公开来源让特斯拉车主了解软件更新、FSD、召回和优惠，无需连接车辆或账号. [TheNorthernTrail](https://x.com/TacticaLJes).
 - [Any Video Into A Magazine](https://x.ai/bot/Dky0PJsMVdTE6h_6cN6kq) - 把你关注的 YouTube 频道和播客整理成每周杂志，含专题文章、视频真实截图和逐字引语. [Brian](https://x.com/0xlangeai).
+- [Nibbler](https://x.ai/bot/GtOwnmBzXGF_dS7C058eJ) - 来自 0xRay AI Fleet OPS 的信息流侦察员，读你的 X 信息流和网页，为你的主力机器人和运维人员写每日摘要. [Blaze🔥](https://x.com/Blaze0x1).
+- [Grok 4.8 Release Watcher](https://x.ai/bot/exzlkRCI9SwKdjiMWbXYV) - 一个盯梢机器人，Grok 4.8 在 Grok Bot 里可用时只通知你一次，期间从 Grok 和 xAI 员工的 X 帖子里挑有用的消息. [Will](https://x.com/old_pgmrs_will).
+- [Research King](https://x.ai/bot/2w9F4-NE2NswthMtFQgxe) - 通过访谈了解你想跟踪什么，实时检查 X 和网页上的来源，再为你创建专属研究机器人. [Hoem](https://x.com/hooeem).
+- [Stillroach Bag Watch](https://x.ai/bot/_74gBhv0E93s0SKfoQWVs) - 为你持有的 Solana 代币推送提醒，附持仓者和跑路风险标记及实时 X 背景，不会自行交易. [stillroachhq](https://x.com/stillroachhq).

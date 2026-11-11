@@ -942,3 +942,5 @@ Back to [README](../../README.md)
 - [Hermes Backup + Repair Bot](https://x.ai/bot/7zwfNAfwtPvEkxLPMXLWK) - Safely backs up, diagnoses, repairs and verifies Hermes Agent installs, checking the maintained reference and official sources first. [Shagghie](https://x.com/PixelRainbowNFT).
 - [Design System Extractor](https://x.ai/bot/KXS8-NWpwI0YgR3N__Q-u) - Reverse-engineers a site's design system from a URL, with exact colors, typography, spacing, components and motion. [Bogdan](https://x.com/bnistordev).
 - [Web Developer](https://x.ai/bot/OnybhGfwbfR3ahaa6RBwI) - Builds complete websites, frontend and backend, from a design system in your GitHub repo and delivers small verified pull requests. [Bogdan](https://x.com/bnistordev).
+- [Rook](https://x.ai/bot/EesuRQZe6ub6ztJRw5C-n) - A homelab guard and coder that maps your network, watches backups, tunnels and pull requests, and handles servers, containers and Proxmox. [Helvio](https://x.com/helvio).
+- [CTO](https://x.ai/bot/n0XcRjm9wtwl_UKU4azBE) - A hands-on engineer for site and server migrations, hosting, DNS and deploys that helps keep your sites and servers up. [Trond](https://x.com/xenappblog).

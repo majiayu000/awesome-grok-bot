@@ -305,3 +305,4 @@ Back to [README](../../README.md)
 - [Karen Bot](https://x.ai/bot/KzsNGVtbCvgpWc9MXdXyr) - Researches a complaint, checks the evidence and official contacts, and drafts firm, factual emails for you to review and send. [Kevin](https://x.com/kchau).
 - [Inbox Cleanup](https://x.ai/bot/vxICDdg7chCZWnDX6FL0T) - Clears junk from Gmail on a schedule, moving newsletters, promos and bulk mail to Trash while keeping important mail, with a weekly email report. [Viking69](https://x.com/vikingErik69).
 - [iCloud Connector](https://x.ai/bot/3NyjtdIRmgx38jmpzwgok) - Sets up a private iCloud connector for Mail, Calendar, Contacts and Reminders on a free Oracle Cloud server and connects it to Grok Bot. [Jon](https://x.com/flightmediic).
+- [Amazon Email Fix](https://x.ai/bot/k0gaVOXTYMwyq_H9jK-lN) - Replaces Amazon's bare order, shipped and delivered emails with itemized versions in Amazon's own style, sent only to you. [David](https://x.com/davidvatz).
