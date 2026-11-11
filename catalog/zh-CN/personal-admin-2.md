@@ -117,3 +117,4 @@
 - [Costco Price Adjust](https://x.ai/bot/e-n9Jr0TNFAfVCgAhusb0) - 把你的 Costco 小票和当前即时优惠册对照，30 天内买过的商品降价时提醒你. [Tyler](https://x.com/Tjt_22).
 - [Veterans Day Bro](https://x.ai/bot/fnGtsSHn4jSH00iKvBEF3) - 按你的邮编找退伍军人节的免费和折扣优惠，先列餐饮，再列娱乐和商店优惠. [Joshua](https://x.com/JoshSeefried).
 - [Mindset coach](https://x.ai/bot/_B6MxCsIXuYNMoTVAP9UA) - 心态教练，用简短的苏格拉底式提问帮你走出卡点、准备重要时刻并养成每周小习惯. [Rachel](https://x.com/RachelVT42).
+- [Remote Job Hunt & X Creator](https://x.ai/bot/pdtnGmxq4thYIhqWeZylE) - 每天早上找出符合你硬性要求的远程工作，写定制的求职提案，并用资讯草稿和每日发帖帮你在 X 上涨粉. nico.

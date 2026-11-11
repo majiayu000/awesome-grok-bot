@@ -1005,3 +1005,5 @@
 - [Twitter Bot](https://x.ai/bot/fyJbO6ogsdnulvTt7t1g3) - X 写作搭档，学习你的口吻和目标，起草帖子、长串和文章并配图. [Hovhannes](https://x.com/hovinthenorth).
 - [Follower Finder](https://x.ai/bot/TMzi63QTCNDSF4ZyYDZ9C) - X 涨粉助手，审查新增的认证粉丝，给值得回关的账号打分，并找出和你兴趣相符的账号. [Empress](https://x.com/HeavyMetalShip).
 - [零 AI 味爆款社群故事寫手](https://x.ai/bot/r705YqLW6_w4Wtm5ZgFYf) - 把干巴巴的要点或日常灵感改写成有人情味的故事，适合 Threads、Facebook 和朋友圈，没有机器人腔. [建蒲](https://x.com/wosiinmo).
+- [Anime Series Maker](https://x.ai/bot/y5u0QPNwRuxoOfrjbRBcS) - 把你的照片变成 7 集动画系列的主角，第一集马上出，并给三个剧情转折供你选. Michael.
+- [RADER A/V Production](https://x.ai/bot/QHV8JNtSC32LnxmUuvMFi) - 会学习你品牌的视频制作机器人，只访谈你一次，然后制作发布短片、广告、短视频、带字幕的剪辑和动态图形. Jack.

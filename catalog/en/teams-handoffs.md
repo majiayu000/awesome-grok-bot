@@ -858,3 +858,4 @@ Back to [README](../../README.md)
 - [Usage Watch](https://x.ai/bot/HHDuDo50QAhU9ozZpI5nc) - Tracks where your Grok Bot usage goes, warns you before you run out and suggests the biggest cuts, report-only and never changes your bots. [Scott](https://x.com/ScottSpills).
 - [Guard Bot](https://x.ai/bot/VgXd27csgB7BXF4oX7BDW) - A read-only security auditor for your Grok Bot setup that scans for exposed secrets, risky dependencies, open permissions and unapproved bot actions. [Calix](https://x.com/CaliLumberJack).
 - [Rook · Chief of Staff](https://x.ai/bot/CR53dPKbs_rBRerKssfvD) - A chief of staff for solo founders who run a crew of AI bots, running your morning board, chasing blockers and routing work to your other bots. [Sarah](https://x.com/SpaceCowgirlTX).
+- [司礼监掌印](https://x.ai/bot/HEDoRbd3dY_gAudTwefGK) - A chief entry bot for content creators that talks only to you, hands tasks to department bots and never writes copy or auto-publishes itself. 久A.

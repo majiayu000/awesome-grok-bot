@@ -858,3 +858,4 @@
 - [Usage Watch](https://x.ai/bot/HHDuDo50QAhU9ozZpI5nc) - 追踪你的 Grok Bot 用量去向，快用完前预警并建议最大的节省点，只出报告，不会改动你的机器人. [Scott](https://x.com/ScottSpills).
 - [Guard Bot](https://x.ai/bot/VgXd27csgB7BXF4oX7BDW) - 只读的 Grok Bot 安全审计员，扫描泄露的密钥、有风险的依赖、过宽的权限和未经批准的机器人操作. [Calix](https://x.com/CaliLumberJack).
 - [Rook · Chief of Staff](https://x.ai/bot/CR53dPKbs_rBRerKssfvD) - 给独立创始人的幕僚长，统筹你的一群 AI 机器人，负责早间看板、追进阻塞项并把活派给其他机器人. [Sarah](https://x.com/SpaceCowgirlTX).
+- [司礼监掌印](https://x.ai/bot/HEDoRbd3dY_gAudTwefGK) - 自媒体创作者的总入口机器人，只与你对接，把任务交给各部门机器人，自己不写正文也不自动发布. 久A.

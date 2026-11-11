@@ -160617,6 +160617,88 @@
       "updated": "2026-11-11",
       "shelf": "raw",
       "source": "https://x.com/Hoopss/status/2120410191191540120"
+    },
+    {
+      "slug": "anime-series-maker",
+      "name": "Anime Series Maker",
+      "author": {
+        "name": "Michael"
+      },
+      "summary": "Turns your photo into the hero of a 7-episode anime series, with episode one right away and three plot twists to tap",
+      "summary_zh": "把你的照片变成 7 集动画系列的主角，第一集马上出，并给三个剧情转折供你选",
+      "import": "https://x.ai/bot/y5u0QPNwRuxoOfrjbRBcS",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/None/status/2120473507243106527"
+    },
+    {
+      "slug": "rader-a-v-production",
+      "name": "RADER A/V Production",
+      "author": {
+        "name": "Jack"
+      },
+      "summary": "A video production agent that learns your brand, interviews you once, then makes launch films, ads, reels, captioned edits and motion graphics",
+      "summary_zh": "会学习你品牌的视频制作机器人，只访谈你一次，然后制作发布短片、广告、短视频、带字幕的剪辑和动态图形",
+      "import": "https://x.ai/bot/QHV8JNtSC32LnxmUuvMFi",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/None/status/2120454676965437552"
+    },
+    {
+      "slug": "remote-job-hunt-x-creator",
+      "name": "Remote Job Hunt & X Creator",
+      "author": {
+        "name": "nico"
+      },
+      "summary": "Finds remote jobs that match your must-haves every morning, writes tailored proposals and helps you grow on X with news drafts and daily posts",
+      "summary_zh": "每天早上找出符合你硬性要求的远程工作，写定制的求职提案，并用资讯草稿和每日发帖帮你在 X 上涨粉",
+      "import": "https://x.ai/bot/pdtnGmxq4thYIhqWeZylE",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "x",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/None/status/2120452027935347137"
+    },
+    {
+      "slug": "bot-hedorbd3",
+      "name": "司礼监掌印",
+      "author": {
+        "name": "久A"
+      },
+      "summary": "A chief entry bot for content creators that talks only to you, hands tasks to department bots and never writes copy or auto-publishes itself",
+      "summary_zh": "自媒体创作者的总入口机器人，只与你对接，把任务交给各部门机器人，自己不写正文也不自动发布",
+      "import": "https://x.ai/bot/HEDoRbd3dY_gAudTwefGK",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-11",
+      "shelf": "raw",
+      "source": "https://x.com/None/status/2120449601882706262"
     }
   ]
 }

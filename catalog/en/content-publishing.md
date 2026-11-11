@@ -1005,3 +1005,5 @@ Back to [README](../../README.md)
 - [Twitter Bot](https://x.ai/bot/fyJbO6ogsdnulvTt7t1g3) - An X writing partner that learns your voice and goals, then drafts posts, threads and articles and makes matching images. [Hovhannes](https://x.com/hovinthenorth).
 - [Follower Finder](https://x.ai/bot/TMzi63QTCNDSF4ZyYDZ9C) - An X growth helper that reviews new verified followers, scores who is worth following back and finds accounts that match your interests. [Empress](https://x.com/HeavyMetalShip).
 - [零 AI 味爆款社群故事寫手](https://x.ai/bot/r705YqLW6_w4Wtm5ZgFYf) - Turns dry key points or everyday ideas into human, pain-point-driven stories for Threads, Facebook and WeChat Moments, without the robotic tone. [建蒲](https://x.com/wosiinmo).
+- [Anime Series Maker](https://x.ai/bot/y5u0QPNwRuxoOfrjbRBcS) - Turns your photo into the hero of a 7-episode anime series, with episode one right away and three plot twists to tap. Michael.
+- [RADER A/V Production](https://x.ai/bot/QHV8JNtSC32LnxmUuvMFi) - A video production agent that learns your brand, interviews you once, then makes launch films, ads, reels, captioned edits and motion graphics. Jack.
