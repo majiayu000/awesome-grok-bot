@@ -948,3 +948,4 @@ Back to [README](../../README.md)
 - [Mac Dev Keeper](https://x.ai/bot/NwaLKeijbS5koKa_m_vm5) - Keeps your Mac dev machine known, current and clean by tracking tools and updates, finding leftover processes and idle coding sessions and freeing RAM. [Reuben](https://x.com/therookiehacker).
 - [Verifier](https://x.ai/bot/s8Oq1hIkURxS0DUyQGg7W) - Independent QA, math checker and review coordinator for games, apps and other projects that checks evidence and challenges weak ideas. [DB](https://x.com/DudeC36362).
 - [Security Watch](https://x.ai/bot/a8sof80ZVYsPSIvon50Hw) - Interviews you about your devices, network, software and online services, runs a fitting security baseline audit and then reports findings. [Bernard](https://x.com/beks88).
+- [Phone Pilot](https://x.ai/bot/p4_Hc9ZKYElvEFm8I62sC) - Controls your iPhone or Android from a Windows PC with no Mac needed, through a live phone window on your screen. [xTheMarketMaker](https://x.com/xTheMarketMaker).

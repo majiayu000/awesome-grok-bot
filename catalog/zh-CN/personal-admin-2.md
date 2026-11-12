@@ -130,3 +130,9 @@
 - [Price Drop Refunder](https://x.ai/bot/Gd2ZpU3ucyQlPpAhtfg0s) - 已买商品降价时帮你要回差价，读取订单邮件并盯着每家店的价保或退货窗口. [Rohan](https://x.com/RohanBhanotAI).
 - [Siri Swap](https://x.ai/bot/1MT-OHIT4rfHC2miCIxRc) - 在 iPhone 上按一下按钮说出需求，它就在手机上设好闹钟、添加提醒或改会议时间. [Ryan](https://x.com/ryanthawks).
 - [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) - 以故事中角色自己的口吻回答，带你找到罗马世界里对应的页面。 [Roman](https://x.com/romansgameworld).
+- [Spam Shield](https://x.ai/bot/8oKuBfly1GouE7d3t6VLC) - 减少家人手机上的骚扰电话，帮你设置运营商拦截、免打扰名单和数据经纪商退出. [Will](https://x.com/whatsthemather).
+- [Oss](https://x.ai/bot/zXq1mMFj9GMoZSJaj8Z0L) - 巴西柔术训练日志和技术教练，根据你自己的描述记录每次训练. [Nate](https://x.com/NateLorenzen).
+- [Wayne](https://x.ai/bot/PCYNLxoy1jOYMNxM86MpR) - 活泼的娱乐侦察员，查找本地活动、演唱会和电影场次，并追踪流媒体新上线内容. [Martha](https://x.com/MyTeslaMoonship).
+- [Trust & Estate Guide](https://x.ai/bot/TQV4SmJpr4LT1zD15KVZ3) - 用通俗的话讲解美国遗产规划概念，仅供学习，并帮你准备清单. [Hudson](https://x.com/HudsonSutherla2).
+- [英语助教](https://x.ai/bot/eN7pqix_D4P-GHwymr8KZ) - 纠正发音并安排每日口语跟读的英语教练，提供语音示范和纠音反馈. [艾伦少年allenli.hl🇭🇰](https://x.com/allenli852).
+- [Job Hunter](https://x.ai/bot/47756ENnbomzwCKRdvQCb) - 用 Firecrawl 帮你求职，把简历匹配到开放职位，并调研招聘负责人. [Toàn](https://x.com/toannhu_it).

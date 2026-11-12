@@ -948,3 +948,4 @@
 - [Mac Dev Keeper](https://x.ai/bot/NwaLKeijbS5koKa_m_vm5) - 让你的 Mac 开发机保持清楚、最新和干净，追踪工具和更新，找出残留进程和闲置编码会话并释放内存. [Reuben](https://x.com/therookiehacker).
 - [Verifier](https://x.ai/bot/s8Oq1hIkURxS0DUyQGg7W) - 面向游戏、应用和其他项目的独立测试、数学核对和评审协调员，检查证据并质疑薄弱的想法. [DB](https://x.com/DudeC36362).
 - [Security Watch](https://x.ai/bot/a8sof80ZVYsPSIvon50Hw) - 先询问你使用的设备、网络、软件和线上服务，再做合适的安全基线审计并给出报告. [Bernard](https://x.com/beks88).
+- [Phone Pilot](https://x.ai/bot/p4_Hc9ZKYElvEFm8I62sC) - 在 Windows 电脑上操控 iPhone 或安卓手机，不需要 Mac，屏幕上有一个实时手机窗口. [xTheMarketMaker](https://x.com/xTheMarketMaker).

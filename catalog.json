@@ -161417,6 +161417,174 @@
       "updated": "2026-11-08",
       "source": "https://x.com/romansgameworld/status/2119545583014687036",
       "shelf": "raw"
+    },
+    {
+      "slug": "spam-shield-3",
+      "name": "Spam Shield",
+      "author": {
+        "name": "Will",
+        "url": "https://x.com/whatsthemather"
+      },
+      "summary": "Cuts spam calls on your family's phones by setting up carrier blocking, Do Not Call and data-broker opt-outs",
+      "summary_zh": "减少家人手机上的骚扰电话，帮你设置运营商拦截、免打扰名单和数据经纪商退出",
+      "import": "https://x.ai/bot/8oKuBfly1GouE7d3t6VLC",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/whatsthemather/status/2120687543838745046"
+    },
+    {
+      "slug": "phone-pilot",
+      "name": "Phone Pilot",
+      "author": {
+        "name": "xTheMarketMaker",
+        "url": "https://x.com/xTheMarketMaker"
+      },
+      "summary": "Controls your iPhone or Android from a Windows PC with no Mac needed, through a live phone window on your screen",
+      "summary_zh": "在 Windows 电脑上操控 iPhone 或安卓手机，不需要 Mac，屏幕上有一个实时手机窗口",
+      "import": "https://x.ai/bot/p4_Hc9ZKYElvEFm8I62sC",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/xTheMarketMaker/status/2120752170580795725"
+    },
+    {
+      "slug": "oss",
+      "name": "Oss",
+      "author": {
+        "name": "Nate",
+        "url": "https://x.com/NateLorenzen"
+      },
+      "summary": "A Brazilian Jiu-Jitsu training journal and technical coach that logs each session from your own words",
+      "summary_zh": "巴西柔术训练日志和技术教练，根据你自己的描述记录每次训练",
+      "import": "https://x.ai/bot/zXq1mMFj9GMoZSJaj8Z0L",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/NateLorenzen/status/2120722460375220224"
+    },
+    {
+      "slug": "usage-guard-2",
+      "name": "Usage Guard",
+      "author": {
+        "name": "Darius",
+        "url": "https://x.com/realdariusdt"
+      },
+      "summary": "Keeps your weekly Grok Bot usage lasting the whole week by tracking pace and setting a tier from GREEN to ESSENTIALS",
+      "summary_zh": "追踪用量节奏并设定从 GREEN 到 ESSENTIALS 的档位，让你每周的 Grok Bot 额度撑满一整周",
+      "import": "https://x.ai/bot/PxcCV65N-vXjrbDfsIo8K",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/realdariusdt/status/2120720541162098832"
+    },
+    {
+      "slug": "wayne",
+      "name": "Wayne",
+      "author": {
+        "name": "Martha",
+        "url": "https://x.com/MyTeslaMoonship"
+      },
+      "summary": "An upbeat entertainment scout that finds local events, concerts and movie showings and tracks streaming arrivals",
+      "summary_zh": "活泼的娱乐侦察员，查找本地活动、演唱会和电影场次，并追踪流媒体新上线内容",
+      "import": "https://x.ai/bot/PCYNLxoy1jOYMNxM86MpR",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/MyTeslaMoonship/status/2120768303626867164"
+    },
+    {
+      "slug": "trust-estate-guide",
+      "name": "Trust & Estate Guide",
+      "author": {
+        "name": "Hudson",
+        "url": "https://x.com/HudsonSutherla2"
+      },
+      "summary": "Explains U.S. estate planning concepts in plain language, for education only, and helps you prepare checklists",
+      "summary_zh": "用通俗的话讲解美国遗产规划概念，仅供学习，并帮你准备清单",
+      "import": "https://x.ai/bot/TQV4SmJpr4LT1zD15KVZ3",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/HudsonSutherla2/status/2120709410729201982"
+    },
+    {
+      "slug": "bot-en7pqixd",
+      "name": "英语助教",
+      "author": {
+        "name": "艾伦少年allenli.hl🇭🇰",
+        "url": "https://x.com/allenli852"
+      },
+      "summary": "An English coach that corrects pronunciation and schedules daily speaking practice with voice demos and feedback",
+      "summary_zh": "纠正发音并安排每日口语跟读的英语教练，提供语音示范和纠音反馈",
+      "import": "https://x.ai/bot/eN7pqix_D4P-GHwymr8KZ",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/allenli852/status/2120719085634011226"
+    },
+    {
+      "slug": "job-hunter-3",
+      "name": "Job Hunter",
+      "author": {
+        "name": "Toàn",
+        "url": "https://x.com/toannhu_it"
+      },
+      "summary": "Runs your job hunt with Firecrawl by matching your resume to open roles and researching the hiring managers",
+      "summary_zh": "用 Firecrawl 帮你求职，把简历匹配到开放职位，并调研招聘负责人",
+      "import": "https://x.ai/bot/47756ENnbomzwCKRdvQCb",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/toannhu_it/status/2120769453973770385"
     }
   ]
 }
