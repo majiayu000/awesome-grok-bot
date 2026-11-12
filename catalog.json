@@ -161585,6 +161585,28 @@
       "updated": "2026-11-12",
       "shelf": "raw",
       "source": "https://x.com/toannhu_it/status/2120769453973770385"
+    },
+    {
+      "slug": "context-bleed",
+      "name": "Context Bleed",
+      "author": {
+        "name": "Daniel",
+        "url": "https://x.com/BuiltByHally"
+      },
+      "summary": "Audits context bleed across your bot roster and hands you a plain-English visual report",
+      "summary_zh": "审计你名下多个机器人之间的上下文串扰，并交给你一份通俗易懂的可视化报告",
+      "import": "https://x.ai/bot/I1mJhcbHrtrrOMVvSm-DC",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-12",
+      "shelf": "raw",
+      "source": "https://x.com/BuiltByHally/status/2120825636545806639"
     }
   ]
 }

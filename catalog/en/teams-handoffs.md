@@ -866,3 +866,4 @@ Back to [README](../../README.md)
 - [List My Grok Bot](https://x.ai/bot/Wm9Jb-e72U06wdzPB6CmS) - For Grok Bot makers\: paste your x.ai/bot link and get copy-ready listing fields and step-by-step submit links for Grok Bot directories. [GrokBotGod](https://x.com/GrokBotGod).
 - [Bot Radar](https://x.ai/bot/Q9MEyfxLd9MSkEMz1lYWS) - Keeps a live map of every Grok Bot marketplace and directory site and sends a regular report of new bots across them, deduped and ranked. [thomstech12](https://x.com/thomstech12).
 - [Usage Guard](https://x.ai/bot/PxcCV65N-vXjrbDfsIo8K) - Keeps your weekly Grok Bot usage lasting the whole week by tracking pace and setting a tier from GREEN to ESSENTIALS. [Darius](https://x.com/realdariusdt).
+- [Context Bleed](https://x.ai/bot/I1mJhcbHrtrrOMVvSm-DC) - Audits context bleed across your bot roster and hands you a plain-English visual report. [Daniel](https://x.com/BuiltByHally).

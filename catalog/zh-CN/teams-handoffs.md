@@ -866,3 +866,4 @@
 - [List My Grok Bot](https://x.ai/bot/Wm9Jb-e72U06wdzPB6CmS) - 给 Grok Bot 作者，粘贴你的 x.ai/bot 链接，得到可直接复制的收录字段和各个 Grok Bot 目录的分步提交链接. [GrokBotGod](https://x.com/GrokBotGod).
 - [Bot Radar](https://x.ai/bot/Q9MEyfxLd9MSkEMz1lYWS) - 持续维护所有 Grok Bot 市场和目录站点的实时清单，定期汇报各处的新机器人，去重并排序. [thomstech12](https://x.com/thomstech12).
 - [Usage Guard](https://x.ai/bot/PxcCV65N-vXjrbDfsIo8K) - 追踪用量节奏并设定从 GREEN 到 ESSENTIALS 的档位，让你每周的 Grok Bot 额度撑满一整周. [Darius](https://x.com/realdariusdt).
+- [Context Bleed](https://x.ai/bot/I1mJhcbHrtrrOMVvSm-DC) - 审计你名下多个机器人之间的上下文串扰，并交给你一份通俗易懂的可视化报告. [Daniel](https://x.com/BuiltByHally).
