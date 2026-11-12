@@ -411,6 +411,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [hydo](https://github.com/fortun8te/hydo) - 本机 MIT 桌面花名册，跑在 Hermes Agent 上。具名队友、频道、一台共用电脑。
 - [snorlax-bot](https://github.com/chinghauchu/snorlax-bot) - 面向 DGX Spark 的开源本地版 Grok Bot 形态桌面与 iOS 运行时。
 - [5dive](https://github.com/5dive-ai/5dive) - 自托管的 MIT 运行时，在你自己的服务器上跑一支具名 Bot 团队。Claude Code、Codex 等，共用一块任务板，用手机聊。
+- [kwant](https://github.com/alexsergivan/kwant) - 开源自托管的 Grok Bot 替代方案，单个 Rust 二进制（Mac/Linux/Windows beta/VPS），支持 spaces、本地模型、交接、routines 与审批。
 
 ## 社区教程
 
