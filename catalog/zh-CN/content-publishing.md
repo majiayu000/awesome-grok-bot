@@ -1007,3 +1007,10 @@
 - [零 AI 味爆款社群故事寫手](https://x.ai/bot/r705YqLW6_w4Wtm5ZgFYf) - 把干巴巴的要点或日常灵感改写成有人情味的故事，适合 Threads、Facebook 和朋友圈，没有机器人腔. [建蒲](https://x.com/wosiinmo).
 - [Anime Series Maker](https://x.ai/bot/y5u0QPNwRuxoOfrjbRBcS) - 把你的照片变成 7 集动画系列的主角，第一集马上出，并给三个剧情转折供你选. Michael.
 - [RADER A/V Production](https://x.ai/bot/QHV8JNtSC32LnxmUuvMFi) - 会学习你品牌的视频制作机器人，只访谈你一次，然后制作发布短片、广告、短视频、带字幕的剪辑和动态图形. Jack.
+- [Location Scout](https://x.ai/bot/SWaH43OUMwEAI7bRdM_Cz) - 整理 10 个以上拍摄场地候选清单，附真实照片，生成只含名称和照片的客户图库，并起草联系场地方的消息. [Bk](https://x.com/CoCaptive).
+- [Algorithm](https://x.ai/bot/my7p9xXaxiDN5DvwaKe5e) - X 涨粉策略师，依据公开的 X 算法代码讲解帖子如何进入为你推荐，审查你最近的帖子，并按触达效果给出 10 项改动排序. [The](https://x.com/070guy).
+- [Patriots To Follow Back](https://x.ai/bot/its3lqCSKZWhAppyBkUbC) - 找出你没有回关的 X 大粉丝，审查可疑账号并认出常互动的支持者，未经你同意不会改动账号. [Denise](https://x.com/NoDMsPerfavore).
+- [Tempotage](https://x.ai/bot/0MgEiSVzQaByzMurkhxSs) - AI 音乐视频导演，带有从策划到 4K 交付的索引手册，先规划再花钱，只用真实动作素材并修正剪辑. [littletech](https://x.com/littletechbird).
+- [Make Me Famous](https://x.ai/bot/L-u3PhyFjp70itA3-NtdO) - 按 FamousInMyPhone 的标志性风格做一张致敬头像，庆祝他在 X 上的第 100 场 24 小时 Space. [Rich](https://x.com/RichSilver).
+- [Music Mixologist](https://x.ai/bot/MEaNP3cgtsaLColnYq7zU) - 描述心情、场合或活动，它就在 Apple Music、Spotify 或 SoundCloud 里按能量和节奏排出流畅的歌单. [Rob](https://x.com/sia14u).
+- [Ives](https://x.ai/bot/f07EU8r2gWmq_dzd17wyq) - 面向做应用、仪表盘和硬件的人的首席界面设计师，审查布局、文案、交互、无障碍和整体手感. [Aaron](https://x.com/aarongxa).
