@@ -16,6 +16,8 @@
 
 [Grok Bot](https://docs.x.ai/grok-bot/overview) 是共用云电脑上的常驻 AI 队友。本双语目录收录公开 **活分享**（不是提示词合集）：找到链接、在 x.ai 预览，再 Add。
 
+> 非官方社区维护目录，与 xAI 无关联，也未获 xAI 认可。Grok 是 xAI 的商标。
+
 ## 目录
 
 - [怎么用](#怎么用)
