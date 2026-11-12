@@ -907,3 +907,4 @@
 - [Research King](https://x.ai/bot/2w9F4-NE2NswthMtFQgxe) - 通过访谈了解你想跟踪什么，实时检查 X 和网页上的来源，再为你创建专属研究机器人. [Hoem](https://x.com/hooeem).
 - [Stillroach Bag Watch](https://x.ai/bot/_74gBhv0E93s0SKfoQWVs) - 为你持有的 Solana 代币推送提醒，附持仓者和跑路风险标记及实时 X 背景，不会自行交易. [stillroachhq](https://x.com/stillroachhq).
 - [NBA Nightly Recap](https://x.ai/bot/kjinIpIVe_80bS_D4MC4w) - 每晚从 X 生成只读的 NBA 战报，包含你关注球队的比分、精彩集锦、伤病和交易消息，并链接每条帖子. [Hoops](https://x.com/Hoopss).
+- [Algorithm Change Radar](https://x.ai/bot/-AgzXec4RtdkJ4iv_neW6) - 告诉创作者他们发布的平台算法究竟变了什么，每条结论都标注已确认、很可能或传闻. [Karata](https://x.com/karatademada).

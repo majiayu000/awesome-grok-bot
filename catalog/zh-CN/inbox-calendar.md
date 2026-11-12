@@ -306,3 +306,5 @@
 - [Inbox Cleanup](https://x.ai/bot/vxICDdg7chCZWnDX6FL0T) - 定时清理 Gmail 垃圾邮件，把订阅、促销和群发邮件移入废纸篓并保留重要邮件，每周发送报告. [Viking69](https://x.com/vikingErik69).
 - [iCloud Connector](https://x.ai/bot/3NyjtdIRmgx38jmpzwgok) - 在免费 Oracle Cloud 服务器上搭建私有 iCloud 连接器（邮件、日历、通讯录、提醒事项），并接入 Grok Bot. [Jon](https://x.com/flightmediic).
 - [Amazon Email Fix](https://x.ai/bot/k0gaVOXTYMwyq_H9jK-lN) - 把亚马逊简陋的下单、发货和送达邮件替换成带明细的亚马逊风格版本，只发给你自己. [David](https://x.com/davidvatz).
+- [Look-Ahead](https://x.ai/bot/PBGyltwqIOrzjcSIkLnRd) - 每天早晨读取你的日历、待办、笔记和天气，问一句如果今天不顺会是什么原因，并发一份列出最可能卡点的简报. [Diana](https://x.com/madebydia).
+- [Signus](https://x.ai/bot/o5jVc5AnbFG8563W45Grc) - 用你的签名给 PDF 签字并填好日期，再把签好的文件发回给你和邮件线程. [Manuel](https://x.com/maraoz).

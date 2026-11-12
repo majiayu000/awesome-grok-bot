@@ -764,3 +764,4 @@ Back to [README](../../README.md)
 - [XSP Check](https://x.ai/bot/ECaGV3Qi7xh6ztui_iVpl) - Read-only check of a 1-lot put credit vertical's max loss, breakeven and buying power against a tastytrade dry run, never placing the order. [Alvin](https://x.com/hallway247).
 - [Bot do MEI](https://x.ai/bot/m6tmgTZ2-05pAQTZlxo4N) - Reminds Brazilian MEI owners about monthly DAS and DASN deadlines and explains 2027 rules in plain Portuguese with official sources. [Henrique](https://x.com/henriquepiri).
 - [SaaS Spend Check](https://x.ai/bot/hFnxPrJ7wOqRr3dbSnY1a) - Reads subscription receipts in your connected mail and lists every tool you pay for, its cost and where you are overpaying. [Calix](https://x.com/CaliLumberJack).
+- [PFS Keeper](https://x.ai/bot/bUsw0RZ4CoDRZxK0Er8Nx) - Keeps your personal financial statement current and ready for the bank by tracking assets, debts, income and net worth from your linked accounts. [Jeremy](https://x.com/JeremyBrokate).

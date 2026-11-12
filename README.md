@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7734 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 7767 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -105,17 +105,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 944 |
-| [Inbox & calendar](#inbox--calendar) | 304 |
-| [Research & briefings](#research--briefings) | 905 |
-| [Customer & sales](#customer--sales) | 611 |
-| [Finance & ops](#finance--ops) | 762 |
-| [Content & publishing](#content--publishing) | 1005 |
-| [Personal admin](#personal-admin) | 2346 |
-| [Teams & handoffs](#teams--handoffs) | 857 |
-| **Total** | **7734** |
+| [Coding & shipping](#coding--shipping) | 946 |
+| [Inbox & calendar](#inbox--calendar) | 306 |
+| [Research & briefings](#research--briefings) | 906 |
+| [Customer & sales](#customer--sales) | 614 |
+| [Finance & ops](#finance--ops) | 763 |
+| [Content & publishing](#content--publishing) | 1012 |
+| [Personal admin](#personal-admin) | 2357 |
+| [Teams & handoffs](#teams--handoffs) | 863 |
+| **Total** | **7767** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7734 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7767 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -253,35 +253,35 @@ One share is one bot. Assemble the roster yourself.
 
 ## Coding & shipping
 
-Full list (944 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
+Full list (946 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
 
 ## Inbox & calendar
 
-Full list (304 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
+Full list (306 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
 
 ## Research & briefings
 
-Full list (905 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
+Full list (906 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
 
 ## Customer & sales
 
-Full list (611 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (614 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
-Full list (762 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
+Full list (763 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (1005 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (1012 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (2346 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
+Full list (2357 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
 
 ## Teams & handoffs
 
-Full list (857 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (863 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 
@@ -332,6 +332,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [grokbot-openai](https://github.com/owenisas/grokbot-openai) - PKCE login like the app, then a local OpenAI /v1/chat/completions for Hermes, OpenCode, or curl.
 - [grok-bot-gateway](https://github.com/dimpurr/grok-bot-gateway) - Skill so Claude Code, Codex, or scripts can list Grok Bots, read a transcript, and message a Bot through an official webhook routine. Results come back over a return path you choose, none by default.
 - [Ironheights](https://github.com/Frank-Masciopinto/ironheights) - Open-source, local-first CLI that scans a skill folder with a `SKILL.md` for prompt injection, credential reads, and remote-exec installs before you add it to a Bot. Static rules only, so a clean result is not proof of safety.
+- [bot2bot](https://github.com/zabrodsk/bot2bot) - Lets your Grok Bot message the bots of family and friends through a webhook routine, end-to-end encrypted between bots in private mode.
 
 ### Chat bridges
 
@@ -411,6 +412,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [hydo](https://github.com/fortun8te/hydo) - Local MIT desktop roster on Hermes Agent. Named teammates, channels, one shared box.
 - [snorlax-bot](https://github.com/chinghauchu/snorlax-bot) - Open-source local Grok Bot-shaped desktop and iOS stack aimed at NVIDIA DGX Spark.
 - [5dive](https://github.com/5dive-ai/5dive) - Self-hosted MIT runtime for a team of named bots on your own server. Claude Code, Codex and more, one shared task board, chat from your phone.
+- [kwant](https://github.com/alexsergivan/kwant) - Open-source self-hosted Grok Bot alternative in one Rust binary (Mac/Linux/Windows beta/VPS) with spaces, local models, handoffs, routines and approvals.
 
 ## Tutorials
 

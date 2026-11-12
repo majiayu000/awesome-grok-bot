@@ -306,3 +306,5 @@ Back to [README](../../README.md)
 - [Inbox Cleanup](https://x.ai/bot/vxICDdg7chCZWnDX6FL0T) - Clears junk from Gmail on a schedule, moving newsletters, promos and bulk mail to Trash while keeping important mail, with a weekly email report. [Viking69](https://x.com/vikingErik69).
 - [iCloud Connector](https://x.ai/bot/3NyjtdIRmgx38jmpzwgok) - Sets up a private iCloud connector for Mail, Calendar, Contacts and Reminders on a free Oracle Cloud server and connects it to Grok Bot. [Jon](https://x.com/flightmediic).
 - [Amazon Email Fix](https://x.ai/bot/k0gaVOXTYMwyq_H9jK-lN) - Replaces Amazon's bare order, shipped and delivered emails with itemized versions in Amazon's own style, sent only to you. [David](https://x.com/davidvatz).
+- [Look-Ahead](https://x.ai/bot/PBGyltwqIOrzjcSIkLnRd) - Every morning it reads your calendar, to-dos, notes and weather, asks 'if today goes badly, why?' and sends a short brief with the likeliest snags. [Diana](https://x.com/madebydia).
+- [Signus](https://x.ai/bot/o5jVc5AnbFG8563W45Grc) - Signs your PDFs with your signature, fills the dates and sends the signed file back to you and to the email thread. [Manuel](https://x.com/maraoz).

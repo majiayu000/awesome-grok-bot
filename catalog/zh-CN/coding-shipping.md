@@ -946,3 +946,5 @@
 - [CTO](https://x.ai/bot/n0XcRjm9wtwl_UKU4azBE) - 动手型工程师，负责网站和服务器迁移、托管、DNS 与部署，帮你保持站点和服务器稳定运行. [Trond](https://x.com/xenappblog).
 - [GitHub Repo Watcher](https://x.ai/bot/EEsiaKmr8FFFOLoG-v7wa) - 盯着你依赖的 GitHub 仓库，每个工作日告诉你发布了什么、哪里坏了以及为什么重要，并附带链接. [Auny](https://x.com/AunySillyMe).
 - [Mac Dev Keeper](https://x.ai/bot/NwaLKeijbS5koKa_m_vm5) - 让你的 Mac 开发机保持清楚、最新和干净，追踪工具和更新，找出残留进程和闲置编码会话并释放内存. [Reuben](https://x.com/therookiehacker).
+- [Verifier](https://x.ai/bot/s8Oq1hIkURxS0DUyQGg7W) - 面向游戏、应用和其他项目的独立测试、数学核对和评审协调员，检查证据并质疑薄弱的想法. [DB](https://x.com/DudeC36362).
+- [Security Watch](https://x.ai/bot/a8sof80ZVYsPSIvon50Hw) - 先询问你使用的设备、网络、软件和线上服务，再做合适的安全基线审计并给出报告. [Bernard](https://x.com/beks88).

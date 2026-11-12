@@ -118,4 +118,15 @@
 - [Veterans Day Bro](https://x.ai/bot/fnGtsSHn4jSH00iKvBEF3) - 按你的邮编找退伍军人节的免费和折扣优惠，先列餐饮，再列娱乐和商店优惠. [Joshua](https://x.com/JoshSeefried).
 - [Mindset coach](https://x.ai/bot/_B6MxCsIXuYNMoTVAP9UA) - 心态教练，用简短的苏格拉底式提问帮你走出卡点、准备重要时刻并养成每周小习惯. [Rachel](https://x.com/RachelVT42).
 - [Remote Job Hunt & X Creator](https://x.ai/bot/pdtnGmxq4thYIhqWeZylE) - 每天早上找出符合你硬性要求的远程工作，写定制的求职提案，并用资讯草稿和每日发帖帮你在 X 上涨粉. nico.
+- [BookBot](https://x.ai/bot/oYyuf_jzp-O9Ry1OFKkt6) - 读书搭子，帮你维护待读清单，并为读过的每本书画一页手绘书架，带等级、阅读目标和一只书虫. [Paul](https://x.com/oileaf).
+- [Dynasty Commish](https://x.ai/bot/J2OsFQCUot3M4pvLtYE03) - EA 大学橄榄球在线王朝联赛的联盟主席助手，用在 Discord 上，也适合 Madden 和 NBA 2K 联赛. [Troy](https://x.com/troypmartin).
+- [Luna, English Tutor](https://x.ai/bot/2uVEqEBi3jKGzPs781jl5) - 友好的英语家教，每天发一段听力材料，用语音消息练口语，并清楚讲解语法纠错的原因. [Kenan](https://x.com/sharifli4).
+- [Dad Jokes Bot](https://x.ai/bot/Rl-D-XR_jtiMuHlq58vlQ) - 随时讲经典的冷笑话，也能每天发一个新的，从不重复. [Aviv](https://x.com/themoah).
+- [Storm Control Home Bot](https://x.ai/bot/6hJEvMn1DADjxfaXvGnLv) - 给 Storm Control 用户的家庭机器人，盯着你的公用事业邮件、日历和停电页面，并通过 Storm Control 机器人接口做出响应. [Eric](https://x.com/ericdmann).
+- [Slide Rule Sage](https://x.ai/bot/AqPA3hNyW648PueZh2liV) - 讲解复杂计算尺，以 Faber-Castell 2/83N Novo-Duplex 为主，每次回复都逐步说明用哪些刻度来计算. [Tom](https://x.com/nvr2old2RR).
+- [Real Meal Deals](https://x.ai/bot/wrB-vzjXxnThun3-SOuEC) - 告诉你本周常吃的晚餐哪些真的划算，把促销价与常规价格、你的购买历史和政府均价对照打分. [Digital](https://x.com/dr_chrontell).
+- [Food Operations Manager](https://x.ai/bot/8OI1FAR2WGU4yX81zoakf) - 规划餐食，找出符合你饮食和忌口的菜谱（如 Cookidoo 和 Thermomix），查询超市是否有货并备好购物车. [K1](https://x.com/KFM373).
+- [Personal Health Desk](https://x.ai/bot/bRQhxkIeiZdOnPs5VFh2X) - 私人健康事务和研究助手，汇总你的病历和化验结果，并用通俗的话解释. [Michael](https://x.com/MichaelGannotti).
+- [Price Drop Refunder](https://x.ai/bot/Gd2ZpU3ucyQlPpAhtfg0s) - 已买商品降价时帮你要回差价，读取订单邮件并盯着每家店的价保或退货窗口. [Rohan](https://x.com/RohanBhanotAI).
+- [Siri Swap](https://x.ai/bot/1MT-OHIT4rfHC2miCIxRc) - 在 iPhone 上按一下按钮说出需求，它就在手机上设好闹钟、添加提醒或改会议时间. [Ryan](https://x.com/ryanthawks).
 - [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) - 以故事中角色自己的口吻回答，带你找到罗马世界里对应的页面。 [Roman](https://x.com/romansgameworld).

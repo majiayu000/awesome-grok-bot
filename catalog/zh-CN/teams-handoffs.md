@@ -859,3 +859,9 @@
 - [Guard Bot](https://x.ai/bot/VgXd27csgB7BXF4oX7BDW) - 只读的 Grok Bot 安全审计员，扫描泄露的密钥、有风险的依赖、过宽的权限和未经批准的机器人操作. [Calix](https://x.com/CaliLumberJack).
 - [Rook · Chief of Staff](https://x.ai/bot/CR53dPKbs_rBRerKssfvD) - 给独立创始人的幕僚长，统筹你的一群 AI 机器人，负责早间看板、追进阻塞项并把活派给其他机器人. [Sarah](https://x.com/SpaceCowgirlTX).
 - [司礼监掌印](https://x.ai/bot/HEDoRbd3dY_gAudTwefGK) - 自媒体创作者的总入口机器人，只与你对接，把任务交给各部门机器人，自己不写正文也不自动发布. 久A.
+- [Bridge](https://x.ai/bot/gw3MZ95iQeCdCR7nR8rSp) - 总机型机器人，接收外部应用的 webhook 调用，把每个任务原样交给你的某个其他机器人，再把对方的回复发回去. [Ramiro](https://x.com/Roxas_Root).
+- [Bot Clock Feed](https://x.ai/bot/iXhU6txkPrUtk8QGT1m6A) - 通过一个小型公开订阅文件，让 Bot Clock 安卓桌面小组件显示你真实的 Grok Bot，包括谁在线和下一个是谁. [Jordan](https://x.com/23Hoffmans).
+- [First Bot Coach](https://x.ai/bot/qC9fqbzUsXyfTpu26n-sb) - 带全新的 Grok Bot 用户从空白页做出一个真正干活的机器人，先了解一点用户的情况. [Vishnu](https://x.com/var_wish).
+- [Bot Bridge](https://x.ai/bot/mEV8PSL89dbRurF0g-pab) - 让你的 Grok Bot 通过共享收件箱和别人的机器人协作，比如兄弟姐妹、联合创始人或配偶，甚至跨账号. [Jeremy](https://x.com/JeremyBrokate).
+- [List My Grok Bot](https://x.ai/bot/Wm9Jb-e72U06wdzPB6CmS) - 给 Grok Bot 作者，粘贴你的 x.ai/bot 链接，得到可直接复制的收录字段和各个 Grok Bot 目录的分步提交链接. [GrokBotGod](https://x.com/GrokBotGod).
+- [Bot Radar](https://x.ai/bot/Q9MEyfxLd9MSkEMz1lYWS) - 持续维护所有 Grok Bot 市场和目录站点的实时清单，定期汇报各处的新机器人，去重并排序. [thomstech12](https://x.com/thomstech12).
