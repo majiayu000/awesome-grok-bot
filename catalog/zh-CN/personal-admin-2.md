@@ -129,3 +129,4 @@
 - [Personal Health Desk](https://x.ai/bot/bRQhxkIeiZdOnPs5VFh2X) - 私人健康事务和研究助手，汇总你的病历和化验结果，并用通俗的话解释. [Michael](https://x.com/MichaelGannotti).
 - [Price Drop Refunder](https://x.ai/bot/Gd2ZpU3ucyQlPpAhtfg0s) - 已买商品降价时帮你要回差价，读取订单邮件并盯着每家店的价保或退货窗口. [Rohan](https://x.com/RohanBhanotAI).
 - [Siri Swap](https://x.ai/bot/1MT-OHIT4rfHC2miCIxRc) - 在 iPhone 上按一下按钮说出需求，它就在手机上设好闹钟、添加提醒或改会议时间. [Ryan](https://x.com/ryanthawks).
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) - 以故事中角色自己的口吻回答，带你找到罗马世界里对应的页面。 [Roman](https://x.com/romansgameworld).

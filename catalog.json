@@ -161394,6 +161394,29 @@
       "updated": "2026-11-12",
       "shelf": "raw",
       "source": "https://x.com/ryanthawks/status/2120615003619262653"
+    },
+    {
+      "slug": "keepers-hall",
+      "name": "Keeper's Hall",
+      "author": {
+        "name": "Roman",
+        "url": "https://x.com/romansgameworld"
+      },
+      "summary": "Your personal guide to Roman's World. Answers in the characters' own words and walks you to the right page: stories, books, news, podcast, game.",
+      "summary_zh": "以故事中角色自己的口吻回答，带你找到罗马世界里对应的页面。",
+      "import": "https://x.ai/bot/Gysg6ozItOXWp_BquycFU",
+      "category": "personal-admin",
+      "tags": [
+        "stories",
+        "books",
+        "family",
+        "guide"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-08",
+      "source": "https://x.com/romansgameworld/status/2119545583014687036",
+      "shelf": "raw"
     }
   ]
 }
