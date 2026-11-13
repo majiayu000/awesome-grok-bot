@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7776 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 7798 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -105,17 +105,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 947 |
-| [Inbox & calendar](#inbox--calendar) | 306 |
-| [Research & briefings](#research--briefings) | 906 |
-| [Customer & sales](#customer--sales) | 614 |
-| [Finance & ops](#finance--ops) | 763 |
-| [Content & publishing](#content--publishing) | 1012 |
-| [Personal admin](#personal-admin) | 2363 |
-| [Teams & handoffs](#teams--handoffs) | 865 |
-| **Total** | **7776** |
+| [Coding & shipping](#coding--shipping) | 948 |
+| [Inbox & calendar](#inbox--calendar) | 307 |
+| [Research & briefings](#research--briefings) | 907 |
+| [Customer & sales](#customer--sales) | 616 |
+| [Finance & ops](#finance--ops) | 765 |
+| [Content & publishing](#content--publishing) | 1014 |
+| [Personal admin](#personal-admin) | 2373 |
+| [Teams & handoffs](#teams--handoffs) | 868 |
+| **Total** | **7798** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7776 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7798 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -253,35 +253,35 @@ One share is one bot. Assemble the roster yourself.
 
 ## Coding & shipping
 
-Full list (947 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
+Full list (948 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
 
 ## Inbox & calendar
 
-Full list (306 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
+Full list (307 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
 
 ## Research & briefings
 
-Full list (906 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
+Full list (907 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
 
 ## Customer & sales
 
-Full list (614 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (616 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
-Full list (763 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
+Full list (765 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (1012 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (1014 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (2363 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
+Full list (2373 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
 
 ## Teams & handoffs
 
-Full list (865 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (868 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 

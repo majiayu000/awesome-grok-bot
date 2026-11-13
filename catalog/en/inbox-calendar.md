@@ -308,3 +308,4 @@ Back to [README](../../README.md)
 - [Amazon Email Fix](https://x.ai/bot/k0gaVOXTYMwyq_H9jK-lN) - Replaces Amazon's bare order, shipped and delivered emails with itemized versions in Amazon's own style, sent only to you. [David](https://x.com/davidvatz).
 - [Look-Ahead](https://x.ai/bot/PBGyltwqIOrzjcSIkLnRd) - Every morning it reads your calendar, to-dos, notes and weather, asks 'if today goes badly, why?' and sends a short brief with the likeliest snags. [Diana](https://x.com/madebydia).
 - [Signus](https://x.ai/bot/o5jVc5AnbFG8563W45Grc) - Signs your PDFs with your signature, fills the dates and sends the signed file back to you and to the email thread. [Manuel](https://x.com/maraoz).
+- [Boardy Desk](https://x.ai/bot/UD3zlLlrSss_n9T5yg0dP) - Tracks meetings that Boardy sets up in your X DMs, read only, and logs them each morning. AdamDesigns.

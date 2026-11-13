@@ -1014,3 +1014,5 @@
 - [Make Me Famous](https://x.ai/bot/L-u3PhyFjp70itA3-NtdO) - 按 FamousInMyPhone 的标志性风格做一张致敬头像，庆祝他在 X 上的第 100 场 24 小时 Space. [Rich](https://x.com/RichSilver).
 - [Music Mixologist](https://x.ai/bot/MEaNP3cgtsaLColnYq7zU) - 描述心情、场合或活动，它就在 Apple Music、Spotify 或 SoundCloud 里按能量和节奏排出流畅的歌单. [Rob](https://x.com/sia14u).
 - [Ives](https://x.ai/bot/f07EU8r2gWmq_dzd17wyq) - 面向做应用、仪表盘和硬件的人的首席界面设计师，审查布局、文案、交互、无障碍和整体手感. [Aaron](https://x.com/aarongxa).
+- [Clip & Credit](https://x.ai/bot/nIZEY9uZwEw4B7CYLTrdS) - 把 YouTube 链接、X 视频或主题做成带字幕并署名原作者的精彩片段. Kevin.
+- [Email System Desk](https://x.ai/bot/DQb-ZixJvS2hLN6x5PfUx) - 为你的生意设计并起草邮件体系，只在你同意后发送. Pablo.

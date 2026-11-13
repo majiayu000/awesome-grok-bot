@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -161607,6 +161607,450 @@
       "updated": "2026-11-12",
       "shelf": "raw",
       "source": "https://x.com/BuiltByHally/status/2120825636545806639"
+    },
+    {
+      "slug": "photo-slicer",
+      "name": "Photo Slicer",
+      "author": {
+        "name": "Jonathan"
+      },
+      "summary": "Slice any photo into 1 to 20 equal portrait pieces in a zip for a multi photo X post",
+      "summary_zh": "把任意照片切成 1 到 20 张等大竖版图片并打包，方便发多图 X 帖子",
+      "import": "https://x.ai/bot/YM6hH-UOshTypVOtWE4jf",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2121041841176883692"
+    },
+    {
+      "slug": "resonance",
+      "name": "Resonance",
+      "author": {
+        "name": "Brian"
+      },
+      "summary": "A private journal for body and surroundings observations including timing overlaps",
+      "summary_zh": "记录身体和周围环境观察的私人日记，包括时间上的巧合",
+      "import": "https://x.ai/bot/Sc-EWDmsYlLRMMDBEftlM",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120991303693689040"
+    },
+    {
+      "slug": "clip-credit",
+      "name": "Clip & Credit",
+      "author": {
+        "name": "Kevin"
+      },
+      "summary": "Turns a YouTube link, X video or topic into captioned highlight clips with creator credit",
+      "summary_zh": "把 YouTube 链接、X 视频或主题做成带字幕并署名原作者的精彩片段",
+      "import": "https://x.ai/bot/nIZEY9uZwEw4B7CYLTrdS",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120991021127319671"
+    },
+    {
+      "slug": "recall-radar-2",
+      "name": "Recall Radar",
+      "author": {
+        "name": "Kevin"
+      },
+      "summary": "Tracks what you own from order emails and warns you when any of it is recalled",
+      "summary_zh": "根据订单邮件记录你买过的东西，一旦被召回就提醒你",
+      "import": "https://x.ai/bot/NDz3Eb34xrF2SKj832Ugs",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "jobs",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120991021127319671"
+    },
+    {
+      "slug": "weekly-focus-coach",
+      "name": "Weekly Focus Coach",
+      "author": {
+        "name": "Darrell"
+      },
+      "summary": "Finds the biggest constraint in your business and pings you weekly with one thing to focus on",
+      "summary_zh": "找出你生意里最大的瓶颈，每周提醒你只做一件事",
+      "import": "https://x.ai/bot/9PiN4kzk4Y6-21oAYmUR0",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120982231992701433"
+    },
+    {
+      "slug": "internet-bill-cutter",
+      "name": "Internet Bill Cutter",
+      "author": {
+        "name": "Pablo"
+      },
+      "summary": "Compares home internet providers at your address and tracks promo price jumps",
+      "summary_zh": "对比你所在地址的家庭宽带，并跟踪促销到期后的涨价",
+      "import": "https://x.ai/bot/pR_iACCVED_Cx73I_1fhc",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120971913262477430"
+    },
+    {
+      "slug": "verse-keeper",
+      "name": "Verse Keeper",
+      "author": {
+        "name": "Brandon"
+      },
+      "summary": "Memorize Scripture one verse at a time with hints, recitation and spaced review",
+      "summary_zh": "用首字母提示、朗读和间隔复习，一次背一节经文",
+      "import": "https://x.ai/bot/yK0HasJjrmWkI7zTRiz6x",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120964676926468225"
+    },
+    {
+      "slug": "head-of-hr",
+      "name": "Head of HR",
+      "author": {
+        "name": "Sam"
+      },
+      "summary": "Plain HR guidance for small business owners from official sources, with workplace document drafts",
+      "summary_zh": "为小企业主提供基于官方来源的通俗人事指引，并起草职场文件",
+      "import": "https://x.ai/bot/2PynVxO7Z73MP9GS0VsJI",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120957111752409320"
+    },
+    {
+      "slug": "shortlist",
+      "name": "Shortlist",
+      "author": {
+        "name": "Sam"
+      },
+      "summary": "Screens resumes against your must haves, ranks a shortlist and drafts emails to picks",
+      "summary_zh": "按你的硬性条件筛简历、排出候选名单，并给入选者起草邮件",
+      "import": "https://x.ai/bot/wEerGLse70VEHkZeMRdIp",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "jobs",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120957111752409320"
+    },
+    {
+      "slug": "employer-side-payroll-checker",
+      "name": "Employer Side Payroll Checker",
+      "author": {
+        "name": "Sam"
+      },
+      "summary": "Catches mistakes in a US payroll register before you approve the run",
+      "summary_zh": "在你批准发薪前，检查美国工资表里的错误",
+      "import": "https://x.ai/bot/M2-PAoFeGZQvPa-JHLnfo",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120957111752409320"
+    },
+    {
+      "slug": "empire-commander",
+      "name": "Empire Commander",
+      "author": {
+        "name": "J"
+      },
+      "summary": "One lead bot for people running several Grok Bots, with one job list and approval before anything goes out",
+      "summary_zh": "给运行多个 Grok Bot 的人用的总管机器人，统一任务清单，发出前先征求同意",
+      "import": "https://x.ai/bot/lFsKB3YRp0kwcNa9VkASl",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120933434516451465"
+    },
+    {
+      "slug": "solo-founder-crew",
+      "name": "Solo Founder Crew",
+      "author": {
+        "name": "Calix"
+      },
+      "summary": "Runs inbox sweep, pre call brief and SaaS spend helper bots and gives one short morning brief",
+      "summary_zh": "统筹收件箱清理、通话前简报和 SaaS 开支三个助手，每天早上给一份简短简报",
+      "import": "https://x.ai/bot/LsMMqEH5tNXcsKhGteWab",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120924587235922160"
+    },
+    {
+      "slug": "release-scout",
+      "name": "Release Scout",
+      "author": {
+        "name": "AJ"
+      },
+      "summary": "Reads the Grok Bot changelog each morning and tells you what changes for the bots you run",
+      "summary_zh": "每天早上阅读 Grok Bot 更新日志，告诉你对已运行机器人有什么影响",
+      "import": "https://x.ai/bot/OjcLr9bFJIpO6G5BmitPX",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120916059033350471"
+    },
+    {
+      "slug": "seo-content-gap-finder",
+      "name": "SEO Content Gap Finder",
+      "author": {
+        "name": "Austen"
+      },
+      "summary": "Finds the questions your buyers search that your site does not yet answer",
+      "summary_zh": "找出买家搜索过、而你的网站还没回答的问题",
+      "import": "https://x.ai/bot/dtW0vBG8A_gbcCJIQKRix",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120914726356181109"
+    },
+    {
+      "slug": "breakpoint-buddy",
+      "name": "Breakpoint Buddy",
+      "author": {
+        "name": "Bjoern"
+      },
+      "summary": "A concierge for Breakpoint 2026 in London that finds sessions, side events and prep checklists",
+      "summary_zh": "Breakpoint 2026 伦敦大会向导，帮你找场次、周边活动和准备清单",
+      "import": "https://x.ai/bot/nGGP8upBxGIU8PpNJHuaI",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120903279790219663"
+    },
+    {
+      "slug": "electricity-rate-finder",
+      "name": "Electricity Rate Finder",
+      "author": {
+        "name": "Alexander"
+      },
+      "summary": "Finds the cheapest electricity plan for your real usage and alerts you when switching saves money",
+      "summary_zh": "按你的真实用电量找最便宜的电价方案，换了能省钱时提醒你",
+      "import": "https://x.ai/bot/9MhxrnOWUEJ9RJTrhpAkZ",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120899307666596251"
+    },
+    {
+      "slug": "ghost-privacy-guard",
+      "name": "Ghost · Privacy Guard",
+      "author": {
+        "name": "TechEcho"
+      },
+      "summary": "Removes your personal info from people search and data broker sites with your consent",
+      "summary_zh": "经你同意后，帮你从人员搜索和数据经纪网站移除个人信息",
+      "import": "https://x.ai/bot/MRwsvdgrB036sXeTK56Ia",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120880225349243361"
+    },
+    {
+      "slug": "spacex-merch-alert",
+      "name": "SpaceX merch Alert",
+      "author": {
+        "name": "𝓶.𝓪.𝓹."
+      },
+      "summary": "Watches the SpaceX store for new drops, restocks and sales and pings you",
+      "summary_zh": "盯着 SpaceX 商店的新品、补货和折扣并通知你",
+      "import": "https://x.ai/bot/A41ifyrQ1oLOom0uRhZ9v",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120867653388513744"
+    },
+    {
+      "slug": "daily-bread",
+      "name": "Daily Bread",
+      "author": {
+        "name": "John"
+      },
+      "summary": "A daily Bible verse with context, life application, reflection and reading plans",
+      "summary_zh": "每日一节经文，附背景、生活应用、反思和读经计划",
+      "import": "https://x.ai/bot/bNQfZYpS9lAjxkTkXxQ1T",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120866674698060122"
+    },
+    {
+      "slug": "email-system-desk",
+      "name": "Email System Desk",
+      "author": {
+        "name": "Pablo"
+      },
+      "summary": "Designs and drafts your business email system, sent only when you say yes",
+      "summary_zh": "为你的生意设计并起草邮件体系，只在你同意后发送",
+      "import": "https://x.ai/bot/DQb-ZixJvS2hLN6x5PfUx",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120978410646184429"
+    },
+    {
+      "slug": "unashamed-christian-apologetics",
+      "name": "Unashamed · Christian Apologetics",
+      "author": {
+        "name": "Unknown"
+      },
+      "summary": "Confident well sourced Christian answers to tough questions tailored to your audience, drafts only",
+      "summary_zh": "针对你的受众，给出有信心且有出处的基督教问题回答，只出草稿",
+      "import": "https://x.ai/bot/JETSSutDuMT0_8DlSMi22",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120970793249308980"
+    },
+    {
+      "slug": "boardy-desk",
+      "name": "Boardy Desk",
+      "author": {
+        "name": "AdamDesigns"
+      },
+      "summary": "Tracks meetings that Boardy sets up in your X DMs, read only, and logs them each morning",
+      "summary_zh": "跟踪 Boardy 在你 X 私信里安排的会议，只读，每天早上记录",
+      "import": "https://x.ai/bot/UD3zlLlrSss_n9T5yg0dP",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2120932586570555643"
     }
   ]
 }

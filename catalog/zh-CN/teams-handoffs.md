@@ -867,3 +867,6 @@
 - [Bot Radar](https://x.ai/bot/Q9MEyfxLd9MSkEMz1lYWS) - 持续维护所有 Grok Bot 市场和目录站点的实时清单，定期汇报各处的新机器人，去重并排序. [thomstech12](https://x.com/thomstech12).
 - [Usage Guard](https://x.ai/bot/PxcCV65N-vXjrbDfsIo8K) - 追踪用量节奏并设定从 GREEN 到 ESSENTIALS 的档位，让你每周的 Grok Bot 额度撑满一整周. [Darius](https://x.com/realdariusdt).
 - [Context Bleed](https://x.ai/bot/I1mJhcbHrtrrOMVvSm-DC) - 审计你名下多个机器人之间的上下文串扰，并交给你一份通俗易懂的可视化报告. [Daniel](https://x.com/BuiltByHally).
+- [Head of HR](https://x.ai/bot/2PynVxO7Z73MP9GS0VsJI) - 为小企业主提供基于官方来源的通俗人事指引，并起草职场文件. Sam.
+- [Empire Commander](https://x.ai/bot/lFsKB3YRp0kwcNa9VkASl) - 给运行多个 Grok Bot 的人用的总管机器人，统一任务清单，发出前先征求同意. J.
+- [Solo Founder Crew](https://x.ai/bot/LsMMqEH5tNXcsKhGteWab) - 统筹收件箱清理、通话前简报和 SaaS 开支三个助手，每天早上给一份简短简报. Calix.

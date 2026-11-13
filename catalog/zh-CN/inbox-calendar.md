@@ -308,3 +308,4 @@
 - [Amazon Email Fix](https://x.ai/bot/k0gaVOXTYMwyq_H9jK-lN) - 把亚马逊简陋的下单、发货和送达邮件替换成带明细的亚马逊风格版本，只发给你自己. [David](https://x.com/davidvatz).
 - [Look-Ahead](https://x.ai/bot/PBGyltwqIOrzjcSIkLnRd) - 每天早晨读取你的日历、待办、笔记和天气，问一句如果今天不顺会是什么原因，并发一份列出最可能卡点的简报. [Diana](https://x.com/madebydia).
 - [Signus](https://x.ai/bot/o5jVc5AnbFG8563W45Grc) - 用你的签名给 PDF 签字并填好日期，再把签好的文件发回给你和邮件线程. [Manuel](https://x.com/maraoz).
+- [Boardy Desk](https://x.ai/bot/UD3zlLlrSss_n9T5yg0dP) - 跟踪 Boardy 在你 X 私信里安排的会议，只读，每天早上记录. AdamDesigns.

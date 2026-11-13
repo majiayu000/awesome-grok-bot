@@ -1014,3 +1014,5 @@ Back to [README](../../README.md)
 - [Make Me Famous](https://x.ai/bot/L-u3PhyFjp70itA3-NtdO) - Makes a tribute profile photo in the signature style of FamousInMyPhone to celebrate his 100th 24-hour Space on X. [Rich](https://x.com/RichSilver).
 - [Music Mixologist](https://x.ai/bot/MEaNP3cgtsaLColnYq7zU) - Describe a mood, occasion or activity and it builds a smooth-flowing playlist in Apple Music, Spotify or SoundCloud, sequenced by energy and tempo. [Rob](https://x.com/sia14u).
 - [Ives](https://x.ai/bot/f07EU8r2gWmq_dzd17wyq) - A principal interface designer for people shipping apps, dashboards and hardware that audits layout, copy, interaction, accessibility and feel. [Aaron](https://x.com/aarongxa).
+- [Clip & Credit](https://x.ai/bot/nIZEY9uZwEw4B7CYLTrdS) - Turns a YouTube link, X video or topic into captioned highlight clips with creator credit. Kevin.
+- [Email System Desk](https://x.ai/bot/DQb-ZixJvS2hLN6x5PfUx) - Designs and drafts your business email system, sent only when you say yes. Pablo.

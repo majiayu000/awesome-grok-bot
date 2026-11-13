@@ -136,3 +136,13 @@
 - [Trust & Estate Guide](https://x.ai/bot/TQV4SmJpr4LT1zD15KVZ3) - 用通俗的话讲解美国遗产规划概念，仅供学习，并帮你准备清单. [Hudson](https://x.com/HudsonSutherla2).
 - [英语助教](https://x.ai/bot/eN7pqix_D4P-GHwymr8KZ) - 纠正发音并安排每日口语跟读的英语教练，提供语音示范和纠音反馈. [艾伦少年allenli.hl🇭🇰](https://x.com/allenli852).
 - [Job Hunter](https://x.ai/bot/47756ENnbomzwCKRdvQCb) - 用 Firecrawl 帮你求职，把简历匹配到开放职位，并调研招聘负责人. [Toàn](https://x.com/toannhu_it).
+- [Resonance](https://x.ai/bot/Sc-EWDmsYlLRMMDBEftlM) - 记录身体和周围环境观察的私人日记，包括时间上的巧合. Brian.
+- [Recall Radar](https://x.ai/bot/NDz3Eb34xrF2SKj832Ugs) - 根据订单邮件记录你买过的东西，一旦被召回就提醒你. Kevin.
+- [Internet Bill Cutter](https://x.ai/bot/pR_iACCVED_Cx73I_1fhc) - 对比你所在地址的家庭宽带，并跟踪促销到期后的涨价. Pablo.
+- [Verse Keeper](https://x.ai/bot/yK0HasJjrmWkI7zTRiz6x) - 用首字母提示、朗读和间隔复习，一次背一节经文. Brandon.
+- [Breakpoint Buddy](https://x.ai/bot/nGGP8upBxGIU8PpNJHuaI) - Breakpoint 2026 伦敦大会向导，帮你找场次、周边活动和准备清单. Bjoern.
+- [Electricity Rate Finder](https://x.ai/bot/9MhxrnOWUEJ9RJTrhpAkZ) - 按你的真实用电量找最便宜的电价方案，换了能省钱时提醒你. Alexander.
+- [Ghost · Privacy Guard](https://x.ai/bot/MRwsvdgrB036sXeTK56Ia) - 经你同意后，帮你从人员搜索和数据经纪网站移除个人信息. TechEcho.
+- [SpaceX merch Alert](https://x.ai/bot/A41ifyrQ1oLOom0uRhZ9v) - 盯着 SpaceX 商店的新品、补货和折扣并通知你. 𝓶\.𝓪\.𝓹\..
+- [Daily Bread](https://x.ai/bot/bNQfZYpS9lAjxkTkXxQ1T) - 每日一节经文，附背景、生活应用、反思和读经计划. John.
+- [Unashamed · Christian Apologetics](https://x.ai/bot/JETSSutDuMT0_8DlSMi22) - 针对你的受众，给出有信心且有出处的基督教问题回答，只出草稿. Unknown.

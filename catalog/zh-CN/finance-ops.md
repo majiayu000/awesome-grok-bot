@@ -765,3 +765,5 @@
 - [Bot do MEI](https://x.ai/bot/m6tmgTZ2-05pAQTZlxo4N) - 提醒巴西 MEI 个体户每月的 DAS 和 DASN 截止日，并用通俗葡萄牙语结合官方来源讲解 2027 年规则. [Henrique](https://x.com/henriquepiri).
 - [SaaS Spend Check](https://x.ai/bot/hFnxPrJ7wOqRr3dbSnY1a) - 读取已连接邮箱里的订阅收据，列出你付费的每个工具、费用以及多花钱的地方. [Calix](https://x.com/CaliLumberJack).
 - [PFS Keeper](https://x.ai/bot/bUsw0RZ4CoDRZxK0Er8Nx) - 让你的个人财务报表保持最新并随时可交给银行，从关联账户追踪资产、负债、收入和净资产. [Jeremy](https://x.com/JeremyBrokate).
+- [Weekly Focus Coach](https://x.ai/bot/9PiN4kzk4Y6-21oAYmUR0) - 找出你生意里最大的瓶颈，每周提醒你只做一件事. Darrell.
+- [Employer Side Payroll Checker](https://x.ai/bot/M2-PAoFeGZQvPa-JHLnfo) - 在你批准发薪前，检查美国工资表里的错误. Sam.

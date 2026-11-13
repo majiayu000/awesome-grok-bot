@@ -765,3 +765,5 @@ Back to [README](../../README.md)
 - [Bot do MEI](https://x.ai/bot/m6tmgTZ2-05pAQTZlxo4N) - Reminds Brazilian MEI owners about monthly DAS and DASN deadlines and explains 2027 rules in plain Portuguese with official sources. [Henrique](https://x.com/henriquepiri).
 - [SaaS Spend Check](https://x.ai/bot/hFnxPrJ7wOqRr3dbSnY1a) - Reads subscription receipts in your connected mail and lists every tool you pay for, its cost and where you are overpaying. [Calix](https://x.com/CaliLumberJack).
 - [PFS Keeper](https://x.ai/bot/bUsw0RZ4CoDRZxK0Er8Nx) - Keeps your personal financial statement current and ready for the bank by tracking assets, debts, income and net worth from your linked accounts. [Jeremy](https://x.com/JeremyBrokate).
+- [Weekly Focus Coach](https://x.ai/bot/9PiN4kzk4Y6-21oAYmUR0) - Finds the biggest constraint in your business and pings you weekly with one thing to focus on. Darrell.
+- [Employer Side Payroll Checker](https://x.ai/bot/M2-PAoFeGZQvPa-JHLnfo) - Catches mistakes in a US payroll register before you approve the run. Sam.

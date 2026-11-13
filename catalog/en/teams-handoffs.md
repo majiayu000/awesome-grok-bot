@@ -867,3 +867,6 @@ Back to [README](../../README.md)
 - [Bot Radar](https://x.ai/bot/Q9MEyfxLd9MSkEMz1lYWS) - Keeps a live map of every Grok Bot marketplace and directory site and sends a regular report of new bots across them, deduped and ranked. [thomstech12](https://x.com/thomstech12).
 - [Usage Guard](https://x.ai/bot/PxcCV65N-vXjrbDfsIo8K) - Keeps your weekly Grok Bot usage lasting the whole week by tracking pace and setting a tier from GREEN to ESSENTIALS. [Darius](https://x.com/realdariusdt).
 - [Context Bleed](https://x.ai/bot/I1mJhcbHrtrrOMVvSm-DC) - Audits context bleed across your bot roster and hands you a plain-English visual report. [Daniel](https://x.com/BuiltByHally).
+- [Head of HR](https://x.ai/bot/2PynVxO7Z73MP9GS0VsJI) - Plain HR guidance for small business owners from official sources, with workplace document drafts. Sam.
+- [Empire Commander](https://x.ai/bot/lFsKB3YRp0kwcNa9VkASl) - One lead bot for people running several Grok Bots, with one job list and approval before anything goes out. J.
+- [Solo Founder Crew](https://x.ai/bot/LsMMqEH5tNXcsKhGteWab) - Runs inbox sweep, pre call brief and SaaS spend helper bots and gives one short morning brief. Calix.

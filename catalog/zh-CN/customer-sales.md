@@ -616,3 +616,5 @@
 - [Image Ad creator](https://x.ai/bot/_M-5QU7X4Rxs1yY_c5Gxe) - 用你的真实产品图制作吸睛的 Facebook 和 Instagram 图片广告，并为每张图写好完整文案，面向小企业. [degen4lyfe_](https://x.com/degen4lyfe_).
 - [Matcher](https://x.ai/bot/0SnmTNbfO4Icla-XZf9sh) - 帮你拿到真正能成的引荐，研究合适的人脉路径并起草便于转发的引荐请求. [Soleio](https://x.com/soleio).
 - [Karen AI](https://x.ai/bot/SFmVRVriH4MCtXYUP8VZv) - 处理客服纠纷的升级专家，起草措辞坚定的投诉，跟踪你的案件，催促公司直到真正解决. [Lion@Zion](https://x.com/DumbEinstein).
+- [Shortlist](https://x.ai/bot/wEerGLse70VEHkZeMRdIp) - 按你的硬性条件筛简历、排出候选名单，并给入选者起草邮件. Sam.
+- [SEO Content Gap Finder](https://x.ai/bot/dtW0vBG8A_gbcCJIQKRix) - 找出买家搜索过、而你的网站还没回答的问题. Austen.

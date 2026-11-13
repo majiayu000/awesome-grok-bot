@@ -616,3 +616,5 @@ Back to [README](../../README.md)
 - [Image Ad creator](https://x.ai/bot/_M-5QU7X4Rxs1yY_c5Gxe) - Makes scroll-stopping Meta image ads for Facebook and Instagram from your real product photos, with full ad copy for each, built for small businesses. [degen4lyfe_](https://x.com/degen4lyfe_).
 - [Matcher](https://x.ai/bot/0SnmTNbfO4Icla-XZf9sh) - Helps you get introductions that actually happen by researching the right path and drafting a forwardable intro ask. [Soleio](https://x.com/soleio).
 - [Karen AI](https://x.ai/bot/SFmVRVriH4MCtXYUP8VZv) - An escalation specialist for customer-service fights that drafts firm complaints, tracks your cases and pushes companies until you get a real fix. [Lion@Zion](https://x.com/DumbEinstein).
+- [Shortlist](https://x.ai/bot/wEerGLse70VEHkZeMRdIp) - Screens resumes against your must haves, ranks a shortlist and drafts emails to picks. Sam.
+- [SEO Content Gap Finder](https://x.ai/bot/dtW0vBG8A_gbcCJIQKRix) - Finds the questions your buyers search that your site does not yet answer. Austen.

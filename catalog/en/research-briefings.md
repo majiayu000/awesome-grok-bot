@@ -908,3 +908,4 @@ Back to [README](../../README.md)
 - [Stillroach Bag Watch](https://x.ai/bot/_74gBhv0E93s0SKfoQWVs) - Alerts for your Solana coins with holder and rug flags and live X context, delivered into your bot, with no trading on its own. [stillroachhq](https://x.com/stillroachhq).
 - [NBA Nightly Recap](https://x.ai/bot/kjinIpIVe_80bS_D4MC4w) - A read-only nightly NBA recap from X with your teams' scores, top highlights, injuries and trade news, linking every post. [Hoops](https://x.com/Hoopss).
 - [Algorithm Change Radar](https://x.ai/bot/-AgzXec4RtdkJ4iv_neW6) - Tells creators what really changed in the algorithms of the platforms they post on, with every claim labeled Confirmed, Likely or Rumor. [Karata](https://x.com/karatademada).
+- [Release Scout](https://x.ai/bot/OjcLr9bFJIpO6G5BmitPX) - Reads the Grok Bot changelog each morning and tells you what changes for the bots you run. AJ.

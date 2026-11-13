@@ -136,3 +136,13 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Trust & Estate Guide](https://x.ai/bot/TQV4SmJpr4LT1zD15KVZ3) - Explains U.S. estate planning concepts in plain language, for education only, and helps you prepare checklists. [Hudson](https://x.com/HudsonSutherla2).
 - [英语助教](https://x.ai/bot/eN7pqix_D4P-GHwymr8KZ) - An English coach that corrects pronunciation and schedules daily speaking practice with voice demos and feedback. [艾伦少年allenli.hl🇭🇰](https://x.com/allenli852).
 - [Job Hunter](https://x.ai/bot/47756ENnbomzwCKRdvQCb) - Runs your job hunt with Firecrawl by matching your resume to open roles and researching the hiring managers. [Toàn](https://x.com/toannhu_it).
+- [Resonance](https://x.ai/bot/Sc-EWDmsYlLRMMDBEftlM) - A private journal for body and surroundings observations including timing overlaps. Brian.
+- [Recall Radar](https://x.ai/bot/NDz3Eb34xrF2SKj832Ugs) - Tracks what you own from order emails and warns you when any of it is recalled. Kevin.
+- [Internet Bill Cutter](https://x.ai/bot/pR_iACCVED_Cx73I_1fhc) - Compares home internet providers at your address and tracks promo price jumps. Pablo.
+- [Verse Keeper](https://x.ai/bot/yK0HasJjrmWkI7zTRiz6x) - Memorize Scripture one verse at a time with hints, recitation and spaced review. Brandon.
+- [Breakpoint Buddy](https://x.ai/bot/nGGP8upBxGIU8PpNJHuaI) - A concierge for Breakpoint 2026 in London that finds sessions, side events and prep checklists. Bjoern.
+- [Electricity Rate Finder](https://x.ai/bot/9MhxrnOWUEJ9RJTrhpAkZ) - Finds the cheapest electricity plan for your real usage and alerts you when switching saves money. Alexander.
+- [Ghost · Privacy Guard](https://x.ai/bot/MRwsvdgrB036sXeTK56Ia) - Removes your personal info from people search and data broker sites with your consent. TechEcho.
+- [SpaceX merch Alert](https://x.ai/bot/A41ifyrQ1oLOom0uRhZ9v) - Watches the SpaceX store for new drops, restocks and sales and pings you. 𝓶\.𝓪\.𝓹\..
+- [Daily Bread](https://x.ai/bot/bNQfZYpS9lAjxkTkXxQ1T) - A daily Bible verse with context, life application, reflection and reading plans. John.
+- [Unashamed · Christian Apologetics](https://x.ai/bot/JETSSutDuMT0_8DlSMi22) - Confident well sourced Christian answers to tough questions tailored to your audience, drafts only. Unknown.
