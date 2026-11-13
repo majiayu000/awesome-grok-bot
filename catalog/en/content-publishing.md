@@ -1016,3 +1016,4 @@ Back to [README](../../README.md)
 - [Ives](https://x.ai/bot/f07EU8r2gWmq_dzd17wyq) - A principal interface designer for people shipping apps, dashboards and hardware that audits layout, copy, interaction, accessibility and feel. [Aaron](https://x.com/aarongxa).
 - [Clip & Credit](https://x.ai/bot/nIZEY9uZwEw4B7CYLTrdS) - Turns a YouTube link, X video or topic into captioned highlight clips with creator credit. Kevin.
 - [Email System Desk](https://x.ai/bot/DQb-ZixJvS2hLN6x5PfUx) - Designs and drafts your business email system, sent only when you say yes. Pablo.
+- [dbs 内容教练](https://x.ai/bot/qonh7lyBBYsbUXsR9LtO2) - Helps creators make content more people want to read, from topics and drafting to titles, hooks, scripts and pre-publish checks, based on open-source dbskill. [dontbe](https://x.com/Sunkeke_AI).

@@ -767,3 +767,4 @@
 - [PFS Keeper](https://x.ai/bot/bUsw0RZ4CoDRZxK0Er8Nx) - 让你的个人财务报表保持最新并随时可交给银行，从关联账户追踪资产、负债、收入和净资产. [Jeremy](https://x.com/JeremyBrokate).
 - [Weekly Focus Coach](https://x.ai/bot/9PiN4kzk4Y6-21oAYmUR0) - 找出你生意里最大的瓶颈，每周提醒你只做一件事. Darrell.
 - [Employer Side Payroll Checker](https://x.ai/bot/M2-PAoFeGZQvPa-JHLnfo) - 在你批准发薪前，检查美国工资表里的错误. Sam.
+- [ShardiB2 monitor](https://x.ai/bot/VchfTCQh87MhLQt1J1but) - 盘中关注 ShardiB2 的公开 X 帖子，把她简短的交易笔记整理成含代码、方向和价位的通俗摘要. [Thomas](https://x.com/Tferriere).

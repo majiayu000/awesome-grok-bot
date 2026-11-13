@@ -618,3 +618,4 @@ Back to [README](../../README.md)
 - [Karen AI](https://x.ai/bot/SFmVRVriH4MCtXYUP8VZv) - An escalation specialist for customer-service fights that drafts firm complaints, tracks your cases and pushes companies until you get a real fix. [Lion@Zion](https://x.com/DumbEinstein).
 - [Shortlist](https://x.ai/bot/wEerGLse70VEHkZeMRdIp) - Screens resumes against your must haves, ranks a shortlist and drafts emails to picks. Sam.
 - [SEO Content Gap Finder](https://x.ai/bot/dtW0vBG8A_gbcCJIQKRix) - Finds the questions your buyers search that your site does not yet answer. Austen.
+- [dbs 创业教练](https://x.ai/bot/kpZtlm5CADHoXaaAqTV5Z) - Helps founders get clear on their business by asking the right questions, then giving one task to finish this week, based on open-source dbskill. [dontbe](https://x.com/Sunkeke_AI).

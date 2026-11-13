@@ -162051,6 +162051,111 @@
       "updated": "2026-11-13",
       "shelf": "raw",
       "source": "https://x.com/i/status/2120932586570555643"
+    },
+    {
+      "slug": "chen-guwen-bot",
+      "name": "陳顧問 Bot",
+      "author": {
+        "name": "建蒲",
+        "url": "https://x.com/wosiinmo"
+      },
+      "summary": "Shares how a multi-bot team really runs, from splitting roles and saving quota to LINE and WeCom setup, backups and debugging",
+      "summary_zh": "一项一项介绍多 Bot 团队的实际分工经验，包括外包命令行工具、省额度、LINE 和企业微信常开、备份与除错",
+      "import": "https://x.ai/bot/v8nMQkbhy-BxXDftZkabs",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/wosiinmo/status/2121098230121607567"
+    },
+    {
+      "slug": "dbs-content-coach",
+      "name": "dbs 内容教练",
+      "author": {
+        "name": "dontbe",
+        "url": "https://x.com/Sunkeke_AI"
+      },
+      "summary": "Helps creators make content more people want to read, from topics and drafting to titles, hooks, scripts and pre-publish checks, based on open-source dbskill",
+      "summary_zh": "帮做内容的人把内容做得更受欢迎，覆盖选题、写稿改稿、标题封面开头、口播、AI 味检查和发布前判断，方法来自开源的 dbskill",
+      "import": "https://x.ai/bot/qonh7lyBBYsbUXsR9LtO2",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/Sunkeke_AI/status/2121143886957699374"
+    },
+    {
+      "slug": "dbs-startup-coach",
+      "name": "dbs 创业教练",
+      "author": {
+        "name": "dontbe",
+        "url": "https://x.com/Sunkeke_AI"
+      },
+      "summary": "Helps founders get clear on their business by asking the right questions, then giving one task to finish this week, based on open-source dbskill",
+      "summary_zh": "帮做生意和创业的人把生意想明白，先问对问题，再给出这周能做完的一件事，方法来自开源的 dbskill",
+      "import": "https://x.ai/bot/kpZtlm5CADHoXaaAqTV5Z",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/Sunkeke_AI/status/2121143886957699374"
+    },
+    {
+      "slug": "evaluate-decision-gate",
+      "name": "Evaluate Decision Gate",
+      "author": {
+        "name": "Dominick",
+        "url": "https://x.com/deltaxevaluate"
+      },
+      "summary": "Routes your agent's next-step decisions through DeltaX Evaluate, which picks a review step from your proposed options or refuses",
+      "summary_zh": "把你的智能体下一步决策交给 DeltaX Evaluate 把关，从你提出的选项里选出复核步骤，或者直接拒绝",
+      "import": "https://x.ai/bot/hNUjCljuFptDp9zXLu91L",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/deltaxevaluate/status/2121056981268283616"
+    },
+    {
+      "slug": "shardib2-monitor",
+      "name": "ShardiB2 monitor",
+      "author": {
+        "name": "Thomas",
+        "url": "https://x.com/Tferriere"
+      },
+      "summary": "Watches ShardiB2's public X posts during market hours and decodes her short trade notes into plain digests with ticker, direction and levels",
+      "summary_zh": "盘中关注 ShardiB2 的公开 X 帖子，把她简短的交易笔记整理成含代码、方向和价位的通俗摘要",
+      "import": "https://x.ai/bot/VchfTCQh87MhLQt1J1but",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw",
+      "source": "https://x.com/Tferriere/status/2121116119033606582"
     }
   ]
 }

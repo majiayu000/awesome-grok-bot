@@ -1016,3 +1016,4 @@
 - [Ives](https://x.ai/bot/f07EU8r2gWmq_dzd17wyq) - 面向做应用、仪表盘和硬件的人的首席界面设计师，审查布局、文案、交互、无障碍和整体手感. [Aaron](https://x.com/aarongxa).
 - [Clip & Credit](https://x.ai/bot/nIZEY9uZwEw4B7CYLTrdS) - 把 YouTube 链接、X 视频或主题做成带字幕并署名原作者的精彩片段. Kevin.
 - [Email System Desk](https://x.ai/bot/DQb-ZixJvS2hLN6x5PfUx) - 为你的生意设计并起草邮件体系，只在你同意后发送. Pablo.
+- [dbs 内容教练](https://x.ai/bot/qonh7lyBBYsbUXsR9LtO2) - 帮做内容的人把内容做得更受欢迎，覆盖选题、写稿改稿、标题封面开头、口播、AI 味检查和发布前判断，方法来自开源的 dbskill. [dontbe](https://x.com/Sunkeke_AI).

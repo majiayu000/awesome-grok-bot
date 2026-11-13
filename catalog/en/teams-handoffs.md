@@ -870,3 +870,4 @@ Back to [README](../../README.md)
 - [Head of HR](https://x.ai/bot/2PynVxO7Z73MP9GS0VsJI) - Plain HR guidance for small business owners from official sources, with workplace document drafts. Sam.
 - [Empire Commander](https://x.ai/bot/lFsKB3YRp0kwcNa9VkASl) - One lead bot for people running several Grok Bots, with one job list and approval before anything goes out. J.
 - [Solo Founder Crew](https://x.ai/bot/LsMMqEH5tNXcsKhGteWab) - Runs inbox sweep, pre call brief and SaaS spend helper bots and gives one short morning brief. Calix.
+- [陳顧問 Bot](https://x.ai/bot/v8nMQkbhy-BxXDftZkabs) - Shares how a multi-bot team really runs, from splitting roles and saving quota to LINE and WeCom setup, backups and debugging. [建蒲](https://x.com/wosiinmo).

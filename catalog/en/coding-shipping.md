@@ -950,3 +950,4 @@ Back to [README](../../README.md)
 - [Security Watch](https://x.ai/bot/a8sof80ZVYsPSIvon50Hw) - Interviews you about your devices, network, software and online services, runs a fitting security baseline audit and then reports findings. [Bernard](https://x.com/beks88).
 - [Phone Pilot](https://x.ai/bot/p4_Hc9ZKYElvEFm8I62sC) - Controls your iPhone or Android from a Windows PC with no Mac needed, through a live phone window on your screen. [xTheMarketMaker](https://x.com/xTheMarketMaker).
 - [Photo Slicer](https://x.ai/bot/YM6hH-UOshTypVOtWE4jf) - Slice any photo into 1 to 20 equal portrait pieces in a zip for a multi photo X post. Jonathan.
+- [Evaluate Decision Gate](https://x.ai/bot/hNUjCljuFptDp9zXLu91L) - Routes your agent's next-step decisions through DeltaX Evaluate, which picks a review step from your proposed options or refuses. [Dominick](https://x.com/deltaxevaluate).

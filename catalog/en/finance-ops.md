@@ -767,3 +767,4 @@ Back to [README](../../README.md)
 - [PFS Keeper](https://x.ai/bot/bUsw0RZ4CoDRZxK0Er8Nx) - Keeps your personal financial statement current and ready for the bank by tracking assets, debts, income and net worth from your linked accounts. [Jeremy](https://x.com/JeremyBrokate).
 - [Weekly Focus Coach](https://x.ai/bot/9PiN4kzk4Y6-21oAYmUR0) - Finds the biggest constraint in your business and pings you weekly with one thing to focus on. Darrell.
 - [Employer Side Payroll Checker](https://x.ai/bot/M2-PAoFeGZQvPa-JHLnfo) - Catches mistakes in a US payroll register before you approve the run. Sam.
+- [ShardiB2 monitor](https://x.ai/bot/VchfTCQh87MhLQt1J1but) - Watches ShardiB2's public X posts during market hours and decodes her short trade notes into plain digests with ticker, direction and levels. [Thomas](https://x.com/Tferriere).

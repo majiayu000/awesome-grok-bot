@@ -870,3 +870,4 @@
 - [Head of HR](https://x.ai/bot/2PynVxO7Z73MP9GS0VsJI) - 为小企业主提供基于官方来源的通俗人事指引，并起草职场文件. Sam.
 - [Empire Commander](https://x.ai/bot/lFsKB3YRp0kwcNa9VkASl) - 给运行多个 Grok Bot 的人用的总管机器人，统一任务清单，发出前先征求同意. J.
 - [Solo Founder Crew](https://x.ai/bot/LsMMqEH5tNXcsKhGteWab) - 统筹收件箱清理、通话前简报和 SaaS 开支三个助手，每天早上给一份简短简报. Calix.
+- [陳顧問 Bot](https://x.ai/bot/v8nMQkbhy-BxXDftZkabs) - 一项一项介绍多 Bot 团队的实际分工经验，包括外包命令行工具、省额度、LINE 和企业微信常开、备份与除错. [建蒲](https://x.com/wosiinmo).
