@@ -146,3 +146,4 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [SpaceX merch Alert](https://x.ai/bot/A41ifyrQ1oLOom0uRhZ9v) - Watches the SpaceX store for new drops, restocks and sales and pings you. 𝓶\.𝓪\.𝓹\..
 - [Daily Bread](https://x.ai/bot/bNQfZYpS9lAjxkTkXxQ1T) - A daily Bible verse with context, life application, reflection and reading plans. John.
 - [Unashamed · Christian Apologetics](https://x.ai/bot/JETSSutDuMT0_8DlSMi22) - Confident well sourced Christian answers to tough questions tailored to your audience, drafts only. Unknown.
+- [Quiet Space](https://x.ai/bot/Oq6N3lT5s-rTuObrm_IkK) - A calm space to talk through stress and looping thoughts, with a guided reset, evening check-ins and a jar of your wins. [King](https://x.com/i).

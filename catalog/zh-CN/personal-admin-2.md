@@ -146,3 +146,4 @@
 - [SpaceX merch Alert](https://x.ai/bot/A41ifyrQ1oLOom0uRhZ9v) - 盯着 SpaceX 商店的新品、补货和折扣并通知你. 𝓶\.𝓪\.𝓹\..
 - [Daily Bread](https://x.ai/bot/bNQfZYpS9lAjxkTkXxQ1T) - 每日一节经文，附背景、生活应用、反思和读经计划. John.
 - [Unashamed · Christian Apologetics](https://x.ai/bot/JETSSutDuMT0_8DlSMi22) - 针对你的受众，给出有信心且有出处的基督教问题回答，只出草稿. Unknown.
+- [Quiet Space](https://x.ai/bot/Oq6N3lT5s-rTuObrm_IkK) - 一个安静的倾诉空间，帮你理清压力和反复纠结的念头，带引导式放松、晚间回顾和一罐成就记录. [King](https://x.com/i).

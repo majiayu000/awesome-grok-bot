@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7803 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 7805 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -108,16 +108,16 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | Category | Listed |
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 949 |
-| [Inbox & calendar](#inbox--calendar) | 307 |
+| [Inbox & calendar](#inbox--calendar) | 308 |
 | [Research & briefings](#research--briefings) | 907 |
 | [Customer & sales](#customer--sales) | 617 |
 | [Finance & ops](#finance--ops) | 766 |
 | [Content & publishing](#content--publishing) | 1015 |
-| [Personal admin](#personal-admin) | 2373 |
+| [Personal admin](#personal-admin) | 2374 |
 | [Teams & handoffs](#teams--handoffs) | 869 |
-| **Total** | **7803** |
+| **Total** | **7805** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more and the afternoon delta added 5 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7803 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, and the evening delta added 2 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7805 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -259,7 +259,7 @@ Full list (949 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shippi
 
 ## Inbox & calendar
 
-Full list (307 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
+Full list (308 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
 
 ## Research & briefings
 
@@ -279,7 +279,7 @@ Full list (1015 shares): [catalog/en/content-publishing.md](catalog/en/content-p
 
 ## Personal admin
 
-Full list (2373 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
+Full list (2374 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
 
 ## Teams & handoffs
 
