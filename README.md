@@ -16,6 +16,8 @@
 
 [Grok Bot](https://docs.x.ai/grok-bot/overview) is an always-on AI teammate on a shared cloud computer. This bilingual catalog indexes public **live shares** (not prompt dumps): find a share, open it on x.ai, then Add.
 
+> Unofficial, community-maintained catalog. Not affiliated with or endorsed by xAI. Grok is a trademark of xAI.
+
 ## Contents
 
 - [How to use](#how-to-use)
