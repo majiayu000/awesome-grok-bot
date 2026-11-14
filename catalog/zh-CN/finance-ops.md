@@ -768,3 +768,5 @@
 - [Weekly Focus Coach](https://x.ai/bot/9PiN4kzk4Y6-21oAYmUR0) - 找出你生意里最大的瓶颈，每周提醒你只做一件事. Darrell.
 - [Employer Side Payroll Checker](https://x.ai/bot/M2-PAoFeGZQvPa-JHLnfo) - 在你批准发薪前，检查美国工资表里的错误. Sam.
 - [ShardiB2 monitor](https://x.ai/bot/VchfTCQh87MhLQt1J1but) - 盘中关注 ShardiB2 的公开 X 帖子，把她简短的交易笔记整理成含代码、方向和价位的通俗摘要. [Thomas](https://x.com/Tferriere).
+- [Mint](https://x.ai/bot/tvmfOk0l-iJ89F7bBFUKd) - 家庭财务总管，跟踪余额、账单、债务、储蓄和信用. [TechEcho](https://x.com/techechohq).
+- [QuickBooks Bookkeeper](https://x.ai/bot/vjeRu1uvIhqcoEjWgS5ac) - 为使用 QuickBooks Online 的小企业做账，谨慎对账. [Dr.](https://x.com/billycanada).

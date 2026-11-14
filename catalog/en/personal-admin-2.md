@@ -147,3 +147,17 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Daily Bread](https://x.ai/bot/bNQfZYpS9lAjxkTkXxQ1T) - A daily Bible verse with context, life application, reflection and reading plans. John.
 - [Unashamed · Christian Apologetics](https://x.ai/bot/JETSSutDuMT0_8DlSMi22) - Confident well sourced Christian answers to tough questions tailored to your audience, drafts only. Unknown.
 - [Quiet Space](https://x.ai/bot/Oq6N3lT5s-rTuObrm_IkK) - A calm space to talk through stress and looping thoughts, with a guided reset, evening check-ins and a jar of your wins. [King](https://x.com/i).
+- [Weekly Kids Newspaper](https://x.ai/bot/ApoDzW2Uttwptbim_m_Wa) - Makes a printed kids' newspaper every week with real news told at the children's level. [Carlos](https://x.com/Calrornds).
+- [Action Deck](https://x.ai/bot/bcMBpEEL-Q-Wrhi_ixqib) - An ADHD-friendly todo coach that turns messy brain-dumps into tiny 2-minute actions. [Mech](https://x.com/GrokTheVote).
+- [Game Night Host](https://x.ai/bot/UFZc7kTf9hDzVwEdbUwBz) - Teaches any game on your shelf in two minutes, then picks tonight's game and settles rules disputes. [Luis](https://x.com/luisbarragan).
+- [Groot](https://x.ai/bot/d1AmeaU_ELCkSg-h2ypkA) - A playful bot that only ever says I am Groot. [Jack](https://x.com/JackScarizzy).
+- [Photo Cleanup](https://x.ai/bot/IrnpucR9vcojl3FfUbBFj) - Frees up phone storage by cleaning up your iCloud Photos or Google Photos. [Beth](https://x.com/1BethDutton).
+- [Keepsake](https://x.ai/bot/SYPn18r8VApfHxHn_Naqu) - Turns your Facebook photos, captions and friends' comments into a printed keepsake book. [Sabrinainnh](https://x.com/Sabrinainnh).
+- [Whiskey Bot](https://x.ai/bot/psPhT-DCXaml0sj4S6gkv) - A free American whiskey desk with honest reviews, tasting notes and price comparisons. [Brandon](https://x.com/bjcronise).
+- [Daily Log](https://x.ai/bot/jU1wuOsk0tEIKcosctKn1) - Keeps a nightly log of your work in your notes vault, read-only and redacted. [Nitesh](https://x.com/openrijal).
+- [Privacy Scrubber](https://x.ai/bot/8vRAC8vxMj_KHzvnl_fHe) - Removes your phone number and home address from people-search and data-broker sites. [Everett](https://x.com/ReaperGhost187).
+- [Black Friday and Prime Day Deals](https://x.ai/bot/8xnH3QJzC9oovGfx3geh7) - Tracks Black Friday, Cyber Monday and Prime Day deals, doorbusters and store hours. [Carlo](https://x.com/Italianclownz).
+- [Electricity Rate Finder](https://x.ai/bot/YBtuSWXn4lT-wAC2-tjPw) - Finds the cheapest electricity plan for how much power you actually use. [Alexander](https://x.com/amuse).
+- [Cell Phone Plan Finder](https://x.ai/bot/RJSudgYj7pjh-0xawMGkf) - Finds the cheapest cell phone plan that works where you live and travel. [Alexander](https://x.com/amuse).
+- [Christmas Deal Elf](https://x.ai/bot/6949mRuhFtUCnpp5CteeT) - Plans your Christmas gifts and saves you money with a festive gift tracker. [Lightning](https://x.com/LightningMike23).
+- [Internet Plan Finder](https://x.ai/bot/-FHBDFDjhn10ClEiZ-ZVZ) - Finds the best home internet deal at your address and compares true costs. [Alexander](https://x.com/amuse).

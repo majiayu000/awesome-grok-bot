@@ -768,3 +768,5 @@ Back to [README](../../README.md)
 - [Weekly Focus Coach](https://x.ai/bot/9PiN4kzk4Y6-21oAYmUR0) - Finds the biggest constraint in your business and pings you weekly with one thing to focus on. Darrell.
 - [Employer Side Payroll Checker](https://x.ai/bot/M2-PAoFeGZQvPa-JHLnfo) - Catches mistakes in a US payroll register before you approve the run. Sam.
 - [ShardiB2 monitor](https://x.ai/bot/VchfTCQh87MhLQt1J1but) - Watches ShardiB2's public X posts during market hours and decodes her short trade notes into plain digests with ticker, direction and levels. [Thomas](https://x.com/Tferriere).
+- [Mint](https://x.ai/bot/tvmfOk0l-iJ89F7bBFUKd) - A household CFO for families that tracks balances, bills, debts, savings and credit. [TechEcho](https://x.com/techechohq).
+- [QuickBooks Bookkeeper](https://x.ai/bot/vjeRu1uvIhqcoEjWgS5ac) - A careful bookkeeper for small businesses on QuickBooks Online that reconciles statements. [Dr.](https://x.com/billycanada).

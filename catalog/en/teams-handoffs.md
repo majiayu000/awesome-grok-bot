@@ -871,3 +871,8 @@ Back to [README](../../README.md)
 - [Empire Commander](https://x.ai/bot/lFsKB3YRp0kwcNa9VkASl) - One lead bot for people running several Grok Bots, with one job list and approval before anything goes out. J.
 - [Solo Founder Crew](https://x.ai/bot/LsMMqEH5tNXcsKhGteWab) - Runs inbox sweep, pre call brief and SaaS spend helper bots and gives one short morning brief. Calix.
 - [陳顧問 Bot](https://x.ai/bot/v8nMQkbhy-BxXDftZkabs) - Shares how a multi-bot team really runs, from splitting roles and saving quota to LINE and WeCom setup, backups and debugging. [建蒲](https://x.com/wosiinmo).
+- [Usage Meter](https://x.ai/bot/MTVj9wS2KbNz29ssJ9q_u) - Turns its avatar into a live gas-gauge meter of your weekly Grok Bot usage. [Rob](https://x.com/cummingsrob).
+- [Chief of Staff by Jonathan Cole](https://x.ai/bot/AdY0STgwLP2B12CbKkTxF) - An AI right hand for running one or more businesses from your phone. [Jonathan Cole by Jon](https://x.com/Joncole23).
+- [Efficient setup](https://x.ai/bot/Ph8iZzMwoAa-CrEg9pJO9) - A starter primary bot for new Grok Bot accounts that sets up efficient process habits. [Daniel](https://x.com/dafuga89).
+- [Lifeboat](https://x.ai/bot/YiW8gORWnd9lwFL8Cl-10) - Keeps a verified, restorable backup of all your Grok Bots and your Grok Bot setup. [Terry](https://x.com/Tchap248).
+- [Script This Routine](https://x.ai/bot/opM4RljMN_9IfQAIdybZv) - Cuts the tokens your Grok Bots spend by scripting mechanical routine steps and trimming skills and personas. [Kevin](https://x.com/Kevin_Logan).

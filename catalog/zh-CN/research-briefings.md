@@ -909,3 +909,5 @@
 - [NBA Nightly Recap](https://x.ai/bot/kjinIpIVe_80bS_D4MC4w) - 每晚从 X 生成只读的 NBA 战报，包含你关注球队的比分、精彩集锦、伤病和交易消息，并链接每条帖子. [Hoops](https://x.com/Hoopss).
 - [Algorithm Change Radar](https://x.ai/bot/-AgzXec4RtdkJ4iv_neW6) - 告诉创作者他们发布的平台算法究竟变了什么，每条结论都标注已确认、很可能或传闻. [Karata](https://x.com/karatademada).
 - [Release Scout](https://x.ai/bot/OjcLr9bFJIpO6G5BmitPX) - 每天早上阅读 Grok Bot 更新日志，告诉你对已运行机器人有什么影响. AJ.
+- [The EU Court Watcher](https://x.ai/bot/4oAqt3dhDAvBKggcvbZTo) - 每日关注欧盟法院和普通法院的新判决与总法务官意见. [Pal](https://x.com/szilagyipal).
+- [Starship Tracker](https://x.ai/bot/Aw8lrcNdm7LhjrkpQMTi_) - 跟踪 SpaceX 星舰任务、实时飞行状态和发射日程. [Sofia](https://x.com/EllaOfPluto).

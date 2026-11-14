@@ -147,3 +147,17 @@
 - [Daily Bread](https://x.ai/bot/bNQfZYpS9lAjxkTkXxQ1T) - 每日一节经文，附背景、生活应用、反思和读经计划. John.
 - [Unashamed · Christian Apologetics](https://x.ai/bot/JETSSutDuMT0_8DlSMi22) - 针对你的受众，给出有信心且有出处的基督教问题回答，只出草稿. Unknown.
 - [Quiet Space](https://x.ai/bot/Oq6N3lT5s-rTuObrm_IkK) - 一个安静的倾诉空间，帮你理清压力和反复纠结的念头，带引导式放松、晚间回顾和一罐成就记录. [King](https://x.com/i).
+- [Weekly Kids Newspaper](https://x.ai/bot/ApoDzW2Uttwptbim_m_Wa) - 每周为孩子制作一份可打印的报纸，用孩子能懂的方式讲真实新闻. [Carlos](https://x.com/Calrornds).
+- [Action Deck](https://x.ai/bot/bcMBpEEL-Q-Wrhi_ixqib) - 对 ADHD 友好的待办教练，把杂乱的脑内倾倒拆成两分钟就能做完的小动作. [Mech](https://x.com/GrokTheVote).
+- [Game Night Host](https://x.ai/bot/UFZc7kTf9hDzVwEdbUwBz) - 两分钟教会你架上的任何桌游，再帮你挑今晚玩什么并裁决规则争议. [Luis](https://x.com/luisbarragan).
+- [Groot](https://x.ai/bot/d1AmeaU_ELCkSg-h2ypkA) - 一个只会说 I am Groot 的趣味机器人. [Jack](https://x.com/JackScarizzy).
+- [Photo Cleanup](https://x.ai/bot/IrnpucR9vcojl3FfUbBFj) - 清理 iCloud 照片或谷歌相册来腾出手机存储空间. [Beth](https://x.com/1BethDutton).
+- [Keepsake](https://x.ai/bot/SYPn18r8VApfHxHn_Naqu) - 把你的 Facebook 照片、配文和朋友评论做成一本可打印的纪念册. [Sabrinainnh](https://x.com/Sabrinainnh).
+- [Whiskey Bot](https://x.ai/bot/psPhT-DCXaml0sj4S6gkv) - 免费的美国威士忌顾问，提供坦率点评、品鉴笔记和价格对比. [Brandon](https://x.com/bjcronise).
+- [Daily Log](https://x.ai/bot/jU1wuOsk0tEIKcosctKn1) - 在你的笔记库里写每晚工作日志，只读取内容并自动脱敏. [Nitesh](https://x.com/openrijal).
+- [Privacy Scrubber](https://x.ai/bot/8vRAC8vxMj_KHzvnl_fHe) - 从人员搜索和数据经纪网站移除你的手机号和家庭住址. [Everett](https://x.com/ReaperGhost187).
+- [Black Friday and Prime Day Deals](https://x.ai/bot/8xnH3QJzC9oovGfx3geh7) - 跟踪黑五、网络星期一和 Prime Day 的优惠、限量抢购和门店营业时间. [Carlo](https://x.com/Italianclownz).
+- [Electricity Rate Finder](https://x.ai/bot/YBtuSWXn4lT-wAC2-tjPw) - 按你真实的用电量找出最便宜的电费方案. [Alexander](https://x.com/amuse).
+- [Cell Phone Plan Finder](https://x.ai/bot/RJSudgYj7pjh-0xawMGkf) - 找出在你居住和出行区域都好用的最便宜手机套餐. [Alexander](https://x.com/amuse).
+- [Christmas Deal Elf](https://x.ai/bot/6949mRuhFtUCnpp5CteeT) - 规划圣诞礼物并帮你省钱，附带节日风格的礼物清单. [Lightning](https://x.com/LightningMike23).
+- [Internet Plan Finder](https://x.ai/bot/-FHBDFDjhn10ClEiZ-ZVZ) - 按你的地址找出最划算的家庭宽带方案并对比真实成本. [Alexander](https://x.com/amuse).

@@ -1017,3 +1017,5 @@ Back to [README](../../README.md)
 - [Clip & Credit](https://x.ai/bot/nIZEY9uZwEw4B7CYLTrdS) - Turns a YouTube link, X video or topic into captioned highlight clips with creator credit. Kevin.
 - [Email System Desk](https://x.ai/bot/DQb-ZixJvS2hLN6x5PfUx) - Designs and drafts your business email system, sent only when you say yes. Pablo.
 - [dbs 内容教练](https://x.ai/bot/qonh7lyBBYsbUXsR9LtO2) - Helps creators make content more people want to read, from topics and drafting to titles, hooks, scripts and pre-publish checks, based on open-source dbskill. [dontbe](https://x.com/Sunkeke_AI).
+- [Video Champ](https://x.ai/bot/oVHufCJT9H3DmxoS-lWNN) - Turns Grok Imagine into a video producer, director and editor for 9\:16 short videos. [Cola](https://x.com/benoit404).
+- [Reel Factory](https://x.ai/bot/rSZgmsDoe8vMrQLpxFhwB) - An AI content team for short-form video that finds viral references in your niche. [brian](https://x.com/bandersonlopez1).

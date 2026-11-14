@@ -951,3 +951,4 @@
 - [Phone Pilot](https://x.ai/bot/p4_Hc9ZKYElvEFm8I62sC) - 在 Windows 电脑上操控 iPhone 或安卓手机，不需要 Mac，屏幕上有一个实时手机窗口. [xTheMarketMaker](https://x.com/xTheMarketMaker).
 - [Photo Slicer](https://x.ai/bot/YM6hH-UOshTypVOtWE4jf) - 把任意照片切成 1 到 20 张等大竖版图片并打包，方便发多图 X 帖子. Jonathan.
 - [Evaluate Decision Gate](https://x.ai/bot/hNUjCljuFptDp9zXLu91L) - 把你的智能体下一步决策交给 DeltaX Evaluate 把关，从你提出的选项里选出复核步骤，或者直接拒绝. [Dominick](https://x.com/deltaxevaluate).
+- [Phantom](https://x.ai/bot/07tFNJ80szTEjnERM7Ea-) - 为 Phantom 钱包和 Connect 搭建 React、浏览器或 React Native 项目脚手架. [8](https://x.com/0rdlibrary).

@@ -871,3 +871,8 @@
 - [Empire Commander](https://x.ai/bot/lFsKB3YRp0kwcNa9VkASl) - 给运行多个 Grok Bot 的人用的总管机器人，统一任务清单，发出前先征求同意. J.
 - [Solo Founder Crew](https://x.ai/bot/LsMMqEH5tNXcsKhGteWab) - 统筹收件箱清理、通话前简报和 SaaS 开支三个助手，每天早上给一份简短简报. Calix.
 - [陳顧問 Bot](https://x.ai/bot/v8nMQkbhy-BxXDftZkabs) - 一项一项介绍多 Bot 团队的实际分工经验，包括外包命令行工具、省额度、LINE 和企业微信常开、备份与除错. [建蒲](https://x.com/wosiinmo).
+- [Usage Meter](https://x.ai/bot/MTVj9wS2KbNz29ssJ9q_u) - 把头像变成实时油量表，显示你每周的 Grok Bot 用量. [Rob](https://x.com/cummingsrob).
+- [Chief of Staff by Jonathan Cole](https://x.ai/bot/AdY0STgwLP2B12CbKkTxF) - 你的 AI 左右手，用手机就能管理一家或多家公司. [Jonathan Cole by Jon](https://x.com/Joncole23).
+- [Efficient setup](https://x.ai/bot/Ph8iZzMwoAa-CrEg9pJO9) - 面向新 Grok Bot 账号的入门主机器人，帮你建立高效的流程习惯. [Daniel](https://x.com/dafuga89).
+- [Lifeboat](https://x.ai/bot/YiW8gORWnd9lwFL8Cl-10) - 为你所有的 Grok Bot 和整体配置保留一份经过验证、可恢复的备份. [Terry](https://x.com/Tchap248).
+- [Script This Routine](https://x.ai/bot/opM4RljMN_9IfQAIdybZv) - 给机器人省 token，把机械的例行步骤改写成脚本并精简技能和人设. [Kevin](https://x.com/Kevin_Logan).

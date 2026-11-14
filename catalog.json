@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13",
+  "generated": "2026-11-14",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -162198,6 +162198,552 @@
       "updated": "2026-11-13",
       "shelf": "raw",
       "source": "https://x.com/i/status/2121185775794479600"
+    },
+    {
+      "slug": "video-champ",
+      "name": "Video Champ",
+      "author": {
+        "name": "Cola",
+        "url": "https://x.com/benoit404"
+      },
+      "summary": "Turns Grok Imagine into a video producer, director and editor for 9:16 short videos",
+      "summary_zh": "把 Grok Imagine 变成视频制片、导演和剪辑，专做 9:16 竖屏短视频",
+      "import": "https://x.ai/bot/oVHufCJT9H3DmxoS-lWNN",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/benoit404/status/2121308823990509775"
+    },
+    {
+      "slug": "weekly-kids-newspaper",
+      "name": "Weekly Kids Newspaper",
+      "author": {
+        "name": "Carlos",
+        "url": "https://x.com/Calrornds"
+      },
+      "summary": "Makes a printed kids' newspaper every week with real news told at the children's level",
+      "summary_zh": "每周为孩子制作一份可打印的报纸，用孩子能懂的方式讲真实新闻",
+      "import": "https://x.ai/bot/ApoDzW2Uttwptbim_m_Wa",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/Calrornds/status/2121307422564491384"
+    },
+    {
+      "slug": "action-deck",
+      "name": "Action Deck",
+      "author": {
+        "name": "Mech",
+        "url": "https://x.com/GrokTheVote"
+      },
+      "summary": "An ADHD-friendly todo coach that turns messy brain-dumps into tiny 2-minute actions",
+      "summary_zh": "对 ADHD 友好的待办教练，把杂乱的脑内倾倒拆成两分钟就能做完的小动作",
+      "import": "https://x.ai/bot/bcMBpEEL-Q-Wrhi_ixqib",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/GrokTheVote/status/2121288586574070013"
+    },
+    {
+      "slug": "usage-meter-2",
+      "name": "Usage Meter",
+      "author": {
+        "name": "Rob",
+        "url": "https://x.com/cummingsrob"
+      },
+      "summary": "Turns its avatar into a live gas-gauge meter of your weekly Grok Bot usage",
+      "summary_zh": "把头像变成实时油量表，显示你每周的 Grok Bot 用量",
+      "import": "https://x.ai/bot/MTVj9wS2KbNz29ssJ9q_u",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/cummingsrob/status/2121278674724860084"
+    },
+    {
+      "slug": "game-night-host",
+      "name": "Game Night Host",
+      "author": {
+        "name": "Luis",
+        "url": "https://x.com/luisbarragan"
+      },
+      "summary": "Teaches any game on your shelf in two minutes, then picks tonight's game and settles rules disputes",
+      "summary_zh": "两分钟教会你架上的任何桌游，再帮你挑今晚玩什么并裁决规则争议",
+      "import": "https://x.ai/bot/UFZc7kTf9hDzVwEdbUwBz",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/luisbarragan/status/2121272375735890378"
+    },
+    {
+      "slug": "groot",
+      "name": "Groot",
+      "author": {
+        "name": "Jack",
+        "url": "https://x.com/JackScarizzy"
+      },
+      "summary": "A playful bot that only ever says I am Groot",
+      "summary_zh": "一个只会说 I am Groot 的趣味机器人",
+      "import": "https://x.ai/bot/d1AmeaU_ELCkSg-h2ypkA",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/JackScarizzy/status/2121265988545175778"
+    },
+    {
+      "slug": "chief-of-staff-by-jonathan-cole",
+      "name": "Chief of Staff by Jonathan Cole",
+      "author": {
+        "name": "Jonathan Cole by Jon",
+        "url": "https://x.com/Joncole23"
+      },
+      "summary": "An AI right hand for running one or more businesses from your phone",
+      "summary_zh": "你的 AI 左右手，用手机就能管理一家或多家公司",
+      "import": "https://x.ai/bot/AdY0STgwLP2B12CbKkTxF",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/Joncole23/status/2121265649825796524"
+    },
+    {
+      "slug": "photo-cleanup",
+      "name": "Photo Cleanup",
+      "author": {
+        "name": "Beth",
+        "url": "https://x.com/1BethDutton"
+      },
+      "summary": "Frees up phone storage by cleaning up your iCloud Photos or Google Photos",
+      "summary_zh": "清理 iCloud 照片或谷歌相册来腾出手机存储空间",
+      "import": "https://x.ai/bot/IrnpucR9vcojl3FfUbBFj",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/1BethDutton/status/2121253064485335537"
+    },
+    {
+      "slug": "efficient-setup",
+      "name": "Efficient setup",
+      "author": {
+        "name": "Daniel",
+        "url": "https://x.com/dafuga89"
+      },
+      "summary": "A starter primary bot for new Grok Bot accounts that sets up efficient process habits",
+      "summary_zh": "面向新 Grok Bot 账号的入门主机器人，帮你建立高效的流程习惯",
+      "import": "https://x.ai/bot/Ph8iZzMwoAa-CrEg9pJO9",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/dafuga89/status/2121243133383987293"
+    },
+    {
+      "slug": "mint",
+      "name": "Mint",
+      "author": {
+        "name": "TechEcho",
+        "url": "https://x.com/techechohq"
+      },
+      "summary": "A household CFO for families that tracks balances, bills, debts, savings and credit",
+      "summary_zh": "家庭财务总管，跟踪余额、账单、债务、储蓄和信用",
+      "import": "https://x.ai/bot/tvmfOk0l-iJ89F7bBFUKd",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/techechohq/status/2121242426304078066"
+    },
+    {
+      "slug": "lifeboat-2",
+      "name": "Lifeboat",
+      "author": {
+        "name": "Terry",
+        "url": "https://x.com/Tchap248"
+      },
+      "summary": "Keeps a verified, restorable backup of all your Grok Bots and your Grok Bot setup",
+      "summary_zh": "为你所有的 Grok Bot 和整体配置保留一份经过验证、可恢复的备份",
+      "import": "https://x.ai/bot/YiW8gORWnd9lwFL8Cl-10",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/Tchap248/status/2121384144768991636"
+    },
+    {
+      "slug": "script-this-routine-2",
+      "name": "Script This Routine",
+      "author": {
+        "name": "Kevin",
+        "url": "https://x.com/Kevin_Logan"
+      },
+      "summary": "Cuts the tokens your Grok Bots spend by scripting mechanical routine steps and trimming skills and personas",
+      "summary_zh": "给机器人省 token，把机械的例行步骤改写成脚本并精简技能和人设",
+      "import": "https://x.ai/bot/opM4RljMN_9IfQAIdybZv",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/Kevin_Logan/status/2121409309602914562"
+    },
+    {
+      "slug": "keepsake",
+      "name": "Keepsake",
+      "author": {
+        "name": "Sabrinainnh",
+        "url": "https://x.com/Sabrinainnh"
+      },
+      "summary": "Turns your Facebook photos, captions and friends' comments into a printed keepsake book",
+      "summary_zh": "把你的 Facebook 照片、配文和朋友评论做成一本可打印的纪念册",
+      "import": "https://x.ai/bot/SYPn18r8VApfHxHn_Naqu",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/Sabrinainnh/status/2121347249074835617"
+    },
+    {
+      "slug": "whiskey-bot",
+      "name": "Whiskey Bot",
+      "author": {
+        "name": "Brandon",
+        "url": "https://x.com/bjcronise"
+      },
+      "summary": "A free American whiskey desk with honest reviews, tasting notes and price comparisons",
+      "summary_zh": "免费的美国威士忌顾问，提供坦率点评、品鉴笔记和价格对比",
+      "import": "https://x.ai/bot/psPhT-DCXaml0sj4S6gkv",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/bjcronise/status/2121335491618353433"
+    },
+    {
+      "slug": "daily-log",
+      "name": "Daily Log",
+      "author": {
+        "name": "Nitesh",
+        "url": "https://x.com/openrijal"
+      },
+      "summary": "Keeps a nightly log of your work in your notes vault, read-only and redacted",
+      "summary_zh": "在你的笔记库里写每晚工作日志，只读取内容并自动脱敏",
+      "import": "https://x.ai/bot/jU1wuOsk0tEIKcosctKn1",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/openrijal/status/2121374645802749989"
+    },
+    {
+      "slug": "quickbooks-bookkeeper",
+      "name": "QuickBooks Bookkeeper",
+      "author": {
+        "name": "Dr.",
+        "url": "https://x.com/billycanada"
+      },
+      "summary": "A careful bookkeeper for small businesses on QuickBooks Online that reconciles statements",
+      "summary_zh": "为使用 QuickBooks Online 的小企业做账，谨慎对账",
+      "import": "https://x.ai/bot/vjeRu1uvIhqcoEjWgS5ac",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/billycanada/status/2121407513752994121"
+    },
+    {
+      "slug": "privacy-scrubber-2",
+      "name": "Privacy Scrubber",
+      "author": {
+        "name": "Everett",
+        "url": "https://x.com/ReaperGhost187"
+      },
+      "summary": "Removes your phone number and home address from people-search and data-broker sites",
+      "summary_zh": "从人员搜索和数据经纪网站移除你的手机号和家庭住址",
+      "import": "https://x.ai/bot/8vRAC8vxMj_KHzvnl_fHe",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/ReaperGhost187/status/2121402734804901895"
+    },
+    {
+      "slug": "black-friday-and-prime-day-deals",
+      "name": "Black Friday and Prime Day Deals",
+      "author": {
+        "name": "Carlo",
+        "url": "https://x.com/Italianclownz"
+      },
+      "summary": "Tracks Black Friday, Cyber Monday and Prime Day deals, doorbusters and store hours",
+      "summary_zh": "跟踪黑五、网络星期一和 Prime Day 的优惠、限量抢购和门店营业时间",
+      "import": "https://x.ai/bot/8xnH3QJzC9oovGfx3geh7",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/Italianclownz/status/2121355039616950411"
+    },
+    {
+      "slug": "electricity-rate-finder-2",
+      "name": "Electricity Rate Finder",
+      "author": {
+        "name": "Alexander",
+        "url": "https://x.com/amuse"
+      },
+      "summary": "Finds the cheapest electricity plan for how much power you actually use",
+      "summary_zh": "按你真实的用电量找出最便宜的电费方案",
+      "import": "https://x.ai/bot/YBtuSWXn4lT-wAC2-tjPw",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/amuse/status/2121336419511857629"
+    },
+    {
+      "slug": "cell-phone-plan-finder",
+      "name": "Cell Phone Plan Finder",
+      "author": {
+        "name": "Alexander",
+        "url": "https://x.com/amuse"
+      },
+      "summary": "Finds the cheapest cell phone plan that works where you live and travel",
+      "summary_zh": "找出在你居住和出行区域都好用的最便宜手机套餐",
+      "import": "https://x.ai/bot/RJSudgYj7pjh-0xawMGkf",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/amuse/status/2121337177464529079"
+    },
+    {
+      "slug": "christmas-deal-elf",
+      "name": "Christmas Deal Elf",
+      "author": {
+        "name": "Lightning",
+        "url": "https://x.com/LightningMike23"
+      },
+      "summary": "Plans your Christmas gifts and saves you money with a festive gift tracker",
+      "summary_zh": "规划圣诞礼物并帮你省钱，附带节日风格的礼物清单",
+      "import": "https://x.ai/bot/6949mRuhFtUCnpp5CteeT",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/LightningMike23/status/2121407771597824207"
+    },
+    {
+      "slug": "internet-plan-finder",
+      "name": "Internet Plan Finder",
+      "author": {
+        "name": "Alexander",
+        "url": "https://x.com/amuse"
+      },
+      "summary": "Finds the best home internet deal at your address and compares true costs",
+      "summary_zh": "按你的地址找出最划算的家庭宽带方案并对比真实成本",
+      "import": "https://x.ai/bot/-FHBDFDjhn10ClEiZ-ZVZ",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/amuse/status/2121336048710303752"
+    },
+    {
+      "slug": "reel-factory",
+      "name": "Reel Factory",
+      "author": {
+        "name": "brian",
+        "url": "https://x.com/bandersonlopez1"
+      },
+      "summary": "An AI content team for short-form video that finds viral references in your niche",
+      "summary_zh": "短视频 AI 内容团队，帮你在细分领域找到爆款参考",
+      "import": "https://x.ai/bot/rSZgmsDoe8vMrQLpxFhwB",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/bandersonlopez1/status/2121356455844491586"
+    },
+    {
+      "slug": "the-eu-court-watcher",
+      "name": "The EU Court Watcher",
+      "author": {
+        "name": "Pal",
+        "url": "https://x.com/szilagyipal"
+      },
+      "summary": "Daily watch of the EU Court of Justice and General Court for new judgments and AG opinions",
+      "summary_zh": "每日关注欧盟法院和普通法院的新判决与总法务官意见",
+      "import": "https://x.ai/bot/4oAqt3dhDAvBKggcvbZTo",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/szilagyipal/status/2121334833146470702"
+    },
+    {
+      "slug": "starship-tracker-2",
+      "name": "Starship Tracker",
+      "author": {
+        "name": "Sofia",
+        "url": "https://x.com/EllaOfPluto"
+      },
+      "summary": "Tracks SpaceX Starship missions, live flight status and launch schedules",
+      "summary_zh": "跟踪 SpaceX 星舰任务、实时飞行状态和发射日程",
+      "import": "https://x.ai/bot/Aw8lrcNdm7LhjrkpQMTi_",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/EllaOfPluto/status/2121383869022679545"
+    },
+    {
+      "slug": "phantom",
+      "name": "Phantom",
+      "author": {
+        "name": "8",
+        "url": "https://x.com/0rdlibrary"
+      },
+      "summary": "Scaffolds React, browser or React Native projects for Phantom wallet and Connect",
+      "summary_zh": "为 Phantom 钱包和 Connect 搭建 React、浏览器或 React Native 项目脚手架",
+      "import": "https://x.ai/bot/07tFNJ80szTEjnERM7Ea-",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw"
     }
   ]
 }
