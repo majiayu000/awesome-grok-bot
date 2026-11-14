@@ -161,3 +161,5 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Cell Phone Plan Finder](https://x.ai/bot/RJSudgYj7pjh-0xawMGkf) - Finds the cheapest cell phone plan that works where you live and travel. [Alexander](https://x.com/amuse).
 - [Christmas Deal Elf](https://x.ai/bot/6949mRuhFtUCnpp5CteeT) - Plans your Christmas gifts and saves you money with a festive gift tracker. [Lightning](https://x.com/LightningMike23).
 - [Internet Plan Finder](https://x.ai/bot/-FHBDFDjhn10ClEiZ-ZVZ) - Finds the best home internet deal at your address and compares true costs. [Alexander](https://x.com/amuse).
+- [BusySignal](https://x.ai/bot/zfupvzSQnURW-YdnW781u) - Keeps your UniFi home network fast with read-only monitoring and plain-English fixes. [MOPROD](https://x.com/4TechX).
+- [Pattern Check](https://x.ai/bot/tVI02-lI_WZ-Hv_v_iPF_) - Paste a confusing message and see the manipulation patterns it may contain. [billgwolcott](https://x.com/billgwolcott).

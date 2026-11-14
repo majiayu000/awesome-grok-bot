@@ -876,3 +876,4 @@ Back to [README](../../README.md)
 - [Efficient setup](https://x.ai/bot/Ph8iZzMwoAa-CrEg9pJO9) - A starter primary bot for new Grok Bot accounts that sets up efficient process habits. [Daniel](https://x.com/dafuga89).
 - [Lifeboat](https://x.ai/bot/YiW8gORWnd9lwFL8Cl-10) - Keeps a verified, restorable backup of all your Grok Bots and your Grok Bot setup. [Terry](https://x.com/Tchap248).
 - [Script This Routine](https://x.ai/bot/opM4RljMN_9IfQAIdybZv) - Cuts the tokens your Grok Bots spend by scripting mechanical routine steps and trimming skills and personas. [Kevin](https://x.com/Kevin_Logan).
+- [Bot Splitter](https://x.ai/bot/DbaRo6QPEhJI9uKF-xFnL) - Splits a bot that has grown too big into smaller focused bots without losing what it knows. [Carlos](https://x.com/Calrornds).

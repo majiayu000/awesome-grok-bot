@@ -161,3 +161,5 @@
 - [Cell Phone Plan Finder](https://x.ai/bot/RJSudgYj7pjh-0xawMGkf) - 找出在你居住和出行区域都好用的最便宜手机套餐. [Alexander](https://x.com/amuse).
 - [Christmas Deal Elf](https://x.ai/bot/6949mRuhFtUCnpp5CteeT) - 规划圣诞礼物并帮你省钱，附带节日风格的礼物清单. [Lightning](https://x.com/LightningMike23).
 - [Internet Plan Finder](https://x.ai/bot/-FHBDFDjhn10ClEiZ-ZVZ) - 按你的地址找出最划算的家庭宽带方案并对比真实成本. [Alexander](https://x.com/amuse).
+- [BusySignal](https://x.ai/bot/zfupvzSQnURW-YdnW781u) - 以只读方式监控你的 UniFi 家庭网络，并给出通俗易懂的修复步骤. [MOPROD](https://x.com/4TechX).
+- [Pattern Check](https://x.ai/bot/tVI02-lI_WZ-Hv_v_iPF_) - 粘贴一条让你困惑的消息，看看其中可能存在的操控套路. [billgwolcott](https://x.com/billgwolcott).

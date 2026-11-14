@@ -1019,3 +1019,4 @@
 - [dbs 内容教练](https://x.ai/bot/qonh7lyBBYsbUXsR9LtO2) - 帮做内容的人把内容做得更受欢迎，覆盖选题、写稿改稿、标题封面开头、口播、AI 味检查和发布前判断，方法来自开源的 dbskill. [dontbe](https://x.com/Sunkeke_AI).
 - [Video Champ](https://x.ai/bot/oVHufCJT9H3DmxoS-lWNN) - 把 Grok Imagine 变成视频制片、导演和剪辑，专做 9\:16 竖屏短视频. [Cola](https://x.com/benoit404).
 - [Reel Factory](https://x.ai/bot/rSZgmsDoe8vMrQLpxFhwB) - 短视频 AI 内容团队，帮你在细分领域找到爆款参考. [brian](https://x.com/bandersonlopez1).
+- [Post Visualizer](https://x.ai/bot/eqdK5UBYSbbMNHFeZs2oq) - 把一条 X 帖子变成带配音和动态字幕的竖屏视频. [Adem](https://x.com/AdemVessell_o).

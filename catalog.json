@@ -162744,6 +162744,91 @@
       "verified": false,
       "updated": "2026-11-14",
       "shelf": "raw"
+    },
+    {
+      "slug": "bot-splitter",
+      "name": "Bot Splitter",
+      "author": {
+        "name": "Carlos",
+        "url": "https://x.com/Calrornds"
+      },
+      "summary": "Splits a bot that has grown too big into smaller focused bots without losing what it knows",
+      "summary_zh": "把变得过大的机器人拆成职责清晰的小机器人，并保留它已有的记忆",
+      "import": "https://x.ai/bot/DbaRo6QPEhJI9uKF-xFnL",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/Calrornds/status/2121453961089552605"
+    },
+    {
+      "slug": "busysignal",
+      "name": "BusySignal",
+      "author": {
+        "name": "MOPROD",
+        "url": "https://x.com/4TechX"
+      },
+      "summary": "Keeps your UniFi home network fast with read-only monitoring and plain-English fixes",
+      "summary_zh": "以只读方式监控你的 UniFi 家庭网络，并给出通俗易懂的修复步骤",
+      "import": "https://x.ai/bot/zfupvzSQnURW-YdnW781u",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/4TechX/status/2121452548334961030"
+    },
+    {
+      "slug": "pattern-check",
+      "name": "Pattern Check",
+      "author": {
+        "name": "billgwolcott",
+        "url": "https://x.com/billgwolcott"
+      },
+      "summary": "Paste a confusing message and see the manipulation patterns it may contain",
+      "summary_zh": "粘贴一条让你困惑的消息，看看其中可能存在的操控套路",
+      "import": "https://x.ai/bot/tVI02-lI_WZ-Hv_v_iPF_",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/billgwolcott/status/2121437980837417423"
+    },
+    {
+      "slug": "post-visualizer",
+      "name": "Post Visualizer",
+      "author": {
+        "name": "Adem",
+        "url": "https://x.com/AdemVessell_o"
+      },
+      "summary": "Turns an X post into a vertical video with voiceover and animated captions",
+      "summary_zh": "把一条 X 帖子变成带配音和动态字幕的竖屏视频",
+      "import": "https://x.ai/bot/eqdK5UBYSbbMNHFeZs2oq",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/AdemVessell_o/status/2121413468574330924"
     }
   ]
 }

@@ -876,3 +876,4 @@
 - [Efficient setup](https://x.ai/bot/Ph8iZzMwoAa-CrEg9pJO9) - 面向新 Grok Bot 账号的入门主机器人，帮你建立高效的流程习惯. [Daniel](https://x.com/dafuga89).
 - [Lifeboat](https://x.ai/bot/YiW8gORWnd9lwFL8Cl-10) - 为你所有的 Grok Bot 和整体配置保留一份经过验证、可恢复的备份. [Terry](https://x.com/Tchap248).
 - [Script This Routine](https://x.ai/bot/opM4RljMN_9IfQAIdybZv) - 给机器人省 token，把机械的例行步骤改写成脚本并精简技能和人设. [Kevin](https://x.com/Kevin_Logan).
+- [Bot Splitter](https://x.ai/bot/DbaRo6QPEhJI9uKF-xFnL) - 把变得过大的机器人拆成职责清晰的小机器人，并保留它已有的记忆. [Carlos](https://x.com/Calrornds).
