@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7835 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 7840 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -107,17 +107,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 950 |
+| [Coding & shipping](#coding--shipping) | 951 |
 | [Inbox & calendar](#inbox--calendar) | 308 |
 | [Research & briefings](#research--briefings) | 909 |
 | [Customer & sales](#customer--sales) | 617 |
-| [Finance & ops](#finance--ops) | 768 |
-| [Content & publishing](#content--publishing) | 1018 |
-| [Personal admin](#personal-admin) | 2390 |
+| [Finance & ops](#finance--ops) | 769 |
+| [Content & publishing](#content--publishing) | 1020 |
+| [Personal admin](#personal-admin) | 2391 |
 | [Teams & handoffs](#teams--handoffs) | 875 |
-| **合计** | **7835** |
+| **合计** | **7840** |
 
-2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200；2026 年 11 月 4 日又新增 52 个，均返回 200；2026 年 11 月 6 日又新增 108 个，均返回 200；同日下午增量又新增 15 个，均返回 200；同日晚间增量又新增 14 个，均返回 200。2026-11-07 又有 32 个新分享返回 200 并已收录；同日下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，均返回 200。2026 年 11 月 8 日又新增 21 个，均返回 200；11 月 9 日下午增量又新增 8 个，均返回 200；11 月 10 日上午全量又新增 24 个、下午增量又新增 7 个、晚间增量又新增 1 个，均返回 200；11 月 11 日上午全量又新增 33 个，下午增量又新增 15 个、晚间增量又新增 4 个；2026 年 11 月 12 日上午全量又新增 33 个，下午增量又新增 8 个，晚间增量又新增 1 个，均返回 200；2026 年 11 月 13 日上午全量又新增 22 个，下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，均返回 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7835 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200；2026 年 11 月 4 日又新增 52 个，均返回 200；2026 年 11 月 6 日又新增 108 个，均返回 200；同日下午增量又新增 15 个，均返回 200；同日晚间增量又新增 14 个，均返回 200。2026-11-07 又有 32 个新分享返回 200 并已收录；同日下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，均返回 200。2026 年 11 月 8 日又新增 21 个，均返回 200；11 月 9 日下午增量又新增 8 个，均返回 200；11 月 10 日上午全量又新增 24 个、下午增量又新增 7 个、晚间增量又新增 1 个，均返回 200；11 月 11 日上午全量又新增 33 个，下午增量又新增 15 个、晚间增量又新增 4 个；2026 年 11 月 12 日上午全量又新增 33 个，下午增量又新增 8 个，晚间增量又新增 1 个，均返回 200；2026 年 11 月 13 日上午全量又新增 22 个，下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，晚间增量再新增 5 个，均返回 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7840 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -166,7 +166,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 - [Sid 的 Polymarket 日结简报](https://x.com/sidshekhar24/status/2089735218861326727) - 扫当天已结算盘口，写成报告。
 - [Peter Yang 的断舍离 Bot](https://x.com/petergyang/status/2089724101070086482) - 审计邮件、云盘和付费订阅，删之前等人点头。
 - [Peter Yang 在云电脑玩 Commander Keen](https://x.com/petergyang/status/2089502606079197347) - 在云桌面装上并玩起来，延迟照单全收。
-- [Kiara 让 Bot 代开错过的会](https://x.com/kiaraplds/status/2088321112073547835) - Bot 进会、自我介绍、做笔记。
+- [Kiara 让 Bot 代开错过的会](https://x.com/kiaraplds/status/2088321112073547840) - Bot 进会、自我介绍、做笔记。
 - [Gavin Baker 十五秒搭播客摘要](https://x.com/GavinSBaker/status/2089379355692527813) - 大约十五秒立起一个播客摘要，并拿它跟 Claude Code 那一刻比。
 - [Box 的授信委员会材料](https://x.com/Box/status/2087275866950938662) - 对账材料，再经 MCP 写回 Box。
 - [十九分钟搭 24/7 客服](https://www.youtube.com/watch?v=bUALqTpUze0) - 客服 Bot 靠例行任务，不是重写工单系统。
@@ -255,7 +255,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Coding & shipping
 
-完整列表（950 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
+完整列表（951 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
 
 ## Inbox & calendar
 
@@ -271,15 +271,15 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Finance & ops
 
-完整列表（768 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（769 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
-完整列表（1018 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（1020 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（2390 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
+完整列表（2391 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
 
 ## Teams & handoffs
 

@@ -163,3 +163,4 @@
 - [Internet Plan Finder](https://x.ai/bot/-FHBDFDjhn10ClEiZ-ZVZ) - 按你的地址找出最划算的家庭宽带方案并对比真实成本. [Alexander](https://x.com/amuse).
 - [BusySignal](https://x.ai/bot/zfupvzSQnURW-YdnW781u) - 以只读方式监控你的 UniFi 家庭网络，并给出通俗易懂的修复步骤. [MOPROD](https://x.com/4TechX).
 - [Pattern Check](https://x.ai/bot/tVI02-lI_WZ-Hv_v_iPF_) - 粘贴一条让你困惑的消息，看看其中可能存在的操控套路. [billgwolcott](https://x.com/billgwolcott).
+- [梦书](https://x.ai/bot/UpLG_O9I-O29U7Zu5DSY4) - 把你每天早上随口讲的梦写成温柔的小故事，配一张梦境图和一支仅供娱乐的梦签. [Xc](https://x.com/ZhenchengAI).

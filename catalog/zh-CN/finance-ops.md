@@ -770,3 +770,4 @@
 - [ShardiB2 monitor](https://x.ai/bot/VchfTCQh87MhLQt1J1but) - 盘中关注 ShardiB2 的公开 X 帖子，把她简短的交易笔记整理成含代码、方向和价位的通俗摘要. [Thomas](https://x.com/Tferriere).
 - [Mint](https://x.ai/bot/tvmfOk0l-iJ89F7bBFUKd) - 家庭财务总管，跟踪余额、账单、债务、储蓄和信用. [TechEcho](https://x.com/techechohq).
 - [QuickBooks Bookkeeper](https://x.ai/bot/vjeRu1uvIhqcoEjWgS5ac) - 为使用 QuickBooks Online 的小企业做账，谨慎对账. [Dr.](https://x.com/billycanada).
+- [工程咨询专家](https://x.ai/bot/DlixFdCuzb5XLbSaq4lFr) - 帮工程造价和审计从业者查阅知识库，梳理流程与计算规则，并整理数字化需求. [阿嚓](https://x.com/ramdolphlim).

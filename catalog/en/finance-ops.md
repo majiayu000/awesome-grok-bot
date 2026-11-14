@@ -770,3 +770,4 @@ Back to [README](../../README.md)
 - [ShardiB2 monitor](https://x.ai/bot/VchfTCQh87MhLQt1J1but) - Watches ShardiB2's public X posts during market hours and decodes her short trade notes into plain digests with ticker, direction and levels. [Thomas](https://x.com/Tferriere).
 - [Mint](https://x.ai/bot/tvmfOk0l-iJ89F7bBFUKd) - A household CFO for families that tracks balances, bills, debts, savings and credit. [TechEcho](https://x.com/techechohq).
 - [QuickBooks Bookkeeper](https://x.ai/bot/vjeRu1uvIhqcoEjWgS5ac) - A careful bookkeeper for small businesses on QuickBooks Online that reconciles statements. [Dr.](https://x.com/billycanada).
+- [工程咨询专家](https://x.ai/bot/DlixFdCuzb5XLbSaq4lFr) - Helps cost and audit professionals look up knowledge bases, map workflows and rules, and draft digital requirements. [阿嚓](https://x.com/ramdolphlim).

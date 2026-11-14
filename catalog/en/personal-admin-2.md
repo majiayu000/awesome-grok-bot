@@ -163,3 +163,4 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Internet Plan Finder](https://x.ai/bot/-FHBDFDjhn10ClEiZ-ZVZ) - Finds the best home internet deal at your address and compares true costs. [Alexander](https://x.com/amuse).
 - [BusySignal](https://x.ai/bot/zfupvzSQnURW-YdnW781u) - Keeps your UniFi home network fast with read-only monitoring and plain-English fixes. [MOPROD](https://x.com/4TechX).
 - [Pattern Check](https://x.ai/bot/tVI02-lI_WZ-Hv_v_iPF_) - Paste a confusing message and see the manipulation patterns it may contain. [billgwolcott](https://x.com/billgwolcott).
+- [梦书](https://x.ai/bot/UpLG_O9I-O29U7Zu5DSY4) - Turns the dream you mention each morning into a gentle story, a dream image and a for-fun almanac draw. [Xc](https://x.com/ZhenchengAI).

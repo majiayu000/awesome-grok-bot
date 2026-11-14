@@ -162829,6 +162829,111 @@
       "updated": "2026-11-14",
       "shelf": "raw",
       "source": "https://x.com/AdemVessell_o/status/2121413468574330924"
+    },
+    {
+      "slug": "bot-uplgo9io",
+      "name": "梦书",
+      "author": {
+        "name": "Xc",
+        "url": "https://x.com/ZhenchengAI"
+      },
+      "summary": "Turns the dream you mention each morning into a gentle story, a dream image and a for-fun almanac draw",
+      "summary_zh": "把你每天早上随口讲的梦写成温柔的小故事，配一张梦境图和一支仅供娱乐的梦签",
+      "import": "https://x.ai/bot/UpLG_O9I-O29U7Zu5DSY4",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/ZhenchengAI/status/2121569045363236901"
+    },
+    {
+      "slug": "bot-bkiwfsjr",
+      "name": "Xフォロー整理くん",
+      "author": {
+        "name": "ふくぶん(Fukubun)",
+        "url": "https://x.com/FFBuncho"
+      },
+      "summary": "Finds inactive or spammy accounts among who you follow and your followers, then unfollows only the ones you approve, slowly",
+      "summary_zh": "从你关注的和关注你的账号里找出不活跃或疑似垃圾的，只按你批准的名单慢慢清理",
+      "import": "https://x.ai/bot/BKiWfSJRirU2aNGKFwIm_",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/FFBuncho/status/2121560282724262267"
+    },
+    {
+      "slug": "mr-comic",
+      "name": "Mr. Comic",
+      "author": {
+        "name": "Jisu11",
+        "url": "https://x.com/Jisu11"
+      },
+      "summary": "Helps creators run a serialized AI-assisted comic or story series with a character bible and locked looks",
+      "summary_zh": "帮创作者用 AI 辅助连载漫画或故事，维护角色设定集并锁定角色形象",
+      "import": "https://x.ai/bot/aTBIfl6IXNao-zybKiQYW",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/Jisu11/status/2121549606005678186"
+    },
+    {
+      "slug": "bot-dlixfdcu",
+      "name": "工程咨询专家",
+      "author": {
+        "name": "阿嚓",
+        "url": "https://x.com/ramdolphlim"
+      },
+      "summary": "Helps cost and audit professionals look up knowledge bases, map workflows and rules, and draft digital requirements",
+      "summary_zh": "帮工程造价和审计从业者查阅知识库，梳理流程与计算规则，并整理数字化需求",
+      "import": "https://x.ai/bot/DlixFdCuzb5XLbSaq4lFr",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/ramdolphlim/status/2121544909849022656"
+    },
+    {
+      "slug": "bot-4zydih9b",
+      "name": "电脑Bot",
+      "author": {
+        "name": "Chasen",
+        "url": "https://x.com/chasen_liao"
+      },
+      "summary": "Chinese computer and server caretaker that installs software, checks resources, fixes networks and restores setups",
+      "summary_zh": "中文电脑和服务器管家，负责装软件、查资源、排查网络并在重建后恢复环境",
+      "import": "https://x.ai/bot/4Zydih9b5ja4H_rw1JfYM",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/chasen_liao/status/2121520995546853861"
     }
   ]
 }

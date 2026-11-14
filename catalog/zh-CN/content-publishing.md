@@ -1020,3 +1020,5 @@
 - [Video Champ](https://x.ai/bot/oVHufCJT9H3DmxoS-lWNN) - 把 Grok Imagine 变成视频制片、导演和剪辑，专做 9\:16 竖屏短视频. [Cola](https://x.com/benoit404).
 - [Reel Factory](https://x.ai/bot/rSZgmsDoe8vMrQLpxFhwB) - 短视频 AI 内容团队，帮你在细分领域找到爆款参考. [brian](https://x.com/bandersonlopez1).
 - [Post Visualizer](https://x.ai/bot/eqdK5UBYSbbMNHFeZs2oq) - 把一条 X 帖子变成带配音和动态字幕的竖屏视频. [Adem](https://x.com/AdemVessell_o).
+- [Xフォロー整理くん](https://x.ai/bot/BKiWfSJRirU2aNGKFwIm_) - 从你关注的和关注你的账号里找出不活跃或疑似垃圾的，只按你批准的名单慢慢清理. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
+- [Mr. Comic](https://x.ai/bot/aTBIfl6IXNao-zybKiQYW) - 帮创作者用 AI 辅助连载漫画或故事，维护角色设定集并锁定角色形象. [Jisu11](https://x.com/Jisu11).

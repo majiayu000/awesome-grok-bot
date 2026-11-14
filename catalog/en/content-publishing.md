@@ -1020,3 +1020,5 @@ Back to [README](../../README.md)
 - [Video Champ](https://x.ai/bot/oVHufCJT9H3DmxoS-lWNN) - Turns Grok Imagine into a video producer, director and editor for 9\:16 short videos. [Cola](https://x.com/benoit404).
 - [Reel Factory](https://x.ai/bot/rSZgmsDoe8vMrQLpxFhwB) - An AI content team for short-form video that finds viral references in your niche. [brian](https://x.com/bandersonlopez1).
 - [Post Visualizer](https://x.ai/bot/eqdK5UBYSbbMNHFeZs2oq) - Turns an X post into a vertical video with voiceover and animated captions. [Adem](https://x.com/AdemVessell_o).
+- [Xフォロー整理くん](https://x.ai/bot/BKiWfSJRirU2aNGKFwIm_) - Finds inactive or spammy accounts among who you follow and your followers, then unfollows only the ones you approve, slowly. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
+- [Mr. Comic](https://x.ai/bot/aTBIfl6IXNao-zybKiQYW) - Helps creators run a serialized AI-assisted comic or story series with a character bible and locked looks. [Jisu11](https://x.com/Jisu11).
