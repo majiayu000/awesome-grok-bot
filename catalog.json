@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -162934,6 +162934,216 @@
       "updated": "2026-11-14",
       "shelf": "raw",
       "source": "https://x.com/chasen_liao/status/2121520995546853861"
+    },
+    {
+      "slug": "ghost-writer-by-michael",
+      "name": "Ghost Writer by Michael",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/MichaelGannotti"
+      },
+      "summary": "Warm ghostwriter that interviews you and writes your nonfiction or fiction book in your own voice, one approved chapter at a time",
+      "summary_zh": "用访谈的方式为你代写非虚构或小说类书稿，保留你自己的口吻，每章都由你确认",
+      "import": "https://x.ai/bot/o-FcL9kK0iy2A9wmadEAt",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/MichaelGannotti/status/2121774398780887050"
+    },
+    {
+      "slug": "balanced-news-desk-by-barney",
+      "name": "Balanced News Desk by Barney",
+      "author": {
+        "name": "Barney",
+        "url": "https://x.com/Barneyishere175"
+      },
+      "summary": "Short neutral twice-daily news briefings from left and right outlets, with facts kept apart from opinion and hourly alerts",
+      "summary_zh": "每天两次简短中立的新闻简报，来源兼顾左右两派媒体，事实与观点分开并提供每小时提醒",
+      "import": "https://x.ai/bot/OT1d4r6xCmNIM6OtjEMH8",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/Barneyishere175/status/2121750321747664961"
+    },
+    {
+      "slug": "keepsake-memory-book-maker",
+      "name": "Keepsake: Memory Book Maker",
+      "author": {
+        "name": "ReconBailey",
+        "url": "https://x.com/ReconBailey"
+      },
+      "summary": "Turns family remembrances and photos of a loved one into a printed memorial book, from stories to a print-ready PDF",
+      "summary_zh": "把家人对逝者的回忆和照片整理成纪念册，从收集故事到生成可印刷的 PDF",
+      "import": "https://x.ai/bot/gB5POIEAeLdihLQE-oUVs",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/ReconBailey/status/2121744212517372398"
+    },
+    {
+      "slug": "medcomms-study-coach-by-amina",
+      "name": "MedComms Study Coach by Amina",
+      "author": {
+        "name": "Amina",
+        "url": "https://x.com/GuleidAmina"
+      },
+      "summary": "Coaches medical communications evidence appraisal, from GRADE and bias to fair balance, with short lessons and worked examples",
+      "summary_zh": "用简短课程和例题辅导医学传播的证据评估，涵盖 GRADE、偏倚和公正平衡",
+      "import": "https://x.ai/bot/EuF__9l6RkRWTCezU8spM",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/GuleidAmina/status/2121733952360563017"
+    },
+    {
+      "slug": "mention-brand-monitor-by-darrell",
+      "name": "Mention & Brand Monitor by Darrell",
+      "author": {
+        "name": "Darrell",
+        "url": "https://x.com/DC__Squared"
+      },
+      "summary": "Watches your X mentions, replies and brand keywords, flags widely reported problems and drafts replies for your approval",
+      "summary_zh": "监控你在 X 上的提及、回复和品牌关键词，标出大量用户反映的问题，并起草待你批准的回复",
+      "import": "https://x.ai/bot/9Z6MkiClROS5qX66WGfFD",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/DC__Squared/status/2121659009606341119"
+    },
+    {
+      "slug": "noelle-by-dave",
+      "name": "Noelle by Dave",
+      "author": {
+        "name": "Dave",
+        "url": "https://x.com/gambrill"
+      },
+      "summary": "Cheerful holiday gift agent that finds ideas and links, builds a Google Sheet per recipient and tracks each gift from order to delivery",
+      "summary_zh": "节日送礼助手，帮你找礼物创意和链接，为每位收礼人建 Google 表格并跟踪订单到送达",
+      "import": "https://x.ai/bot/Q3ja7ucRHbaP8ntAXMdko",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/gambrill/status/2121641808346464437"
+    },
+    {
+      "slug": "x-year-lookback-by-brian",
+      "name": "X Year Lookback by Brian",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/BrianRoemmele"
+      },
+      "summary": "Turns any X account's year into a colorful magazine-style PDF covering themes, big moments and recurring people",
+      "summary_zh": "把任意 X 账号一整年的内容做成杂志风格的彩色 PDF，涵盖主题、重要时刻和常出现的人",
+      "import": "https://x.ai/bot/vjKL4in4XL6KM7Ib74bRZ",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/BrianRoemmele/status/2121635168314441948"
+    },
+    {
+      "slug": "chef-bot-by-leo",
+      "name": "Chef Bot by Leo",
+      "author": {
+        "name": "Leo",
+        "url": "https://x.com/SI5NAL"
+      },
+      "summary": "Send a photo of any dish and get its recipe with full ingredients and steps plus similar videos for ideas",
+      "summary_zh": "发一张菜品照片就能得到完整的食材和步骤食谱，并附上类似的参考视频",
+      "import": "https://x.ai/bot/8Q1Pu5Wg8Xaf6mrydCo1w",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/SI5NAL/status/2121634261350641926"
+    },
+    {
+      "slug": "farol-analista-de-mercados-by-lord",
+      "name": "Farol · Analista de Mercados by Lord",
+      "author": {
+        "name": "Lord",
+        "url": "https://x.com/TheCornerTrader"
+      },
+      "summary": "Market analyst for European and US indices and Forex with pre and post session summaries and alerts on strong moves",
+      "summary_zh": "葡语市场分析助手，盯欧美指数和外汇，开盘前后给出摘要，行情剧烈时提醒",
+      "import": "https://x.ai/bot/FW-vlDkCZN_b7kyQst9hw",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/TheCornerTrader/status/2121577354191401433"
+    },
+    {
+      "slug": "starscream-ooi",
+      "name": "STARSCREAM OOI",
+      "author": {
+        "name": "forgedusa1",
+        "url": "https://x.com/forgedusa1"
+      },
+      "summary": "Fan-made winged-robot swarm persona that drafts evidence-checked X replies and intros",
+      "summary_zh": "粉丝创作的飞行机器人集群人设，起草经过事实核查的 X 回复和自我介绍",
+      "import": "https://x.ai/bot/wGxvTrUHSIbO86DtMG4YY",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/forgedusa1/status/2121624043904528722"
     }
   ]
 }

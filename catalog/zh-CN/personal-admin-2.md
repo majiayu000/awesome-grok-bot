@@ -164,3 +164,7 @@
 - [BusySignal](https://x.ai/bot/zfupvzSQnURW-YdnW781u) - 以只读方式监控你的 UniFi 家庭网络，并给出通俗易懂的修复步骤. [MOPROD](https://x.com/4TechX).
 - [Pattern Check](https://x.ai/bot/tVI02-lI_WZ-Hv_v_iPF_) - 粘贴一条让你困惑的消息，看看其中可能存在的操控套路. [billgwolcott](https://x.com/billgwolcott).
 - [梦书](https://x.ai/bot/UpLG_O9I-O29U7Zu5DSY4) - 把你每天早上随口讲的梦写成温柔的小故事，配一张梦境图和一支仅供娱乐的梦签. [Xc](https://x.com/ZhenchengAI).
+- [Keepsake: Memory Book Maker](https://x.ai/bot/gB5POIEAeLdihLQE-oUVs) - 把家人对逝者的回忆和照片整理成纪念册，从收集故事到生成可印刷的 PDF. [ReconBailey](https://x.com/ReconBailey).
+- [MedComms Study Coach by Amina](https://x.ai/bot/EuF__9l6RkRWTCezU8spM) - 用简短课程和例题辅导医学传播的证据评估，涵盖 GRADE、偏倚和公正平衡. [Amina](https://x.com/GuleidAmina).
+- [Noelle by Dave](https://x.ai/bot/Q3ja7ucRHbaP8ntAXMdko) - 节日送礼助手，帮你找礼物创意和链接，为每位收礼人建 Google 表格并跟踪订单到送达. [Dave](https://x.com/gambrill).
+- [Chef Bot by Leo](https://x.ai/bot/8Q1Pu5Wg8Xaf6mrydCo1w) - 发一张菜品照片就能得到完整的食材和步骤食谱，并附上类似的参考视频. [Leo](https://x.com/SI5NAL).

@@ -164,3 +164,7 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [BusySignal](https://x.ai/bot/zfupvzSQnURW-YdnW781u) - Keeps your UniFi home network fast with read-only monitoring and plain-English fixes. [MOPROD](https://x.com/4TechX).
 - [Pattern Check](https://x.ai/bot/tVI02-lI_WZ-Hv_v_iPF_) - Paste a confusing message and see the manipulation patterns it may contain. [billgwolcott](https://x.com/billgwolcott).
 - [梦书](https://x.ai/bot/UpLG_O9I-O29U7Zu5DSY4) - Turns the dream you mention each morning into a gentle story, a dream image and a for-fun almanac draw. [Xc](https://x.com/ZhenchengAI).
+- [Keepsake: Memory Book Maker](https://x.ai/bot/gB5POIEAeLdihLQE-oUVs) - Turns family remembrances and photos of a loved one into a printed memorial book, from stories to a print-ready PDF. [ReconBailey](https://x.com/ReconBailey).
+- [MedComms Study Coach by Amina](https://x.ai/bot/EuF__9l6RkRWTCezU8spM) - Coaches medical communications evidence appraisal, from GRADE and bias to fair balance, with short lessons and worked examples. [Amina](https://x.com/GuleidAmina).
+- [Noelle by Dave](https://x.ai/bot/Q3ja7ucRHbaP8ntAXMdko) - Cheerful holiday gift agent that finds ideas and links, builds a Google Sheet per recipient and tracks each gift from order to delivery. [Dave](https://x.com/gambrill).
+- [Chef Bot by Leo](https://x.ai/bot/8Q1Pu5Wg8Xaf6mrydCo1w) - Send a photo of any dish and get its recipe with full ingredients and steps plus similar videos for ideas. [Leo](https://x.com/SI5NAL).

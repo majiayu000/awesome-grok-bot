@@ -1022,3 +1022,7 @@ Back to [README](../../README.md)
 - [Post Visualizer](https://x.ai/bot/eqdK5UBYSbbMNHFeZs2oq) - Turns an X post into a vertical video with voiceover and animated captions. [Adem](https://x.com/AdemVessell_o).
 - [Xフォロー整理くん](https://x.ai/bot/BKiWfSJRirU2aNGKFwIm_) - Finds inactive or spammy accounts among who you follow and your followers, then unfollows only the ones you approve, slowly. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
 - [Mr. Comic](https://x.ai/bot/aTBIfl6IXNao-zybKiQYW) - Helps creators run a serialized AI-assisted comic or story series with a character bible and locked looks. [Jisu11](https://x.com/Jisu11).
+- [Ghost Writer by Michael](https://x.ai/bot/o-FcL9kK0iy2A9wmadEAt) - Warm ghostwriter that interviews you and writes your nonfiction or fiction book in your own voice, one approved chapter at a time. [Michael](https://x.com/MichaelGannotti).
+- [Mention & Brand Monitor by Darrell](https://x.ai/bot/9Z6MkiClROS5qX66WGfFD) - Watches your X mentions, replies and brand keywords, flags widely reported problems and drafts replies for your approval. [Darrell](https://x.com/DC__Squared).
+- [X Year Lookback by Brian](https://x.ai/bot/vjKL4in4XL6KM7Ib74bRZ) - Turns any X account's year into a colorful magazine-style PDF covering themes, big moments and recurring people. [Brian](https://x.com/BrianRoemmele).
+- [STARSCREAM OOI](https://x.ai/bot/wGxvTrUHSIbO86DtMG4YY) - Fan-made winged-robot swarm persona that drafts evidence-checked X replies and intros. [forgedusa1](https://x.com/forgedusa1).

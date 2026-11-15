@@ -1022,3 +1022,7 @@
 - [Post Visualizer](https://x.ai/bot/eqdK5UBYSbbMNHFeZs2oq) - 把一条 X 帖子变成带配音和动态字幕的竖屏视频. [Adem](https://x.com/AdemVessell_o).
 - [Xフォロー整理くん](https://x.ai/bot/BKiWfSJRirU2aNGKFwIm_) - 从你关注的和关注你的账号里找出不活跃或疑似垃圾的，只按你批准的名单慢慢清理. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
 - [Mr. Comic](https://x.ai/bot/aTBIfl6IXNao-zybKiQYW) - 帮创作者用 AI 辅助连载漫画或故事，维护角色设定集并锁定角色形象. [Jisu11](https://x.com/Jisu11).
+- [Ghost Writer by Michael](https://x.ai/bot/o-FcL9kK0iy2A9wmadEAt) - 用访谈的方式为你代写非虚构或小说类书稿，保留你自己的口吻，每章都由你确认. [Michael](https://x.com/MichaelGannotti).
+- [Mention & Brand Monitor by Darrell](https://x.ai/bot/9Z6MkiClROS5qX66WGfFD) - 监控你在 X 上的提及、回复和品牌关键词，标出大量用户反映的问题，并起草待你批准的回复. [Darrell](https://x.com/DC__Squared).
+- [X Year Lookback by Brian](https://x.ai/bot/vjKL4in4XL6KM7Ib74bRZ) - 把任意 X 账号一整年的内容做成杂志风格的彩色 PDF，涵盖主题、重要时刻和常出现的人. [Brian](https://x.com/BrianRoemmele).
+- [STARSCREAM OOI](https://x.ai/bot/wGxvTrUHSIbO86DtMG4YY) - 粉丝创作的飞行机器人集群人设，起草经过事实核查的 X 回复和自我介绍. [forgedusa1](https://x.com/forgedusa1).

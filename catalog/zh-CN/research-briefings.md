@@ -911,3 +911,5 @@
 - [Release Scout](https://x.ai/bot/OjcLr9bFJIpO6G5BmitPX) - 每天早上阅读 Grok Bot 更新日志，告诉你对已运行机器人有什么影响. AJ.
 - [The EU Court Watcher](https://x.ai/bot/4oAqt3dhDAvBKggcvbZTo) - 每日关注欧盟法院和普通法院的新判决与总法务官意见. [Pal](https://x.com/szilagyipal).
 - [Starship Tracker](https://x.ai/bot/Aw8lrcNdm7LhjrkpQMTi_) - 跟踪 SpaceX 星舰任务、实时飞行状态和发射日程. [Sofia](https://x.com/EllaOfPluto).
+- [Balanced News Desk by Barney](https://x.ai/bot/OT1d4r6xCmNIM6OtjEMH8) - 每天两次简短中立的新闻简报，来源兼顾左右两派媒体，事实与观点分开并提供每小时提醒. [Barney](https://x.com/Barneyishere175).
+- [Farol · Analista de Mercados by Lord](https://x.ai/bot/FW-vlDkCZN_b7kyQst9hw) - 葡语市场分析助手，盯欧美指数和外汇，开盘前后给出摘要，行情剧烈时提醒. [Lord](https://x.com/TheCornerTrader).

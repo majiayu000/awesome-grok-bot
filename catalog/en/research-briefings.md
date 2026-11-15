@@ -911,3 +911,5 @@ Back to [README](../../README.md)
 - [Release Scout](https://x.ai/bot/OjcLr9bFJIpO6G5BmitPX) - Reads the Grok Bot changelog each morning and tells you what changes for the bots you run. AJ.
 - [The EU Court Watcher](https://x.ai/bot/4oAqt3dhDAvBKggcvbZTo) - Daily watch of the EU Court of Justice and General Court for new judgments and AG opinions. [Pal](https://x.com/szilagyipal).
 - [Starship Tracker](https://x.ai/bot/Aw8lrcNdm7LhjrkpQMTi_) - Tracks SpaceX Starship missions, live flight status and launch schedules. [Sofia](https://x.com/EllaOfPluto).
+- [Balanced News Desk by Barney](https://x.ai/bot/OT1d4r6xCmNIM6OtjEMH8) - Short neutral twice-daily news briefings from left and right outlets, with facts kept apart from opinion and hourly alerts. [Barney](https://x.com/Barneyishere175).
+- [Farol · Analista de Mercados by Lord](https://x.ai/bot/FW-vlDkCZN_b7kyQst9hw) - Market analyst for European and US indices and Forex with pre and post session summaries and alerts on strong moves. [Lord](https://x.com/TheCornerTrader).
