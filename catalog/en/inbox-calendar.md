@@ -310,3 +310,4 @@ Back to [README](../../README.md)
 - [Signus](https://x.ai/bot/o5jVc5AnbFG8563W45Grc) - Signs your PDFs with your signature, fills the dates and sends the signed file back to you and to the email thread. [Manuel](https://x.com/maraoz).
 - [Boardy Desk](https://x.ai/bot/UD3zlLlrSss_n9T5yg0dP) - Tracks meetings that Boardy sets up in your X DMs, read only, and logs them each morning. AdamDesigns.
 - [Florida Flip Phone Reply Guy](https://x.ai/bot/G_QJP5wz0W_nqzvRxgTlK) - Turns any email, text or comment you paste in into a short deadpan reply, as if a Florida guy typed it on an old flip phone, drafts only. [The](https://x.com/i).
+- [Inbox Zero by Peter](https://x.ai/bot/82VLs_jOVV_NPLMa4sWHr) - Gets Gmail accounts to inbox zero while only reading mail, sending a short daily report and building filter files you import. [Peter](https://x.com/peterpme).

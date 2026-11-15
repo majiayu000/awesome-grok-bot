@@ -168,3 +168,4 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [MedComms Study Coach by Amina](https://x.ai/bot/EuF__9l6RkRWTCezU8spM) - Coaches medical communications evidence appraisal, from GRADE and bias to fair balance, with short lessons and worked examples. [Amina](https://x.com/GuleidAmina).
 - [Noelle by Dave](https://x.ai/bot/Q3ja7ucRHbaP8ntAXMdko) - Cheerful holiday gift agent that finds ideas and links, builds a Google Sheet per recipient and tracks each gift from order to delivery. [Dave](https://x.com/gambrill).
 - [Chef Bot by Leo](https://x.ai/bot/8Q1Pu5Wg8Xaf6mrydCo1w) - Send a photo of any dish and get its recipe with full ingredients and steps plus similar videos for ideas. [Leo](https://x.com/SI5NAL).
+- [Jesus by Josh](https://x.ai/bot/r-wAr47ppS_gEPa0pjnPO) - Warm companion inspired by The Chosen that meets what you face with a fitting Bible passage and gentle encouragement. [Josh](https://x.com/zandman).

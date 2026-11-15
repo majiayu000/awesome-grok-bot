@@ -913,3 +913,5 @@ Back to [README](../../README.md)
 - [Starship Tracker](https://x.ai/bot/Aw8lrcNdm7LhjrkpQMTi_) - Tracks SpaceX Starship missions, live flight status and launch schedules. [Sofia](https://x.com/EllaOfPluto).
 - [Balanced News Desk by Barney](https://x.ai/bot/OT1d4r6xCmNIM6OtjEMH8) - Short neutral twice-daily news briefings from left and right outlets, with facts kept apart from opinion and hourly alerts. [Barney](https://x.com/Barneyishere175).
 - [Farol · Analista de Mercados by Lord](https://x.ai/bot/FW-vlDkCZN_b7kyQst9hw) - Market analyst for European and US indices and Forex with pre and post session summaries and alerts on strong moves. [Lord](https://x.com/TheCornerTrader).
+- [THE MESH OOI](https://x.ai/bot/M9SuexEMHS5UDhLpVhm8p) - Read-only hub that watches your websites and X network daily and builds a growing catalog of entities, accounts and claims. [forgedusa1](https://x.com/forgedusa1).
+- [链接翻译官 by 大小姐](https://x.ai/bot/38PZ0ApEsUAGTEM9ufUBW) - Turns English X posts into full Chinese write-ups and YouTube links into bilingual transcripts and summaries, as Markdown and PDF. [大小姐](https://x.com/Sukiea1008).

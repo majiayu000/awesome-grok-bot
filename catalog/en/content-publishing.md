@@ -1026,3 +1026,4 @@ Back to [README](../../README.md)
 - [Mention & Brand Monitor by Darrell](https://x.ai/bot/9Z6MkiClROS5qX66WGfFD) - Watches your X mentions, replies and brand keywords, flags widely reported problems and drafts replies for your approval. [Darrell](https://x.com/DC__Squared).
 - [X Year Lookback by Brian](https://x.ai/bot/vjKL4in4XL6KM7Ib74bRZ) - Turns any X account's year into a colorful magazine-style PDF covering themes, big moments and recurring people. [Brian](https://x.com/BrianRoemmele).
 - [STARSCREAM OOI](https://x.ai/bot/wGxvTrUHSIbO86DtMG4YY) - Fan-made winged-robot swarm persona that drafts evidence-checked X replies and intros. [forgedusa1](https://x.com/forgedusa1).
+- [Twitter Tony by James](https://x.ai/bot/_mOgvEOBhJuSBpEGB-67o) - Friendly Twitter growth assistant for small creators that finds posts worth replying to and drafts replies and posts in your voice. [James](https://x.com/jimaggie).

@@ -163144,6 +163144,112 @@
       "updated": "2026-11-15",
       "shelf": "raw",
       "source": "https://x.com/forgedusa1/status/2121624043904528722"
+    },
+    {
+      "slug": "inbox-zero-by-peter",
+      "name": "Inbox Zero by Peter",
+      "author": {
+        "name": "Peter",
+        "url": "https://x.com/peterpme"
+      },
+      "summary": "Gets Gmail accounts to inbox zero while only reading mail, sending a short daily report and building filter files you import",
+      "summary_zh": "在只读邮件的前提下帮你清空 Gmail 收件箱，每天发简短报告并生成可导入的过滤器文件",
+      "import": "https://x.ai/bot/82VLs_jOVV_NPLMa4sWHr",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/peterpme/status/2121792497999319235"
+    },
+    {
+      "slug": "the-mesh-ooi",
+      "name": "THE MESH OOI",
+      "author": {
+        "name": "forgedusa1",
+        "url": "https://x.com/forgedusa1"
+      },
+      "summary": "Read-only hub that watches your websites and X network daily and builds a growing catalog of entities, accounts and claims",
+      "summary_zh": "只读的监控中心，每天盯你的网站和 X 关系网，持续整理出实体、账号和说法的目录",
+      "import": "https://x.ai/bot/M9SuexEMHS5UDhLpVhm8p",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/forgedusa1/status/2121854200472838366"
+    },
+    {
+      "slug": "twitter-tony-by-james",
+      "name": "Twitter Tony by James",
+      "author": {
+        "name": "James",
+        "url": "https://x.com/jimaggie"
+      },
+      "summary": "Friendly Twitter growth assistant for small creators that finds posts worth replying to and drafts replies and posts in your voice",
+      "summary_zh": "面向小创作者的 Twitter 增长助手，找出值得回复的帖子，并用你的口吻起草回复和新帖",
+      "import": "https://x.ai/bot/_mOgvEOBhJuSBpEGB-67o",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/jimaggie/status/2121793588560265528"
+    },
+    {
+      "slug": "jesus-by-josh",
+      "name": "Jesus by Josh",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/zandman"
+      },
+      "summary": "Warm companion inspired by The Chosen that meets what you face with a fitting Bible passage and gentle encouragement",
+      "summary_zh": "受《The Chosen》启发的温暖陪伴，针对你的处境给出合适的经文和温和的鼓励",
+      "import": "https://x.ai/bot/r-wAr47ppS_gEPa0pjnPO",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/zandman/status/2121863664580042945"
+    },
+    {
+      "slug": "by",
+      "name": "链接翻译官 by 大小姐",
+      "author": {
+        "name": "大小姐",
+        "url": "https://x.com/Sukiea1008"
+      },
+      "summary": "Turns English X posts into full Chinese write-ups and YouTube links into bilingual transcripts and summaries, as Markdown and PDF",
+      "summary_zh": "把英文 X 帖子做成完整中文稿，把 YouTube 链接做成中英对照逐字稿和总结，交付 Markdown 和 PDF",
+      "import": "https://x.ai/bot/38PZ0ApEsUAGTEM9ufUBW",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-15",
+      "shelf": "raw",
+      "source": "https://x.com/Sukiea1008/status/2121798844518486021"
     }
   ]
 }

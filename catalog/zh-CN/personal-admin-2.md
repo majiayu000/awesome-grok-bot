@@ -168,3 +168,4 @@
 - [MedComms Study Coach by Amina](https://x.ai/bot/EuF__9l6RkRWTCezU8spM) - 用简短课程和例题辅导医学传播的证据评估，涵盖 GRADE、偏倚和公正平衡. [Amina](https://x.com/GuleidAmina).
 - [Noelle by Dave](https://x.ai/bot/Q3ja7ucRHbaP8ntAXMdko) - 节日送礼助手，帮你找礼物创意和链接，为每位收礼人建 Google 表格并跟踪订单到送达. [Dave](https://x.com/gambrill).
 - [Chef Bot by Leo](https://x.ai/bot/8Q1Pu5Wg8Xaf6mrydCo1w) - 发一张菜品照片就能得到完整的食材和步骤食谱，并附上类似的参考视频. [Leo](https://x.com/SI5NAL).
+- [Jesus by Josh](https://x.ai/bot/r-wAr47ppS_gEPa0pjnPO) - 受《The Chosen》启发的温暖陪伴，针对你的处境给出合适的经文和温和的鼓励. [Josh](https://x.com/zandman).

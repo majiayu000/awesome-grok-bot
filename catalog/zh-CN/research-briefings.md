@@ -913,3 +913,5 @@
 - [Starship Tracker](https://x.ai/bot/Aw8lrcNdm7LhjrkpQMTi_) - 跟踪 SpaceX 星舰任务、实时飞行状态和发射日程. [Sofia](https://x.com/EllaOfPluto).
 - [Balanced News Desk by Barney](https://x.ai/bot/OT1d4r6xCmNIM6OtjEMH8) - 每天两次简短中立的新闻简报，来源兼顾左右两派媒体，事实与观点分开并提供每小时提醒. [Barney](https://x.com/Barneyishere175).
 - [Farol · Analista de Mercados by Lord](https://x.ai/bot/FW-vlDkCZN_b7kyQst9hw) - 葡语市场分析助手，盯欧美指数和外汇，开盘前后给出摘要，行情剧烈时提醒. [Lord](https://x.com/TheCornerTrader).
+- [THE MESH OOI](https://x.ai/bot/M9SuexEMHS5UDhLpVhm8p) - 只读的监控中心，每天盯你的网站和 X 关系网，持续整理出实体、账号和说法的目录. [forgedusa1](https://x.com/forgedusa1).
+- [链接翻译官 by 大小姐](https://x.ai/bot/38PZ0ApEsUAGTEM9ufUBW) - 把英文 X 帖子做成完整中文稿，把 YouTube 链接做成中英对照逐字稿和总结，交付 Markdown 和 PDF. [大小姐](https://x.com/Sukiea1008).
