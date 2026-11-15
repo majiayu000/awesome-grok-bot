@@ -877,3 +877,4 @@ Back to [README](../../README.md)
 - [Lifeboat](https://x.ai/bot/YiW8gORWnd9lwFL8Cl-10) - Keeps a verified, restorable backup of all your Grok Bots and your Grok Bot setup. [Terry](https://x.com/Tchap248).
 - [Script This Routine](https://x.ai/bot/opM4RljMN_9IfQAIdybZv) - Cuts the tokens your Grok Bots spend by scripting mechanical routine steps and trimming skills and personas. [Kevin](https://x.com/Kevin_Logan).
 - [Bot Splitter](https://x.ai/bot/DbaRo6QPEhJI9uKF-xFnL) - Splits a bot that has grown too big into smaller focused bots without losing what it knows. [Carlos](https://x.com/Calrornds).
+- [MausBot by Omkar](https://x.ai/bot/3i4Tvjckmdk05UwntFeNo) - Moves your Bots with their memories, skills and routines into MausBot, an open source Grok Bot alternative, leaving the originals untouched. [Omkar](https://x.com/BuildwithOmkarr).

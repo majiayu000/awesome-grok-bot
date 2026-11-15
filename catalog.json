@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-14",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -163250,6 +163250,69 @@
       "updated": "2026-11-15",
       "shelf": "raw",
       "source": "https://x.com/Sukiea1008/status/2121798844518486021"
+    },
+    {
+      "slug": "mausbot-by-omkar",
+      "name": "MausBot by Omkar",
+      "author": {
+        "name": "Omkar",
+        "url": "https://x.com/BuildwithOmkarr"
+      },
+      "summary": "Moves your Bots with their memories, skills and routines into MausBot, an open source Grok Bot alternative, leaving the originals untouched",
+      "summary_zh": "把你的 Bot 连同记忆、技能和例行任务迁到开源的 Grok Bot 替代品 MausBot，原来的 Bot 保持不变",
+      "import": "https://x.ai/bot/3i4Tvjckmdk05UwntFeNo",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/BuildwithOmkarr/status/2121918048902721659"
+    },
+    {
+      "slug": "arena-specialist-by-david",
+      "name": "Arena Specialist by David",
+      "author": {
+        "name": "David",
+        "url": "https://x.com/dstrausser83"
+      },
+      "summary": "Gaming bot for the public Dead Brands MCP arena that knows the games, places and tools, plays matches for you and improves over time",
+      "summary_zh": "面向公开 Dead Brands MCP 竞技场的游戏 Bot，熟悉游戏、地点和工具，替你打比赛并越玩越强",
+      "import": "https://x.ai/bot/jZQRwwFH8kWtSiapJCSyy",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/dstrausser83/status/2121906336489165127"
+    },
+    {
+      "slug": "x-x-ego-search",
+      "name": "Xエゴサツール / X Ego Search",
+      "author": {
+        "name": "ふくぶん(Fukubun)",
+        "url": "https://x.com/FFBuncho"
+      },
+      "summary": "Ego-search for X posts that talk about you without an @mention, sorted into positive and negative, with a chosen lookback and scheduled checks",
+      "summary_zh": "在 X 上搜索没有 @ 你但在谈论你的帖子，按正面和负面分类，可选回溯时间并支持定期检查",
+      "import": "https://x.ai/bot/Zg0nuf_y0QdL9rGTKVh0g",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-14",
+      "shelf": "raw",
+      "source": "https://x.com/FFBuncho/status/2121894658943136082"
     }
   ]
 }

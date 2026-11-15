@@ -169,3 +169,4 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Noelle by Dave](https://x.ai/bot/Q3ja7ucRHbaP8ntAXMdko) - Cheerful holiday gift agent that finds ideas and links, builds a Google Sheet per recipient and tracks each gift from order to delivery. [Dave](https://x.com/gambrill).
 - [Chef Bot by Leo](https://x.ai/bot/8Q1Pu5Wg8Xaf6mrydCo1w) - Send a photo of any dish and get its recipe with full ingredients and steps plus similar videos for ideas. [Leo](https://x.com/SI5NAL).
 - [Jesus by Josh](https://x.ai/bot/r-wAr47ppS_gEPa0pjnPO) - Warm companion inspired by The Chosen that meets what you face with a fitting Bible passage and gentle encouragement. [Josh](https://x.com/zandman).
+- [Arena Specialist by David](https://x.ai/bot/jZQRwwFH8kWtSiapJCSyy) - Gaming bot for the public Dead Brands MCP arena that knows the games, places and tools, plays matches for you and improves over time. [David](https://x.com/dstrausser83).

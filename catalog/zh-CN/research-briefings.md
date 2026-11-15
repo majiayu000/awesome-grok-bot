@@ -915,3 +915,4 @@
 - [Farol · Analista de Mercados by Lord](https://x.ai/bot/FW-vlDkCZN_b7kyQst9hw) - 葡语市场分析助手，盯欧美指数和外汇，开盘前后给出摘要，行情剧烈时提醒. [Lord](https://x.com/TheCornerTrader).
 - [THE MESH OOI](https://x.ai/bot/M9SuexEMHS5UDhLpVhm8p) - 只读的监控中心，每天盯你的网站和 X 关系网，持续整理出实体、账号和说法的目录. [forgedusa1](https://x.com/forgedusa1).
 - [链接翻译官 by 大小姐](https://x.ai/bot/38PZ0ApEsUAGTEM9ufUBW) - 把英文 X 帖子做成完整中文稿，把 YouTube 链接做成中英对照逐字稿和总结，交付 Markdown 和 PDF. [大小姐](https://x.com/Sukiea1008).
+- [Xエゴサツール / X Ego Search](https://x.ai/bot/Zg0nuf_y0QdL9rGTKVh0g) - 在 X 上搜索没有 @ 你但在谈论你的帖子，按正面和负面分类，可选回溯时间并支持定期检查. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
