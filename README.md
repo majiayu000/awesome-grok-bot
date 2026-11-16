@@ -372,7 +372,6 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [grok-factory](https://github.com/jaredtrichard/grok-factory) - Followable pack. Firstmate routes software, research, and general work on the shared computer.
 - [grok-research](https://github.com/jaredtrichard/grok-research) - Paste-in distro. Captain-gated equity research factory with scout reports and a sqlite book. No live trades.
 - [grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - Restaurant social-commerce scout with morning-scan skills and a copy-paste SETUP.md.
-- [Werewolf gamemaster](https://github.com/Heyvhuang/werewolf-gamemaster) - Skill pack so the Bot runs a Werewolf table, not a hello-world SKILL.md.
 - [Hyperliquid 7-agent trading desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Experimental. Seven specialized Bots on one desk. Read the code first.
 - [grokbot-for-gtm](https://github.com/bcharleson/grokbot-for-gtm) - Playbook plus skills so a Bot can run outbound GTM. Instantly, HeyReach, human-approved sends.
 - [Grok Bot Plays](https://grokbotplays.com) - How-to catalog of plays rewritten from public posts, each linked to its source.
@@ -388,7 +387,6 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - Japanese field handbook for named roles. Contracts, request templates, skill/routine flows, and handoff `.md` files.
 - [grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - Cloneable five-bot second-brain plan on one shared computer (Conductor, Capture, Memory, Ops, Research).
 - [grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - Community market of paste-in Grok Bot templates.
-- [grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - Outreach team pack. Named bots plus skills for prospecting and follow-up.
 - [nexfade-grok-plugin](https://github.com/NexFade/nexfade-grok-plugin) - Community `.grok-plugin` for wiring extra tools into a Bot.
 - [grok-bot-token-saver](https://github.com/Chakhdz/grok-bot-token-saver) - Skill that watches token spend and stops a Bot before the weekly pool is gone.
 - [unlist](https://github.com/shawnyeager/unlist) - Local data-broker removal playbook plus CLI tracker. Give BOT.md to a Grok Bot to drive opt-outs.
