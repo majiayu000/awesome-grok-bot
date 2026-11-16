@@ -179,3 +179,4 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Noether Checker](https://x.ai/bot/BIuBakqkbvKtBslSJZZM3) - Independent mastery checker that seals its own tests and gives unseen checks after tutoring. [Alex](https://x.com/AD_Giff).
 - [Tau Teacher](https://x.ai/bot/hE7frTXSRG4AM8APGbvWq) - Teaches the Systemic Tau paradigm and the two-part present in any language, from first intuition to real data. [Johel](https://x.com/HabraHoy).
 - [壁纸 Bot](https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ) - Changes your Grok Bot desktop app wallpaper from an image or a theme you describe. [kin](https://x.com/KinGao476942).
+- [Arcana](https://x.ai/bot/OM-atPvO7kazEsMJlcPcN) - Tarot reader for self-reflection that shuffles a real 78-card deck and gives grounded readings. [K](https://x.com/khayusaki).

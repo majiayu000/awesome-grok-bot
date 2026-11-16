@@ -163712,6 +163712,49 @@
       "updated": "2026-11-16",
       "shelf": "raw",
       "source": "https://x.com/KinGao476942/status/2122142707976192147"
+    },
+    {
+      "slug": "event-and-giveaway",
+      "name": "Event and Giveaway",
+      "author": {
+        "name": "Toàn",
+        "url": "https://x.com/toannhu_it"
+      },
+      "summary": "Scans official crypto exchange accounts on X for events and giveaways you can still join and ranks them",
+      "summary_zh": "扫描加密交易所官方 X 账号，找出你还能参加的活动和抽奖并排好优先级",
+      "import": "https://x.ai/bot/1rfzYPVkI-WE6-ci4VS-I",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "x",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/toannhu_it/status/2122253730796195962"
+    },
+    {
+      "slug": "arcana",
+      "name": "Arcana",
+      "author": {
+        "name": "K",
+        "url": "https://x.com/khayusaki"
+      },
+      "summary": "Tarot reader for self-reflection that shuffles a real 78-card deck and gives grounded readings",
+      "summary_zh": "用于自我反思的塔罗解读，真实洗一副 78 张牌并给出踏实的解读",
+      "import": "https://x.ai/bot/OM-atPvO7kazEsMJlcPcN",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/khayusaki/status/2122244793690403205"
     }
   ]
 }

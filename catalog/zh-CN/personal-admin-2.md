@@ -179,3 +179,4 @@
 - [Noether Checker](https://x.ai/bot/BIuBakqkbvKtBslSJZZM3) - 独立的掌握度检查员，先封存自己的测验，再出没见过的题来检验学会了没有. [Alex](https://x.com/AD_Giff).
 - [Tau Teacher](https://x.ai/bot/hE7frTXSRG4AM8APGbvWq) - 用任何语言讲解 Systemic Tau 范式和两段式的当下，从直觉讲到真实数据. [Johel](https://x.com/HabraHoy).
 - [壁纸 Bot](https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ) - 在 Mac 的 Grok Bot 桌面应用里换壁纸，可以丢图或直接说想要的主题. [kin](https://x.com/KinGao476942).
+- [Arcana](https://x.ai/bot/OM-atPvO7kazEsMJlcPcN) - 用于自我反思的塔罗解读，真实洗一副 78 张牌并给出踏实的解读. [K](https://x.com/khayusaki).
