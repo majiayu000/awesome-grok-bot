@@ -916,3 +916,5 @@ Back to [README](../../README.md)
 - [THE MESH OOI](https://x.ai/bot/M9SuexEMHS5UDhLpVhm8p) - Read-only hub that watches your websites and X network daily and builds a growing catalog of entities, accounts and claims. [forgedusa1](https://x.com/forgedusa1).
 - [链接翻译官 by 大小姐](https://x.ai/bot/38PZ0ApEsUAGTEM9ufUBW) - Turns English X posts into full Chinese write-ups and YouTube links into bilingual transcripts and summaries, as Markdown and PDF. [大小姐](https://x.com/Sukiea1008).
 - [Xエゴサツール / X Ego Search](https://x.ai/bot/Zg0nuf_y0QdL9rGTKVh0g) - Ego-search for X posts that talk about you without an @mention, sorted into positive and negative, with a chosen lookback and scheduled checks. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
+- [Yuga Signal by Bhau](https://x.ai/bot/dUcoBniShis1jD8wBm-Cb) - Turns every new Yuga Signal post from Eternal Order into a weekly brief tuned to your interests, with real sources. [Bhau](https://x.com/Bhau_jagmd).
+- [Local Gazette by Pascal](https://x.ai/bot/rgDSVcuH-K8hlPZqwFuFN) - Private local newspaper for any town that finds your area's news sources and collects them twice a day at most. [Pascal](https://x.com/p45c41).

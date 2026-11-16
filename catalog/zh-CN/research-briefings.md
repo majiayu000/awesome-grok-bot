@@ -916,3 +916,5 @@
 - [THE MESH OOI](https://x.ai/bot/M9SuexEMHS5UDhLpVhm8p) - 只读的监控中心，每天盯你的网站和 X 关系网，持续整理出实体、账号和说法的目录. [forgedusa1](https://x.com/forgedusa1).
 - [链接翻译官 by 大小姐](https://x.ai/bot/38PZ0ApEsUAGTEM9ufUBW) - 把英文 X 帖子做成完整中文稿，把 YouTube 链接做成中英对照逐字稿和总结，交付 Markdown 和 PDF. [大小姐](https://x.com/Sukiea1008).
 - [Xエゴサツール / X Ego Search](https://x.ai/bot/Zg0nuf_y0QdL9rGTKVh0g) - 在 X 上搜索没有 @ 你但在谈论你的帖子，按正面和负面分类，可选回溯时间并支持定期检查. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
+- [Yuga Signal by Bhau](https://x.ai/bot/dUcoBniShis1jD8wBm-Cb) - 把 Eternal Order 的每条 Yuga Signal 新帖整理成按你兴趣定制的每周简报，并附真实来源. [Bhau](https://x.com/Bhau_jagmd).
+- [Local Gazette by Pascal](https://x.ai/bot/rgDSVcuH-K8hlPZqwFuFN) - 为任意城镇生成私人本地报纸，自动找到当地新闻源，每天最多收集两次. [Pascal](https://x.com/p45c41).

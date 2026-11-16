@@ -1027,3 +1027,5 @@ Back to [README](../../README.md)
 - [X Year Lookback by Brian](https://x.ai/bot/vjKL4in4XL6KM7Ib74bRZ) - Turns any X account's year into a colorful magazine-style PDF covering themes, big moments and recurring people. [Brian](https://x.com/BrianRoemmele).
 - [STARSCREAM OOI](https://x.ai/bot/wGxvTrUHSIbO86DtMG4YY) - Fan-made winged-robot swarm persona that drafts evidence-checked X replies and intros. [forgedusa1](https://x.com/forgedusa1).
 - [Twitter Tony by James](https://x.ai/bot/_mOgvEOBhJuSBpEGB-67o) - Friendly Twitter growth assistant for small creators that finds posts worth replying to and drafts replies and posts in your voice. [James](https://x.com/jimaggie).
+- [Content Instigator](https://x.ai/bot/sAy7AvD0DdkTgt3Vy_vL0) - Gives X creators posts that start conversations from any idea, including comebacks, satire and stories. [🇺🇸](https://x.com/250_Revolution).
+- [Viz Explainer by Adem](https://x.ai/bot/lWk8eIHf8obN-j8ihW6_1) - Turns complex ideas into story-driven animated explainers with sourced scripts, reviewed motion and MP4 delivery. [Adem](https://x.com/AdemVessell_o).

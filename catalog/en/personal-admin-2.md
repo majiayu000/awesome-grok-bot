@@ -170,3 +170,7 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Chef Bot by Leo](https://x.ai/bot/8Q1Pu5Wg8Xaf6mrydCo1w) - Send a photo of any dish and get its recipe with full ingredients and steps plus similar videos for ideas. [Leo](https://x.com/SI5NAL).
 - [Jesus by Josh](https://x.ai/bot/r-wAr47ppS_gEPa0pjnPO) - Warm companion inspired by The Chosen that meets what you face with a fitting Bible passage and gentle encouragement. [Josh](https://x.com/zandman).
 - [Arena Specialist by David](https://x.ai/bot/jZQRwwFH8kWtSiapJCSyy) - Gaming bot for the public Dead Brands MCP arena that knows the games, places and tools, plays matches for you and improves over time. [David](https://x.com/dstrausser83).
+- [Pip Game Night](https://x.ai/bot/WEiaTOR5jpuoNKIzhAHEX) - Public game buddy that plays chess, checkers, Connect Four and Battleship with the board redrawn each turn. [Marc](https://x.com/MSaintjour).
+- [Gamer by Elek](https://x.ai/bot/GXMfSZ-sM09MXfZ2BWWCe) - Personal gaming assistant that summarizes patch notes, tracks releases and recommends games that fit your taste. [Elek](https://x.com/Elek_M).
+- [Number Check by Rob](https://x.ai/bot/z3KveWRZL1LWxhwit5pMv) - Checks one phone number or a whole CSV for validity, line type, origin, time zone and spam flags. [Rob](https://x.com/sia14u).
+- [Brolingo by Benjamin](https://x.ai/bot/T3a0ZiTbydNVUxB3kk6PS) - Reads a message or screenshot from your partner and suggests what she probably means and what to reply. [Benjamin](https://x.com/BenjaminPopp4).

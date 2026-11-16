@@ -1027,3 +1027,5 @@
 - [X Year Lookback by Brian](https://x.ai/bot/vjKL4in4XL6KM7Ib74bRZ) - 把任意 X 账号一整年的内容做成杂志风格的彩色 PDF，涵盖主题、重要时刻和常出现的人. [Brian](https://x.com/BrianRoemmele).
 - [STARSCREAM OOI](https://x.ai/bot/wGxvTrUHSIbO86DtMG4YY) - 粉丝创作的飞行机器人集群人设，起草经过事实核查的 X 回复和自我介绍. [forgedusa1](https://x.com/forgedusa1).
 - [Twitter Tony by James](https://x.ai/bot/_mOgvEOBhJuSBpEGB-67o) - 面向小创作者的 Twitter 增长助手，找出值得回复的帖子，并用你的口吻起草回复和新帖. [James](https://x.com/jimaggie).
+- [Content Instigator](https://x.ai/bot/sAy7AvD0DdkTgt3Vy_vL0) - 帮 X 创作者把任何想法写成能引发讨论的帖子，包括神回复、讽刺段子和小故事. [🇺🇸](https://x.com/250_Revolution).
+- [Viz Explainer by Adem](https://x.ai/bot/lWk8eIHf8obN-j8ihW6_1) - 把复杂想法做成有故事感的动画讲解，脚本有出处，动效经你审阅并交付 MP4. [Adem](https://x.com/AdemVessell_o).

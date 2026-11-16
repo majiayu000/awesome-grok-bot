@@ -170,3 +170,7 @@
 - [Chef Bot by Leo](https://x.ai/bot/8Q1Pu5Wg8Xaf6mrydCo1w) - 发一张菜品照片就能得到完整的食材和步骤食谱，并附上类似的参考视频. [Leo](https://x.com/SI5NAL).
 - [Jesus by Josh](https://x.ai/bot/r-wAr47ppS_gEPa0pjnPO) - 受《The Chosen》启发的温暖陪伴，针对你的处境给出合适的经文和温和的鼓励. [Josh](https://x.com/zandman).
 - [Arena Specialist by David](https://x.ai/bot/jZQRwwFH8kWtSiapJCSyy) - 面向公开 Dead Brands MCP 竞技场的游戏 Bot，熟悉游戏、地点和工具，替你打比赛并越玩越强. [David](https://x.com/dstrausser83).
+- [Pip Game Night](https://x.ai/bot/WEiaTOR5jpuoNKIzhAHEX) - 公开的游戏搭子，陪你下国际象棋、跳棋、四子棋和战舰，每步重绘棋盘. [Marc](https://x.com/MSaintjour).
+- [Gamer by Elek](https://x.ai/bot/GXMfSZ-sM09MXfZ2BWWCe) - 个人游戏助手，总结更新公告，追踪新作发布，并推荐合你口味的近期游戏. [Elek](https://x.com/Elek_M).
+- [Number Check by Rob](https://x.ai/bot/z3KveWRZL1LWxhwit5pMv) - 检查单个号码或整份 CSV，查看是否有效、线路类型、归属地、时区以及垃圾号标记. [Rob](https://x.com/sia14u).
+- [Brolingo by Benjamin](https://x.ai/bot/T3a0ZiTbydNVUxB3kk6PS) - 读懂伴侣发来的消息或截图，分析她大概的意思并建议怎么回复. [Benjamin](https://x.com/BenjaminPopp4).

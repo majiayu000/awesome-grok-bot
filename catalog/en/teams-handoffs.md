@@ -878,3 +878,5 @@ Back to [README](../../README.md)
 - [Script This Routine](https://x.ai/bot/opM4RljMN_9IfQAIdybZv) - Cuts the tokens your Grok Bots spend by scripting mechanical routine steps and trimming skills and personas. [Kevin](https://x.com/Kevin_Logan).
 - [Bot Splitter](https://x.ai/bot/DbaRo6QPEhJI9uKF-xFnL) - Splits a bot that has grown too big into smaller focused bots without losing what it knows. [Carlos](https://x.com/Calrornds).
 - [MausBot by Omkar](https://x.ai/bot/3i4Tvjckmdk05UwntFeNo) - Moves your Bots with their memories, skills and routines into MausBot, an open source Grok Bot alternative, leaving the originals untouched. [Omkar](https://x.com/BuildwithOmkarr).
+- [Throttle by America](https://x.ai/bot/JLHR8SBu2j4jjT8OmjYe4) - Watches how your bots and routines use weekly Grok Bot usage and flags waste like noisy schedules and retries. [America](https://x.com/XZherron).
+- [Captain Noah fleet export](https://x.ai/bot/x0dzjjBbFTI6jRKYdBKnY) - Beaver ship captain with one job, exporting your whole Grok Bot fleet before the move. [Carlo](https://x.com/carlomakes).
