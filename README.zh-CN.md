@@ -76,6 +76,8 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 这些是 [catalog.json](catalog.json) 里 `shelf=featured` 的条目。先加一个。打开分享，点 Add，跑一次只读任务。
 
+**[按账号前提和首个任务选 10 个入门 Bot](docs/first-ten-bots.md)** — 2026-11-16 已核对公开介绍，导入与运行状态明确标为未实测。
+
 - **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · 把长视频和播客转成能搜可读的中文文稿，顺手捞公开论文。
 - **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · 每天查一遍搜索引擎里新冒出来的你的公开信息。
 - **[AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f)** · 把一张照片做成一小段有情绪的短片。
@@ -248,6 +250,8 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 ## 团队配方
 
 一条分享 = 一个 Bot。编制要自己拼。
+
+- [Team Bot 团队发布简报](packs/team-release-brief.md) — 面向 Team/Enterprise 的共享起草与审核配方，含虚构首测和中文常驻说明，维护者尚未实跑。
 
 - [Work + Life 两扇门](packs/two-door-work-life.md)
 - [参谋 + Fixer + 专职](packs/chief-of-staff.md)

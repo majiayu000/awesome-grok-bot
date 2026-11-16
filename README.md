@@ -76,6 +76,8 @@ Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/
 
 These are `shelf=featured` in [catalog.json](catalog.json). Start with one share. Open it, hit Add, run a read-only task.
 
+**[Compare 10 starters by account requirements and first task](docs/first-ten-bots.md)** — public descriptions checked on 16 Nov 2026; import and run results are explicitly marked untested.
+
 - **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · Turns long videos and podcasts into searchable Chinese transcripts.
 - **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · Daily search-engine check for what is newly public about you.
 - **[AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f)** · Turns one photograph into a short, moody film clip.
@@ -248,6 +250,8 @@ Zoom desktop auth currently fails with error 4700. SuperGrok Plus does not stack
 ## Team packs
 
 One share is one bot. Assemble the roster yourself.
+
+- [Team Bot release brief](packs/team-release-brief.md) — a shared draft-and-review recipe for Team/Enterprise, with a fictional first task and Chinese instructions; not yet run by maintainers.
 
 - [Work + Life two-door](packs/two-door-work-life.md)
 - [Chief of Staff + Fixer + specialists](packs/chief-of-staff.md)
