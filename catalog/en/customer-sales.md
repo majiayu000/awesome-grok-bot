@@ -620,3 +620,4 @@ Back to [README](../../README.md)
 - [SEO Content Gap Finder](https://x.ai/bot/dtW0vBG8A_gbcCJIQKRix) - Finds the questions your buyers search that your site does not yet answer. Austen.
 - [dbs 创业教练](https://x.ai/bot/kpZtlm5CADHoXaaAqTV5Z) - Helps founders get clear on their business by asking the right questions, then giving one task to finish this week, based on open-source dbskill. [dontbe](https://x.com/Sunkeke_AI).
 - [Dorito Founder Build Partner](https://x.ai/bot/HzqYfzEOde2Xt9Vtjj23C) - Build partner for solo founders with launch copy, local outreach, directory listings and investor prep ready to paste. [stands](https://x.com/cospopollitan).
+- [Storika](https://x.ai/bot/2gn3SQaXHj-K2JNZ7LOuq) - Runs creator campaigns end to end, from vetting TikTok and Instagram creators to outreach and sales tracking. [Jay](https://x.com/storika_ai).

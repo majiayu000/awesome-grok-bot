@@ -953,3 +953,4 @@ Back to [README](../../README.md)
 - [Evaluate Decision Gate](https://x.ai/bot/hNUjCljuFptDp9zXLu91L) - Routes your agent's next-step decisions through DeltaX Evaluate, which picks a review step from your proposed options or refuses. [Dominick](https://x.com/deltaxevaluate).
 - [Phantom](https://x.ai/bot/07tFNJ80szTEjnERM7Ea-) - Scaffolds React, browser or React Native projects for Phantom wallet and Connect. [8](https://x.com/0rdlibrary).
 - [电脑Bot](https://x.ai/bot/4Zydih9b5ja4H_rw1JfYM) - Chinese computer and server caretaker that installs software, checks resources, fixes networks and restores setups. [Chasen](https://x.com/chasen_liao).
+- [Grok Build](https://x.ai/bot/LAGYPw5VP_upV3P0DCvL4) - Runs the real Grok Build CLI for apps, code and deep research at maximum effort on an agent computer. [Jon](https://x.com/Netjams).

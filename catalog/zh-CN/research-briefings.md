@@ -918,3 +918,4 @@
 - [Xエゴサツール / X Ego Search](https://x.ai/bot/Zg0nuf_y0QdL9rGTKVh0g) - 在 X 上搜索没有 @ 你但在谈论你的帖子，按正面和负面分类，可选回溯时间并支持定期检查. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
 - [Yuga Signal by Bhau](https://x.ai/bot/dUcoBniShis1jD8wBm-Cb) - 把 Eternal Order 的每条 Yuga Signal 新帖整理成按你兴趣定制的每周简报，并附真实来源. [Bhau](https://x.com/Bhau_jagmd).
 - [Local Gazette by Pascal](https://x.ai/bot/rgDSVcuH-K8hlPZqwFuFN) - 为任意城镇生成私人本地报纸，自动找到当地新闻源，每天最多收集两次. [Pascal](https://x.com/p45c41).
+- [AI Tool Finder](https://x.ai/bot/e9vSkxBmMjD3lZVwk05Nm) - 按你的目标、预算和语言挑出最多三个 AI 工具，附价格和对比文章链接. [Takahiro](https://x.com/toolport_ai).

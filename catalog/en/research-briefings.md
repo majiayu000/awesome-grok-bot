@@ -918,3 +918,4 @@ Back to [README](../../README.md)
 - [Xエゴサツール / X Ego Search](https://x.ai/bot/Zg0nuf_y0QdL9rGTKVh0g) - Ego-search for X posts that talk about you without an @mention, sorted into positive and negative, with a chosen lookback and scheduled checks. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
 - [Yuga Signal by Bhau](https://x.ai/bot/dUcoBniShis1jD8wBm-Cb) - Turns every new Yuga Signal post from Eternal Order into a weekly brief tuned to your interests, with real sources. [Bhau](https://x.com/Bhau_jagmd).
 - [Local Gazette by Pascal](https://x.ai/bot/rgDSVcuH-K8hlPZqwFuFN) - Private local newspaper for any town that finds your area's news sources and collects them twice a day at most. [Pascal](https://x.com/p45c41).
+- [AI Tool Finder](https://x.ai/bot/e9vSkxBmMjD3lZVwk05Nm) - Picks up to three AI tools for your goal, budget and language, with prices and a comparison link. [Takahiro](https://x.com/toolport_ai).

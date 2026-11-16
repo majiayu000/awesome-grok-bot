@@ -163544,6 +163544,174 @@
       "updated": "2026-11-16",
       "shelf": "raw",
       "source": "https://x.com/cospopollitan/status/2122043369673413060"
+    },
+    {
+      "slug": "costco-receipt-keeper",
+      "name": "Costco Receipt Keeper",
+      "author": {
+        "name": "wirelyss",
+        "url": "https://x.com/wirelyss"
+      },
+      "summary": "Turns Costco receipts into a searchable purchase history and flags sales on things you buy",
+      "summary_zh": "把 Costco 小票变成可搜索的购买记录，并在常买的东西打折时提醒你",
+      "import": "https://x.ai/bot/Lj4_-xsgpMrZqZYiOchVz",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/wirelyss/status/2122211149047644563"
+    },
+    {
+      "slug": "feynman-tutor",
+      "name": "Feynman Tutor",
+      "author": {
+        "name": "Alex",
+        "url": "https://x.com/AD_Giff"
+      },
+      "summary": "One-to-one STEM tutor that teaches one topic at a time until you can re-derive it from scratch",
+      "summary_zh": "一对一理科导师，一次只讲一个主题，直到你能自己从头推出来",
+      "import": "https://x.ai/bot/alSo1vUgkGILtRTDQutV8",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/AD_Giff/status/2122203172488073602"
+    },
+    {
+      "slug": "noether-checker",
+      "name": "Noether Checker",
+      "author": {
+        "name": "Alex",
+        "url": "https://x.com/AD_Giff"
+      },
+      "summary": "Independent mastery checker that seals its own tests and gives unseen checks after tutoring",
+      "summary_zh": "独立的掌握度检查员，先封存自己的测验，再出没见过的题来检验学会了没有",
+      "import": "https://x.ai/bot/BIuBakqkbvKtBslSJZZM3",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/AD_Giff/status/2122203172488073602"
+    },
+    {
+      "slug": "tau-teacher",
+      "name": "Tau Teacher",
+      "author": {
+        "name": "Johel",
+        "url": "https://x.com/HabraHoy"
+      },
+      "summary": "Teaches the Systemic Tau paradigm and the two-part present in any language, from first intuition to real data",
+      "summary_zh": "用任何语言讲解 Systemic Tau 范式和两段式的当下，从直觉讲到真实数据",
+      "import": "https://x.ai/bot/hE7frTXSRG4AM8APGbvWq",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/HabraHoy/status/2122202435632484570"
+    },
+    {
+      "slug": "storika",
+      "name": "Storika",
+      "author": {
+        "name": "Jay",
+        "url": "https://x.com/storika_ai"
+      },
+      "summary": "Runs creator campaigns end to end, from vetting TikTok and Instagram creators to outreach and sales tracking",
+      "summary_zh": "全程跑创作者营销，从筛选 TikTok 和 Instagram 创作者到外联和销售追踪",
+      "import": "https://x.ai/bot/2gn3SQaXHj-K2JNZ7LOuq",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/storika_ai/status/2122185521086578867"
+    },
+    {
+      "slug": "ai-tool-finder",
+      "name": "AI Tool Finder",
+      "author": {
+        "name": "Takahiro",
+        "url": "https://x.com/toolport_ai"
+      },
+      "summary": "Picks up to three AI tools for your goal, budget and language, with prices and a comparison link",
+      "summary_zh": "按你的目标、预算和语言挑出最多三个 AI 工具，附价格和对比文章链接",
+      "import": "https://x.ai/bot/e9vSkxBmMjD3lZVwk05Nm",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/toolport_ai/status/2122180476571910459"
+    },
+    {
+      "slug": "grok-build-5",
+      "name": "Grok Build",
+      "author": {
+        "name": "Jon",
+        "url": "https://x.com/Netjams"
+      },
+      "summary": "Runs the real Grok Build CLI for apps, code and deep research at maximum effort on an agent computer",
+      "summary_zh": "在 Agent 电脑上以最高强度运行真正的 Grok Build CLI，做应用、写代码和深度研究",
+      "import": "https://x.ai/bot/LAGYPw5VP_upV3P0DCvL4",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/Netjams/status/2122169239658217595"
+    },
+    {
+      "slug": "bot-maxkjf6v",
+      "name": "壁纸 Bot",
+      "author": {
+        "name": "kin",
+        "url": "https://x.com/KinGao476942"
+      },
+      "summary": "Changes your Grok Bot desktop app wallpaper from an image or a theme you describe",
+      "summary_zh": "在 Mac 的 Grok Bot 桌面应用里换壁纸，可以丢图或直接说想要的主题",
+      "import": "https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-16",
+      "shelf": "raw",
+      "source": "https://x.com/KinGao476942/status/2122142707976192147"
     }
   ]
 }

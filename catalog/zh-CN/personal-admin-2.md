@@ -174,3 +174,8 @@
 - [Gamer by Elek](https://x.ai/bot/GXMfSZ-sM09MXfZ2BWWCe) - 个人游戏助手，总结更新公告，追踪新作发布，并推荐合你口味的近期游戏. [Elek](https://x.com/Elek_M).
 - [Number Check by Rob](https://x.ai/bot/z3KveWRZL1LWxhwit5pMv) - 检查单个号码或整份 CSV，查看是否有效、线路类型、归属地、时区以及垃圾号标记. [Rob](https://x.com/sia14u).
 - [Brolingo by Benjamin](https://x.ai/bot/T3a0ZiTbydNVUxB3kk6PS) - 读懂伴侣发来的消息或截图，分析她大概的意思并建议怎么回复. [Benjamin](https://x.com/BenjaminPopp4).
+- [Costco Receipt Keeper](https://x.ai/bot/Lj4_-xsgpMrZqZYiOchVz) - 把 Costco 小票变成可搜索的购买记录，并在常买的东西打折时提醒你. [wirelyss](https://x.com/wirelyss).
+- [Feynman Tutor](https://x.ai/bot/alSo1vUgkGILtRTDQutV8) - 一对一理科导师，一次只讲一个主题，直到你能自己从头推出来. [Alex](https://x.com/AD_Giff).
+- [Noether Checker](https://x.ai/bot/BIuBakqkbvKtBslSJZZM3) - 独立的掌握度检查员，先封存自己的测验，再出没见过的题来检验学会了没有. [Alex](https://x.com/AD_Giff).
+- [Tau Teacher](https://x.ai/bot/hE7frTXSRG4AM8APGbvWq) - 用任何语言讲解 Systemic Tau 范式和两段式的当下，从直觉讲到真实数据. [Johel](https://x.com/HabraHoy).
+- [壁纸 Bot](https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ) - 在 Mac 的 Grok Bot 桌面应用里换壁纸，可以丢图或直接说想要的主题. [kin](https://x.com/KinGao476942).

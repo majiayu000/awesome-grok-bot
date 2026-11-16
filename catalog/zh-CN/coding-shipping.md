@@ -953,3 +953,4 @@
 - [Evaluate Decision Gate](https://x.ai/bot/hNUjCljuFptDp9zXLu91L) - 把你的智能体下一步决策交给 DeltaX Evaluate 把关，从你提出的选项里选出复核步骤，或者直接拒绝. [Dominick](https://x.com/deltaxevaluate).
 - [Phantom](https://x.ai/bot/07tFNJ80szTEjnERM7Ea-) - 为 Phantom 钱包和 Connect 搭建 React、浏览器或 React Native 项目脚手架. [8](https://x.com/0rdlibrary).
 - [电脑Bot](https://x.ai/bot/4Zydih9b5ja4H_rw1JfYM) - 中文电脑和服务器管家，负责装软件、查资源、排查网络并在重建后恢复环境. [Chasen](https://x.com/chasen_liao).
+- [Grok Build](https://x.ai/bot/LAGYPw5VP_upV3P0DCvL4) - 在 Agent 电脑上以最高强度运行真正的 Grok Build CLI，做应用、写代码和深度研究. [Jon](https://x.com/Netjams).

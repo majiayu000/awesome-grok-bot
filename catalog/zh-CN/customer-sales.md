@@ -620,3 +620,4 @@
 - [SEO Content Gap Finder](https://x.ai/bot/dtW0vBG8A_gbcCJIQKRix) - 找出买家搜索过、而你的网站还没回答的问题. Austen.
 - [dbs 创业教练](https://x.ai/bot/kpZtlm5CADHoXaaAqTV5Z) - 帮做生意和创业的人把生意想明白，先问对问题，再给出这周能做完的一件事，方法来自开源的 dbskill. [dontbe](https://x.com/Sunkeke_AI).
 - [Dorito Founder Build Partner](https://x.ai/bot/HzqYfzEOde2Xt9Vtjj23C) - 独立创始人的搭档，备好可直接粘贴的发布文案、本地外联、目录收录和融资材料. [stands](https://x.com/cospopollitan).
+- [Storika](https://x.ai/bot/2gn3SQaXHj-K2JNZ7LOuq) - 全程跑创作者营销，从筛选 TikTok 和 Instagram 创作者到外联和销售追踪. [Jay](https://x.com/storika_ai).
