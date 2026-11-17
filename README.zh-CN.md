@@ -10,7 +10,11 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7869 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 可预览、可导入的 Grok Bot 公开分享（`x.ai/bot`），附真人使用案例。
+
+<!-- generated:catalog-snapshot-start -->
+目录快照 · 2026-11-17 · **0 条已核验 / 7904 条已收录**
+<!-- generated:catalog-snapshot-end -->
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -26,6 +30,7 @@
   - [工作室门](docs/studio-doors.md)
   - [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/)
   - [如何导入分享与运行首次任务](https://majiayu000.github.io/awesome-grok-bot/#getting-started)
+  - [精选 Bot 的首次任务检查](docs/vetting.md#run-a-documented-first-task)
 - [SEO 备忘](docs/seo.md)
 - [贡献](CONTRIBUTING.md)
 - [真人案例](#真人案例)
@@ -70,7 +75,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 付费 Cursor 和 SuperGrok 都带 Grok Bot。账单看 [plans](https://cursor.com/help/grok-bot/plans)。
 
-> 社区分享是不可信的第三方软件。先看 profile，只接一个连接器，先跑只读任务，再开写入。不要把 API key 写进 SETUP。见 [SECURITY.md](SECURITY.md)。
+> 先读第三方 Bot 的简介并尝试只读任务，再连接服务或启用写入。请勿在 SETUP 中填写凭据。见 [SECURITY.md](SECURITY.md)。
 
 ### 先试这几个
 
@@ -109,17 +114,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 951 |
-| [Inbox & calendar](#inbox--calendar) | 309 |
-| [Research & briefings](#research--briefings) | 916 |
-| [Customer & sales](#customer--sales) | 618 |
+| [Coding & shipping](#coding--shipping) | 957 |
+| [Inbox & calendar](#inbox--calendar) | 311 |
+| [Research & briefings](#research--briefings) | 919 |
+| [Customer & sales](#customer--sales) | 622 |
 | [Finance & ops](#finance--ops) | 769 |
-| [Content & publishing](#content--publishing) | 1027 |
-| [Personal admin](#personal-admin) | 2401 |
-| [Teams & handoffs](#teams--handoffs) | 878 |
-| **合计** | **7869** |
+| [Content & publishing](#content--publishing) | 1032 |
+| [Personal admin](#personal-admin) | 2414 |
+| [Teams & handoffs](#teams--handoffs) | 880 |
+| **合计** | **7904** |
 
-2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200；2026 年 11 月 4 日又新增 52 个，均返回 200；2026 年 11 月 6 日又新增 108 个，均返回 200；同日下午增量又新增 15 个，均返回 200；同日晚间增量又新增 14 个，均返回 200。2026-11-07 又有 32 个新分享返回 200 并已收录；同日下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，均返回 200。2026 年 11 月 8 日又新增 21 个，均返回 200；11 月 9 日下午增量又新增 8 个，均返回 200；11 月 10 日上午全量又新增 24 个、下午增量又新增 7 个、晚间增量又新增 1 个，均返回 200；11 月 11 日上午全量又新增 33 个，下午增量又新增 15 个、晚间增量又新增 4 个；2026 年 11 月 12 日上午全量又新增 33 个，下午增量又新增 8 个，晚间增量又新增 1 个，均返回 200；2026 年 11 月 13 日上午全量又新增 22 个，下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，晚间增量再新增 5 个，15 日早间全量再新增 10 个，下午增量再新增 5 个，晚间增量再新增 3 个，11 月 16 日早间全量新增 11 个，均返回 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7869 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200；2026 年 11 月 4 日又新增 52 个，均返回 200；2026 年 11 月 6 日又新增 108 个，均返回 200；同日下午增量又新增 15 个，均返回 200；同日晚间增量又新增 14 个，均返回 200。2026-11-07 又有 32 个新分享返回 200 并已收录；同日下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，均返回 200。2026 年 11 月 8 日又新增 21 个，均返回 200；11 月 9 日下午增量又新增 8 个，均返回 200；11 月 10 日上午全量又新增 24 个、下午增量又新增 7 个、晚间增量又新增 1 个，均返回 200；11 月 11 日上午全量又新增 33 个，下午增量又新增 15 个、晚间增量又新增 4 个；2026 年 11 月 12 日上午全量又新增 33 个，下午增量又新增 8 个，晚间增量又新增 1 个，均返回 200；2026 年 11 月 13 日上午全量又新增 22 个，下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，晚间增量再新增 5 个，15 日早间全量再新增 10 个，下午增量再新增 5 个，晚间增量再新增 3 个，11 月 16 日早间全量新增 11 个，下午增量再新增 8 个，晚间增量再新增 2 个，11 月 17 日早间全量新增 14 个，下午增量新增 10 个，晚间增量新增 1 个，均返回 200。能打开不等于安全或好用。核验所需证据见[维护者检查步骤](docs/vetting.md#run-a-documented-first-task)。
 
 ## 真人案例
 
@@ -259,19 +264,19 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Coding & shipping
 
-完整列表（951 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
+完整列表（957 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
 
 ## Inbox & calendar
 
-完整列表（309 条）：[catalog/zh-CN/inbox-calendar.md](catalog/zh-CN/inbox-calendar.md)
+完整列表（311 条）：[catalog/zh-CN/inbox-calendar.md](catalog/zh-CN/inbox-calendar.md)
 
 ## Research & briefings
 
-完整列表（916 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
+完整列表（919 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
 
 ## Customer & sales
 
-完整列表（618 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
+完整列表（622 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
 
 ## Finance & ops
 
@@ -279,15 +284,15 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Content & publishing
 
-完整列表（1027 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（1032 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（2401 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
+完整列表（2414 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
 
 ## Teams & handoffs
 
-完整列表（878 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（880 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 
@@ -376,7 +381,6 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [grok-factory](https://github.com/jaredtrichard/grok-factory) - 可 follow 的技能包。Firstmate 在共用电脑上分软件、研究和杂活。
 - [grok-research](https://github.com/jaredtrichard/grok-research) - 可粘贴的发行版。需船长批准的股票研究工场，有侦察报告和 sqlite 账本，不跑实盘。
 - [grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - 餐馆社交带货侦察。早扫技能加可粘贴的 SETUP.md。
-- [Werewolf gamemaster](https://github.com/Heyvhuang/werewolf-gamemaster) - 真技能包。Bot 主持狼人杀桌，不是 hello-world 的 SKILL.md。
 - [Hyperliquid 7-agent trading desk](https://github.com/galleonlabs/hypergrok-trading-desk) - 实验性。七个专长 Bot 坐一张桌。先读代码再碰。
 - [grokbot-for-gtm](https://github.com/bcharleson/grokbot-for-gtm) - 玩法加技能，让 Bot 自己跑外呼获客。Instantly、HeyReach，发出去要人点头。
 - [Grok Bot Plays](https://grokbotplays.com) - 从公开帖子改写的玩法目录，每条链回出处。
@@ -392,7 +396,6 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - 日文现场手册。具名角色、合同、请求模板、技能和例行任务、交接 `.md`。
 - [grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - 可 clone 的五人第二大脑。指挥、捕捉、记忆、运营、研究，共用一台电脑。
 - [grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - 社区模板市场，可贴进 Grok Bot。
-- [grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - 外呼小队包。具名 Bot 加找潜客和跟进技能。
 - [nexfade-grok-plugin](https://github.com/NexFade/nexfade-grok-plugin) - 社区 `.grok-plugin`，给 Bot 接额外工具。
 - [grok-bot-token-saver](https://github.com/Chakhdz/grok-bot-token-saver) - 盯 token 消耗的技能。周额度见底前把 Bot 停住。
 - [unlist](https://github.com/shawnyeager/unlist) - 本地数据经纪商删除剧本与跟踪脚本并把 BOT.md 交给 Grok Bot 代点网站。

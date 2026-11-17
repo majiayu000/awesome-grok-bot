@@ -174,3 +174,16 @@
 - [Gamer by Elek](https://x.ai/bot/GXMfSZ-sM09MXfZ2BWWCe) - 个人游戏助手，总结更新公告，追踪新作发布，并推荐合你口味的近期游戏. [Elek](https://x.com/Elek_M).
 - [Number Check by Rob](https://x.ai/bot/z3KveWRZL1LWxhwit5pMv) - 检查单个号码或整份 CSV，查看是否有效、线路类型、归属地、时区以及垃圾号标记. [Rob](https://x.com/sia14u).
 - [Brolingo by Benjamin](https://x.ai/bot/T3a0ZiTbydNVUxB3kk6PS) - 读懂伴侣发来的消息或截图，分析她大概的意思并建议怎么回复. [Benjamin](https://x.com/BenjaminPopp4).
+- [Costco Receipt Keeper](https://x.ai/bot/Lj4_-xsgpMrZqZYiOchVz) - 把 Costco 小票变成可搜索的购买记录，并在常买的东西打折时提醒你. [wirelyss](https://x.com/wirelyss).
+- [Feynman Tutor](https://x.ai/bot/alSo1vUgkGILtRTDQutV8) - 一对一理科导师，一次只讲一个主题，直到你能自己从头推出来. [Alex](https://x.com/AD_Giff).
+- [Noether Checker](https://x.ai/bot/BIuBakqkbvKtBslSJZZM3) - 独立的掌握度检查员，先封存自己的测验，再出没见过的题来检验学会了没有. [Alex](https://x.com/AD_Giff).
+- [Tau Teacher](https://x.ai/bot/hE7frTXSRG4AM8APGbvWq) - 用任何语言讲解 Systemic Tau 范式和两段式的当下，从直觉讲到真实数据. [Johel](https://x.com/HabraHoy).
+- [壁纸 Bot](https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ) - 在 Mac 的 Grok Bot 桌面应用里换壁纸，可以丢图或直接说想要的主题. [kin](https://x.com/KinGao476942).
+- [Arcana](https://x.ai/bot/OM-atPvO7kazEsMJlcPcN) - 用于自我反思的塔罗解读，真实洗一副 78 张牌并给出踏实的解读. [K](https://x.com/khayusaki).
+- [Plant Whisperer](https://x.ai/bot/X0S9jyVfVqgkfP2ur7Oor) - 拍一张植物照片，免费识别并给出养护建议、毒性和杂草检查以及病株救治办法. [Campdirtybird](https://x.com/Campdirtybird).
+- [Black Friday Scout](https://x.ai/bot/2N5hwFss2JOp16H5XQJVb) - 找出真正值得买的黑五优惠，只有在你明确许可后才会购买你想要的东西. [nahjuin](https://x.com/nahjuin).
+- [iRacing Chief](https://x.ai/bot/EaWvWQXCCPEQuVh_AacHB) - 根据你的执照、评级、已购内容和偏好系列生成的个人 iRacing 赛季规划师. [YupYupp](https://x.com/yupyup).
+- [Hue Bot](https://x.ai/bot/eAGnFK9dT-WxJ32RCFd4o) - 通过聊天控制飞利浦 Hue 灯，配对网关、开关房间、设置夜间模式并安排定时. [Francisco](https://x.com/FranciscoKemeny).
+- [Pit Crew](https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk) - 集厨房搭子、训练教练和健康台于一体，记录饮食、指导运动并跟踪预约和用药. [Mike](https://x.com/mikepat711).
+- [Tennis](https://x.ai/bot/3khpwD1olHmofICOxNvUl) - 面向俱乐部球友的网球助手，球场一开放就订，并安排训练和赛事. [Gregg](https://x.com/GreggApplefield).
+- [Family Fortress](https://x.ai/bot/hyATTQBpq10-5IZ0bqTLi) - 为家人制定按优先级排序的长时间停电应急计划，并每周查找物资优惠. [Greg](https://x.com/gregbailey).

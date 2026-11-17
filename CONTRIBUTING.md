@@ -68,15 +68,16 @@ Use one of: coding-shipping, inbox-calendar, research-briefings, customer-sales,
 
 The lint command is: `node scripts/lint.mjs`
 
-After catalog changes, run `node scripts/build-pages-index.mjs` and commit the
-generated search index, static homepage catalog, sitemap, robots.txt, and llms.txt
-together. Run `npm test` before opening the PR; it checks that all these generated
+After catalog changes, set `catalog.generated` to the source snapshot date and
+run `node scripts/build-pages-index.mjs`. Commit the generated README snapshot
+lines, search index, static homepage catalog, sitemap, robots.txt, and llms.txt
+together. Run `npm test` before opening the PR to check that the generated
 outputs are current. `node scripts/build-pages-index.mjs --check` checks them
-without writing files. The generator requires each HTML generation marker and
+without writing files. The generator requires each generation marker and
 anchor exactly once. Generated regions must not overlap each other or contain
 count/section anchors; every generated llms.txt count line must occur exactly once.
-Restore missing markers rather than accepting an incomplete page. If `catalog.generated` is omitted, the index uses an empty date instead of
-the current day so builds stay deterministic.
+Restore missing markers before publishing. If `catalog.generated` is omitted,
+the index keeps an empty date and the published views mark it as unavailable.
 
 ## Packs and official starters
 

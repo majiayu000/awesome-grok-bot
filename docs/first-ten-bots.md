@@ -36,4 +36,3 @@ After importing one share, record the date, app version, imported Bot name, actu
 Adding a share accepts the [third-party Bot terms](https://x.ai/legal/bot-sharing-terms). A template does not transfer the creator's files, credentials, or complete environment; see the [official template guide](https://x.ai/bot/guides/templates-for-grok-bot).
 
 For a shared team workflow, use the [Team Bot release-brief recipe](../packs/team-release-brief.md).
-

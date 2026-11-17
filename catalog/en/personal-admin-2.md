@@ -174,3 +174,16 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Gamer by Elek](https://x.ai/bot/GXMfSZ-sM09MXfZ2BWWCe) - Personal gaming assistant that summarizes patch notes, tracks releases and recommends games that fit your taste. [Elek](https://x.com/Elek_M).
 - [Number Check by Rob](https://x.ai/bot/z3KveWRZL1LWxhwit5pMv) - Checks one phone number or a whole CSV for validity, line type, origin, time zone and spam flags. [Rob](https://x.com/sia14u).
 - [Brolingo by Benjamin](https://x.ai/bot/T3a0ZiTbydNVUxB3kk6PS) - Reads a message or screenshot from your partner and suggests what she probably means and what to reply. [Benjamin](https://x.com/BenjaminPopp4).
+- [Costco Receipt Keeper](https://x.ai/bot/Lj4_-xsgpMrZqZYiOchVz) - Turns Costco receipts into a searchable purchase history and flags sales on things you buy. [wirelyss](https://x.com/wirelyss).
+- [Feynman Tutor](https://x.ai/bot/alSo1vUgkGILtRTDQutV8) - One-to-one STEM tutor that teaches one topic at a time until you can re-derive it from scratch. [Alex](https://x.com/AD_Giff).
+- [Noether Checker](https://x.ai/bot/BIuBakqkbvKtBslSJZZM3) - Independent mastery checker that seals its own tests and gives unseen checks after tutoring. [Alex](https://x.com/AD_Giff).
+- [Tau Teacher](https://x.ai/bot/hE7frTXSRG4AM8APGbvWq) - Teaches the Systemic Tau paradigm and the two-part present in any language, from first intuition to real data. [Johel](https://x.com/HabraHoy).
+- [壁纸 Bot](https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ) - Changes your Grok Bot desktop app wallpaper from an image or a theme you describe. [kin](https://x.com/KinGao476942).
+- [Arcana](https://x.ai/bot/OM-atPvO7kazEsMJlcPcN) - Tarot reader for self-reflection that shuffles a real 78-card deck and gives grounded readings. [K](https://x.com/khayusaki).
+- [Plant Whisperer](https://x.ai/bot/X0S9jyVfVqgkfP2ur7Oor) - Snap a plant for free ID with care tips, toxicity and weed checks, and fixes for sick plants. [Campdirtybird](https://x.com/Campdirtybird).
+- [Black Friday Scout](https://x.ai/bot/2N5hwFss2JOp16H5XQJVb) - Finds the Black Friday deals worth buying and only purchases the item you want with your explicit permission. [nahjuin](https://x.com/nahjuin).
+- [iRacing Chief](https://x.ai/bot/EaWvWQXCCPEQuVh_AacHB) - Personal iRacing season planner built from your licences, ratings, owned content and favourite series. [YupYupp](https://x.com/yupyup).
+- [Hue Bot](https://x.ai/bot/eAGnFK9dT-WxJ32RCFd4o) - Controls your Philips Hue lights by chat\: pairs the bridge, switches rooms, sets night mode and schedules. [Francisco](https://x.com/FranciscoKemeny).
+- [Pit Crew](https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk) - Kitchen buddy, training coach and health desk in one that logs meals, coaches your sport and tracks appointments. [Mike](https://x.com/mikepat711).
+- [Tennis](https://x.ai/bot/3khpwD1olHmofICOxNvUl) - Tennis assistant for club players that books courts when they open and plans training and tournaments. [Gregg](https://x.com/GreggApplefield).
+- [Family Fortress](https://x.ai/bot/hyATTQBpq10-5IZ0bqTLi) - Builds your family a prioritized long power outage preparedness plan and finds weekly deals on supplies. [Greg](https://x.com/gregbailey).

@@ -918,3 +918,6 @@
 - [Xエゴサツール / X Ego Search](https://x.ai/bot/Zg0nuf_y0QdL9rGTKVh0g) - 在 X 上搜索没有 @ 你但在谈论你的帖子，按正面和负面分类，可选回溯时间并支持定期检查. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
 - [Yuga Signal by Bhau](https://x.ai/bot/dUcoBniShis1jD8wBm-Cb) - 把 Eternal Order 的每条 Yuga Signal 新帖整理成按你兴趣定制的每周简报，并附真实来源. [Bhau](https://x.com/Bhau_jagmd).
 - [Local Gazette by Pascal](https://x.ai/bot/rgDSVcuH-K8hlPZqwFuFN) - 为任意城镇生成私人本地报纸，自动找到当地新闻源，每天最多收集两次. [Pascal](https://x.com/p45c41).
+- [AI Tool Finder](https://x.ai/bot/e9vSkxBmMjD3lZVwk05Nm) - 按你的目标、预算和语言挑出最多三个 AI 工具，附价格和对比文章链接. [Takahiro](https://x.com/toolport_ai).
+- [Event and Giveaway](https://x.ai/bot/1rfzYPVkI-WE6-ci4VS-I) - 扫描加密交易所官方 X 账号，找出你还能参加的活动和抽奖并排好优先级. [Toàn](https://x.com/toannhu_it).
+- [Performance by Sameh](https://x.ai/bot/rpYz-vHgxpwVYRfdg51j7) - 用 Apify 抓取 Meta、LinkedIn 和 Google 的广告库，每天发送竞争对手正在投放哪些广告的简报. [Sameh](https://x.com/SamehJ59122).

@@ -1029,3 +1029,8 @@
 - [Twitter Tony by James](https://x.ai/bot/_mOgvEOBhJuSBpEGB-67o) - 面向小创作者的 Twitter 增长助手，找出值得回复的帖子，并用你的口吻起草回复和新帖. [James](https://x.com/jimaggie).
 - [Content Instigator](https://x.ai/bot/sAy7AvD0DdkTgt3Vy_vL0) - 帮 X 创作者把任何想法写成能引发讨论的帖子，包括神回复、讽刺段子和小故事. [🇺🇸](https://x.com/250_Revolution).
 - [Viz Explainer by Adem](https://x.ai/bot/lWk8eIHf8obN-j8ihW6_1) - 把复杂想法做成有故事感的动画讲解，脚本有出处，动效经你审阅并交付 MP4. [Adem](https://x.com/AdemVessell_o).
+- [Regulars Book](https://x.ai/bot/5LlCDccEApOJF7FoU7iOl) - 小型直播主的社群记忆，记录谁聊天、谁 raid、谁送礼，并起草感谢帖. [Mark](https://x.com/TheMarkGShow).
+- [X Success Coach](https://x.ai/bot/O8DClJ889JrWWzEtH_TDm) - 你自己 X 账号的晨间教练，复盘前一天的帖子，告诉你什么有效、什么拖了后腿. [nahjuin](https://x.com/nahjuin).
+- [Promo Clip Pro](https://x.ai/bot/naP7CgFSHtlObESPx0AHS) - 把你的链接、照片或几句话做成 15 到 30 秒的宣传短片，带 B-roll 和配乐. [Thuong](https://x.com/teeRex247).
+- [洗稿Bot](https://x.ai/bot/2NSL2mxPreCBtS72ICxm2) - 把稿子、邮件和视频口播稿改得更像人写的，保留你的语气并说明每处改动的原因. [明路](https://x.com/zhang7978840).
+- [抖音审片员](https://x.ai/bot/dhC4qP2M89ztoVHBw5yk4) - 发布前审查抖音视频和文案，按时间戳标出违规与限流风险并给出改法. [明路](https://x.com/zhang7978840).

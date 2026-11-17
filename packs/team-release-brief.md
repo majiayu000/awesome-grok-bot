@@ -60,4 +60,3 @@ Have the second member ask: “Is 0.2 available to install, and does it support 
 Record the plan, app version, sharing scope, test date, and visible results before calling this workflow tested. Do not test permission isolation with real confidential data.
 
 Official basis, checked 2026-11-16: [Grok Bot 1.0](https://x.ai/news/grok-bot-1-0) describes Team Bot sharing with specific people/groups and Slack/Teams use. The workflow and sample above are our proposal, not a claim from xAI. Team Bots existed before 1.0; that release improved sharing and management.
-

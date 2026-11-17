@@ -10,7 +10,11 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7869 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> Public `x.ai/bot` shares to preview and add, with field cases from people who use them.
+
+<!-- generated:catalog-snapshot-start -->
+Catalog snapshot · 2026-11-17 · **0 verified / 7904 listed**
+<!-- generated:catalog-snapshot-end -->
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -26,6 +30,7 @@
   - [Studio doors](docs/studio-doors.md)
   - [Searchable site](https://majiayu000.github.io/awesome-grok-bot/)
   - [How to add a share and try a first task](https://majiayu000.github.io/awesome-grok-bot/#getting-started)
+  - [Featured first-task checks](docs/vetting.md#run-a-documented-first-task)
 - [SEO notes](docs/seo.md)
 - [Contributing](CONTRIBUTING.md)
 - [Field cases](#field-cases)
@@ -70,7 +75,7 @@ Your bots share one cloud Linux computer (cap 50). That is not the app on your l
 
 Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/grok-bot/plans).
 
-> Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
+> Read the third-party profile and try a read-only task before connecting services or enabling writes. Keep credentials out of SETUP. [SECURITY.md](SECURITY.md)
 
 ### Try these first
 
@@ -109,17 +114,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 951 |
-| [Inbox & calendar](#inbox--calendar) | 309 |
-| [Research & briefings](#research--briefings) | 916 |
-| [Customer & sales](#customer--sales) | 618 |
+| [Coding & shipping](#coding--shipping) | 957 |
+| [Inbox & calendar](#inbox--calendar) | 311 |
+| [Research & briefings](#research--briefings) | 919 |
+| [Customer & sales](#customer--sales) | 622 |
 | [Finance & ops](#finance--ops) | 769 |
-| [Content & publishing](#content--publishing) | 1027 |
-| [Personal admin](#personal-admin) | 2401 |
-| [Teams & handoffs](#teams--handoffs) | 878 |
-| **Total** | **7869** |
+| [Content & publishing](#content--publishing) | 1032 |
+| [Personal admin](#personal-admin) | 2414 |
+| [Teams & handoffs](#teams--handoffs) | 880 |
+| **Total** | **7904** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, the evening delta added 2 more, on 14 Nov 2026 the morning full hunt added 26 more, and the afternoon delta added 4 more and the evening delta added 5 more, on 15 Nov 2026 the morning full hunt added 10 more, the afternoon delta added 5 more and the evening delta added 3 more, on 16 Nov 2026 the morning full hunt added 11 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7869 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, the evening delta added 2 more, on 14 Nov 2026 the morning full hunt added 26 more, and the afternoon delta added 4 more and the evening delta added 5 more, on 15 Nov 2026 the morning full hunt added 10 more, the afternoon delta added 5 more and the evening delta added 3 more, on 16 Nov 2026 the morning full hunt added 11 more and the afternoon delta added 8 more and the evening delta added 2 more, on 17 Nov 2026 the morning full hunt added 14 more and the afternoon delta added 10 more and the evening delta added 1 more that returned 200. Reachable is not the same as safe or correct. See the [maintainer checklist](docs/vetting.md#run-a-documented-first-task) for the evidence required to verify a share.
 
 ## Field cases
 
@@ -259,19 +264,19 @@ One share is one bot. Assemble the roster yourself.
 
 ## Coding & shipping
 
-Full list (951 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
+Full list (957 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
 
 ## Inbox & calendar
 
-Full list (309 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
+Full list (311 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
 
 ## Research & briefings
 
-Full list (916 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
+Full list (919 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
 
 ## Customer & sales
 
-Full list (618 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (622 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
@@ -279,15 +284,15 @@ Full list (769 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (1027 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (1032 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (2401 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
+Full list (2414 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
 
 ## Teams & handoffs
 
-Full list (878 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (880 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 
@@ -376,7 +381,6 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [grok-factory](https://github.com/jaredtrichard/grok-factory) - Followable pack. Firstmate routes software, research, and general work on the shared computer.
 - [grok-research](https://github.com/jaredtrichard/grok-research) - Paste-in distro. Captain-gated equity research factory with scout reports and a sqlite book. No live trades.
 - [grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - Restaurant social-commerce scout with morning-scan skills and a copy-paste SETUP.md.
-- [Werewolf gamemaster](https://github.com/Heyvhuang/werewolf-gamemaster) - Skill pack so the Bot runs a Werewolf table, not a hello-world SKILL.md.
 - [Hyperliquid 7-agent trading desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Experimental. Seven specialized Bots on one desk. Read the code first.
 - [grokbot-for-gtm](https://github.com/bcharleson/grokbot-for-gtm) - Playbook plus skills so a Bot can run outbound GTM. Instantly, HeyReach, human-approved sends.
 - [Grok Bot Plays](https://grokbotplays.com) - How-to catalog of plays rewritten from public posts, each linked to its source.
@@ -392,7 +396,6 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - Japanese field handbook for named roles. Contracts, request templates, skill/routine flows, and handoff `.md` files.
 - [grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - Cloneable five-bot second-brain plan on one shared computer (Conductor, Capture, Memory, Ops, Research).
 - [grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - Community market of paste-in Grok Bot templates.
-- [grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - Outreach team pack. Named bots plus skills for prospecting and follow-up.
 - [nexfade-grok-plugin](https://github.com/NexFade/nexfade-grok-plugin) - Community `.grok-plugin` for wiring extra tools into a Bot.
 - [grok-bot-token-saver](https://github.com/Chakhdz/grok-bot-token-saver) - Skill that watches token spend and stops a Bot before the weekly pool is gone.
 - [unlist](https://github.com/shawnyeager/unlist) - Local data-broker removal playbook plus CLI tracker. Give BOT.md to a Grok Bot to drive opt-outs.

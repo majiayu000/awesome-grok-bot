@@ -880,3 +880,5 @@ Back to [README](../../README.md)
 - [MausBot by Omkar](https://x.ai/bot/3i4Tvjckmdk05UwntFeNo) - Moves your Bots with their memories, skills and routines into MausBot, an open source Grok Bot alternative, leaving the originals untouched. [Omkar](https://x.com/BuildwithOmkarr).
 - [Throttle by America](https://x.ai/bot/JLHR8SBu2j4jjT8OmjYe4) - Watches how your bots and routines use weekly Grok Bot usage and flags waste like noisy schedules and retries. [America](https://x.com/XZherron).
 - [Captain Noah fleet export](https://x.ai/bot/x0dzjjBbFTI6jRKYdBKnY) - Beaver ship captain with one job, exporting your whole Grok Bot fleet before the move. [Carlo](https://x.com/carlomakes).
+- [Use Cases](https://x.ai/bot/w59Gz0num4hDcLd1vjSQJ) - Finds real Grok Bot use cases trending on X and helps newer users start one or build their own. [nahjuin](https://x.com/nahjuin).
+- [Phone Harness Wizard](https://x.ai/bot/EtXBSv57CQo1dxFghmslA) - Step-by-step guide that connects your iPhone, Android or cloud phone to Grok Bot and proves it works. [Shagghie](https://x.com/PixelRainbowNFT).
