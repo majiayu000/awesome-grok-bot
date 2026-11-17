@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-17",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -163755,6 +163755,300 @@
       "updated": "2026-11-16",
       "shelf": "raw",
       "source": "https://x.com/khayusaki/status/2122244793690403205"
+    },
+    {
+      "slug": "landing-page-copy-critic",
+      "name": "Landing Page Copy Critic",
+      "author": {
+        "name": "Austen",
+        "url": "https://x.com/Austen"
+      },
+      "summary": "Reads your landing pages like a first-time buyer, scores how fast they say what you do and what to click, then drafts fixes",
+      "summary_zh": "像第一次来的买家一样读你的落地页，给「说清做什么、点哪里」的速度打分并起草改法",
+      "import": "https://x.ai/bot/KGYaeHB_YqKJVCX_Gp0a6",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/Austen/status/2122366204958605488"
+    },
+    {
+      "slug": "regulars-book",
+      "name": "Regulars Book",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/TheMarkGShow"
+      },
+      "summary": "Community memory for small live streamers that logs who chatted, raided and gifted and drafts thank-you posts",
+      "summary_zh": "小型直播主的社群记忆，记录谁聊天、谁 raid、谁送礼，并起草感谢帖",
+      "import": "https://x.ai/bot/5LlCDccEApOJF7FoU7iOl",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/TheMarkGShow/status/2122359656286716011"
+    },
+    {
+      "slug": "plant-whisperer",
+      "name": "Plant Whisperer",
+      "author": {
+        "name": "Campdirtybird",
+        "url": "https://x.com/Campdirtybird"
+      },
+      "summary": "Snap a plant for free ID with care tips, toxicity and weed checks, and fixes for sick plants",
+      "summary_zh": "拍一张植物照片，免费识别并给出养护建议、毒性和杂草检查以及病株救治办法",
+      "import": "https://x.ai/bot/X0S9jyVfVqgkfP2ur7Oor",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/Campdirtybird/status/2122359185761272268"
+    },
+    {
+      "slug": "black-friday-scout",
+      "name": "Black Friday Scout",
+      "author": {
+        "name": "nahjuin",
+        "url": "https://x.com/nahjuin"
+      },
+      "summary": "Finds the Black Friday deals worth buying and only purchases the item you want with your explicit permission",
+      "summary_zh": "找出真正值得买的黑五优惠，只有在你明确许可后才会购买你想要的东西",
+      "import": "https://x.ai/bot/2N5hwFss2JOp16H5XQJVb",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/nahjuin/status/2122351665936240703"
+    },
+    {
+      "slug": "x-success-coach",
+      "name": "X Success Coach",
+      "author": {
+        "name": "nahjuin",
+        "url": "https://x.com/nahjuin"
+      },
+      "summary": "Morning coach for your own X account that reviews yesterday's posts and tells you what worked and what hurt",
+      "summary_zh": "你自己 X 账号的晨间教练，复盘前一天的帖子，告诉你什么有效、什么拖了后腿",
+      "import": "https://x.ai/bot/O8DClJ889JrWWzEtH_TDm",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/nahjuin/status/2122351665936240703"
+    },
+    {
+      "slug": "use-cases",
+      "name": "Use Cases",
+      "author": {
+        "name": "nahjuin",
+        "url": "https://x.com/nahjuin"
+      },
+      "summary": "Finds real Grok Bot use cases trending on X and helps newer users start one or build their own",
+      "summary_zh": "找出 X 上正在流行的 Grok Bot 真实用法，帮新手上手或自己搭一个",
+      "import": "https://x.ai/bot/w59Gz0num4hDcLd1vjSQJ",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/nahjuin/status/2122351665936240703"
+    },
+    {
+      "slug": "iracing-chief",
+      "name": "iRacing Chief",
+      "author": {
+        "name": "YupYupp",
+        "url": "https://x.com/yupyup"
+      },
+      "summary": "Personal iRacing season planner built from your licences, ratings, owned content and favourite series",
+      "summary_zh": "根据你的执照、评级、已购内容和偏好系列生成的个人 iRacing 赛季规划师",
+      "import": "https://x.ai/bot/EaWvWQXCCPEQuVh_AacHB",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/yupyup/status/2122349464450957371"
+    },
+    {
+      "slug": "hue-bot",
+      "name": "Hue Bot",
+      "author": {
+        "name": "Francisco",
+        "url": "https://x.com/FranciscoKemeny"
+      },
+      "summary": "Controls your Philips Hue lights by chat: pairs the bridge, switches rooms, sets night mode and schedules",
+      "summary_zh": "通过聊天控制飞利浦 Hue 灯，配对网关、开关房间、设置夜间模式并安排定时",
+      "import": "https://x.ai/bot/eAGnFK9dT-WxJ32RCFd4o",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/FranciscoKemeny/status/2122341038652064026"
+    },
+    {
+      "slug": "promo-clip-pro",
+      "name": "Promo Clip Pro",
+      "author": {
+        "name": "Thuong",
+        "url": "https://x.com/teeRex247"
+      },
+      "summary": "Turns your link, photos or a few lines into a 15 to 30 second promo with B-roll and music",
+      "summary_zh": "把你的链接、照片或几句话做成 15 到 30 秒的宣传短片，带 B-roll 和配乐",
+      "import": "https://x.ai/bot/naP7CgFSHtlObESPx0AHS",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/teeRex247/status/2122390229940404473"
+    },
+    {
+      "slug": "phone-harness-wizard",
+      "name": "Phone Harness Wizard",
+      "author": {
+        "name": "Shagghie",
+        "url": "https://x.com/PixelRainbowNFT"
+      },
+      "summary": "Step-by-step guide that connects your iPhone, Android or cloud phone to Grok Bot and proves it works",
+      "summary_zh": "手把手引导，把 iPhone、安卓或云手机接入 Grok Bot 并验证可用",
+      "import": "https://x.ai/bot/EtXBSv57CQo1dxFghmslA",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/PixelRainbowNFT/status/2122393624759439679"
+    },
+    {
+      "slug": "pit-crew-2",
+      "name": "Pit Crew",
+      "author": {
+        "name": "Mike",
+        "url": "https://x.com/mikepat711"
+      },
+      "summary": "Kitchen buddy, training coach and health desk in one that logs meals, coaches your sport and tracks appointments",
+      "summary_zh": "集厨房搭子、训练教练和健康台于一体，记录饮食、指导运动并跟踪预约和用药",
+      "import": "https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/mikepat711/status/2122418698484892000"
+    },
+    {
+      "slug": "inbox-ida",
+      "name": "Inbox Ida",
+      "author": {
+        "name": "James",
+        "url": "https://x.com/jimaggie"
+      },
+      "summary": "Calm inbox helper for Gmail, Outlook and Yahoo that plans cleanups, suggests filters and flags scam emails",
+      "summary_zh": "适用于 Gmail、Outlook 和 Yahoo 的沉稳收件箱助手，规划清理、建议过滤规则并标出诈骗邮件",
+      "import": "https://x.ai/bot/XlWvzllS0K4WpFh502I-h",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/jimaggie/status/2122382377796452354"
+    },
+    {
+      "slug": "pod-shop-runner",
+      "name": "POD Shop Runner",
+      "author": {
+        "name": "Matt",
+        "url": "https://x.com/terpcoinn"
+      },
+      "summary": "Runs an Etsy and Printify print-on-demand T-shirt shop end to end from designs to listings and orders",
+      "summary_zh": "端到端运营 Etsy 加 Printify 的按需印刷 T 恤店，从设计、上架到订单",
+      "import": "https://x.ai/bot/hOtID1uF5XSgpF34iyJWl",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/terpcoinn/status/2122435824629514486"
+    },
+    {
+      "slug": "security-bot-2",
+      "name": "Security Bot",
+      "author": {
+        "name": "Eugene",
+        "url": "https://x.com/EugeneZ_89"
+      },
+      "summary": "Checks whether a CVE or viral security alert is real from primary sources and whether it affects your repos",
+      "summary_zh": "用一手来源核实 CVE 或爆火的安全警报是否属实，并判断是否影响你的仓库",
+      "import": "https://x.ai/bot/uEgB3elX2i15vqJxTSH4T",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/EugeneZ_89/status/2122455266868216141"
     }
   ]
 }

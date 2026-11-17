@@ -180,3 +180,8 @@
 - [Tau Teacher](https://x.ai/bot/hE7frTXSRG4AM8APGbvWq) - 用任何语言讲解 Systemic Tau 范式和两段式的当下，从直觉讲到真实数据. [Johel](https://x.com/HabraHoy).
 - [壁纸 Bot](https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ) - 在 Mac 的 Grok Bot 桌面应用里换壁纸，可以丢图或直接说想要的主题. [kin](https://x.com/KinGao476942).
 - [Arcana](https://x.ai/bot/OM-atPvO7kazEsMJlcPcN) - 用于自我反思的塔罗解读，真实洗一副 78 张牌并给出踏实的解读. [K](https://x.com/khayusaki).
+- [Plant Whisperer](https://x.ai/bot/X0S9jyVfVqgkfP2ur7Oor) - 拍一张植物照片，免费识别并给出养护建议、毒性和杂草检查以及病株救治办法. [Campdirtybird](https://x.com/Campdirtybird).
+- [Black Friday Scout](https://x.ai/bot/2N5hwFss2JOp16H5XQJVb) - 找出真正值得买的黑五优惠，只有在你明确许可后才会购买你想要的东西. [nahjuin](https://x.com/nahjuin).
+- [iRacing Chief](https://x.ai/bot/EaWvWQXCCPEQuVh_AacHB) - 根据你的执照、评级、已购内容和偏好系列生成的个人 iRacing 赛季规划师. [YupYupp](https://x.com/yupyup).
+- [Hue Bot](https://x.ai/bot/eAGnFK9dT-WxJ32RCFd4o) - 通过聊天控制飞利浦 Hue 灯，配对网关、开关房间、设置夜间模式并安排定时. [Francisco](https://x.com/FranciscoKemeny).
+- [Pit Crew](https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk) - 集厨房搭子、训练教练和健康台于一体，记录饮食、指导运动并跟踪预约和用药. [Mike](https://x.com/mikepat711).

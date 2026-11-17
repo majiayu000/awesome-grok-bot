@@ -180,3 +180,8 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Tau Teacher](https://x.ai/bot/hE7frTXSRG4AM8APGbvWq) - Teaches the Systemic Tau paradigm and the two-part present in any language, from first intuition to real data. [Johel](https://x.com/HabraHoy).
 - [壁纸 Bot](https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ) - Changes your Grok Bot desktop app wallpaper from an image or a theme you describe. [kin](https://x.com/KinGao476942).
 - [Arcana](https://x.ai/bot/OM-atPvO7kazEsMJlcPcN) - Tarot reader for self-reflection that shuffles a real 78-card deck and gives grounded readings. [K](https://x.com/khayusaki).
+- [Plant Whisperer](https://x.ai/bot/X0S9jyVfVqgkfP2ur7Oor) - Snap a plant for free ID with care tips, toxicity and weed checks, and fixes for sick plants. [Campdirtybird](https://x.com/Campdirtybird).
+- [Black Friday Scout](https://x.ai/bot/2N5hwFss2JOp16H5XQJVb) - Finds the Black Friday deals worth buying and only purchases the item you want with your explicit permission. [nahjuin](https://x.com/nahjuin).
+- [iRacing Chief](https://x.ai/bot/EaWvWQXCCPEQuVh_AacHB) - Personal iRacing season planner built from your licences, ratings, owned content and favourite series. [YupYupp](https://x.com/yupyup).
+- [Hue Bot](https://x.ai/bot/eAGnFK9dT-WxJ32RCFd4o) - Controls your Philips Hue lights by chat\: pairs the bridge, switches rooms, sets night mode and schedules. [Francisco](https://x.com/FranciscoKemeny).
+- [Pit Crew](https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk) - Kitchen buddy, training coach and health desk in one that logs meals, coaches your sport and tracks appointments. [Mike](https://x.com/mikepat711).

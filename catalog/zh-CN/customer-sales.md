@@ -621,3 +621,5 @@
 - [dbs 创业教练](https://x.ai/bot/kpZtlm5CADHoXaaAqTV5Z) - 帮做生意和创业的人把生意想明白，先问对问题，再给出这周能做完的一件事，方法来自开源的 dbskill. [dontbe](https://x.com/Sunkeke_AI).
 - [Dorito Founder Build Partner](https://x.ai/bot/HzqYfzEOde2Xt9Vtjj23C) - 独立创始人的搭档，备好可直接粘贴的发布文案、本地外联、目录收录和融资材料. [stands](https://x.com/cospopollitan).
 - [Storika](https://x.ai/bot/2gn3SQaXHj-K2JNZ7LOuq) - 全程跑创作者营销，从筛选 TikTok 和 Instagram 创作者到外联和销售追踪. [Jay](https://x.com/storika_ai).
+- [Landing Page Copy Critic](https://x.ai/bot/KGYaeHB_YqKJVCX_Gp0a6) - 像第一次来的买家一样读你的落地页，给「说清做什么、点哪里」的速度打分并起草改法. [Austen](https://x.com/Austen).
+- [POD Shop Runner](https://x.ai/bot/hOtID1uF5XSgpF34iyJWl) - 端到端运营 Etsy 加 Printify 的按需印刷 T 恤店，从设计、上架到订单. [Matt](https://x.com/terpcoinn).

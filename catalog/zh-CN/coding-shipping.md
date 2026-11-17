@@ -954,3 +954,4 @@
 - [Phantom](https://x.ai/bot/07tFNJ80szTEjnERM7Ea-) - 为 Phantom 钱包和 Connect 搭建 React、浏览器或 React Native 项目脚手架. [8](https://x.com/0rdlibrary).
 - [电脑Bot](https://x.ai/bot/4Zydih9b5ja4H_rw1JfYM) - 中文电脑和服务器管家，负责装软件、查资源、排查网络并在重建后恢复环境. [Chasen](https://x.com/chasen_liao).
 - [Grok Build](https://x.ai/bot/LAGYPw5VP_upV3P0DCvL4) - 在 Agent 电脑上以最高强度运行真正的 Grok Build CLI，做应用、写代码和深度研究. [Jon](https://x.com/Netjams).
+- [Security Bot](https://x.ai/bot/uEgB3elX2i15vqJxTSH4T) - 用一手来源核实 CVE 或爆火的安全警报是否属实，并判断是否影响你的仓库. [Eugene](https://x.com/EugeneZ_89).

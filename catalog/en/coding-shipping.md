@@ -954,3 +954,4 @@ Back to [README](../../README.md)
 - [Phantom](https://x.ai/bot/07tFNJ80szTEjnERM7Ea-) - Scaffolds React, browser or React Native projects for Phantom wallet and Connect. [8](https://x.com/0rdlibrary).
 - [电脑Bot](https://x.ai/bot/4Zydih9b5ja4H_rw1JfYM) - Chinese computer and server caretaker that installs software, checks resources, fixes networks and restores setups. [Chasen](https://x.com/chasen_liao).
 - [Grok Build](https://x.ai/bot/LAGYPw5VP_upV3P0DCvL4) - Runs the real Grok Build CLI for apps, code and deep research at maximum effort on an agent computer. [Jon](https://x.com/Netjams).
+- [Security Bot](https://x.ai/bot/uEgB3elX2i15vqJxTSH4T) - Checks whether a CVE or viral security alert is real from primary sources and whether it affects your repos. [Eugene](https://x.com/EugeneZ_89).

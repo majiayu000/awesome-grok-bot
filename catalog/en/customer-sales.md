@@ -621,3 +621,5 @@ Back to [README](../../README.md)
 - [dbs 创业教练](https://x.ai/bot/kpZtlm5CADHoXaaAqTV5Z) - Helps founders get clear on their business by asking the right questions, then giving one task to finish this week, based on open-source dbskill. [dontbe](https://x.com/Sunkeke_AI).
 - [Dorito Founder Build Partner](https://x.ai/bot/HzqYfzEOde2Xt9Vtjj23C) - Build partner for solo founders with launch copy, local outreach, directory listings and investor prep ready to paste. [stands](https://x.com/cospopollitan).
 - [Storika](https://x.ai/bot/2gn3SQaXHj-K2JNZ7LOuq) - Runs creator campaigns end to end, from vetting TikTok and Instagram creators to outreach and sales tracking. [Jay](https://x.com/storika_ai).
+- [Landing Page Copy Critic](https://x.ai/bot/KGYaeHB_YqKJVCX_Gp0a6) - Reads your landing pages like a first-time buyer, scores how fast they say what you do and what to click, then drafts fixes. [Austen](https://x.com/Austen).
+- [POD Shop Runner](https://x.ai/bot/hOtID1uF5XSgpF34iyJWl) - Runs an Etsy and Printify print-on-demand T-shirt shop end to end from designs to listings and orders. [Matt](https://x.com/terpcoinn).

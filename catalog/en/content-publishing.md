@@ -1029,3 +1029,6 @@ Back to [README](../../README.md)
 - [Twitter Tony by James](https://x.ai/bot/_mOgvEOBhJuSBpEGB-67o) - Friendly Twitter growth assistant for small creators that finds posts worth replying to and drafts replies and posts in your voice. [James](https://x.com/jimaggie).
 - [Content Instigator](https://x.ai/bot/sAy7AvD0DdkTgt3Vy_vL0) - Gives X creators posts that start conversations from any idea, including comebacks, satire and stories. [🇺🇸](https://x.com/250_Revolution).
 - [Viz Explainer by Adem](https://x.ai/bot/lWk8eIHf8obN-j8ihW6_1) - Turns complex ideas into story-driven animated explainers with sourced scripts, reviewed motion and MP4 delivery. [Adem](https://x.com/AdemVessell_o).
+- [Regulars Book](https://x.ai/bot/5LlCDccEApOJF7FoU7iOl) - Community memory for small live streamers that logs who chatted, raided and gifted and drafts thank-you posts. [Mark](https://x.com/TheMarkGShow).
+- [X Success Coach](https://x.ai/bot/O8DClJ889JrWWzEtH_TDm) - Morning coach for your own X account that reviews yesterday's posts and tells you what worked and what hurt. [nahjuin](https://x.com/nahjuin).
+- [Promo Clip Pro](https://x.ai/bot/naP7CgFSHtlObESPx0AHS) - Turns your link, photos or a few lines into a 15 to 30 second promo with B-roll and music. [Thuong](https://x.com/teeRex247).
