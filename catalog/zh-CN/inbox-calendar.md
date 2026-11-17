@@ -312,3 +312,4 @@
 - [Florida Flip Phone Reply Guy](https://x.ai/bot/G_QJP5wz0W_nqzvRxgTlK) - 把你贴进来的邮件、短信或评论改写成一句简短冷面的回复，像佛罗里达大哥用老翻盖手机打的，只出草稿. [The](https://x.com/i).
 - [Inbox Zero by Peter](https://x.ai/bot/82VLs_jOVV_NPLMa4sWHr) - 在只读邮件的前提下帮你清空 Gmail 收件箱，每天发简短报告并生成可导入的过滤器文件. [Peter](https://x.com/peterpme).
 - [Inbox Ida](https://x.ai/bot/XlWvzllS0K4WpFh502I-h) - 适用于 Gmail、Outlook 和 Yahoo 的沉稳收件箱助手，规划清理、建议过滤规则并标出诈骗邮件. [James](https://x.com/jimaggie).
+- [First Week Crew](https://x.ai/bot/JvzKNX4bwA6gtUmlvtcZZ) - 面向 Grok Bot 新用户的入门助手，先帮你整理收件箱，未经你同意不会发送任何内容. [Calix](https://x.com/CaliLumberJack).

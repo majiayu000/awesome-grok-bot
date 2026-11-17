@@ -1032,3 +1032,5 @@ Back to [README](../../README.md)
 - [Regulars Book](https://x.ai/bot/5LlCDccEApOJF7FoU7iOl) - Community memory for small live streamers that logs who chatted, raided and gifted and drafts thank-you posts. [Mark](https://x.com/TheMarkGShow).
 - [X Success Coach](https://x.ai/bot/O8DClJ889JrWWzEtH_TDm) - Morning coach for your own X account that reviews yesterday's posts and tells you what worked and what hurt. [nahjuin](https://x.com/nahjuin).
 - [Promo Clip Pro](https://x.ai/bot/naP7CgFSHtlObESPx0AHS) - Turns your link, photos or a few lines into a 15 to 30 second promo with B-roll and music. [Thuong](https://x.com/teeRex247).
+- [洗稿Bot](https://x.ai/bot/2NSL2mxPreCBtS72ICxm2) - Rewrites drafts, emails and video scripts to sound human, keeps your voice and explains every change. [明路](https://x.com/zhang7978840).
+- [抖音审片员](https://x.ai/bot/dhC4qP2M89ztoVHBw5yk4) - Reviews Douyin videos and copy before posting, flags violation and throttling risks by timestamp with fixes. [明路](https://x.com/zhang7978840).

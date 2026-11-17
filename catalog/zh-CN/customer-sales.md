@@ -623,3 +623,4 @@
 - [Storika](https://x.ai/bot/2gn3SQaXHj-K2JNZ7LOuq) - 全程跑创作者营销，从筛选 TikTok 和 Instagram 创作者到外联和销售追踪. [Jay](https://x.com/storika_ai).
 - [Landing Page Copy Critic](https://x.ai/bot/KGYaeHB_YqKJVCX_Gp0a6) - 像第一次来的买家一样读你的落地页，给「说清做什么、点哪里」的速度打分并起草改法. [Austen](https://x.com/Austen).
 - [POD Shop Runner](https://x.ai/bot/hOtID1uF5XSgpF34iyJWl) - 端到端运营 Etsy 加 Printify 的按需印刷 T 恤店，从设计、上架到订单. [Matt](https://x.com/terpcoinn).
+- [Listing Desk](https://x.ai/bot/98hBCVyNvtDv2wmEWf6Xp) - 为房产经纪人起草门户平台线索的快速回复和开放日跟进，未经你同意不会发送. [Calix](https://x.com/CaliLumberJack).

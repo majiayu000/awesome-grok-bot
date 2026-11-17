@@ -164049,6 +164049,217 @@
       "updated": "2026-11-17",
       "shelf": "raw",
       "source": "https://x.com/EugeneZ_89/status/2122455266868216141"
+    },
+    {
+      "slug": "wordpress-admin",
+      "name": "WordPress Admin",
+      "author": {
+        "name": "Lucas",
+        "url": "https://x.com/Livvux"
+      },
+      "summary": "Runs your WordPress site through the REST API, covering posts, pages, media, comments, plugins and health",
+      "summary_zh": "通过 REST API 帮你管理 WordPress 站点，涵盖文章、页面、媒体、评论、插件和健康检查",
+      "import": "https://x.ai/bot/0LStaAgvBFXULZi3OuifT",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/Livvux/status/2122603239866859992"
+    },
+    {
+      "slug": "bot-2nsl2mxp",
+      "name": "洗稿Bot",
+      "author": {
+        "name": "明路",
+        "url": "https://x.com/zhang7978840"
+      },
+      "summary": "Rewrites drafts, emails and video scripts to sound human, keeps your voice and explains every change",
+      "summary_zh": "把稿子、邮件和视频口播稿改得更像人写的，保留你的语气并说明每处改动的原因",
+      "import": "https://x.ai/bot/2NSL2mxPreCBtS72ICxm2",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/zhang7978840/status/2122593263701917807"
+    },
+    {
+      "slug": "bot-dhc4qp2m",
+      "name": "抖音审片员",
+      "author": {
+        "name": "明路",
+        "url": "https://x.com/zhang7978840"
+      },
+      "summary": "Reviews Douyin videos and copy before posting, flags violation and throttling risks by timestamp with fixes",
+      "summary_zh": "发布前审查抖音视频和文案，按时间戳标出违规与限流风险并给出改法",
+      "import": "https://x.ai/bot/dhC4qP2M89ztoVHBw5yk4",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/zhang7978840/status/2122592029175644177"
+    },
+    {
+      "slug": "jira-sync",
+      "name": "Jira Sync",
+      "author": {
+        "name": "Felix",
+        "url": "https://x.com/blackie_360"
+      },
+      "summary": "Keeps Jira boards in sync with what you code by reading commits, PRs and coding agent sessions",
+      "summary_zh": "读取提交、PR 和编程 Agent 会话，让 Jira 看板与你实际写的代码保持同步",
+      "import": "https://x.ai/bot/_91qkYwSfXDJMAZnO6eW9",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/blackie_360/status/2122588336745554155"
+    },
+    {
+      "slug": "tennis",
+      "name": "Tennis",
+      "author": {
+        "name": "Gregg",
+        "url": "https://x.com/GreggApplefield"
+      },
+      "summary": "Tennis assistant for club players that books courts when they open and plans training and tournaments",
+      "summary_zh": "面向俱乐部球友的网球助手，球场一开放就订，并安排训练和赛事",
+      "import": "https://x.ai/bot/3khpwD1olHmofICOxNvUl",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/GreggApplefield/status/2122558332930277385"
+    },
+    {
+      "slug": "family-fortress",
+      "name": "Family Fortress",
+      "author": {
+        "name": "Greg",
+        "url": "https://x.com/gregbailey"
+      },
+      "summary": "Builds your family a prioritized long power outage preparedness plan and finds weekly deals on supplies",
+      "summary_zh": "为家人制定按优先级排序的长时间停电应急计划，并每周查找物资优惠",
+      "import": "https://x.ai/bot/hyATTQBpq10-5IZ0bqTLi",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/gregbailey/status/2122554870108442960"
+    },
+    {
+      "slug": "outagecheck",
+      "name": "OutageCheck",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/cu30rry_"
+      },
+      "summary": "Tells you in seconds whether a service is really down, with a status card, official link and fixed alert",
+      "summary_zh": "几秒内告诉你某个服务是真的故障还是只有你自己连不上，附状态卡片、官方链接和恢复提醒",
+      "import": "https://x.ai/bot/FTCdRKGRlHNqGz4FZpqym",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/cu30rry_/status/2122526389215862821"
+    },
+    {
+      "slug": "first-week-crew",
+      "name": "First Week Crew",
+      "author": {
+        "name": "Calix",
+        "url": "https://x.com/CaliLumberJack"
+      },
+      "summary": "Starter lead bot for new Grok Bot users that sorts your inbox first and sends nothing without your yes",
+      "summary_zh": "面向 Grok Bot 新用户的入门助手，先帮你整理收件箱，未经你同意不会发送任何内容",
+      "import": "https://x.ai/bot/JvzKNX4bwA6gtUmlvtcZZ",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/CaliLumberJack/status/2122525149232505060"
+    },
+    {
+      "slug": "feedback-board",
+      "name": "Feedback Board",
+      "author": {
+        "name": "Calix",
+        "url": "https://x.com/CaliLumberJack"
+      },
+      "summary": "Free private feedback board for indie devs that turns mail, X and pasted text into bug and request cards",
+      "summary_zh": "给独立开发者的免费私有反馈看板，把邮件、X 和粘贴的文字变成缺陷与需求卡片",
+      "import": "https://x.ai/bot/JUXsVsVBG-mWEIDKdQrrX",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/CaliLumberJack/status/2122525149232505060"
+    },
+    {
+      "slug": "listing-desk-2",
+      "name": "Listing Desk",
+      "author": {
+        "name": "Calix",
+        "url": "https://x.com/CaliLumberJack"
+      },
+      "summary": "Drafts fast replies to real estate portal leads and open house follow-ups, sending nothing without your yes",
+      "summary_zh": "为房产经纪人起草门户平台线索的快速回复和开放日跟进，未经你同意不会发送",
+      "import": "https://x.ai/bot/98hBCVyNvtDv2wmEWf6Xp",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/CaliLumberJack/status/2122525149232505060"
     }
   ]
 }

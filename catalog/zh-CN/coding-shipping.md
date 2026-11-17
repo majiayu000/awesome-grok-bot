@@ -955,3 +955,7 @@
 - [电脑Bot](https://x.ai/bot/4Zydih9b5ja4H_rw1JfYM) - 中文电脑和服务器管家，负责装软件、查资源、排查网络并在重建后恢复环境. [Chasen](https://x.com/chasen_liao).
 - [Grok Build](https://x.ai/bot/LAGYPw5VP_upV3P0DCvL4) - 在 Agent 电脑上以最高强度运行真正的 Grok Build CLI，做应用、写代码和深度研究. [Jon](https://x.com/Netjams).
 - [Security Bot](https://x.ai/bot/uEgB3elX2i15vqJxTSH4T) - 用一手来源核实 CVE 或爆火的安全警报是否属实，并判断是否影响你的仓库. [Eugene](https://x.com/EugeneZ_89).
+- [WordPress Admin](https://x.ai/bot/0LStaAgvBFXULZi3OuifT) - 通过 REST API 帮你管理 WordPress 站点，涵盖文章、页面、媒体、评论、插件和健康检查. [Lucas](https://x.com/Livvux).
+- [Jira Sync](https://x.ai/bot/_91qkYwSfXDJMAZnO6eW9) - 读取提交、PR 和编程 Agent 会话，让 Jira 看板与你实际写的代码保持同步. [Felix](https://x.com/blackie_360).
+- [OutageCheck](https://x.ai/bot/FTCdRKGRlHNqGz4FZpqym) - 几秒内告诉你某个服务是真的故障还是只有你自己连不上，附状态卡片、官方链接和恢复提醒. [John](https://x.com/cu30rry_).
+- [Feedback Board](https://x.ai/bot/JUXsVsVBG-mWEIDKdQrrX) - 给独立开发者的免费私有反馈看板，把邮件、X 和粘贴的文字变成缺陷与需求卡片. [Calix](https://x.com/CaliLumberJack).

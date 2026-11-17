@@ -185,3 +185,5 @@
 - [iRacing Chief](https://x.ai/bot/EaWvWQXCCPEQuVh_AacHB) - 根据你的执照、评级、已购内容和偏好系列生成的个人 iRacing 赛季规划师. [YupYupp](https://x.com/yupyup).
 - [Hue Bot](https://x.ai/bot/eAGnFK9dT-WxJ32RCFd4o) - 通过聊天控制飞利浦 Hue 灯，配对网关、开关房间、设置夜间模式并安排定时. [Francisco](https://x.com/FranciscoKemeny).
 - [Pit Crew](https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk) - 集厨房搭子、训练教练和健康台于一体，记录饮食、指导运动并跟踪预约和用药. [Mike](https://x.com/mikepat711).
+- [Tennis](https://x.ai/bot/3khpwD1olHmofICOxNvUl) - 面向俱乐部球友的网球助手，球场一开放就订，并安排训练和赛事. [Gregg](https://x.com/GreggApplefield).
+- [Family Fortress](https://x.ai/bot/hyATTQBpq10-5IZ0bqTLi) - 为家人制定按优先级排序的长时间停电应急计划，并每周查找物资优惠. [Greg](https://x.com/gregbailey).

@@ -185,3 +185,5 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [iRacing Chief](https://x.ai/bot/EaWvWQXCCPEQuVh_AacHB) - Personal iRacing season planner built from your licences, ratings, owned content and favourite series. [YupYupp](https://x.com/yupyup).
 - [Hue Bot](https://x.ai/bot/eAGnFK9dT-WxJ32RCFd4o) - Controls your Philips Hue lights by chat\: pairs the bridge, switches rooms, sets night mode and schedules. [Francisco](https://x.com/FranciscoKemeny).
 - [Pit Crew](https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk) - Kitchen buddy, training coach and health desk in one that logs meals, coaches your sport and tracks appointments. [Mike](https://x.com/mikepat711).
+- [Tennis](https://x.ai/bot/3khpwD1olHmofICOxNvUl) - Tennis assistant for club players that books courts when they open and plans training and tournaments. [Gregg](https://x.com/GreggApplefield).
+- [Family Fortress](https://x.ai/bot/hyATTQBpq10-5IZ0bqTLi) - Builds your family a prioritized long power outage preparedness plan and finds weekly deals on supplies. [Greg](https://x.com/gregbailey).

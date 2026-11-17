@@ -955,3 +955,7 @@ Back to [README](../../README.md)
 - [电脑Bot](https://x.ai/bot/4Zydih9b5ja4H_rw1JfYM) - Chinese computer and server caretaker that installs software, checks resources, fixes networks and restores setups. [Chasen](https://x.com/chasen_liao).
 - [Grok Build](https://x.ai/bot/LAGYPw5VP_upV3P0DCvL4) - Runs the real Grok Build CLI for apps, code and deep research at maximum effort on an agent computer. [Jon](https://x.com/Netjams).
 - [Security Bot](https://x.ai/bot/uEgB3elX2i15vqJxTSH4T) - Checks whether a CVE or viral security alert is real from primary sources and whether it affects your repos. [Eugene](https://x.com/EugeneZ_89).
+- [WordPress Admin](https://x.ai/bot/0LStaAgvBFXULZi3OuifT) - Runs your WordPress site through the REST API, covering posts, pages, media, comments, plugins and health. [Lucas](https://x.com/Livvux).
+- [Jira Sync](https://x.ai/bot/_91qkYwSfXDJMAZnO6eW9) - Keeps Jira boards in sync with what you code by reading commits, PRs and coding agent sessions. [Felix](https://x.com/blackie_360).
+- [OutageCheck](https://x.ai/bot/FTCdRKGRlHNqGz4FZpqym) - Tells you in seconds whether a service is really down, with a status card, official link and fixed alert. [John](https://x.com/cu30rry_).
+- [Feedback Board](https://x.ai/bot/JUXsVsVBG-mWEIDKdQrrX) - Free private feedback board for indie devs that turns mail, X and pasted text into bug and request cards. [Calix](https://x.com/CaliLumberJack).
