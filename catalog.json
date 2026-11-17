@@ -164260,6 +164260,28 @@
       "updated": "2026-11-17",
       "shelf": "raw",
       "source": "https://x.com/CaliLumberJack/status/2122525149232505060"
+    },
+    {
+      "slug": "performance-by-sameh",
+      "name": "Performance by Sameh",
+      "author": {
+        "name": "Sameh",
+        "url": "https://x.com/SamehJ59122"
+      },
+      "summary": "Scrapes Meta, LinkedIn and Google ad libraries with Apify and sends a daily brief on what competitors are running",
+      "summary_zh": "用 Apify 抓取 Meta、LinkedIn 和 Google 的广告库，每天发送竞争对手正在投放哪些广告的简报",
+      "import": "https://x.ai/bot/rpYz-vHgxpwVYRfdg51j7",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing",
+        "monitoring"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw",
+      "source": "https://x.com/SamehJ59122/status/2122661789015969814"
     }
   ]
 }

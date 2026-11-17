@@ -920,3 +920,4 @@ Back to [README](../../README.md)
 - [Local Gazette by Pascal](https://x.ai/bot/rgDSVcuH-K8hlPZqwFuFN) - Private local newspaper for any town that finds your area's news sources and collects them twice a day at most. [Pascal](https://x.com/p45c41).
 - [AI Tool Finder](https://x.ai/bot/e9vSkxBmMjD3lZVwk05Nm) - Picks up to three AI tools for your goal, budget and language, with prices and a comparison link. [Takahiro](https://x.com/toolport_ai).
 - [Event and Giveaway](https://x.ai/bot/1rfzYPVkI-WE6-ci4VS-I) - Scans official crypto exchange accounts on X for events and giveaways you can still join and ranks them. [Toàn](https://x.com/toannhu_it).
+- [Performance by Sameh](https://x.ai/bot/rpYz-vHgxpwVYRfdg51j7) - Scrapes Meta, LinkedIn and Google ad libraries with Apify and sends a daily brief on what competitors are running. [Sameh](https://x.com/SamehJ59122).
