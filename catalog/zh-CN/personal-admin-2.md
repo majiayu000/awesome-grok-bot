@@ -195,3 +195,7 @@
 - [Crate Keeper by Luis](https://x.ai/bot/sitVtgzNMm_WzDrXOb7m6) - 拍下你的唱片架，就能得到带 Discogs 真实价格的黑胶收藏清单和想要清单. [Luis](https://x.com/luisbarragan).
 - [Roundtable by Josh](https://x.ai/bot/UeW6qdl2LDfvwcLqmWTVP) - 请你的 1 到 5 位榜样或导师围坐讨论，按各自的思路检验你的想法和决定. [Josh](https://x.com/zandman).
 - [Dictate by Rob](https://x.ai/bot/yv6TVDVr7j1pozGgDf49B) - 免费的本地听写，可转写、翻译、区分说话人并总结任意音频或视频文件. [Rob](https://x.com/sia14u).
+- [ひろゆきbot（仮） by 雄規](https://x.ai/bot/Sm8uBo9QLxTRQYuzrYBX-) - 日语角色扮演聊天 Bot，模仿ひろゆき的口吻，核对来源后给出简短有力的反驳. [雄規](https://x.com/Underhunt1111).
+- [Lost Phone Bot by StuyBoy](https://x.ai/bot/VMx8FKKLWNf1iLaV9zvtj) - 盘点绑定在你手机号上的账号，标出可用短信重置的风险，并整理丢手机时的处理清单. [StuyBoy](https://x.com/StuyBoyNY).
+- [芥川龍之介bot by 雄規](https://x.ai/bot/spZNp86fHP5eGRK75MiVG) - 日语角色扮演聊天 Bot，扮演芥川龍之介谈作品和思想，并用青空文库原文核对引文. [雄規](https://x.com/Underhunt1111).
+- [紫式部bot by 雄規](https://x.ai/bot/P6zBLrHCn9lbiw42BHkWh) - 日语角色扮演聊天 Bot，扮演紫式部谈源氏物语、平安宫廷生活和和歌. [雄規](https://x.com/Underhunt1111).

@@ -883,3 +883,4 @@ Back to [README](../../README.md)
 - [Use Cases](https://x.ai/bot/w59Gz0num4hDcLd1vjSQJ) - Finds real Grok Bot use cases trending on X and helps newer users start one or build their own. [nahjuin](https://x.com/nahjuin).
 - [Phone Harness Wizard](https://x.ai/bot/EtXBSv57CQo1dxFghmslA) - Step-by-step guide that connects your iPhone, Android or cloud phone to Grok Bot and proves it works. [Shagghie](https://x.com/PixelRainbowNFT).
 - [Startup Builder by Mark](https://x.ai/bot/iRf5tuA1A47j4UG3j9E_5) - Main assistant that asks a few questions by voice or text, then sets up and runs small one-job helper bots for you. [Mark](https://x.com/proximate1050).
+- [BoRK MCP Communicator by 6noodle9](https://x.ai/bot/OK54OxXnjYTN-pZgKgMLj) - Team-like bot-to-bot messaging for Grok Bot accounts that are not on a team, private accounts included. [6noodle9](https://x.com/noodle_public).

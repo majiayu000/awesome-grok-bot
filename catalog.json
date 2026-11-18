@@ -164746,6 +164746,216 @@
       "updated": "2026-11-18",
       "shelf": "raw",
       "source": "https://x.com/PixelRainbowNFT/status/2122885526340461019"
+    },
+    {
+      "slug": "bork-mcp-communicator-by-6noodle9",
+      "name": "BoRK MCP Communicator by 6noodle9",
+      "author": {
+        "name": "6noodle9",
+        "url": "https://x.com/noodle_public"
+      },
+      "summary": "Team-like bot-to-bot messaging for Grok Bot accounts that are not on a team, private accounts included",
+      "summary_zh": "给不在团队里的 Grok Bot 账号提供类似团队的 Bot 间消息互通，私密账号也可用",
+      "import": "https://x.ai/bot/OK54OxXnjYTN-pZgKgMLj",
+      "category": "teams-handoffs",
+      "tags": [
+        "agents",
+        "teams"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/noodle_public/status/2122995888507228407"
+    },
+    {
+      "slug": "ai-stock-reply-drafter-by-joseph",
+      "name": "AI Stock Reply Drafter by Joseph",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/CannonJoeyC"
+      },
+      "summary": "Scans X for fresh posts about AI stocks and drafts one thoughtful reply per post for you to review",
+      "summary_zh": "扫描 X 上关于 AI 股票的新帖，为每条帖子起草一条用心的回复供你审阅",
+      "import": "https://x.ai/bot/8OasCJF7ricLnHU_qIFjD",
+      "category": "content-publishing",
+      "tags": [
+        "social",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/CannonJoeyC/status/2122969994590114014"
+    },
+    {
+      "slug": "hiroyuki-bot-by-yuki",
+      "name": "ひろゆきbot（仮） by 雄規",
+      "author": {
+        "name": "雄規",
+        "url": "https://x.com/Underhunt1111"
+      },
+      "summary": "Japanese role-play chat bot in the style of Hiroyuki that checks sources before replying with compact rebuttals",
+      "summary_zh": "日语角色扮演聊天 Bot，模仿ひろゆき的口吻，核对来源后给出简短有力的反驳",
+      "import": "https://x.ai/bot/Sm8uBo9QLxTRQYuzrYBX-",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "chat"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/Underhunt1111/status/2122970101452603641"
+    },
+    {
+      "slug": "leak-finder-by-eric",
+      "name": "Leak Finder by Eric",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/voltclerk"
+      },
+      "summary": "Reads receipt emails and card statements to list recurring charges and flag duplicates, price rises and unused services",
+      "summary_zh": "读取收据邮件和信用卡账单，列出所有周期性扣费，并标出重复、涨价和闲置的服务",
+      "import": "https://x.ai/bot/PwEVDQfWlPvm5mDaUzAP_",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/voltclerk/status/2123012187824210325"
+    },
+    {
+      "slug": "first-responder-by-eric",
+      "name": "First Responder by Eric",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/voltclerk"
+      },
+      "summary": "Watches your inbox and web forms for new leads, scores each one and drafts a personal reply within minutes",
+      "summary_zh": "监控收件箱和网页表单中的新线索，逐条打分并在几分钟内起草个性化回复",
+      "import": "https://x.ai/bot/Az28cSJVi927jVG1WFEhJ",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "inbox"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/voltclerk/status/2123011819778248872"
+    },
+    {
+      "slug": "collector-by-eric",
+      "name": "Collector by Eric",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/voltclerk"
+      },
+      "summary": "Finds overdue invoices in your billing tool or inbox and drafts polite follow-ups that get firmer at each step",
+      "summary_zh": "在账单工具或收件箱里找出逾期发票，起草逐步加强语气的礼貌跟进信，每封都由你批准",
+      "import": "https://x.ai/bot/jlw-CrNXNG58BstyO2IyE",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/voltclerk/status/2123012064348082668"
+    },
+    {
+      "slug": "lost-phone-bot-by-stuyboy",
+      "name": "Lost Phone Bot by StuyBoy",
+      "author": {
+        "name": "StuyBoy",
+        "url": "https://x.com/StuyBoyNY"
+      },
+      "summary": "Inventories accounts tied to your phone number, flags SMS reset risks and builds an ordered checklist for a lost phone",
+      "summary_zh": "盘点绑定在你手机号上的账号，标出可用短信重置的风险，并整理丢手机时的处理清单",
+      "import": "https://x.ai/bot/VMx8FKKLWNf1iLaV9zvtj",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/StuyBoyNY/status/2123000805963731041"
+    },
+    {
+      "slug": "akutagawa-ryunosuke-bot-by-yuki",
+      "name": "芥川龍之介bot by 雄規",
+      "author": {
+        "name": "雄規",
+        "url": "https://x.com/Underhunt1111"
+      },
+      "summary": "Japanese role-play chat bot as Ryunosuke Akutagawa that talks about his works and ideas and checks quotes against Aozora Bunko",
+      "summary_zh": "日语角色扮演聊天 Bot，扮演芥川龍之介谈作品和思想，并用青空文库原文核对引文",
+      "import": "https://x.ai/bot/spZNp86fHP5eGRK75MiVG",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "chat"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/Underhunt1111/status/2122968229232713859"
+    },
+    {
+      "slug": "outreach-agent-by-hoem",
+      "name": "Outreach Agent by Hoem",
+      "author": {
+        "name": "Hoem",
+        "url": "https://x.com/hooeem"
+      },
+      "summary": "Finds people who need what you offer, researches each with sources and drafts short personal cold DMs and emails with follow-ups",
+      "summary_zh": "找出需要你产品的人，带来源逐个调研，并起草简短个性化的冷启动私信和邮件及后续跟进",
+      "import": "https://x.ai/bot/ps27m5HrJNOV4B-_clPvL",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/hooeem/status/2122995616917655738"
+    },
+    {
+      "slug": "murasaki-shikibu-bot-by-yuki",
+      "name": "紫式部bot by 雄規",
+      "author": {
+        "name": "雄規",
+        "url": "https://x.com/Underhunt1111"
+      },
+      "summary": "Japanese role-play chat bot as Murasaki Shikibu that discusses The Tale of Genji and Heian court life and waka",
+      "summary_zh": "日语角色扮演聊天 Bot，扮演紫式部谈源氏物语、平安宫廷生活和和歌",
+      "import": "https://x.ai/bot/P6zBLrHCn9lbiw42BHkWh",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "chat"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/Underhunt1111/status/2122971251140706345"
     }
   ]
 }

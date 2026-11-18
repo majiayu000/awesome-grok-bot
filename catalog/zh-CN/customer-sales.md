@@ -628,3 +628,5 @@
 - [Fathomed Fence Estimator by CompanyFramework](https://x.ai/bot/aVcHg17eb4PwCQQO8PLQL) - 面向承包商的免费 Bot，把围栏布局按每一段算出材料和人工估价，只用你自己的价格. [CompanyFramework](https://x.com/HouseDavenport).
 - [Fathomed Flooring Estimator by CompanyFramework](https://x.ai/bot/MZfN4z5mNZwrbRoSwuzQs) - 面向地板承包商的免费 Bot，计算房间面积、铺装损耗、箱数、衬垫、收口条和安装用量. [CompanyFramework](https://x.com/HouseDavenport).
 - [Real Estate Leads & Market Reports by oso](https://x.ai/bot/c6YxR8hU9cxYgqNLyetj1) - 面向房产经纪人的只读开发助手，每天提供过期、撤下和房东自售房源线索以及市场报告. [oso](https://x.com/oso_fps).
+- [First Responder by Eric](https://x.ai/bot/Az28cSJVi927jVG1WFEhJ) - 监控收件箱和网页表单中的新线索，逐条打分并在几分钟内起草个性化回复. [Eric](https://x.com/voltclerk).
+- [Outreach Agent by Hoem](https://x.ai/bot/ps27m5HrJNOV4B-_clPvL) - 找出需要你产品的人，带来源逐个调研，并起草简短个性化的冷启动私信和邮件及后续跟进. [Hoem](https://x.com/hooeem).

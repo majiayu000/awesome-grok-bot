@@ -771,3 +771,5 @@ Back to [README](../../README.md)
 - [Mint](https://x.ai/bot/tvmfOk0l-iJ89F7bBFUKd) - A household CFO for families that tracks balances, bills, debts, savings and credit. [TechEcho](https://x.com/techechohq).
 - [QuickBooks Bookkeeper](https://x.ai/bot/vjeRu1uvIhqcoEjWgS5ac) - A careful bookkeeper for small businesses on QuickBooks Online that reconciles statements. [Dr.](https://x.com/billycanada).
 - [工程咨询专家](https://x.ai/bot/DlixFdCuzb5XLbSaq4lFr) - Helps cost and audit professionals look up knowledge bases, map workflows and rules, and draft digital requirements. [阿嚓](https://x.com/ramdolphlim).
+- [Leak Finder by Eric](https://x.ai/bot/PwEVDQfWlPvm5mDaUzAP_) - Reads receipt emails and card statements to list recurring charges and flag duplicates, price rises and unused services. [Eric](https://x.com/voltclerk).
+- [Collector by Eric](https://x.ai/bot/jlw-CrNXNG58BstyO2IyE) - Finds overdue invoices in your billing tool or inbox and drafts polite follow-ups that get firmer at each step. [Eric](https://x.com/voltclerk).

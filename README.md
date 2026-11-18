@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7926 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 7936 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -110,14 +110,14 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Coding & shipping](#coding--shipping) | 957 |
 | [Inbox & calendar](#inbox--calendar) | 311 |
 | [Research & briefings](#research--briefings) | 921 |
-| [Customer & sales](#customer--sales) | 626 |
-| [Finance & ops](#finance--ops) | 769 |
-| [Content & publishing](#content--publishing) | 1039 |
-| [Personal admin](#personal-admin) | 2422 |
-| [Teams & handoffs](#teams--handoffs) | 881 |
-| **Total** | **7926** |
+| [Customer & sales](#customer--sales) | 628 |
+| [Finance & ops](#finance--ops) | 771 |
+| [Content & publishing](#content--publishing) | 1040 |
+| [Personal admin](#personal-admin) | 2426 |
+| [Teams & handoffs](#teams--handoffs) | 882 |
+| **Total** | **7936** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, the evening delta added 2 more, on 14 Nov 2026 the morning full hunt added 26 more, and the afternoon delta added 4 more and the evening delta added 5 more, on 15 Nov 2026 the morning full hunt added 10 more, the afternoon delta added 5 more and the evening delta added 3 more, on 16 Nov 2026 the morning full hunt added 11 more and the afternoon delta added 8 more and the evening delta added 2 more, on 17 Nov 2026 the morning full hunt added 14 more and the afternoon delta added 10 more and the evening delta added 1 more, on 18 Nov 2026 the morning full hunt added 19 more and the afternoon delta added 3 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7926 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, the evening delta added 2 more, on 14 Nov 2026 the morning full hunt added 26 more, and the afternoon delta added 4 more and the evening delta added 5 more, on 15 Nov 2026 the morning full hunt added 10 more, the afternoon delta added 5 more and the evening delta added 3 more, on 16 Nov 2026 the morning full hunt added 11 more and the afternoon delta added 8 more and the evening delta added 2 more, on 17 Nov 2026 the morning full hunt added 14 more and the afternoon delta added 10 more and the evening delta added 1 more, on 18 Nov 2026 the morning full hunt added 19 more and the afternoon delta added 3 more and the evening delta added 10 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7936 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -267,23 +267,23 @@ Full list (921 shares): [catalog/en/research-briefings.md](catalog/en/research-b
 
 ## Customer & sales
 
-Full list (626 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (628 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
-Full list (769 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
+Full list (771 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (1039 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (1040 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (2422 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
+Full list (2426 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md), [catalog/en/personal-admin-2.md](catalog/en/personal-admin-2.md)
 
 ## Teams & handoffs
 
-Full list (881 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (882 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 
