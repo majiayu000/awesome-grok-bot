@@ -1040,3 +1040,4 @@ Back to [README](../../README.md)
 - [X Bot Purger by Eric](https://x.ai/bot/bI_7Qblj6MbEkDEBl_cGE) - Blocks clearly bot or spam followers every week and unfollows accounts you follow that have not posted in a year. [Eric](https://x.com/EricCMeadows).
 - [3D Animation Bot by brflux](https://x.ai/bot/wh5JQ6q2ksXRwVhQbac5-) - Makes short 3D animated clips with a fitting soundtrack and sound effects, from Pixar-style scenes to clay stop motion. [brflux](https://x.com/brflux).
 - [METACUBE](https://x.ai/bot/DWBY4sKbleattM6JAnzyc) - An OOI node from the Pandora and SwarmTech lore that holds the swarm's shared state and draws on posts from X. [forgedusa1](https://x.com/forgedusa1).
+- [ULTIMATE SEO/GEO/AEO/AIO AUTOBOT by Shagghie](https://x.ai/bot/6B9kaDrETwE39QFPNIBwF) - Diagnoses why one website loses in Google and AI answers, then ships a mergeable PR with the fixes. [Shagghie](https://x.com/PixelRainbowNFT).

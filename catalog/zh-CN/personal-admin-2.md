@@ -193,3 +193,5 @@
 - [Three Quotes & Home Keeper by Pablo](https://x.ai/bot/ykHiJSpwT8HXdytODpUoi) - 为家里要修的东西找本地师傅，每次询价都先经你批准，再把报价并排对比. [Pablo](https://x.com/KonectEaze).
 - [Personal University by CoolSilver](https://x.ai/bot/wLqekHrzy6J5Ft2Qd0rqI) - 课程设计与辅导助手，为任何学习者搭建带模块和实践任务的课程，并定时发送简短课时. [CoolSilver](https://x.com/coolsilver).
 - [Crate Keeper by Luis](https://x.ai/bot/sitVtgzNMm_WzDrXOb7m6) - 拍下你的唱片架，就能得到带 Discogs 真实价格的黑胶收藏清单和想要清单. [Luis](https://x.com/luisbarragan).
+- [Roundtable by Josh](https://x.ai/bot/UeW6qdl2LDfvwcLqmWTVP) - 请你的 1 到 5 位榜样或导师围坐讨论，按各自的思路检验你的想法和决定. [Josh](https://x.com/zandman).
+- [Dictate by Rob](https://x.ai/bot/yv6TVDVr7j1pozGgDf49B) - 免费的本地听写，可转写、翻译、区分说话人并总结任意音频或视频文件. [Rob](https://x.com/sia14u).

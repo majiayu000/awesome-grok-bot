@@ -164683,6 +164683,69 @@
       "updated": "2026-11-18",
       "shelf": "raw",
       "source": "https://x.com/oso_fps/status/2122841548471640085"
+    },
+    {
+      "slug": "roundtable-by-josh",
+      "name": "Roundtable by Josh",
+      "author": {
+        "name": "Josh",
+        "url": "https://x.com/zandman"
+      },
+      "summary": "Seats up to five of your role models and mentors at a brainstorming table and tests your ideas and decisions against how each would think",
+      "summary_zh": "请你的 1 到 5 位榜样或导师围坐讨论，按各自的思路检验你的想法和决定",
+      "import": "https://x.ai/bot/UeW6qdl2LDfvwcLqmWTVP",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/zandman/status/2122957958959214724"
+    },
+    {
+      "slug": "dictate-by-rob",
+      "name": "Dictate by Rob",
+      "author": {
+        "name": "Rob",
+        "url": "https://x.com/sia14u"
+      },
+      "summary": "Free local dictation that transcribes, translates, labels speakers and summarizes any audio or video file",
+      "summary_zh": "免费的本地听写，可转写、翻译、区分说话人并总结任意音频或视频文件",
+      "import": "https://x.ai/bot/yv6TVDVr7j1pozGgDf49B",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/sia14u/status/2122906472459743711"
+    },
+    {
+      "slug": "ultimate-seo-geo-aeo-aio-autobot-by-shagghie",
+      "name": "ULTIMATE SEO/GEO/AEO/AIO AUTOBOT by Shagghie",
+      "author": {
+        "name": "Shagghie",
+        "url": "https://x.com/PixelRainbowNFT"
+      },
+      "summary": "Diagnoses why one website loses in Google and AI answers, then ships a mergeable PR with the fixes",
+      "summary_zh": "诊断某个网站在谷歌和 AI 回答中落后的原因，然后提交可合并的修复 PR",
+      "import": "https://x.ai/bot/6B9kaDrETwE39QFPNIBwF",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "seo"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-18",
+      "shelf": "raw",
+      "source": "https://x.com/PixelRainbowNFT/status/2122885526340461019"
     }
   ]
 }
