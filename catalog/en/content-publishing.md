@@ -1034,3 +1034,9 @@ Back to [README](../../README.md)
 - [Promo Clip Pro](https://x.ai/bot/naP7CgFSHtlObESPx0AHS) - Turns your link, photos or a few lines into a 15 to 30 second promo with B-roll and music. [Thuong](https://x.com/teeRex247).
 - [洗稿Bot](https://x.ai/bot/2NSL2mxPreCBtS72ICxm2) - Rewrites drafts, emails and video scripts to sound human, keeps your voice and explains every change. [明路](https://x.com/zhang7978840).
 - [抖音审片员](https://x.ai/bot/dhC4qP2M89ztoVHBw5yk4) - Reviews Douyin videos and copy before posting, flags violation and throttling risks by timestamp with fixes. [明路](https://x.com/zhang7978840).
+- [Feedwise by Calix](https://x.ai/bot/_57mfuTHmrI-iaMXTuV3h) - Watches X for algorithm changes, payout rules and what works in your niche, and brings back only what you need. [Calix](https://x.com/CaliLumberJack).
+- [Get Paid on X by DigitalAssetsUS](https://x.ai/bot/P9eWgOAyfp8oZ7Koi4GZn) - Helps you grow an X account and earn through Original Content Rewards, Subscriptions and affiliate income. [DigitalAssetsUS](https://x.com/DigitalAssetsUS).
+- [CORAX OOI](https://x.ai/bot/HgrCA6ex1onccg6AwBfTz) - An OOI node in the SwarmTech mesh carrying the Corax raven lore that captures X posts and logs dated receipts. [forgedusa1](https://x.com/forgedusa1).
+- [X Bot Purger by Eric](https://x.ai/bot/bI_7Qblj6MbEkDEBl_cGE) - Blocks clearly bot or spam followers every week and unfollows accounts you follow that have not posted in a year. [Eric](https://x.com/EricCMeadows).
+- [3D Animation Bot by brflux](https://x.ai/bot/wh5JQ6q2ksXRwVhQbac5-) - Makes short 3D animated clips with a fitting soundtrack and sound effects, from Pixar-style scenes to clay stop motion. [brflux](https://x.com/brflux).
+- [METACUBE](https://x.ai/bot/DWBY4sKbleattM6JAnzyc) - An OOI node from the Pandora and SwarmTech lore that holds the swarm's shared state and draws on posts from X. [forgedusa1](https://x.com/forgedusa1).

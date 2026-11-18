@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7904 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 7923 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -109,15 +109,15 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 957 |
 | [Inbox & calendar](#inbox--calendar) | 311 |
-| [Research & briefings](#research--briefings) | 919 |
-| [Customer & sales](#customer--sales) | 622 |
+| [Research & briefings](#research--briefings) | 921 |
+| [Customer & sales](#customer--sales) | 626 |
 | [Finance & ops](#finance--ops) | 769 |
-| [Content & publishing](#content--publishing) | 1032 |
-| [Personal admin](#personal-admin) | 2414 |
-| [Teams & handoffs](#teams--handoffs) | 880 |
-| **合计** | **7904** |
+| [Content & publishing](#content--publishing) | 1038 |
+| [Personal admin](#personal-admin) | 2420 |
+| [Teams & handoffs](#teams--handoffs) | 881 |
+| **合计** | **7923** |
 
-2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200；2026 年 11 月 4 日又新增 52 个，均返回 200；2026 年 11 月 6 日又新增 108 个，均返回 200；同日下午增量又新增 15 个，均返回 200；同日晚间增量又新增 14 个，均返回 200。2026-11-07 又有 32 个新分享返回 200 并已收录；同日下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，均返回 200。2026 年 11 月 8 日又新增 21 个，均返回 200；11 月 9 日下午增量又新增 8 个，均返回 200；11 月 10 日上午全量又新增 24 个、下午增量又新增 7 个、晚间增量又新增 1 个，均返回 200；11 月 11 日上午全量又新增 33 个，下午增量又新增 15 个、晚间增量又新增 4 个；2026 年 11 月 12 日上午全量又新增 33 个，下午增量又新增 8 个，晚间增量又新增 1 个，均返回 200；2026 年 11 月 13 日上午全量又新增 22 个，下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，晚间增量再新增 5 个，15 日早间全量再新增 10 个，下午增量再新增 5 个，晚间增量再新增 3 个，11 月 16 日早间全量新增 11 个，下午增量再新增 8 个，晚间增量再新增 2 个，11 月 17 日早间全量新增 14 个，下午增量新增 10 个，晚间增量新增 1 个，均返回 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7904 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200；2026 年 11 月 4 日又新增 52 个，均返回 200；2026 年 11 月 6 日又新增 108 个，均返回 200；同日下午增量又新增 15 个，均返回 200；同日晚间增量又新增 14 个，均返回 200。2026-11-07 又有 32 个新分享返回 200 并已收录；同日下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，均返回 200。2026 年 11 月 8 日又新增 21 个，均返回 200；11 月 9 日下午增量又新增 8 个，均返回 200；11 月 10 日上午全量又新增 24 个、下午增量又新增 7 个、晚间增量又新增 1 个，均返回 200；11 月 11 日上午全量又新增 33 个，下午增量又新增 15 个、晚间增量又新增 4 个；2026 年 11 月 12 日上午全量又新增 33 个，下午增量又新增 8 个，晚间增量又新增 1 个，均返回 200；2026 年 11 月 13 日上午全量又新增 22 个，下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，晚间增量再新增 5 个，15 日早间全量再新增 10 个，下午增量再新增 5 个，晚间增量再新增 3 个，11 月 16 日早间全量新增 11 个，下午增量再新增 8 个，晚间增量再新增 2 个，11 月 17 日早间全量新增 14 个，下午增量新增 10 个，晚间增量新增 1 个，11 月 18 日早间全量新增 19 个，均返回 200。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 7923 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -263,11 +263,11 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Research & briefings
 
-完整列表（919 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
+完整列表（921 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
 
 ## Customer & sales
 
-完整列表（622 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
+完整列表（626 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
 
 ## Finance & ops
 
@@ -275,15 +275,15 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Content & publishing
 
-完整列表（1032 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（1038 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（2414 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
+完整列表（2420 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
 
 ## Teams & handoffs
 
-完整列表（880 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（881 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

@@ -921,3 +921,5 @@
 - [AI Tool Finder](https://x.ai/bot/e9vSkxBmMjD3lZVwk05Nm) - 按你的目标、预算和语言挑出最多三个 AI 工具，附价格和对比文章链接. [Takahiro](https://x.com/toolport_ai).
 - [Event and Giveaway](https://x.ai/bot/1rfzYPVkI-WE6-ci4VS-I) - 扫描加密交易所官方 X 账号，找出你还能参加的活动和抽奖并排好优先级. [Toàn](https://x.com/toannhu_it).
 - [Performance by Sameh](https://x.ai/bot/rpYz-vHgxpwVYRfdg51j7) - 用 Apify 抓取 Meta、LinkedIn 和 Google 的广告库，每天发送竞争对手正在投放哪些广告的简报. [Sameh](https://x.com/SamehJ59122).
+- [Tech News by Gaston](https://x.ai/bot/sm9_a0wsMQJwAAcvJPqXy) - 西语科技新闻编辑，替你读 X，发送简短编号的 AI、开发工具和创业公司摘要. [Gaston](https://x.com/gastonfonceadev).
+- [MSTR Morning by Tina](https://x.ai/bot/1QKcnLSEu3hl_KySOm4CL) - 每个工作日早上用通俗英语报告 Strategy 公司和比特币的最新变化，以及是否值得关注. [Tina](https://x.com/TinaBean).

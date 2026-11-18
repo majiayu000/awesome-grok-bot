@@ -921,3 +921,5 @@ Back to [README](../../README.md)
 - [AI Tool Finder](https://x.ai/bot/e9vSkxBmMjD3lZVwk05Nm) - Picks up to three AI tools for your goal, budget and language, with prices and a comparison link. [Takahiro](https://x.com/toolport_ai).
 - [Event and Giveaway](https://x.ai/bot/1rfzYPVkI-WE6-ci4VS-I) - Scans official crypto exchange accounts on X for events and giveaways you can still join and ranks them. [Toàn](https://x.com/toannhu_it).
 - [Performance by Sameh](https://x.ai/bot/rpYz-vHgxpwVYRfdg51j7) - Scrapes Meta, LinkedIn and Google ad libraries with Apify and sends a daily brief on what competitors are running. [Sameh](https://x.com/SamehJ59122).
+- [Tech News by Gaston](https://x.ai/bot/sm9_a0wsMQJwAAcvJPqXy) - Spanish-language tech news curator that reads X for you and sends a short numbered summary of AI, dev tools and startups. [Gaston](https://x.com/gastonfonceadev).
+- [MSTR Morning by Tina](https://x.ai/bot/1QKcnLSEu3hl_KySOm4CL) - Weekday morning plain-English report on what changed with Strategy and bitcoin and whether it matters. [Tina](https://x.com/TinaBean).

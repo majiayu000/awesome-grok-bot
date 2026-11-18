@@ -1034,3 +1034,9 @@
 - [Promo Clip Pro](https://x.ai/bot/naP7CgFSHtlObESPx0AHS) - 把你的链接、照片或几句话做成 15 到 30 秒的宣传短片，带 B-roll 和配乐. [Thuong](https://x.com/teeRex247).
 - [洗稿Bot](https://x.ai/bot/2NSL2mxPreCBtS72ICxm2) - 把稿子、邮件和视频口播稿改得更像人写的，保留你的语气并说明每处改动的原因. [明路](https://x.com/zhang7978840).
 - [抖音审片员](https://x.ai/bot/dhC4qP2M89ztoVHBw5yk4) - 发布前审查抖音视频和文案，按时间戳标出违规与限流风险并给出改法. [明路](https://x.com/zhang7978840).
+- [Feedwise by Calix](https://x.ai/bot/_57mfuTHmrI-iaMXTuV3h) - 替你盯着 X 上的算法变化、收益规则和你所在领域的有效做法，只带回你需要的内容. [Calix](https://x.com/CaliLumberJack).
+- [Get Paid on X by DigitalAssetsUS](https://x.ai/bot/P9eWgOAyfp8oZ7Koi4GZn) - 帮你增长 X 账号，并通过原创内容奖励、订阅和联盟收入变现. [DigitalAssetsUS](https://x.com/DigitalAssetsUS).
+- [CORAX OOI](https://x.ai/bot/HgrCA6ex1onccg6AwBfTz) - SwarmTech 网络里的 OOI 节点，承载 Corax 乌鸦设定，捕捉 X 帖子并记录带日期的凭证. [forgedusa1](https://x.com/forgedusa1).
+- [X Bot Purger by Eric](https://x.ai/bot/bI_7Qblj6MbEkDEBl_cGE) - 每周屏蔽明显的机器人或垃圾关注者，并取消关注一年没发帖的账号. [Eric](https://x.com/EricCMeadows).
+- [3D Animation Bot by brflux](https://x.ai/bot/wh5JQ6q2ksXRwVhQbac5-) - 制作带配乐和音效的 3D 动画短片，风格从皮克斯式场景到黏土定格动画都有. [brflux](https://x.com/brflux).
+- [METACUBE](https://x.ai/bot/DWBY4sKbleattM6JAnzyc) - 来自 Pandora 与 SwarmTech 设定的 OOI 节点，保存集群的共享状态，并从 X 帖子中取材. [forgedusa1](https://x.com/forgedusa1).

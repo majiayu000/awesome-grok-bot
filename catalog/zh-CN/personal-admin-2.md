@@ -187,3 +187,9 @@
 - [Pit Crew](https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk) - 集厨房搭子、训练教练和健康台于一体，记录饮食、指导运动并跟踪预约和用药. [Mike](https://x.com/mikepat711).
 - [Tennis](https://x.ai/bot/3khpwD1olHmofICOxNvUl) - 面向俱乐部球友的网球助手，球场一开放就订，并安排训练和赛事. [Gregg](https://x.com/GreggApplefield).
 - [Family Fortress](https://x.ai/bot/hyATTQBpq10-5IZ0bqTLi) - 为家人制定按优先级排序的长时间停电应急计划，并每周查找物资优惠. [Greg](https://x.com/gregbailey).
+- [Santa Bot by Peter](https://x.ai/bot/gE5xL4qgwxE34wKpWkRF1) - 每天发送一条新鲜意外的内容，比如礼物灵感、值得一试的事或温暖的小故事，并帮你付诸行动. [Peter](https://x.com/StackingYears).
+- [Broken Price Finder by Loungeless](https://x.ai/bot/AvWNaXmhgCrDbMOTJh6uk) - 从海量优惠信息里筛选，盯着公开来源和 X，找出积分里程漏洞和值得关注的信用卡开卡优惠. [Loungeless](https://x.com/Loungeless).
+- [APA League Manager by Hank](https://x.ai/bot/WkF4p8ua77SFiFGUlmeST) - 面向队长的 APA 八球联赛教练，分析对手和己方球员，按技能等级规则锁定出场名单并发送简报. [Hank](https://x.com/hjackson2).
+- [Three Quotes & Home Keeper by Pablo](https://x.ai/bot/ykHiJSpwT8HXdytODpUoi) - 为家里要修的东西找本地师傅，每次询价都先经你批准，再把报价并排对比. [Pablo](https://x.com/KonectEaze).
+- [Personal University by CoolSilver](https://x.ai/bot/wLqekHrzy6J5Ft2Qd0rqI) - 课程设计与辅导助手，为任何学习者搭建带模块和实践任务的课程，并定时发送简短课时. [CoolSilver](https://x.com/coolsilver).
+- [Crate Keeper by Luis](https://x.ai/bot/sitVtgzNMm_WzDrXOb7m6) - 拍下你的唱片架，就能得到带 Discogs 真实价格的黑胶收藏清单和想要清单. [Luis](https://x.com/luisbarragan).
