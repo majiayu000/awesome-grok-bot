@@ -959,3 +959,9 @@
 - [Jira Sync](https://x.ai/bot/_91qkYwSfXDJMAZnO6eW9) - 读取提交、PR 和编程 Agent 会话，让 Jira 看板与你实际写的代码保持同步. [Felix](https://x.com/blackie_360).
 - [OutageCheck](https://x.ai/bot/FTCdRKGRlHNqGz4FZpqym) - 几秒内告诉你某个服务是真的故障还是只有你自己连不上，附状态卡片、官方链接和恢复提醒. [John](https://x.com/cu30rry_).
 - [Feedback Board](https://x.ai/bot/JUXsVsVBG-mWEIDKdQrrX) - 给独立开发者的免费私有反馈看板，把邮件、X 和粘贴的文字变成缺陷与需求卡片. [Calix](https://x.com/CaliLumberJack).
+- [Fable Oracle](https://x.ai/bot/N5rY1_MaBipN8b-EhF4Nu) - 给用 AI 写代码的团队做规划和终审，通过 Claude Code CLI 驱动实现. [Matt](https://x.com/bossriceshark).
+- [GrokBotDevTeam](https://x.ai/bot/_9kXD14exd2rqaN1afg04) - 搭建三 Bot 软件团队，包含负责人、开发和评审，开源并能自我改进. [Alex](https://x.com/alexvzah).
+- [Feature Story PM](https://x.ai/bot/2X11E2Mee6ytPwnsgdLIK) - 为单个仓库担任产品经理，把功能拆成需你批准的小故事并逐个执行. [Ken](https://x.com/AtSynct).
+- [Prompt Densifier](https://x.ai/bot/AHWQ8EHovKI1UYW4F3cDi) - 把自然语言提示词压缩成信息最密的版本且保留所有关键要求，可直接用于任何 Agent. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Code Review QA](https://x.ai/bot/qeoZdq6x-72iJTqHEM4VO) - 只读的代码评审员，检查编码 Agent 完成的工作，遇到缺陷、漏需求或违反规范就判不通过. [Ken](https://x.com/AtSynct).
+- [Build Buddy](https://x.ai/bot/u8OS_Gt_mPA9CJ3VCc3m0) - 根据你的需求在 Grok Build 中制作并发布网站，上线前先给预览供你审核. [Llama](https://x.com/TeslaTakesOver).

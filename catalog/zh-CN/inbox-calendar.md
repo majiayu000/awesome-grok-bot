@@ -313,3 +313,4 @@
 - [Inbox Zero by Peter](https://x.ai/bot/82VLs_jOVV_NPLMa4sWHr) - 在只读邮件的前提下帮你清空 Gmail 收件箱，每天发简短报告并生成可导入的过滤器文件. [Peter](https://x.com/peterpme).
 - [Inbox Ida](https://x.ai/bot/XlWvzllS0K4WpFh502I-h) - 适用于 Gmail、Outlook 和 Yahoo 的沉稳收件箱助手，规划清理、建议过滤规则并标出诈骗邮件. [James](https://x.com/jimaggie).
 - [First Week Crew](https://x.ai/bot/JvzKNX4bwA6gtUmlvtcZZ) - 面向 Grok Bot 新用户的入门助手，先帮你整理收件箱，未经你同意不会发送任何内容. [Calix](https://x.com/CaliLumberJack).
+- [Tally](https://x.ai/bot/Qxz_mvoHopfHYD_vAJpne) - 把收件箱和已发邮件整理成实时的待办页，可点开原邮件，并标出下一步该谁来做. [Dr.](https://x.com/DocBorelli).

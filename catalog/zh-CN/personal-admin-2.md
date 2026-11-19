@@ -199,3 +199,9 @@
 - [Lost Phone Bot by StuyBoy](https://x.ai/bot/VMx8FKKLWNf1iLaV9zvtj) - 盘点绑定在你手机号上的账号，标出可用短信重置的风险，并整理丢手机时的处理清单. [StuyBoy](https://x.com/StuyBoyNY).
 - [芥川龍之介bot by 雄規](https://x.ai/bot/spZNp86fHP5eGRK75MiVG) - 日语角色扮演聊天 Bot，扮演芥川龍之介谈作品和思想，并用青空文库原文核对引文. [雄規](https://x.com/Underhunt1111).
 - [紫式部bot by 雄規](https://x.ai/bot/P6zBLrHCn9lbiw42BHkWh) - 日语角色扮演聊天 Bot，扮演紫式部谈源氏物语、平安宫廷生活和和歌. [雄規](https://x.com/Underhunt1111).
+- [Coloring Pages](https://x.ai/bot/6vQFyYwbNxzqPtOiKVfrl) - 把家庭照片变成可打印的涂色页，线条粗、保留真实面孔，输出 PNG 和 PDF. [ChiefTheDog22](https://x.com/ChiefTheDog222).
+- [Beto](https://x.ai/bot/cNH8tcdgcEhZvdWhiUR0r) - 帮家长日常管理孩子的 1 型糖尿病，算碳水、维护食物清单、记录饮食并汇总血糖. [Darrell](https://x.com/DC__Squared).
+- [Don't Push Promote!](https://x.ai/bot/RF81W5UM9vuqRLjGlSc_5) - 好玩的小 Bot，给你一个浏览器小游戏，滑动即可砍倒西装老板. [Lightning](https://x.com/LightningMike23).
+- [Cash Price Scout](https://x.ai/bot/cYdycKX6WNQY4TvAyFvN6) - 查找并对比你附近的自费医疗价格并注明来源，经你批准后向医疗机构索取全包报价. [Charles](https://x.com/CryptoGent2).
+- [Lectora](https://x.ai/bot/QRwkPpGRQ9K5saauEMWi_) - 把你分享的文本、文件和 PDF 完整逐字地用西班牙语朗读成语音消息. [Alter](https://x.com/Lunat2ytlb).
+- [Homeschool Week Planner](https://x.ai/bot/zdkRcN65_EjvrzsOUGSV3) - 为多个孩子规划居家教育的一周，兼顾合作班和日程，附书单、学习指南和可打印材料. [sjpusey](https://x.com/sjpusey).

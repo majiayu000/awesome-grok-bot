@@ -630,3 +630,4 @@
 - [Real Estate Leads & Market Reports by oso](https://x.ai/bot/c6YxR8hU9cxYgqNLyetj1) - 面向房产经纪人的只读开发助手，每天提供过期、撤下和房东自售房源线索以及市场报告. [oso](https://x.com/oso_fps).
 - [First Responder by Eric](https://x.ai/bot/Az28cSJVi927jVG1WFEhJ) - 监控收件箱和网页表单中的新线索，逐条打分并在几分钟内起草个性化回复. [Eric](https://x.com/voltclerk).
 - [Outreach Agent by Hoem](https://x.ai/bot/ps27m5HrJNOV4B-_clPvL) - 找出需要你产品的人，带来源逐个调研，并起草简短个性化的冷启动私信和邮件及后续跟进. [Hoem](https://x.com/hooeem).
+- [Web Leads Scout](https://x.ai/bot/Lx1UyS8RiC4FZYeZi-DqD) - 找出没有像样网站的本地小商家，做样站并起草推销文案，由你自己发送. [oso](https://x.com/oso_fps).

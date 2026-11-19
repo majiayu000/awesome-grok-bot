@@ -1042,3 +1042,12 @@
 - [METACUBE](https://x.ai/bot/DWBY4sKbleattM6JAnzyc) - 来自 Pandora 与 SwarmTech 设定的 OOI 节点，保存集群的共享状态，并从 X 帖子中取材. [forgedusa1](https://x.com/forgedusa1).
 - [ULTIMATE SEO/GEO/AEO/AIO AUTOBOT by Shagghie](https://x.ai/bot/6B9kaDrETwE39QFPNIBwF) - 诊断某个网站在谷歌和 AI 回答中落后的原因，然后提交可合并的修复 PR. [Shagghie](https://x.com/PixelRainbowNFT).
 - [AI Stock Reply Drafter by Joseph](https://x.ai/bot/8OasCJF7ricLnHU_qIFjD) - 扫描 X 上关于 AI 股票的新帖，为每条帖子起草一条用心的回复供你审阅. [Joseph](https://x.com/CannonJoeyC).
+- [DigiFrame](https://x.ai/bot/YJiOQxbmoH-UcpH4hd6Gi) - 把 Google 相册、iCloud 相册或共享相册链接做成每月精选回顾视频，配上带日期的标题和免版权音乐. [Llama](https://x.com/TeslaTakesOver).
+- [DEADPOOL OOI](https://x.ai/bot/j6k6nBhBOtziMTm8P738_) - 粉丝向的死侍口吻人设，把锻造工坊的刀具帖子和新品发布写成高调的品牌广告. [forgedusa1](https://x.com/forgedusa1).
+- [Le Director](https://x.ai/bot/j776BFgcCUBN2F6fatmph) - 视频导演，把需求变成短片、广告、讲解、音乐视频和梗图视频，并负责策划、拍摄和剪辑. [Uzi](https://x.com/UziObi).
+- [Bilingual Content Rewriter](https://x.ai/bot/Z1puFaXlnLGKJoaEmNSJZ) - 面向本地小店，把一条粗略笔记或照片改写成各平台的中英文稿，并给出每周内容计划. [Umar](https://x.com/jamesjkyang).
+- [Daily Carousel Maker](https://x.ai/bot/s3c6mE3HQ5y8_dtEGtvhi) - 每天为你的业务调研、设计并撰写带品牌风格的 Instagram 轮播图，并附好文案. [Dr](https://x.com/ceokhalife).
+- [InstaHype AI](https://x.ai/bot/rUOHDWBrCex8-Vx3P2vF2) - Instagram 增长助手，每天用你的口吻起草评论、调研细分领域并规划发帖. [Chef](https://x.com/Chefmarkcoakley).
+- [R2-Thank-U](https://x.ai/bot/jxk4b6MqhjA54tlqAV2Hj) - 当你的 X 帖子走红时，给互动的人起草个性化感谢回复，并留作草稿等你审核. [Darrell](https://x.com/DC__Squared).
+- [Goblin](https://x.ai/bot/EtJ-E2TbSBQ1Ssy5_2ieJ) - 运营无出镜的历史和悬疑视频频道，包含事实核查、脚本、旁白和 Shorts. [American™](https://x.com/1776_13).
+- [Claim Fight Desk](https://x.ai/bot/wU5m9FJglR9nw0EHewRLO) - 帮创作者应对误判的 Content ID 版权声明、版权警告和 Twitch 回放静音，记录并起草申诉，由你提交. [Mark](https://x.com/TheMarkGShow).

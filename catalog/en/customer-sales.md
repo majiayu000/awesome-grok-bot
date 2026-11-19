@@ -630,3 +630,4 @@ Back to [README](../../README.md)
 - [Real Estate Leads & Market Reports by oso](https://x.ai/bot/c6YxR8hU9cxYgqNLyetj1) - Read-only prospecting assistant for real estate agents with daily expired, withdrawn and FSBO leads and market reports. [oso](https://x.com/oso_fps).
 - [First Responder by Eric](https://x.ai/bot/Az28cSJVi927jVG1WFEhJ) - Watches your inbox and web forms for new leads, scores each one and drafts a personal reply within minutes. [Eric](https://x.com/voltclerk).
 - [Outreach Agent by Hoem](https://x.ai/bot/ps27m5HrJNOV4B-_clPvL) - Finds people who need what you offer, researches each with sources and drafts short personal cold DMs and emails with follow-ups. [Hoem](https://x.com/hooeem).
+- [Web Leads Scout](https://x.ai/bot/Lx1UyS8RiC4FZYeZi-DqD) - Finds local small businesses without a good website, builds sample sites and drafts the pitch for you to send. [oso](https://x.com/oso_fps).
