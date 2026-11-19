@@ -205,3 +205,6 @@
 - [Cash Price Scout](https://x.ai/bot/cYdycKX6WNQY4TvAyFvN6) - 查找并对比你附近的自费医疗价格并注明来源，经你批准后向医疗机构索取全包报价. [Charles](https://x.com/CryptoGent2).
 - [Lectora](https://x.ai/bot/QRwkPpGRQ9K5saauEMWi_) - 把你分享的文本、文件和 PDF 完整逐字地用西班牙语朗读成语音消息. [Alter](https://x.com/Lunat2ytlb).
 - [Homeschool Week Planner](https://x.ai/bot/zdkRcN65_EjvrzsOUGSV3) - 为多个孩子规划居家教育的一周，兼顾合作班和日程，附书单、学习指南和可打印材料. [sjpusey](https://x.com/sjpusey).
+- [Peptide Log](https://x.ai/bot/MP8xLmW0g8p5tkat10ogp) - 私密的肽类记录助手，记录剂量、药瓶、体重和每日打卡，按你设的时间提醒，并把记录整理成进度报告. [Tina](https://x.com/TinaBean).
+- [Promo Code Bot](https://x.ai/bot/YTA8VEBNlEbypIrrSg_XG) - 为你即将购买的东西找可用优惠码和更低的最终价格，线上购物或配合你的其他机器人都能用. [John](https://x.com/johnboyle).
+- [Arrival Cards](https://x.ai/bot/JAaUVEjUmao4SgyhmYB3L) - 代填亚太 14 个国家的官方线上入境卡，包括中国、新加坡、日本和韩国. [Michael](https://x.com/juntao).

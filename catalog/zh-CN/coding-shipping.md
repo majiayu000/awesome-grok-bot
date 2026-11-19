@@ -965,3 +965,4 @@
 - [Prompt Densifier](https://x.ai/bot/AHWQ8EHovKI1UYW4F3cDi) - 把自然语言提示词压缩成信息最密的版本且保留所有关键要求，可直接用于任何 Agent. [Shagghie](https://x.com/PixelRainbowNFT).
 - [Code Review QA](https://x.ai/bot/qeoZdq6x-72iJTqHEM4VO) - 只读的代码评审员，检查编码 Agent 完成的工作，遇到缺陷、漏需求或违反规范就判不通过. [Ken](https://x.com/AtSynct).
 - [Build Buddy](https://x.ai/bot/u8OS_Gt_mPA9CJ3VCc3m0) - 根据你的需求在 Grok Build 中制作并发布网站，上线前先给预览供你审核. [Llama](https://x.com/TeslaTakesOver).
+- [Ghostex](https://x.ai/bot/W-heW_JNPbQxU7bWKxNP5) - Ghostex 桌面应用的远程遥控，能查看编程代理进度、派活，并在聊天里转达你的答复. [maddada](https://x.com/maddada).

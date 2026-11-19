@@ -965,3 +965,4 @@ Back to [README](../../README.md)
 - [Prompt Densifier](https://x.ai/bot/AHWQ8EHovKI1UYW4F3cDi) - Turns a plain-language prompt into the densest version that keeps every load-bearing spec, ready for any agent. [Shagghie](https://x.com/PixelRainbowNFT).
 - [Code Review QA](https://x.ai/bot/qeoZdq6x-72iJTqHEM4VO) - Read-only reviewer for finished coding-agent work that fails it on bugs, missed requirements and standards breaches. [Ken](https://x.com/AtSynct).
 - [Build Buddy](https://x.ai/bot/u8OS_Gt_mPA9CJ3VCc3m0) - Builds and publishes websites in Grok Build from your brief, with a preview for you to review before going live. [Llama](https://x.com/TeslaTakesOver).
+- [Ghostex](https://x.ai/bot/W-heW_JNPbQxU7bWKxNP5) - Remote control for the Ghostex desktop app that checks on coding agents, hands them work and passes on your answers from chat. [maddada](https://x.com/maddada).

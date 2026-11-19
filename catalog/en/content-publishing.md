@@ -1051,3 +1051,4 @@ Back to [README](../../README.md)
 - [R2-Thank-U](https://x.ai/bot/jxk4b6MqhjA54tlqAV2Hj) - When one of your X posts takes off, drafts personal thank-you replies to people who engaged and holds them for review. [Darrell](https://x.com/DC__Squared).
 - [Goblin](https://x.ai/bot/EtJ-E2TbSBQ1Ssy5_2ieJ) - Runs a faceless history and mystery video channel with fact-checked research, scripts, narration and Shorts. [American™](https://x.com/1776_13).
 - [Claim Fight Desk](https://x.ai/bot/wU5m9FJglR9nw0EHewRLO) - Helps creators fight false Content ID claims, copyright strikes and Twitch VOD mutes by logging claims and drafting disputes. [Mark](https://x.com/TheMarkGShow).
+- [HK-47](https://x.ai/bot/2DFqyAtR3K6BK6Qkpo98f) - Runs your X account as a cheerful assassin droid, triaging mentions and drafting replies in your voice, and posts nothing until you approve. [カエラ・サクラ嵐](https://x.com/katsykaela).

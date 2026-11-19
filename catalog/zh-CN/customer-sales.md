@@ -631,3 +631,5 @@
 - [First Responder by Eric](https://x.ai/bot/Az28cSJVi927jVG1WFEhJ) - 监控收件箱和网页表单中的新线索，逐条打分并在几分钟内起草个性化回复. [Eric](https://x.com/voltclerk).
 - [Outreach Agent by Hoem](https://x.ai/bot/ps27m5HrJNOV4B-_clPvL) - 找出需要你产品的人，带来源逐个调研，并起草简短个性化的冷启动私信和邮件及后续跟进. [Hoem](https://x.com/hooeem).
 - [Web Leads Scout](https://x.ai/bot/Lx1UyS8RiC4FZYeZi-DqD) - 找出没有像样网站的本地小商家，做样站并起草推销文案，由你自己发送. [oso](https://x.com/oso_fps).
+- [Spam Solo](https://x.ai/bot/KQf4Oh2_pqo-lIlJBAsWy) - 帮新开业的人分辨随之而来的各种官方样式垃圾信息，比如假的商家资料验证电话和目录收费单. [Darrell](https://x.com/DC__Squared).
+- [Curbside](https://x.ai/bot/UyDMowBuYTsKvOPEHY1Sq) - 线上二手清仓助手，你发物品照片，它按真实成交价定价，并上架到你自己的免费网店. [Harvey](https://x.com/harvey_ramer).

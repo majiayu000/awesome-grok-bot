@@ -884,3 +884,4 @@
 - [Phone Harness Wizard](https://x.ai/bot/EtXBSv57CQo1dxFghmslA) - 手把手引导，把 iPhone、安卓或云手机接入 Grok Bot 并验证可用. [Shagghie](https://x.com/PixelRainbowNFT).
 - [Startup Builder by Mark](https://x.ai/bot/iRf5tuA1A47j4UG3j9E_5) - 主助手，通过语音或文字问几个问题，然后为你搭建并运行各司其职的小型助手 Bot. [Mark](https://x.com/proximate1050).
 - [BoRK MCP Communicator by 6noodle9](https://x.ai/bot/OK54OxXnjYTN-pZgKgMLj) - 给不在团队里的 Grok Bot 账号提供类似团队的 Bot 间消息互通，私密账号也可用. [6noodle9](https://x.com/noodle_public).
+- [dr eggbot v2](https://x.ai/bot/rJW52lmFLtCvy2tSHcIag) - 通过访谈你的目标和流程来设计单一任务的 Grok Bot，再造出能跑这项工作的机器人. [lauren](https://x.com/jojojoyce2021).

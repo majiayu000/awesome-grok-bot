@@ -631,3 +631,5 @@ Back to [README](../../README.md)
 - [First Responder by Eric](https://x.ai/bot/Az28cSJVi927jVG1WFEhJ) - Watches your inbox and web forms for new leads, scores each one and drafts a personal reply within minutes. [Eric](https://x.com/voltclerk).
 - [Outreach Agent by Hoem](https://x.ai/bot/ps27m5HrJNOV4B-_clPvL) - Finds people who need what you offer, researches each with sources and drafts short personal cold DMs and emails with follow-ups. [Hoem](https://x.com/hooeem).
 - [Web Leads Scout](https://x.ai/bot/Lx1UyS8RiC4FZYeZi-DqD) - Finds local small businesses without a good website, builds sample sites and drafts the pitch for you to send. [oso](https://x.com/oso_fps).
+- [Spam Solo](https://x.ai/bot/KQf4Oh2_pqo-lIlJBAsWy) - Sorts the flood of official-looking junk after you start a business, like fake business profile verification calls and directory invoices. [Darrell](https://x.com/DC__Squared).
+- [Curbside](https://x.ai/bot/UyDMowBuYTsKvOPEHY1Sq) - Online yard sale seller that prices photographed items from real sold comps and lists them on your own free web store. [Harvey](https://x.com/harvey_ramer).

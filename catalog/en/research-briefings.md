@@ -923,3 +923,4 @@ Back to [README](../../README.md)
 - [Performance by Sameh](https://x.ai/bot/rpYz-vHgxpwVYRfdg51j7) - Scrapes Meta, LinkedIn and Google ad libraries with Apify and sends a daily brief on what competitors are running. [Sameh](https://x.com/SamehJ59122).
 - [Tech News by Gaston](https://x.ai/bot/sm9_a0wsMQJwAAcvJPqXy) - Spanish-language tech news curator that reads X for you and sends a short numbered summary of AI, dev tools and startups. [Gaston](https://x.com/gastonfonceadev).
 - [MSTR Morning by Tina](https://x.ai/bot/1QKcnLSEu3hl_KySOm4CL) - Weekday morning plain-English report on what changed with Strategy and bitcoin and whether it matters. [Tina](https://x.com/TinaBean).
+- [BTC Morning](https://x.ai/bot/g277U934RhgDJV0hFSvDu) - Weekday-morning bitcoin brief in chat covering price, ETF flows, treasury buys, crowd odds, sentiment, on-chain data and the macro calendar, all sourced. [Tina](https://x.com/TinaBean).

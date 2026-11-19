@@ -165442,6 +165442,195 @@
       "updated": "2026-11-19",
       "shelf": "raw",
       "source": "https://x.com/sjpusey/status/2123186321715802147"
+    },
+    {
+      "slug": "hk-47",
+      "name": "HK-47",
+      "author": {
+        "name": "カエラ・サクラ嵐",
+        "url": "https://x.com/katsykaela"
+      },
+      "summary": "Runs your X account as a cheerful assassin droid, triaging mentions and drafting replies in your voice, and posts nothing until you approve",
+      "summary_zh": "扮成爱杀人的机器人帮你打理 X 账号，筛选提及并用你的口吻起草回复，你点头前不会发任何内容",
+      "import": "https://x.ai/bot/2DFqyAtR3K6BK6Qkpo98f",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/katsykaela/status/2123277112476139855"
+    },
+    {
+      "slug": "btc-morning",
+      "name": "BTC Morning",
+      "author": {
+        "name": "Tina",
+        "url": "https://x.com/TinaBean"
+      },
+      "summary": "Weekday-morning bitcoin brief in chat covering price, ETF flows, treasury buys, crowd odds, sentiment, on-chain data and the macro calendar, all sourced",
+      "summary_zh": "工作日早晨在聊天里推送比特币简报，涵盖价格、ETF 资金流、财库买入、市场预期、情绪、链上数据和宏观日历，并注明来源",
+      "import": "https://x.ai/bot/g277U934RhgDJV0hFSvDu",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/TinaBean/status/2123257771772789172"
+    },
+    {
+      "slug": "peptide-log",
+      "name": "Peptide Log",
+      "author": {
+        "name": "Tina",
+        "url": "https://x.com/TinaBean"
+      },
+      "summary": "Private peptide tracker that logs doses, vials, weight and daily check-ins, reminds you on your schedule and turns the log into progress reports",
+      "summary_zh": "私密的肽类记录助手，记录剂量、药瓶、体重和每日打卡，按你设的时间提醒，并把记录整理成进度报告",
+      "import": "https://x.ai/bot/MP8xLmW0g8p5tkat10ogp",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/TinaBean/status/2123257209643847810"
+    },
+    {
+      "slug": "spam-solo",
+      "name": "Spam Solo",
+      "author": {
+        "name": "Darrell",
+        "url": "https://x.com/DC__Squared"
+      },
+      "summary": "Sorts the flood of official-looking junk after you start a business, like fake business profile verification calls and directory invoices",
+      "summary_zh": "帮新开业的人分辨随之而来的各种官方样式垃圾信息，比如假的商家资料验证电话和目录收费单",
+      "import": "https://x.ai/bot/KQf4Oh2_pqo-lIlJBAsWy",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/DC__Squared/status/2123250040676241712"
+    },
+    {
+      "slug": "curbside",
+      "name": "Curbside",
+      "author": {
+        "name": "Harvey",
+        "url": "https://x.com/harvey_ramer"
+      },
+      "summary": "Online yard sale seller that prices photographed items from real sold comps and lists them on your own free web store",
+      "summary_zh": "线上二手清仓助手，你发物品照片，它按真实成交价定价，并上架到你自己的免费网店",
+      "import": "https://x.ai/bot/UyDMowBuYTsKvOPEHY1Sq",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/harvey_ramer/status/2123239846202257739"
+    },
+    {
+      "slug": "promo-code-bot",
+      "name": "Promo Code Bot",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/johnboyle"
+      },
+      "summary": "Finds valid promo codes and better final prices for whatever you are about to buy, online or through your other bots",
+      "summary_zh": "为你即将购买的东西找可用优惠码和更低的最终价格，线上购物或配合你的其他机器人都能用",
+      "import": "https://x.ai/bot/YTA8VEBNlEbypIrrSg_XG",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/johnboyle/status/2123218244391858461"
+    },
+    {
+      "slug": "arrival-cards",
+      "name": "Arrival Cards",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/juntao"
+      },
+      "summary": "Fills official online arrival cards for 14 countries in Asia and the Pacific, including China, Singapore, Japan and Korea",
+      "summary_zh": "代填亚太 14 个国家的官方线上入境卡，包括中国、新加坡、日本和韩国",
+      "import": "https://x.ai/bot/JAaUVEjUmao4SgyhmYB3L",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/juntao/status/2123291241228173731"
+    },
+    {
+      "slug": "ghostex",
+      "name": "Ghostex",
+      "author": {
+        "name": "maddada",
+        "url": "https://x.com/maddada"
+      },
+      "summary": "Remote control for the Ghostex desktop app that checks on coding agents, hands them work and passes on your answers from chat",
+      "summary_zh": "Ghostex 桌面应用的远程遥控，能查看编程代理进度、派活，并在聊天里转达你的答复",
+      "import": "https://x.ai/bot/W-heW_JNPbQxU7bWKxNP5",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/maddada/status/2123288662339362833"
+    },
+    {
+      "slug": "dr-eggbot-v2",
+      "name": "dr eggbot v2",
+      "author": {
+        "name": "lauren",
+        "url": "https://x.com/jojojoyce2021"
+      },
+      "summary": "Designs tight single-job Grok Bots by interviewing you about the goal and process, then builds a bot that runs the job",
+      "summary_zh": "通过访谈你的目标和流程来设计单一任务的 Grok Bot，再造出能跑这项工作的机器人",
+      "import": "https://x.ai/bot/rJW52lmFLtCvy2tSHcIag",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/jojojoyce2021/status/2123283563240185886"
     }
   ]
 }

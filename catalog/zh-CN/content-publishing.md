@@ -1051,3 +1051,4 @@
 - [R2-Thank-U](https://x.ai/bot/jxk4b6MqhjA54tlqAV2Hj) - 当你的 X 帖子走红时，给互动的人起草个性化感谢回复，并留作草稿等你审核. [Darrell](https://x.com/DC__Squared).
 - [Goblin](https://x.ai/bot/EtJ-E2TbSBQ1Ssy5_2ieJ) - 运营无出镜的历史和悬疑视频频道，包含事实核查、脚本、旁白和 Shorts. [American™](https://x.com/1776_13).
 - [Claim Fight Desk](https://x.ai/bot/wU5m9FJglR9nw0EHewRLO) - 帮创作者应对误判的 Content ID 版权声明、版权警告和 Twitch 回放静音，记录并起草申诉，由你提交. [Mark](https://x.com/TheMarkGShow).
+- [HK-47](https://x.ai/bot/2DFqyAtR3K6BK6Qkpo98f) - 扮成爱杀人的机器人帮你打理 X 账号，筛选提及并用你的口吻起草回复，你点头前不会发任何内容. [カエラ・サクラ嵐](https://x.com/katsykaela).
