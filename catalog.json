@@ -165631,6 +165631,110 @@
       "updated": "2026-11-19",
       "shelf": "raw",
       "source": "https://x.com/jojojoyce2021/status/2123283563240185886"
+    },
+    {
+      "slug": "morning-approval-list",
+      "name": "Morning Approval List",
+      "author": {
+        "name": "Justin",
+        "url": "https://x.com/justinfredette"
+      },
+      "summary": "Once a morning, one numbered message with everything your other bots want to send, post or change, so you answer once",
+      "summary_zh": "每天早上把其他 Bot 想发送、发布或修改的事项合成一条编号消息，你只需回复一次",
+      "import": "https://x.ai/bot/JhoQKkMRUqYis8tkGw5s1",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/justinfredette/status/2123385806417256607"
+    },
+    {
+      "slug": "ikea-assembly-assistant",
+      "name": "IKEA Assembly Assistant",
+      "author": {
+        "name": "Vasco"
+      },
+      "summary": "Step-by-step help assembling IKEA and other flat-pack furniture from the official manual or your photos, tracking parts and progress",
+      "summary_zh": "按官方说明书或你拍的照片，一步步带你组装宜家等平板包装家具，并记录零件和进度",
+      "import": "https://x.ai/bot/eB9uwq_-Ch7izIstZQHYx",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2123366534827688096"
+    },
+    {
+      "slug": "food-expiry-tracker",
+      "name": "Food Expiry Tracker",
+      "author": {
+        "name": "ted_e_tigers",
+        "url": "https://x.com/ted_e_tigers"
+      },
+      "summary": "Tracks food expiration dates from package photos or typed entries and reminds you to use or freeze items before they go bad",
+      "summary_zh": "从包装照片或手动输入记录食物保质期，快过期前提醒你先吃掉或冷冻",
+      "import": "https://x.ai/bot/Z9EnAYvId6Y0t5gOKeiBw",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/ted_e_tigers/status/2123363178276852128"
+    },
+    {
+      "slug": "bot-nx6rod0o",
+      "name": "そのポストやばくない？",
+      "author": {
+        "name": "ふくぶん(Fukubun)",
+        "url": "https://x.com/FFBuncho"
+      },
+      "summary": "Checks an X post link or screenshot for spam, scam, bot or impersonation signs and rates it in four levels, separating fact from guess",
+      "summary_zh": "发来 X 帖子链接或截图，它会查垃圾、诈骗、机器人或冒充迹象，分四档评级并区分事实与推测",
+      "import": "https://x.ai/bot/nX6rOD0OsAjYAlWhW83XL",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/FFBuncho/status/2123363178276852128"
+    },
+    {
+      "slug": "foodbot",
+      "name": "Foodbot",
+      "author": {
+        "name": "Matt"
+      },
+      "summary": "Orders food and groceries for you on delivery apps and restaurant sites, one-time setup, you stay in charge of each order",
+      "summary_zh": "在外卖应用和餐厅网站替你点餐和买菜，一次设置，每单由你把关",
+      "import": "https://x.ai/bot/WY3FkPyLoNqwayRwtjuPu",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-19",
+      "shelf": "raw",
+      "source": "https://x.com/i/status/2123346603587350952"
     }
   ]
 }

@@ -208,3 +208,7 @@
 - [Peptide Log](https://x.ai/bot/MP8xLmW0g8p5tkat10ogp) - 私密的肽类记录助手，记录剂量、药瓶、体重和每日打卡，按你设的时间提醒，并把记录整理成进度报告. [Tina](https://x.com/TinaBean).
 - [Promo Code Bot](https://x.ai/bot/YTA8VEBNlEbypIrrSg_XG) - 为你即将购买的东西找可用优惠码和更低的最终价格，线上购物或配合你的其他机器人都能用. [John](https://x.com/johnboyle).
 - [Arrival Cards](https://x.ai/bot/JAaUVEjUmao4SgyhmYB3L) - 代填亚太 14 个国家的官方线上入境卡，包括中国、新加坡、日本和韩国. [Michael](https://x.com/juntao).
+- [IKEA Assembly Assistant](https://x.ai/bot/eB9uwq_-Ch7izIstZQHYx) - 按官方说明书或你拍的照片，一步步带你组装宜家等平板包装家具，并记录零件和进度. Vasco.
+- [Food Expiry Tracker](https://x.ai/bot/Z9EnAYvId6Y0t5gOKeiBw) - 从包装照片或手动输入记录食物保质期，快过期前提醒你先吃掉或冷冻. [ted_e_tigers](https://x.com/ted_e_tigers).
+- [そのポストやばくない？](https://x.ai/bot/nX6rOD0OsAjYAlWhW83XL) - 发来 X 帖子链接或截图，它会查垃圾、诈骗、机器人或冒充迹象，分四档评级并区分事实与推测. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
+- [Foodbot](https://x.ai/bot/WY3FkPyLoNqwayRwtjuPu) - 在外卖应用和餐厅网站替你点餐和买菜，一次设置，每单由你把关. Matt.
