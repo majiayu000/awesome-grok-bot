@@ -313,3 +313,4 @@ Back to [README](../../README.md)
 - [Inbox Zero by Peter](https://x.ai/bot/82VLs_jOVV_NPLMa4sWHr) - Gets Gmail accounts to inbox zero while only reading mail, sending a short daily report and building filter files you import. [Peter](https://x.com/peterpme).
 - [Inbox Ida](https://x.ai/bot/XlWvzllS0K4WpFh502I-h) - Calm inbox helper for Gmail, Outlook and Yahoo that plans cleanups, suggests filters and flags scam emails. [James](https://x.com/jimaggie).
 - [First Week Crew](https://x.ai/bot/JvzKNX4bwA6gtUmlvtcZZ) - Starter lead bot for new Grok Bot users that sorts your inbox first and sends nothing without your yes. [Calix](https://x.com/CaliLumberJack).
+- [Tally](https://x.ai/bot/Qxz_mvoHopfHYD_vAJpne) - Turns your inbox and sent mail into a living Open Items page that links to each source email and shows who owes the next step. [Dr.](https://x.com/DocBorelli).

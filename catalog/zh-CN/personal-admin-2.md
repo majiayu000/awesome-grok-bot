@@ -187,3 +187,21 @@
 - [Pit Crew](https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk) - 集厨房搭子、训练教练和健康台于一体，记录饮食、指导运动并跟踪预约和用药. [Mike](https://x.com/mikepat711).
 - [Tennis](https://x.ai/bot/3khpwD1olHmofICOxNvUl) - 面向俱乐部球友的网球助手，球场一开放就订，并安排训练和赛事. [Gregg](https://x.com/GreggApplefield).
 - [Family Fortress](https://x.ai/bot/hyATTQBpq10-5IZ0bqTLi) - 为家人制定按优先级排序的长时间停电应急计划，并每周查找物资优惠. [Greg](https://x.com/gregbailey).
+- [Santa Bot by Peter](https://x.ai/bot/gE5xL4qgwxE34wKpWkRF1) - 每天发送一条新鲜意外的内容，比如礼物灵感、值得一试的事或温暖的小故事，并帮你付诸行动. [Peter](https://x.com/StackingYears).
+- [Broken Price Finder by Loungeless](https://x.ai/bot/AvWNaXmhgCrDbMOTJh6uk) - 从海量优惠信息里筛选，盯着公开来源和 X，找出积分里程漏洞和值得关注的信用卡开卡优惠. [Loungeless](https://x.com/Loungeless).
+- [APA League Manager by Hank](https://x.ai/bot/WkF4p8ua77SFiFGUlmeST) - 面向队长的 APA 八球联赛教练，分析对手和己方球员，按技能等级规则锁定出场名单并发送简报. [Hank](https://x.com/hjackson2).
+- [Three Quotes & Home Keeper by Pablo](https://x.ai/bot/ykHiJSpwT8HXdytODpUoi) - 为家里要修的东西找本地师傅，每次询价都先经你批准，再把报价并排对比. [Pablo](https://x.com/KonectEaze).
+- [Personal University by CoolSilver](https://x.ai/bot/wLqekHrzy6J5Ft2Qd0rqI) - 课程设计与辅导助手，为任何学习者搭建带模块和实践任务的课程，并定时发送简短课时. [CoolSilver](https://x.com/coolsilver).
+- [Crate Keeper by Luis](https://x.ai/bot/sitVtgzNMm_WzDrXOb7m6) - 拍下你的唱片架，就能得到带 Discogs 真实价格的黑胶收藏清单和想要清单. [Luis](https://x.com/luisbarragan).
+- [Roundtable by Josh](https://x.ai/bot/UeW6qdl2LDfvwcLqmWTVP) - 请你的 1 到 5 位榜样或导师围坐讨论，按各自的思路检验你的想法和决定. [Josh](https://x.com/zandman).
+- [Dictate by Rob](https://x.ai/bot/yv6TVDVr7j1pozGgDf49B) - 免费的本地听写，可转写、翻译、区分说话人并总结任意音频或视频文件. [Rob](https://x.com/sia14u).
+- [ひろゆきbot（仮） by 雄規](https://x.ai/bot/Sm8uBo9QLxTRQYuzrYBX-) - 日语角色扮演聊天 Bot，模仿ひろゆき的口吻，核对来源后给出简短有力的反驳. [雄規](https://x.com/Underhunt1111).
+- [Lost Phone Bot by StuyBoy](https://x.ai/bot/VMx8FKKLWNf1iLaV9zvtj) - 盘点绑定在你手机号上的账号，标出可用短信重置的风险，并整理丢手机时的处理清单. [StuyBoy](https://x.com/StuyBoyNY).
+- [芥川龍之介bot by 雄規](https://x.ai/bot/spZNp86fHP5eGRK75MiVG) - 日语角色扮演聊天 Bot，扮演芥川龍之介谈作品和思想，并用青空文库原文核对引文. [雄規](https://x.com/Underhunt1111).
+- [紫式部bot by 雄規](https://x.ai/bot/P6zBLrHCn9lbiw42BHkWh) - 日语角色扮演聊天 Bot，扮演紫式部谈源氏物语、平安宫廷生活和和歌. [雄規](https://x.com/Underhunt1111).
+- [Coloring Pages](https://x.ai/bot/6vQFyYwbNxzqPtOiKVfrl) - 把家庭照片变成可打印的涂色页，线条粗、保留真实面孔，输出 PNG 和 PDF. [ChiefTheDog22](https://x.com/ChiefTheDog222).
+- [Beto](https://x.ai/bot/cNH8tcdgcEhZvdWhiUR0r) - 帮家长日常管理孩子的 1 型糖尿病，算碳水、维护食物清单、记录饮食并汇总血糖. [Darrell](https://x.com/DC__Squared).
+- [Don't Push Promote!](https://x.ai/bot/RF81W5UM9vuqRLjGlSc_5) - 好玩的小 Bot，给你一个浏览器小游戏，滑动即可砍倒西装老板. [Lightning](https://x.com/LightningMike23).
+- [Cash Price Scout](https://x.ai/bot/cYdycKX6WNQY4TvAyFvN6) - 查找并对比你附近的自费医疗价格并注明来源，经你批准后向医疗机构索取全包报价. [Charles](https://x.com/CryptoGent2).
+- [Lectora](https://x.ai/bot/QRwkPpGRQ9K5saauEMWi_) - 把你分享的文本、文件和 PDF 完整逐字地用西班牙语朗读成语音消息. [Alter](https://x.com/Lunat2ytlb).
+- [Homeschool Week Planner](https://x.ai/bot/zdkRcN65_EjvrzsOUGSV3) - 为多个孩子规划居家教育的一周，兼顾合作班和日程，附书单、学习指南和可打印材料. [sjpusey](https://x.com/sjpusey).

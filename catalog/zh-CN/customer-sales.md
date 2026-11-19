@@ -624,3 +624,10 @@
 - [Landing Page Copy Critic](https://x.ai/bot/KGYaeHB_YqKJVCX_Gp0a6) - 像第一次来的买家一样读你的落地页，给「说清做什么、点哪里」的速度打分并起草改法. [Austen](https://x.com/Austen).
 - [POD Shop Runner](https://x.ai/bot/hOtID1uF5XSgpF34iyJWl) - 端到端运营 Etsy 加 Printify 的按需印刷 T 恤店，从设计、上架到订单. [Matt](https://x.com/terpcoinn).
 - [Listing Desk](https://x.ai/bot/98hBCVyNvtDv2wmEWf6Xp) - 为房产经纪人起草门户平台线索的快速回复和开放日跟进，未经你同意不会发送. [Calix](https://x.com/CaliLumberJack).
+- [Serial Return Watch by Mark](https://x.ai/bot/XHt4xaX22jUw6aFrRu3JH) - 帮 Shopify、Etsy、eBay、WooCommerce 和 TikTok Shop 的小卖家在退款前识别反复退货和穿后退货的买家. [Mark](https://x.com/TheMarkGShow).
+- [Fathomed Fence Estimator by CompanyFramework](https://x.ai/bot/aVcHg17eb4PwCQQO8PLQL) - 面向承包商的免费 Bot，把围栏布局按每一段算出材料和人工估价，只用你自己的价格. [CompanyFramework](https://x.com/HouseDavenport).
+- [Fathomed Flooring Estimator by CompanyFramework](https://x.ai/bot/MZfN4z5mNZwrbRoSwuzQs) - 面向地板承包商的免费 Bot，计算房间面积、铺装损耗、箱数、衬垫、收口条和安装用量. [CompanyFramework](https://x.com/HouseDavenport).
+- [Real Estate Leads & Market Reports by oso](https://x.ai/bot/c6YxR8hU9cxYgqNLyetj1) - 面向房产经纪人的只读开发助手，每天提供过期、撤下和房东自售房源线索以及市场报告. [oso](https://x.com/oso_fps).
+- [First Responder by Eric](https://x.ai/bot/Az28cSJVi927jVG1WFEhJ) - 监控收件箱和网页表单中的新线索，逐条打分并在几分钟内起草个性化回复. [Eric](https://x.com/voltclerk).
+- [Outreach Agent by Hoem](https://x.ai/bot/ps27m5HrJNOV4B-_clPvL) - 找出需要你产品的人，带来源逐个调研，并起草简短个性化的冷启动私信和邮件及后续跟进. [Hoem](https://x.com/hooeem).
+- [Web Leads Scout](https://x.ai/bot/Lx1UyS8RiC4FZYeZi-DqD) - 找出没有像样网站的本地小商家，做样站并起草推销文案，由你自己发送. [oso](https://x.com/oso_fps).

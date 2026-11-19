@@ -959,3 +959,9 @@ Back to [README](../../README.md)
 - [Jira Sync](https://x.ai/bot/_91qkYwSfXDJMAZnO6eW9) - Keeps Jira boards in sync with what you code by reading commits, PRs and coding agent sessions. [Felix](https://x.com/blackie_360).
 - [OutageCheck](https://x.ai/bot/FTCdRKGRlHNqGz4FZpqym) - Tells you in seconds whether a service is really down, with a status card, official link and fixed alert. [John](https://x.com/cu30rry_).
 - [Feedback Board](https://x.ai/bot/JUXsVsVBG-mWEIDKdQrrX) - Free private feedback board for indie devs that turns mail, X and pasted text into bug and request cards. [Calix](https://x.com/CaliLumberJack).
+- [Fable Oracle](https://x.ai/bot/N5rY1_MaBipN8b-EhF4Nu) - Plan and final-review seat for teams shipping code with AI implementers, driving the Claude Code CLI. [Matt](https://x.com/bossriceshark).
+- [GrokBotDevTeam](https://x.ai/bot/_9kXD14exd2rqaN1afg04) - Sets up a three-bot software team with a Lead, a Developer and a Reviewer, open-source and self-improving. [Alex](https://x.com/alexvzah).
+- [Feature Story PM](https://x.ai/bot/2X11E2Mee6ytPwnsgdLIK) - Product manager for one repo that splits features into gated stories you approve and runs each one. [Ken](https://x.com/AtSynct).
+- [Prompt Densifier](https://x.ai/bot/AHWQ8EHovKI1UYW4F3cDi) - Turns a plain-language prompt into the densest version that keeps every load-bearing spec, ready for any agent. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Code Review QA](https://x.ai/bot/qeoZdq6x-72iJTqHEM4VO) - Read-only reviewer for finished coding-agent work that fails it on bugs, missed requirements and standards breaches. [Ken](https://x.com/AtSynct).
+- [Build Buddy](https://x.ai/bot/u8OS_Gt_mPA9CJ3VCc3m0) - Builds and publishes websites in Grok Build from your brief, with a preview for you to review before going live. [Llama](https://x.com/TeslaTakesOver).

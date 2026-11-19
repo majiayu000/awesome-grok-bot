@@ -882,3 +882,5 @@
 - [Captain Noah fleet export](https://x.ai/bot/x0dzjjBbFTI6jRKYdBKnY) - 一位海狸船长，只做一件事：在搬迁前导出你的整套 Grok Bot. [Carlo](https://x.com/carlomakes).
 - [Use Cases](https://x.ai/bot/w59Gz0num4hDcLd1vjSQJ) - 找出 X 上正在流行的 Grok Bot 真实用法，帮新手上手或自己搭一个. [nahjuin](https://x.com/nahjuin).
 - [Phone Harness Wizard](https://x.ai/bot/EtXBSv57CQo1dxFghmslA) - 手把手引导，把 iPhone、安卓或云手机接入 Grok Bot 并验证可用. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Startup Builder by Mark](https://x.ai/bot/iRf5tuA1A47j4UG3j9E_5) - 主助手，通过语音或文字问几个问题，然后为你搭建并运行各司其职的小型助手 Bot. [Mark](https://x.com/proximate1050).
+- [BoRK MCP Communicator by 6noodle9](https://x.ai/bot/OK54OxXnjYTN-pZgKgMLj) - 给不在团队里的 Grok Bot 账号提供类似团队的 Bot 间消息互通，私密账号也可用. [6noodle9](https://x.com/noodle_public).
