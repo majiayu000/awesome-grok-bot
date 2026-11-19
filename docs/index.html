@@ -137,13 +137,14 @@
       <div class="meta">
         <span class="pill"><strong id="count">7959</strong>&nbsp;<span id="countLabel">listed</span></span>
         <span class="pill"><strong id="verified">0</strong>&nbsp;<span id="verifiedLabel">verified</span></span>
+        <span class="pill"><span id="snapshotLabel">Snapshot</span>&nbsp;<span id="snapshotDate">2026-11-19</span></span>
         <button type="button" class="lang" id="langEn" aria-pressed="true">EN</button>
         <button type="button" class="lang" id="langZh" aria-pressed="false">中文</button>
       </div>
     </header>
 
     <div class="notice" id="notice">
-      Community shares are untrusted. Reachable ≠ safe. <code>verified</code> is a separate maintainer flag (currently 0). Read the profile, connect one plugin, try a read-only task first.
+      Community shares come from third parties. Read the profile and try a read-only task before connecting services. The verified count reflects documented maintainer runs.
     </div>
 
     <div class="controls" role="search" hidden>
@@ -170,9 +171,10 @@
       <ol>
         <li>Choose a job below, open a <code>x.ai/bot/…</code> share, and read its description, skills and routines. / 按任务找分享，先阅读简介、技能与例行任务。</li>
         <li>Open it with the Grok Bot app and choose <strong>Add</strong>. This creates your own copy; it does not transfer the author's computer, logins or chat history. / 在应用中点击 Add，获得自己的副本，不会继承作者的电脑、登录或聊天记录。</li>
-        <li>Inspect the added bot, reconnect only the services needed for your task, and begin with a task that only reads. / 检查导入结果，只连接本次需要的服务，先做只读任务。</li>
+        <li>Inspect the added bot, pause routines, and start with a read-only task using public or sample data. / 检查导入结果，暂停例行任务，用公开或模拟数据完成首次只读任务。</li>
       </ol>
       <p><strong>Try this first:</strong> “Read the public page at the URL I provide. Summarize three facts with their source links. Do not sign in, submit forms, send messages or change files.” / 首次任务可以只要求阅读指定公开网页，列出三条事实与来源，不登录、不提交、不发消息、不改文件。</p>
+      <p><a href="https://github.com/majiayu000/awesome-grok-bot/blob/main/docs/vetting.md#run-a-documented-first-task">First-task checks for Featured shares / 精选 Bot 的首次任务检查</a></p>
       <details><summary>Why can't I add a share? / 为什么无法导入？</summary><p>Official sharing supports Public and Team-only visibility. A Team-only template is limited to teammates, and recipients need the app to Add it. Check visibility and app access before assuming a link is broken. / 官方支持公开与团队内分享；团队链接只对同事开放，导入也需要应用。先检查可见范围和应用访问权限。</p></details>
       <details><summary>Are listed bots tested? / 收录代表验证过吗？</summary><p>Reachability is checked when a share is collected; behavior verification is a separate catalog flag. A shelf is editorial navigation. Check the current entry and the <a href="https://github.com/majiayu000/awesome-grok-bot/blob/main/docs/vetting.md">vetting checklist</a>, then inspect the skills after importing. / 链接可达、编辑分层与行为验证是三件事；导入后仍要检查技能。</p></details>
       <details><summary>One bot, a pack, or an official starter? / 单个 Bot、组合包还是官方角色？</summary><p>A share adds one bot. <a href="https://github.com/majiayu000/awesome-grok-bot/tree/main/packs">Packs</a> are multi-bot recipes. <a href="https://github.com/majiayu000/awesome-grok-bot/blob/main/docs/official-starters.md">Official starters</a> help you create a new bot; they are not import links. / 分享导入单个 Bot，组合包是协作配方，官方角色是新建起点。</p></details>
@@ -56125,7 +56127,8 @@
       lead: 'Searchable catalog of live x.ai/bot shares you can preview and Add. Not prompt dumps.',
       countLabel: 'listed',
       verifiedLabel: 'verified',
-      notice: 'Community shares are untrusted. Reachable ≠ safe. verified is a separate maintainer flag (currently 0). Read the profile, connect one plugin, try a read-only task first.',
+      snapshotLabel: 'Snapshot',
+      notice: 'Community shares come from third parties. Read the profile and try a read-only task before connecting services. The verified count reflects documented maintainer runs.',
       labelQ: 'Search',
       labelCat: 'Category',
       labelShelf: 'Shelf',
@@ -56166,7 +56169,8 @@
       lead: '可搜索的 Grok Bot 活分享目录（x.ai/bot），预览后一键 Add。不是提示词合集。',
       countLabel: '已收录',
       verifiedLabel: '已核验',
-      notice: '社区分享不可信。可达 ≠ 安全。verified 是维护者单独标记（当前为 0）。先看 profile，只接一个连接器，先跑只读任务。',
+      snapshotLabel: '快照',
+      notice: '社区分享来自第三方。先读简介并运行只读任务，再连接服务。已核验数量根据维护者留下的运行记录统计。',
       labelQ: '搜索',
       labelCat: '分类',
       labelShelf: '货架',
@@ -56270,6 +56274,7 @@
     $('lead').textContent = i.lead;
     $('countLabel').textContent = i.countLabel;
     $('verifiedLabel').textContent = i.verifiedLabel;
+    $('snapshotLabel').textContent = i.snapshotLabel;
     $('notice').textContent = i.notice;
     $('labelQ').textContent = i.labelQ;
     $('labelCat').textContent = i.labelCat;
@@ -56470,6 +56475,7 @@
       document.querySelector('.controls').hidden = false;
       $('count').textContent = String(data.count ?? entries.length);
       $('verified').textContent = String(data.verified ?? 0);
+      $('snapshotDate').textContent = /^\d{4}-\d{2}-\d{2}$/.test(data.generated) ? data.generated : '—';
       render();
     } catch (err) {
       $('stats').innerHTML = `<span class="err">${escapeHtml(t().err)}</span>`;

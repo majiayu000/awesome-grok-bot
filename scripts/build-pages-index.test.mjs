@@ -7,11 +7,11 @@ import { fileURLToPath } from "node:url";
 import test from "node:test";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const outputs = ["docs/catalog-index.json", "docs/index.html", "docs/sitemap.xml", "docs/robots.txt", "llms.txt"];
+const outputs = ["docs/catalog-index.json", "docs/index.html", "docs/sitemap.xml", "docs/robots.txt", "llms.txt", "README.md", "README.zh-CN.md"];
 function fixture(t) {
   const dir = mkdtempSync(join(tmpdir(), "generated-catalog-test-"));
   t.after(() => rmSync(dir, { recursive: true, force: true }));
-  for (const name of ["scripts", "docs", "catalog.json", "llms.txt"]) {
+  for (const name of ["scripts", "docs", "catalog.json", "llms.txt", "README.md", "README.zh-CN.md"]) {
     cpSync(join(root, name), join(dir, name), { recursive: true });
   }
   return {
@@ -44,19 +44,26 @@ test("generated catalog check detects stale outputs and build repairs them idemp
     catalog.entries.push({ ...raw, slug: `regression-fixture-${i}`, name: `Regression fixture ${i}`,
       import: `https://x.ai/bot/regression-fixture-${i}`, verified: false });
   }
+  catalog.generated = "2026-01-12";
+  const formerVerified = catalog.entries.filter((entry) => entry.verified).length;
+  catalog.entries.find((entry) => !entry.verified).verified = true;
   f.write("catalog.json", JSON.stringify(catalog));
   f.write("llms.txt", f.read("llms.txt").replace(/^> \d+ live/m, `> ${catalog.entries.length} live`)
     .replace(/^\d+ live shares/m, `${catalog.entries.length} live shares`));
   const before = outputs.map(f.read);
   const stale = f.run("--check");
   assert.equal(stale.status, 1, stale.stderr);
-  for (const path of ["docs/catalog-index.json", "docs/index.html", "llms.txt"]) assert.ok(stale.stderr.includes(path), stale.stderr);
+  for (const path of ["docs/catalog-index.json", "docs/index.html", "llms.txt", "README.md", "README.zh-CN.md"]) assert.ok(stale.stderr.includes(path), stale.stderr);
   assert.deepEqual(outputs.map(f.read), before, "check mode must not repair files");
   assert.equal(f.run().status, 0);
   assert.equal(f.run("--check").status, 0);
   assert.ok(f.read("llms.txt").includes(`raw ${rawCount + 9} —`));
   assert.equal(JSON.parse(f.read("docs/catalog-index.json")).count, catalog.entries.length);
   assert.ok(f.read("docs/index.html").includes("Regression fixture 8"));
+  assert.ok(f.read("docs/index.html").includes('<span id="snapshotDate">2026-01-12</span>'));
+  assert.ok(f.read("docs/index.html").includes(`<strong id="verified">${formerVerified + 1}</strong>`));
+  assert.ok(f.read("README.md").includes(`2026-01-12 · **${formerVerified + 1} verified / ${catalog.entries.length} listed**`));
+  assert.ok(f.read("README.zh-CN.md").includes(`2026-01-12 · **${formerVerified + 1} 条已核验 / ${catalog.entries.length} 条已收录**`));
   const built = outputs.map(f.read);
   assert.equal(f.run().status, 0);
   assert.deepEqual(outputs.map(f.read), built);
@@ -66,9 +73,14 @@ test("each generated output is checked independently", (t) => {
   const f = fixture(t);
   for (const path of outputs) {
     const original = f.read(path);
-    const corrupted = path === "docs/index.html"
-      ? original.replace(/(<strong id="count">)[^<]*/, "$199999")
-      : path === "llms.txt" ? original.replace(/raw \d+/, "raw 99999") : original + "\n";
+    let corrupted = original + "\n";
+    if (path === "docs/index.html") {
+      corrupted = original.replace(/(<strong id="count">)[^<]*/, "$199999");
+    } else if (path === "llms.txt") {
+      corrupted = original.replace(/raw \d+/, "raw 99999");
+    } else if (path.startsWith("README")) {
+      corrupted = original.replace(/(<!-- generated:catalog-snapshot-start -->\n).*/, "$1stale snapshot");
+    }
     assert.notEqual(corrupted, original);
     f.write(path, corrupted);
     const result = f.run("--check");
@@ -147,6 +159,9 @@ test("an omitted catalog date builds and checks identically across UTC days", (t
   const checked = f.runAt("2026-01-02T12:00:00Z", "--check");
   assert.equal(checked.status, 0, checked.stderr);
   assert.equal(JSON.parse(f.read("docs/catalog-index.json")).generated, "");
+  assert.ok(f.read("docs/index.html").includes('<span id="snapshotDate">—</span>'));
+  assert.ok(f.read("README.md").includes("Catalog snapshot · date unavailable"));
+  assert.ok(f.read("README.zh-CN.md").includes("目录快照 · 日期未记录"));
   assert.deepEqual(outputs.map(f.read), before);
   assert.equal(f.runAt("2026-01-03T12:00:00Z").status, 0);
   assert.deepEqual(outputs.map(f.read), before);

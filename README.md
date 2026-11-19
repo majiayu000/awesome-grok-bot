@@ -10,7 +10,11 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 7959 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> Public `x.ai/bot` shares to preview and add, with field cases from people who use them.
+
+<!-- generated:catalog-snapshot-start -->
+Catalog snapshot · 2026-11-19 · **0 verified / 7959 listed**
+<!-- generated:catalog-snapshot-end -->
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -26,6 +30,7 @@
   - [Studio doors](docs/studio-doors.md)
   - [Searchable site](https://majiayu000.github.io/awesome-grok-bot/)
   - [How to add a share and try a first task](https://majiayu000.github.io/awesome-grok-bot/#getting-started)
+  - [Featured first-task checks](docs/vetting.md#run-a-documented-first-task)
 - [SEO notes](docs/seo.md)
 - [Contributing](CONTRIBUTING.md)
 - [Field cases](#field-cases)
@@ -70,11 +75,13 @@ Your bots share one cloud Linux computer (cap 50). That is not the app on your l
 
 Paid Cursor and SuperGrok include Grok Bot. See [plans](https://cursor.com/help/grok-bot/plans).
 
-> Community shares are untrusted. Read the profile, connect one plugin, try a read-only task, then enable writes. Do not paste API keys into SETUP. [SECURITY.md](SECURITY.md)
+> Read the third-party profile and try a read-only task before connecting services or enabling writes. Keep credentials out of SETUP. [SECURITY.md](SECURITY.md)
 
 ### Try these first
 
 These are `shelf=featured` in [catalog.json](catalog.json). Start with one share. Open it, hit Add, run a read-only task.
+
+**[Compare 10 starters by account requirements and first task](docs/first-ten-bots.md)** — public descriptions checked on 16 Nov 2026; import and run results are explicitly marked untested.
 
 - **[下载专家](https://x.ai/bot/z7xup0Ax1SBl2K84PELqF)** · Turns long videos and podcasts into searchable Chinese transcripts.
 - **[Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_)** · Daily search-engine check for what is newly public about you.
@@ -117,7 +124,7 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Teams & handoffs](#teams--handoffs) | 882 |
 | **Total** | **7959** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, the evening delta added 2 more, on 14 Nov 2026 the morning full hunt added 26 more, and the afternoon delta added 4 more and the evening delta added 5 more, on 15 Nov 2026 the morning full hunt added 10 more, the afternoon delta added 5 more and the evening delta added 3 more, on 16 Nov 2026 the morning full hunt added 11 more and the afternoon delta added 8 more and the evening delta added 2 more, on 17 Nov 2026 the morning full hunt added 14 more and the afternoon delta added 10 more and the evening delta added 1 more, on 18 Nov 2026 the morning full hunt added 19 more and the afternoon delta added 3 more and the evening delta added 10 more, on 19 Nov 2026 the morning full hunt added 23 more that returned 200. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 7959 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, the evening delta added 2 more, on 14 Nov 2026 the morning full hunt added 26 more, and the afternoon delta added 4 more and the evening delta added 5 more, on 15 Nov 2026 the morning full hunt added 10 more, the afternoon delta added 5 more and the evening delta added 3 more, on 16 Nov 2026 the morning full hunt added 11 more and the afternoon delta added 8 more and the evening delta added 2 more, on 17 Nov 2026 the morning full hunt added 14 more and the afternoon delta added 10 more and the evening delta added 1 more, on 18 Nov 2026 the morning full hunt added 19 more and the afternoon delta added 3 more and the evening delta added 10 more, on 19 Nov 2026 the morning full hunt added 23 more that returned 200. Reachable is not the same as safe or correct. See the [maintainer checklist](docs/vetting.md#run-a-documented-first-task) for the evidence required to verify a share.
 
 ## Field cases
 
@@ -248,6 +255,8 @@ Zoom desktop auth currently fails with error 4700. SuperGrok Plus does not stack
 ## Team packs
 
 One share is one bot. Assemble the roster yourself.
+
+- [Team Bot release brief](packs/team-release-brief.md) — a shared draft-and-review recipe for Team/Enterprise, with a fictional first task and Chinese instructions; not yet run by maintainers.
 
 - [Work + Life two-door](packs/two-door-work-life.md)
 - [Chief of Staff + Fixer + specialists](packs/chief-of-staff.md)

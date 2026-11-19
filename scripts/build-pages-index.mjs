@@ -52,6 +52,7 @@ const index = {
   categories,
   entries,
 };
+const snapshotDate = /^\d{4}-\d{2}-\d{2}$/.test(index.generated) ? index.generated : "";
 
 const out = join(root, "docs", "catalog-index.json");
 emit(out, JSON.stringify(index));
@@ -79,23 +80,23 @@ const highlightCard = (entry) => `<article class="card ${entry.shelf}">
 const featured = entries.filter(entry => entry.shelf === "featured");
 const doors = entries.filter(entry => entry.shelf === "studio-door").slice(0, 8);
 const pagePath = join(root, "docs", "index.html");
-function replaceRequired(text, pattern, replacement, label) {
+function replaceRequired(text, pattern, replacement, label, file = "docs/index.html") {
   const matches = [...text.matchAll(new RegExp(pattern.source, "g"))];
   if (matches.length !== 1) {
-    throw new Error(`docs/index.html: expected exactly one ${label}, found ${matches.length}`);
+    throw new Error(`${file}: expected exactly one ${label}, found ${matches.length}`);
   }
   return text.replace(pattern, replacement);
 }
-function replaceRegion(text, region, content) {
+function replaceRegion(text, region, content, file = "docs/index.html") {
   const start = `<!-- generated:${region}-start -->`;
   const end = `<!-- generated:${region}-end -->`;
   for (const marker of [start, end]) {
     if (text.split(marker).length !== 2) {
-      throw new Error(`docs/index.html: expected exactly one ${marker}`);
+      throw new Error(`${file}: expected exactly one ${marker}`);
     }
   }
   return replaceRequired(text, new RegExp(`${start}[\\s\\S]*?${end}`),
-    () => `${start}\n${content}\n${end}`, `${region} marker pair in order`);
+    () => `${start}\n${content}\n${end}`, `${region} marker pair in order`, file);
 }
 // Validate the original template before any replacement can erase malformed
 // markers or anchors nested inside another generated region.
@@ -118,20 +119,34 @@ function validateAnchor(pattern, label) {
     throw new Error(`docs/index.html: ${label} overlaps a generated region`);
   }
 }
-validateAnchor(/(<strong id="count">)[^<]*(<\/strong>)/, "count anchor");
+const snapshotFields = [
+  [/(<strong id="count">)[^<]*(<\/strong>)/, entries.length, "count anchor"],
+  [/(<strong id="verified">)[^<]*(<\/strong>)/, verified, "verified count anchor"],
+  [/(<span id="snapshotDate">)[^<]*(<\/span>)/, snapshotDate || "—", "snapshot date anchor"],
+];
+for (const [pattern, , label] of snapshotFields) validateAnchor(pattern, label);
 for (const section of ["featuredBlock", "doorsBlock"]) {
   validateAnchor(new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`),
     `${section} section anchor`);
 }
 let page = replaceRegion(originalPage, "catalog", cards);
-page = replaceRequired(page, /(<strong id="count">)[^<]*(<\/strong>)/,
-  (_, start, end) => `${start}${entries.length}${end}`, "count anchor");
+for (const [pattern, value, label] of snapshotFields) {
+  page = replaceRequired(page, pattern, (_, start, end) => `${start}${value}${end}`, label);
+}
 for (const [region, section, list] of [["featured", "featuredBlock", featured], ["doors", "doorsBlock", doors]]) {
   page = replaceRegion(page, region, list.map(highlightCard).join("\n"));
   page = replaceRequired(page, new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`),
     (_, start, end) => `${start}${list.length ? "" : " hidden"}${end}`, `${section} section anchor`);
 }
 emit(pagePath, page);
+const readmeSnapshots = [
+  ["README.md", `Catalog snapshot · ${snapshotDate || "date unavailable"} · **${verified} verified / ${entries.length} listed**`],
+  ["README.zh-CN.md", `目录快照 · ${snapshotDate || "日期未记录"} · **${verified} 条已核验 / ${entries.length} 条已收录**`],
+];
+for (const [file, summary] of readmeSnapshots) {
+  const path = join(root, file);
+  emit(path, replaceRegion(readFileSync(path, "utf8"), "catalog-snapshot", summary, file));
+}
 emit(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://majiayu000.github.io/awesome-grok-bot/</loc></url>
