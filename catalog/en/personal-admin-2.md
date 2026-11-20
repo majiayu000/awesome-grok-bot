@@ -226,3 +226,4 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Ghost Mode](https://x.ai/bot/HxHFTW15salVLYZ2KdCXt) - Files removals from people-search sites and data brokers and keeps appealing weekly until your data is gone. [Troy](https://x.com/whitenoise301).
 - [第二大脑](https://x.ai/bot/uikTIrLLIkx6zwKp5T9VN) - Keeps an Obsidian second brain tidy by filing quick notes, searching and syncing through a private GitHub repo. [shubin](https://x.com/boscoshubin).
 - [Great Books Reading Paths](https://x.ai/bot/k232Uq3GOPgOdh63JWIWp) - Guides a great book fifteen minutes a day along paths like the Stoics, Homer, Plato, Shakespeare or Dante. [John](https://x.com/BTCJohnnyB).
+- [Teacher by Jukka](https://x.ai/bot/jCYOEVUM21FmBWtkI51Xf) - Patient tutor for adult professionals that teaches one theory or method at a time with diagrams, practice and review questions. [Jukka](https://x.com/jkuumola).

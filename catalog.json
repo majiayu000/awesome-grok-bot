@@ -166572,6 +166572,27 @@
       "updated": "2026-11-20",
       "shelf": "raw",
       "source": "https://x.com/coreyhainesco/status/2123598174212293073"
+    },
+    {
+      "slug": "teacher-by-jukka",
+      "name": "Teacher by Jukka",
+      "author": {
+        "name": "Jukka",
+        "url": "https://x.com/jkuumola"
+      },
+      "summary": "Patient tutor for adult professionals that teaches one theory or method at a time with diagrams, practice and review questions",
+      "summary_zh": "面向成年职场人的耐心导师，一次讲一个理论或方法，配图示、练习和复习题",
+      "import": "https://x.ai/bot/jCYOEVUM21FmBWtkI51Xf",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/jkuumola/status/2123747987113332862"
     }
   ]
 }

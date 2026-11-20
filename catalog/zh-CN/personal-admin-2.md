@@ -226,3 +226,4 @@
 - [Ghost Mode](https://x.ai/bot/HxHFTW15salVLYZ2KdCXt) - 向人员搜索网站和数据经纪商提交删除申请，并每周持续申诉直到你的信息消失. [Troy](https://x.com/whitenoise301).
 - [第二大脑](https://x.ai/bot/uikTIrLLIkx6zwKp5T9VN) - 整理你的 Obsidian 第二大脑，随手记入库、检索归档，并经私有 GitHub 仓库同步. [shubin](https://x.com/boscoshubin).
 - [Great Books Reading Paths](https://x.ai/bot/k232Uq3GOPgOdh63JWIWp) - 每天十五分钟陪你读经典，可选斯多葛、荷马、柏拉图、莎士比亚或但丁等路线. [John](https://x.com/BTCJohnnyB).
+- [Teacher by Jukka](https://x.ai/bot/jCYOEVUM21FmBWtkI51Xf) - 面向成年职场人的耐心导师，一次讲一个理论或方法，配图示、练习和复习题. [Jukka](https://x.com/jkuumola).
