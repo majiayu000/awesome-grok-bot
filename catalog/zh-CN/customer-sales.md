@@ -633,3 +633,6 @@
 - [Web Leads Scout](https://x.ai/bot/Lx1UyS8RiC4FZYeZi-DqD) - 找出没有像样网站的本地小商家，做样站并起草推销文案，由你自己发送. [oso](https://x.com/oso_fps).
 - [Spam Solo](https://x.ai/bot/KQf4Oh2_pqo-lIlJBAsWy) - 帮新开业的人分辨随之而来的各种官方样式垃圾信息，比如假的商家资料验证电话和目录收费单. [Darrell](https://x.com/DC__Squared).
 - [Curbside](https://x.ai/bot/UyDMowBuYTsKvOPEHY1Sq) - 线上二手清仓助手，你发物品照片，它按真实成交价定价，并上架到你自己的免费网店. [Harvey](https://x.com/harvey_ramer).
+- [Fathomed Change Order Writer](https://x.ai/bot/Hp7Ca9zxxQQwGUJ74oueQ) - 把你描述的工程变更写成参照 AIA G701 的变更单，适合承接项目的各类生意. [CompanyFramework](https://x.com/CompanyFramewrk).
+- [Etsy & Print-on-Demand Seller Daily Helper](https://x.ai/bot/Nju2EuwtLxCQXDy6e15VW) - 为 Etsy 和按需印刷的创作者起草商品文案和社媒帖子，同步 Pinterest，每天两次查看数据. [iamtraciwithani](https://x.com/iamtraciwithani).
+- [Restaurant Operations & Chef Consulting](https://x.ai/bot/2uTyOIyO0LedznrsjfHGe) - 为餐厅老板和厨师顾问做后厨搭档，覆盖食材成本、库存、人工和员工培训. [Chef](https://x.com/Chefmarkcoakley).

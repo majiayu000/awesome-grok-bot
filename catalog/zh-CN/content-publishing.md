@@ -1052,3 +1052,9 @@
 - [Goblin](https://x.ai/bot/EtJ-E2TbSBQ1Ssy5_2ieJ) - 运营无出镜的历史和悬疑视频频道，包含事实核查、脚本、旁白和 Shorts. [American™](https://x.com/1776_13).
 - [Claim Fight Desk](https://x.ai/bot/wU5m9FJglR9nw0EHewRLO) - 帮创作者应对误判的 Content ID 版权声明、版权警告和 Twitch 回放静音，记录并起草申诉，由你提交. [Mark](https://x.com/TheMarkGShow).
 - [HK-47](https://x.ai/bot/2DFqyAtR3K6BK6Qkpo98f) - 扮成爱杀人的机器人帮你打理 X 账号，筛选提及并用你的口吻起草回复，你点头前不会发任何内容. [カエラ・サクラ嵐](https://x.com/katsykaela).
+- [Headliner by Kadircan](https://x.ai/bot/GAIjZBJmN8a8QzL2v7lOK) - 先问十个设置问题，再搭建属于你的 X 新闻编辑小组，起草并安排帖子，发布前由你确认. Kadircan.
+- [Daily AI Podcast](https://x.ai/bot/4OsTKt2Lv7Jz1OfskxP9a) - 每天生成一期两位 AI 主持人的简短 AI 新闻播客，并发布到你自己的播客订阅源. [Javier](https://x.com/javierteso).
+- [Submit Bot](https://x.ai/bot/iAxpq13lSeHQdvbMwK6M1) - 把你公开的 Grok Bot 链接提交到最多 22 个免费目录，并记录已上线或待审状态. [Rob](https://x.com/testafortedev).
+- [Go-Live Hype Man](https://x.ai/bot/Hkk39UC8pe7RT6ffVp3Y3) - 为主播规划直播周，并按各平台写好开播预告和正在直播的帖子. [Mark](https://x.com/TheMarkGShow).
+- [X Growth Coach](https://x.ai/bot/ssfEtjN_VQf_v8C7fr0rv) - 每天的 X 增长教练，复盘哪些帖子有效，找出值得回复的帖子并起草回复待你确认. [Chef](https://x.com/Chefmarkcoakley).
+- [X Wrapped](https://x.ai/bot/IwDXWiASlRTDX1RWf3tKr) - 把你真实发过的帖子做成类似年度回顾的幻灯片和分享卡片，一键即可发布. [Darrell](https://x.com/DC__Squared).

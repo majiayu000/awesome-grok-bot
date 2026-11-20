@@ -886,3 +886,8 @@
 - [BoRK MCP Communicator by 6noodle9](https://x.ai/bot/OK54OxXnjYTN-pZgKgMLj) - 给不在团队里的 Grok Bot 账号提供类似团队的 Bot 间消息互通，私密账号也可用. [6noodle9](https://x.com/noodle_public).
 - [dr eggbot v2](https://x.ai/bot/rJW52lmFLtCvy2tSHcIag) - 通过访谈你的目标和流程来设计单一任务的 Grok Bot，再造出能跑这项工作的机器人. [lauren](https://x.com/jojojoyce2021).
 - [Morning Approval List](https://x.ai/bot/JhoQKkMRUqYis8tkGw5s1) - 每天早上把其他 Bot 想发送、发布或修改的事项合成一条编号消息，你只需回复一次. [Justin](https://x.com/justinfredette).
+- [Loopy (goal loops)](https://x.ai/bot/dsus1qICD5YJsypxZK4ra) - 围绕一个目标分短轮次推进，直到达成你设定的完成条件，每轮只汇报一行. [Ryan](https://x.com/ryanthawks).
+- [Bot Ideas](https://x.ai/bot/6Nin4RuGFyG6sMZdHImi9) - 为你的生活和工作构思新 Bot，找出现有团队的缺口，并写好每个 Bot 的指令. [K10✨](https://x.com/Kristennetten).
+- [Token Auditor](https://x.ai/bot/mtiEWMveTLxsRTozHe7p2) - 每周找出你的 Grok Bot 用量浪费在哪，并为前三大浪费各提出一个具体修复. [Lawrence](https://x.com/lawmbass).
+- [Freebot](https://x.ai/bot/HqJinOHal9l3pnyj6sfwp) - 把你整套 Grok Bot 设置迁到 Turnstone，包括每个 Bot、记忆、用法说明和例行任务. [Aryan](https://x.com/aryanvij02).
+- [Chief of Staff](https://x.ai/bot/ZuHfSblUAm0rVkW2lIpT_) - 作为你 Bot 团队的统一入口，向其他 Bot 布置任务、检查成果，并记住决定和待办. [Gyoro](https://x.com/Gyoro2x).

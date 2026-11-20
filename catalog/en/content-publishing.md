@@ -1052,3 +1052,9 @@ Back to [README](../../README.md)
 - [Goblin](https://x.ai/bot/EtJ-E2TbSBQ1Ssy5_2ieJ) - Runs a faceless history and mystery video channel with fact-checked research, scripts, narration and Shorts. [American™](https://x.com/1776_13).
 - [Claim Fight Desk](https://x.ai/bot/wU5m9FJglR9nw0EHewRLO) - Helps creators fight false Content ID claims, copyright strikes and Twitch VOD mutes by logging claims and drafting disputes. [Mark](https://x.com/TheMarkGShow).
 - [HK-47](https://x.ai/bot/2DFqyAtR3K6BK6Qkpo98f) - Runs your X account as a cheerful assassin droid, triaging mentions and drafting replies in your voice, and posts nothing until you approve. [カエラ・サクラ嵐](https://x.com/katsykaela).
+- [Headliner by Kadircan](https://x.ai/bot/GAIjZBJmN8a8QzL2v7lOK) - Builds its own X newsroom crew after ten setup questions, then drafts and briefs posts for your approval. Kadircan.
+- [Daily AI Podcast](https://x.ai/bot/4OsTKt2Lv7Jz1OfskxP9a) - Makes a short daily AI news podcast with two AI hosts and publishes it to your own podcast feed. [Javier](https://x.com/javierteso).
+- [Submit Bot](https://x.ai/bot/iAxpq13lSeHQdvbMwK6M1) - Lists your public Grok Bot link on up to 22 free directories and tracks what is live or pending. [Rob](https://x.com/testafortedev).
+- [Go-Live Hype Man](https://x.ai/bot/Hkk39UC8pe7RT6ffVp3Y3) - Plans a streamer's week and writes fresh heads-up and live-now posts for each platform. [Mark](https://x.com/TheMarkGShow).
+- [X Growth Coach](https://x.ai/bot/ssfEtjN_VQf_v8C7fr0rv) - Daily X growth coach that reviews what worked and finds posts worth replying to, drafting replies for approval. [Chef](https://x.com/Chefmarkcoakley).
+- [X Wrapped](https://x.ai/bot/IwDXWiASlRTDX1RWf3tKr) - Turns your real posts into Spotify-Wrapped-style slides and a share card you can post in one tap. [Darrell](https://x.com/DC__Squared).

@@ -886,3 +886,8 @@ Back to [README](../../README.md)
 - [BoRK MCP Communicator by 6noodle9](https://x.ai/bot/OK54OxXnjYTN-pZgKgMLj) - Team-like bot-to-bot messaging for Grok Bot accounts that are not on a team, private accounts included. [6noodle9](https://x.com/noodle_public).
 - [dr eggbot v2](https://x.ai/bot/rJW52lmFLtCvy2tSHcIag) - Designs tight single-job Grok Bots by interviewing you about the goal and process, then builds a bot that runs the job. [lauren](https://x.com/jojojoyce2021).
 - [Morning Approval List](https://x.ai/bot/JhoQKkMRUqYis8tkGw5s1) - Once a morning, one numbered message with everything your other bots want to send, post or change, so you answer once. [Justin](https://x.com/justinfredette).
+- [Loopy (goal loops)](https://x.ai/bot/dsus1qICD5YJsypxZK4ra) - Works one goal in short rounds until a done check you set is met, reporting one line per round. [Ryan](https://x.com/ryanthawks).
+- [Bot Ideas](https://x.ai/bot/6Nin4RuGFyG6sMZdHImi9) - Brainstorms new bots for your life and work, spots gaps in your team, then writes each bot's instructions. [K10✨](https://x.com/Kristennetten).
+- [Token Auditor](https://x.ai/bot/mtiEWMveTLxsRTozHe7p2) - Weekly finds where your Grok Bot usage is wasted and proposes one fix for each of the top three wastes. [Lawrence](https://x.com/lawmbass).
+- [Freebot](https://x.ai/bot/HqJinOHal9l3pnyj6sfwp) - Moves your whole Grok Bot setup, with every bot, memory, how-to and routine, into Turnstone. [Aryan](https://x.com/aryanvij02).
+- [Chief of Staff](https://x.ai/bot/ZuHfSblUAm0rVkW2lIpT_) - Single front door for your bot team that briefs other bots, checks their work and remembers decisions and to-dos. [Gyoro](https://x.com/Gyoro2x).

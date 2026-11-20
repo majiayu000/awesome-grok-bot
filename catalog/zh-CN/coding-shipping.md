@@ -966,3 +966,5 @@
 - [Code Review QA](https://x.ai/bot/qeoZdq6x-72iJTqHEM4VO) - 只读的代码评审员，检查编码 Agent 完成的工作，遇到缺陷、漏需求或违反规范就判不通过. [Ken](https://x.com/AtSynct).
 - [Build Buddy](https://x.ai/bot/u8OS_Gt_mPA9CJ3VCc3m0) - 根据你的需求在 Grok Build 中制作并发布网站，上线前先给预览供你审核. [Llama](https://x.com/TeslaTakesOver).
 - [Ghostex](https://x.ai/bot/W-heW_JNPbQxU7bWKxNP5) - Ghostex 桌面应用的远程遥控，能查看编程代理进度、派活，并在聊天里转达你的答复. [maddada](https://x.com/maddada).
+- [Asso Grok by SYSTASYS](https://x.ai/bot/OdH_gqfWx1P81tmoUce3p) - 为 AI 工作做独立红队检查，编码代理说完成时核对真实证据，并植入缺陷来检验测试. [SYSTASYS by Hichem](https://x.com/ace_prooflayer).
+- [atr · Agent Task Runner](https://x.ai/bot/8N21KO1uz_jDJt3eqELFA) - 安装并操作 atr，在你的订阅额度上运行编码代理命令行，并汇报任务和用量. [Rimantas](https://x.com/Rimusz).

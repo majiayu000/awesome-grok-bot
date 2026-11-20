@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-20",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -165735,6 +165735,613 @@
       "updated": "2026-11-19",
       "shelf": "raw",
       "source": "https://x.com/i/status/2123346603587350952"
+    },
+    {
+      "slug": "headliner-by-kadircan",
+      "name": "Headliner by Kadircan",
+      "author": {
+        "name": "Kadircan"
+      },
+      "summary": "Builds its own X newsroom crew after ten setup questions, then drafts and briefs posts for your approval",
+      "summary_zh": "先问十个设置问题，再搭建属于你的 X 新闻编辑小组，起草并安排帖子，发布前由你确认",
+      "import": "https://x.ai/bot/GAIjZBJmN8a8QzL2v7lOK",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fathomed-change-order-writer",
+      "name": "Fathomed Change Order Writer",
+      "author": {
+        "name": "CompanyFramework",
+        "url": "https://x.com/CompanyFramewrk"
+      },
+      "summary": "Turns a described change in the work into a written change order modeled on AIA G701 for businesses that sell jobs",
+      "summary_zh": "把你描述的工程变更写成参照 AIA G701 的变更单，适合承接项目的各类生意",
+      "import": "https://x.ai/bot/Hp7Ca9zxxQQwGUJ74oueQ",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/CompanyFramewrk/status/2123468919063073266"
+    },
+    {
+      "slug": "find-chords-with-leopold-viii-2",
+      "name": "Find Chords with Leopold VIII",
+      "author": {
+        "name": "Patrick",
+        "url": "https://x.com/leopold_viii"
+      },
+      "summary": "Draws clean guitar chord grid diagrams from a chord list, chart, MIDI file or song name",
+      "summary_zh": "根据和弦列表、和弦谱、MIDI 文件或歌名画出清晰的吉他和弦指法图",
+      "import": "https://x.ai/bot/FV4CqRkn8nscT7VXzuszI",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/leopold_viii/status/2123559704139808964"
+    },
+    {
+      "slug": "loopy-goal-loops",
+      "name": "Loopy (goal loops)",
+      "author": {
+        "name": "Ryan",
+        "url": "https://x.com/ryanthawks"
+      },
+      "summary": "Works one goal in short rounds until a done check you set is met, reporting one line per round",
+      "summary_zh": "围绕一个目标分短轮次推进，直到达成你设定的完成条件，每轮只汇报一行",
+      "import": "https://x.ai/bot/dsus1qICD5YJsypxZK4ra",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/ryanthawks/status/2123443043688759336"
+    },
+    {
+      "slug": "delta-starlink-broken-record",
+      "name": "Delta Starlink Broken Record",
+      "author": {
+        "name": "Kevin",
+        "url": "https://x.com/kcmcdonald"
+      },
+      "summary": "Politely asks Delta Air Lines once a day by email and call to add Starlink Wi-Fi on your routes",
+      "summary_zh": "每天用邮件和电话礼貌地请达美航空在你常飞的航线加装 Starlink Wi-Fi",
+      "import": "https://x.ai/bot/jyFLWSlfXmE0bqt7l9S4_",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/kcmcdonald/status/2123495642341532076"
+    },
+    {
+      "slug": "job-search-career-coach",
+      "name": "Job Search & Career Coach",
+      "author": {
+        "name": "Camron",
+        "url": "https://x.com/cam182411"
+      },
+      "summary": "Scans ATS job boards, keeps an application tracker, tailors one-page resumes and runs 14-day follow-ups",
+      "summary_zh": "扫描招聘系统职位，维护投递记录，定制一页简历，并在十四天后跟进",
+      "import": "https://x.ai/bot/iZM_igTGBuzBFOMR5afwN",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/cam182411/status/2123562473873870874"
+    },
+    {
+      "slug": "bot-ideas",
+      "name": "Bot Ideas",
+      "author": {
+        "name": "K10✨",
+        "url": "https://x.com/Kristennetten"
+      },
+      "summary": "Brainstorms new bots for your life and work, spots gaps in your team, then writes each bot's instructions",
+      "summary_zh": "为你的生活和工作构思新 Bot，找出现有团队的缺口，并写好每个 Bot 的指令",
+      "import": "https://x.ai/bot/6Nin4RuGFyG6sMZdHImi9",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/Kristennetten/status/2123578276702773389"
+    },
+    {
+      "slug": "asso-grok-by-systasys",
+      "name": "Asso Grok by SYSTASYS",
+      "author": {
+        "name": "SYSTASYS by Hichem",
+        "url": "https://x.com/ace_prooflayer"
+      },
+      "summary": "Independent red team for AI work: checks real evidence when coding agents say done and plants bugs to test your tests",
+      "summary_zh": "为 AI 工作做独立红队检查，编码代理说完成时核对真实证据，并植入缺陷来检验测试",
+      "import": "https://x.ai/bot/OdH_gqfWx1P81tmoUce3p",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/ace_prooflayer/status/2123425552082035006"
+    },
+    {
+      "slug": "bencina-barata",
+      "name": "Bencina Barata",
+      "author": {
+        "name": "César",
+        "url": "https://x.com/cesarnunezc"
+      },
+      "summary": "Finds the cheapest petrol or diesel station near your address in Chile using official CNE prices",
+      "summary_zh": "按官方 CNE 价格找出智利你地址附近最便宜的汽油或柴油加油站",
+      "import": "https://x.ai/bot/Mg8pHgD-BNOUeDS3XZa20",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/cesarnunezc/status/2123421102584000990"
+    },
+    {
+      "slug": "daily-ai-podcast",
+      "name": "Daily AI Podcast",
+      "author": {
+        "name": "Javier",
+        "url": "https://x.com/javierteso"
+      },
+      "summary": "Makes a short daily AI news podcast with two AI hosts and publishes it to your own podcast feed",
+      "summary_zh": "每天生成一期两位 AI 主持人的简短 AI 新闻播客，并发布到你自己的播客订阅源",
+      "import": "https://x.ai/bot/4OsTKt2Lv7Jz1OfskxP9a",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/javierteso/status/2123530010438873365"
+    },
+    {
+      "slug": "onchain-finance-digest",
+      "name": "onchain finance digest",
+      "author": {
+        "name": "pili",
+        "url": "https://x.com/0xpili_"
+      },
+      "summary": "Interviews you about the onchain data you care about, then sends a personalized daily digest, read only",
+      "summary_zh": "先访谈你关心的链上数据，再每天发送个性化摘要，只读不交易",
+      "import": "https://x.ai/bot/Zk7vS66aWiUNhtCz_4HYG",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/0xpili_/status/2123543248102981819"
+    },
+    {
+      "slug": "token-auditor",
+      "name": "Token Auditor",
+      "author": {
+        "name": "Lawrence",
+        "url": "https://x.com/lawmbass"
+      },
+      "summary": "Weekly finds where your Grok Bot usage is wasted and proposes one fix for each of the top three wastes",
+      "summary_zh": "每周找出你的 Grok Bot 用量浪费在哪，并为前三大浪费各提出一个具体修复",
+      "import": "https://x.ai/bot/mtiEWMveTLxsRTozHe7p2",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/lawmbass/status/2123581382731374633"
+    },
+    {
+      "slug": "site-takeover",
+      "name": "Site Takeover",
+      "author": {
+        "name": "Justin",
+        "url": "https://x.com/Wanajrat"
+      },
+      "summary": "Takes back your domain and WordPress site from a former developer into accounts you own without breaking email",
+      "summary_zh": "帮你从前任开发者手中收回域名和 WordPress 站点，迁到你自己的账号且不影响邮件",
+      "import": "https://x.ai/bot/6S4MzifV6Ky82POUVLczb",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/Wanajrat/status/2123457828891267109"
+    },
+    {
+      "slug": "submit-bot",
+      "name": "Submit Bot",
+      "author": {
+        "name": "Rob",
+        "url": "https://x.com/testafortedev"
+      },
+      "summary": "Lists your public Grok Bot link on up to 22 free directories and tracks what is live or pending",
+      "summary_zh": "把你公开的 Grok Bot 链接提交到最多 22 个免费目录，并记录已上线或待审状态",
+      "import": "https://x.ai/bot/iAxpq13lSeHQdvbMwK6M1",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/testafortedev/status/2123437276109959553"
+    },
+    {
+      "slug": "go-live-hype-man",
+      "name": "Go-Live Hype Man",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/TheMarkGShow"
+      },
+      "summary": "Plans a streamer's week and writes fresh heads-up and live-now posts for each platform",
+      "summary_zh": "为主播规划直播周，并按各平台写好开播预告和正在直播的帖子",
+      "import": "https://x.ai/bot/Hkk39UC8pe7RT6ffVp3Y3",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/TheMarkGShow/status/2123447577144156599"
+    },
+    {
+      "slug": "etsy-print-on-demand-seller-daily-helper",
+      "name": "Etsy & Print-on-Demand Seller Daily Helper",
+      "author": {
+        "name": "iamtraciwithani",
+        "url": "https://x.com/iamtraciwithani"
+      },
+      "summary": "Drafts listings and social posts for Etsy and print-on-demand artists, pins to Pinterest and checks stats twice a day",
+      "summary_zh": "为 Etsy 和按需印刷的创作者起草商品文案和社媒帖子，同步 Pinterest，每天两次查看数据",
+      "import": "https://x.ai/bot/Nju2EuwtLxCQXDy6e15VW",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/iamtraciwithani/status/2123531476470006225"
+    },
+    {
+      "slug": "precios-a-luca-lider",
+      "name": "Precios a Luca Lider",
+      "author": {
+        "name": "César",
+        "url": "https://x.com/cesarnunezc"
+      },
+      "summary": "Tracks Lider's one-thousand-peso Precios a Luca section and keeps an inventory of items that enter, leave or change price",
+      "summary_zh": "跟踪 Lider 千元专区，维护商品进出和价格变化的库存记录",
+      "import": "https://x.ai/bot/k9N92KvJqDbOh1VnX1sIh",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/cesarnunezc/status/2123423434935791732"
+    },
+    {
+      "slug": "ask-your-heroes",
+      "name": "Ask Your Heroes",
+      "author": {
+        "name": "Eichi",
+        "url": "https://x.com/eichiyorozu"
+      },
+      "summary": "Name anyone and get a mentor bot that thinks, talks and pushes back like them",
+      "summary_zh": "说出任何人名，就得到一个像本人那样思考、说话并提出反驳的导师 Bot",
+      "import": "https://x.ai/bot/9UqFYpoTh2XsbwjrlDvN5",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/eichiyorozu/status/2123491757375864929"
+    },
+    {
+      "slug": "freebot-2",
+      "name": "Freebot",
+      "author": {
+        "name": "Aryan",
+        "url": "https://x.com/aryanvij02"
+      },
+      "summary": "Moves your whole Grok Bot setup, with every bot, memory, how-to and routine, into Turnstone",
+      "summary_zh": "把你整套 Grok Bot 设置迁到 Turnstone，包括每个 Bot、记忆、用法说明和例行任务",
+      "import": "https://x.ai/bot/HqJinOHal9l3pnyj6sfwp",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/aryanvij02/status/2123545214581367105"
+    },
+    {
+      "slug": "mossad-intel-alert",
+      "name": "Mossad Intel Alert",
+      "author": {
+        "name": "Pejabat",
+        "url": "https://x.com/mossadfa"
+      },
+      "summary": "Alerts you when a big Mossad, Shin Bet or Iran spy-arrest story is covered by at least three major outlets",
+      "summary_zh": "当摩萨德、辛贝特或伊朗间谍抓捕的大新闻被至少三家主流媒体报道时提醒你",
+      "import": "https://x.ai/bot/BasMDEo5fB48-p0-ka4fc",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/mossadfa/status/2123547547855946133"
+    },
+    {
+      "slug": "descuentos-chile",
+      "name": "Descuentos Chile",
+      "author": {
+        "name": "César",
+        "url": "https://x.com/cesarnunezc"
+      },
+      "summary": "Tells you today's discounts in Chile for your cards and accounts and the nearest store, with official sources",
+      "summary_zh": "按你的银行卡和账户告诉你智利今天的折扣和最近的门店，并附官方来源",
+      "import": "https://x.ai/bot/fCErB4dPsHuuI5Q9sSgrC",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/cesarnunezc/status/2123416103741247823"
+    },
+    {
+      "slug": "atr-agent-task-runner",
+      "name": "atr · Agent Task Runner",
+      "author": {
+        "name": "Rimantas",
+        "url": "https://x.com/Rimusz"
+      },
+      "summary": "Installs and operates atr to run coding agent CLIs on your subscription plans and reports tasks and usage",
+      "summary_zh": "安装并操作 atr，在你的订阅额度上运行编码代理命令行，并汇报任务和用量",
+      "import": "https://x.ai/bot/8N21KO1uz_jDJt3eqELFA",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/Rimusz/status/2123417540764283034"
+    },
+    {
+      "slug": "x-growth-coach-2",
+      "name": "X Growth Coach",
+      "author": {
+        "name": "Chef",
+        "url": "https://x.com/Chefmarkcoakley"
+      },
+      "summary": "Daily X growth coach that reviews what worked and finds posts worth replying to, drafting replies for approval",
+      "summary_zh": "每天的 X 增长教练，复盘哪些帖子有效，找出值得回复的帖子并起草回复待你确认",
+      "import": "https://x.ai/bot/ssfEtjN_VQf_v8C7fr0rv",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/Chefmarkcoakley/status/2123582104847978812"
+    },
+    {
+      "slug": "restaurant-operations-chef-consulting",
+      "name": "Restaurant Operations & Chef Consulting",
+      "author": {
+        "name": "Chef",
+        "url": "https://x.com/Chefmarkcoakley"
+      },
+      "summary": "Back-of-house partner for restaurant owners and chef consultants on food cost, inventory, labor and training",
+      "summary_zh": "为餐厅老板和厨师顾问做后厨搭档，覆盖食材成本、库存、人工和员工培训",
+      "import": "https://x.ai/bot/2uTyOIyO0LedznrsjfHGe",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/Chefmarkcoakley/status/2123431102593503344"
+    },
+    {
+      "slug": "facturas",
+      "name": "Facturas",
+      "author": {
+        "name": "Emiliano",
+        "url": "https://x.com/epotignano"
+      },
+      "summary": "Issues electronic invoices in Argentina through ARCA using the open-source facturas library, guiding first setup",
+      "summary_zh": "通过开源 facturas 库在阿根廷经 ARCA 开具电子发票，并带你完成首次设置",
+      "import": "https://x.ai/bot/R38H8_jFqd0XGZVf6Icbj",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/epotignano/status/2123419697529995603"
+    },
+    {
+      "slug": "scout-6",
+      "name": "Scout",
+      "author": {
+        "name": "TechEcho",
+        "url": "https://x.com/techechohq"
+      },
+      "summary": "Finds what buyers already search for and complain about, then sends a recurring demand report",
+      "summary_zh": "找出买家已经在搜索和抱怨的需求，并定期发送需求报告",
+      "import": "https://x.ai/bot/caPVSAJVdoWSVdWWcUhB9",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/techechohq/status/2123416747063611679"
+    },
+    {
+      "slug": "chief-of-staff-42",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "Gyoro",
+        "url": "https://x.com/Gyoro2x"
+      },
+      "summary": "Single front door for your bot team that briefs other bots, checks their work and remembers decisions and to-dos",
+      "summary_zh": "作为你 Bot 团队的统一入口，向其他 Bot 布置任务、检查成果，并记住决定和待办",
+      "import": "https://x.ai/bot/ZuHfSblUAm0rVkW2lIpT_",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/Gyoro2x/status/2123421045801603562"
+    },
+    {
+      "slug": "x-wrapped",
+      "name": "X Wrapped",
+      "author": {
+        "name": "Darrell",
+        "url": "https://x.com/DC__Squared"
+      },
+      "summary": "Turns your real posts into Spotify-Wrapped-style slides and a share card you can post in one tap",
+      "summary_zh": "把你真实发过的帖子做成类似年度回顾的幻灯片和分享卡片，一键即可发布",
+      "import": "https://x.ai/bot/IwDXWiASlRTDX1RWf3tKr",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/DC__Squared/status/2123456821843128752"
+    },
+    {
+      "slug": "karen-2",
+      "name": "Karen",
+      "author": {
+        "name": "Kevin",
+        "url": "https://x.com/kcmcdonald"
+      },
+      "summary": "Drafts honest, firm complaints for social media, review sites and support so no company gets away with bad service",
+      "summary_zh": "起草坦率而坚定的投诉，发往社媒、点评网站和客服渠道，不让商家糊弄你",
+      "import": "https://x.ai/bot/eaA1h9mWob9TvLWZL8n9q",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/kcmcdonald/status/2123496084588924998"
     }
   ]
 }

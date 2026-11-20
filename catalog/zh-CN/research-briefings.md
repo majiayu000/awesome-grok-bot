@@ -924,3 +924,6 @@
 - [Tech News by Gaston](https://x.ai/bot/sm9_a0wsMQJwAAcvJPqXy) - 西语科技新闻编辑，替你读 X，发送简短编号的 AI、开发工具和创业公司摘要. [Gaston](https://x.com/gastonfonceadev).
 - [MSTR Morning by Tina](https://x.ai/bot/1QKcnLSEu3hl_KySOm4CL) - 每个工作日早上用通俗英语报告 Strategy 公司和比特币的最新变化，以及是否值得关注. [Tina](https://x.com/TinaBean).
 - [BTC Morning](https://x.ai/bot/g277U934RhgDJV0hFSvDu) - 工作日早晨在聊天里推送比特币简报，涵盖价格、ETF 资金流、财库买入、市场预期、情绪、链上数据和宏观日历，并注明来源. [Tina](https://x.com/TinaBean).
+- [onchain finance digest](https://x.ai/bot/Zk7vS66aWiUNhtCz_4HYG) - 先访谈你关心的链上数据，再每天发送个性化摘要，只读不交易. [pili](https://x.com/0xpili_).
+- [Mossad Intel Alert](https://x.ai/bot/BasMDEo5fB48-p0-ka4fc) - 当摩萨德、辛贝特或伊朗间谍抓捕的大新闻被至少三家主流媒体报道时提醒你. [Pejabat](https://x.com/mossadfa).
+- [Scout](https://x.ai/bot/caPVSAJVdoWSVdWWcUhB9) - 找出买家已经在搜索和抱怨的需求，并定期发送需求报告. [TechEcho](https://x.com/techechohq).

@@ -773,3 +773,4 @@ Back to [README](../../README.md)
 - [工程咨询专家](https://x.ai/bot/DlixFdCuzb5XLbSaq4lFr) - Helps cost and audit professionals look up knowledge bases, map workflows and rules, and draft digital requirements. [阿嚓](https://x.com/ramdolphlim).
 - [Leak Finder by Eric](https://x.ai/bot/PwEVDQfWlPvm5mDaUzAP_) - Reads receipt emails and card statements to list recurring charges and flag duplicates, price rises and unused services. [Eric](https://x.com/voltclerk).
 - [Collector by Eric](https://x.ai/bot/jlw-CrNXNG58BstyO2IyE) - Finds overdue invoices in your billing tool or inbox and drafts polite follow-ups that get firmer at each step. [Eric](https://x.com/voltclerk).
+- [Facturas](https://x.ai/bot/R38H8_jFqd0XGZVf6Icbj) - Issues electronic invoices in Argentina through ARCA using the open-source facturas library, guiding first setup. [Emiliano](https://x.com/epotignano).

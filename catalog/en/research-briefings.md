@@ -924,3 +924,6 @@ Back to [README](../../README.md)
 - [Tech News by Gaston](https://x.ai/bot/sm9_a0wsMQJwAAcvJPqXy) - Spanish-language tech news curator that reads X for you and sends a short numbered summary of AI, dev tools and startups. [Gaston](https://x.com/gastonfonceadev).
 - [MSTR Morning by Tina](https://x.ai/bot/1QKcnLSEu3hl_KySOm4CL) - Weekday morning plain-English report on what changed with Strategy and bitcoin and whether it matters. [Tina](https://x.com/TinaBean).
 - [BTC Morning](https://x.ai/bot/g277U934RhgDJV0hFSvDu) - Weekday-morning bitcoin brief in chat covering price, ETF flows, treasury buys, crowd odds, sentiment, on-chain data and the macro calendar, all sourced. [Tina](https://x.com/TinaBean).
+- [onchain finance digest](https://x.ai/bot/Zk7vS66aWiUNhtCz_4HYG) - Interviews you about the onchain data you care about, then sends a personalized daily digest, read only. [pili](https://x.com/0xpili_).
+- [Mossad Intel Alert](https://x.ai/bot/BasMDEo5fB48-p0-ka4fc) - Alerts you when a big Mossad, Shin Bet or Iran spy-arrest story is covered by at least three major outlets. [Pejabat](https://x.com/mossadfa).
+- [Scout](https://x.ai/bot/caPVSAJVdoWSVdWWcUhB9) - Finds what buyers already search for and complain about, then sends a recurring demand report. [TechEcho](https://x.com/techechohq).

@@ -966,3 +966,5 @@ Back to [README](../../README.md)
 - [Code Review QA](https://x.ai/bot/qeoZdq6x-72iJTqHEM4VO) - Read-only reviewer for finished coding-agent work that fails it on bugs, missed requirements and standards breaches. [Ken](https://x.com/AtSynct).
 - [Build Buddy](https://x.ai/bot/u8OS_Gt_mPA9CJ3VCc3m0) - Builds and publishes websites in Grok Build from your brief, with a preview for you to review before going live. [Llama](https://x.com/TeslaTakesOver).
 - [Ghostex](https://x.ai/bot/W-heW_JNPbQxU7bWKxNP5) - Remote control for the Ghostex desktop app that checks on coding agents, hands them work and passes on your answers from chat. [maddada](https://x.com/maddada).
+- [Asso Grok by SYSTASYS](https://x.ai/bot/OdH_gqfWx1P81tmoUce3p) - Independent red team for AI work\: checks real evidence when coding agents say done and plants bugs to test your tests. [SYSTASYS by Hichem](https://x.com/ace_prooflayer).
+- [atr · Agent Task Runner](https://x.ai/bot/8N21KO1uz_jDJt3eqELFA) - Installs and operates atr to run coding agent CLIs on your subscription plans and reports tasks and usage. [Rimantas](https://x.com/Rimusz).

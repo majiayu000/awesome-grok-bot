@@ -773,3 +773,4 @@
 - [工程咨询专家](https://x.ai/bot/DlixFdCuzb5XLbSaq4lFr) - 帮工程造价和审计从业者查阅知识库，梳理流程与计算规则，并整理数字化需求. [阿嚓](https://x.com/ramdolphlim).
 - [Leak Finder by Eric](https://x.ai/bot/PwEVDQfWlPvm5mDaUzAP_) - 读取收据邮件和信用卡账单，列出所有周期性扣费，并标出重复、涨价和闲置的服务. [Eric](https://x.com/voltclerk).
 - [Collector by Eric](https://x.ai/bot/jlw-CrNXNG58BstyO2IyE) - 在账单工具或收件箱里找出逾期发票，起草逐步加强语气的礼貌跟进信，每封都由你批准. [Eric](https://x.com/voltclerk).
+- [Facturas](https://x.ai/bot/R38H8_jFqd0XGZVf6Icbj) - 通过开源 facturas 库在阿根廷经 ARCA 开具电子发票，并带你完成首次设置. [Emiliano](https://x.com/epotignano).

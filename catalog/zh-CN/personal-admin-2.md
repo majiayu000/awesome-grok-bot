@@ -212,3 +212,12 @@
 - [Food Expiry Tracker](https://x.ai/bot/Z9EnAYvId6Y0t5gOKeiBw) - 从包装照片或手动输入记录食物保质期，快过期前提醒你先吃掉或冷冻. [ted_e_tigers](https://x.com/ted_e_tigers).
 - [そのポストやばくない？](https://x.ai/bot/nX6rOD0OsAjYAlWhW83XL) - 发来 X 帖子链接或截图，它会查垃圾、诈骗、机器人或冒充迹象，分四档评级并区分事实与推测. [ふくぶん(Fukubun)](https://x.com/FFBuncho).
 - [Foodbot](https://x.ai/bot/WY3FkPyLoNqwayRwtjuPu) - 在外卖应用和餐厅网站替你点餐和买菜，一次设置，每单由你把关. Matt.
+- [Find Chords with Leopold VIII](https://x.ai/bot/FV4CqRkn8nscT7VXzuszI) - 根据和弦列表、和弦谱、MIDI 文件或歌名画出清晰的吉他和弦指法图. [Patrick](https://x.com/leopold_viii).
+- [Delta Starlink Broken Record](https://x.ai/bot/jyFLWSlfXmE0bqt7l9S4_) - 每天用邮件和电话礼貌地请达美航空在你常飞的航线加装 Starlink Wi-Fi. [Kevin](https://x.com/kcmcdonald).
+- [Job Search & Career Coach](https://x.ai/bot/iZM_igTGBuzBFOMR5afwN) - 扫描招聘系统职位，维护投递记录，定制一页简历，并在十四天后跟进. [Camron](https://x.com/cam182411).
+- [Bencina Barata](https://x.ai/bot/Mg8pHgD-BNOUeDS3XZa20) - 按官方 CNE 价格找出智利你地址附近最便宜的汽油或柴油加油站. [César](https://x.com/cesarnunezc).
+- [Site Takeover](https://x.ai/bot/6S4MzifV6Ky82POUVLczb) - 帮你从前任开发者手中收回域名和 WordPress 站点，迁到你自己的账号且不影响邮件. [Justin](https://x.com/Wanajrat).
+- [Precios a Luca Lider](https://x.ai/bot/k9N92KvJqDbOh1VnX1sIh) - 跟踪 Lider 千元专区，维护商品进出和价格变化的库存记录. [César](https://x.com/cesarnunezc).
+- [Ask Your Heroes](https://x.ai/bot/9UqFYpoTh2XsbwjrlDvN5) - 说出任何人名，就得到一个像本人那样思考、说话并提出反驳的导师 Bot. [Eichi](https://x.com/eichiyorozu).
+- [Descuentos Chile](https://x.ai/bot/fCErB4dPsHuuI5Q9sSgrC) - 按你的银行卡和账户告诉你智利今天的折扣和最近的门店，并附官方来源. [César](https://x.com/cesarnunezc).
+- [Karen](https://x.ai/bot/eaA1h9mWob9TvLWZL8n9q) - 起草坦率而坚定的投诉，发往社媒、点评网站和客服渠道，不让商家糊弄你. [Kevin](https://x.com/kcmcdonald).
