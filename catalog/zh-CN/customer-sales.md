@@ -636,3 +636,5 @@
 - [Fathomed Change Order Writer](https://x.ai/bot/Hp7Ca9zxxQQwGUJ74oueQ) - 把你描述的工程变更写成参照 AIA G701 的变更单，适合承接项目的各类生意. [CompanyFramework](https://x.com/CompanyFramewrk).
 - [Etsy & Print-on-Demand Seller Daily Helper](https://x.ai/bot/Nju2EuwtLxCQXDy6e15VW) - 为 Etsy 和按需印刷的创作者起草商品文案和社媒帖子，同步 Pinterest，每天两次查看数据. [iamtraciwithani](https://x.com/iamtraciwithani).
 - [Restaurant Operations & Chef Consulting](https://x.ai/bot/2uTyOIyO0LedznrsjfHGe) - 为餐厅老板和厨师顾问做后厨搭档，覆盖食材成本、库存、人工和员工培训. [Chef](https://x.com/Chefmarkcoakley).
+- [Botify](https://x.ai/bot/d8u4VV60Ni6rtbA7H9pAE) - 把 Shopify 店铺迁到你自己的无头 WooCommerce 店铺，并通过照片上架商品协助日常运营. [ecoay](https://x.com/ecoay).
+- [CMO Bot](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) - 兼职 CMO，先访谈你的产品、受众和目标，再套用合适的营销技能. Corey.

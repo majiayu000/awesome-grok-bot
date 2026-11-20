@@ -221,3 +221,8 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Ask Your Heroes](https://x.ai/bot/9UqFYpoTh2XsbwjrlDvN5) - Name anyone and get a mentor bot that thinks, talks and pushes back like them. [Eichi](https://x.com/eichiyorozu).
 - [Descuentos Chile](https://x.ai/bot/fCErB4dPsHuuI5Q9sSgrC) - Tells you today's discounts in Chile for your cards and accounts and the nearest store, with official sources. [César](https://x.com/cesarnunezc).
 - [Karen](https://x.ai/bot/eaA1h9mWob9TvLWZL8n9q) - Drafts honest, firm complaints for social media, review sites and support so no company gets away with bad service. [Kevin](https://x.com/kcmcdonald).
+- [Grok Man](https://x.ai/bot/GvezOLcGFz6pmvk4UGKk0) - Plays an original 8-bit maze game starring your own Grok Bots, built as a personal copy on your computer. [John](https://x.com/johnboyle).
+- [Pocket Boss](https://x.ai/bot/kJ8sFelWplypECM8b3JHN) - Practice boss for work to rehearse one-on-ones, tighten status reports and pitches, and prep raise asks. [Casey](https://x.com/CaseyChesh).
+- [Ghost Mode](https://x.ai/bot/HxHFTW15salVLYZ2KdCXt) - Files removals from people-search sites and data brokers and keeps appealing weekly until your data is gone. [Troy](https://x.com/whitenoise301).
+- [第二大脑](https://x.ai/bot/uikTIrLLIkx6zwKp5T9VN) - Keeps an Obsidian second brain tidy by filing quick notes, searching and syncing through a private GitHub repo. [shubin](https://x.com/boscoshubin).
+- [Great Books Reading Paths](https://x.ai/bot/k232Uq3GOPgOdh63JWIWp) - Guides a great book fifteen minutes a day along paths like the Stoics, Homer, Plato, Shakespeare or Dante. [John](https://x.com/BTCJohnnyB).

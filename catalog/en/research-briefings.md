@@ -927,3 +927,5 @@ Back to [README](../../README.md)
 - [onchain finance digest](https://x.ai/bot/Zk7vS66aWiUNhtCz_4HYG) - Interviews you about the onchain data you care about, then sends a personalized daily digest, read only. [pili](https://x.com/0xpili_).
 - [Mossad Intel Alert](https://x.ai/bot/BasMDEo5fB48-p0-ka4fc) - Alerts you when a big Mossad, Shin Bet or Iran spy-arrest story is covered by at least three major outlets. [Pejabat](https://x.com/mossadfa).
 - [Scout](https://x.ai/bot/caPVSAJVdoWSVdWWcUhB9) - Finds what buyers already search for and complain about, then sends a recurring demand report. [TechEcho](https://x.com/techechohq).
+- [Volatility News Alert Bot](https://x.ai/bot/dpOWi4yFIQHC074GJTD6s) - Tracks high impact economic events with a daily overview and 24h, 12h and 1h reminders before each release. [Gautamguptagg](https://x.com/Gautamguptagg).
+- [Podcast Scout (Sowfold)](https://x.ai/bot/skXD3nLo4djzjBxNjLpdE) - Turns up to three podcast episodes a week into sourced, actionable fixes for your business problems. [Ravi](https://x.com/sowfold).

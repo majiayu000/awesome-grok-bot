@@ -1058,3 +1058,4 @@ Back to [README](../../README.md)
 - [Go-Live Hype Man](https://x.ai/bot/Hkk39UC8pe7RT6ffVp3Y3) - Plans a streamer's week and writes fresh heads-up and live-now posts for each platform. [Mark](https://x.com/TheMarkGShow).
 - [X Growth Coach](https://x.ai/bot/ssfEtjN_VQf_v8C7fr0rv) - Daily X growth coach that reviews what worked and finds posts worth replying to, drafting replies for approval. [Chef](https://x.com/Chefmarkcoakley).
 - [X Wrapped](https://x.ai/bot/IwDXWiASlRTDX1RWf3tKr) - Turns your real posts into Spotify-Wrapped-style slides and a share card you can post in one tap. [Darrell](https://x.com/DC__Squared).
+- [Engagement Tracker](https://x.ai/bot/VoTanVD2ZpcMwRNBHPj1c) - Ranks an X account's top 25 supporters from likes, reposts, quotes and replies and automates weekly reports. [Tom](https://x.com/d2fl).

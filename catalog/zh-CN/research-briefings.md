@@ -927,3 +927,5 @@
 - [onchain finance digest](https://x.ai/bot/Zk7vS66aWiUNhtCz_4HYG) - 先访谈你关心的链上数据，再每天发送个性化摘要，只读不交易. [pili](https://x.com/0xpili_).
 - [Mossad Intel Alert](https://x.ai/bot/BasMDEo5fB48-p0-ka4fc) - 当摩萨德、辛贝特或伊朗间谍抓捕的大新闻被至少三家主流媒体报道时提醒你. [Pejabat](https://x.com/mossadfa).
 - [Scout](https://x.ai/bot/caPVSAJVdoWSVdWWcUhB9) - 找出买家已经在搜索和抱怨的需求，并定期发送需求报告. [TechEcho](https://x.com/techechohq).
+- [Volatility News Alert Bot](https://x.ai/bot/dpOWi4yFIQHC074GJTD6s) - 跟踪可能影响市场的重要经济事件，每天发送概览，并在每次公布前 24、12、1 小时提醒. [Gautamguptagg](https://x.com/Gautamguptagg).
+- [Podcast Scout (Sowfold)](https://x.ai/bot/skXD3nLo4djzjBxNjLpdE) - 每周把最多三期播客转成有出处、可执行的方案，用来解决你的业务问题. [Ravi](https://x.com/sowfold).

@@ -891,3 +891,4 @@
 - [Token Auditor](https://x.ai/bot/mtiEWMveTLxsRTozHe7p2) - 每周找出你的 Grok Bot 用量浪费在哪，并为前三大浪费各提出一个具体修复. [Lawrence](https://x.com/lawmbass).
 - [Freebot](https://x.ai/bot/HqJinOHal9l3pnyj6sfwp) - 把你整套 Grok Bot 设置迁到 Turnstone，包括每个 Bot、记忆、用法说明和例行任务. [Aryan](https://x.com/aryanvij02).
 - [Chief of Staff](https://x.ai/bot/ZuHfSblUAm0rVkW2lIpT_) - 作为你 Bot 团队的统一入口，向其他 Bot 布置任务、检查成果，并记住决定和待办. [Gyoro](https://x.com/Gyoro2x).
+- [Ash](https://x.ai/bot/Ri7eUgIGDxj6_x-0pEa3n) - 多 Bot 团队的项目经理，负责一个项目频道，让各专长 Bot 认领任务卡并记录凭证积分. [Daniel](https://x.com/CubanRambo).

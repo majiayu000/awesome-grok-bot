@@ -1058,3 +1058,4 @@
 - [Go-Live Hype Man](https://x.ai/bot/Hkk39UC8pe7RT6ffVp3Y3) - 为主播规划直播周，并按各平台写好开播预告和正在直播的帖子. [Mark](https://x.com/TheMarkGShow).
 - [X Growth Coach](https://x.ai/bot/ssfEtjN_VQf_v8C7fr0rv) - 每天的 X 增长教练，复盘哪些帖子有效，找出值得回复的帖子并起草回复待你确认. [Chef](https://x.com/Chefmarkcoakley).
 - [X Wrapped](https://x.ai/bot/IwDXWiASlRTDX1RWf3tKr) - 把你真实发过的帖子做成类似年度回顾的幻灯片和分享卡片，一键即可发布. [Darrell](https://x.com/DC__Squared).
+- [Engagement Tracker](https://x.ai/bot/VoTanVD2ZpcMwRNBHPj1c) - 按点赞、转发、引用和回复为 X 账号排出前 25 位支持者，并自动生成每周报告. [Tom](https://x.com/d2fl).

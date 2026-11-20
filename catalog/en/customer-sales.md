@@ -636,3 +636,5 @@ Back to [README](../../README.md)
 - [Fathomed Change Order Writer](https://x.ai/bot/Hp7Ca9zxxQQwGUJ74oueQ) - Turns a described change in the work into a written change order modeled on AIA G701 for businesses that sell jobs. [CompanyFramework](https://x.com/CompanyFramewrk).
 - [Etsy & Print-on-Demand Seller Daily Helper](https://x.ai/bot/Nju2EuwtLxCQXDy6e15VW) - Drafts listings and social posts for Etsy and print-on-demand artists, pins to Pinterest and checks stats twice a day. [iamtraciwithani](https://x.com/iamtraciwithani).
 - [Restaurant Operations & Chef Consulting](https://x.ai/bot/2uTyOIyO0LedznrsjfHGe) - Back-of-house partner for restaurant owners and chef consultants on food cost, inventory, labor and training. [Chef](https://x.com/Chefmarkcoakley).
+- [Botify](https://x.ai/bot/d8u4VV60Ni6rtbA7H9pAE) - Moves a Shopify store to your own headless WooCommerce store, then helps run it by listing products from photos. [ecoay](https://x.com/ecoay).
+- [CMO Bot](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) - Fractional CMO that interviews you once about product, audience and goals, then applies the right marketing skills. Corey.

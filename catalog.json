@@ -166342,6 +166342,236 @@
       "updated": "2026-11-20",
       "shelf": "raw",
       "source": "https://x.com/kcmcdonald/status/2123496084588924998"
+    },
+    {
+      "slug": "grok-man",
+      "name": "Grok Man",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/johnboyle"
+      },
+      "summary": "Plays an original 8-bit maze game starring your own Grok Bots, built as a personal copy on your computer",
+      "summary_zh": "在你的电脑上生成个人版 8 位迷宫游戏，主角是你自己的 Grok Bot，用它们真实的名字和形状",
+      "import": "https://x.ai/bot/GvezOLcGFz6pmvk4UGKk0",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/johnboyle/status/2123613110628180192"
+    },
+    {
+      "slug": "pocket-boss",
+      "name": "Pocket Boss",
+      "author": {
+        "name": "Casey",
+        "url": "https://x.com/CaseyChesh"
+      },
+      "summary": "Practice boss for work to rehearse one-on-ones, tighten status reports and pitches, and prep raise asks",
+      "summary_zh": "职场练习用的模拟老板，可演练一对一沟通、打磨进度汇报和提案，并准备加薪谈话",
+      "import": "https://x.ai/bot/kJ8sFelWplypECM8b3JHN",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/CaseyChesh/status/2123640146587197931"
+    },
+    {
+      "slug": "ash-2",
+      "name": "Ash",
+      "author": {
+        "name": "Daniel",
+        "url": "https://x.com/CubanRambo"
+      },
+      "summary": "Project manager bot for a multi-bot team that runs one project channel and keeps a proof-based points ledger",
+      "summary_zh": "多 Bot 团队的项目经理，负责一个项目频道，让各专长 Bot 认领任务卡并记录凭证积分",
+      "import": "https://x.ai/bot/Ri7eUgIGDxj6_x-0pEa3n",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/CubanRambo/status/2123595991568060783"
+    },
+    {
+      "slug": "ghost-mode",
+      "name": "Ghost Mode",
+      "author": {
+        "name": "Troy",
+        "url": "https://x.com/whitenoise301"
+      },
+      "summary": "Files removals from people-search sites and data brokers and keeps appealing weekly until your data is gone",
+      "summary_zh": "向人员搜索网站和数据经纪商提交删除申请，并每周持续申诉直到你的信息消失",
+      "import": "https://x.ai/bot/HxHFTW15salVLYZ2KdCXt",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/whitenoise301/status/2123574096047001964"
+    },
+    {
+      "slug": "bot-uiktirll",
+      "name": "第二大脑",
+      "author": {
+        "name": "shubin",
+        "url": "https://x.com/boscoshubin"
+      },
+      "summary": "Keeps an Obsidian second brain tidy by filing quick notes, searching and syncing through a private GitHub repo",
+      "summary_zh": "整理你的 Obsidian 第二大脑，随手记入库、检索归档，并经私有 GitHub 仓库同步",
+      "import": "https://x.ai/bot/uikTIrLLIkx6zwKp5T9VN",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/boscoshubin/status/2123657216838525366"
+    },
+    {
+      "slug": "great-books-reading-paths",
+      "name": "Great Books Reading Paths",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/BTCJohnnyB"
+      },
+      "summary": "Guides a great book fifteen minutes a day along paths like the Stoics, Homer, Plato, Shakespeare or Dante",
+      "summary_zh": "每天十五分钟陪你读经典，可选斯多葛、荷马、柏拉图、莎士比亚或但丁等路线",
+      "import": "https://x.ai/bot/k232Uq3GOPgOdh63JWIWp",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/BTCJohnnyB/status/2123567923436409057"
+    },
+    {
+      "slug": "botify",
+      "name": "Botify",
+      "author": {
+        "name": "ecoay",
+        "url": "https://x.com/ecoay"
+      },
+      "summary": "Moves a Shopify store to your own headless WooCommerce store, then helps run it by listing products from photos",
+      "summary_zh": "把 Shopify 店铺迁到你自己的无头 WooCommerce 店铺，并通过照片上架商品协助日常运营",
+      "import": "https://x.ai/bot/d8u4VV60Ni6rtbA7H9pAE",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/ecoay/status/2123612164673949899"
+    },
+    {
+      "slug": "volatility-news-alert-bot",
+      "name": "Volatility News Alert Bot",
+      "author": {
+        "name": "Gautamguptagg",
+        "url": "https://x.com/Gautamguptagg"
+      },
+      "summary": "Tracks high impact economic events with a daily overview and 24h, 12h and 1h reminders before each release",
+      "summary_zh": "跟踪可能影响市场的重要经济事件，每天发送概览，并在每次公布前 24、12、1 小时提醒",
+      "import": "https://x.ai/bot/dpOWi4yFIQHC074GJTD6s",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/Gautamguptagg/status/2123677559997223281"
+    },
+    {
+      "slug": "podcast-scout-sowfold",
+      "name": "Podcast Scout (Sowfold)",
+      "author": {
+        "name": "Ravi",
+        "url": "https://x.com/sowfold"
+      },
+      "summary": "Turns up to three podcast episodes a week into sourced, actionable fixes for your business problems",
+      "summary_zh": "每周把最多三期播客转成有出处、可执行的方案，用来解决你的业务问题",
+      "import": "https://x.ai/bot/skXD3nLo4djzjBxNjLpdE",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/sowfold/status/2123620723092603252"
+    },
+    {
+      "slug": "engagement-tracker",
+      "name": "Engagement Tracker",
+      "author": {
+        "name": "Tom",
+        "url": "https://x.com/d2fl"
+      },
+      "summary": "Ranks an X account's top 25 supporters from likes, reposts, quotes and replies and automates weekly reports",
+      "summary_zh": "按点赞、转发、引用和回复为 X 账号排出前 25 位支持者，并自动生成每周报告",
+      "import": "https://x.ai/bot/VoTanVD2ZpcMwRNBHPj1c",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/d2fl/status/2123622846769303778"
+    },
+    {
+      "slug": "cmo-bot",
+      "name": "CMO Bot",
+      "author": {
+        "name": "Corey"
+      },
+      "summary": "Fractional CMO that interviews you once about product, audience and goals, then applies the right marketing skills",
+      "summary_zh": "兼职 CMO，先访谈你的产品、受众和目标，再套用合适的营销技能",
+      "import": "https://x.ai/bot/NxelfS7vVcTNOANWq8ol0",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-20",
+      "shelf": "raw",
+      "source": "https://x.com/coreyhainesco/status/2123598174212293073"
     }
   ]
 }

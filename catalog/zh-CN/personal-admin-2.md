@@ -221,3 +221,8 @@
 - [Ask Your Heroes](https://x.ai/bot/9UqFYpoTh2XsbwjrlDvN5) - 说出任何人名，就得到一个像本人那样思考、说话并提出反驳的导师 Bot. [Eichi](https://x.com/eichiyorozu).
 - [Descuentos Chile](https://x.ai/bot/fCErB4dPsHuuI5Q9sSgrC) - 按你的银行卡和账户告诉你智利今天的折扣和最近的门店，并附官方来源. [César](https://x.com/cesarnunezc).
 - [Karen](https://x.ai/bot/eaA1h9mWob9TvLWZL8n9q) - 起草坦率而坚定的投诉，发往社媒、点评网站和客服渠道，不让商家糊弄你. [Kevin](https://x.com/kcmcdonald).
+- [Grok Man](https://x.ai/bot/GvezOLcGFz6pmvk4UGKk0) - 在你的电脑上生成个人版 8 位迷宫游戏，主角是你自己的 Grok Bot，用它们真实的名字和形状. [John](https://x.com/johnboyle).
+- [Pocket Boss](https://x.ai/bot/kJ8sFelWplypECM8b3JHN) - 职场练习用的模拟老板，可演练一对一沟通、打磨进度汇报和提案，并准备加薪谈话. [Casey](https://x.com/CaseyChesh).
+- [Ghost Mode](https://x.ai/bot/HxHFTW15salVLYZ2KdCXt) - 向人员搜索网站和数据经纪商提交删除申请，并每周持续申诉直到你的信息消失. [Troy](https://x.com/whitenoise301).
+- [第二大脑](https://x.ai/bot/uikTIrLLIkx6zwKp5T9VN) - 整理你的 Obsidian 第二大脑，随手记入库、检索归档，并经私有 GitHub 仓库同步. [shubin](https://x.com/boscoshubin).
+- [Great Books Reading Paths](https://x.ai/bot/k232Uq3GOPgOdh63JWIWp) - 每天十五分钟陪你读经典，可选斯多葛、荷马、柏拉图、莎士比亚或但丁等路线. [John](https://x.com/BTCJohnnyB).
