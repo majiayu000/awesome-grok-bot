@@ -233,3 +233,5 @@
 - [Christmas Card Guide](https://x.ai/bot/wND7ZiEgSj6kr2smETHCD) - 带你走完圣诞贺卡全流程，从选印刷商和找优惠码到照片、设计、文案和地址名单. [Kevin](https://x.com/kcmcdonald).
 - [Smoov PS5 Remote Play setup](https://x.ai/bot/alo1uI0FHNaraCrO4Jxie) - 检查你的电脑配置后在 Windows 上设置 SmoovPlay 或 Veyra，让 PS5 远程游玩更流畅或更清晰. [oso](https://x.com/oso_fps).
 - [Jyotish Guru by Shubham](https://x.ai/bot/88Z9F-NWfp9bOC6_0aHYj) - 吠陀占星助手，用真实星历代码计算你的星盘，并说明每条解读背后的经典依据，还可选每日时机提示. [Shubham](https://x.com/shubhamdotdev).
+- [Room Designer by Jennifer](https://x.ai/bot/Pi1uSzWrzt2EoPeHar9Ey) - 发一张房间照片，就得到涂料、灯光、家具摆放和节日布置的简短建议，分预算版和加码版. [Jennifer](https://x.com/Kent60921_0x).
+- [Abaddon Junior](https://x.ai/bot/BIr56wh1vZe-TjFZHsVjf) - 粉丝自制的路西法之子角色，对公开史实讲得准确，只在自己的动机上说谎. [forgedusa1](https://x.com/forgedusa1).

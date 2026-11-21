@@ -968,3 +968,4 @@
 - [Ghostex](https://x.ai/bot/W-heW_JNPbQxU7bWKxNP5) - Ghostex 桌面应用的远程遥控，能查看编程代理进度、派活，并在聊天里转达你的答复. [maddada](https://x.com/maddada).
 - [Asso Grok by SYSTASYS](https://x.ai/bot/OdH_gqfWx1P81tmoUce3p) - 为 AI 工作做独立红队检查，编码代理说完成时核对真实证据，并植入缺陷来检验测试. [SYSTASYS by Hichem](https://x.com/ace_prooflayer).
 - [atr · Agent Task Runner](https://x.ai/bot/8N21KO1uz_jDJt3eqELFA) - 安装并操作 atr，在你的订阅额度上运行编码代理命令行，并汇报任务和用量. [Rimantas](https://x.com/Rimusz).
+- [T3 Tots by Cola](https://x.ai/bot/mieyDno7nyShS8tDFlhVi) - T3 Code 的聊天伴侣，查看你的 T3 线程，在聊天里回答 T3 提示，并发送摘要和健康检查. [Cola](https://x.com/Davidwuuu92).

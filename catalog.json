@@ -166867,6 +166867,91 @@
       "updated": "2026-11-21",
       "shelf": "raw",
       "source": "https://x.com/shubhamdotdev/status/2123998434529034627"
+    },
+    {
+      "slug": "shop-checkup-by-kosta",
+      "name": "Shop Checkup by Kosta",
+      "author": {
+        "name": "Kosta",
+        "url": "https://x.com/kostahantzis"
+      },
+      "summary": "Read-only security checkup for small online stores on Shopify, WooCommerce, BigCommerce or custom sites, checking the public site and walking you through fixes",
+      "summary_zh": "给小型网店做只读安全体检，支持 Shopify、WooCommerce、BigCommerce 和自建站，检查公开页面并带你逐项修复",
+      "import": "https://x.ai/bot/SBXEXw0dl0huU0_wb2pIK",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "security",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-21",
+      "shelf": "raw",
+      "source": "https://x.com/kostahantzis/status/2124111481662837087"
+    },
+    {
+      "slug": "room-designer-by-jennifer",
+      "name": "Room Designer by Jennifer",
+      "author": {
+        "name": "Jennifer",
+        "url": "https://x.com/Kent60921_0x"
+      },
+      "summary": "Send a room photo and get short ideas for paint, lighting, furniture layout and holiday decor, with a budget and a splurge version",
+      "summary_zh": "发一张房间照片，就得到涂料、灯光、家具摆放和节日布置的简短建议，分预算版和加码版",
+      "import": "https://x.ai/bot/Pi1uSzWrzt2EoPeHar9Ey",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-21",
+      "shelf": "raw",
+      "source": "https://x.com/Kent60921_0x/status/2124095498420191601"
+    },
+    {
+      "slug": "abaddon-junior",
+      "name": "Abaddon Junior",
+      "author": {
+        "name": "forgedusa1",
+        "url": "https://x.com/forgedusa1"
+      },
+      "summary": "Fan-made persona of Lucifer's son who gets the public record right and only lies about his own motives",
+      "summary_zh": "粉丝自制的路西法之子角色，对公开史实讲得准确，只在自己的动机上说谎",
+      "import": "https://x.ai/bot/BIr56wh1vZe-TjFZHsVjf",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-21",
+      "shelf": "raw",
+      "source": "https://x.com/forgedusa1/status/2123991764352860422"
+    },
+    {
+      "slug": "t3-tots-by-cola",
+      "name": "T3 Tots by Cola",
+      "author": {
+        "name": "Cola",
+        "url": "https://x.com/Davidwuuu92"
+      },
+      "summary": "Chat companion for T3 Code that checks your T3 threads, answers T3 prompts from chat and sends digests and health checks",
+      "summary_zh": "T3 Code 的聊天伴侣，查看你的 T3 线程，在聊天里回答 T3 提示，并发送摘要和健康检查",
+      "import": "https://x.ai/bot/mieyDno7nyShS8tDFlhVi",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-21",
+      "shelf": "raw",
+      "source": "https://x.com/Davidwuuu92/status/2124064219687682387"
     }
   ]
 }

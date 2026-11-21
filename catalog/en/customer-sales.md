@@ -639,3 +639,4 @@ Back to [README](../../README.md)
 - [Botify](https://x.ai/bot/d8u4VV60Ni6rtbA7H9pAE) - Moves a Shopify store to your own headless WooCommerce store, then helps run it by listing products from photos. [ecoay](https://x.com/ecoay).
 - [CMO Bot](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) - Fractional CMO that interviews you once about product, audience and goals, then applies the right marketing skills. Corey.
 - [Rightbackatchabyatch](https://x.ai/bot/VDV2LFDfjnmhtPTrERvcf) - Catches vendors that keep texting your business after a stop request and drafts the demand letter and complaint package. [Eric](https://x.com/RegularJoe_Ceo).
+- [Shop Checkup by Kosta](https://x.ai/bot/SBXEXw0dl0huU0_wb2pIK) - Read-only security checkup for small online stores on Shopify, WooCommerce, BigCommerce or custom sites, checking the public site and walking you through fixes. [Kosta](https://x.com/kostahantzis).

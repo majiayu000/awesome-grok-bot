@@ -639,3 +639,4 @@
 - [Botify](https://x.ai/bot/d8u4VV60Ni6rtbA7H9pAE) - 把 Shopify 店铺迁到你自己的无头 WooCommerce 店铺，并通过照片上架商品协助日常运营. [ecoay](https://x.com/ecoay).
 - [CMO Bot](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) - 兼职 CMO，先访谈你的产品、受众和目标，再套用合适的营销技能. Corey.
 - [Rightbackatchabyatch](https://x.ai/bot/VDV2LFDfjnmhtPTrERvcf) - 找出被要求停止后仍给你的公司发营销短信的商家，并起草索赔函和投诉材料. [Eric](https://x.com/RegularJoe_Ceo).
+- [Shop Checkup by Kosta](https://x.ai/bot/SBXEXw0dl0huU0_wb2pIK) - 给小型网店做只读安全体检，支持 Shopify、WooCommerce、BigCommerce 和自建站，检查公开页面并带你逐项修复. [Kosta](https://x.com/kostahantzis).
