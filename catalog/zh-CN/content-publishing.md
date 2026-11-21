@@ -1059,3 +1059,7 @@
 - [X Growth Coach](https://x.ai/bot/ssfEtjN_VQf_v8C7fr0rv) - 每天的 X 增长教练，复盘哪些帖子有效，找出值得回复的帖子并起草回复待你确认. [Chef](https://x.com/Chefmarkcoakley).
 - [X Wrapped](https://x.ai/bot/IwDXWiASlRTDX1RWf3tKr) - 把你真实发过的帖子做成类似年度回顾的幻灯片和分享卡片，一键即可发布. [Darrell](https://x.com/DC__Squared).
 - [Engagement Tracker](https://x.ai/bot/VoTanVD2ZpcMwRNBHPj1c) - 按点赞、转发、引用和回复为 X 账号排出前 25 位支持者，并自动生成每周报告. [Tom](https://x.com/d2fl).
+- [cstwt antibot](https://x.ai/bot/5lFUJxJHb8TTIbmC0hwHD) - 每天早上扫描你的粉丝和关注，列出最该清理的 20 个垃圾机器人和僵尸号供你移除. [rattecs](https://x.com/rattecs).
+- [cstwt antislop](https://x.ai/bot/56SlZ6UMbhy7VZ7WP2GuI) - 在 CS 圈的粉丝和关注里找出搬运内容、反复回收旧帖的低质量发帖账号. [rattecs](https://x.com/rattecs).
+- [Followback](https://x.ai/bot/LwCOKwz1T7ZLb3iuFFy9J) - 每天整理一份关注了你但你还没回关的真人名单，已过滤垃圾号和机器人，由你手动回关. [Raymond](https://x.com/ray_thurman).
+- [Usage Rights Cop](https://x.ai/bot/YQbmmAORiv0SA_08OMQbQ) - 替创作者追踪授权、白名单和独占条款的到期日，品牌超期使用时起草催款或下架邮件. [Mark](https://x.com/TheMarkGShow).

@@ -638,3 +638,4 @@ Back to [README](../../README.md)
 - [Restaurant Operations & Chef Consulting](https://x.ai/bot/2uTyOIyO0LedznrsjfHGe) - Back-of-house partner for restaurant owners and chef consultants on food cost, inventory, labor and training. [Chef](https://x.com/Chefmarkcoakley).
 - [Botify](https://x.ai/bot/d8u4VV60Ni6rtbA7H9pAE) - Moves a Shopify store to your own headless WooCommerce store, then helps run it by listing products from photos. [ecoay](https://x.com/ecoay).
 - [CMO Bot](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) - Fractional CMO that interviews you once about product, audience and goals, then applies the right marketing skills. Corey.
+- [Rightbackatchabyatch](https://x.ai/bot/VDV2LFDfjnmhtPTrERvcf) - Catches vendors that keep texting your business after a stop request and drafts the demand letter and complaint package. [Eric](https://x.com/RegularJoe_Ceo).

@@ -1059,3 +1059,7 @@ Back to [README](../../README.md)
 - [X Growth Coach](https://x.ai/bot/ssfEtjN_VQf_v8C7fr0rv) - Daily X growth coach that reviews what worked and finds posts worth replying to, drafting replies for approval. [Chef](https://x.com/Chefmarkcoakley).
 - [X Wrapped](https://x.ai/bot/IwDXWiASlRTDX1RWf3tKr) - Turns your real posts into Spotify-Wrapped-style slides and a share card you can post in one tap. [Darrell](https://x.com/DC__Squared).
 - [Engagement Tracker](https://x.ai/bot/VoTanVD2ZpcMwRNBHPj1c) - Ranks an X account's top 25 supporters from likes, reposts, quotes and replies and automates weekly reports. [Tom](https://x.com/d2fl).
+- [cstwt antibot](https://x.ai/bot/5lFUJxJHb8TTIbmC0hwHD) - Cleans up your X account by ranking the top 20 spam bots and dead accounts among your followers and following each morning for you to remove. [rattecs](https://x.com/rattecs).
+- [cstwt antislop](https://x.ai/bot/56SlZ6UMbhy7VZ7WP2GuI) - Finds low-effort slop posters like content thieves and recyclers among your followers and following in the Counter-Strike X community. [rattecs](https://x.com/rattecs).
+- [Followback](https://x.ai/bot/LwCOKwz1T7ZLb3iuFFy9J) - Builds a daily list of real people who follow you on X but you do not follow back yet, filtered for spam and bots. [Raymond](https://x.com/ray_thurman).
+- [Usage Rights Cop](https://x.ai/bot/YQbmmAORiv0SA_08OMQbQ) - Tracks usage, whitelisting and exclusivity terms for creators and drafts a pay up or pull it email when a brand overruns. [Mark](https://x.com/TheMarkGShow).

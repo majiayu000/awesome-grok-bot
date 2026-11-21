@@ -774,3 +774,4 @@ Back to [README](../../README.md)
 - [Leak Finder by Eric](https://x.ai/bot/PwEVDQfWlPvm5mDaUzAP_) - Reads receipt emails and card statements to list recurring charges and flag duplicates, price rises and unused services. [Eric](https://x.com/voltclerk).
 - [Collector by Eric](https://x.ai/bot/jlw-CrNXNG58BstyO2IyE) - Finds overdue invoices in your billing tool or inbox and drafts polite follow-ups that get firmer at each step. [Eric](https://x.com/voltclerk).
 - [Facturas](https://x.ai/bot/R38H8_jFqd0XGZVf6Icbj) - Issues electronic invoices in Argentina through ARCA using the open-source facturas library, guiding first setup. [Emiliano](https://x.com/epotignano).
+- [Costco Ledger](https://x.ai/bot/rudP0N0aedd3SSdRRqNgk) - Read only tracker that matches Costco receipts item by item to card charges, flags price adjustments and keeps a private spending dashboard. [Anurag](https://x.com/atldesipm).

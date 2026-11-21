@@ -892,3 +892,4 @@ Back to [README](../../README.md)
 - [Freebot](https://x.ai/bot/HqJinOHal9l3pnyj6sfwp) - Moves your whole Grok Bot setup, with every bot, memory, how-to and routine, into Turnstone. [Aryan](https://x.com/aryanvij02).
 - [Chief of Staff](https://x.ai/bot/ZuHfSblUAm0rVkW2lIpT_) - Single front door for your bot team that briefs other bots, checks their work and remembers decisions and to-dos. [Gyoro](https://x.com/Gyoro2x).
 - [Ash](https://x.ai/bot/Ri7eUgIGDxj6_x-0pEa3n) - Project manager bot for a multi-bot team that runs one project channel and keeps a proof-based points ledger. [Daniel](https://x.com/CubanRambo).
+- [Avatar Profile Designer](https://x.ai/bot/LTlZg3okmnMTIg50dDOaL) - Gives every bot in your crew its own storybook style avatar so your sidebar stops looking like default blobs. [Sponic](https://x.com/rahulio).

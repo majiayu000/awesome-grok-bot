@@ -227,3 +227,8 @@
 - [第二大脑](https://x.ai/bot/uikTIrLLIkx6zwKp5T9VN) - 整理你的 Obsidian 第二大脑，随手记入库、检索归档，并经私有 GitHub 仓库同步. [shubin](https://x.com/boscoshubin).
 - [Great Books Reading Paths](https://x.ai/bot/k232Uq3GOPgOdh63JWIWp) - 每天十五分钟陪你读经典，可选斯多葛、荷马、柏拉图、莎士比亚或但丁等路线. [John](https://x.com/BTCJohnnyB).
 - [Teacher by Jukka](https://x.ai/bot/jCYOEVUM21FmBWtkI51Xf) - 面向成年职场人的耐心导师，一次讲一个理论或方法，配图示、练习和复习题. [Jukka](https://x.com/jkuumola).
+- [LinkedIn Profile Builder](https://x.ai/bot/aj7kVZs4Igr9gSNwNs_OL) - 领英职业助手，从零或根据旧简历搭建和重写你的领英档案，并保护私人信息. [Gyoro](https://x.com/Gyoro2x).
+- [Rebook Radar](https://x.ai/bot/6orMM_BTNYnaoUvEf3J7x) - 转发酒店、租车和机票确认后每天复查价格，直到免费取消期结束，降价时告诉你能省多少. [Pablo](https://x.com/KonectEaze).
+- [Fahrzeuge](https://x.ai/bot/bPlYu1pFUFrt7zCqs3cMI) - 德语车辆顾问，了解你的汽车或摩托车，帮忙排查故障、找维修方法和配件并设置提醒. [Michael](https://x.com/MichaelInDev).
+- [Christmas Card Guide](https://x.ai/bot/wND7ZiEgSj6kr2smETHCD) - 带你走完圣诞贺卡全流程，从选印刷商和找优惠码到照片、设计、文案和地址名单. [Kevin](https://x.com/kcmcdonald).
+- [Smoov PS5 Remote Play setup](https://x.ai/bot/alo1uI0FHNaraCrO4Jxie) - 检查你的电脑配置后在 Windows 上设置 SmoovPlay 或 Veyra，让 PS5 远程游玩更流畅或更清晰. [oso](https://x.com/oso_fps).
