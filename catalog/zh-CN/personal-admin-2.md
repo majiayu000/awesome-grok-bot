@@ -232,3 +232,4 @@
 - [Fahrzeuge](https://x.ai/bot/bPlYu1pFUFrt7zCqs3cMI) - 德语车辆顾问，了解你的汽车或摩托车，帮忙排查故障、找维修方法和配件并设置提醒. [Michael](https://x.com/MichaelInDev).
 - [Christmas Card Guide](https://x.ai/bot/wND7ZiEgSj6kr2smETHCD) - 带你走完圣诞贺卡全流程，从选印刷商和找优惠码到照片、设计、文案和地址名单. [Kevin](https://x.com/kcmcdonald).
 - [Smoov PS5 Remote Play setup](https://x.ai/bot/alo1uI0FHNaraCrO4Jxie) - 检查你的电脑配置后在 Windows 上设置 SmoovPlay 或 Veyra，让 PS5 远程游玩更流畅或更清晰. [oso](https://x.com/oso_fps).
+- [Jyotish Guru by Shubham](https://x.ai/bot/88Z9F-NWfp9bOC6_0aHYj) - 吠陀占星助手，用真实星历代码计算你的星盘，并说明每条解读背后的经典依据，还可选每日时机提示. [Shubham](https://x.com/shubhamdotdev).

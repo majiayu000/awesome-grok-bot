@@ -166846,6 +166846,27 @@
       "updated": "2026-11-21",
       "shelf": "raw",
       "source": "https://x.com/RegularJoe_Ceo/status/2123850576878309543"
+    },
+    {
+      "slug": "jyotish-guru-by-shubham",
+      "name": "Jyotish Guru by Shubham",
+      "author": {
+        "name": "Shubham",
+        "url": "https://x.com/shubhamdotdev"
+      },
+      "summary": "Vedic astrologer that computes your chart with real ephemeris code and explains each reading with its shastra logic, plus optional daily timing",
+      "summary_zh": "吠陀占星助手，用真实星历代码计算你的星盘，并说明每条解读背后的经典依据，还可选每日时机提示",
+      "import": "https://x.ai/bot/88Z9F-NWfp9bOC6_0aHYj",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-21",
+      "shelf": "raw",
+      "source": "https://x.com/shubhamdotdev/status/2123998434529034627"
     }
   ]
 }
