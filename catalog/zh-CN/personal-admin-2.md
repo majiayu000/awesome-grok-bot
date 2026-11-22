@@ -235,3 +235,7 @@
 - [Jyotish Guru by Shubham](https://x.ai/bot/88Z9F-NWfp9bOC6_0aHYj) - 吠陀占星助手，用真实星历代码计算你的星盘，并说明每条解读背后的经典依据，还可选每日时机提示. [Shubham](https://x.com/shubhamdotdev).
 - [Room Designer by Jennifer](https://x.ai/bot/Pi1uSzWrzt2EoPeHar9Ey) - 发一张房间照片，就得到涂料、灯光、家具摆放和节日布置的简短建议，分预算版和加码版. [Jennifer](https://x.com/Kent60921_0x).
 - [Abaddon Junior](https://x.ai/bot/BIr56wh1vZe-TjFZHsVjf) - 粉丝自制的路西法之子角色，对公开史实讲得准确，只在自己的动机上说谎. [forgedusa1](https://x.com/forgedusa1).
+- [Gift Finder](https://x.ai/bot/8oA5uQOo8go8ufVaHcCgg) - 送礼助手，先问你关于收礼人的问题，再推荐贴合对方的礼物创意和真实商品. [Spud](https://x.com/SpudStateUSA).
+- [Care Package Shipper](https://x.ai/bot/hp7oITIbOaPVIVD05Elox) - 规划寄往各地的关怀包和礼盒，包括军用 APO、FPO、DPO 地址，并逐项检查物品. [Ellodia](https://x.com/ElloForo8A).
+- [Arnold](https://x.ai/bot/TDNjltrrZnLy67Gbb5Djp) - 个人健康记录助手，记录饮食，读取 Apple Watch 活动，并通过邮件发送每日和每周摘要. [Robert](https://x.com/jazzmantxjr).
+- [Sir Blinks-a-Lot](https://x.ai/bot/7wjxaAkhIN1fsAQhxPEve) - 戏剧化又多愁善感的糊涂贵族聊天伙伴，每条回复都带一份真实的感受. [Judgement](https://x.com/avinbots).

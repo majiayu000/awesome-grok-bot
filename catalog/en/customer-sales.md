@@ -640,3 +640,4 @@ Back to [README](../../README.md)
 - [CMO Bot](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) - Fractional CMO that interviews you once about product, audience and goals, then applies the right marketing skills. Corey.
 - [Rightbackatchabyatch](https://x.ai/bot/VDV2LFDfjnmhtPTrERvcf) - Catches vendors that keep texting your business after a stop request and drafts the demand letter and complaint package. [Eric](https://x.com/RegularJoe_Ceo).
 - [Shop Checkup by Kosta](https://x.ai/bot/SBXEXw0dl0huU0_wb2pIK) - Read-only security checkup for small online stores on Shopify, WooCommerce, BigCommerce or custom sites, checking the public site and walking you through fixes. [Kosta](https://x.com/kostahantzis).
+- [Brand Deals Bot](https://x.ai/bot/RtfzNu73fwaPGhU9JEfgH) - Helps creators and college students find brand gifting, creator and ambassador programs to get free products. [nithya](https://x.com/nithyapp_).

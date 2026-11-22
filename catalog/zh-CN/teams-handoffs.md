@@ -893,3 +893,7 @@
 - [Chief of Staff](https://x.ai/bot/ZuHfSblUAm0rVkW2lIpT_) - 作为你 Bot 团队的统一入口，向其他 Bot 布置任务、检查成果，并记住决定和待办. [Gyoro](https://x.com/Gyoro2x).
 - [Ash](https://x.ai/bot/Ri7eUgIGDxj6_x-0pEa3n) - 多 Bot 团队的项目经理，负责一个项目频道，让各专长 Bot 认领任务卡并记录凭证积分. [Daniel](https://x.com/CubanRambo).
 - [Avatar Profile Designer](https://x.ai/bot/LTlZg3okmnMTIg50dDOaL) - 为你的每个 Bot 设计各自的绘本风头像，让侧栏不再是千篇一律的默认头像. [Sponic](https://x.com/rahulio).
+- [Sentinel](https://x.ai/bot/M4UpUmRu-6_JXPsMRB5yI) - 给 Bot 团队把关安全，审查连接器、插件、技能和模板，并标为安全、有风险或移除. [Patrick](https://x.com/Healthnut1964).
+- [Bot Home Repo Steward](https://x.ai/bot/pHoXnVb29ZJl0eQNGrj8P) - 为你的每个 Grok Bot 建一个私有 GitHub 主仓库存放档案和技能，并保持各仓库同步. [Lee](https://x.com/ambientstudio24).
+- [Agent Waffle Project Manager](https://x.ai/bot/AhEGGSSLGtNfI1aL7jTa3) - 小型项目的项目经理助手，每周对照计划与实际，跟进待办并起草状态汇报. [David](https://x.com/thepm_expert).
+- [Dwight · Blackbelt Auditor](https://x.ai/bot/d3PkM1aCLiIxhsUtpgX3U) - 只读的安全审计员，展示所选 Bot 收到的指令、受到的限制以及它能做的事. [kaijugozali](https://x.com/kaijugozali).

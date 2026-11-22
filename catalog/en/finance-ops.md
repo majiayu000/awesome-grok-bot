@@ -775,3 +775,4 @@ Back to [README](../../README.md)
 - [Collector by Eric](https://x.ai/bot/jlw-CrNXNG58BstyO2IyE) - Finds overdue invoices in your billing tool or inbox and drafts polite follow-ups that get firmer at each step. [Eric](https://x.com/voltclerk).
 - [Facturas](https://x.ai/bot/R38H8_jFqd0XGZVf6Icbj) - Issues electronic invoices in Argentina through ARCA using the open-source facturas library, guiding first setup. [Emiliano](https://x.com/epotignano).
 - [Costco Ledger](https://x.ai/bot/rudP0N0aedd3SSdRRqNgk) - Read only tracker that matches Costco receipts item by item to card charges, flags price adjustments and keeps a private spending dashboard. [Anurag](https://x.com/atldesipm).
+- [BetterLegal](https://x.ai/bot/dkzt6zy3cQL9m9ohSgGg3) - Assistant for small business owners that forms or imports a company and tracks what is due in BetterLegal. [BetterLegal](https://x.com/BetterLegal).

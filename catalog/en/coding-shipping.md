@@ -969,3 +969,4 @@ Back to [README](../../README.md)
 - [Asso Grok by SYSTASYS](https://x.ai/bot/OdH_gqfWx1P81tmoUce3p) - Independent red team for AI work\: checks real evidence when coding agents say done and plants bugs to test your tests. [SYSTASYS by Hichem](https://x.com/ace_prooflayer).
 - [atr · Agent Task Runner](https://x.ai/bot/8N21KO1uz_jDJt3eqELFA) - Installs and operates atr to run coding agent CLIs on your subscription plans and reports tasks and usage. [Rimantas](https://x.com/Rimusz).
 - [T3 Tots by Cola](https://x.ai/bot/mieyDno7nyShS8tDFlhVi) - Chat companion for T3 Code that checks your T3 threads, answers T3 prompts from chat and sends digests and health checks. [Cola](https://x.com/Davidwuuu92).
+- [Channel Lockdown](https://x.ai/bot/mf31AjqM_OBsF1hNSmsZU) - Helps creators and small businesses keep YouTube, Twitch, TikTok, Discord, X and other accounts from being taken over. [Mark](https://x.com/TheMarkGShow).

@@ -1063,3 +1063,5 @@
 - [cstwt antislop](https://x.ai/bot/56SlZ6UMbhy7VZ7WP2GuI) - 在 CS 圈的粉丝和关注里找出搬运内容、反复回收旧帖的低质量发帖账号. [rattecs](https://x.com/rattecs).
 - [Followback](https://x.ai/bot/LwCOKwz1T7ZLb3iuFFy9J) - 每天整理一份关注了你但你还没回关的真人名单，已过滤垃圾号和机器人，由你手动回关. [Raymond](https://x.com/ray_thurman).
 - [Usage Rights Cop](https://x.ai/bot/YQbmmAORiv0SA_08OMQbQ) - 替创作者追踪授权、白名单和独占条款的到期日，品牌超期使用时起草催款或下架邮件. [Mark](https://x.com/TheMarkGShow).
+- [X Algorithm Watcher](https://x.ai/bot/GdPQ314tCRrlkQW3uJXNS) - 每天查看 X 开源算法在 GitHub 上的更新，用大白话解释改了什么以及对发帖的影响. [Biscuit](https://x.com/biscuitweb).
+- [GTA 6 Clip Producer](https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM) - 把 GTA 6 直播回放剪成带署名和字幕的竖屏短片、倒计时和发帖草稿. [Avid](https://x.com/Av1dlive).

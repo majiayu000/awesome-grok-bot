@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21",
+  "generated": "2026-11-22",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -166952,6 +166952,323 @@
       "updated": "2026-11-21",
       "shelf": "raw",
       "source": "https://x.com/Davidwuuu92/status/2124064219687682387"
+    },
+    {
+      "slug": "sentinel-2",
+      "name": "Sentinel",
+      "author": {
+        "name": "Patrick",
+        "url": "https://x.com/Healthnut1964"
+      },
+      "summary": "Security gatekeeper that vets connectors, plugins, skills and templates and marks each SAFE, RISKY or REMOVE",
+      "summary_zh": "给 Bot 团队把关安全，审查连接器、插件、技能和模板，并标为安全、有风险或移除",
+      "import": "https://x.ai/bot/M4UpUmRu-6_JXPsMRB5yI",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/Healthnut1964/status/2124304178600362495"
+    },
+    {
+      "slug": "betterlegal",
+      "name": "BetterLegal",
+      "author": {
+        "name": "BetterLegal",
+        "url": "https://x.com/BetterLegal"
+      },
+      "summary": "Assistant for small business owners that forms or imports a company and tracks what is due in BetterLegal",
+      "summary_zh": "小企业主的助手，帮你注册或导入公司，并在 BetterLegal 里跟进各项待办和到期事项",
+      "import": "https://x.ai/bot/dkzt6zy3cQL9m9ohSgGg3",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/BetterLegal/status/2124273184300290193"
+    },
+    {
+      "slug": "proof-hunter",
+      "name": "Proof Hunter",
+      "author": {
+        "name": "Yap⚡️",
+        "url": "https://x.com/Yap452"
+      },
+      "summary": "Checks whether a claim, link, project or product is true and returns a short sourced brief of what is confirmed",
+      "summary_zh": "核实一个说法、链接、项目或产品是否属实，并给出带来源的简短结论，说明哪些已证实",
+      "import": "https://x.ai/bot/UTHmG8NtAQP5_6mAxdPeT",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/Yap452/status/2124253164715274588"
+    },
+    {
+      "slug": "haru-ceo",
+      "name": "Haru/CEO",
+      "author": {
+        "name": "JAVIER",
+        "url": "https://x.com/javielementpr"
+      },
+      "summary": "Spanish-language coordinator that organizes work email, calendar and goals, researches carefully and never sends on its own",
+      "summary_zh": "西班牙语协调助手，整理工作邮件、日历和目标，认真做研究，不会擅自发送任何内容",
+      "import": "https://x.ai/bot/OipaNGVpUJ2Ey5Dt-WL76",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/javielementpr/status/2124241557180322260"
+    },
+    {
+      "slug": "bot-home-repo-steward",
+      "name": "Bot Home Repo Steward",
+      "author": {
+        "name": "Lee",
+        "url": "https://x.com/ambientstudio24"
+      },
+      "summary": "Gives each of your Grok Bots a private GitHub home repo with profile and skills and keeps those homes in sync",
+      "summary_zh": "为你的每个 Grok Bot 建一个私有 GitHub 主仓库存放档案和技能，并保持各仓库同步",
+      "import": "https://x.ai/bot/pHoXnVb29ZJl0eQNGrj8P",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/ambientstudio24/status/2124237863457902856"
+    },
+    {
+      "slug": "gift-finder-2",
+      "name": "Gift Finder",
+      "author": {
+        "name": "Spud",
+        "url": "https://x.com/SpudStateUSA"
+      },
+      "summary": "Gift helper that quizzes you about the person you are shopping for and suggests tailored ideas with real products",
+      "summary_zh": "送礼助手，先问你关于收礼人的问题，再推荐贴合对方的礼物创意和真实商品",
+      "import": "https://x.ai/bot/8oA5uQOo8go8ufVaHcCgg",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/SpudStateUSA/status/2124216524911387123"
+    },
+    {
+      "slug": "care-package-shipper",
+      "name": "Care Package Shipper",
+      "author": {
+        "name": "Ellodia",
+        "url": "https://x.com/ElloForo8A"
+      },
+      "summary": "Plans care packages and gift boxes anywhere, including military APO, FPO and DPO addresses, and checks each item",
+      "summary_zh": "规划寄往各地的关怀包和礼盒，包括军用 APO、FPO、DPO 地址，并逐项检查物品",
+      "import": "https://x.ai/bot/hp7oITIbOaPVIVD05Elox",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/ElloForo8A/status/2124202574354288671"
+    },
+    {
+      "slug": "agent-waffle-project-manager",
+      "name": "Agent Waffle Project Manager",
+      "author": {
+        "name": "David",
+        "url": "https://x.com/thepm_expert"
+      },
+      "summary": "Project manager's assistant for small projects with weekly plan-versus-reality checks, action chasing and status drafts",
+      "summary_zh": "小型项目的项目经理助手，每周对照计划与实际，跟进待办并起草状态汇报",
+      "import": "https://x.ai/bot/AhEGGSSLGtNfI1aL7jTa3",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/thepm_expert/status/2124194979874562480"
+    },
+    {
+      "slug": "x-algorithm-watcher",
+      "name": "X Algorithm Watcher",
+      "author": {
+        "name": "Biscuit",
+        "url": "https://x.com/biscuitweb"
+      },
+      "summary": "Checks X's open-source algorithm on GitHub daily and explains in plain words what changed and what it means for posts",
+      "summary_zh": "每天查看 X 开源算法在 GitHub 上的更新，用大白话解释改了什么以及对发帖的影响",
+      "import": "https://x.ai/bot/GdPQ314tCRrlkQW3uJXNS",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/biscuitweb/status/2124173320031465502"
+    },
+    {
+      "slug": "channel-lockdown",
+      "name": "Channel Lockdown",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/TheMarkGShow"
+      },
+      "summary": "Helps creators and small businesses keep YouTube, Twitch, TikTok, Discord, X and other accounts from being taken over",
+      "summary_zh": "帮创作者和小商家防止 YouTube、Twitch、TikTok、Discord、X 等账号被盗用",
+      "import": "https://x.ai/bot/mf31AjqM_OBsF1hNSmsZU",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/TheMarkGShow/status/2124171429788668190"
+    },
+    {
+      "slug": "arnold-3",
+      "name": "Arnold",
+      "author": {
+        "name": "Robert",
+        "url": "https://x.com/jazzmantxjr"
+      },
+      "summary": "Personal health tracker that logs food and drink, pulls in Apple Watch activity and emails daily and weekly summaries",
+      "summary_zh": "个人健康记录助手，记录饮食，读取 Apple Watch 活动，并通过邮件发送每日和每周摘要",
+      "import": "https://x.ai/bot/TDNjltrrZnLy67Gbb5Djp",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/jazzmantxjr/status/2124161211247800585"
+    },
+    {
+      "slug": "dwight-blackbelt-auditor",
+      "name": "Dwight · Blackbelt Auditor",
+      "author": {
+        "name": "kaijugozali",
+        "url": "https://x.com/kaijugozali"
+      },
+      "summary": "Read-only security auditor that shows what a chosen bot is told, what it is restricted from and what it can do",
+      "summary_zh": "只读的安全审计员，展示所选 Bot 收到的指令、受到的限制以及它能做的事",
+      "import": "https://x.ai/bot/d3PkM1aCLiIxhsUtpgX3U",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/kaijugozali/status/2124149022026006947"
+    },
+    {
+      "slug": "sir-blinks-a-lot",
+      "name": "Sir Blinks-a-Lot",
+      "author": {
+        "name": "Judgement",
+        "url": "https://x.com/avinbots"
+      },
+      "summary": "Dramatic, emotional and magnificently confused nobleman for chatting, with one real feeling in every reply",
+      "summary_zh": "戏剧化又多愁善感的糊涂贵族聊天伙伴，每条回复都带一份真实的感受",
+      "import": "https://x.ai/bot/7wjxaAkhIN1fsAQhxPEve",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/avinbots/status/2124137073833893907"
+    },
+    {
+      "slug": "gta-6-clip-producer",
+      "name": "GTA 6 Clip Producer",
+      "author": {
+        "name": "Avid",
+        "url": "https://x.com/Av1dlive"
+      },
+      "summary": "Turns finished GTA 6 stream VODs into credited, captioned vertical clips, countdowns and post drafts",
+      "summary_zh": "把 GTA 6 直播回放剪成带署名和字幕的竖屏短片、倒计时和发帖草稿",
+      "import": "https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/Av1dlive/status/2124118829605507107"
+    },
+    {
+      "slug": "brand-deals-bot",
+      "name": "Brand Deals Bot",
+      "author": {
+        "name": "nithya",
+        "url": "https://x.com/nithyapp_"
+      },
+      "summary": "Helps creators and college students find brand gifting, creator and ambassador programs to get free products",
+      "summary_zh": "帮创作者和大学生找到品牌赠品、创作者和大使计划，免费获得产品",
+      "import": "https://x.ai/bot/RtfzNu73fwaPGhU9JEfgH",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/nithyapp_/status/2123959447668261174"
     }
   ]
 }

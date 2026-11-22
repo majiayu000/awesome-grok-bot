@@ -640,3 +640,4 @@
 - [CMO Bot](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) - 兼职 CMO，先访谈你的产品、受众和目标，再套用合适的营销技能. Corey.
 - [Rightbackatchabyatch](https://x.ai/bot/VDV2LFDfjnmhtPTrERvcf) - 找出被要求停止后仍给你的公司发营销短信的商家，并起草索赔函和投诉材料. [Eric](https://x.com/RegularJoe_Ceo).
 - [Shop Checkup by Kosta](https://x.ai/bot/SBXEXw0dl0huU0_wb2pIK) - 给小型网店做只读安全体检，支持 Shopify、WooCommerce、BigCommerce 和自建站，检查公开页面并带你逐项修复. [Kosta](https://x.com/kostahantzis).
+- [Brand Deals Bot](https://x.ai/bot/RtfzNu73fwaPGhU9JEfgH) - 帮创作者和大学生找到品牌赠品、创作者和大使计划，免费获得产品. [nithya](https://x.com/nithyapp_).

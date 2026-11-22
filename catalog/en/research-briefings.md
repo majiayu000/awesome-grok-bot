@@ -929,3 +929,4 @@ Back to [README](../../README.md)
 - [Scout](https://x.ai/bot/caPVSAJVdoWSVdWWcUhB9) - Finds what buyers already search for and complain about, then sends a recurring demand report. [TechEcho](https://x.com/techechohq).
 - [Volatility News Alert Bot](https://x.ai/bot/dpOWi4yFIQHC074GJTD6s) - Tracks high impact economic events with a daily overview and 24h, 12h and 1h reminders before each release. [Gautamguptagg](https://x.com/Gautamguptagg).
 - [Podcast Scout (Sowfold)](https://x.ai/bot/skXD3nLo4djzjBxNjLpdE) - Turns up to three podcast episodes a week into sourced, actionable fixes for your business problems. [Ravi](https://x.com/sowfold).
+- [Proof Hunter](https://x.ai/bot/UTHmG8NtAQP5_6mAxdPeT) - Checks whether a claim, link, project or product is true and returns a short sourced brief of what is confirmed. [Yap⚡️](https://x.com/Yap452).

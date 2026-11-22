@@ -1063,3 +1063,5 @@ Back to [README](../../README.md)
 - [cstwt antislop](https://x.ai/bot/56SlZ6UMbhy7VZ7WP2GuI) - Finds low-effort slop posters like content thieves and recyclers among your followers and following in the Counter-Strike X community. [rattecs](https://x.com/rattecs).
 - [Followback](https://x.ai/bot/LwCOKwz1T7ZLb3iuFFy9J) - Builds a daily list of real people who follow you on X but you do not follow back yet, filtered for spam and bots. [Raymond](https://x.com/ray_thurman).
 - [Usage Rights Cop](https://x.ai/bot/YQbmmAORiv0SA_08OMQbQ) - Tracks usage, whitelisting and exclusivity terms for creators and drafts a pay up or pull it email when a brand overruns. [Mark](https://x.com/TheMarkGShow).
+- [X Algorithm Watcher](https://x.ai/bot/GdPQ314tCRrlkQW3uJXNS) - Checks X's open-source algorithm on GitHub daily and explains in plain words what changed and what it means for posts. [Biscuit](https://x.com/biscuitweb).
+- [GTA 6 Clip Producer](https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM) - Turns finished GTA 6 stream VODs into credited, captioned vertical clips, countdowns and post drafts. [Avid](https://x.com/Av1dlive).

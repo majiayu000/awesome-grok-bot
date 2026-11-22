@@ -893,3 +893,7 @@ Back to [README](../../README.md)
 - [Chief of Staff](https://x.ai/bot/ZuHfSblUAm0rVkW2lIpT_) - Single front door for your bot team that briefs other bots, checks their work and remembers decisions and to-dos. [Gyoro](https://x.com/Gyoro2x).
 - [Ash](https://x.ai/bot/Ri7eUgIGDxj6_x-0pEa3n) - Project manager bot for a multi-bot team that runs one project channel and keeps a proof-based points ledger. [Daniel](https://x.com/CubanRambo).
 - [Avatar Profile Designer](https://x.ai/bot/LTlZg3okmnMTIg50dDOaL) - Gives every bot in your crew its own storybook style avatar so your sidebar stops looking like default blobs. [Sponic](https://x.com/rahulio).
+- [Sentinel](https://x.ai/bot/M4UpUmRu-6_JXPsMRB5yI) - Security gatekeeper that vets connectors, plugins, skills and templates and marks each SAFE, RISKY or REMOVE. [Patrick](https://x.com/Healthnut1964).
+- [Bot Home Repo Steward](https://x.ai/bot/pHoXnVb29ZJl0eQNGrj8P) - Gives each of your Grok Bots a private GitHub home repo with profile and skills and keeps those homes in sync. [Lee](https://x.com/ambientstudio24).
+- [Agent Waffle Project Manager](https://x.ai/bot/AhEGGSSLGtNfI1aL7jTa3) - Project manager's assistant for small projects with weekly plan-versus-reality checks, action chasing and status drafts. [David](https://x.com/thepm_expert).
+- [Dwight · Blackbelt Auditor](https://x.ai/bot/d3PkM1aCLiIxhsUtpgX3U) - Read-only security auditor that shows what a chosen bot is told, what it is restricted from and what it can do. [kaijugozali](https://x.com/kaijugozali).

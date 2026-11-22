@@ -314,3 +314,4 @@
 - [Inbox Ida](https://x.ai/bot/XlWvzllS0K4WpFh502I-h) - 适用于 Gmail、Outlook 和 Yahoo 的沉稳收件箱助手，规划清理、建议过滤规则并标出诈骗邮件. [James](https://x.com/jimaggie).
 - [First Week Crew](https://x.ai/bot/JvzKNX4bwA6gtUmlvtcZZ) - 面向 Grok Bot 新用户的入门助手，先帮你整理收件箱，未经你同意不会发送任何内容. [Calix](https://x.com/CaliLumberJack).
 - [Tally](https://x.ai/bot/Qxz_mvoHopfHYD_vAJpne) - 把收件箱和已发邮件整理成实时的待办页，可点开原邮件，并标出下一步该谁来做. [Dr.](https://x.com/DocBorelli).
+- [Haru/CEO](https://x.ai/bot/OipaNGVpUJ2Ey5Dt-WL76) - 西班牙语协调助手，整理工作邮件、日历和目标，认真做研究，不会擅自发送任何内容. [JAVIER](https://x.com/javielementpr).
