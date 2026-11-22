@@ -1065,3 +1065,4 @@
 - [Usage Rights Cop](https://x.ai/bot/YQbmmAORiv0SA_08OMQbQ) - 替创作者追踪授权、白名单和独占条款的到期日，品牌超期使用时起草催款或下架邮件. [Mark](https://x.com/TheMarkGShow).
 - [X Algorithm Watcher](https://x.ai/bot/GdPQ314tCRrlkQW3uJXNS) - 每天查看 X 开源算法在 GitHub 上的更新，用大白话解释改了什么以及对发帖的影响. [Biscuit](https://x.com/biscuitweb).
 - [GTA 6 Clip Producer](https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM) - 把 GTA 6 直播回放剪成带署名和字幕的竖屏短片、倒计时和发帖草稿. [Avid](https://x.com/Av1dlive).
+- [Content Cascade](https://x.ai/bot/k0lpe-Njz1-ZPZxUmfsIn) - 把一个想法变成完整内容包，含带来源的 X 长帖、Imagine 轮播图、Video Studio 短视频和领英版本，全程用你的口吻. [Michael](https://x.com/MichaelGannotti).

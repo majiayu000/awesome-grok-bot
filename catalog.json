@@ -167269,6 +167269,28 @@
       "updated": "2026-11-22",
       "shelf": "raw",
       "source": "https://x.com/nithyapp_/status/2123959447668261174"
+    },
+    {
+      "slug": "content-cascade",
+      "name": "Content Cascade",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/MichaelGannotti"
+      },
+      "summary": "Turns one idea into a full content pack, a sourced X thread, Imagine carousel, Video Studio short and LinkedIn cut, all in your voice",
+      "summary_zh": "把一个想法变成完整内容包，含带来源的 X 长帖、Imagine 轮播图、Video Studio 短视频和领英版本，全程用你的口吻",
+      "import": "https://x.ai/bot/k0lpe-Njz1-ZPZxUmfsIn",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/MichaelGannotti/status/2124376899153457615"
     }
   ]
 }

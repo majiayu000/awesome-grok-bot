@@ -13,7 +13,7 @@
 > Public `x.ai/bot` shares to preview and add, with field cases from people who use them.
 
 <!-- generated:catalog-snapshot-start -->
-Catalog snapshot · 2026-11-22 · **0 verified / 8046 listed**
+Catalog snapshot · 2026-11-22 · **0 verified / 8047 listed**
 <!-- generated:catalog-snapshot-end -->
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
@@ -119,12 +119,12 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Research & briefings](#research--briefings) | 928 |
 | [Customer & sales](#customer--sales) | 639 |
 | [Finance & ops](#finance--ops) | 774 |
-| [Content & publishing](#content--publishing) | 1063 |
+| [Content & publishing](#content--publishing) | 1064 |
 | [Personal admin](#personal-admin) | 2466 |
 | [Teams & handoffs](#teams--handoffs) | 895 |
-| **Total** | **8046** |
+| **Total** | **8047** |
 
-On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, the evening delta added 2 more, on 14 Nov 2026 the morning full hunt added 26 more, and the afternoon delta added 4 more and the evening delta added 5 more, on 15 Nov 2026 the morning full hunt added 10 more, the afternoon delta added 5 more and the evening delta added 3 more, on 16 Nov 2026 the morning full hunt added 11 more and the afternoon delta added 8 more and the evening delta added 2 more, on 17 Nov 2026 the morning full hunt added 14 more and the afternoon delta added 10 more and the evening delta added 1 more, on 18 Nov 2026 the morning full hunt added 19 more and the afternoon delta added 3 more and the evening delta added 10 more, on 19 Nov 2026 the morning full hunt added 23 more and the afternoon delta added 9 more and the evening delta added 5 more, on 20 Nov 2026 the morning full hunt added 29 more and the afternoon delta added 11 more and the evening delta added 1 more, on 21 Nov 2026 the morning full hunt added 12 more and the afternoon delta added 1 more and the evening delta added 4 more, on 22 Nov 2026 the morning full hunt added 15 more that returned 200. Reachable is not the same as safe or correct. See the [maintainer checklist](docs/vetting.md#run-a-documented-first-task) for the evidence required to verify a share.
+On 27 Oct 2026, 6649 of 6688 share pages returned HTTP 200 (39 older shares now 404); on 2 Nov 2026, 711 of 726 new candidates returned 200 (15 skipped as 404); on 3 Nov 2026, 66 new shares returned 200 and were added; on 4 Nov 2026, 52 more new shares returned 200 and were added; on 6 Nov 2026, 108 more new shares returned 200 and were added; the same-day afternoon delta added 15 more that returned 200; the evening delta added 14 more that returned 200; on 7 Nov 2026, 32 more new shares returned 200 and were added; the same-day afternoon delta added 5 more that returned 200; on 8 Nov 2026, 21 more new shares returned 200 and were added; the 9 Nov 2026 afternoon delta added 8 more that returned 200; on 10 Nov 2026, the morning full hunt added 24 more and the afternoon delta added 7 more and the evening delta added 1 more that returned 200; on 11 Nov 2026, the morning full hunt added 33 more the afternoon delta added 15 more and the evening delta added 4 more that returned 200; on 12 Nov 2026, the morning full hunt added 33 more and the afternoon delta added 8 more and the evening delta added 1 more that returned 200; on 13 Nov 2026, the morning full hunt added 22 more the afternoon delta added 5 more, the evening delta added 2 more, on 14 Nov 2026 the morning full hunt added 26 more, and the afternoon delta added 4 more and the evening delta added 5 more, on 15 Nov 2026 the morning full hunt added 10 more, the afternoon delta added 5 more and the evening delta added 3 more, on 16 Nov 2026 the morning full hunt added 11 more and the afternoon delta added 8 more and the evening delta added 2 more, on 17 Nov 2026 the morning full hunt added 14 more and the afternoon delta added 10 more and the evening delta added 1 more, on 18 Nov 2026 the morning full hunt added 19 more and the afternoon delta added 3 more and the evening delta added 10 more, on 19 Nov 2026 the morning full hunt added 23 more and the afternoon delta added 9 more and the evening delta added 5 more, on 20 Nov 2026 the morning full hunt added 29 more and the afternoon delta added 11 more and the evening delta added 1 more, on 21 Nov 2026 the morning full hunt added 12 more and the afternoon delta added 1 more and the evening delta added 4 more, on 22 Nov 2026 the morning full hunt added 15 more and the afternoon delta added 1 more that returned 200. Reachable is not the same as safe or correct. See the [maintainer checklist](docs/vetting.md#run-a-documented-first-task) for the evidence required to verify a share.
 
 ## Field cases
 
@@ -284,7 +284,7 @@ Full list (774 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (1063 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (1064 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
