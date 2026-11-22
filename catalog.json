@@ -167291,6 +167291,28 @@
       "updated": "2026-11-22",
       "shelf": "raw",
       "source": "https://x.com/MichaelGannotti/status/2124376899153457615"
+    },
+    {
+      "slug": "ai-reply-killer",
+      "name": "AI回复专杀",
+      "author": {
+        "name": "艾薇娜",
+        "url": "https://x.com/klarkxy"
+      },
+      "summary": "Screens the authors who replied to you each day for bot accounts, or checks a single X account on demand, with a confidence level and evidence",
+      "summary_zh": "每天筛查回复你的账号是否为机器人，也能随时检查单个 X 账号，附置信度和原帖证据",
+      "import": "https://x.ai/bot/ItooxHD14jyOy6z3ZyU94",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-22",
+      "shelf": "raw",
+      "source": "https://x.com/klarkxy/status/2124447266442498130"
     }
   ]
 }

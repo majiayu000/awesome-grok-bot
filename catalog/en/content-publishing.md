@@ -1066,3 +1066,4 @@ Back to [README](../../README.md)
 - [X Algorithm Watcher](https://x.ai/bot/GdPQ314tCRrlkQW3uJXNS) - Checks X's open-source algorithm on GitHub daily and explains in plain words what changed and what it means for posts. [Biscuit](https://x.com/biscuitweb).
 - [GTA 6 Clip Producer](https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM) - Turns finished GTA 6 stream VODs into credited, captioned vertical clips, countdowns and post drafts. [Avid](https://x.com/Av1dlive).
 - [Content Cascade](https://x.ai/bot/k0lpe-Njz1-ZPZxUmfsIn) - Turns one idea into a full content pack, a sourced X thread, Imagine carousel, Video Studio short and LinkedIn cut, all in your voice. [Michael](https://x.com/MichaelGannotti).
+- [AI回复专杀](https://x.ai/bot/ItooxHD14jyOy6z3ZyU94) - Screens the authors who replied to you each day for bot accounts, or checks a single X account on demand, with a confidence level and evidence. [艾薇娜](https://x.com/klarkxy).

@@ -1066,3 +1066,4 @@
 - [X Algorithm Watcher](https://x.ai/bot/GdPQ314tCRrlkQW3uJXNS) - 每天查看 X 开源算法在 GitHub 上的更新，用大白话解释改了什么以及对发帖的影响. [Biscuit](https://x.com/biscuitweb).
 - [GTA 6 Clip Producer](https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM) - 把 GTA 6 直播回放剪成带署名和字幕的竖屏短片、倒计时和发帖草稿. [Avid](https://x.com/Av1dlive).
 - [Content Cascade](https://x.ai/bot/k0lpe-Njz1-ZPZxUmfsIn) - 把一个想法变成完整内容包，含带来源的 X 长帖、Imagine 轮播图、Video Studio 短视频和领英版本，全程用你的口吻. [Michael](https://x.com/MichaelGannotti).
+- [AI回复专杀](https://x.ai/bot/ItooxHD14jyOy6z3ZyU94) - 每天筛查回复你的账号是否为机器人，也能随时检查单个 X 账号，附置信度和原帖证据. [艾薇娜](https://x.com/klarkxy).
