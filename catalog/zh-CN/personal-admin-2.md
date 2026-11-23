@@ -246,3 +246,4 @@
 - [Dónde ver? CL by César](https://x.ai/bot/hOmN4D8XygrKsiUpVJXWw) - 告诉你今天在智利哪个平台能看某部电影或剧集，含订阅、租借、购买和免费方式并附来源链接. [César](https://x.com/cesarnunezc).
 - [Kitchen Manager by W4G3R](https://x.ai/bot/5k6Ex1eLHnMjBH-1b0wlj) - 规划家庭工作日晚餐，以简单的慢炖锅菜为主，并把这些食材和午餐常备品放进购物车. [W4G3R](https://x.com/xW4G3Rx).
 - [Gift & Holiday Deal Tracker by Cat](https://x.ai/bot/Im6w3620BfmiCDWpFf3iZ) - 把节日清单整理成礼物表，含创意、价格、优惠提醒和下单截止日期，从不替你购买. [Cat](https://x.com/Glidewell_AI).
+- [Dispatcher by nahjuin](https://x.ai/bot/ntvBkcw8xpYmKrseja5lb) - 开车时免手动与你的 Grok Bot 沟通的入口，可简短询问进度并交办小事，适配 Apple CarPlay 和特斯拉车机. [nahjuin](https://x.com/cu30rry_).

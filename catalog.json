@@ -167669,6 +167669,69 @@
       "verified": false,
       "updated": "2026-11-23",
       "shelf": "raw"
+    },
+    {
+      "slug": "dispatcher-by-nahjuin",
+      "name": "Dispatcher by nahjuin",
+      "author": {
+        "name": "nahjuin",
+        "url": "https://x.com/cu30rry_"
+      },
+      "summary": "Hands-free hub for checking on and handing quick tasks to your Grok Bots while you drive, built for Apple CarPlay and Tesla screens",
+      "summary_zh": "开车时免手动与你的 Grok Bot 沟通的入口，可简短询问进度并交办小事，适配 Apple CarPlay 和特斯拉车机",
+      "import": "https://x.ai/bot/ntvBkcw8xpYmKrseja5lb",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/cu30rry_/status/2124767153568075919"
+    },
+    {
+      "slug": "claim-filer-by-matthew",
+      "name": "Claim Filer by Matthew",
+      "author": {
+        "name": "Matthew",
+        "url": "https://x.com/bostonaholic"
+      },
+      "summary": "Checks whether you are owed money from a class-action settlement by searching all your mail, including spam, for the administrator's notice",
+      "summary_zh": "通过搜索你的全部邮件（含垃圾邮件）里的管理方通知，查明你是否能从集体诉讼和解中拿到钱",
+      "import": "https://x.ai/bot/N4nibpbC2g6RoGMzKtOkz",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/bostonaholic/status/2124735824319418575"
+    },
+    {
+      "slug": "inner-circle-by-lightning",
+      "name": "Inner Circle by Lightning",
+      "author": {
+        "name": "Lightning",
+        "url": "https://x.com/LightningMike23"
+      },
+      "summary": "Makes a weekly Inner Circle graphic for your X account, your photo ringed by the 50 people who interact with you most, plus a thank-you caption",
+      "summary_zh": "每周为你的 X 账号生成 Inner Circle 图，你的头像被互动最多的 50 个人环绕，并附一段感谢文案",
+      "import": "https://x.ai/bot/rDilcFg5TaIskD9-Iid0x",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/LightningMike23/status/2124725617895878992"
     }
   ]
 }

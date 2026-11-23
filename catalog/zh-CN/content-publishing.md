@@ -1070,3 +1070,4 @@
 - [X Cleaner by César](https://x.ai/bot/XK0ieRWCNqlBXMiSnPVPA) - 检查你在 X 上的旧帖子并按风险等级标出可能给工作带来麻烦的内容，未经批准不删除也不发布. [César](https://x.com/cesarnunezc).
 - [X Motivator by Luis](https://x.ai/bot/IlnxsWFtsXxh_c1pzBZYJ) - 友好的 X 打气助手，每天一条短消息告诉你昨天是否发帖以及离粉丝目标还差多少. [Luis](https://x.com/luisbarragan).
 - [Manuscript Compass by Keith](https://x.ai/bot/Q7-0RceEXtyGsClp4Qv10) - 交互式书稿编辑助手，带作者逐阶段从初稿打磨到可出版的成书. [Keith](https://x.com/blinkmuted).
+- [Inner Circle by Lightning](https://x.ai/bot/rDilcFg5TaIskD9-Iid0x) - 每周为你的 X 账号生成 Inner Circle 图，你的头像被互动最多的 50 个人环绕，并附一段感谢文案. [Lightning](https://x.com/LightningMike23).

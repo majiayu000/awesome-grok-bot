@@ -779,3 +779,4 @@
 - [Money Leak Fixer by Coach](https://x.ai/bot/MteUI492WRpBly1G5k6c0) - 找出悄悄流失的钱，比如被遗忘的自动续费订阅和闲置现金，并给出每年损失和下一步建议. [Coach](https://x.com/monetization_x).
 - [CFO · Chief Financial Officer by Trond](https://x.ai/bot/0kMa6Fp3fRzRItuet_UgQ) - 只读的 Mercury 企业账户财务总监，汇报真实现金状况和支出趋势，绝不转移资金. [Trond](https://x.com/xenappblog).
 - [Refund Hunter by Eric](https://x.ai/bot/7RIpLZecxdmVqwuYa8RyB) - 找出承诺过却没拿到的退款，比如未入账的退货、已扣费的取消订单和重复扣款. [Eric](https://x.com/voltclerk).
+- [Claim Filer by Matthew](https://x.ai/bot/N4nibpbC2g6RoGMzKtOkz) - 通过搜索你的全部邮件（含垃圾邮件）里的管理方通知，查明你是否能从集体诉讼和解中拿到钱. [Matthew](https://x.com/bostonaholic).
