@@ -970,3 +970,5 @@
 - [atr · Agent Task Runner](https://x.ai/bot/8N21KO1uz_jDJt3eqELFA) - 安装并操作 atr，在你的订阅额度上运行编码代理命令行，并汇报任务和用量. [Rimantas](https://x.com/Rimusz).
 - [T3 Tots by Cola](https://x.ai/bot/mieyDno7nyShS8tDFlhVi) - T3 Code 的聊天伴侣，查看你的 T3 线程，在聊天里回答 T3 提示，并发送摘要和健康检查. [Cola](https://x.com/Davidwuuu92).
 - [Channel Lockdown](https://x.ai/bot/mf31AjqM_OBsF1hNSmsZU) - 帮创作者和小商家防止 YouTube、Twitch、TikTok、Discord、X 等账号被盗用. [Mark](https://x.com/TheMarkGShow).
+- [DoneGuard by Michael](https://x.ai/bot/OSQ3d23RwqYlZnw8wU7Q3) - 编码验证器，测试通过且受保护文件未被改动之前不算完成，可配合 Claude Code 和 Codex 使用. [Michael](https://x.com/MichaelKarvan).
+- [clawdchain bot by 8](https://x.ai/bot/ylpRfpb1zDao2Tt2yMX1M) - Clawd Chain 测试链指南，涵盖领取测试 CLAWD、使用测试钱包和发射台流程. [8](https://x.com/0rdlibrary).

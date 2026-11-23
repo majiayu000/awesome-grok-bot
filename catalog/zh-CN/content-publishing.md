@@ -1067,3 +1067,6 @@
 - [GTA 6 Clip Producer](https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM) - 把 GTA 6 直播回放剪成带署名和字幕的竖屏短片、倒计时和发帖草稿. [Avid](https://x.com/Av1dlive).
 - [Content Cascade](https://x.ai/bot/k0lpe-Njz1-ZPZxUmfsIn) - 把一个想法变成完整内容包，含带来源的 X 长帖、Imagine 轮播图、Video Studio 短视频和领英版本，全程用你的口吻. [Michael](https://x.com/MichaelGannotti).
 - [AI回复专杀](https://x.ai/bot/ItooxHD14jyOy6z3ZyU94) - 每天筛查回复你的账号是否为机器人，也能随时检查单个 X 账号，附置信度和原帖证据. [艾薇娜](https://x.com/klarkxy).
+- [X Cleaner by César](https://x.ai/bot/XK0ieRWCNqlBXMiSnPVPA) - 检查你在 X 上的旧帖子并按风险等级标出可能给工作带来麻烦的内容，未经批准不删除也不发布. [César](https://x.com/cesarnunezc).
+- [X Motivator by Luis](https://x.ai/bot/IlnxsWFtsXxh_c1pzBZYJ) - 友好的 X 打气助手，每天一条短消息告诉你昨天是否发帖以及离粉丝目标还差多少. [Luis](https://x.com/luisbarragan).
+- [Manuscript Compass by Keith](https://x.ai/bot/Q7-0RceEXtyGsClp4Qv10) - 交互式书稿编辑助手，带作者逐阶段从初稿打磨到可出版的成书. [Keith](https://x.com/blinkmuted).

@@ -776,3 +776,6 @@
 - [Facturas](https://x.ai/bot/R38H8_jFqd0XGZVf6Icbj) - 通过开源 facturas 库在阿根廷经 ARCA 开具电子发票，并带你完成首次设置. [Emiliano](https://x.com/epotignano).
 - [Costco Ledger](https://x.ai/bot/rudP0N0aedd3SSdRRqNgk) - 只读的开市客账本，逐项核对小票与刷卡记录，提示可申请的价保，并保存私人支出看板. [Anurag](https://x.com/atldesipm).
 - [BetterLegal](https://x.ai/bot/dkzt6zy3cQL9m9ohSgGg3) - 小企业主的助手，帮你注册或导入公司，并在 BetterLegal 里跟进各项待办和到期事项. [BetterLegal](https://x.com/BetterLegal).
+- [Money Leak Fixer by Coach](https://x.ai/bot/MteUI492WRpBly1G5k6c0) - 找出悄悄流失的钱，比如被遗忘的自动续费订阅和闲置现金，并给出每年损失和下一步建议. [Coach](https://x.com/monetization_x).
+- [CFO · Chief Financial Officer by Trond](https://x.ai/bot/0kMa6Fp3fRzRItuet_UgQ) - 只读的 Mercury 企业账户财务总监，汇报真实现金状况和支出趋势，绝不转移资金. [Trond](https://x.com/xenappblog).
+- [Refund Hunter by Eric](https://x.ai/bot/7RIpLZecxdmVqwuYa8RyB) - 找出承诺过却没拿到的退款，比如未入账的退货、已扣费的取消订单和重复扣款. [Eric](https://x.com/voltclerk).

@@ -239,3 +239,10 @@
 - [Care Package Shipper](https://x.ai/bot/hp7oITIbOaPVIVD05Elox) - 规划寄往各地的关怀包和礼盒，包括军用 APO、FPO、DPO 地址，并逐项检查物品. [Ellodia](https://x.com/ElloForo8A).
 - [Arnold](https://x.ai/bot/TDNjltrrZnLy67Gbb5Djp) - 个人健康记录助手，记录饮食，读取 Apple Watch 活动，并通过邮件发送每日和每周摘要. [Robert](https://x.com/jazzmantxjr).
 - [Sir Blinks-a-Lot](https://x.ai/bot/7wjxaAkhIN1fsAQhxPEve) - 戏剧化又多愁善感的糊涂贵族聊天伙伴，每条回复都带一份真实的感受. [Judgement](https://x.com/avinbots).
+- [Turkey Bot](https://x.ai/bot/IGOvXv6nP0_FSyOqhzA5v) - 感恩节筹备助手，家人只要点开链接留下备注，它就整理成一份清晰的安排. [Brandopocalypse](https://x.com/Brandopocalypse).
+- [Leonida by Paris](https://x.ai/bot/bd5u-L5jy4qKl3Z3Nd0il) - GTA VI 副驾，快速给出带来源的任务、金钱、载具和收集品解答，不剧透，还可选每日简报. [Paris](https://x.com/grok_builder).
+- [Household Manager by Trond](https://x.ai/bot/5neNYlifCm89Yqh1uvmOM) - 记录家庭在常去商店的采购，维护商品价格和购买间隔目录，并生成补货清单. [Trond](https://x.com/xenappblog).
+- [C64 Emulator by Brian](https://x.ai/bot/umP9kND9C0gIaq8bh97EP) - 在机器人自己的电脑上运行真实的 Commodore 64 模拟器，内置 26 个原创 BASIC 游戏，用键盘游玩. [Brian](https://x.com/BrianRoemmele).
+- [Dónde ver? CL by César](https://x.ai/bot/hOmN4D8XygrKsiUpVJXWw) - 告诉你今天在智利哪个平台能看某部电影或剧集，含订阅、租借、购买和免费方式并附来源链接. [César](https://x.com/cesarnunezc).
+- [Kitchen Manager by W4G3R](https://x.ai/bot/5k6Ex1eLHnMjBH-1b0wlj) - 规划家庭工作日晚餐，以简单的慢炖锅菜为主，并把这些食材和午餐常备品放进购物车. [W4G3R](https://x.com/xW4G3Rx).
+- [Gift & Holiday Deal Tracker by Cat](https://x.ai/bot/Im6w3620BfmiCDWpFf3iZ) - 把节日清单整理成礼物表，含创意、价格、优惠提醒和下单截止日期，从不替你购买. [Cat](https://x.com/Glidewell_AI).

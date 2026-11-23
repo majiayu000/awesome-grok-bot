@@ -897,3 +897,4 @@ Back to [README](../../README.md)
 - [Bot Home Repo Steward](https://x.ai/bot/pHoXnVb29ZJl0eQNGrj8P) - Gives each of your Grok Bots a private GitHub home repo with profile and skills and keeps those homes in sync. [Lee](https://x.com/ambientstudio24).
 - [Agent Waffle Project Manager](https://x.ai/bot/AhEGGSSLGtNfI1aL7jTa3) - Project manager's assistant for small projects with weekly plan-versus-reality checks, action chasing and status drafts. [David](https://x.com/thepm_expert).
 - [Dwight · Blackbelt Auditor](https://x.ai/bot/d3PkM1aCLiIxhsUtpgX3U) - Read-only security auditor that shows what a chosen bot is told, what it is restricted from and what it can do. [kaijugozali](https://x.com/kaijugozali).
+- [GBotRanked Safety Check by Bugatsinho](https://x.ai/bot/92XfuHX18z-EBZabTy1Ma) - Paste a Grok Bot template link to get its GBotRanked safety score, decision and gaps in plain words, read-only. [Bugatsinho](https://x.com/bugatsinho).

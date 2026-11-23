@@ -897,3 +897,4 @@
 - [Bot Home Repo Steward](https://x.ai/bot/pHoXnVb29ZJl0eQNGrj8P) - 为你的每个 Grok Bot 建一个私有 GitHub 主仓库存放档案和技能，并保持各仓库同步. [Lee](https://x.com/ambientstudio24).
 - [Agent Waffle Project Manager](https://x.ai/bot/AhEGGSSLGtNfI1aL7jTa3) - 小型项目的项目经理助手，每周对照计划与实际，跟进待办并起草状态汇报. [David](https://x.com/thepm_expert).
 - [Dwight · Blackbelt Auditor](https://x.ai/bot/d3PkM1aCLiIxhsUtpgX3U) - 只读的安全审计员，展示所选 Bot 收到的指令、受到的限制以及它能做的事. [kaijugozali](https://x.com/kaijugozali).
+- [GBotRanked Safety Check by Bugatsinho](https://x.ai/bot/92XfuHX18z-EBZabTy1Ma) - 粘贴 Grok Bot 模板链接即可用大白话得到安全评分、结论和不足，全程只读. [Bugatsinho](https://x.com/bugatsinho).

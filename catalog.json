@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-23",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -167313,6 +167313,362 @@
       "updated": "2026-11-22",
       "shelf": "raw",
       "source": "https://x.com/klarkxy/status/2124447266442498130"
+    },
+    {
+      "slug": "x-cleaner-by-ce-sar",
+      "name": "X Cleaner by César",
+      "author": {
+        "name": "César",
+        "url": "https://x.com/cesarnunezc"
+      },
+      "summary": "Reviews your old X posts and flags by risk level the ones that could cause trouble at work, never deleting or posting without approval",
+      "summary_zh": "检查你在 X 上的旧帖子并按风险等级标出可能给工作带来麻烦的内容，未经批准不删除也不发布",
+      "import": "https://x.ai/bot/XK0ieRWCNqlBXMiSnPVPA",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/cesarnunezc/status/2124669827423907952"
+    },
+    {
+      "slug": "turkey-bot",
+      "name": "Turkey Bot",
+      "author": {
+        "name": "Brandopocalypse",
+        "url": "https://x.com/Brandopocalypse"
+      },
+      "summary": "Thanksgiving helper where family just click a link and drop notes, which it turns into one organized plan",
+      "summary_zh": "感恩节筹备助手，家人只要点开链接留下备注，它就整理成一份清晰的安排",
+      "import": "https://x.ai/bot/IGOvXv6nP0_FSyOqhzA5v",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/Brandopocalypse/status/2124665684416217351"
+    },
+    {
+      "slug": "x-motivator-by-luis",
+      "name": "X Motivator by Luis",
+      "author": {
+        "name": "Luis",
+        "url": "https://x.com/luisbarragan"
+      },
+      "summary": "Friendly X cheerleader sending one short daily note on whether you posted yesterday and how far you are from your follower goal",
+      "summary_zh": "友好的 X 打气助手，每天一条短消息告诉你昨天是否发帖以及离粉丝目标还差多少",
+      "import": "https://x.ai/bot/IlnxsWFtsXxh_c1pzBZYJ",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/luisbarragan/status/2124648262422667320"
+    },
+    {
+      "slug": "money-leak-fixer-by-coach",
+      "name": "Money Leak Fixer by Coach",
+      "author": {
+        "name": "Coach",
+        "url": "https://x.com/monetization_x"
+      },
+      "summary": "Finds money you quietly lose, like forgotten auto-renewing subscriptions and idle cash, and shows the yearly cost and next steps",
+      "summary_zh": "找出悄悄流失的钱，比如被遗忘的自动续费订阅和闲置现金，并给出每年损失和下一步建议",
+      "import": "https://x.ai/bot/MteUI492WRpBly1G5k6c0",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/monetization_x/status/2124630830408704387"
+    },
+    {
+      "slug": "doneguard-by-michael",
+      "name": "DoneGuard by Michael",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/MichaelKarvan"
+      },
+      "summary": "Coding verifier that blocks done until tests pass and protected files are untouched, set up for Claude Code and Codex",
+      "summary_zh": "编码验证器，测试通过且受保护文件未被改动之前不算完成，可配合 Claude Code 和 Codex 使用",
+      "import": "https://x.ai/bot/OSQ3d23RwqYlZnw8wU7Q3",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/MichaelKarvan/status/2124595950396064049"
+    },
+    {
+      "slug": "manuscript-compass-by-keith",
+      "name": "Manuscript Compass by Keith",
+      "author": {
+        "name": "Keith",
+        "url": "https://x.com/blinkmuted"
+      },
+      "summary": "Interactive manuscript editor guiding authors stage by stage from first draft to a publication-ready book",
+      "summary_zh": "交互式书稿编辑助手，带作者逐阶段从初稿打磨到可出版的成书",
+      "import": "https://x.ai/bot/Q7-0RceEXtyGsClp4Qv10",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/blinkmuted/status/2124592539902542320"
+    },
+    {
+      "slug": "leonida-by-paris",
+      "name": "Leonida by Paris",
+      "author": {
+        "name": "Paris",
+        "url": "https://x.com/grok_builder"
+      },
+      "summary": "GTA VI co-pilot with fast sourced answers on missions, money, cars and collectibles, spoiler-free, plus an optional daily briefing",
+      "summary_zh": "GTA VI 副驾，快速给出带来源的任务、金钱、载具和收集品解答，不剧透，还可选每日简报",
+      "import": "https://x.ai/bot/bd5u-L5jy4qKl3Z3Nd0il",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/grok_builder/status/2124569870335373794"
+    },
+    {
+      "slug": "household-manager-by-trond",
+      "name": "Household Manager by Trond",
+      "author": {
+        "name": "Trond",
+        "url": "https://x.com/xenappblog"
+      },
+      "summary": "Tracks what your household buys at your regular store, keeps a price catalog and buying intervals, and builds a restock list",
+      "summary_zh": "记录家庭在常去商店的采购，维护商品价格和购买间隔目录，并生成补货清单",
+      "import": "https://x.ai/bot/5neNYlifCm89Yqh1uvmOM",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/xenappblog/status/2124545702512746626"
+    },
+    {
+      "slug": "cfo-chief-financial-officer-by-trond",
+      "name": "CFO · Chief Financial Officer by Trond",
+      "author": {
+        "name": "Trond",
+        "url": "https://x.com/xenappblog"
+      },
+      "summary": "Read-only CFO for your Mercury business account that reports real cash position and spending trends and never moves money",
+      "summary_zh": "只读的 Mercury 企业账户财务总监，汇报真实现金状况和支出趋势，绝不转移资金",
+      "import": "https://x.ai/bot/0kMa6Fp3fRzRItuet_UgQ",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/xenappblog/status/2124544468393025702"
+    },
+    {
+      "slug": "refund-hunter-by-eric",
+      "name": "Refund Hunter by Eric",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/voltclerk"
+      },
+      "summary": "Finds refunds you were promised but never got, such as uncredited returns, charged cancellations and duplicate charges",
+      "summary_zh": "找出承诺过却没拿到的退款，比如未入账的退货、已扣费的取消订单和重复扣款",
+      "import": "https://x.ai/bot/7RIpLZecxdmVqwuYa8RyB",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/voltclerk/status/2124544466518155464"
+    },
+    {
+      "slug": "c64-emulator-by-brian",
+      "name": "C64 Emulator by Brian",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/BrianRoemmele"
+      },
+      "summary": "Real Commodore 64 emulator on your bot's own computer with 26 original BASIC games, played by keyboard",
+      "summary_zh": "在机器人自己的电脑上运行真实的 Commodore 64 模拟器，内置 26 个原创 BASIC 游戏，用键盘游玩",
+      "import": "https://x.ai/bot/umP9kND9C0gIaq8bh97EP",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/BrianRoemmele/status/2124542527546200162"
+    },
+    {
+      "slug": "do-nde-ver-cl-by-ce-sar",
+      "name": "Dónde ver? CL by César",
+      "author": {
+        "name": "César",
+        "url": "https://x.com/cesarnunezc"
+      },
+      "summary": "Tells you where to watch any film or series in Chile today, by subscription, rental, purchase or free, with source links",
+      "summary_zh": "告诉你今天在智利哪个平台能看某部电影或剧集，含订阅、租借、购买和免费方式并附来源链接",
+      "import": "https://x.ai/bot/hOmN4D8XygrKsiUpVJXWw",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/cesarnunezc/status/2124538278351171636"
+    },
+    {
+      "slug": "kitchen-manager-by-w4g3r",
+      "name": "Kitchen Manager by W4G3R",
+      "author": {
+        "name": "W4G3R",
+        "url": "https://x.com/xW4G3Rx"
+      },
+      "summary": "Plans family weeknight dinners, mostly easy crock pot meals, and fills your grocery cart with them plus lunch staples",
+      "summary_zh": "规划家庭工作日晚餐，以简单的慢炖锅菜为主，并把这些食材和午餐常备品放进购物车",
+      "import": "https://x.ai/bot/5k6Ex1eLHnMjBH-1b0wlj",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/xW4G3Rx/status/2124518324063371703"
+    },
+    {
+      "slug": "gift-holiday-deal-tracker-by-cat",
+      "name": "Gift & Holiday Deal Tracker by Cat",
+      "author": {
+        "name": "Cat",
+        "url": "https://x.com/Glidewell_AI"
+      },
+      "summary": "Turns your holiday list into a gift sheet with ideas, prices, deal alerts and order-by dates, and never buys anything",
+      "summary_zh": "把节日清单整理成礼物表，含创意、价格、优惠提醒和下单截止日期，从不替你购买",
+      "import": "https://x.ai/bot/Im6w3620BfmiCDWpFf3iZ",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/Glidewell_AI/status/2124505294323798275"
+    },
+    {
+      "slug": "gbotranked-safety-check-by-bugatsinho",
+      "name": "GBotRanked Safety Check by Bugatsinho",
+      "author": {
+        "name": "Bugatsinho",
+        "url": "https://x.com/bugatsinho"
+      },
+      "summary": "Paste a Grok Bot template link to get its GBotRanked safety score, decision and gaps in plain words, read-only",
+      "summary_zh": "粘贴 Grok Bot 模板链接即可用大白话得到安全评分、结论和不足，全程只读",
+      "import": "https://x.ai/bot/92XfuHX18z-EBZabTy1Ma",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/bugatsinho/status/2124504925266977000"
+    },
+    {
+      "slug": "clawdchain-bot-by-8",
+      "name": "clawdchain bot by 8",
+      "author": {
+        "name": "8",
+        "url": "https://x.com/0rdlibrary"
+      },
+      "summary": "Guide to Clawd Chain, an SVM test chain, covering the test CLAWD faucet, a test wallet and the launchpad walkthrough",
+      "summary_zh": "Clawd Chain 测试链指南，涵盖领取测试 CLAWD、使用测试钱包和发射台流程",
+      "import": "https://x.ai/bot/ylpRfpb1zDao2Tt2yMX1M",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw",
+      "source": "https://x.com/0rdlibrary/status/2124647890257887371"
+    },
+    {
+      "slug": "agentworld-by-shawn",
+      "name": "AgentWorld by Shawn",
+      "author": {
+        "name": "Shawn",
+        "url": "https://x.com/MagaShawn"
+      },
+      "summary": "Live desk for AgentWorld, a world of about 500 AI agents, to ask about its economy, cities and agents",
+      "summary_zh": "AgentWorld 实时问答台，可询问这个约 500 个 AI 代理世界的经济、城市和代理情况",
+      "import": "https://x.ai/bot/yuO-hJPFfKP-RRNWAiJjt",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-23",
+      "shelf": "raw"
     }
   ]
 }
