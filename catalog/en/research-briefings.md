@@ -931,3 +931,4 @@ Back to [README](../../README.md)
 - [Podcast Scout (Sowfold)](https://x.ai/bot/skXD3nLo4djzjBxNjLpdE) - Turns up to three podcast episodes a week into sourced, actionable fixes for your business problems. [Ravi](https://x.com/sowfold).
 - [Proof Hunter](https://x.ai/bot/UTHmG8NtAQP5_6mAxdPeT) - Checks whether a claim, link, project or product is true and returns a short sourced brief of what is confirmed. [Yap⚡️](https://x.com/Yap452).
 - [AgentWorld by Shawn](https://x.ai/bot/yuO-hJPFfKP-RRNWAiJjt) - Live desk for AgentWorld, a world of about 500 AI agents, to ask about its economy, cities and agents. [Shawn](https://x.com/MagaShawn).
+- [Launch Radar](https://x.ai/bot/W1ZunrS8__smXWvDglTtH) - Tracks open-weight AI model launches, pings you when a big one lands, and gives a plain-language plan to benchmark it on your own machine plus a draft post. [Pratik](https://x.com/pratikg).
