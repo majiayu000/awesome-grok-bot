@@ -933,3 +933,4 @@ Back to [README](../../README.md)
 - [AgentWorld by Shawn](https://x.ai/bot/yuO-hJPFfKP-RRNWAiJjt) - Live desk for AgentWorld, a world of about 500 AI agents, to ask about its economy, cities and agents. [Shawn](https://x.com/MagaShawn).
 - [Launch Radar](https://x.ai/bot/W1ZunrS8__smXWvDglTtH) - Tracks open-weight AI model launches, pings you when a big one lands, and gives a plain-language plan to benchmark it on your own machine plus a draft post. [Pratik](https://x.com/pratikg).
 - [Crypto Briefing](https://x.ai/bot/C8Y1l3d8fZ_9xvqnT_aXT) - Spanish-language personal crypto briefing bot with short mobile summaries of BTC, SOL and ETH prices and news. [valtierra40](https://x.com/valtierra40).
+- [YouTube Daily Playlist by Burns](https://x.ai/bot/ujVxxEmhnB_RoSs4imcA_) - Builds a private YouTube playlist every morning from new videos on subscribed channels with an optional trending pick. [Burns](https://x.com/BurnsZA).

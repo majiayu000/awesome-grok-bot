@@ -644,3 +644,4 @@ Back to [README](../../README.md)
 - [Buying Signal Detector by Maume](https://x.ai/bot/yEP3BhT243oI-ds0Hhm14) - Finds companies showing buying intent through job postings, fundraising and LinkedIn posts using Apify. [Maume](https://x.com/FabianMaume).
 - [SEO & AEO Master Chief by Anurag](https://x.ai/bot/xQNxqVgrkufCxFYj0RaSo) - SEO, AEO and GEO desk for a software brand that tracks whether AI answers name you and finds the pages they cite. [Anurag](https://x.com/anur7ag).
 - [Business Gift Finder by Enigma](https://x.ai/bot/c6uJXnPCVFRAhHs0XuMYa) - Business gift finder that suggests client and employee gifts from the number of recipients, occasion and budget per person. [Enigma](https://x.com/nft_Art).
+- [Pitch Rehearsal Partner by Infinity](https://x.ai/bot/5Zhh1lJ_NSNEBp0likOGP) - Rehearses your investor pitch section by section, plays a tough but fair investor, scores answers and tracks improvement. [Infinity](https://x.com/Falco_Secure).

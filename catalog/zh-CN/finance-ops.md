@@ -784,3 +784,5 @@
 - [SARS Tax Desk](https://x.ai/bot/ieM-uFUYzIfaXgTxegoy1) - 帮南非个人和小企业盯紧 SARS 税务，跟踪截止日期并在 eFiling 上备好申报表等你批准. [Infinity](https://x.com/Falco_Secure).
 - [Why It Moved](https://x.ai/bot/JPMCSfAbHhQ7PBmXT243C) - 输入任意股票代码或行情异动，给你一段带来源的简短解释，说明为什么会动. [Lasindu](https://x.com/LasinduLive).
 - [Stock Ladder Bot](https://x.ai/bot/qTPLJ7D8X0QwW1orQy3Bd) - 对照你的买卖价位盯股价，并用免费模拟盘的分批抄底阶梯来测试策略. James.
+- [Unclaimed Property Finder by Charles](https://x.ai/bot/yfgtIGAaVCMBf47EwmbFA) - 通过免费的官方州和联邦渠道查找被遗忘的账户、未兑现的支票等无人认领的钱款. [Charles](https://x.com/CryptoGent2).
+- [Creator Tax by Infinity](https://x.ai/bot/t1yEvqDy5xPmiNAqRA7qm) - 帮内容创作者在任何国家整理税务，从邮件记录收入、换算海外收款并跟踪可抵扣费用. [Infinity](https://x.com/Falco_Secure).

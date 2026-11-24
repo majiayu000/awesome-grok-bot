@@ -644,3 +644,4 @@
 - [Buying Signal Detector by Maume](https://x.ai/bot/yEP3BhT243oI-ds0Hhm14) - 通过招聘信息、融资消息和 LinkedIn 动态，借助 Apify 找出有购买意向的公司. [Maume](https://x.com/FabianMaume).
 - [SEO & AEO Master Chief by Anurag](https://x.ai/bot/xQNxqVgrkufCxFYj0RaSo) - 面向软件品牌的 SEO、AEO 和 GEO 工作台，追踪 AI 回答是否提到你并找出它们引用的页面. [Anurag](https://x.com/anur7ag).
 - [Business Gift Finder by Enigma](https://x.ai/bot/c6uJXnPCVFRAhHs0XuMYa) - 商务礼品助手，根据人数、场合和人均预算推荐客户和员工礼物. [Enigma](https://x.com/nft_Art).
+- [Pitch Rehearsal Partner by Infinity](https://x.ai/bot/5Zhh1lJ_NSNEBp0likOGP) - 逐段陪你演练融资路演，扮演严格但公平的投资人，给回答打分并跟踪进步. [Infinity](https://x.com/Falco_Secure).

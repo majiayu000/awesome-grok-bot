@@ -317,3 +317,5 @@
 - [Haru/CEO](https://x.ai/bot/OipaNGVpUJ2Ey5Dt-WL76) - 西班牙语协调助手，整理工作邮件、日历和目标，认真做研究，不会擅自发送任何内容. [JAVIER](https://x.com/javielementpr).
 - [WhatsApp by Rob](https://x.ai/bot/kguveFbl4okkrVP-zNd1R) - 读取、搜索并总结你的个人 WhatsApp 聊天，起草回复，需你批准后才会发送. [Rob](https://x.com/sia14u).
 - [Chief of Staff by Cat](https://x.ai/bot/MXcYNuK8a0nBjRpC4ArsV) - 温和有条理的幕僚长，服务小型事务所或个人业务，每个工作日早上根据日历发送摘要. [Cat](https://x.com/Glidewell_AI).
+- [Gina by Neil](https://x.ai/bot/iW5ZvFmnFpk6dgKqT9spo) - 深度清理 Gmail，清掉垃圾邮件并标出待办，附每周摘要和被遗漏的赚钱点子. [Neil](https://x.com/neilmwhite).
+- [Zoombot by Snehil](https://x.ai/bot/gTwt7ghDJo5DniErESJGn) - 盯着 Gmail 或 Outlook 里邮件约定的会议，你点一下就订好 Zoom 并发出日历邀请. [Snehil](https://x.com/sne_hil).

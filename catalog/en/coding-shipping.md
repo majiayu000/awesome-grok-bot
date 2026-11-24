@@ -972,3 +972,5 @@ Back to [README](../../README.md)
 - [Channel Lockdown](https://x.ai/bot/mf31AjqM_OBsF1hNSmsZU) - Helps creators and small businesses keep YouTube, Twitch, TikTok, Discord, X and other accounts from being taken over. [Mark](https://x.com/TheMarkGShow).
 - [DoneGuard by Michael](https://x.ai/bot/OSQ3d23RwqYlZnw8wU7Q3) - Coding verifier that blocks done until tests pass and protected files are untouched, set up for Claude Code and Codex. [Michael](https://x.com/MichaelKarvan).
 - [clawdchain bot by 8](https://x.ai/bot/ylpRfpb1zDao2Tt2yMX1M) - Guide to Clawd Chain, an SVM test chain, covering the test CLAWD faucet, a test wallet and the launchpad walkthrough. [8](https://x.com/0rdlibrary).
+- [CNC Shop Assistant by Infinity](https://x.ai/bot/Cnluy0v4RrSPUteNli5-b) - Writes simulated, commented G-code for CNC mills, lathes and routers, with setup notes, in metric or inch. [Infinity](https://x.com/Falco_Secure).
+- [Claude Builder by Infinity](https://x.ai/bot/ra0yzM7d4qyRlqcx0CKkN) - Builds working tested software for you with Claude through your own Anthropic API key and reports the real cost. [Infinity](https://x.com/Falco_Secure).

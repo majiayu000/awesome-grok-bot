@@ -784,3 +784,5 @@ Back to [README](../../README.md)
 - [SARS Tax Desk](https://x.ai/bot/ieM-uFUYzIfaXgTxegoy1) - Keeps a South African owner and their business current with SARS, tracking deadlines and preparing returns on eFiling for your approval. [Infinity](https://x.com/Falco_Secure).
 - [Why It Moved](https://x.ai/bot/JPMCSfAbHhQ7PBmXT243C) - Type any ticker or market move and get a short, sourced explanation of why it moved. [Lasindu](https://x.com/LasinduLive).
 - [Stock Ladder Bot](https://x.ai/bot/qTPLJ7D8X0QwW1orQy3Bd) - Watches your stock prices against your buy and sell levels and runs a free paper-trading dip ladder to test strategies. James.
+- [Unclaimed Property Finder by Charles](https://x.ai/bot/yfgtIGAaVCMBf47EwmbFA) - Finds forgotten accounts, uncashed checks and other unclaimed money through free official state and federal sources. [Charles](https://x.com/CryptoGent2).
+- [Creator Tax by Infinity](https://x.ai/bot/t1yEvqDy5xPmiNAqRA7qm) - Keeps a content creator's tax in order in any country by logging income from email, converting payouts and tracking deductible costs. [Infinity](https://x.com/Falco_Secure).

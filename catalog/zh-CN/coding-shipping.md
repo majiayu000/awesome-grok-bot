@@ -972,3 +972,5 @@
 - [Channel Lockdown](https://x.ai/bot/mf31AjqM_OBsF1hNSmsZU) - 帮创作者和小商家防止 YouTube、Twitch、TikTok、Discord、X 等账号被盗用. [Mark](https://x.com/TheMarkGShow).
 - [DoneGuard by Michael](https://x.ai/bot/OSQ3d23RwqYlZnw8wU7Q3) - 编码验证器，测试通过且受保护文件未被改动之前不算完成，可配合 Claude Code 和 Codex 使用. [Michael](https://x.com/MichaelKarvan).
 - [clawdchain bot by 8](https://x.ai/bot/ylpRfpb1zDao2Tt2yMX1M) - Clawd Chain 测试链指南，涵盖领取测试 CLAWD、使用测试钱包和发射台流程. [8](https://x.com/0rdlibrary).
+- [CNC Shop Assistant by Infinity](https://x.ai/bot/Cnluy0v4RrSPUteNli5-b) - 为 CNC 铣床、车床和雕刻机编写带注释的模拟 G 代码并附设置说明，支持公制和英制. [Infinity](https://x.com/Falco_Secure).
+- [Claude Builder by Infinity](https://x.ai/bot/ra0yzM7d4qyRlqcx0CKkN) - 通过你自己的 Anthropic API 密钥用 Claude 为你构建可运行并经过测试的软件，并报告真实费用. [Infinity](https://x.com/Falco_Secure).

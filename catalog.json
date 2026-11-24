@@ -168595,6 +168595,536 @@
       "verified": false,
       "updated": "2026-11-24",
       "shelf": "raw"
+    },
+    {
+      "slug": "cnc-shop-assistant-by-infinity",
+      "name": "CNC Shop Assistant by Infinity",
+      "author": {
+        "name": "Infinity",
+        "url": "https://x.com/Falco_Secure"
+      },
+      "summary": "Writes simulated, commented G-code for CNC mills, lathes and routers, with setup notes, in metric or inch",
+      "summary_zh": "为 CNC 铣床、车床和雕刻机编写带注释的模拟 G 代码并附设置说明，支持公制和英制",
+      "import": "https://x.ai/bot/Cnluy0v4RrSPUteNli5-b",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/Falco_Secure/status/2125201908142858592"
+    },
+    {
+      "slug": "unclaimed-property-finder-by-charles",
+      "name": "Unclaimed Property Finder by Charles",
+      "author": {
+        "name": "Charles",
+        "url": "https://x.com/CryptoGent2"
+      },
+      "summary": "Finds forgotten accounts, uncashed checks and other unclaimed money through free official state and federal sources",
+      "summary_zh": "通过免费的官方州和联邦渠道查找被遗忘的账户、未兑现的支票等无人认领的钱款",
+      "import": "https://x.ai/bot/yfgtIGAaVCMBf47EwmbFA",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/CryptoGent2/status/2125202223445496172"
+    },
+    {
+      "slug": "poke-mon-card-helper-by-binderradar",
+      "name": "Pokémon Card Helper by BinderRadar",
+      "author": {
+        "name": "BinderRadar",
+        "url": "https://x.com/BinderRadar"
+      },
+      "summary": "Pokémon TCG helper that identifies cards, checks grading costs and points you to live prices, UK-first",
+      "summary_zh": "宝可梦卡牌助手，识别卡片、核对评级费用并指向实时价格，优先面向英国用户",
+      "import": "https://x.ai/bot/UCuQfQUYnwi8Fbl8u0nDp",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/BinderRadar/status/2125200807624622450"
+    },
+    {
+      "slug": "timeout-by-realopenarmy",
+      "name": "Timeout by RealOpenArmy",
+      "author": {
+        "name": "RealOpenArmy",
+        "url": "https://x.com/RealOpenArmy"
+      },
+      "summary": "Handles timeouts in X group chats where you are admin by removing and re-adding members after a set time",
+      "summary_zh": "在你担任管理员的 X 群聊里处理禁言，先移除成员再在设定时间后重新拉回",
+      "import": "https://x.ai/bot/rKe0MAvgK3rJx6gNvj4d_",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/RealOpenArmy/status/2125199502151753921"
+    },
+    {
+      "slug": "shelf-clock-by-keith",
+      "name": "Shelf Clock by Keith",
+      "author": {
+        "name": "Keith",
+        "url": "https://x.com/blinkmuted"
+      },
+      "summary": "Keeps every KDP book's clock, from pre-order cutoffs and Select terms to free days and Countdown Deal locks, and warns before dates pass",
+      "summary_zh": "管理每本 KDP 图书的时间表，包括预购截止、Select 期限、免费日和倒计时优惠，并在到期前提醒",
+      "import": "https://x.ai/bot/0TYGPHulLUAQmcxOrFtbI",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/blinkmuted/status/2125199159389032856"
+    },
+    {
+      "slug": "claude-builder-by-infinity",
+      "name": "Claude Builder by Infinity",
+      "author": {
+        "name": "Infinity",
+        "url": "https://x.com/Falco_Secure"
+      },
+      "summary": "Builds working tested software for you with Claude through your own Anthropic API key and reports the real cost",
+      "summary_zh": "通过你自己的 Anthropic API 密钥用 Claude 为你构建可运行并经过测试的软件，并报告真实费用",
+      "import": "https://x.ai/bot/ra0yzM7d4qyRlqcx0CKkN",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/Falco_Secure/status/2125196945698525645"
+    },
+    {
+      "slug": "youtube-daily-playlist-by-burns",
+      "name": "YouTube Daily Playlist by Burns",
+      "author": {
+        "name": "Burns",
+        "url": "https://x.com/BurnsZA"
+      },
+      "summary": "Builds a private YouTube playlist every morning from new videos on subscribed channels with an optional trending pick",
+      "summary_zh": "每天早上用你订阅频道的新视频生成私人 YouTube 播放列表，还可加入一条热门推荐",
+      "import": "https://x.ai/bot/ujVxxEmhnB_RoSs4imcA_",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/BurnsZA/status/2125184634661306846"
+    },
+    {
+      "slug": "present-shopping-by-burns",
+      "name": "Present Shopping by Burns",
+      "author": {
+        "name": "Burns",
+        "url": "https://x.com/BurnsZA"
+      },
+      "summary": "Finds ten gift ideas per person within budget for Christmas and birthdays, on a dashboard with photos, prices and order-by dates",
+      "summary_zh": "为圣诞和生日按预算给每个人找十个礼物创意，用带图片、价格和下单截止日的看板展示",
+      "import": "https://x.ai/bot/sqsDlTTzWloNnh8s5bhia",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/BurnsZA/status/2125192612848275888"
+    },
+    {
+      "slug": "creator-tax-by-infinity",
+      "name": "Creator Tax by Infinity",
+      "author": {
+        "name": "Infinity",
+        "url": "https://x.com/Falco_Secure"
+      },
+      "summary": "Keeps a content creator's tax in order in any country by logging income from email, converting payouts and tracking deductible costs",
+      "summary_zh": "帮内容创作者在任何国家整理税务，从邮件记录收入、换算海外收款并跟踪可抵扣费用",
+      "import": "https://x.ai/bot/t1yEvqDy5xPmiNAqRA7qm",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "shopping",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/Falco_Secure/status/2125190804788699374"
+    },
+    {
+      "slug": "pitch-rehearsal-partner-by-infinity",
+      "name": "Pitch Rehearsal Partner by Infinity",
+      "author": {
+        "name": "Infinity",
+        "url": "https://x.com/Falco_Secure"
+      },
+      "summary": "Rehearses your investor pitch section by section, plays a tough but fair investor, scores answers and tracks improvement",
+      "summary_zh": "逐段陪你演练融资路演，扮演严格但公平的投资人，给回答打分并跟踪进步",
+      "import": "https://x.ai/bot/5Zhh1lJ_NSNEBp0likOGP",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/Falco_Secure/status/2125189675576860804"
+    },
+    {
+      "slug": "scam-check-by-infinity",
+      "name": "Scam Check by Infinity",
+      "author": {
+        "name": "Infinity",
+        "url": "https://x.com/Falco_Secure"
+      },
+      "summary": "Checks any deal, store, listing, link or message before you pay and rates it safe, risky or scam with plain reasons",
+      "summary_zh": "在你付款前检查任何交易、店铺、链接或消息，并给出安全、有风险或诈骗的评级和通俗理由",
+      "import": "https://x.ai/bot/U28NV55QIyqjXyCPt7fN3",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/Falco_Secure/status/2125188976571277338"
+    },
+    {
+      "slug": "hacked-account-rescue-by-infinity",
+      "name": "Hacked Account Rescue by Infinity",
+      "author": {
+        "name": "Infinity",
+        "url": "https://x.com/Falco_Secure"
+      },
+      "summary": "Guides you step by step through official recovery steps to get a hacked Instagram, TikTok or WhatsApp account back",
+      "summary_zh": "一步步带你按官方恢复流程找回被盗的 Instagram、TikTok 或 WhatsApp 账号",
+      "import": "https://x.ai/bot/DKXEf3u8P7y2niYNZAgKs",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/Falco_Secure/status/2125185145816629505"
+    },
+    {
+      "slug": "3-by",
+      "name": "쇼츠 3종 제작 by 두환",
+      "author": {
+        "name": "두환",
+        "url": "https://x.com/LainHolic"
+      },
+      "summary": "Makes three YouTube Shorts packages with scripts, per-scene image and video prompts and upload copy ready to paste",
+      "summary_zh": "生成三种 YouTube Shorts 的成套内容，包含脚本、分镜图片和视频提示词以及可直接复制的上传文案",
+      "import": "https://x.ai/bot/P3KJsHYFYGgmBC3eb98g_",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/LainHolic/status/2125184962005811692"
+    },
+    {
+      "slug": "aperio-by-realopenarmy",
+      "name": "Aperio by RealOpenArmy",
+      "author": {
+        "name": "RealOpenArmy",
+        "url": "https://x.com/RealOpenArmy"
+      },
+      "summary": "Helps you find a home you love, see what yours is worth and plan the move in one chat",
+      "summary_zh": "在一次对话里帮你找到心仪的房子、估算自家房价并规划搬家",
+      "import": "https://x.ai/bot/5pFJRjae4QCTy0kiongS3",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/RealOpenArmy/status/2125184905835434399"
+    },
+    {
+      "slug": "gina-by-neil",
+      "name": "Gina by Neil",
+      "author": {
+        "name": "Neil",
+        "url": "https://x.com/neilmwhite"
+      },
+      "summary": "Deep-cleans Gmail by clearing junk and flagging what needs action, with weekly digests and missed money-making ideas",
+      "summary_zh": "深度清理 Gmail，清掉垃圾邮件并标出待办，附每周摘要和被遗漏的赚钱点子",
+      "import": "https://x.ai/bot/iW5ZvFmnFpk6dgKqT9spo",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/neilmwhite/status/2125173839277822245"
+    },
+    {
+      "slug": "x-following-cleanup-by-chamdom-eth",
+      "name": "X Following Cleanup by chamdom.eth",
+      "author": {
+        "name": "chamdom.eth",
+        "url": "https://x.com/chamdom"
+      },
+      "summary": "Shows what an X following cleanup will cost first, then removes follows by your own rules such as inactive since a date",
+      "summary_zh": "先告诉你清理 X 关注列表要花多少，再按你自定的规则（如某日期后不活跃）批量取消关注",
+      "import": "https://x.ai/bot/cepUiOxqVUSArHAbE3wqS",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/chamdom/status/2125173572591349764"
+    },
+    {
+      "slug": "sir-frazer-by-radical-turtllxix",
+      "name": "Sir Frazer by Radical❀𝒕𝒖𝒓𝒕𝒍LXIX",
+      "author": {
+        "name": "Radical❀𝒕𝒖𝒓𝒕𝒍LXIX",
+        "url": "https://x.com/CTurtle62700"
+      },
+      "summary": "Warm playful mythological advisor in the spirit of a classics teacher who answers with a real Greek story",
+      "summary_zh": "亲切有趣的神话顾问，像一位古典文学老师，用真实的希腊故事回答你的问题",
+      "import": "https://x.ai/bot/rp8oo2NiqMWm8WsIAzX9k",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/CTurtle62700/status/2125171436843385330"
+    },
+    {
+      "slug": "zoombot-by-snehil",
+      "name": "Zoombot by Snehil",
+      "author": {
+        "name": "Snehil",
+        "url": "https://x.com/sne_hil"
+      },
+      "summary": "Watches Gmail or Outlook for meetings agreed by email and books them on Zoom with a calendar invite after one tap",
+      "summary_zh": "盯着 Gmail 或 Outlook 里邮件约定的会议，你点一下就订好 Zoom 并发出日历邀请",
+      "import": "https://x.ai/bot/gTwt7ghDJo5DniErESJGn",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/sne_hil/status/2125167956883890562"
+    },
+    {
+      "slug": "murphy-bot-by-carsten",
+      "name": "Murphy Bot by Carsten",
+      "author": {
+        "name": "Carsten",
+        "url": "https://x.com/clicknomore"
+      },
+      "summary": "Personal affirmations after Joseph Murphy that help you name what you want so your subconscious starts building it",
+      "summary_zh": "按约瑟夫·墨菲的方法生成个人肯定语，帮你说出真正想要的东西，让潜意识开始行动",
+      "import": "https://x.ai/bot/n5Vc4aUwLe73FwJHIyHNC",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/clicknomore/status/2125150145809387564"
+    },
+    {
+      "slug": "by-2",
+      "name": "续火花 by 衣",
+      "author": {
+        "name": "衣",
+        "url": "https://x.com/baiyiblockchain"
+      },
+      "summary": "Uses your Douyin web account to share one hot funny video a day with chosen friends to keep streaks alive and verifies delivery",
+      "summary_zh": "每天用你的抖音网页版给指定好友各分享一条热门搞笑视频来续火花，并核对确实发出",
+      "import": "https://x.ai/bot/qav5f4O9FXLr8XMbE6elw",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/baiyiblockchain/status/2125150566355738694"
+    },
+    {
+      "slug": "lipper-by",
+      "name": "Сlipper by Артем",
+      "author": {
+        "name": "Артем",
+        "url": "https://x.com/laki_0x"
+      },
+      "summary": "Finds clip-worthy moments in top podcasts on X and YouTube for your niche, with timestamps and ready captions",
+      "summary_zh": "按你的细分领域在 X 和 YouTube 的热门播客里找值得剪辑的片段，附时间戳和现成字幕",
+      "import": "https://x.ai/bot/RqI6PY5EFcvGIpNCt3MoZ",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/laki_0x/status/2125147580351098945"
+    },
+    {
+      "slug": "alva-electronics-tutor-by-atres",
+      "name": "Alva - electronics tutor by atres",
+      "author": {
+        "name": "atres",
+        "url": "https://x.com/atres_"
+      },
+      "summary": "Friendly shop teacher that teaches electronics from zero with short lessons, quizzes and real Arduino builds",
+      "summary_zh": "亲切的电子学老师，从零开始教电子，包含短课程、小测验和真实的 Arduino 制作",
+      "import": "https://x.ai/bot/pW7zG_Zi_T1dRkk9otlE3",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/atres_/status/2125146531993182221"
+    },
+    {
+      "slug": "qualified-count-by-bret",
+      "name": "Qualified Count by Bret",
+      "author": {
+        "name": "Bret",
+        "url": "https://x.com/time2gsm"
+      },
+      "summary": "Shows X creators how much of their reach lands on posts that can pay, with eligibility and gap to Creator Rewards payout",
+      "summary_zh": "帮 X 创作者看清多少曝光落在可获得收益的帖子上，跟踪资格和距离创作者奖励的差距",
+      "import": "https://x.ai/bot/sNn4VgpRV9545badL6ud6",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/time2gsm/status/2125129712649560429"
+    },
+    {
+      "slug": "preisfuchs-dach-by-dariusz",
+      "name": "Preisfuchs DACH by Dariusz",
+      "author": {
+        "name": "Dariusz",
+        "url": "https://x.com/die54minute"
+      },
+      "summary": "German-language price and deal scout for Germany, Austria and Switzerland that watches products and brands with true total prices",
+      "summary_zh": "面向德国、奥地利和瑞士的德语比价与优惠助手，监控商品和品牌并给出含运费的真实总价",
+      "import": "https://x.ai/bot/nrJ7s9x6Ji0PN5KDu5L67",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/die54minute/status/2125130232437059823"
+    },
+    {
+      "slug": "x-money-path-by-bret",
+      "name": "X Money Path by Bret",
+      "author": {
+        "name": "Bret",
+        "url": "https://x.com/time2gsm"
+      },
+      "summary": "Helps X users stuck on X Money setup, card linking or late creator payouts figure out the cause and get a support message",
+      "summary_zh": "帮卡在 X Money 设置、绑卡或创作者收款延迟的用户找出原因，并生成给客服的消息",
+      "import": "https://x.ai/bot/kaFOUMnf3CCj1puVo4z0z",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-24",
+      "shelf": "raw",
+      "source": "https://x.com/time2gsm/status/2125129165527798199"
     }
   ]
 }

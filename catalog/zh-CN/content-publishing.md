@@ -1079,3 +1079,10 @@
 - [Tomo Grok Bot Studio](https://x.ai/bot/Q9o0vVtfK6lNY0Wee5-wh) - 你的专属 AI 新闻主播，选好角色、声音和新闻台，就生成 40 到 60 秒带署名素材的新闻短片和 X 文案. [Tomo](https://x.com/tomo_stream).
 - [Threadbare](https://x.ai/bot/ScXh7v1HWfTNBIVBRYUgY) - 盯着社交媒体热点，给出带现成提示词的 AI 图片创意，并按你选的风格生成. [Phantom](https://x.com/jason_jasonetc).
 - [Painter Bot](https://x.ai/bot/8jYqvY2Nj3eDTMFxBXZjs) - 画原创油画延时视频和搞笑黑墨水漫画像，做好直接发社交媒体. [Ben](https://x.com/BenBusker).
+- [Timeout by RealOpenArmy](https://x.ai/bot/rKe0MAvgK3rJx6gNvj4d_) - 在你担任管理员的 X 群聊里处理禁言，先移除成员再在设定时间后重新拉回. [RealOpenArmy](https://x.com/RealOpenArmy).
+- [Shelf Clock by Keith](https://x.ai/bot/0TYGPHulLUAQmcxOrFtbI) - 管理每本 KDP 图书的时间表，包括预购截止、Select 期限、免费日和倒计时优惠，并在到期前提醒. [Keith](https://x.com/blinkmuted).
+- [쇼츠 3종 제작 by 두환](https://x.ai/bot/P3KJsHYFYGgmBC3eb98g_) - 生成三种 YouTube Shorts 的成套内容，包含脚本、分镜图片和视频提示词以及可直接复制的上传文案. [두환](https://x.com/LainHolic).
+- [X Following Cleanup by chamdom.eth](https://x.ai/bot/cepUiOxqVUSArHAbE3wqS) - 先告诉你清理 X 关注列表要花多少，再按你自定的规则（如某日期后不活跃）批量取消关注. [chamdom.eth](https://x.com/chamdom).
+- [Сlipper by Артем](https://x.ai/bot/RqI6PY5EFcvGIpNCt3MoZ) - 按你的细分领域在 X 和 YouTube 的热门播客里找值得剪辑的片段，附时间戳和现成字幕. [Артем](https://x.com/laki_0x).
+- [Qualified Count by Bret](https://x.ai/bot/sNn4VgpRV9545badL6ud6) - 帮 X 创作者看清多少曝光落在可获得收益的帖子上，跟踪资格和距离创作者奖励的差距. [Bret](https://x.com/time2gsm).
+- [X Money Path by Bret](https://x.ai/bot/kaFOUMnf3CCj1puVo4z0z) - 帮卡在 X Money 设置、绑卡或创作者收款延迟的用户找出原因，并生成给客服的消息. [Bret](https://x.com/time2gsm).

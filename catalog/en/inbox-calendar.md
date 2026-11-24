@@ -317,3 +317,5 @@ Back to [README](../../README.md)
 - [Haru/CEO](https://x.ai/bot/OipaNGVpUJ2Ey5Dt-WL76) - Spanish-language coordinator that organizes work email, calendar and goals, researches carefully and never sends on its own. [JAVIER](https://x.com/javielementpr).
 - [WhatsApp by Rob](https://x.ai/bot/kguveFbl4okkrVP-zNd1R) - Reads, searches and summarizes your personal WhatsApp chats and drafts replies you approve before anything is sent. [Rob](https://x.com/sia14u).
 - [Chief of Staff by Cat](https://x.ai/bot/MXcYNuK8a0nBjRpC4ArsV) - Warm, organized chief of staff for a small practice or solo business with a weekday morning digest from your calendar. [Cat](https://x.com/Glidewell_AI).
+- [Gina by Neil](https://x.ai/bot/iW5ZvFmnFpk6dgKqT9spo) - Deep-cleans Gmail by clearing junk and flagging what needs action, with weekly digests and missed money-making ideas. [Neil](https://x.com/neilmwhite).
+- [Zoombot by Snehil](https://x.ai/bot/gTwt7ghDJo5DniErESJGn) - Watches Gmail or Outlook for meetings agreed by email and books them on Zoom with a calendar invite after one tap. [Snehil](https://x.com/sne_hil).

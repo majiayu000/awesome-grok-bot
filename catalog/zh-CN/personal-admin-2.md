@@ -265,3 +265,13 @@
 - [Flight Overhead Spotter](https://x.ai/bot/PV07f1pIYon9lVnZp6rby) - 用免费公开航班数据盯着你美国住处上空，有军机、紧急代码、直升机、低飞航班或你指定的机尾号出现就提醒你. [CAPT](https://x.com/hotwire405).
 - [Vote Scalley](https://x.ai/bot/3krEsemFFzSRxZj7kZVGS) - 每天自动替你为犹他大学教练 Morgan Scalley 投一张免费球迷票，直到投票结束. [AllInOnUtes](https://x.com/HookedOnUtes).
 - [Fridge Bot](https://x.ai/bot/7IMoAFIM4nFY_YZFva0Ik) - 拍一张冰箱、冷冻室或储物柜，给你三道今晚就能做的晚餐，并把过敏当作硬性规则. [BotMan](https://x.com/BotManHQ).
+- [Pokémon Card Helper by BinderRadar](https://x.ai/bot/UCuQfQUYnwi8Fbl8u0nDp) - 宝可梦卡牌助手，识别卡片、核对评级费用并指向实时价格，优先面向英国用户. [BinderRadar](https://x.com/BinderRadar).
+- [Present Shopping by Burns](https://x.ai/bot/sqsDlTTzWloNnh8s5bhia) - 为圣诞和生日按预算给每个人找十个礼物创意，用带图片、价格和下单截止日的看板展示. [Burns](https://x.com/BurnsZA).
+- [Scam Check by Infinity](https://x.ai/bot/U28NV55QIyqjXyCPt7fN3) - 在你付款前检查任何交易、店铺、链接或消息，并给出安全、有风险或诈骗的评级和通俗理由. [Infinity](https://x.com/Falco_Secure).
+- [Hacked Account Rescue by Infinity](https://x.ai/bot/DKXEf3u8P7y2niYNZAgKs) - 一步步带你按官方恢复流程找回被盗的 Instagram、TikTok 或 WhatsApp 账号. [Infinity](https://x.com/Falco_Secure).
+- [Aperio by RealOpenArmy](https://x.ai/bot/5pFJRjae4QCTy0kiongS3) - 在一次对话里帮你找到心仪的房子、估算自家房价并规划搬家. [RealOpenArmy](https://x.com/RealOpenArmy).
+- [Sir Frazer by Radical❀𝒕𝒖𝒓𝒕𝒍LXIX](https://x.ai/bot/rp8oo2NiqMWm8WsIAzX9k) - 亲切有趣的神话顾问，像一位古典文学老师，用真实的希腊故事回答你的问题. [Radical❀𝒕𝒖𝒓𝒕𝒍LXIX](https://x.com/CTurtle62700).
+- [Murphy Bot by Carsten](https://x.ai/bot/n5Vc4aUwLe73FwJHIyHNC) - 按约瑟夫·墨菲的方法生成个人肯定语，帮你说出真正想要的东西，让潜意识开始行动. [Carsten](https://x.com/clicknomore).
+- [续火花 by 衣](https://x.ai/bot/qav5f4O9FXLr8XMbE6elw) - 每天用你的抖音网页版给指定好友各分享一条热门搞笑视频来续火花，并核对确实发出. [衣](https://x.com/baiyiblockchain).
+- [Alva - electronics tutor by atres](https://x.ai/bot/pW7zG_Zi_T1dRkk9otlE3) - 亲切的电子学老师，从零开始教电子，包含短课程、小测验和真实的 Arduino 制作. [atres](https://x.com/atres_).
+- [Preisfuchs DACH by Dariusz](https://x.ai/bot/nrJ7s9x6Ji0PN5KDu5L67) - 面向德国、奥地利和瑞士的德语比价与优惠助手，监控商品和品牌并给出含运费的真实总价. [Dariusz](https://x.com/die54minute).
