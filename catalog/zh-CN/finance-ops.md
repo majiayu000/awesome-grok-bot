@@ -781,3 +781,6 @@
 - [Refund Hunter by Eric](https://x.ai/bot/7RIpLZecxdmVqwuYa8RyB) - 找出承诺过却没拿到的退款，比如未入账的退货、已扣费的取消订单和重复扣款. [Eric](https://x.com/voltclerk).
 - [Claim Filer by Matthew](https://x.ai/bot/N4nibpbC2g6RoGMzKtOkz) - 通过搜索你的全部邮件（含垃圾邮件）里的管理方通知，查明你是否能从集体诉讼和解中拿到钱. [Matthew](https://x.com/bostonaholic).
 - [Money & Stocks by TheWakeninq2](https://x.ai/bot/ALjahPEPDK2pDzcpwIOfC) - 说话直白的理财伙伴，帮你做预算、存钱和学习投资，并提供股票和 ETF 研究. [TheWakeninq2](https://x.com/thewakeninq).
+- [SARS Tax Desk](https://x.ai/bot/ieM-uFUYzIfaXgTxegoy1) - 帮南非个人和小企业盯紧 SARS 税务，跟踪截止日期并在 eFiling 上备好申报表等你批准. [Infinity](https://x.com/Falco_Secure).
+- [Why It Moved](https://x.ai/bot/JPMCSfAbHhQ7PBmXT243C) - 输入任意股票代码或行情异动，给你一段带来源的简短解释，说明为什么会动. [Lasindu](https://x.com/LasinduLive).
+- [Stock Ladder Bot](https://x.ai/bot/qTPLJ7D8X0QwW1orQy3Bd) - 对照你的买卖价位盯股价，并用免费模拟盘的分批抄底阶梯来测试策略. James.

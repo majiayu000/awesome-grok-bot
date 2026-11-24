@@ -781,3 +781,6 @@ Back to [README](../../README.md)
 - [Refund Hunter by Eric](https://x.ai/bot/7RIpLZecxdmVqwuYa8RyB) - Finds refunds you were promised but never got, such as uncredited returns, charged cancellations and duplicate charges. [Eric](https://x.com/voltclerk).
 - [Claim Filer by Matthew](https://x.ai/bot/N4nibpbC2g6RoGMzKtOkz) - Checks whether you are owed money from a class-action settlement by searching all your mail, including spam, for the administrator's notice. [Matthew](https://x.com/bostonaholic).
 - [Money & Stocks by TheWakeninq2](https://x.ai/bot/ALjahPEPDK2pDzcpwIOfC) - Plain-talking money friend that helps you budget, save and learn to invest, with stock and ETF research. [TheWakeninq2](https://x.com/thewakeninq).
+- [SARS Tax Desk](https://x.ai/bot/ieM-uFUYzIfaXgTxegoy1) - Keeps a South African owner and their business current with SARS, tracking deadlines and preparing returns on eFiling for your approval. [Infinity](https://x.com/Falco_Secure).
+- [Why It Moved](https://x.ai/bot/JPMCSfAbHhQ7PBmXT243C) - Type any ticker or market move and get a short, sourced explanation of why it moved. [Lasindu](https://x.com/LasinduLive).
+- [Stock Ladder Bot](https://x.ai/bot/qTPLJ7D8X0QwW1orQy3Bd) - Watches your stock prices against your buy and sell levels and runs a free paper-trading dip ladder to test strategies. James.

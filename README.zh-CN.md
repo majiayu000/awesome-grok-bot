@@ -13,7 +13,7 @@
 > 可预览、可导入的 Grok Bot 公开分享（`x.ai/bot`），附真人使用案例。
 
 <!-- generated:catalog-snapshot-start -->
-目录快照 · 2026-11-24 · **0 条已核验 / 8098 条已收录**
+目录快照 · 2026-11-24 · **0 条已核验 / 8109 条已收录**
 <!-- generated:catalog-snapshot-end -->
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
@@ -118,11 +118,11 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Inbox & calendar](#inbox--calendar) | 315 |
 | [Research & briefings](#research--briefings) | 931 |
 | [Customer & sales](#customer--sales) | 642 |
-| [Finance & ops](#finance--ops) | 779 |
-| [Content & publishing](#content--publishing) | 1074 |
-| [Personal admin](#personal-admin) | 2489 |
-| [Teams & handoffs](#teams--handoffs) | 898 |
-| **合计** | **8098** |
+| [Finance & ops](#finance--ops) | 782 |
+| [Content & publishing](#content--publishing) | 1077 |
+| [Personal admin](#personal-admin) | 2492 |
+| [Teams & handoffs](#teams--handoffs) | 900 |
+| **合计** | **8109** |
 
 2026 年 10 月 27 日检查时，6688 个分享页中 6649 个返回 HTTP 200（39 个旧分享已变 404）；2026 年 11 月 2 日新候选 726 个中 711 个返回 200（15 个 404 已跳过）；2026 年 11 月 3 日新增 66 个分享均返回 200；2026 年 11 月 4 日又新增 52 个，均返回 200；2026 年 11 月 6 日又新增 108 个，均返回 200；同日下午增量又新增 15 个，均返回 200；同日晚间增量又新增 14 个，均返回 200。2026-11-07 又有 32 个新分享返回 200 并已收录；同日下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，均返回 200。2026 年 11 月 8 日又新增 21 个，均返回 200；11 月 9 日下午增量又新增 8 个，均返回 200；11 月 10 日上午全量又新增 24 个、下午增量又新增 7 个、晚间增量又新增 1 个，均返回 200；11 月 11 日上午全量又新增 33 个，下午增量又新增 15 个、晚间增量又新增 4 个；2026 年 11 月 12 日上午全量又新增 33 个，下午增量又新增 8 个，晚间增量又新增 1 个，均返回 200；2026 年 11 月 13 日上午全量又新增 22 个，下午增量新增 5 个，晚间增量又新增 2 个，11 月 14 日上午全量再新增 26 个，下午增量再新增 4 个，晚间增量再新增 5 个，15 日早间全量再新增 10 个，下午增量再新增 5 个，晚间增量再新增 3 个，11 月 16 日早间全量新增 11 个，下午增量再新增 8 个，晚间增量再新增 2 个，11 月 17 日早间全量新增 14 个，下午增量新增 10 个，晚间增量新增 1 个，11 月 18 日早间全量新增 19 个，午后增量新增 3 个，晚间增量新增 10 个，11 月 19 日早间全量新增 23 个，午后增量新增 9 个，晚间增量新增 5 个，11 月 20 日早间全量新增 29 个，午后增量新增 11 个，晚间增量新增 1 个，11 月 21 日早间全量新增 12 个，下午增量再新增 1 个，晚间增量新增 4 个，11 月 22 日早间全量新增 15 个，午后补漏新增 1 个，11 月 23 日早间全量新增 17 个，午后增量新增 3 个，均返回 200。能打开不等于安全或好用。核验所需证据见[维护者检查步骤](docs/vetting.md#run-a-documented-first-task)。
 
@@ -280,19 +280,19 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Finance & ops
 
-完整列表（779 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（782 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
-完整列表（1074 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（1077 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（2489 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
+完整列表（2492 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)、[catalog/zh-CN/personal-admin-2.md](catalog/zh-CN/personal-admin-2.md)
 
 ## Teams & handoffs
 
-完整列表（898 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（900 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

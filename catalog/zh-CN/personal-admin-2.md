@@ -262,3 +262,6 @@
 - [Personal Privacy Opt-Out Bot by Repping](https://x.ai/bot/r40VJSNI2ErKLrEvlEzfv) - 从数据经纪商和人员搜索网站移除你家庭的个人信息，并发送拒绝出售请求. [Repping](https://x.com/reppingalpha).
 - [Subscription Cleaner by DeFi](https://x.ai/bot/_czlf_Y8joasIG3jaHabg) - 找出通过 Google 账号计费的所有订阅，包括 Google Play、Google One 和 YouTube，并协助取消. [DeFi](https://x.com/ModestusOkoye).
 - [VA Claims Helper by X](https://x.ai/bot/E-QnTP06ULAY9iZzBJXYE) - 耐心且表达直白的助手，帮助退伍军人整理 VA 索赔并撰写个人和战友陈述. [X](https://x.com/VeteranPrepper).
+- [Flight Overhead Spotter](https://x.ai/bot/PV07f1pIYon9lVnZp6rby) - 用免费公开航班数据盯着你美国住处上空，有军机、紧急代码、直升机、低飞航班或你指定的机尾号出现就提醒你. [CAPT](https://x.com/hotwire405).
+- [Vote Scalley](https://x.ai/bot/3krEsemFFzSRxZj7kZVGS) - 每天自动替你为犹他大学教练 Morgan Scalley 投一张免费球迷票，直到投票结束. [AllInOnUtes](https://x.com/HookedOnUtes).
+- [Fridge Bot](https://x.ai/bot/7IMoAFIM4nFY_YZFva0Ik) - 拍一张冰箱、冷冻室或储物柜，给你三道今晚就能做的晚餐，并把过敏当作硬性规则. [BotMan](https://x.com/BotManHQ).

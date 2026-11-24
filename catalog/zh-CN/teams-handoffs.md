@@ -900,3 +900,5 @@
 - [GBotRanked Safety Check by Bugatsinho](https://x.ai/bot/92XfuHX18z-EBZabTy1Ma) - 粘贴 Grok Bot 模板链接即可用大白话得到安全评分、结论和不足，全程只读. [Bugatsinho](https://x.com/bugatsinho).
 - [Angry Boss Bot by Todd](https://x.ai/bot/9YiGEyzIDGXQeIy2zjXAY) - 面向管理一群 AI 机器人的人，直截了当地找出你的机器人老是出错的原因. [Todd](https://x.com/ToddHagopian).
 - [One Grok Bot by Enigma](https://x.ai/bot/tFAG_vhmiNa6k-LPb-W-v) - 不确定该用哪个机器人时的入口，告诉它你的需求，它会指向合适的那个. [Enigma](https://x.com/nft_Art).
+- [Bessent](https://x.ai/bot/jSF8JKzngKebHpucrl8QY) - 找出你的 Bot 把本周额度花在了哪里，并告诉你该砍掉什么. [Developer](https://x.com/acornsoftai).
+- [Small Business General](https://x.ai/bot/_TBaKmVGD4YD0ntC0guzr) - 统管你其他 Bot 的总助理，每天发一份简报说明它们做了什么，并把你的指令转给它们. [last](https://x.com/Zaardaar).

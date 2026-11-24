@@ -1076,3 +1076,6 @@ Back to [README](../../README.md)
 - [X Creator Helper](https://x.ai/bot/JuLeeLGUZz1wkOlo55Syu) - Evening coach for X creators that scores your account each day and flags risky posts before they hurt your payout. [Simi28_](https://x.com/Simi28_).
 - [LIVE Ban Bailout by Mark](https://x.ai/bot/obOFFf1oJT97K5qZEeGA4) - Helps live streamers on TikTok LIVE, YouTube Live, Twitch, Kick and Instagram or Facebook Live get through LIVE bans. [Mark](https://x.com/TheMarkGShow).
 - [My X Family by X](https://x.ai/bot/pTNOZAFpLvRSIuxxSmO7C) - Turns your X followers into a My X Family collage with every follower's profile picture in one big square image. [X](https://x.com/VeteranPrepper).
+- [Tomo Grok Bot Studio](https://x.ai/bot/Q9o0vVtfK6lNY0Wee5-wh) - Your own AI news influencer, pick a character, voice and news desk and it makes 40-60 second news episodes with credited B-roll plus X captions. [Tomo](https://x.com/tomo_stream).
+- [Threadbare](https://x.ai/bot/ScXh7v1HWfTNBIVBRYUgY) - Watches what is trending on social media, pitches AI image ideas with ready prompts and makes the ones you pick in your chosen style. [Phantom](https://x.com/jason_jasonetc).
+- [Painter Bot](https://x.ai/bot/8jYqvY2Nj3eDTMFxBXZjs) - Paints original oil-painting timelapse videos and funny black-ink caricatures made to post on social media. [Ben](https://x.com/BenBusker).

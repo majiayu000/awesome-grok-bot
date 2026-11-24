@@ -1076,3 +1076,6 @@
 - [X Creator Helper](https://x.ai/bot/JuLeeLGUZz1wkOlo55Syu) - 面向 X 创作者的晚间教练，每天给你的账号打分，并在风险帖子影响收益前提醒. [Simi28_](https://x.com/Simi28_).
 - [LIVE Ban Bailout by Mark](https://x.ai/bot/obOFFf1oJT97K5qZEeGA4) - 帮助 TikTok LIVE、YouTube Live、Twitch、Kick 以及 Instagram 或 Facebook 直播的主播应对直播封禁. [Mark](https://x.com/TheMarkGShow).
 - [My X Family by X](https://x.ai/bot/pTNOZAFpLvRSIuxxSmO7C) - 把你的 X 关注者做成 My X Family 拼图，所有关注者头像拼在一张大方图里. [X](https://x.com/VeteranPrepper).
+- [Tomo Grok Bot Studio](https://x.ai/bot/Q9o0vVtfK6lNY0Wee5-wh) - 你的专属 AI 新闻主播，选好角色、声音和新闻台，就生成 40 到 60 秒带署名素材的新闻短片和 X 文案. [Tomo](https://x.com/tomo_stream).
+- [Threadbare](https://x.ai/bot/ScXh7v1HWfTNBIVBRYUgY) - 盯着社交媒体热点，给出带现成提示词的 AI 图片创意，并按你选的风格生成. [Phantom](https://x.com/jason_jasonetc).
+- [Painter Bot](https://x.ai/bot/8jYqvY2Nj3eDTMFxBXZjs) - 画原创油画延时视频和搞笑黑墨水漫画像，做好直接发社交媒体. [Ben](https://x.com/BenBusker).

@@ -900,3 +900,5 @@ Back to [README](../../README.md)
 - [GBotRanked Safety Check by Bugatsinho](https://x.ai/bot/92XfuHX18z-EBZabTy1Ma) - Paste a Grok Bot template link to get its GBotRanked safety score, decision and gaps in plain words, read-only. [Bugatsinho](https://x.com/bugatsinho).
 - [Angry Boss Bot by Todd](https://x.ai/bot/9YiGEyzIDGXQeIy2zjXAY) - Blunt boss bot for people running a team of AI bots that finds the cause of whatever your bots keep doing wrong. [Todd](https://x.com/ToddHagopian).
 - [One Grok Bot by Enigma](https://x.ai/bot/tFAG_vhmiNa6k-LPb-W-v) - Starter bot for when you are not sure which bot you need, tell it what you are after and it points you to the right one. [Enigma](https://x.com/nft_Art).
+- [Bessent](https://x.ai/bot/jSF8JKzngKebHpucrl8QY) - Finds where your bots are burning through your weekly usage and shows what to trim. [Developer](https://x.com/acornsoftai).
+- [Small Business General](https://x.ai/bot/_TBaKmVGD4YD0ntC0guzr) - A general assistant that oversees your other bots, sends a short daily brief on what they did and passes your orders along. [last](https://x.com/Zaardaar).
