@@ -641,3 +641,6 @@
 - [Rightbackatchabyatch](https://x.ai/bot/VDV2LFDfjnmhtPTrERvcf) - 找出被要求停止后仍给你的公司发营销短信的商家，并起草索赔函和投诉材料. [Eric](https://x.com/RegularJoe_Ceo).
 - [Shop Checkup by Kosta](https://x.ai/bot/SBXEXw0dl0huU0_wb2pIK) - 给小型网店做只读安全体检，支持 Shopify、WooCommerce、BigCommerce 和自建站，检查公开页面并带你逐项修复. [Kosta](https://x.com/kostahantzis).
 - [Brand Deals Bot](https://x.ai/bot/RtfzNu73fwaPGhU9JEfgH) - 帮创作者和大学生找到品牌赠品、创作者和大使计划，免费获得产品. [nithya](https://x.com/nithyapp_).
+- [Buying Signal Detector by Maume](https://x.ai/bot/yEP3BhT243oI-ds0Hhm14) - 通过招聘信息、融资消息和 LinkedIn 动态，借助 Apify 找出有购买意向的公司. [Maume](https://x.com/FabianMaume).
+- [SEO & AEO Master Chief by Anurag](https://x.ai/bot/xQNxqVgrkufCxFYj0RaSo) - 面向软件品牌的 SEO、AEO 和 GEO 工作台，追踪 AI 回答是否提到你并找出它们引用的页面. [Anurag](https://x.com/anur7ag).
+- [Business Gift Finder by Enigma](https://x.ai/bot/c6uJXnPCVFRAhHs0XuMYa) - 商务礼品助手，根据人数、场合和人均预算推荐客户和员工礼物. [Enigma](https://x.com/nft_Art).

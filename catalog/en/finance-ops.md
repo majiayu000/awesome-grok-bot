@@ -780,3 +780,4 @@ Back to [README](../../README.md)
 - [CFO · Chief Financial Officer by Trond](https://x.ai/bot/0kMa6Fp3fRzRItuet_UgQ) - Read-only CFO for your Mercury business account that reports real cash position and spending trends and never moves money. [Trond](https://x.com/xenappblog).
 - [Refund Hunter by Eric](https://x.ai/bot/7RIpLZecxdmVqwuYa8RyB) - Finds refunds you were promised but never got, such as uncredited returns, charged cancellations and duplicate charges. [Eric](https://x.com/voltclerk).
 - [Claim Filer by Matthew](https://x.ai/bot/N4nibpbC2g6RoGMzKtOkz) - Checks whether you are owed money from a class-action settlement by searching all your mail, including spam, for the administrator's notice. [Matthew](https://x.com/bostonaholic).
+- [Money & Stocks by TheWakeninq2](https://x.ai/bot/ALjahPEPDK2pDzcpwIOfC) - Plain-talking money friend that helps you budget, save and learn to invest, with stock and ETF research. [TheWakeninq2](https://x.com/thewakeninq).

@@ -1071,3 +1071,8 @@
 - [X Motivator by Luis](https://x.ai/bot/IlnxsWFtsXxh_c1pzBZYJ) - 友好的 X 打气助手，每天一条短消息告诉你昨天是否发帖以及离粉丝目标还差多少. [Luis](https://x.com/luisbarragan).
 - [Manuscript Compass by Keith](https://x.ai/bot/Q7-0RceEXtyGsClp4Qv10) - 交互式书稿编辑助手，带作者逐阶段从初稿打磨到可出版的成书. [Keith](https://x.com/blinkmuted).
 - [Inner Circle by Lightning](https://x.ai/bot/rDilcFg5TaIskD9-Iid0x) - 每周为你的 X 账号生成 Inner Circle 图，你的头像被互动最多的 50 个人环绕，并附一段感谢文案. [Lightning](https://x.com/LightningMike23).
+- [Automating Authority Coach by Todd](https://x.ai/bot/qDosB7WHsVlEKbXaEYlGc) - 为个人品牌创作者审计品牌并打 100 分，只给出真正能建立权威感的行动路线图. [Todd](https://x.com/ToddHagopian).
+- [Automatic YT to 𝕏 Video Poster by ALX](https://x.ai/bot/ISUHg4z4SLsFcLw4Lw2j7) - 盯着你的 YouTube 频道，有新视频就以原生完整视频加文案自动发到 X. [ALX](https://x.com/alx).
+- [X Creator Helper](https://x.ai/bot/JuLeeLGUZz1wkOlo55Syu) - 面向 X 创作者的晚间教练，每天给你的账号打分，并在风险帖子影响收益前提醒. [Simi28_](https://x.com/Simi28_).
+- [LIVE Ban Bailout by Mark](https://x.ai/bot/obOFFf1oJT97K5qZEeGA4) - 帮助 TikTok LIVE、YouTube Live、Twitch、Kick 以及 Instagram 或 Facebook 直播的主播应对直播封禁. [Mark](https://x.com/TheMarkGShow).
+- [My X Family by X](https://x.ai/bot/pTNOZAFpLvRSIuxxSmO7C) - 把你的 X 关注者做成 My X Family 拼图，所有关注者头像拼在一张大方图里. [X](https://x.com/VeteranPrepper).

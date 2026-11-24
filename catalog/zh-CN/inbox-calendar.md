@@ -315,3 +315,5 @@
 - [First Week Crew](https://x.ai/bot/JvzKNX4bwA6gtUmlvtcZZ) - 面向 Grok Bot 新用户的入门助手，先帮你整理收件箱，未经你同意不会发送任何内容. [Calix](https://x.com/CaliLumberJack).
 - [Tally](https://x.ai/bot/Qxz_mvoHopfHYD_vAJpne) - 把收件箱和已发邮件整理成实时的待办页，可点开原邮件，并标出下一步该谁来做. [Dr.](https://x.com/DocBorelli).
 - [Haru/CEO](https://x.ai/bot/OipaNGVpUJ2Ey5Dt-WL76) - 西班牙语协调助手，整理工作邮件、日历和目标，认真做研究，不会擅自发送任何内容. [JAVIER](https://x.com/javielementpr).
+- [WhatsApp by Rob](https://x.ai/bot/kguveFbl4okkrVP-zNd1R) - 读取、搜索并总结你的个人 WhatsApp 聊天，起草回复，需你批准后才会发送. [Rob](https://x.com/sia14u).
+- [Chief of Staff by Cat](https://x.ai/bot/MXcYNuK8a0nBjRpC4ArsV) - 温和有条理的幕僚长，服务小型事务所或个人业务，每个工作日早上根据日历发送摘要. [Cat](https://x.com/Glidewell_AI).

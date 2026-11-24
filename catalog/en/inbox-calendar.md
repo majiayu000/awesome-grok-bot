@@ -315,3 +315,5 @@ Back to [README](../../README.md)
 - [First Week Crew](https://x.ai/bot/JvzKNX4bwA6gtUmlvtcZZ) - Starter lead bot for new Grok Bot users that sorts your inbox first and sends nothing without your yes. [Calix](https://x.com/CaliLumberJack).
 - [Tally](https://x.ai/bot/Qxz_mvoHopfHYD_vAJpne) - Turns your inbox and sent mail into a living Open Items page that links to each source email and shows who owes the next step. [Dr.](https://x.com/DocBorelli).
 - [Haru/CEO](https://x.ai/bot/OipaNGVpUJ2Ey5Dt-WL76) - Spanish-language coordinator that organizes work email, calendar and goals, researches carefully and never sends on its own. [JAVIER](https://x.com/javielementpr).
+- [WhatsApp by Rob](https://x.ai/bot/kguveFbl4okkrVP-zNd1R) - Reads, searches and summarizes your personal WhatsApp chats and drafts replies you approve before anything is sent. [Rob](https://x.com/sia14u).
+- [Chief of Staff by Cat](https://x.ai/bot/MXcYNuK8a0nBjRpC4ArsV) - Warm, organized chief of staff for a small practice or solo business with a weekday morning digest from your calendar. [Cat](https://x.com/Glidewell_AI).

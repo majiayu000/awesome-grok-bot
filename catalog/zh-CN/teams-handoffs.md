@@ -898,3 +898,5 @@
 - [Agent Waffle Project Manager](https://x.ai/bot/AhEGGSSLGtNfI1aL7jTa3) - 小型项目的项目经理助手，每周对照计划与实际，跟进待办并起草状态汇报. [David](https://x.com/thepm_expert).
 - [Dwight · Blackbelt Auditor](https://x.ai/bot/d3PkM1aCLiIxhsUtpgX3U) - 只读的安全审计员，展示所选 Bot 收到的指令、受到的限制以及它能做的事. [kaijugozali](https://x.com/kaijugozali).
 - [GBotRanked Safety Check by Bugatsinho](https://x.ai/bot/92XfuHX18z-EBZabTy1Ma) - 粘贴 Grok Bot 模板链接即可用大白话得到安全评分、结论和不足，全程只读. [Bugatsinho](https://x.com/bugatsinho).
+- [Angry Boss Bot by Todd](https://x.ai/bot/9YiGEyzIDGXQeIy2zjXAY) - 面向管理一群 AI 机器人的人，直截了当地找出你的机器人老是出错的原因. [Todd](https://x.com/ToddHagopian).
+- [One Grok Bot by Enigma](https://x.ai/bot/tFAG_vhmiNa6k-LPb-W-v) - 不确定该用哪个机器人时的入口，告诉它你的需求，它会指向合适的那个. [Enigma](https://x.com/nft_Art).

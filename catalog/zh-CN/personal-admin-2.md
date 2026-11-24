@@ -248,3 +248,17 @@
 - [Gift & Holiday Deal Tracker by Cat](https://x.ai/bot/Im6w3620BfmiCDWpFf3iZ) - 把节日清单整理成礼物表，含创意、价格、优惠提醒和下单截止日期，从不替你购买. [Cat](https://x.com/Glidewell_AI).
 - [Dispatcher by nahjuin](https://x.ai/bot/ntvBkcw8xpYmKrseja5lb) - 开车时免手动与你的 Grok Bot 沟通的入口，可简短询问进度并交办小事，适配 Apple CarPlay 和特斯拉车机. [nahjuin](https://x.com/cu30rry_).
 - [date_Bot](https://x.ai/bot/_ikCWSmWXr7kU9BHHnGpy) - 帮你看懂和对方的感情到了哪一步，再按对方性格和你们的阶段给出互动建议，内置依恋类型、恋爱信号解读和微信聊天分析，还有每日关心和每周复盘. [giorgio](https://x.com/Giorgiodo00).
+- [Latch by Kyle](https://x.ai/bot/3vE2F6ornWNFT_pxQStG7) - 个人账号安全助手，只读审计你的密码、短信重置暴露面和找回设置. [Kyle](https://x.com/thecyberseckyle).
+- [Reseller Assistant by Jenna](https://x.ai/bot/A3jDzkxfC66AnEX7ALwyg) - 二手转卖助手，把衣物、童装、球鞋和家居用品同步上架到 Poshmark 等平台，争取卖出最高价. [Jenna](https://x.com/jdg3998).
+- [Youth Sports Team Desk by Pablo](https://x.ai/bot/tzYIxKfukT2_iyq4kVoX9) - 面向志愿青少年教练和球队家长的助手，管理赛季日程并发送比赛日提醒. [Pablo](https://x.com/KonectEaze).
+- [Specter by Kyle](https://x.ai/bot/ichcG6YbondmMKBgU-tJQ) - 个人信息侦察助手，像攻击者一样查出公开互联网上关于你的信息，从用户名到泄露数据. [Kyle](https://x.com/thecyberseckyle).
+- [GTA 6 by Josh](https://x.ai/bot/GcwmPwjLpOsVRknp98GrK) - GTA VI 单人模式搭档，根据你的剧情进度告诉你下一步做什么、去哪里. [Josh](https://x.com/jlyons).
+- [GTA VI Finder by ClawCall](https://x.ai/bot/9M-c4nCCIsYtWRCm8qouR) - 帮你找附近有货的 GTA VI 实体版，搜索本地游戏店和零售店并通过 ClawCall 打电话确认. [ClawCall](https://x.com/clawcalldev).
+- [Travel Agent by Abdullah](https://x.ai/bot/KV8DMruMYq71b1doefoSN) - AI 旅行助手，先帮你规划行程，再逐日陪你执行直到回家. [Abdullah](https://x.com/abdushbag).
+- [Personalized Gift Finder by Enigma](https://x.ai/bot/DPZTcAoW-NKyHtpsjGF4c) - 礼物搜索助手，根据收礼人、场合和预算给出带链接的个性化推荐. [Enigma](https://x.com/nft_Art).
+- [Deal Detective by Digital](https://x.ai/bot/9s8D36VmM5wULQME5e3nG) - 帮你买东西少花钱，跨商店找出真实总价最低的选择. [Digital](https://x.com/DigitalDaisyX).
+- [Crisis Support Guide by X](https://x.ai/bot/yHpOpnKCYx6tHMzx3f532) - 沉稳的向导，帮助退伍军人、现役军人及其家人找到合适的支持资源. [X](https://x.com/VeteranPrepper).
+- [Vintage Cookbooks by X](https://x.ai/bot/fdMyvb4eBJvQeFMeiq4Uu) - 查找并下载免费的公版老食谱，包括教会食谱和 19 世纪的家政手册. [X](https://x.com/VeteranPrepper).
+- [Personal Privacy Opt-Out Bot by Repping](https://x.ai/bot/r40VJSNI2ErKLrEvlEzfv) - 从数据经纪商和人员搜索网站移除你家庭的个人信息，并发送拒绝出售请求. [Repping](https://x.com/reppingalpha).
+- [Subscription Cleaner by DeFi](https://x.ai/bot/_czlf_Y8joasIG3jaHabg) - 找出通过 Google 账号计费的所有订阅，包括 Google Play、Google One 和 YouTube，并协助取消. [DeFi](https://x.com/ModestusOkoye).
+- [VA Claims Helper by X](https://x.ai/bot/E-QnTP06ULAY9iZzBJXYE) - 耐心且表达直白的助手，帮助退伍军人整理 VA 索赔并撰写个人和战友陈述. [X](https://x.com/VeteranPrepper).

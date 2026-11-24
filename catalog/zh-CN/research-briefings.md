@@ -932,3 +932,4 @@
 - [Proof Hunter](https://x.ai/bot/UTHmG8NtAQP5_6mAxdPeT) - 核实一个说法、链接、项目或产品是否属实，并给出带来源的简短结论，说明哪些已证实. [Yap⚡️](https://x.com/Yap452).
 - [AgentWorld by Shawn](https://x.ai/bot/yuO-hJPFfKP-RRNWAiJjt) - AgentWorld 实时问答台，可询问这个约 500 个 AI 代理世界的经济、城市和代理情况. [Shawn](https://x.com/MagaShawn).
 - [Launch Radar](https://x.ai/bot/W1ZunrS8__smXWvDglTtH) - 追踪开源权重 AI 模型的发布，大模型一出就提醒你，并附一份用自己电脑跑基准测试的白话计划和一篇贴文草稿. [Pratik](https://x.com/pratikg).
+- [Crypto Briefing](https://x.ai/bot/C8Y1l3d8fZ_9xvqnT_aXT) - 西班牙语的个人加密市场简报助手，用适合手机阅读的短文总结 BTC、SOL 和 ETH 的价格与新闻. [valtierra40](https://x.com/valtierra40).
