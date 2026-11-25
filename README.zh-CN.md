@@ -422,6 +422,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [snorlax-bot](https://github.com/chinghauchu/snorlax-bot) - 面向 DGX Spark 的开源本地版 Grok Bot 形态桌面与 iOS 运行时。
 - [5dive](https://github.com/5dive-ai/5dive) - 自托管的 MIT 运行时，在你自己的服务器上跑一支具名 Bot 团队。Claude Code、Codex 等，共用一块任务板，用手机聊。
 - [kwant](https://github.com/alexsergivan/kwant) - 开源自托管的 Grok Bot 替代方案，单个 Rust 二进制（Mac/Linux/Windows beta/VPS），支持 spaces、本地模型、交接、routines 与审批。
+- [TecAdRiseBot](https://github.com/tecadrise-ai/TecAdRiseBot) - MIT 许可的 Windows 本地 Agent 桌面应用，支持 MCP、技能和例行任务，需要 Cursor 或其他模型供应商的 API key。
 
 ## 社区教程
 

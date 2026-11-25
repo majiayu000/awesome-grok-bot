@@ -422,6 +422,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [snorlax-bot](https://github.com/chinghauchu/snorlax-bot) - Open-source local Grok Bot-shaped desktop and iOS stack aimed at NVIDIA DGX Spark.
 - [5dive](https://github.com/5dive-ai/5dive) - Self-hosted MIT runtime for a team of named bots on your own server. Claude Code, Codex and more, one shared task board, chat from your phone.
 - [kwant](https://github.com/alexsergivan/kwant) - Open-source self-hosted Grok Bot alternative in one Rust binary (Mac/Linux/Windows beta/VPS) with spaces, local models, handoffs, routines and approvals.
+- [TecAdRiseBot](https://github.com/tecadrise-ai/TecAdRiseBot) - MIT-licensed Windows desktop host for local agents, with MCP, skills and routines; requires a Cursor or other model-provider key.
 
 ## Tutorials
 
