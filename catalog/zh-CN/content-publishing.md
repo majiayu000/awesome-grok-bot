@@ -1090,3 +1090,4 @@
 - [Streamer Tutor](https://x.ai/bot/mPae1lOFYT8UkEXmf962k) - 帮你在 X 上开直播的教练，提供设置指导、直播创意、标题、流程安排、直播后点评和每周排期. [American™](https://x.com/1776_13).
 - [Clipper · video editor](https://x.ai/bot/pseol_URP6eJcgTWAtst4) - 把 YouTube、Reddit、X 或 TikTok 链接或上传的视频，在聊天里剪成竖屏带字幕的 MP4. [john](https://x.com/johntpierson).
 - [MA Politics X Brief](https://x.ai/bot/BrWy2TEVlmMiz4AAKWSAN) - 每天早上把最新的马萨诸塞州政治新闻整理成可直接发布的 X 草稿，并配数据卡片. [Duncan](https://x.com/DuncanBurnsMA).
+- [Holo Depth Scan](https://x.ai/bot/C5m6wU1XquiuKEG4GvDrR) - 把任意图片变成全息深度扫描，霓虹波扫过画面，可选彩虹片、声呐、热成像或金色风格，输出循环视频. [D](https://x.com/Sevenfourone).

@@ -169840,6 +169840,91 @@
       "updated": "2026-11-25",
       "shelf": "raw",
       "source": "https://x.com/cjb_boy/status/2125351275734946248"
+    },
+    {
+      "slug": "holo-depth-scan",
+      "name": "Holo Depth Scan",
+      "author": {
+        "name": "D",
+        "url": "https://x.com/Sevenfourone"
+      },
+      "summary": "Turns any picture into a holographic depth scan, a neon wave sweeping through it in rainbow, sonar, thermal or gold looks, as a loop",
+      "summary_zh": "把任意图片变成全息深度扫描，霓虹波扫过画面，可选彩虹片、声呐、热成像或金色风格，输出循环视频",
+      "import": "https://x.ai/bot/C5m6wU1XquiuKEG4GvDrR",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/Sevenfourone/status/2125495881788969383"
+    },
+    {
+      "slug": "grok-bot-efficiency-optimizer-3",
+      "name": "Grok Bot Efficiency Optimizer",
+      "author": {
+        "name": "Will",
+        "url": "https://x.com/Ageless_Apex"
+      },
+      "summary": "Reviews what your bots and routines use every week and suggests simple ways to make them more efficient",
+      "summary_zh": "每周复查你的机器人和例行任务的用量，给出简单的提效建议，让 Grok Bot 额度用得更久",
+      "import": "https://x.ai/bot/74XfEdBjBJ2fdu-yfrzgQ",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/Ageless_Apex/status/2125476617459737005"
+    },
+    {
+      "slug": "dealio",
+      "name": "Dealio",
+      "author": {
+        "name": "The",
+        "url": "https://x.com/The_Contextian"
+      },
+      "summary": "A Black Friday and Cyber Monday deal scout that watches deal sites and your promo emails and checks real prices first",
+      "summary_zh": "黑五和网一的优惠侦察，盯着优惠网站、商家页面和你的促销邮件，核对真实价格后再告诉你哪些值得买",
+      "import": "https://x.ai/bot/kfcy0ykkiF0tffdC-TSz1",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/The_Contextian/status/2125431359124668600"
+    },
+    {
+      "slug": "birthday-deals",
+      "name": "Birthday Deals",
+      "author": {
+        "name": "The",
+        "url": "https://x.com/The_Contextian"
+      },
+      "summary": "Finds companies that give a free birthday reward for joining their mailing list or loyalty app, signs you up and keeps a tracker",
+      "summary_zh": "找出所有加入邮件列表、会员计划或奖励应用就送生日福利的公司，帮你报名并维护一份追踪表",
+      "import": "https://x.ai/bot/RnQa940JaxJrT44ShgpFT",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/The_Contextian/status/2125430234597982565"
     }
   ]
 }

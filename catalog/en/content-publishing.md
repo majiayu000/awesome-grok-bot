@@ -1090,3 +1090,4 @@ Back to [README](../../README.md)
 - [Streamer Tutor](https://x.ai/bot/mPae1lOFYT8UkEXmf962k) - Your coach for going live on X with setup help, stream ideas, titles, run-of-show, honest reviews and a weekly schedule. [American™](https://x.com/1776_13).
 - [Clipper · video editor](https://x.ai/bot/pseol_URP6eJcgTWAtst4) - Turns a YouTube, Reddit, X or TikTok link or an upload into a trimmed, vertical-cropped, captioned MP4 in chat. [john](https://x.com/johntpierson).
 - [MA Politics X Brief](https://x.ai/bot/BrWy2TEVlmMiz4AAKWSAN) - Every morning turns the freshest Massachusetts political news into ready-to-post X drafts with print-quality data cards. [Duncan](https://x.com/DuncanBurnsMA).
+- [Holo Depth Scan](https://x.ai/bot/C5m6wU1XquiuKEG4GvDrR) - Turns any picture into a holographic depth scan, a neon wave sweeping through it in rainbow, sonar, thermal or gold looks, as a loop. [D](https://x.com/Sevenfourone).

@@ -905,3 +905,4 @@
 - [Continuous Improvement](https://x.ai/bot/4cKVaorChR8-rQ4bXXB-g) - 给运行多个 Grok Bot 的人用的改进助手，记录每次失败、找出根因，并用共享检查一次修好同类问题. [Dustin](https://x.com/denodustin).
 - [Chief of Staff with Bot HQ](https://x.ai/bot/YmqplTI55ewhHyAfW9YzP) - 统筹整个 Grok Bot 团队的幕僚长，并为 Bot HQ 指挥中心页面提供各 Bot 的状态. [D](https://x.com/Wyatt_054).
 - [Saver](https://x.ai/bot/IDl3qbuoeBkYkK3bsOakv) - 让每周 Grok Bot 额度够用的助手，审计你所有的 Bot、找出 token 浪费并控制用量节奏. [Codila](https://x.com/TheLobsterNest).
+- [Grok Bot Efficiency Optimizer](https://x.ai/bot/74XfEdBjBJ2fdu-yfrzgQ) - 每周复查你的机器人和例行任务的用量，给出简单的提效建议，让 Grok Bot 额度用得更久. [Will](https://x.com/Ageless_Apex).

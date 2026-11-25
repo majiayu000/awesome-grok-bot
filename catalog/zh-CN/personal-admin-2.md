@@ -290,3 +290,5 @@
 - [Deal Desk Shopper](https://x.ai/bot/f7oQtqmMZxWquMYHkLiAl) - 告诉它想买什么和心理价位，它会查看真实商店页面，只在价格真的到位时通知你. [SpheraVox](https://x.com/GainGlintGaz).
 - [Coach Beede's College Baseball Parent Guide](https://x.ai/bot/wuGPaoR92VzzR-6GH9IRU) - 面向棒球运动员家长的冷静坦诚助手，讲解大学体育和学业申请流程以及教练何时可以联系. [CoachBeede](https://x.com/CoachBeede).
 - [Christo](https://x.ai/bot/efCqiBO3o5t-hz9-uh1Bh) - 温和的陪伴助手，通过新约相关经文帮你面对日常的难处. [Christopher](https://x.com/cjb_boy).
+- [Dealio](https://x.ai/bot/kfcy0ykkiF0tffdC-TSz1) - 黑五和网一的优惠侦察，盯着优惠网站、商家页面和你的促销邮件，核对真实价格后再告诉你哪些值得买. [The](https://x.com/The_Contextian).
+- [Birthday Deals](https://x.ai/bot/RnQa940JaxJrT44ShgpFT) - 找出所有加入邮件列表、会员计划或奖励应用就送生日福利的公司，帮你报名并维护一份追踪表. [The](https://x.com/The_Contextian).

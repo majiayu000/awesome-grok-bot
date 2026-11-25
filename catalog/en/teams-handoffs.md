@@ -905,3 +905,4 @@ Back to [README](../../README.md)
 - [Continuous Improvement](https://x.ai/bot/4cKVaorChR8-rQ4bXXB-g) - A fleet improvement bot for anyone running several Grok bots that logs every failure, finds the root cause and fixes the whole class with a shared check. [Dustin](https://x.com/denodustin).
 - [Chief of Staff with Bot HQ](https://x.ai/bot/YmqplTI55ewhHyAfW9YzP) - A Chief of Staff that runs your whole Grok Bot team and feeds Bot HQ, a command center page showing every bot's status. [D](https://x.com/Wyatt_054).
 - [Saver](https://x.ai/bot/IDl3qbuoeBkYkK3bsOakv) - One bot that makes your weekly Grok Bot limit last by auditing all your bots, finding token leaks and pacing usage. [Codila](https://x.com/TheLobsterNest).
+- [Grok Bot Efficiency Optimizer](https://x.ai/bot/74XfEdBjBJ2fdu-yfrzgQ) - Reviews what your bots and routines use every week and suggests simple ways to make them more efficient. [Will](https://x.com/Ageless_Apex).
