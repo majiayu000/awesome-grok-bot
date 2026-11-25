@@ -974,3 +974,5 @@
 - [clawdchain bot by 8](https://x.ai/bot/ylpRfpb1zDao2Tt2yMX1M) - Clawd Chain 测试链指南，涵盖领取测试 CLAWD、使用测试钱包和发射台流程. [8](https://x.com/0rdlibrary).
 - [CNC Shop Assistant by Infinity](https://x.ai/bot/Cnluy0v4RrSPUteNli5-b) - 为 CNC 铣床、车床和雕刻机编写带注释的模拟 G 代码并附设置说明，支持公制和英制. [Infinity](https://x.com/Falco_Secure).
 - [Claude Builder by Infinity](https://x.ai/bot/ra0yzM7d4qyRlqcx0CKkN) - 通过你自己的 Anthropic API 密钥用 Claude 为你构建可运行并经过测试的软件，并报告真实费用. [Infinity](https://x.com/Falco_Secure).
+- [CyberSecGrok](https://x.ai/bot/tnAbNnwVeU9oSTrnetxww) - 面向个人电脑和家庭网络的防御型安全协调员，负责搭建防火墙、XDR、漏洞、杀毒和网络扫描等 Bot. [Goonie4Life](https://x.com/Goonie4Life).
+- [Meta Muse](https://x.ai/bot/gv9aB5HOWEAs9CNtjrqsi) - 用你自己的 Meta 模型 API 密钥，把写作、起草、摘要、转录和图片等重活交给 Meta 的 Muse 模型. [Rob](https://x.com/sia14u).

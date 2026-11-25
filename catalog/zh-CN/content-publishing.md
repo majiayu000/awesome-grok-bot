@@ -1086,3 +1086,7 @@
 - [Сlipper by Артем](https://x.ai/bot/RqI6PY5EFcvGIpNCt3MoZ) - 按你的细分领域在 X 和 YouTube 的热门播客里找值得剪辑的片段，附时间戳和现成字幕. [Артем](https://x.com/laki_0x).
 - [Qualified Count by Bret](https://x.ai/bot/sNn4VgpRV9545badL6ud6) - 帮 X 创作者看清多少曝光落在可获得收益的帖子上，跟踪资格和距离创作者奖励的差距. [Bret](https://x.com/time2gsm).
 - [X Money Path by Bret](https://x.ai/bot/kaFOUMnf3CCj1puVo4z0z) - 帮卡在 X Money 设置、绑卡或创作者收款延迟的用户找出原因，并生成给客服的消息. [Bret](https://x.com/time2gsm).
+- [Mrs. Larsen](https://x.ai/bot/r3Hdb4RJEKBRuaRIbgtZq) - 面向作者的温和细致文字编辑，修正拼写、标点、语法和错别字，同时保留你的文风. [AuthorJRGridley](https://x.com/AuthorJRGridley).
+- [Streamer Tutor](https://x.ai/bot/mPae1lOFYT8UkEXmf962k) - 帮你在 X 上开直播的教练，提供设置指导、直播创意、标题、流程安排、直播后点评和每周排期. [American™](https://x.com/1776_13).
+- [Clipper · video editor](https://x.ai/bot/pseol_URP6eJcgTWAtst4) - 把 YouTube、Reddit、X 或 TikTok 链接或上传的视频，在聊天里剪成竖屏带字幕的 MP4. [john](https://x.com/johntpierson).
+- [MA Politics X Brief](https://x.ai/bot/BrWy2TEVlmMiz4AAKWSAN) - 每天早上把最新的马萨诸塞州政治新闻整理成可直接发布的 X 草稿，并配数据卡片. [Duncan](https://x.com/DuncanBurnsMA).

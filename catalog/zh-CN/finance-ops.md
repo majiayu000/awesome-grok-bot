@@ -786,3 +786,5 @@
 - [Stock Ladder Bot](https://x.ai/bot/qTPLJ7D8X0QwW1orQy3Bd) - 对照你的买卖价位盯股价，并用免费模拟盘的分批抄底阶梯来测试策略. James.
 - [Unclaimed Property Finder by Charles](https://x.ai/bot/yfgtIGAaVCMBf47EwmbFA) - 通过免费的官方州和联邦渠道查找被遗忘的账户、未兑现的支票等无人认领的钱款. [Charles](https://x.com/CryptoGent2).
 - [Creator Tax by Infinity](https://x.ai/bot/t1yEvqDy5xPmiNAqRA7qm) - 帮内容创作者在任何国家整理税务，从邮件记录收入、换算海外收款并跟踪可抵扣费用. [Infinity](https://x.com/Falco_Secure).
+- [Manifest Desk](https://x.ai/bot/iIULcyUcynjZq03JrRVja) - 把清仓和批发托盘清单整理成保守且有出处的竞拍表，并给出整批的最高落槌价. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
+- [Payout Desk](https://x.ai/bot/QZFU_CJMiBuCXshZCkoj1) - 为网店卖家把平台销售导出表与结算款和银行到账逐笔对账，列出每一笔没到账的金额. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).

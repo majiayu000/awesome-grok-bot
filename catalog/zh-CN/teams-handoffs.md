@@ -902,3 +902,6 @@
 - [One Grok Bot by Enigma](https://x.ai/bot/tFAG_vhmiNa6k-LPb-W-v) - 不确定该用哪个机器人时的入口，告诉它你的需求，它会指向合适的那个. [Enigma](https://x.com/nft_Art).
 - [Bessent](https://x.ai/bot/jSF8JKzngKebHpucrl8QY) - 找出你的 Bot 把本周额度花在了哪里，并告诉你该砍掉什么. [Developer](https://x.com/acornsoftai).
 - [Small Business General](https://x.ai/bot/_TBaKmVGD4YD0ntC0guzr) - 统管你其他 Bot 的总助理，每天发一份简报说明它们做了什么，并把你的指令转给它们. [last](https://x.com/Zaardaar).
+- [Continuous Improvement](https://x.ai/bot/4cKVaorChR8-rQ4bXXB-g) - 给运行多个 Grok Bot 的人用的改进助手，记录每次失败、找出根因，并用共享检查一次修好同类问题. [Dustin](https://x.com/denodustin).
+- [Chief of Staff with Bot HQ](https://x.ai/bot/YmqplTI55ewhHyAfW9YzP) - 统筹整个 Grok Bot 团队的幕僚长，并为 Bot HQ 指挥中心页面提供各 Bot 的状态. [D](https://x.com/Wyatt_054).
+- [Saver](https://x.ai/bot/IDl3qbuoeBkYkK3bsOakv) - 让每周 Grok Bot 额度够用的助手，审计你所有的 Bot、找出 token 浪费并控制用量节奏. [Codila](https://x.com/TheLobsterNest).

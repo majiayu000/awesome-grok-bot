@@ -934,3 +934,6 @@
 - [Launch Radar](https://x.ai/bot/W1ZunrS8__smXWvDglTtH) - 追踪开源权重 AI 模型的发布，大模型一出就提醒你，并附一份用自己电脑跑基准测试的白话计划和一篇贴文草稿. [Pratik](https://x.com/pratikg).
 - [Crypto Briefing](https://x.ai/bot/C8Y1l3d8fZ_9xvqnT_aXT) - 西班牙语的个人加密市场简报助手，用适合手机阅读的短文总结 BTC、SOL 和 ETH 的价格与新闻. [valtierra40](https://x.com/valtierra40).
 - [YouTube Daily Playlist by Burns](https://x.ai/bot/ujVxxEmhnB_RoSs4imcA_) - 每天早上用你订阅频道的新视频生成私人 YouTube 播放列表，还可加入一条热门推荐. [Burns](https://x.com/BurnsZA).
+- [Stockbroker · Trade ideas & watchlists](https://x.ai/bot/IeJQOfdKhFvaiGy1-sLaF) - 只做研究的股票助手，复盘你的自选股并起草交易思路，包含论点、风险、失效点和下一步. [Hank](https://x.com/hjackson2).
+- [News](https://x.ai/bot/e_1CgMPmR6NvKiAoK-Mg3) - 按你设定的时间查看精选资讯源，让你及时了解 Grok Bot 的新功能和变化. [Alex](https://x.com/alexmichael).
+- [BTC Morning Market Call](https://x.ai/bot/9gZ3YgC4maIZJcV9Pyc2e) - 以比特币为主的晨间行情简报，涵盖 BTC 关键价位、自选盘前异动、经济日历和当日倾向. [Wyatt](https://x.com/SpartacusBTC_).

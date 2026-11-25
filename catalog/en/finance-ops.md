@@ -786,3 +786,5 @@ Back to [README](../../README.md)
 - [Stock Ladder Bot](https://x.ai/bot/qTPLJ7D8X0QwW1orQy3Bd) - Watches your stock prices against your buy and sell levels and runs a free paper-trading dip ladder to test strategies. James.
 - [Unclaimed Property Finder by Charles](https://x.ai/bot/yfgtIGAaVCMBf47EwmbFA) - Finds forgotten accounts, uncashed checks and other unclaimed money through free official state and federal sources. [Charles](https://x.com/CryptoGent2).
 - [Creator Tax by Infinity](https://x.ai/bot/t1yEvqDy5xPmiNAqRA7qm) - Keeps a content creator's tax in order in any country by logging income from email, converting payouts and tracking deductible costs. [Infinity](https://x.com/Falco_Secure).
+- [Manifest Desk](https://x.ai/bot/iIULcyUcynjZq03JrRVja) - Turns liquidation and wholesale pallet manifests into a conservative sourced bid sheet with one max hammer bid for the lot. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
+- [Payout Desk](https://x.ai/bot/QZFU_CJMiBuCXshZCkoj1) - Reconciles online sellers' marketplace sales exports against payouts and bank deposits and lists every dollar that did not land. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).

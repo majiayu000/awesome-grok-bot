@@ -645,3 +645,8 @@
 - [SEO & AEO Master Chief by Anurag](https://x.ai/bot/xQNxqVgrkufCxFYj0RaSo) - 面向软件品牌的 SEO、AEO 和 GEO 工作台，追踪 AI 回答是否提到你并找出它们引用的页面. [Anurag](https://x.com/anur7ag).
 - [Business Gift Finder by Enigma](https://x.ai/bot/c6uJXnPCVFRAhHs0XuMYa) - 商务礼品助手，根据人数、场合和人均预算推荐客户和员工礼物. [Enigma](https://x.com/nft_Art).
 - [Pitch Rehearsal Partner by Infinity](https://x.ai/bot/5Zhh1lJ_NSNEBp0likOGP) - 逐段陪你演练融资路演，扮演严格但公平的投资人，给回答打分并跟踪进步. [Infinity](https://x.com/Falco_Secure).
+- [Gig Finder](https://x.ai/bot/QAdLzjntNif4QzI1qYYv2) - 找出有 IT 短板的本地小商家，比如没有网站或没有谷歌商家资料，方便你上门提供服务. [nahjuin](https://x.com/nahjuin).
+- [Landing Pages](https://x.ai/bot/2mXZke8jm5wfwnGHSF5IQ) - 为本地小商家提供快速交付的单页落地页服务，从找客户到做免费样页再到推介. [last](https://x.com/Zaardaar).
+- [Revenue Chief of Staff](https://x.ai/bot/cbX0W14SEMR_wCeNhMySp) - 面向销售负责人的幕僚长，配合你现有的 CRM、日历和通话工具，分拣邮件并准备会议. [Dustin](https://x.com/denodustin).
+- [Custom Lead Monitor](https://x.ai/bot/P-xGbdO0GODa5yZZbbgQd) - 在网上找出正在寻找你的产品或服务的人，并每天发送量身定制的线索报告. [Cheryl](https://x.com/TruthNetwork24).
+- [Talent Radar](https://x.ai/bot/zcQIZ3KEN1xKRVX-G31XN) - 按职位、公司、技能或地区在 X 上找活跃的人，给你一份排序后的候选名单，联系由你自己来. [Tom](https://x.com/tcballard).

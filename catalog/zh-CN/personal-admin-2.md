@@ -275,3 +275,18 @@
 - [续火花 by 衣](https://x.ai/bot/qav5f4O9FXLr8XMbE6elw) - 每天用你的抖音网页版给指定好友各分享一条热门搞笑视频来续火花，并核对确实发出. [衣](https://x.com/baiyiblockchain).
 - [Alva - electronics tutor by atres](https://x.ai/bot/pW7zG_Zi_T1dRkk9otlE3) - 亲切的电子学老师，从零开始教电子，包含短课程、小测验和真实的 Arduino 制作. [atres](https://x.com/atres_).
 - [Preisfuchs DACH by Dariusz](https://x.ai/bot/nrJ7s9x6Ji0PN5KDu5L67) - 面向德国、奥地利和瑞士的德语比价与优惠助手，监控商品和品牌并给出含运费的真实总价. [Dariusz](https://x.com/die54minute).
+- [Phone Number Opt-Out Service](https://x.ai/bot/ZKnLSXwv7tgOH5jjRkPkK) - 提供代办服务，帮客户向人员搜索和数据经纪网站提交申请，把手机号移除. [last](https://x.com/Zaardaar).
+- [SimSift Deal Finder](https://x.ai/bot/nDyKREe6MZyOScfIgEgHS) - 找出英国纯 SIM 卡、宽带、翻新手机和旅行 eSIM 中整个合约期总价最低的优惠. [🎈](https://x.com/Simsiftuk).
+- [Daily Portion: Women](https://x.ai/bot/oZYa5TpOZ5EI_oKbwnBOQ) - 面向女性的每日基督教灵修伙伴，提供核对过的经文、一段反思、一个小行动和一篇祷告. [Bret](https://x.com/time2gsm).
+- [Contacts Phone](https://x.ai/bot/VhZ-bPzg3AQVogvzpOgzS) - 在手机通讯录里查人并帮你整理，标出重复项、缺失号码、名称不清和杂乱的标签. [American](https://x.com/realtalkstruth).
+- [Deal Hunter](https://x.ai/bot/jnAhcm2OXGRNzDKZG6s62) - 黑五和假日促销侦察员，盯着你关心的品类、品牌和商品，并在商店页面核实真实价格. [Nima](https://x.com/dbarrett24).
+- [Language Tutor](https://x.ai/bot/iVpCskcvnAUtDHkYtKXrh) - 一对一的私人语言老师，先测你的水平，再安排每日对话、书面语法和复习. [reza.eth](https://x.com/rezajafery).
+- [Return Clock](https://x.ai/bot/8O6JF1fRk4dWqqJfaisvr) - 拍下收据或订单截图，它会记录退货和保修期限，并在截止前提醒你. [Travis](https://x.com/TK013025).
+- [Kids Kit Race](https://x.ai/bot/OaDuWDfCXvVso9mwZBNT9) - 在家得宝、劳氏等门店的免费儿童手工套件活动一开放报名就帮你抢位. [Anthony](https://x.com/AnthonyDo).
+- [Gift Deal Alert](https://x.ai/bot/stqfxN6Sr6wkShisV5g8I) - 盯着你或朋友心愿单里的礼物，比如 Giftful 上的，一降价就提醒你. [Shannon](https://x.com/ShannonMFHill).
+- [Personal Trainer](https://x.ai/bot/yVclDBupwrvqhhEnHTcHW) - 友好的私人教练，按你的目标、器械和时间安排训练计划，每天早上发来当天的训练. [Johnson](https://x.com/Johnson20062123).
+- [Call Around](https://x.ai/bot/eTyKlU19IvYatZyR4MaXc) - 说出你要找的东西，它会列出电话清单和话术，经你同意后逐家打电话，最后给你一张排序表. [Pablo](https://x.com/KonectEaze).
+- [Prometeu · Filosofia](https://x.ai/bot/Fa2sjdreV928uRnVWQo7E) - 葡萄牙语的苏格拉底式哲学导师，带你从前苏格拉底学派一路学到存在主义，并把斯多葛思想变成实践. [Vitor](https://x.com/Vitor_Henckel).
+- [Deal Desk Shopper](https://x.ai/bot/f7oQtqmMZxWquMYHkLiAl) - 告诉它想买什么和心理价位，它会查看真实商店页面，只在价格真的到位时通知你. [SpheraVox](https://x.com/GainGlintGaz).
+- [Coach Beede's College Baseball Parent Guide](https://x.ai/bot/wuGPaoR92VzzR-6GH9IRU) - 面向棒球运动员家长的冷静坦诚助手，讲解大学体育和学业申请流程以及教练何时可以联系. [CoachBeede](https://x.com/CoachBeede).
+- [Christo](https://x.ai/bot/efCqiBO3o5t-hz9-uh1Bh) - 温和的陪伴助手，通过新约相关经文帮你面对日常的难处. [Christopher](https://x.com/cjb_boy).

@@ -902,3 +902,6 @@ Back to [README](../../README.md)
 - [One Grok Bot by Enigma](https://x.ai/bot/tFAG_vhmiNa6k-LPb-W-v) - Starter bot for when you are not sure which bot you need, tell it what you are after and it points you to the right one. [Enigma](https://x.com/nft_Art).
 - [Bessent](https://x.ai/bot/jSF8JKzngKebHpucrl8QY) - Finds where your bots are burning through your weekly usage and shows what to trim. [Developer](https://x.com/acornsoftai).
 - [Small Business General](https://x.ai/bot/_TBaKmVGD4YD0ntC0guzr) - A general assistant that oversees your other bots, sends a short daily brief on what they did and passes your orders along. [last](https://x.com/Zaardaar).
+- [Continuous Improvement](https://x.ai/bot/4cKVaorChR8-rQ4bXXB-g) - A fleet improvement bot for anyone running several Grok bots that logs every failure, finds the root cause and fixes the whole class with a shared check. [Dustin](https://x.com/denodustin).
+- [Chief of Staff with Bot HQ](https://x.ai/bot/YmqplTI55ewhHyAfW9YzP) - A Chief of Staff that runs your whole Grok Bot team and feeds Bot HQ, a command center page showing every bot's status. [D](https://x.com/Wyatt_054).
+- [Saver](https://x.ai/bot/IDl3qbuoeBkYkK3bsOakv) - One bot that makes your weekly Grok Bot limit last by auditing all your bots, finding token leaks and pacing usage. [Codila](https://x.com/TheLobsterNest).
