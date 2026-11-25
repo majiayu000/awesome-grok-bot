@@ -976,3 +976,4 @@ Back to [README](../../README.md)
 - [Claude Builder by Infinity](https://x.ai/bot/ra0yzM7d4qyRlqcx0CKkN) - Builds working tested software for you with Claude through your own Anthropic API key and reports the real cost. [Infinity](https://x.com/Falco_Secure).
 - [CyberSecGrok](https://x.ai/bot/tnAbNnwVeU9oSTrnetxww) - A defensive security coordinator for your computers and home network that sets up firewall, XDR, vulnerability, antivirus and network scanner bots. [Goonie4Life](https://x.com/Goonie4Life).
 - [Meta Muse](https://x.ai/bot/gv9aB5HOWEAs9CNtjrqsi) - Sends your heavy writing, drafting, summarizing, transcription and image jobs to Meta's Muse models using your own Meta Model API key. [Rob](https://x.com/sia14u).
+- [Google AI Ultra](https://x.ai/bot/PayMcgeTBAYLLENWEBsr7) - Installs and runs work through your own Google AI Ultra plan using only Google's official Antigravity CLI, and you sign in yourself. [俊](https://x.com/LiFeng61532).

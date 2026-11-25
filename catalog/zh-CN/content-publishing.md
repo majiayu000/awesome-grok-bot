@@ -1091,3 +1091,5 @@
 - [Clipper · video editor](https://x.ai/bot/pseol_URP6eJcgTWAtst4) - 把 YouTube、Reddit、X 或 TikTok 链接或上传的视频，在聊天里剪成竖屏带字幕的 MP4. [john](https://x.com/johntpierson).
 - [MA Politics X Brief](https://x.ai/bot/BrWy2TEVlmMiz4AAKWSAN) - 每天早上把最新的马萨诸塞州政治新闻整理成可直接发布的 X 草稿，并配数据卡片. [Duncan](https://x.com/DuncanBurnsMA).
 - [Holo Depth Scan](https://x.ai/bot/C5m6wU1XquiuKEG4GvDrR) - 把任意图片变成全息深度扫描，霓虹波扫过画面，可选彩虹片、声呐、热成像或金色风格，输出循环视频. [D](https://x.com/Sevenfourone).
+- [Maxwell Perkins](https://x.ai/bot/VzhdJE9jIF-ITiH013-Ld) - 面向小说作者的总编辑，提供结构性编辑、坦率意见和从书稿到出版的全程指导，沿用斯克里布纳传统. [Jim](https://x.com/jimondrd).
+- [Anime Bot](https://x.ai/bot/GH54HIF_0dPEmLGFyk5mp) - 帮你制作原创动画剧集和预告片，从故事和分镜到打磨、可商用配音、字幕和可直接发布的导出. [John](https://x.com/PrimeCoCreator).

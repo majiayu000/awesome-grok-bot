@@ -976,3 +976,4 @@
 - [Claude Builder by Infinity](https://x.ai/bot/ra0yzM7d4qyRlqcx0CKkN) - 通过你自己的 Anthropic API 密钥用 Claude 为你构建可运行并经过测试的软件，并报告真实费用. [Infinity](https://x.com/Falco_Secure).
 - [CyberSecGrok](https://x.ai/bot/tnAbNnwVeU9oSTrnetxww) - 面向个人电脑和家庭网络的防御型安全协调员，负责搭建防火墙、XDR、漏洞、杀毒和网络扫描等 Bot. [Goonie4Life](https://x.com/Goonie4Life).
 - [Meta Muse](https://x.ai/bot/gv9aB5HOWEAs9CNtjrqsi) - 用你自己的 Meta 模型 API 密钥，把写作、起草、摘要、转录和图片等重活交给 Meta 的 Muse 模型. [Rob](https://x.com/sia14u).
+- [Google AI Ultra](https://x.ai/bot/PayMcgeTBAYLLENWEBsr7) - 通过你自己的 Google AI Ultra 套餐，仅使用谷歌官方 Antigravity CLI 安装并运行任务，登录由你自己完成. [俊](https://x.com/LiFeng61532).

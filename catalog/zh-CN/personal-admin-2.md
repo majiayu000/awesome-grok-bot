@@ -292,3 +292,6 @@
 - [Christo](https://x.ai/bot/efCqiBO3o5t-hz9-uh1Bh) - 温和的陪伴助手，通过新约相关经文帮你面对日常的难处. [Christopher](https://x.com/cjb_boy).
 - [Dealio](https://x.ai/bot/kfcy0ykkiF0tffdC-TSz1) - 黑五和网一的优惠侦察，盯着优惠网站、商家页面和你的促销邮件，核对真实价格后再告诉你哪些值得买. [The](https://x.com/The_Contextian).
 - [Birthday Deals](https://x.ai/bot/RnQa940JaxJrT44ShgpFT) - 找出所有加入邮件列表、会员计划或奖励应用就送生日福利的公司，帮你报名并维护一份追踪表. [The](https://x.com/The_Contextian).
+- [Cook](https://x.ai/bot/ZpX0u8JLbwsG2uOZwxzmI) - 发一个烹饪视频链接，就得到带视频截图、按你家厨房调整过的分步食谱 PDF. [Justin](https://x.com/edtech808).
+- [Claim Catch](https://x.ai/bot/XmAvORPaOJmHmv-XkSMJV) - 找出你能加入的集体诉讼和解，问几个简单问题来匹配，需要证明时从你的邮箱里找材料. [Marquis](https://x.com/DhalgrenMarquis).
+- [Coach Ted · Group Fitness & Oly Programmer](https://x.ai/bot/0D7VUN5D0QZFPlYgTqqzV) - 温和的训练编排教练，每周为你写团体健身课和奥林匹克举重课程，富有变化但不随意. [Jim](https://x.com/jimondrd).

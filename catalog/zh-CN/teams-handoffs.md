@@ -906,3 +906,5 @@
 - [Chief of Staff with Bot HQ](https://x.ai/bot/YmqplTI55ewhHyAfW9YzP) - 统筹整个 Grok Bot 团队的幕僚长，并为 Bot HQ 指挥中心页面提供各 Bot 的状态. [D](https://x.com/Wyatt_054).
 - [Saver](https://x.ai/bot/IDl3qbuoeBkYkK3bsOakv) - 让每周 Grok Bot 额度够用的助手，审计你所有的 Bot、找出 token 浪费并控制用量节奏. [Codila](https://x.com/TheLobsterNest).
 - [Grok Bot Efficiency Optimizer](https://x.ai/bot/74XfEdBjBJ2fdu-yfrzgQ) - 每周复查你的机器人和例行任务的用量，给出简单的提效建议，让 Grok Bot 额度用得更久. [Will](https://x.com/Ageless_Apex).
+- [Distributed Workforce Router](https://x.ai/bot/9IiZ8vVMzkX4O2OFILHN7) - 协调你的多个 Bot，能做的事自己做完，并从共享目录推荐模板，或为反复出现的缺口提议新建 Bot. [Marc](https://x.com/marc_garcia).
+- [Bot Setup Coach](https://x.ai/bot/bk10gDxGLJrjXXRlEMZfS) - 先问你每周时间花在哪，搭好一个助手并在第一次对话里给出真实结果，之后还能再加两个并每天早上跟进. [Justin](https://x.com/justinfredette).

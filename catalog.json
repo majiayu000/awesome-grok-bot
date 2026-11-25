@@ -169925,6 +169925,196 @@
       "updated": "2026-11-25",
       "shelf": "raw",
       "source": "https://x.com/The_Contextian/status/2125430234597982565"
+    },
+    {
+      "slug": "distributed-workforce-router-2",
+      "name": "Distributed Workforce Router",
+      "author": {
+        "name": "Marc",
+        "url": "https://x.com/marc_garcia"
+      },
+      "summary": "Coordinates your bots, does the work it can, recommends a template from the shared catalog or proposes a new bot for a recurring gap",
+      "summary_zh": "协调你的多个 Bot，能做的事自己做完，并从共享目录推荐模板，或为反复出现的缺口提议新建 Bot",
+      "import": "https://x.ai/bot/9IiZ8vVMzkX4O2OFILHN7",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/marc_garcia/status/2125516939321639407"
+    },
+    {
+      "slug": "cook",
+      "name": "Cook",
+      "author": {
+        "name": "Justin",
+        "url": "https://x.com/edtech808"
+      },
+      "summary": "Send a cooking video link and get a clean step-by-step recipe PDF with photos from the video, adapted for your kitchen",
+      "summary_zh": "发一个烹饪视频链接，就得到带视频截图、按你家厨房调整过的分步食谱 PDF",
+      "import": "https://x.ai/bot/ZpX0u8JLbwsG2uOZwxzmI",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/edtech808/status/2125514317609238784"
+    },
+    {
+      "slug": "google-ai-ultra",
+      "name": "Google AI Ultra",
+      "author": {
+        "name": "俊",
+        "url": "https://x.com/LiFeng61532"
+      },
+      "summary": "Installs and runs work through your own Google AI Ultra plan using only Google's official Antigravity CLI, and you sign in yourself",
+      "summary_zh": "通过你自己的 Google AI Ultra 套餐，仅使用谷歌官方 Antigravity CLI 安装并运行任务，登录由你自己完成",
+      "import": "https://x.ai/bot/PayMcgeTBAYLLENWEBsr7",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/LiFeng61532/status/2125545108707905863"
+    },
+    {
+      "slug": "bot-setup-coach",
+      "name": "Bot Setup Coach",
+      "author": {
+        "name": "Justin",
+        "url": "https://x.com/justinfredette"
+      },
+      "summary": "Asks what eats your week, sets up one helper and shows a real result in the first chat, then can add two more and check in each morning",
+      "summary_zh": "先问你每周时间花在哪，搭好一个助手并在第一次对话里给出真实结果，之后还能再加两个并每天早上跟进",
+      "import": "https://x.ai/bot/bk10gDxGLJrjXXRlEMZfS",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/justinfredette/status/2125533130698244449"
+    },
+    {
+      "slug": "maxwell-perkins",
+      "name": "Maxwell Perkins",
+      "author": {
+        "name": "Jim",
+        "url": "https://x.com/jimondrd"
+      },
+      "summary": "Editor in chief for a novelist covering developmental editing, honest counsel and manuscript-to-published guidance in the Scribner tradition",
+      "summary_zh": "面向小说作者的总编辑，提供结构性编辑、坦率意见和从书稿到出版的全程指导，沿用斯克里布纳传统",
+      "import": "https://x.ai/bot/VzhdJE9jIF-ITiH013-Ld",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/jimondrd/status/2125457456813777348"
+    },
+    {
+      "slug": "claim-catch",
+      "name": "Claim Catch",
+      "author": {
+        "name": "Marquis",
+        "url": "https://x.com/DhalgrenMarquis"
+      },
+      "summary": "Finds open class-action settlements you can join, asks a few quick questions to match you and finds proof in your email if a claim needs it",
+      "summary_zh": "找出你能加入的集体诉讼和解，问几个简单问题来匹配，需要证明时从你的邮箱里找材料",
+      "import": "https://x.ai/bot/XmAvORPaOJmHmv-XkSMJV",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/DhalgrenMarquis/status/2125446446078148683"
+    },
+    {
+      "slug": "anime-bot",
+      "name": "Anime Bot",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/PrimeCoCreator"
+      },
+      "summary": "Helps you make original anime episodes and trailers, from story and shots to polish, commercial-safe voices, subtitles and post-ready exports",
+      "summary_zh": "帮你制作原创动画剧集和预告片，从故事和分镜到打磨、可商用配音、字幕和可直接发布的导出",
+      "import": "https://x.ai/bot/GH54HIF_0dPEmLGFyk5mp",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/PrimeCoCreator/status/2125451984052605301"
+    },
+    {
+      "slug": "coach-ted-group-fitness-oly-programmer",
+      "name": "Coach Ted · Group Fitness & Oly Programmer",
+      "author": {
+        "name": "Jim",
+        "url": "https://x.com/jimondrd"
+      },
+      "summary": "A warm programming coach that each week writes your group fitness classes and Olympic weightlifting sessions, varied but never random",
+      "summary_zh": "温和的训练编排教练，每周为你写团体健身课和奥林匹克举重课程，富有变化但不随意",
+      "import": "https://x.ai/bot/0D7VUN5D0QZFPlYgTqqzV",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/jimondrd/status/2125457744165490856"
+    },
+    {
+      "slug": "agency-coo",
+      "name": "Agency COO",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/PrimeCoCreator"
+      },
+      "summary": "A COO bot for a small web or marketing agency selling one offer to local service shops, running daily operations, cold email and deploys",
+      "summary_zh": "面向小型网站或营销机构的运营总监 Bot，向本地服务商店销售单一服务，负责日常运营、冷邮件和部署",
+      "import": "https://x.ai/bot/IbO5n2yXvv1CObehZYHQh",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/PrimeCoCreator/status/2125452544512344319"
     }
   ]
 }

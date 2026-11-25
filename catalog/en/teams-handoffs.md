@@ -906,3 +906,5 @@ Back to [README](../../README.md)
 - [Chief of Staff with Bot HQ](https://x.ai/bot/YmqplTI55ewhHyAfW9YzP) - A Chief of Staff that runs your whole Grok Bot team and feeds Bot HQ, a command center page showing every bot's status. [D](https://x.com/Wyatt_054).
 - [Saver](https://x.ai/bot/IDl3qbuoeBkYkK3bsOakv) - One bot that makes your weekly Grok Bot limit last by auditing all your bots, finding token leaks and pacing usage. [Codila](https://x.com/TheLobsterNest).
 - [Grok Bot Efficiency Optimizer](https://x.ai/bot/74XfEdBjBJ2fdu-yfrzgQ) - Reviews what your bots and routines use every week and suggests simple ways to make them more efficient. [Will](https://x.com/Ageless_Apex).
+- [Distributed Workforce Router](https://x.ai/bot/9IiZ8vVMzkX4O2OFILHN7) - Coordinates your bots, does the work it can, recommends a template from the shared catalog or proposes a new bot for a recurring gap. [Marc](https://x.com/marc_garcia).
+- [Bot Setup Coach](https://x.ai/bot/bk10gDxGLJrjXXRlEMZfS) - Asks what eats your week, sets up one helper and shows a real result in the first chat, then can add two more and check in each morning. [Justin](https://x.com/justinfredette).

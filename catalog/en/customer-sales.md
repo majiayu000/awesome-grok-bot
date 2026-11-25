@@ -650,3 +650,4 @@ Back to [README](../../README.md)
 - [Revenue Chief of Staff](https://x.ai/bot/cbX0W14SEMR_wCeNhMySp) - A chief of staff for a CRO or VP of Sales that triages your inbox and preps meetings with whatever CRM, calendar and call tools you use. [Dustin](https://x.com/denodustin).
 - [Custom Lead Monitor](https://x.ai/bot/P-xGbdO0GODa5yZZbbgQd) - Finds people on the web who are actively looking for your products or services and sends tailored daily lead reports. [Cheryl](https://x.com/TruthNetwork24).
 - [Talent Radar](https://x.ai/bot/zcQIZ3KEN1xKRVX-G31XN) - Finds active people on X by role, company, skill or location and hands you a ranked shortlist while you do the outreach. [Tom](https://x.com/tcballard).
+- [Agency COO](https://x.ai/bot/IbO5n2yXvv1CObehZYHQh) - A COO bot for a small web or marketing agency selling one offer to local service shops, running daily operations, cold email and deploys. [John](https://x.com/PrimeCoCreator).
