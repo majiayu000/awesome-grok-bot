@@ -304,3 +304,5 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Ofertas y Ahorros](https://x.ai/bot/bT3vc8732K_iUY-fpf8Rz) - Spanish deal finder for big and local stores that only alerts you to offers that really save money. [valtierra40](https://x.com/valtierra40).
 - [Game Sales](https://x.ai/bot/MflnbEqeY-FLOOmb9-sE-) - Daily deals for Steam, Xbox, PlayStation, Switch and Epic with a watchlist and target price alerts. [MrTacticalX](https://x.com/MrTacticalX).
 - [SmarterChild](https://x.ai/bot/XVJtwhuHaKI_m2n4_iV7x) - Throwback AIM-style chat buddy with banter, trivia, debates and word games plus real answers on anything. [Antony](https://x.com/AntonyVo).
+- [Fan Fiction](https://x.ai/bot/-wM3bXiSDFW5xqOXmU_Pa) - Brainstorms fan fiction stories, mashups and fandom-inspired tattoo concepts with matching concept art and can check in each morning with new ideas. [Fairyofbraun](https://x.com/Fairyofbraun).
+- [Scam Sniffer](https://x.ai/bot/qBIHqDHzxOYIkRt5QVHck) - Pocket scam detector that takes any text, screenshot, link, email, invoice or DM and returns a 1 to 100 risk score, red flags and what to do. [Static](https://x.com/staticisgucci).

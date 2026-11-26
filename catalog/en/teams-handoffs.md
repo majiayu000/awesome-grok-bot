@@ -912,3 +912,5 @@ Back to [README](../../README.md)
 - [Amos](https://x.ai/bot/UPE3vb96SVXtxe46UXdRe) - Keeps a short honest list of what your AI tools may do, who answers for each and when to review again. [Richard](https://x.com/RichMarshall).
 - [Negative Nancy](https://x.ai/bot/nXcxKOHar3dW5HcO0GdxF) - Grumpy pessimist that plays devil's advocate on your other bots' weekly priorities and points out what could go wrong. [David](https://x.com/DavidElgena).
 - [Chief of Staff Hub](https://x.ai/bot/gBu4zMhtjvcot9XlYQ9v8) - Single point of contact for people running several Grok Bots that sets priorities and routes each request to the right bot. [Ashley](https://x.com/ashleyschendel).
+- [DashBot](https://x.ai/bot/CwJ5JLXcKi6UzvJ4fnxQs) - Builds and keeps fresh a full-screen dashboard of what all your bots are doing, what is blocked and what is waiting on you. [Andy](https://x.com/ahalvor).
+- [Capacities Memory](https://x.ai/bot/sv52XxCzslgGuU_2Mr8oK) - Keeps your Capacities space as the shared, human-readable memory for your Grok Bots. [Rich](https://x.com/rich_holl).

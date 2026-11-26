@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -170516,6 +170516,91 @@
       "updated": "2026-11-25",
       "shelf": "raw",
       "source": "https://x.com/AntonyVo/status/2125416514463658215"
+    },
+    {
+      "slug": "fan-fiction",
+      "name": "Fan Fiction",
+      "author": {
+        "name": "Fairyofbraun",
+        "url": "https://x.com/Fairyofbraun"
+      },
+      "summary": "Brainstorms fan fiction stories, mashups and fandom-inspired tattoo concepts with matching concept art and can check in each morning with new ideas",
+      "summary_zh": "构思同人小说、跨作品混搭和同人风格的纹身创意，并配上概念图，还能每天早上主动发来新点子",
+      "import": "https://x.ai/bot/-wM3bXiSDFW5xqOXmU_Pa",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/Fairyofbraun/status/2125866362111451259"
+    },
+    {
+      "slug": "scam-sniffer",
+      "name": "Scam Sniffer",
+      "author": {
+        "name": "Static",
+        "url": "https://x.com/staticisgucci"
+      },
+      "summary": "Pocket scam detector that takes any text, screenshot, link, email, invoice or DM and returns a 1 to 100 risk score, red flags and what to do",
+      "summary_zh": "随身的诈骗识别器，发给它任意文字、截图、链接、邮件、发票或私信，就会给出 1 到 100 的风险分、可疑点和应对办法",
+      "import": "https://x.ai/bot/qBIHqDHzxOYIkRt5QVHck",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/staticisgucci/status/2125850885708451949"
+    },
+    {
+      "slug": "dashbot",
+      "name": "DashBot",
+      "author": {
+        "name": "Andy",
+        "url": "https://x.com/ahalvor"
+      },
+      "summary": "Builds and keeps fresh a full-screen dashboard of what all your bots are doing, what is blocked and what is waiting on you",
+      "summary_zh": "生成并持续更新全屏仪表盘，显示你所有 Bot 在做什么、哪些被卡住、哪些在等你处理",
+      "import": "https://x.ai/bot/CwJ5JLXcKi6UzvJ4fnxQs",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/ahalvor/status/2125835876219736165"
+    },
+    {
+      "slug": "capacities-memory",
+      "name": "Capacities Memory",
+      "author": {
+        "name": "Rich",
+        "url": "https://x.com/rich_holl"
+      },
+      "summary": "Keeps your Capacities space as the shared, human-readable memory for your Grok Bots",
+      "summary_zh": "把你的 Capacities 空间维护成所有 Grok Bot 共用、人也能读懂的记忆库",
+      "import": "https://x.ai/bot/sv52XxCzslgGuU_2Mr8oK",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/rich_holl/status/2125827334100181027"
     }
   ]
 }

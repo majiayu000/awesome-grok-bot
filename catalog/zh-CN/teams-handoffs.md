@@ -912,3 +912,5 @@
 - [Amos](https://x.ai/bot/UPE3vb96SVXtxe46UXdRe) - 维护一份简短诚实的清单，记录每个 AI 工具能做什么、由谁负责以及何时复查. [Richard](https://x.com/RichMarshall).
 - [Negative Nancy](https://x.ai/bot/nXcxKOHar3dW5HcO0GdxF) - 爱唱反调的悲观派，每周对你其他 Bot 的优先事项唱反调，指出可能出问题的地方. [David](https://x.com/DavidElgena).
 - [Chief of Staff Hub](https://x.ai/bot/gBu4zMhtjvcot9XlYQ9v8) - 给同时运行多个 Grok Bot 的人用的统一入口，负责排优先级并把每个请求分给合适的 Bot. [Ashley](https://x.com/ashleyschendel).
+- [DashBot](https://x.ai/bot/CwJ5JLXcKi6UzvJ4fnxQs) - 生成并持续更新全屏仪表盘，显示你所有 Bot 在做什么、哪些被卡住、哪些在等你处理. [Andy](https://x.com/ahalvor).
+- [Capacities Memory](https://x.ai/bot/sv52XxCzslgGuU_2Mr8oK) - 把你的 Capacities 空间维护成所有 Grok Bot 共用、人也能读懂的记忆库. [Rich](https://x.com/rich_holl).

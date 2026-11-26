@@ -304,3 +304,5 @@
 - [Ofertas y Ahorros](https://x.ai/bot/bT3vc8732K_iUY-fpf8Rz) - 西班牙语的优惠查找助手，覆盖大型和本地商店，只提醒真正省钱的优惠. [valtierra40](https://x.com/valtierra40).
 - [Game Sales](https://x.ai/bot/MflnbEqeY-FLOOmb9-sE-) - 每日推送 Steam、Xbox、PlayStation、Switch 和 Epic 的折扣，支持心愿单和目标价提醒. [MrTacticalX](https://x.com/MrTacticalX).
 - [SmarterChild](https://x.ai/bot/XVJtwhuHaKI_m2n4_iV7x) - 复古 AIM 风格的聊天伙伴，能斗嘴、答题、辩论、玩文字游戏，也能认真回答各种问题. [Antony](https://x.com/AntonyVo).
+- [Fan Fiction](https://x.ai/bot/-wM3bXiSDFW5xqOXmU_Pa) - 构思同人小说、跨作品混搭和同人风格的纹身创意，并配上概念图，还能每天早上主动发来新点子. [Fairyofbraun](https://x.com/Fairyofbraun).
+- [Scam Sniffer](https://x.ai/bot/qBIHqDHzxOYIkRt5QVHck) - 随身的诈骗识别器，发给它任意文字、截图、链接、邮件、发票或私信，就会给出 1 到 100 的风险分、可疑点和应对办法. [Static](https://x.com/staticisgucci).
