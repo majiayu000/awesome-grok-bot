@@ -1093,3 +1093,7 @@
 - [Holo Depth Scan](https://x.ai/bot/C5m6wU1XquiuKEG4GvDrR) - 把任意图片变成全息深度扫描，霓虹波扫过画面，可选彩虹片、声呐、热成像或金色风格，输出循环视频. [D](https://x.com/Sevenfourone).
 - [Maxwell Perkins](https://x.ai/bot/VzhdJE9jIF-ITiH013-Ld) - 面向小说作者的总编辑，提供结构性编辑、坦率意见和从书稿到出版的全程指导，沿用斯克里布纳传统. [Jim](https://x.com/jimondrd).
 - [Anime Bot](https://x.ai/bot/GH54HIF_0dPEmLGFyk5mp) - 帮你制作原创动画剧集和预告片，从故事和分镜到打磨、可商用配音、字幕和可直接发布的导出. [John](https://x.com/PrimeCoCreator).
+- [Subscriber Shout Out](https://x.ai/bot/W1Myh_rOu3-wpbQ-1I4po) - 在公开场合感谢付费订阅者，随机抽一位并生成资料卡片，配上新写的感谢语. [PlanetOfMemes](https://x.com/PlanetOfMemes).
+- [YC Waitlist Email](https://x.ai/bot/nyhRVRkP9GFMkAu3l0-of) - 为候补名单写欢迎、上线当天和最后召集三类邮件，可直接粘贴到你的邮件工具. [Dylan](https://x.com/kidpakerot).
+- [OpenSEO Desk](https://x.ai/bot/4cVRlI3Oymfi7RfAMl78y) - 面向你自己的 OpenSEO 账号或自建实例的社区 Bot，覆盖关键词研究、站点审计、竞品和反向链接. [Lucas](https://x.com/Livvux).
+- [X Assistant for Post Performance](https://x.ai/bot/LdPuFPdYYHhPK29iOa2Ns) - 给你近期的 X 帖子打分，追踪每日浏览量与目标的差距，并生成不重复的发帖安排. [TheBrilliantBu1](https://x.com/TheBrilliantBu1).

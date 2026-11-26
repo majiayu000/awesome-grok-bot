@@ -170115,6 +170115,407 @@
       "updated": "2026-11-25",
       "shelf": "raw",
       "source": "https://x.com/PrimeCoCreator/status/2125452544512344319"
+    },
+    {
+      "slug": "aristotle",
+      "name": "Aristotle",
+      "author": {
+        "name": "8",
+        "url": "https://x.com/0rdlibrary"
+      },
+      "summary": "Formal-verification helper for Harmonic Aristotle that writes specs, secret-scans your code and runs proofs on C, Rust and Verilog",
+      "summary_zh": "给 Harmonic Aristotle 用的形式化验证助手，负责写规格、扫描代码中的密钥，并对 C、Rust 和 Verilog 代码跑证明",
+      "import": "https://x.ai/bot/z5Im4C9h0zPnb5KU_B43e",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/0rdlibrary/status/2125743350108373186"
+    },
+    {
+      "slug": "magrs-agent",
+      "name": "MAGRS Agent",
+      "author": {
+        "name": "Richard",
+        "url": "https://x.com/RichMarshall"
+      },
+      "summary": "Helps you design and review AI agents so a named human stays responsible, checking visibility and boundaries of any bot or skill",
+      "summary_zh": "帮你设计和审查 AI 智能体，确保始终有明确的负责人，可检查任意 Bot 或技能的可见性与边界",
+      "import": "https://x.ai/bot/hm6xUx7Fg9ORbzWqXfQ7Y",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/RichMarshall/status/2125706258980245800"
+    },
+    {
+      "slug": "fps-game-coach",
+      "name": "FPS Game Coach",
+      "author": {
+        "name": "AutoAndre",
+        "url": "https://x.com/AndreXTCG"
+      },
+      "summary": "Personal shooter coach for CoD, Warzone and Fortnite that reviews your clips and settings and says how to improve",
+      "summary_zh": "面向 CoD、Warzone 和 Fortnite 的射击游戏教练，复盘你的录像和设置并告诉你怎么提高",
+      "import": "https://x.ai/bot/bEEiEYYVY7NvYPw4h-N8P",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/AndreXTCG/status/2125681675862429697"
+    },
+    {
+      "slug": "amos",
+      "name": "Amos",
+      "author": {
+        "name": "Richard",
+        "url": "https://x.com/RichMarshall"
+      },
+      "summary": "Keeps a short honest list of what your AI tools may do, who answers for each and when to review again",
+      "summary_zh": "维护一份简短诚实的清单，记录每个 AI 工具能做什么、由谁负责以及何时复查",
+      "import": "https://x.ai/bot/UPE3vb96SVXtxe46UXdRe",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/RichMarshall/status/2125666950550344100"
+    },
+    {
+      "slug": "drive-window",
+      "name": "Drive Window",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/BrianRoemmele"
+      },
+      "summary": "Tell it your route and arrival time and it picks the best moment to leave using official weather and road reports",
+      "summary_zh": "告诉它路线和到达时间，它会参考官方天气和道路信息，选出最合适的出发时间",
+      "import": "https://x.ai/bot/TXi2kVIZ5zdDyUATh_AFd",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/BrianRoemmele/status/2125656949043913179"
+    },
+    {
+      "slug": "lego-steps",
+      "name": "LEGO Steps",
+      "author": {
+        "name": "Anthony",
+        "url": "https://x.com/AnthonyDo"
+      },
+      "summary": "Paste a YouTube LEGO build video and get a kid-friendly step-by-step instruction PDF back",
+      "summary_zh": "贴上 YouTube 的乐高搭建视频，就能拿到适合孩子看的分步说明 PDF",
+      "import": "https://x.ai/bot/NMl_ueqJzcGKQ-_M7dbwH",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/AnthonyDo/status/2125654509519057053"
+    },
+    {
+      "slug": "rug-radar",
+      "name": "Rug Radar",
+      "author": {
+        "name": "Chinu by chinu",
+        "url": "https://x.com/cryptowithchinu"
+      },
+      "summary": "Red-flag checker for new crypto tokens that scans contract, trading and liquidity from a contract address and chain",
+      "summary_zh": "新加密代币的风险检查器，输入合约地址和链就能扫描合约、交易和流动性方面的警示信号",
+      "import": "https://x.ai/bot/hRr7T4JlbTqP8cER1fpma",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "security",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/cryptowithchinu/status/2125652543363838245"
+    },
+    {
+      "slug": "book-club-keeper",
+      "name": "Book Club Keeper",
+      "author": {
+        "name": "Cristopher",
+        "url": "https://x.com/crisships"
+      },
+      "summary": "Runs the busywork of a book club by tracking the next book, date, host and RSVPs and whose turn it is to pick",
+      "summary_zh": "替读书会组织者处理杂事，记录下一本书、日期、主持人和报名情况，并提醒轮到谁选书",
+      "import": "https://x.ai/bot/kWffyG_VKOy9TxJumPoo2",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/crisships/status/2125646099981434936"
+    },
+    {
+      "slug": "satoshi-nakabot",
+      "name": "Satoshi Nakabot",
+      "author": {
+        "name": "Xavier",
+        "url": "https://x.com/Ortix008"
+      },
+      "summary": "Explains crypto without hype, gives a sourced scam score for any coin or link and helps turn an idea into a plan",
+      "summary_zh": "不带炒作地讲解加密货币，对任意币种或链接给出带来源的诈骗风险评分，并帮你把想法整理成方案",
+      "import": "https://x.ai/bot/3NV-Ru942qrmKg25DDF_K",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/Ortix008/status/2125640148025303432"
+    },
+    {
+      "slug": "money-owed-finder",
+      "name": "Money Owed Finder",
+      "author": {
+        "name": "Pablo",
+        "url": "https://x.com/KonectEaze"
+      },
+      "summary": "Searches official state and federal lists for unclaimed property and drafts the claim for you to file",
+      "summary_zh": "在州和联邦官方名单里查找无人认领的财产，并起草申领材料交由你自己提交",
+      "import": "https://x.ai/bot/5tTaVR4mf7L6ZRKHlIXFl",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/KonectEaze/status/2125639766825632220"
+    },
+    {
+      "slug": "ofertas-y-ahorros",
+      "name": "Ofertas y Ahorros",
+      "author": {
+        "name": "valtierra40",
+        "url": "https://x.com/valtierra40"
+      },
+      "summary": "Spanish deal finder for big and local stores that only alerts you to offers that really save money",
+      "summary_zh": "西班牙语的优惠查找助手，覆盖大型和本地商店，只提醒真正省钱的优惠",
+      "import": "https://x.ai/bot/bT3vc8732K_iUY-fpf8Rz",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/valtierra40/status/2125635550350803064"
+    },
+    {
+      "slug": "game-sales",
+      "name": "Game Sales",
+      "author": {
+        "name": "MrTacticalX",
+        "url": "https://x.com/MrTacticalX"
+      },
+      "summary": "Daily deals for Steam, Xbox, PlayStation, Switch and Epic with a watchlist and target price alerts",
+      "summary_zh": "每日推送 Steam、Xbox、PlayStation、Switch 和 Epic 的折扣，支持心愿单和目标价提醒",
+      "import": "https://x.ai/bot/MflnbEqeY-FLOOmb9-sE-",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/MrTacticalX/status/2125609602280816908"
+    },
+    {
+      "slug": "subscriber-shout-out",
+      "name": "Subscriber Shout Out",
+      "author": {
+        "name": "PlanetOfMemes",
+        "url": "https://x.com/PlanetOfMemes"
+      },
+      "summary": "Thanks your paid X subscribers in public by picking one at random and making a profile card with a fresh message",
+      "summary_zh": "在公开场合感谢付费订阅者，随机抽一位并生成资料卡片，配上新写的感谢语",
+      "import": "https://x.ai/bot/W1Myh_rOu3-wpbQ-1I4po",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/PlanetOfMemes/status/2125600779537150284"
+    },
+    {
+      "slug": "yc-waitlist-email",
+      "name": "YC Waitlist Email",
+      "author": {
+        "name": "Dylan",
+        "url": "https://x.com/kidpakerot"
+      },
+      "summary": "Writes welcome, launch day and last call emails for your waitlist, ready to paste into your email tool",
+      "summary_zh": "为候补名单写欢迎、上线当天和最后召集三类邮件，可直接粘贴到你的邮件工具",
+      "import": "https://x.ai/bot/nyhRVRkP9GFMkAu3l0-of",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/kidpakerot/status/2125597880652038371"
+    },
+    {
+      "slug": "openseo-desk",
+      "name": "OpenSEO Desk",
+      "author": {
+        "name": "Lucas",
+        "url": "https://x.com/Livvux"
+      },
+      "summary": "Community bot for your own OpenSEO account or self-hosted instance covering keywords, audits, competitors and backlinks",
+      "summary_zh": "面向你自己的 OpenSEO 账号或自建实例的社区 Bot，覆盖关键词研究、站点审计、竞品和反向链接",
+      "import": "https://x.ai/bot/4cVRlI3Oymfi7RfAMl78y",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/Livvux/status/2125595461817921589"
+    },
+    {
+      "slug": "negative-nancy",
+      "name": "Negative Nancy",
+      "author": {
+        "name": "David",
+        "url": "https://x.com/DavidElgena"
+      },
+      "summary": "Grumpy pessimist that plays devil's advocate on your other bots' weekly priorities and points out what could go wrong",
+      "summary_zh": "爱唱反调的悲观派，每周对你其他 Bot 的优先事项唱反调，指出可能出问题的地方",
+      "import": "https://x.ai/bot/nXcxKOHar3dW5HcO0GdxF",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/DavidElgena/status/2125405861568770097"
+    },
+    {
+      "slug": "x-assistant-for-post-performance",
+      "name": "X Assistant for Post Performance",
+      "author": {
+        "name": "TheBrilliantBu1",
+        "url": "https://x.com/TheBrilliantBu1"
+      },
+      "summary": "Grades your recent X posts, tracks daily views toward a goal and builds non-repeating post lineups",
+      "summary_zh": "给你近期的 X 帖子打分，追踪每日浏览量与目标的差距，并生成不重复的发帖安排",
+      "import": "https://x.ai/bot/LdPuFPdYYHhPK29iOa2Ns",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/TheBrilliantBu1/status/2125417941353316807"
+    },
+    {
+      "slug": "chief-of-staff-hub-2",
+      "name": "Chief of Staff Hub",
+      "author": {
+        "name": "Ashley",
+        "url": "https://x.com/ashleyschendel"
+      },
+      "summary": "Single point of contact for people running several Grok Bots that sets priorities and routes each request to the right bot",
+      "summary_zh": "给同时运行多个 Grok Bot 的人用的统一入口，负责排优先级并把每个请求分给合适的 Bot",
+      "import": "https://x.ai/bot/gBu4zMhtjvcot9XlYQ9v8",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/ashleyschendel/status/2125566723428319591"
+    },
+    {
+      "slug": "smarterchild",
+      "name": "SmarterChild",
+      "author": {
+        "name": "Antony",
+        "url": "https://x.com/AntonyVo"
+      },
+      "summary": "Throwback AIM-style chat buddy with banter, trivia, debates and word games plus real answers on anything",
+      "summary_zh": "复古 AIM 风格的聊天伙伴，能斗嘴、答题、辩论、玩文字游戏，也能认真回答各种问题",
+      "import": "https://x.ai/bot/XVJtwhuHaKI_m2n4_iV7x",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-25",
+      "shelf": "raw",
+      "source": "https://x.com/AntonyVo/status/2125416514463658215"
     }
   ]
 }

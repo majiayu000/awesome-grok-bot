@@ -788,3 +788,4 @@ Back to [README](../../README.md)
 - [Creator Tax by Infinity](https://x.ai/bot/t1yEvqDy5xPmiNAqRA7qm) - Keeps a content creator's tax in order in any country by logging income from email, converting payouts and tracking deductible costs. [Infinity](https://x.com/Falco_Secure).
 - [Manifest Desk](https://x.ai/bot/iIULcyUcynjZq03JrRVja) - Turns liquidation and wholesale pallet manifests into a conservative sourced bid sheet with one max hammer bid for the lot. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
 - [Payout Desk](https://x.ai/bot/QZFU_CJMiBuCXshZCkoj1) - Reconciles online sellers' marketplace sales exports against payouts and bank deposits and lists every dollar that did not land. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
+- [Rug Radar](https://x.ai/bot/hRr7T4JlbTqP8cER1fpma) - Red-flag checker for new crypto tokens that scans contract, trading and liquidity from a contract address and chain. [Chinu by chinu](https://x.com/cryptowithchinu).

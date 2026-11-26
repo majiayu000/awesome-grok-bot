@@ -908,3 +908,7 @@
 - [Grok Bot Efficiency Optimizer](https://x.ai/bot/74XfEdBjBJ2fdu-yfrzgQ) - 每周复查你的机器人和例行任务的用量，给出简单的提效建议，让 Grok Bot 额度用得更久. [Will](https://x.com/Ageless_Apex).
 - [Distributed Workforce Router](https://x.ai/bot/9IiZ8vVMzkX4O2OFILHN7) - 协调你的多个 Bot，能做的事自己做完，并从共享目录推荐模板，或为反复出现的缺口提议新建 Bot. [Marc](https://x.com/marc_garcia).
 - [Bot Setup Coach](https://x.ai/bot/bk10gDxGLJrjXXRlEMZfS) - 先问你每周时间花在哪，搭好一个助手并在第一次对话里给出真实结果，之后还能再加两个并每天早上跟进. [Justin](https://x.com/justinfredette).
+- [MAGRS Agent](https://x.ai/bot/hm6xUx7Fg9ORbzWqXfQ7Y) - 帮你设计和审查 AI 智能体，确保始终有明确的负责人，可检查任意 Bot 或技能的可见性与边界. [Richard](https://x.com/RichMarshall).
+- [Amos](https://x.ai/bot/UPE3vb96SVXtxe46UXdRe) - 维护一份简短诚实的清单，记录每个 AI 工具能做什么、由谁负责以及何时复查. [Richard](https://x.com/RichMarshall).
+- [Negative Nancy](https://x.ai/bot/nXcxKOHar3dW5HcO0GdxF) - 爱唱反调的悲观派，每周对你其他 Bot 的优先事项唱反调，指出可能出问题的地方. [David](https://x.com/DavidElgena).
+- [Chief of Staff Hub](https://x.ai/bot/gBu4zMhtjvcot9XlYQ9v8) - 给同时运行多个 Grok Bot 的人用的统一入口，负责排优先级并把每个请求分给合适的 Bot. [Ashley](https://x.com/ashleyschendel).

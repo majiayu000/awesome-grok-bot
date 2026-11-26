@@ -788,3 +788,4 @@
 - [Creator Tax by Infinity](https://x.ai/bot/t1yEvqDy5xPmiNAqRA7qm) - 帮内容创作者在任何国家整理税务，从邮件记录收入、换算海外收款并跟踪可抵扣费用. [Infinity](https://x.com/Falco_Secure).
 - [Manifest Desk](https://x.ai/bot/iIULcyUcynjZq03JrRVja) - 把清仓和批发托盘清单整理成保守且有出处的竞拍表，并给出整批的最高落槌价. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
 - [Payout Desk](https://x.ai/bot/QZFU_CJMiBuCXshZCkoj1) - 为网店卖家把平台销售导出表与结算款和银行到账逐笔对账，列出每一笔没到账的金额. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
+- [Rug Radar](https://x.ai/bot/hRr7T4JlbTqP8cER1fpma) - 新加密代币的风险检查器，输入合约地址和链就能扫描合约、交易和流动性方面的警示信号. [Chinu by chinu](https://x.com/cryptowithchinu).

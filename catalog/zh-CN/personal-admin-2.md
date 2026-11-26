@@ -295,3 +295,12 @@
 - [Cook](https://x.ai/bot/ZpX0u8JLbwsG2uOZwxzmI) - 发一个烹饪视频链接，就得到带视频截图、按你家厨房调整过的分步食谱 PDF. [Justin](https://x.com/edtech808).
 - [Claim Catch](https://x.ai/bot/XmAvORPaOJmHmv-XkSMJV) - 找出你能加入的集体诉讼和解，问几个简单问题来匹配，需要证明时从你的邮箱里找材料. [Marquis](https://x.com/DhalgrenMarquis).
 - [Coach Ted · Group Fitness & Oly Programmer](https://x.ai/bot/0D7VUN5D0QZFPlYgTqqzV) - 温和的训练编排教练，每周为你写团体健身课和奥林匹克举重课程，富有变化但不随意. [Jim](https://x.com/jimondrd).
+- [FPS Game Coach](https://x.ai/bot/bEEiEYYVY7NvYPw4h-N8P) - 面向 CoD、Warzone 和 Fortnite 的射击游戏教练，复盘你的录像和设置并告诉你怎么提高. [AutoAndre](https://x.com/AndreXTCG).
+- [Drive Window](https://x.ai/bot/TXi2kVIZ5zdDyUATh_AFd) - 告诉它路线和到达时间，它会参考官方天气和道路信息，选出最合适的出发时间. [Brian](https://x.com/BrianRoemmele).
+- [LEGO Steps](https://x.ai/bot/NMl_ueqJzcGKQ-_M7dbwH) - 贴上 YouTube 的乐高搭建视频，就能拿到适合孩子看的分步说明 PDF. [Anthony](https://x.com/AnthonyDo).
+- [Book Club Keeper](https://x.ai/bot/kWffyG_VKOy9TxJumPoo2) - 替读书会组织者处理杂事，记录下一本书、日期、主持人和报名情况，并提醒轮到谁选书. [Cristopher](https://x.com/crisships).
+- [Satoshi Nakabot](https://x.ai/bot/3NV-Ru942qrmKg25DDF_K) - 不带炒作地讲解加密货币，对任意币种或链接给出带来源的诈骗风险评分，并帮你把想法整理成方案. [Xavier](https://x.com/Ortix008).
+- [Money Owed Finder](https://x.ai/bot/5tTaVR4mf7L6ZRKHlIXFl) - 在州和联邦官方名单里查找无人认领的财产，并起草申领材料交由你自己提交. [Pablo](https://x.com/KonectEaze).
+- [Ofertas y Ahorros](https://x.ai/bot/bT3vc8732K_iUY-fpf8Rz) - 西班牙语的优惠查找助手，覆盖大型和本地商店，只提醒真正省钱的优惠. [valtierra40](https://x.com/valtierra40).
+- [Game Sales](https://x.ai/bot/MflnbEqeY-FLOOmb9-sE-) - 每日推送 Steam、Xbox、PlayStation、Switch 和 Epic 的折扣，支持心愿单和目标价提醒. [MrTacticalX](https://x.com/MrTacticalX).
+- [SmarterChild](https://x.ai/bot/XVJtwhuHaKI_m2n4_iV7x) - 复古 AIM 风格的聊天伙伴，能斗嘴、答题、辩论、玩文字游戏，也能认真回答各种问题. [Antony](https://x.com/AntonyVo).
