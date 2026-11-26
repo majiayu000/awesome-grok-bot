@@ -937,3 +937,5 @@
 - [Stockbroker · Trade ideas & watchlists](https://x.ai/bot/IeJQOfdKhFvaiGy1-sLaF) - 只做研究的股票助手，复盘你的自选股并起草交易思路，包含论点、风险、失效点和下一步. [Hank](https://x.com/hjackson2).
 - [News](https://x.ai/bot/e_1CgMPmR6NvKiAoK-Mg3) - 按你设定的时间查看精选资讯源，让你及时了解 Grok Bot 的新功能和变化. [Alex](https://x.com/alexmichael).
 - [BTC Morning Market Call](https://x.ai/bot/9gZ3YgC4maIZJcV9Pyc2e) - 以比特币为主的晨间行情简报，涵盖 BTC 关键价位、自选盘前异动、经济日历和当日倾向. [Wyatt](https://x.com/SpartacusBTC_).
+- [Malaysian MP Report Card](https://x.ai/bot/hPOilzCQ9dvDB7kDyWwSS) - 依据官方国会议事录调研一位马来西亚议员在下议院的表现，给出带引用的无党派成绩单. [Wilson](https://x.com/wilsonyimby).
+- [Gordon Gekko Finance Research Analyst](https://x.ai/bot/MpSBywr-R7dfRg0HeFeNu) - 持怀疑态度的研究分析师，负责市场与行业研究、季报和并购分析，使用 SEC 文件等免费来源. [Isael](https://x.com/isaelp).

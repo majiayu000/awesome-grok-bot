@@ -170601,6 +170601,195 @@
       "updated": "2026-11-26",
       "shelf": "raw",
       "source": "https://x.com/rich_holl/status/2125827334100181027"
+    },
+    {
+      "slug": "shopify-leads",
+      "name": "Shopify Leads",
+      "author": {
+        "name": "Jack",
+        "url": "https://x.com/notswizz"
+      },
+      "summary": "Finds companies hiring Shopify or WordPress developers, researches them and drafts pitches offering your agency as a cheaper option",
+      "summary_zh": "找出正在招聘 Shopify 或 WordPress 开发者的公司，调研后起草推介信，主打你的机构是更省钱的外包选择",
+      "import": "https://x.ai/bot/9EE__idLxGnDF3bdXFmFp",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/notswizz/status/2125882344494034970"
+    },
+    {
+      "slug": "malaysian-mp-report-card",
+      "name": "Malaysian MP Report Card",
+      "author": {
+        "name": "Wilson",
+        "url": "https://x.com/wilsonyimby"
+      },
+      "summary": "Researches one Malaysian MP's Dewan Rakyat record from official Hansard and hands you a cited, non-partisan report card",
+      "summary_zh": "依据官方国会议事录调研一位马来西亚议员在下议院的表现，给出带引用的无党派成绩单",
+      "import": "https://x.ai/bot/hPOilzCQ9dvDB7kDyWwSS",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/wilsonyimby/status/2125881509295108151"
+    },
+    {
+      "slug": "gordon-gekko-finance-research-analyst",
+      "name": "Gordon Gekko Finance Research Analyst",
+      "author": {
+        "name": "Isael",
+        "url": "https://x.com/isaelp"
+      },
+      "summary": "Skeptical research analyst for market and sector research, quarterly reports and M&A work using free sources like SEC filings",
+      "summary_zh": "持怀疑态度的研究分析师，负责市场与行业研究、季报和并购分析，使用 SEC 文件等免费来源",
+      "import": "https://x.ai/bot/MpSBywr-R7dfRg0HeFeNu",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/isaelp/status/2125793589699428511"
+    },
+    {
+      "slug": "sats-stack",
+      "name": "Sats Stack",
+      "author": {
+        "name": "Loren",
+        "url": "https://x.com/LorenHodl"
+      },
+      "summary": "Converts USD and sats with a live price, does your DCA math and keeps a private log of your stack with milestones",
+      "summary_zh": "按实时价格换算美元和聪，计算定投数额，并为你的持仓保留带里程碑的私人记录",
+      "import": "https://x.ai/bot/k03Oscgs9aQMOP798-GVm",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/LorenHodl/status/2125789357022019618"
+    },
+    {
+      "slug": "ghost-privacy-guard-2",
+      "name": "Ghost Privacy Guard",
+      "author": {
+        "name": "Rickie",
+        "url": "https://x.com/Rickie_Shaver"
+      },
+      "summary": "Personal data-removal assistant that finds your info on people-search and data-broker sites and files each free opt-out for you",
+      "summary_zh": "个人数据清除助手，找出你在人员搜索和数据经纪网站上的信息，并替你提交各站点的免费退出申请",
+      "import": "https://x.ai/bot/8jp59sBwFJjZQ418g0A6E",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/Rickie_Shaver/status/2125787091736867232"
+    },
+    {
+      "slug": "achilles",
+      "name": "Achilles",
+      "author": {
+        "name": "Roberto",
+        "url": "https://x.com/rob_manganelly"
+      },
+      "summary": "Keeps your yearly budget and expense tracker in Google Sheets up to date from linked bank accounts and asks only about unclear transactions",
+      "summary_zh": "根据已关联的银行账户更新你在 Google 表格里的年度预算和支出记录，只询问不明确的交易",
+      "import": "https://x.ai/bot/QGot9jDsXHneW6VKCDysu",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/rob_manganelly/status/2125786811121471675"
+    },
+    {
+      "slug": "bot-oselpzpv",
+      "name": "日程助手",
+      "author": {
+        "name": "衣",
+        "url": "https://x.com/baiyiblockchain"
+      },
+      "summary": "Tracks your daily routine and schedule and gives a few concrete morning tips, with weekly and monthly reviews of progress",
+      "summary_zh": "记录你的作息并整理日程，早上给出少量具体建议，每周和每月开头回顾进展",
+      "import": "https://x.ai/bot/osE-lPzpVxHGZHDkeGEav",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/baiyiblockchain/status/2125783828224782799"
+    },
+    {
+      "slug": "veteran-records-team",
+      "name": "Veteran Records Team",
+      "author": {
+        "name": "Jake",
+        "url": "https://x.com/theECconsultant"
+      },
+      "summary": "Chief of staff, legal reviewer and medical reviewer in one bot that reads a veteran's DD-214 and military records and explains them",
+      "summary_zh": "集参谋长、法务审阅和医疗审阅于一身，读取退伍军人的 DD-214 和军事档案并解释其含义",
+      "import": "https://x.ai/bot/86AHVmAS-WT3C4NrSGCas",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/theECconsultant/status/2125774024944836835"
+    },
+    {
+      "slug": "genealogy-bot",
+      "name": "Genealogy Bot",
+      "author": {
+        "name": "Shaun",
+        "url": "https://x.com/ShaunStromb"
+      },
+      "summary": "Family-history research partner that builds a cited ancestor tree and files record images and gravestone photos in a numbered appendix",
+      "summary_zh": "家族史研究搭档，构建带引用的祖先谱系，并把档案图片和墓碑照片归入编号附录",
+      "import": "https://x.ai/bot/PlA7FFbcFUQdUrdEnmAdU",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-26",
+      "shelf": "raw",
+      "source": "https://x.com/ShaunStromb/status/2125764558577103017"
     }
   ]
 }

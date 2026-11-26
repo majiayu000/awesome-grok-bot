@@ -789,3 +789,5 @@
 - [Manifest Desk](https://x.ai/bot/iIULcyUcynjZq03JrRVja) - 把清仓和批发托盘清单整理成保守且有出处的竞拍表，并给出整批的最高落槌价. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
 - [Payout Desk](https://x.ai/bot/QZFU_CJMiBuCXshZCkoj1) - 为网店卖家把平台销售导出表与结算款和银行到账逐笔对账，列出每一笔没到账的金额. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
 - [Rug Radar](https://x.ai/bot/hRr7T4JlbTqP8cER1fpma) - 新加密代币的风险检查器，输入合约地址和链就能扫描合约、交易和流动性方面的警示信号. [Chinu by chinu](https://x.com/cryptowithchinu).
+- [Sats Stack](https://x.ai/bot/k03Oscgs9aQMOP798-GVm) - 按实时价格换算美元和聪，计算定投数额，并为你的持仓保留带里程碑的私人记录. [Loren](https://x.com/LorenHodl).
+- [Achilles](https://x.ai/bot/QGot9jDsXHneW6VKCDysu) - 根据已关联的银行账户更新你在 Google 表格里的年度预算和支出记录，只询问不明确的交易. [Roberto](https://x.com/rob_manganelly).

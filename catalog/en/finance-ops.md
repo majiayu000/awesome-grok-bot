@@ -789,3 +789,5 @@ Back to [README](../../README.md)
 - [Manifest Desk](https://x.ai/bot/iIULcyUcynjZq03JrRVja) - Turns liquidation and wholesale pallet manifests into a conservative sourced bid sheet with one max hammer bid for the lot. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
 - [Payout Desk](https://x.ai/bot/QZFU_CJMiBuCXshZCkoj1) - Reconciles online sellers' marketplace sales exports against payouts and bank deposits and lists every dollar that did not land. [🇺🇸AdRock🇺🇸](https://x.com/AdRockUSA).
 - [Rug Radar](https://x.ai/bot/hRr7T4JlbTqP8cER1fpma) - Red-flag checker for new crypto tokens that scans contract, trading and liquidity from a contract address and chain. [Chinu by chinu](https://x.com/cryptowithchinu).
+- [Sats Stack](https://x.ai/bot/k03Oscgs9aQMOP798-GVm) - Converts USD and sats with a live price, does your DCA math and keeps a private log of your stack with milestones. [Loren](https://x.com/LorenHodl).
+- [Achilles](https://x.ai/bot/QGot9jDsXHneW6VKCDysu) - Keeps your yearly budget and expense tracker in Google Sheets up to date from linked bank accounts and asks only about unclear transactions. [Roberto](https://x.com/rob_manganelly).

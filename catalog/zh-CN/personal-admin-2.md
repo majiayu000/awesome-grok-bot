@@ -306,3 +306,7 @@
 - [SmarterChild](https://x.ai/bot/XVJtwhuHaKI_m2n4_iV7x) - 复古 AIM 风格的聊天伙伴，能斗嘴、答题、辩论、玩文字游戏，也能认真回答各种问题. [Antony](https://x.com/AntonyVo).
 - [Fan Fiction](https://x.ai/bot/-wM3bXiSDFW5xqOXmU_Pa) - 构思同人小说、跨作品混搭和同人风格的纹身创意，并配上概念图，还能每天早上主动发来新点子. [Fairyofbraun](https://x.com/Fairyofbraun).
 - [Scam Sniffer](https://x.ai/bot/qBIHqDHzxOYIkRt5QVHck) - 随身的诈骗识别器，发给它任意文字、截图、链接、邮件、发票或私信，就会给出 1 到 100 的风险分、可疑点和应对办法. [Static](https://x.com/staticisgucci).
+- [Ghost Privacy Guard](https://x.ai/bot/8jp59sBwFJjZQ418g0A6E) - 个人数据清除助手，找出你在人员搜索和数据经纪网站上的信息，并替你提交各站点的免费退出申请. [Rickie](https://x.com/Rickie_Shaver).
+- [日程助手](https://x.ai/bot/osE-lPzpVxHGZHDkeGEav) - 记录你的作息并整理日程，早上给出少量具体建议，每周和每月开头回顾进展. [衣](https://x.com/baiyiblockchain).
+- [Veteran Records Team](https://x.ai/bot/86AHVmAS-WT3C4NrSGCas) - 集参谋长、法务审阅和医疗审阅于一身，读取退伍军人的 DD-214 和军事档案并解释其含义. [Jake](https://x.com/theECconsultant).
+- [Genealogy Bot](https://x.ai/bot/PlA7FFbcFUQdUrdEnmAdU) - 家族史研究搭档，构建带引用的祖先谱系，并把档案图片和墓碑照片归入编号附录. [Shaun](https://x.com/ShaunStromb).
