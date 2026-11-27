@@ -914,3 +914,10 @@
 - [Chief of Staff Hub](https://x.ai/bot/gBu4zMhtjvcot9XlYQ9v8) - 给同时运行多个 Grok Bot 的人用的统一入口，负责排优先级并把每个请求分给合适的 Bot. [Ashley](https://x.com/ashleyschendel).
 - [DashBot](https://x.ai/bot/CwJ5JLXcKi6UzvJ4fnxQs) - 生成并持续更新全屏仪表盘，显示你所有 Bot 在做什么、哪些被卡住、哪些在等你处理. [Andy](https://x.com/ahalvor).
 - [Capacities Memory](https://x.ai/bot/sv52XxCzslgGuU_2Mr8oK) - 把你的 Capacities 空间维护成所有 Grok Bot 共用、人也能读懂的记忆库. [Rich](https://x.com/rich_holl).
+- [LessInTheMix](https://x.ai/bot/vMZBhhmt9d9ycOIoKvwIm) - 第三版协调器，适配你已有的机器人，用红绿灯和一句话说明给出判断，并检查哪里能省用量. [Andy](https://x.com/LessInTheMix).
+- [Chief of Staff for Christian Promoters](https://x.ai/bot/pLAkB9hgbNHU-pOMq7pCI) - 面向基督教音乐会、巡演和音乐节主办的参谋长，推动收件箱、日历、演出和团队跟进. [John](https://x.com/promoter4christ).
+- [Joan, Front Office](https://x.ai/bot/5TpUWsygD2Oiaf7be9dcW) - 给带团队、项目或机器人群的人做前台，过滤送到你面前的事，并给出一份清楚的晨间简报. [Jueno](https://x.com/JuenoMorgTate).
+- [Grok Usage Dashboard](https://x.ai/bot/SsgW05NNapnqZYNGen4Za) - 私人的 Grok 用量看板，按日、周、机器人和应用展示，每晚或在你输入更新时刷新，并保留历史. [chuckkay](https://x.com/TheRealChuckyK).
+- [Pattern Bot](https://x.ai/bot/Azvz9f83-BAHR_ud3Hwlb) - 面向 Grok Bot 搭建者的社区策展，收集、整理并分享可复用的机器人模式、模板和最佳实践配方. [Jim](https://x.com/jimondrd).
+- [Captain Careful: Chief of Staff](https://x.ai/bot/1gsT-W4fsu_Q-IPRFR5iU) - 面向完全新手的参谋长，先带你设定消费限额和安全规则，再让其他机器人开始干活. [Mark](https://x.com/markshaw).
+- [Agent Waffle Project Manager](https://x.ai/bot/aheggsslgtnfi1al7jta3) - 面向小而有边界的项目经理助手，做每周计划对照、催办、诚实的状态草稿和风险预警. [David](https://x.com/thepm_expert).

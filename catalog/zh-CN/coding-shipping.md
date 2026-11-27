@@ -978,3 +978,6 @@
 - [Meta Muse](https://x.ai/bot/gv9aB5HOWEAs9CNtjrqsi) - 用你自己的 Meta 模型 API 密钥，把写作、起草、摘要、转录和图片等重活交给 Meta 的 Muse 模型. [Rob](https://x.com/sia14u).
 - [Google AI Ultra](https://x.ai/bot/PayMcgeTBAYLLENWEBsr7) - 通过你自己的 Google AI Ultra 套餐，仅使用谷歌官方 Antigravity CLI 安装并运行任务，登录由你自己完成. [俊](https://x.com/LiFeng61532).
 - [Aristotle](https://x.ai/bot/z5Im4C9h0zPnb5KU_B43e) - 给 Harmonic Aristotle 用的形式化验证助手，负责写规格、扫描代码中的密钥，并对 C、Rust 和 Verilog 代码跑证明. [8](https://x.com/0rdlibrary).
+- [3D PrintBot](https://x.ai/bot/re0zDhcs5mDviHcslnnGo) - 远程控制家里局域网里的 FDM 打印机，支持 Elegoo、Bambu Lab、Klipper、OctoPrint 和 PrusaLink，可查看状态、报错并切片. [News](https://x.com/tonthat_baotoan).
+- [Épure](https://x.ai/bot/UUyqNpryzVpFB1OWsNXhZ) - 把三维 CAD 文件或零件照片加尺寸，转成带标注的二维车间图，并交出可编辑的 DXF. [RealOpenArmy](https://x.com/RealOpenArmy).
+- [Idiot Web Browser Project](https://x.ai/bot/pF2KvPMGc7pS4v8ObiOCL) - 打造带广告拦截、无遥测和自定快捷键的桌面浏览器，并打包到 Linux，包括 AUR. [Ray](https://x.com/Ace075371796428).

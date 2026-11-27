@@ -319,3 +319,4 @@ Back to [README](../../README.md)
 - [Chief of Staff by Cat](https://x.ai/bot/MXcYNuK8a0nBjRpC4ArsV) - Warm, organized chief of staff for a small practice or solo business with a weekday morning digest from your calendar. [Cat](https://x.com/Glidewell_AI).
 - [Gina by Neil](https://x.ai/bot/iW5ZvFmnFpk6dgKqT9spo) - Deep-cleans Gmail by clearing junk and flagging what needs action, with weekly digests and missed money-making ideas. [Neil](https://x.com/neilmwhite).
 - [Zoombot by Snehil](https://x.ai/bot/gTwt7ghDJo5DniErESJGn) - Watches Gmail or Outlook for meetings agreed by email and books them on Zoom with a calendar invite after one tap. [Snehil](https://x.com/sne_hil).
+- [Phil · Phish Filter](https://x.ai/bot/VPiKe-h9Cn1ud2DDWKeSs) - A daily security watch for your email and iMessages that flags phishing, scams, spoofed senders and real alerts, and stays quiet when nothing is wrong. [Dennis](https://x.com/DennisCW_).

@@ -791,3 +791,8 @@
 - [Rug Radar](https://x.ai/bot/hRr7T4JlbTqP8cER1fpma) - 新加密代币的风险检查器，输入合约地址和链就能扫描合约、交易和流动性方面的警示信号. [Chinu by chinu](https://x.com/cryptowithchinu).
 - [Sats Stack](https://x.ai/bot/k03Oscgs9aQMOP798-GVm) - 按实时价格换算美元和聪，计算定投数额，并为你的持仓保留带里程碑的私人记录. [Loren](https://x.com/LorenHodl).
 - [Achilles](https://x.ai/bot/QGot9jDsXHneW6VKCDysu) - 根据已关联的银行账户更新你在 Google 表格里的年度预算和支出记录，只询问不明确的交易. [Roberto](https://x.com/rob_manganelly).
+- [Budget Bot](https://x.ai/bot/f-pu615M1a5Pj5gXeCdGm) - 上传银行和信用卡账单，把月度支出分类，给出盈亏、现金流预测和省钱路径. [🇺🇸AmericanGirl🇺🇸](https://x.com/MaryMoon013).
+- [Delivery Credit Desk](https://x.ai/bot/LGaajWl-QsRgUSc2Z4fFV) - 找出晚于承诺日期送达的包裹，先从亚马逊开始，对照物流邮件和订单记录，并起草补偿申请. [Loungeless](https://x.com/Loungeless).
+- [After the Cart](https://x.ai/bot/RQMuaVWs6_af6JOvLzf8u) - 读取你的订单邮件，每天早上到商店官网核对商品现价，降价后起草差价补偿申请. [Ryan](https://x.com/ryanthawks).
+- [Stack Desk](https://x.ai/bot/xsZrUEth6yVjrjUCPJsRe) - 买之前告诉它商店或贴上链接，它会搭配购物门户和信用卡优惠，并标出返现上限，避免重复计算. [Loungeless](https://x.com/Loungeless).
+- [Fleet Desk](https://x.ai/bot/0WuDx4Ll1abLKuRFCjmQv) - 面向公共车队管理者和车间主管，上传保养、工单或油耗表后标出应先看的问题，未经允许不改记录. [Dan](https://x.com/civicfleets).

@@ -319,3 +319,4 @@
 - [Chief of Staff by Cat](https://x.ai/bot/MXcYNuK8a0nBjRpC4ArsV) - 温和有条理的幕僚长，服务小型事务所或个人业务，每个工作日早上根据日历发送摘要. [Cat](https://x.com/Glidewell_AI).
 - [Gina by Neil](https://x.ai/bot/iW5ZvFmnFpk6dgKqT9spo) - 深度清理 Gmail，清掉垃圾邮件并标出待办，附每周摘要和被遗漏的赚钱点子. [Neil](https://x.com/neilmwhite).
 - [Zoombot by Snehil](https://x.ai/bot/gTwt7ghDJo5DniErESJGn) - 盯着 Gmail 或 Outlook 里邮件约定的会议，你点一下就订好 Zoom 并发出日历邀请. [Snehil](https://x.com/sne_hil).
+- [Phil · Phish Filter](https://x.ai/bot/VPiKe-h9Cn1ud2DDWKeSs) - 每天检查邮件和 iMessage，标出钓鱼、诈骗、伪装发件人和真正的安全提醒，没事时保持安静. [Dennis](https://x.com/DennisCW_).

@@ -1097,3 +1097,11 @@
 - [YC Waitlist Email](https://x.ai/bot/nyhRVRkP9GFMkAu3l0-of) - 为候补名单写欢迎、上线当天和最后召集三类邮件，可直接粘贴到你的邮件工具. [Dylan](https://x.com/kidpakerot).
 - [OpenSEO Desk](https://x.ai/bot/4cVRlI3Oymfi7RfAMl78y) - 面向你自己的 OpenSEO 账号或自建实例的社区 Bot，覆盖关键词研究、站点审计、竞品和反向链接. [Lucas](https://x.com/Livvux).
 - [X Assistant for Post Performance](https://x.ai/bot/LdPuFPdYYHhPK29iOa2Ns) - 给你近期的 X 帖子打分，追踪每日浏览量与目标的差距，并生成不重复的发帖安排. [TheBrilliantBu1](https://x.com/TheBrilliantBu1).
+- [Clippy](https://x.ai/bot/5JCffK_QIZjlCLyTrRIFV) - 按你的领域盯着 X 上最热的播客和视频，找出值得切片的瞬间，并给出精确时间戳和切入角度. [cradrrat](https://x.com/cradrrat).
+- [Final Draft Writer](https://x.ai/bot/xJytk11eFlrgImQs1F79t) - 每周三次从核过的来源写一份只讲事实的报纸，并为每篇报道标注确证程度. [SERAFIN](https://x.com/fraksquatch).
+- [Final Draft Editor](https://x.ai/bot/39ftCzFA8EcNrQ55-G31_) - 事实核查编辑，对照来源检查写作机器人起草的每期内容，并为每篇报道打分. [SERAFIN](https://x.com/fraksquatch).
+- [Bard - Video Director](https://x.ai/bot/vZzE4KMHNZQdalyR1VGJz) - 把你的简报做成短片、广告或讲解视频，先讲故事，再出分镜和镜头指导. [Nelson](https://x.com/nelson_).
+- [First-Payout Helper](https://x.ai/bot/7rahJ0poNv_oWzZscVKGX) - 帮助 X 上的新创作者达到首次结算，跟踪发帖收益和订阅的要求，并每周跟进进度. [magagrandmom](https://x.com/magagrandmom).
+- [Nell · Visual Designer](https://x.ai/bot/h1Yo8IwT9N3f9LUVWEuKR) - 视觉设计助手，制作干净的落地页稿、广告、社交图、轮播和 SaaS 界面说明，并考虑视线流和转化布局. [Roman](https://x.com/rkruglov).
+- [SEO](https://x.ai/bot/wuPhZIF94RNPvARMgl9rA) - 网站 SEO 顾问，覆盖技术审计、Search Console、关键词、内容纲要和文章、内链以及每周计划. [Max](https://x.com/0xExpl0rer).
+- [X Creator Coach](https://x.ai/bot/DQOOIfaSL1argMYE7Yr6e) - 每天按你的语气起草一到三条原创 X 帖，并对照官方创作者计划回顾一周表现，每条都经你批准再发. [Anthony](https://x.com/AnthonyDo).

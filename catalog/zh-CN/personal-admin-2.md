@@ -310,3 +310,28 @@
 - [日程助手](https://x.ai/bot/osE-lPzpVxHGZHDkeGEav) - 记录你的作息并整理日程，早上给出少量具体建议，每周和每月开头回顾进展. [衣](https://x.com/baiyiblockchain).
 - [Veteran Records Team](https://x.ai/bot/86AHVmAS-WT3C4NrSGCas) - 集参谋长、法务审阅和医疗审阅于一身，读取退伍军人的 DD-214 和军事档案并解释其含义. [Jake](https://x.com/theECconsultant).
 - [Genealogy Bot](https://x.ai/bot/PlA7FFbcFUQdUrdEnmAdU) - 家族史研究搭档，构建带引用的祖先谱系，并把档案图片和墓碑照片归入编号附录. [Shaun](https://x.com/ShaunStromb).
+- [PC Tune-Up Tech](https://x.ai/bot/gDvTBZoQqKFdHACMmoPg_) - 给你的 Windows 电脑做保养，清理后台和开机项，更新驱动，加快网络并腾出空间，改动会先征得你同意. [🍒Fᵣₑd](https://x.com/Counter_Coup).
+- [Grocery Saver](https://x.ai/bot/tQJdHbeBMg0W4cTG4gFRk) - 针对你常买的食材找经过核对的促销、优惠券和积分，并按单价比较，帮你把杂货账单压下来. [Brian](https://x.com/brianmcgrath).
+- [Pulse · Gaming Laptop Tech](https://x.ai/bot/a1QqX6YAK6rute6G0bb9h) - 面向 Windows 游戏本的检修助手，解释电脑为何变慢、发烫、吵或异常，并按优先级给出修复建议，未经允许不改设置. [AdamDesigns](https://x.com/Adamdesgns).
+- [One Piece Card Helper](https://x.ai/bot/PARL-HhB3usy82WwV7ZHS) - 识别你的海贼王卡牌并给出以英国为主的实时价格，再链到 BinderRadar 页面和手机扫描. [BinderRadar](https://x.com/BinderRadar).
+- [Evolutionary Tattoo Bot](https://x.ai/bot/UGC9p-zu4g9utvCEeZmQN) - 纹身历史向导和定制规划，梳理风格、机器和彩墨的演变，并给出定制建议. [Fairyofbraun](https://x.com/Fairyofbraun).
+- [Pitstop](https://x.ai/bot/I9OqlpORjmS7GNnK8XOBM) - 电脑保养助手，检查已连接的 Windows、Mac 或 Linux，只说明变慢原因，未经允许不做修改. [Kyle](https://x.com/thecyberseckyle).
+- [Cook & Care Family Planner](https://x.ai/bot/NgeZ0Uq1jZYH1h__e2I9a) - 为全家安排一周的晚饭、祷告、游戏和周五娱乐日，帮你把相处时间落到实处. [Comradiant](https://x.com/Cook_n_Care).
+- [Deals](https://x.ai/bot/PpL9aOFQFWnvUZRQfUZKS) - 黑五和网一的优惠侦察，按你关心的商品搜寻、比较和整理优惠，默认每三十分钟扫一轮. [Vivek](https://x.com/Vtrivedy10).
+- [날씨봇](https://x.ai/bot/Xb_g0XPd6bu3FF7ghA9le) - 用 The Weather Channel 数据播报本地区小时气温、降水概率和风力，并在每天早上发送天气提醒. [TKyun95](https://x.com/tkyun95).
+- [Apt Hunt](https://x.ai/bot/bP7MAaVMcYE0mRAEB2ZL8) - 帮租客筛选合适房源，比较真正符合条件的房子，并安排你选定的看房时间. [Jonah](https://x.com/ALL_Jonah).
+- [504ward](https://x.ai/bot/FLKPdRLIyJt0LX2dNY-3x) - 帮助家长为有 IEP 或 504 计划的孩子维权，包括规则、截止日期、解读计划、会前准备和校方沟通稿. [Jonah](https://x.com/ALL_Jonah).
+- [Return Watch](https://x.ai/bot/Wy7nOrY1ESMP6jjn8FfJ1) - 从订单邮件和商店退货政策里追踪退换截止日，在窗口关闭前提醒你，并起草下一步说明. [Eric](https://x.com/voltclerk).
+- [Best Price](https://x.ai/bot/RqyNqpu8OcAUAGNC9_2UA) - 比较主流零售商和品牌官网在运费、税费、优惠券和手续费之后的真实总价，找出最便宜的正规渠道. [Eric](https://x.com/voltclerk).
+- [Football Buddy](https://x.ai/bot/Ep8ycQejoZ-kFRcITfluU) - 跟踪你关注的球队，及时标出票务抽签和开售，按你的规则筛选赛程，且不会替你买票. [Sergio](https://x.com/s_ambrozio).
+- [Black Friday Deal Hunter](https://x.ai/bot/n2vbzSBlrWsSWgB3PxVyn) - 在荷兰和欧盟网店里为你的心愿单寻找黑五和网一的真实优惠，并核对每项折扣是否低于平时价格. [Piet666](https://x.com/Piet6661).
+- [Daily Stack](https://x.ai/bot/TvE8YjghFVjnvMm1VpjrM) - 针对你已在吃的保健品，拍瓶身即可生成每日服用时间表，并标出常见的搭配注意点. [Travis](https://x.com/TK013025).
+- [Family Gazette](https://x.ai/bot/YT1rkqntNji2VmewfywIR) - 给全家做一份可打印的晚间一页报，预告明天的天气、孩子作业、固定活动和轮换新闻. [Mr](https://x.com/Jdamage01).
+- [Cloak](https://x.ai/bot/0LoyL09XsD_MB8FLPzM0U) - 个人隐私助手，检查应用权限、已保存的支付卡、分享链接和寻人网站条目，并提交数据经纪退出申请. [Kyle](https://x.com/thecyberseckyle).
+- [Job Search Agent](https://x.ai/bot/YZglGtcBZ19f9jav66UYx) - 保密的求职助手，寻找并跟踪岗位，改简历，梳理招聘团队，并起草给招聘负责人的短信. [Shane](https://x.com/shanedupe).
+- [CrockBot](https://x.ai/bot/GXn6tH-4hanCoK-o-EcyS) - 一周晚饭规划，回答四个小问题后给出七天菜单，含真实食谱链接、每晚一份蔬菜和购物清单. [Dillon](https://x.com/thatdooddillon).
+- [ButuBot](https://x.ai/bot/1MJ49UuH3iBiT8inT8Wn9) - 面向 Linux 电脑的个人技术支持，读取日志、诊断死机、崩溃和驱动问题，并一步步带你修复. [Pete](https://x.com/petebiggam).
+- [Meal Train Keeper](https://x.ai/bot/AfxLJmPt1ImLcSaZ5YbYv) - 帮组织者安排新生儿、手术、生病或丧事后的送餐日程，理清时间空档和这家人的需求. [Cristopher](https://x.com/crisships).
+- [Crockpot Meal Planner](https://x.ai/bot/jv3_FRj-t_yVw9dSmr8Wt) - 规划一周的炖锅晚饭，汇总成一份购物清单，并可填入沃尔玛、Target、Kroger 或 Instacart 购物车. [Jeremy](https://x.com/jeraflea).
+- [Deal Scout](https://x.ai/bot/9K2s_0Sdx2yzU8KFTujIo) - 按你指定的目标找正在进行的优惠，覆盖汽车、门票、装备、电子产品和旅行，并按实付价格排序. [Roland](https://x.com/LALAWOODER).
+- [밥상공방](https://x.ai/bot/uuGK4IKt2b8eNdTXtGMdU) - 韩式家常菜搭档，按冰箱里的食材选定今日菜单，并一起安排一周的家庭饭桌. [Todo](https://x.com/botgongbang).

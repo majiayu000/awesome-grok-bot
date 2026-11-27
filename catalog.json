@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26",
+  "generated": "2026-11-27",
   "source": "https://github.com/majiayu000/awesome-grok-bot",
   "entries": [
     {
@@ -170790,6 +170790,1167 @@
       "updated": "2026-11-26",
       "shelf": "raw",
       "source": "https://x.com/ShaunStromb/status/2125764558577103017"
+    },
+    {
+      "slug": "pc-tune-up-tech",
+      "name": "PC Tune-Up Tech",
+      "author": {
+        "name": "🍒Fᵣₑd",
+        "url": "https://x.com/Counter_Coup"
+      },
+      "summary": "Windows PC technician that cleans background apps and startup items, updates drivers, speeds up the network, and frees disk space, with your okay",
+      "summary_zh": "给你的 Windows 电脑做保养，清理后台和开机项，更新驱动，加快网络并腾出空间，改动会先征得你同意",
+      "import": "https://x.ai/bot/gDvTBZoQqKFdHACMmoPg_",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Counter_Coup/status/2126118657256570972"
+    },
+    {
+      "slug": "lessinthemix-2",
+      "name": "LessInTheMix",
+      "author": {
+        "name": "Andy",
+        "url": "https://x.com/LessInTheMix"
+      },
+      "summary": "V3 coordinator that fits around the bots you already have, gives traffic-light verdicts with a one-line why, and audits them for savings",
+      "summary_zh": "第三版协调器，适配你已有的机器人，用红绿灯和一句话说明给出判断，并检查哪里能省用量",
+      "import": "https://x.ai/bot/vMZBhhmt9d9ycOIoKvwIm",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/LessInTheMix/status/2126111710599655820"
+    },
+    {
+      "slug": "clippy-2",
+      "name": "Clippy",
+      "author": {
+        "name": "cradrrat",
+        "url": "https://x.com/cradrrat"
+      },
+      "summary": "Watches the biggest podcasts and videos on X in your niche, finds moments worth clipping, and sends exact timestamps plus an angle to add",
+      "summary_zh": "按你的领域盯着 X 上最热的播客和视频，找出值得切片的瞬间，并给出精确时间戳和切入角度",
+      "import": "https://x.ai/bot/5JCffK_QIZjlCLyTrRIFV",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/testafortedev/status/2126106769696911781"
+    },
+    {
+      "slug": "grocery-saver",
+      "name": "Grocery Saver",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/brianmcgrath"
+      },
+      "summary": "Cuts your grocery bill by finding verified sales, coupons and rewards on items you actually buy, and checking each deal by unit price",
+      "summary_zh": "针对你常买的食材找经过核对的促销、优惠券和积分，并按单价比较，帮你把杂货账单压下来",
+      "import": "https://x.ai/bot/tQJdHbeBMg0W4cTG4gFRk",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/brianmcgrath/status/2126103054684664235"
+    },
+    {
+      "slug": "pulse-gaming-laptop-tech",
+      "name": "Pulse · Gaming Laptop Tech",
+      "author": {
+        "name": "AdamDesigns",
+        "url": "https://x.com/Adamdesgns"
+      },
+      "summary": "A Windows gaming-laptop tech that explains why your PC is slow, hot, loud or weird, and ranks fixes, never changing anything without your yes",
+      "summary_zh": "面向 Windows 游戏本的检修助手，解释电脑为何变慢、发烫、吵或异常，并按优先级给出修复建议，未经允许不改设置",
+      "import": "https://x.ai/bot/a1QqX6YAK6rute6G0bb9h",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Adamdesgns/status/2126096044777754625"
+    },
+    {
+      "slug": "one-piece-card-helper",
+      "name": "One Piece Card Helper",
+      "author": {
+        "name": "BinderRadar",
+        "url": "https://x.com/BinderRadar"
+      },
+      "summary": "Identifies your One Piece cards and finds live UK-first prices, then links you to live BinderRadar pages and a phone scanner",
+      "summary_zh": "识别你的海贼王卡牌并给出以英国为主的实时价格，再链到 BinderRadar 页面和手机扫描",
+      "import": "https://x.ai/bot/PARL-HhB3usy82WwV7ZHS",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/BinderRadar/status/2126079212415009018"
+    },
+    {
+      "slug": "evolutionary-tattoo-bot",
+      "name": "Evolutionary Tattoo Bot",
+      "author": {
+        "name": "Fairyofbraun",
+        "url": "https://x.com/Fairyofbraun"
+      },
+      "summary": "A tattoo history guide and custom tattoo planner that explores how styles, machines and inks evolved, and advises on custom work",
+      "summary_zh": "纹身历史向导和定制规划，梳理风格、机器和彩墨的演变，并给出定制建议",
+      "import": "https://x.ai/bot/UGC9p-zu4g9utvCEeZmQN",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Fairyofbraun/status/2126070454826008912"
+    },
+    {
+      "slug": "pitstop-2",
+      "name": "Pitstop",
+      "author": {
+        "name": "Kyle",
+        "url": "https://x.com/thecyberseckyle"
+      },
+      "summary": "A computer tune-up bot that checks your connected Windows, Mac or Linux machine without changing anything, and shows why it is slow",
+      "summary_zh": "电脑保养助手，检查已连接的 Windows、Mac 或 Linux，只说明变慢原因，未经允许不做修改",
+      "import": "https://x.ai/bot/I9OqlpORjmS7GNnK8XOBM",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/thecyberseckyle/status/2126070340799398117"
+    },
+    {
+      "slug": "cook-care-family-planner",
+      "name": "Cook & Care Family Planner",
+      "author": {
+        "name": "Comradiant",
+        "url": "https://x.com/Cook_n_Care"
+      },
+      "summary": "Plans your family's week of dinners, prayer time, games and a Friday fun day, so you spend the time together",
+      "summary_zh": "为全家安排一周的晚饭、祷告、游戏和周五娱乐日，帮你把相处时间落到实处",
+      "import": "https://x.ai/bot/NgeZ0Uq1jZYH1h__e2I9a",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Cook_n_Care/status/2126070315436433519"
+    },
+    {
+      "slug": "budget-bot",
+      "name": "Budget Bot",
+      "author": {
+        "name": "🇺🇸AmericanGirl🇺🇸",
+        "url": "https://x.com/MaryMoon013"
+      },
+      "summary": "Uploads bank and credit card statements, categorizes monthly charges, and gives a profit/loss, cash-flow projection and a path to save",
+      "summary_zh": "上传银行和信用卡账单，把月度支出分类，给出盈亏、现金流预测和省钱路径",
+      "import": "https://x.ai/bot/f-pu615M1a5Pj5gXeCdGm",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "money"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/MaryMoon013/status/2126078718351487446"
+    },
+    {
+      "slug": "deals",
+      "name": "Deals",
+      "author": {
+        "name": "Vivek",
+        "url": "https://x.com/Vtrivedy10"
+      },
+      "summary": "A Black Friday and Cyber Monday deals scout that finds, compares and organizes deals on the products you care about, scanning every 30 minutes",
+      "summary_zh": "黑五和网一的优惠侦察，按你关心的商品搜寻、比较和整理优惠，默认每三十分钟扫一轮",
+      "import": "https://x.ai/bot/PpL9aOFQFWnvUZRQfUZKS",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Vtrivedy10/status/2126059573656318319"
+    },
+    {
+      "slug": "final-draft-writer",
+      "name": "Final Draft Writer",
+      "author": {
+        "name": "SERAFIN",
+        "url": "https://x.com/fraksquatch"
+      },
+      "summary": "Writes a facts-only newspaper for you three times a week from vetted sources, with every story rated for how well it is confirmed",
+      "summary_zh": "每周三次从核过的来源写一份只讲事实的报纸，并为每篇报道标注确证程度",
+      "import": "https://x.ai/bot/xJytk11eFlrgImQs1F79t",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/fraksquatch/status/2125400485167317234"
+    },
+    {
+      "slug": "final-draft-editor",
+      "name": "Final Draft Editor",
+      "author": {
+        "name": "SERAFIN",
+        "url": "https://x.com/fraksquatch"
+      },
+      "summary": "A fact-checking editor that checks every issue your writer bot drafts against its sources and rates each story",
+      "summary_zh": "事实核查编辑，对照来源检查写作机器人起草的每期内容，并为每篇报道打分",
+      "import": "https://x.ai/bot/39ftCzFA8EcNrQ55-G31_",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/fraksquatch/status/2125400485167317234"
+    },
+    {
+      "slug": "bot-xbg0xpd6",
+      "name": "날씨봇",
+      "author": {
+        "name": "TKyun95",
+        "url": "https://x.com/tkyun95"
+      },
+      "summary": "A Korean weather assistant that uses The Weather Channel data for hourly temperature, rain chance and wind, plus a morning briefing",
+      "summary_zh": "用 The Weather Channel 数据播报本地区小时气温、降水概率和风力，并在每天早上发送天气提醒",
+      "import": "https://x.ai/bot/Xb_g0XPd6bu3FF7ghA9le",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/tkyun95/status/2125395674464391234"
+    },
+    {
+      "slug": "bard-video-director",
+      "name": "Bard - Video Director",
+      "author": {
+        "name": "Nelson",
+        "url": "https://x.com/nelson_"
+      },
+      "summary": "Turns your brief into short AI films, ads and explainers, starting with the story, then a shot plan and camera-led direction",
+      "summary_zh": "把你的简报做成短片、广告或讲解视频，先讲故事，再出分镜和镜头指导",
+      "import": "https://x.ai/bot/vZzE4KMHNZQdalyR1VGJz",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/nelson_/status/2125389847619854560"
+    },
+    {
+      "slug": "ticket-desk-2",
+      "name": "Ticket Desk",
+      "author": {
+        "name": "Jonah",
+        "url": "https://x.com/ALL_Jonah"
+      },
+      "summary": "Sorts a small team's support queue and drafts replies for a human to review and send, and never sends, refunds or edits tickets on its own",
+      "summary_zh": "整理小团队的支持工单并起草回复，交由人工审阅后发送，不会自行发信、退款或改工单",
+      "import": "https://x.ai/bot/N9wmmZ-EYncLJDllPUyZz",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/ALL_Jonah/status/2125333142655336624"
+    },
+    {
+      "slug": "apt-hunt",
+      "name": "Apt Hunt",
+      "author": {
+        "name": "Jonah",
+        "url": "https://x.com/ALL_Jonah"
+      },
+      "summary": "Helps a renter find an apartment that fits by filtering listings, comparing the good ones, and lining up tours they pick",
+      "summary_zh": "帮租客筛选合适房源，比较真正符合条件的房子，并安排你选定的看房时间",
+      "import": "https://x.ai/bot/bP7MAaVMcYE0mRAEB2ZL8",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/ALL_Jonah/status/2125332956583432497"
+    },
+    {
+      "slug": "504ward",
+      "name": "504ward",
+      "author": {
+        "name": "Jonah",
+        "url": "https://x.com/ALL_Jonah"
+      },
+      "summary": "Helps parents advocate for a child with an IEP or 504 plan, including rules, deadlines, plan decoding, meeting prep and school notes",
+      "summary_zh": "帮助家长为有 IEP 或 504 计划的孩子维权，包括规则、截止日期、解读计划、会前准备和校方沟通稿",
+      "import": "https://x.ai/bot/FLKPdRLIyJt0LX2dNY-3x",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/ALL_Jonah/status/2125327360652386685"
+    },
+    {
+      "slug": "return-watch",
+      "name": "Return Watch",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/voltclerk"
+      },
+      "summary": "Tracks return and exchange deadlines from your order emails and store policies, reminds you before windows close, and drafts the next step",
+      "summary_zh": "从订单邮件和商店退货政策里追踪退换截止日，在窗口关闭前提醒你，并起草下一步说明",
+      "import": "https://x.ai/bot/Wy7nOrY1ESMP6jjn8FfJ1",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/voltclerk/status/2125315391341674909"
+    },
+    {
+      "slug": "best-price",
+      "name": "Best Price",
+      "author": {
+        "name": "Eric",
+        "url": "https://x.com/voltclerk"
+      },
+      "summary": "Finds the cheapest legit price by comparing major retailers and brand stores after shipping, tax, coupons and fees",
+      "summary_zh": "比较主流零售商和品牌官网在运费、税费、优惠券和手续费之后的真实总价，找出最便宜的正规渠道",
+      "import": "https://x.ai/bot/RqyNqpu8OcAUAGNC9_2UA",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/voltclerk/status/2125315083228029248"
+    },
+    {
+      "slug": "football-buddy",
+      "name": "Football Buddy",
+      "author": {
+        "name": "Sergio",
+        "url": "https://x.com/s_ambrozio"
+      },
+      "summary": "Follows your teams, flags ticket ballots and sales in time, shortlists matches that fit your rules, and never buys tickets for you",
+      "summary_zh": "跟踪你关注的球队，及时标出票务抽签和开售，按你的规则筛选赛程，且不会替你买票",
+      "import": "https://x.ai/bot/Ep8ycQejoZ-kFRcITfluU",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/s_ambrozio/status/2125314583086969240"
+    },
+    {
+      "slug": "chief-of-staff-for-christian-promoters",
+      "name": "Chief of Staff for Christian Promoters",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/promoter4christ"
+      },
+      "summary": "A chief of staff for Christian concert, tour and festival promoters that keeps inbox, calendar, shows and team follow-ups moving",
+      "summary_zh": "面向基督教音乐会、巡演和音乐节主办的参谋长，推动收件箱、日历、演出和团队跟进",
+      "import": "https://x.ai/bot/pLAkB9hgbNHU-pOMq7pCI",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/promoter4christ/status/2125306741613093163"
+    },
+    {
+      "slug": "black-friday-deal-hunter",
+      "name": "Black Friday Deal Hunter",
+      "author": {
+        "name": "Piet666",
+        "url": "https://x.com/Piet6661"
+      },
+      "summary": "Finds real Black Friday and Cyber Monday deals at Dutch and EU shops for your wishlist, and checks every discount against the usual price",
+      "summary_zh": "在荷兰和欧盟网店里为你的心愿单寻找黑五和网一的真实优惠，并核对每项折扣是否低于平时价格",
+      "import": "https://x.ai/bot/n2vbzSBlrWsSWgB3PxVyn",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Piet6661/status/2125302625394467023"
+    },
+    {
+      "slug": "joan-front-office",
+      "name": "Joan, Front Office",
+      "author": {
+        "name": "Jueno",
+        "url": "https://x.com/JuenoMorgTate"
+      },
+      "summary": "A calm front office for people running a team, a project or a crew of bots. Joan filters what reaches you and sends one clear morning brief",
+      "summary_zh": "给带团队、项目或机器人群的人做前台，过滤送到你面前的事，并给出一份清楚的晨间简报",
+      "import": "https://x.ai/bot/5TpUWsygD2Oiaf7be9dcW",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/JuenoMorgTate/status/2125296457205129464"
+    },
+    {
+      "slug": "first-payout-helper",
+      "name": "First-Payout Helper",
+      "author": {
+        "name": "magagrandmom",
+        "url": "https://x.com/magagrandmom"
+      },
+      "summary": "Helps new X creators reach their first payout by tracking post-earnings and Subscriptions requirements, with a weekly check-in",
+      "summary_zh": "帮助 X 上的新创作者达到首次结算，跟踪发帖收益和订阅的要求，并每周跟进进度",
+      "import": "https://x.ai/bot/7rahJ0poNv_oWzZscVKGX",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/magagrandmom/status/2125289201126236552"
+    },
+    {
+      "slug": "daily-stack",
+      "name": "Daily Stack",
+      "author": {
+        "name": "Travis",
+        "url": "https://x.com/TK013025"
+      },
+      "summary": "A habit bot for the supplements you already take. Snap your bottles and it builds a daily timing schedule and flags common interactions",
+      "summary_zh": "针对你已在吃的保健品，拍瓶身即可生成每日服用时间表，并标出常见的搭配注意点",
+      "import": "https://x.ai/bot/TvE8YjghFVjnvMm1VpjrM",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/TK013025/status/2125277478134731099"
+    },
+    {
+      "slug": "family-gazette",
+      "name": "Family Gazette",
+      "author": {
+        "name": "Mr",
+        "url": "https://x.com/Jdamage01"
+      },
+      "summary": "Makes your family a printable one-page evening newspaper for tomorrow, with weather, school due dates, standing activities and rotating stories",
+      "summary_zh": "给全家做一份可打印的晚间一页报，预告明天的天气、孩子作业、固定活动和轮换新闻",
+      "import": "https://x.ai/bot/YT1rkqntNji2VmewfywIR",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Jdamage01/status/2125230648101392537"
+    },
+    {
+      "slug": "cloak",
+      "name": "Cloak",
+      "author": {
+        "name": "Kyle",
+        "url": "https://x.com/thecyberseckyle"
+      },
+      "summary": "A personal privacy bot that checks app permissions, saved payment cards, shared links and people-search listings, then files data-broker opt-outs",
+      "summary_zh": "个人隐私助手，检查应用权限、已保存的支付卡、分享链接和寻人网站条目，并提交数据经纪退出申请",
+      "import": "https://x.ai/bot/0LoyL09XsD_MB8FLPzM0U",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/thecyberseckyle/status/2125227945681731711"
+    },
+    {
+      "slug": "3d-printbot",
+      "name": "3D PrintBot",
+      "author": {
+        "name": "News",
+        "url": "https://x.com/tonthat_baotoan"
+      },
+      "summary": "Remote FDM 3D printing for a home-network printer such as Elegoo, Bambu Lab, Klipper, OctoPrint or PrusaLink, including status, errors and slicing",
+      "summary_zh": "远程控制家里局域网里的 FDM 打印机，支持 Elegoo、Bambu Lab、Klipper、OctoPrint 和 PrusaLink，可查看状态、报错并切片",
+      "import": "https://x.ai/bot/re0zDhcs5mDviHcslnnGo",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/tonthat_baotoan/status/2125227094372479181"
+    },
+    {
+      "slug": "nell-visual-designer",
+      "name": "Nell · Visual Designer",
+      "author": {
+        "name": "Roman",
+        "url": "https://x.com/rkruglov"
+      },
+      "summary": "A visual designer for clean landing page comps, ads, social images, carousels and SaaS UI specs, using eye-flow and conversion layout",
+      "summary_zh": "视觉设计助手，制作干净的落地页稿、广告、社交图、轮播和 SaaS 界面说明，并考虑视线流和转化布局",
+      "import": "https://x.ai/bot/h1Yo8IwT9N3f9LUVWEuKR",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/rkruglov/status/2125226655845073400"
+    },
+    {
+      "slug": "job-search-agent",
+      "name": "Job Search Agent",
+      "author": {
+        "name": "Shane",
+        "url": "https://x.com/shanedupe"
+      },
+      "summary": "A confidential job search agent that finds and tracks openings, tailors your resume, maps the hiring team and drafts a note to the hiring manager",
+      "summary_zh": "保密的求职助手，寻找并跟踪岗位，改简历，梳理招聘团队，并起草给招聘负责人的短信",
+      "import": "https://x.ai/bot/YZglGtcBZ19f9jav66UYx",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/shanedupe/status/2125223644527808952"
+    },
+    {
+      "slug": "seo",
+      "name": "SEO",
+      "author": {
+        "name": "Max",
+        "url": "https://x.com/0xExpl0rer"
+      },
+      "summary": "An SEO specialist for any website: technical audits, Search Console, keywords, content briefs, internal linking and a weekly plan",
+      "summary_zh": "网站 SEO 顾问，覆盖技术审计、Search Console、关键词、内容纲要和文章、内链以及每周计划",
+      "import": "https://x.ai/bot/wuPhZIF94RNPvARMgl9rA",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/0xExpl0rer/status/2125209603776352600"
+    },
+    {
+      "slug": "crockbot",
+      "name": "CrockBot",
+      "author": {
+        "name": "Dillon",
+        "url": "https://x.com/thatdooddillon"
+      },
+      "summary": "A weekly dinner planner. Answer four quick questions and get a 7-day dinner plan with real recipe links, a veggie side each night, and a shopping list",
+      "summary_zh": "一周晚饭规划，回答四个小问题后给出七天菜单，含真实食谱链接、每晚一份蔬菜和购物清单",
+      "import": "https://x.ai/bot/GXn6tH-4hanCoK-o-EcyS",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/thatdooddillon/status/2125047083925119387"
+    },
+    {
+      "slug": "grok-usage-dashboard",
+      "name": "Grok Usage Dashboard",
+      "author": {
+        "name": "chuckkay",
+        "url": "https://x.com/TheRealChuckyK"
+      },
+      "summary": "A private interactive dashboard of your Grok usage by day, week, bot and app, refreshing nightly or when you type update, and keeping a history",
+      "summary_zh": "私人的 Grok 用量看板，按日、周、机器人和应用展示，每晚或在你输入更新时刷新，并保留历史",
+      "import": "https://x.ai/bot/SsgW05NNapnqZYNGen4Za",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/TheRealChuckyK/status/2125046537873211650"
+    },
+    {
+      "slug": "butubot",
+      "name": "ButuBot",
+      "author": {
+        "name": "Pete",
+        "url": "https://x.com/petebiggam"
+      },
+      "summary": "Personal IT support for your Linux computer. It reads your logs, diagnoses freezes, crashes and driver problems, and walks you through the fixes",
+      "summary_zh": "面向 Linux 电脑的个人技术支持，读取日志、诊断死机、崩溃和驱动问题，并一步步带你修复",
+      "import": "https://x.ai/bot/1MJ49UuH3iBiT8inT8Wn9",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/petebiggam/status/2126055965828984975"
+    },
+    {
+      "slug": "meal-train-keeper",
+      "name": "Meal Train Keeper",
+      "author": {
+        "name": "Cristopher",
+        "url": "https://x.com/crisships"
+      },
+      "summary": "Runs a meal train for the friend organizing it after a new baby, surgery, illness or loss, keeping the schedule and the family's needs straight",
+      "summary_zh": "帮组织者安排新生儿、手术、生病或丧事后的送餐日程，理清时间空档和这家人的需求",
+      "import": "https://x.ai/bot/AfxLJmPt1ImLcSaZ5YbYv",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/crisships/status/2126049142862487747"
+    },
+    {
+      "slug": "e-pure",
+      "name": "Épure",
+      "author": {
+        "name": "RealOpenArmy",
+        "url": "https://x.com/RealOpenArmy"
+      },
+      "summary": "Turns a 3D CAD file, or photos of a part plus measurements, into a dimensioned 2D shop drawing and hands over an editable DXF",
+      "summary_zh": "把三维 CAD 文件或零件照片加尺寸，转成带标注的二维车间图，并交出可编辑的 DXF",
+      "import": "https://x.ai/bot/UUyqNpryzVpFB1OWsNXhZ",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/RealOpenArmy/status/2126048099005272345"
+    },
+    {
+      "slug": "phil-phish-filter",
+      "name": "Phil · Phish Filter",
+      "author": {
+        "name": "Dennis",
+        "url": "https://x.com/DennisCW_"
+      },
+      "summary": "A daily security watch for your email and iMessages that flags phishing, scams, spoofed senders and real alerts, and stays quiet when nothing is wrong",
+      "summary_zh": "每天检查邮件和 iMessage，标出钓鱼、诈骗、伪装发件人和真正的安全提醒，没事时保持安静",
+      "import": "https://x.ai/bot/VPiKe-h9Cn1ud2DDWKeSs",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/DennisCW_/status/2126038466064486412"
+    },
+    {
+      "slug": "homepage-lead-qualifier",
+      "name": "Homepage Lead Qualifier",
+      "author": {
+        "name": "Maume",
+        "url": "https://x.com/FabianMaume"
+      },
+      "summary": "Learns your ideal customer from past leads' homepages, then scores inbound domains, enriches qualified leads with contacts, and alerts you",
+      "summary_zh": "从以往线索的官网学习理想客户，给新到域名打分，为合格线索补全联系人，并向你发出提醒",
+      "import": "https://x.ai/bot/dUOrnx8eP90kBdNG5UA6n",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/FabianMaume/status/2126038060399755278"
+    },
+    {
+      "slug": "crockpot-meal-planner",
+      "name": "Crockpot Meal Planner",
+      "author": {
+        "name": "Jeremy",
+        "url": "https://x.com/jeraflea"
+      },
+      "summary": "Plans your week of crockpot meals, turns them into one grocery list and shopping sheet, and can fill Walmart, Target, Kroger or Instacart carts",
+      "summary_zh": "规划一周的炖锅晚饭，汇总成一份购物清单，并可填入沃尔玛、Target、Kroger 或 Instacart 购物车",
+      "import": "https://x.ai/bot/jv3_FRj-t_yVw9dSmr8Wt",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/jeraflea/status/2126033027708928102"
+    },
+    {
+      "slug": "x-creator-coach",
+      "name": "X Creator Coach",
+      "author": {
+        "name": "Anthony",
+        "url": "https://x.com/AnthonyDo"
+      },
+      "summary": "Drafts 1 to 3 original X posts a day in your voice and reviews your week against X's official creator programs, and you approve every post",
+      "summary_zh": "每天按你的语气起草一到三条原创 X 帖，并对照官方创作者计划回顾一周表现，每条都经你批准再发",
+      "import": "https://x.ai/bot/DQOOIfaSL1argMYE7Yr6e",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/AnthonyDo/status/2126018470823280816"
+    },
+    {
+      "slug": "pattern-bot",
+      "name": "Pattern Bot",
+      "author": {
+        "name": "Jim",
+        "url": "https://x.com/jimondrd"
+      },
+      "summary": "A community curator for Grok Bot builders that collects, organizes and shares reusable bot patterns, templates and best-practice recipes",
+      "summary_zh": "面向 Grok Bot 搭建者的社区策展，收集、整理并分享可复用的机器人模式、模板和最佳实践配方",
+      "import": "https://x.ai/bot/Azvz9f83-BAHR_ud3Hwlb",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/jimondrd/status/2126013732060832228"
+    },
+    {
+      "slug": "delivery-credit-desk",
+      "name": "Delivery Credit Desk",
+      "author": {
+        "name": "Loungeless",
+        "url": "https://x.com/Loungeless"
+      },
+      "summary": "Finds deliveries that missed their promised date, starting with Amazon, compares shipping emails with order history, and drafts courtesy-credit requests",
+      "summary_zh": "找出晚于承诺日期送达的包裹，先从亚马逊开始，对照物流邮件和订单记录，并起草补偿申请",
+      "import": "https://x.ai/bot/LGaajWl-QsRgUSc2Z4fFV",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Loungeless/status/2126008513935950137"
+    },
+    {
+      "slug": "captain-careful-chief-of-staff",
+      "name": "Captain Careful: Chief of Staff",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/markshaw"
+      },
+      "summary": "A beginner-friendly chief of staff that walks you through spending limits and safety rules before your bots start working",
+      "summary_zh": "面向完全新手的参谋长，先带你设定消费限额和安全规则，再让其他机器人开始干活",
+      "import": "https://x.ai/bot/1gsT-W4fsu_Q-IPRFR5iU",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/markshaw/status/2126004833023111588"
+    },
+    {
+      "slug": "100-years-ago-today",
+      "name": "📰 100 Years Ago Today",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/BTCJohnnyB"
+      },
+      "summary": "Every morning, a real American newspaper front page from exactly 100 years ago, from the Library of Congress, with the day's headlines",
+      "summary_zh": "每天早上送一份正好一百年前的美国报纸头版，来自国会图书馆，并整理当天标题和趣闻",
+      "import": "https://x.ai/bot/5QXnAseS4QUrUnawaXEei",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/BTCJohnnyB/status/2126002724537876519"
+    },
+    {
+      "slug": "news-3",
+      "name": "News",
+      "author": {
+        "name": "Blake",
+        "url": "https://x.com/blake_hagz"
+      },
+      "summary": "Keeps you up to date on Grok Bot by checking a curated news feed on your schedule and pinging you about new features, apps, guides and changes",
+      "summary_zh": "按你设定的时间检查精选资讯，提醒 Grok Bot 的新功能、应用、指南和变化，跳过重复内容",
+      "import": "https://x.ai/bot/L2-EoWQVsu5dQcZpJRi8w",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/blake_hagz/status/2126002609446383929"
+    },
+    {
+      "slug": "after-the-cart",
+      "name": "After the Cart",
+      "author": {
+        "name": "Ryan",
+        "url": "https://x.com/ryanthawks"
+      },
+      "summary": "Reads your order emails, checks each item's price on the store's own site every morning, and drafts a price-adjustment request when it drops",
+      "summary_zh": "读取你的订单邮件，每天早上到商店官网核对商品现价，降价后起草差价补偿申请",
+      "import": "https://x.ai/bot/RQMuaVWs6_af6JOvLzf8u",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "shopping",
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/ryanthawks/status/2125671563601060236"
+    },
+    {
+      "slug": "call-time",
+      "name": "Call Time",
+      "author": {
+        "name": "Roland",
+        "url": "https://x.com/LALAWOODER"
+      },
+      "summary": "Set assistant and promo producer for photographers and videographers, covering bids, usage pricing, holds, call sheets, invoices and gallery delivery",
+      "summary_zh": "摄影和摄像的统筹与宣传助手，覆盖报价、授权定价、档期预留、拍摄单、发票和成片交付",
+      "import": "https://x.ai/bot/qW0pLOrMHGN4YXVCLeYau",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "video",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/LALAWOODER/status/2125671533448142961"
+    },
+    {
+      "slug": "deal-scout-4",
+      "name": "Deal Scout",
+      "author": {
+        "name": "Roland",
+        "url": "https://x.com/LALAWOODER"
+      },
+      "summary": "Finds live deals on whatever you name, from cars and tickets to gear, electronics, travel and home, and ranks them by what you will actually pay",
+      "summary_zh": "按你指定的目标找正在进行的优惠，覆盖汽车、门票、装备、电子产品和旅行，并按实付价格排序",
+      "import": "https://x.ai/bot/9K2s_0Sdx2yzU8KFTujIo",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/LALAWOODER/status/2125671533448142961"
+    },
+    {
+      "slug": "stack-desk",
+      "name": "Stack Desk",
+      "author": {
+        "name": "Loungeless",
+        "url": "https://x.com/Loungeless"
+      },
+      "summary": "Before you buy, tell it the store or paste a link and it lines up the best shopping portal and card offer, flagging payout caps",
+      "summary_zh": "买之前告诉它商店或贴上链接，它会搭配购物门户和信用卡优惠，并标出返现上限，避免重复计算",
+      "import": "https://x.ai/bot/xsZrUEth6yVjrjUCPJsRe",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Loungeless/status/2125665172006240444"
+    },
+    {
+      "slug": "fleet-desk",
+      "name": "Fleet Desk",
+      "author": {
+        "name": "Dan",
+        "url": "https://x.com/civicfleets"
+      },
+      "summary": "Helper for public fleet managers and shop supervisors. Upload a PM, work order or fuel export and it flags priorities first, changing nothing without your yes",
+      "summary_zh": "面向公共车队管理者和车间主管，上传保养、工单或油耗表后标出应先看的问题，未经允许不改记录",
+      "import": "https://x.ai/bot/0WuDx4Ll1abLKuRFCjmQv",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/civicfleets/status/2125583887296528810"
+    },
+    {
+      "slug": "agent-waffle-project-manager-2",
+      "name": "Agent Waffle Project Manager",
+      "author": {
+        "name": "David",
+        "url": "https://x.com/thepm_expert"
+      },
+      "summary": "A project manager's assistant for small, bounded projects, with weekly plan-versus-reality checks, action chasing, honest status drafts and early warnings",
+      "summary_zh": "面向小而有边界的项目经理助手，做每周计划对照、催办、诚实的状态草稿和风险预警",
+      "import": "https://x.ai/bot/aheggsslgtnfi1al7jta3",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/thepm_expert/status/2125532053147885940"
+    },
+    {
+      "slug": "bot-uugk4ikt",
+      "name": "밥상공방",
+      "author": {
+        "name": "Todo",
+        "url": "https://x.com/botgongbang"
+      },
+      "summary": "A Korean home-cooking partner that picks today's menu from what's in your fridge and plans a week of Korean family meals",
+      "summary_zh": "韩式家常菜搭档，按冰箱里的食材选定今日菜单，并一起安排一周的家庭饭桌",
+      "import": "https://x.ai/bot/uuGK4IKt2b8eNdTXtGMdU",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/botgongbang/status/2125517675690361168"
+    },
+    {
+      "slug": "idiot-web-browser-project",
+      "name": "Idiot Web Browser Project",
+      "author": {
+        "name": "Ray",
+        "url": "https://x.com/Ace075371796428"
+      },
+      "summary": "Builds your own custom desktop web browser with ad blocking, no telemetry and your shortcuts, and packages it for Linux, including AUR",
+      "summary_zh": "打造带广告拦截、无遥测和自定快捷键的桌面浏览器，并打包到 Linux，包括 AUR",
+      "import": "https://x.ai/bot/pF2KvPMGc7pS4v8ObiOCL",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "engineering"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Ace075371796428/status/2125507439843856542"
+    },
+    {
+      "slug": "space-bot-2",
+      "name": "Space Bot",
+      "author": {
+        "name": "Fairyofbraun",
+        "url": "https://x.com/Fairyofbraun"
+      },
+      "summary": "Tracks every rocket launch on Earth and every human in space, with a daily briefing and help following astronauts and agencies on X",
+      "summary_zh": "跟踪全球火箭发射和在轨人员，每天给一份简报，并帮你在 X 上关注宇航员和航天机构",
+      "import": "https://x.ai/bot/XZFvNAlzcQQy9STYsU1Kj",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Fairyofbraun/status/2125454298251219284"
     }
   ]
 }

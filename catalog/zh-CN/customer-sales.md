@@ -652,3 +652,6 @@
 - [Talent Radar](https://x.ai/bot/zcQIZ3KEN1xKRVX-G31XN) - 按职位、公司、技能或地区在 X 上找活跃的人，给你一份排序后的候选名单，联系由你自己来. [Tom](https://x.com/tcballard).
 - [Agency COO](https://x.ai/bot/IbO5n2yXvv1CObehZYHQh) - 面向小型网站或营销机构的运营总监 Bot，向本地服务商店销售单一服务，负责日常运营、冷邮件和部署. [John](https://x.com/PrimeCoCreator).
 - [Shopify Leads](https://x.ai/bot/9EE__idLxGnDF3bdXFmFp) - 找出正在招聘 Shopify 或 WordPress 开发者的公司，调研后起草推介信，主打你的机构是更省钱的外包选择. [Jack](https://x.com/notswizz).
+- [Ticket Desk](https://x.ai/bot/N9wmmZ-EYncLJDllPUyZz) - 整理小团队的支持工单并起草回复，交由人工审阅后发送，不会自行发信、退款或改工单. [Jonah](https://x.com/ALL_Jonah).
+- [Homepage Lead Qualifier](https://x.ai/bot/dUOrnx8eP90kBdNG5UA6n) - 从以往线索的官网学习理想客户，给新到域名打分，为合格线索补全联系人，并向你发出提醒. [Maume](https://x.com/FabianMaume).
+- [Call Time](https://x.ai/bot/qW0pLOrMHGN4YXVCLeYau) - 摄影和摄像的统筹与宣传助手，覆盖报价、授权定价、档期预留、拍摄单、发票和成片交付. [Roland](https://x.com/LALAWOODER).
