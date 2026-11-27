@@ -171951,6 +171951,69 @@
       "updated": "2026-11-27",
       "shelf": "raw",
       "source": "https://x.com/Fairyofbraun/status/2125454298251219284"
+    },
+    {
+      "slug": "bot-rceztonc",
+      "name": "视频号下载 · 口播稿转录",
+      "author": {
+        "name": "kin",
+        "url": "https://x.com/KinGao476942"
+      },
+      "summary": "Backs up a WeChat Channels video from a share link, transcribes it into a Chinese script with punctuation, and writes it to a Feishu doc",
+      "summary_zh": "从微信视频号分享链接备份视频，转写成带标点的中文口播稿并写进飞书文档",
+      "import": "https://x.ai/bot/rcEZTOnczv65aMT4hdfxK",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/KinGao476942/status/2126156786990456993"
+    },
+    {
+      "slug": "aktrel-news",
+      "name": "Aktrel News",
+      "author": {
+        "name": "Aktrel",
+        "url": "https://x.com/Aktrel"
+      },
+      "summary": "Sends a personal news brief for the places and interests you choose, on your schedule or on demand, with a written recap, source links and a voice memo",
+      "summary_zh": "按你选的地区和兴趣定时或随时发来个人新闻简报，附文字摘要、来源链接和语音备忘",
+      "import": "https://x.ai/bot/EiUKZT_IQm1eowU5ukY8y",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Aktrel/status/2126146076441014516"
+    },
+    {
+      "slug": "disaster-recovery-bot",
+      "name": "Disaster Recovery Bot",
+      "author": {
+        "name": "Ross",
+        "url": "https://x.com/therossg"
+      },
+      "summary": "Helps survivors of wildfires, floods and hurricanes track insurance claims, FEMA, SBA, grants, rebates and permit refunds",
+      "summary_zh": "帮山火、洪水和飓风灾民跟踪保险理赔、FEMA、SBA、补助、返款和许可费退款",
+      "import": "https://x.ai/bot/zMTOJdTkhRl4bmz1orHfZ",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/therossg/status/2126146132820836419"
     }
   ]
 }

@@ -1105,3 +1105,4 @@
 - [Nell · Visual Designer](https://x.ai/bot/h1Yo8IwT9N3f9LUVWEuKR) - 视觉设计助手，制作干净的落地页稿、广告、社交图、轮播和 SaaS 界面说明，并考虑视线流和转化布局. [Roman](https://x.com/rkruglov).
 - [SEO](https://x.ai/bot/wuPhZIF94RNPvARMgl9rA) - 网站 SEO 顾问，覆盖技术审计、Search Console、关键词、内容纲要和文章、内链以及每周计划. [Max](https://x.com/0xExpl0rer).
 - [X Creator Coach](https://x.ai/bot/DQOOIfaSL1argMYE7Yr6e) - 每天按你的语气起草一到三条原创 X 帖，并对照官方创作者计划回顾一周表现，每条都经你批准再发. [Anthony](https://x.com/AnthonyDo).
+- [视频号下载 · 口播稿转录](https://x.ai/bot/rcEZTOnczv65aMT4hdfxK) - 从微信视频号分享链接备份视频，转写成带标点的中文口播稿并写进飞书文档. [kin](https://x.com/KinGao476942).

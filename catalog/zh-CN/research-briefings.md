@@ -942,3 +942,4 @@
 - [📰 100 Years Ago Today](https://x.ai/bot/5QXnAseS4QUrUnawaXEei) - 每天早上送一份正好一百年前的美国报纸头版，来自国会图书馆，并整理当天标题和趣闻. [John](https://x.com/BTCJohnnyB).
 - [News](https://x.ai/bot/L2-EoWQVsu5dQcZpJRi8w) - 按你设定的时间检查精选资讯，提醒 Grok Bot 的新功能、应用、指南和变化，跳过重复内容. [Blake](https://x.com/blake_hagz).
 - [Space Bot](https://x.ai/bot/XZFvNAlzcQQy9STYsU1Kj) - 跟踪全球火箭发射和在轨人员，每天给一份简报，并帮你在 X 上关注宇航员和航天机构. [Fairyofbraun](https://x.com/Fairyofbraun).
+- [Aktrel News](https://x.ai/bot/EiUKZT_IQm1eowU5ukY8y) - 按你选的地区和兴趣定时或随时发来个人新闻简报，附文字摘要、来源链接和语音备忘. [Aktrel](https://x.com/Aktrel).

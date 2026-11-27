@@ -1105,3 +1105,4 @@ Back to [README](../../README.md)
 - [Nell · Visual Designer](https://x.ai/bot/h1Yo8IwT9N3f9LUVWEuKR) - A visual designer for clean landing page comps, ads, social images, carousels and SaaS UI specs, using eye-flow and conversion layout. [Roman](https://x.com/rkruglov).
 - [SEO](https://x.ai/bot/wuPhZIF94RNPvARMgl9rA) - An SEO specialist for any website\: technical audits, Search Console, keywords, content briefs, internal linking and a weekly plan. [Max](https://x.com/0xExpl0rer).
 - [X Creator Coach](https://x.ai/bot/DQOOIfaSL1argMYE7Yr6e) - Drafts 1 to 3 original X posts a day in your voice and reviews your week against X's official creator programs, and you approve every post. [Anthony](https://x.com/AnthonyDo).
+- [视频号下载 · 口播稿转录](https://x.ai/bot/rcEZTOnczv65aMT4hdfxK) - Backs up a WeChat Channels video from a share link, transcribes it into a Chinese script with punctuation, and writes it to a Feishu doc. [kin](https://x.com/KinGao476942).

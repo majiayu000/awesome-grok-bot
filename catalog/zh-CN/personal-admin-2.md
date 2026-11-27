@@ -335,3 +335,4 @@
 - [Crockpot Meal Planner](https://x.ai/bot/jv3_FRj-t_yVw9dSmr8Wt) - 规划一周的炖锅晚饭，汇总成一份购物清单，并可填入沃尔玛、Target、Kroger 或 Instacart 购物车. [Jeremy](https://x.com/jeraflea).
 - [Deal Scout](https://x.ai/bot/9K2s_0Sdx2yzU8KFTujIo) - 按你指定的目标找正在进行的优惠，覆盖汽车、门票、装备、电子产品和旅行，并按实付价格排序. [Roland](https://x.com/LALAWOODER).
 - [밥상공방](https://x.ai/bot/uuGK4IKt2b8eNdTXtGMdU) - 韩式家常菜搭档，按冰箱里的食材选定今日菜单，并一起安排一周的家庭饭桌. [Todo](https://x.com/botgongbang).
+- [Disaster Recovery Bot](https://x.ai/bot/zMTOJdTkhRl4bmz1orHfZ) - 帮山火、洪水和飓风灾民跟踪保险理赔、FEMA、SBA、补助、返款和许可费退款. [Ross](https://x.com/therossg).
