@@ -172014,6 +172014,90 @@
       "updated": "2026-11-27",
       "shelf": "raw",
       "source": "https://x.com/therossg/status/2126146132820836419"
+    },
+    {
+      "slug": "market-validator",
+      "name": "Market Validator",
+      "author": {
+        "name": "Trond",
+        "url": "https://x.com/xenappblog"
+      },
+      "summary": "Mines buyer complaints across Reddit, X and product reviews to test a business idea before you build it",
+      "summary_zh": "从 Reddit、X 和产品评价里挖买家抱怨，在动手开发前验证你的商业点子",
+      "import": "https://x.ai/bot/P6Uop6aZYtyF4xr0gZhge",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/xenappblog/status/2126289737270931938"
+    },
+    {
+      "slug": "turo-host-department-head",
+      "name": "Turo Host Department Head",
+      "author": {
+        "name": "Nickolas",
+        "url": "https://x.com/HapperDay"
+      },
+      "summary": "Runs a Turo hosting business day to day with guest reply drafts, booking screening, turnovers, tolls, washes and pricing",
+      "summary_zh": "打理 Turo 租车生意的日常，包括客人回复草稿、订单筛选、交接车、过路费、洗车和定价",
+      "import": "https://x.ai/bot/Zr84adR0Zqw72dMx-LkAh",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "business"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/HapperDay/status/2126288631383908399"
+    },
+    {
+      "slug": "x-desk-2",
+      "name": "X Desk",
+      "author": {
+        "name": "Will",
+        "url": "https://x.com/willchamberlain"
+      },
+      "summary": "Gives a daily morning brief of bookmarks, clips of you to repost, mentions that need a reply and your news topics, plus an afternoon check for new mentions",
+      "summary_zh": "每天早上给出简报，含书签、可转发的片段、需要回复的提及和你关注的新闻主题，下午再看一轮新提及",
+      "import": "https://x.ai/bot/anUshsFvWz5YtWodOsr7m",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/Kent60921_0x/status/2126262308259188870"
+    },
+    {
+      "slug": "my-oura",
+      "name": "My Oura",
+      "author": {
+        "name": "Dr.",
+        "url": "https://x.com/flaviopavanelli"
+      },
+      "summary": "Reads your Oura ring data and explains your sleep, readiness and recovery in plain language, with a gentle daily briefing",
+      "summary_zh": "读取 Oura 戒指数据，用通俗语言解释睡眠、准备度和恢复情况，每天发一份温和的简报",
+      "import": "https://x.ai/bot/R1lXzE_777uK9p7PtfxQo",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-27",
+      "shelf": "raw",
+      "source": "https://x.com/flaviopavanelli/status/2126235387156672697"
     }
   ]
 }

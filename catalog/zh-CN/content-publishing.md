@@ -1106,3 +1106,4 @@
 - [SEO](https://x.ai/bot/wuPhZIF94RNPvARMgl9rA) - 网站 SEO 顾问，覆盖技术审计、Search Console、关键词、内容纲要和文章、内链以及每周计划. [Max](https://x.com/0xExpl0rer).
 - [X Creator Coach](https://x.ai/bot/DQOOIfaSL1argMYE7Yr6e) - 每天按你的语气起草一到三条原创 X 帖，并对照官方创作者计划回顾一周表现，每条都经你批准再发. [Anthony](https://x.com/AnthonyDo).
 - [视频号下载 · 口播稿转录](https://x.ai/bot/rcEZTOnczv65aMT4hdfxK) - 从微信视频号分享链接备份视频，转写成带标点的中文口播稿并写进飞书文档. [kin](https://x.com/KinGao476942).
+- [X Desk](https://x.ai/bot/anUshsFvWz5YtWodOsr7m) - 每天早上给出简报，含书签、可转发的片段、需要回复的提及和你关注的新闻主题，下午再看一轮新提及. [Will](https://x.com/willchamberlain).

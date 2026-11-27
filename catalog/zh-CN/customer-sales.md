@@ -655,3 +655,5 @@
 - [Ticket Desk](https://x.ai/bot/N9wmmZ-EYncLJDllPUyZz) - 整理小团队的支持工单并起草回复，交由人工审阅后发送，不会自行发信、退款或改工单. [Jonah](https://x.com/ALL_Jonah).
 - [Homepage Lead Qualifier](https://x.ai/bot/dUOrnx8eP90kBdNG5UA6n) - 从以往线索的官网学习理想客户，给新到域名打分，为合格线索补全联系人，并向你发出提醒. [Maume](https://x.com/FabianMaume).
 - [Call Time](https://x.ai/bot/qW0pLOrMHGN4YXVCLeYau) - 摄影和摄像的统筹与宣传助手，覆盖报价、授权定价、档期预留、拍摄单、发票和成片交付. [Roland](https://x.com/LALAWOODER).
+- [Market Validator](https://x.ai/bot/P6Uop6aZYtyF4xr0gZhge) - 从 Reddit、X 和产品评价里挖买家抱怨，在动手开发前验证你的商业点子. [Trond](https://x.com/xenappblog).
+- [Turo Host Department Head](https://x.ai/bot/Zr84adR0Zqw72dMx-LkAh) - 打理 Turo 租车生意的日常，包括客人回复草稿、订单筛选、交接车、过路费、洗车和定价. [Nickolas](https://x.com/HapperDay).

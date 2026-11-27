@@ -336,3 +336,4 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Deal Scout](https://x.ai/bot/9K2s_0Sdx2yzU8KFTujIo) - Finds live deals on whatever you name, from cars and tickets to gear, electronics, travel and home, and ranks them by what you will actually pay. [Roland](https://x.com/LALAWOODER).
 - [밥상공방](https://x.ai/bot/uuGK4IKt2b8eNdTXtGMdU) - A Korean home-cooking partner that picks today's menu from what's in your fridge and plans a week of Korean family meals. [Todo](https://x.com/botgongbang).
 - [Disaster Recovery Bot](https://x.ai/bot/zMTOJdTkhRl4bmz1orHfZ) - Helps survivors of wildfires, floods and hurricanes track insurance claims, FEMA, SBA, grants, rebates and permit refunds. [Ross](https://x.com/therossg).
+- [My Oura](https://x.ai/bot/R1lXzE_777uK9p7PtfxQo) - Reads your Oura ring data and explains your sleep, readiness and recovery in plain language, with a gentle daily briefing. [Dr.](https://x.com/flaviopavanelli).

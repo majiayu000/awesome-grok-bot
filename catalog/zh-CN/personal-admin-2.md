@@ -336,3 +336,4 @@
 - [Deal Scout](https://x.ai/bot/9K2s_0Sdx2yzU8KFTujIo) - 按你指定的目标找正在进行的优惠，覆盖汽车、门票、装备、电子产品和旅行，并按实付价格排序. [Roland](https://x.com/LALAWOODER).
 - [밥상공방](https://x.ai/bot/uuGK4IKt2b8eNdTXtGMdU) - 韩式家常菜搭档，按冰箱里的食材选定今日菜单，并一起安排一周的家庭饭桌. [Todo](https://x.com/botgongbang).
 - [Disaster Recovery Bot](https://x.ai/bot/zMTOJdTkhRl4bmz1orHfZ) - 帮山火、洪水和飓风灾民跟踪保险理赔、FEMA、SBA、补助、返款和许可费退款. [Ross](https://x.com/therossg).
+- [My Oura](https://x.ai/bot/R1lXzE_777uK9p7PtfxQo) - 读取 Oura 戒指数据，用通俗语言解释睡眠、准备度和恢复情况，每天发一份温和的简报. [Dr.](https://x.com/flaviopavanelli).
