@@ -349,3 +349,6 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Gifter](https://x.ai/bot/3UuM7BlJcBQKNpV1ow2jg) - Keeps your family's birthdays, anniversaries and holidays all year and gives everyone one shared wishlist page. [David](https://x.com/Lemonjello).
 - [Amazon Refund Hunter](https://x.ai/bot/uvOhl9nxUXQt2_KDIJdvX) - Audits your Amazon return history year by year to catch re-charged returns, missing or short refunds and unexplained refund gaps. [Tom](https://x.com/TitaniumTomP).
 - [Stain SOS](https://x.ai/bot/BYQmzICSCGuRl_Wb_uyOc) - Tell it what spilled and what it is on, or send a photo, and get the next few minutes of steps to lift the stain. [nirmal](https://x.com/nimsfitt).
+- [Goji](https://x.ai/bot/bNxBQz-UXRPzuMlarnmEN) - Watches your wish lists, hunts special and collector editions of what you collect, and tracks your parcels. [mvoos80](https://x.com/mvoos80).
+- [Left Hand](https://x.ai/bot/wrqNMrp9PeBuZihyctpAB) - Asks a few sharp questions about your topic, rough prompt or pasted chat, then hands back one copy-paste-ready prompt. [Warwick](https://x.com/hoyhoyai).
+- [Sniff Test](https://x.ai/bot/4KuqHNaLs94D-sgJ8rKxI) - A free read-only scam checker that takes a message, screenshot or X account and returns a verdict with warning signs. [MR.](https://x.com/wisebear_1).

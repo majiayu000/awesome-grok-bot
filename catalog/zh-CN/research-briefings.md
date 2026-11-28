@@ -946,3 +946,4 @@
 - [Trump Accounts Watch](https://x.ai/bot/f0QI_TaZ1yFBGp2JhtCuY) - 每天两次盯着 X 上愿意为孩子的 Trump 账户出资的人，并提醒你及时参与. [Brent](https://x.com/handyman_handy).
 - [Data Confirmation](https://x.ai/bot/paSzu0QjLuZOQ_C6DpKHi) - 只读的事实核对助手，对照一手来源核实日期、星期、时区、电话、地址、金额和预约细节. [Rafael](https://x.com/rafa_nones).
 - [Solana Bot](https://x.ai/bot/1dmvxRApMyVsvLMNUQ6ig) - 每天两次推送 SOL 价格和 Solana 新闻简报，并快速判断 SOL 是在涨、在跌还是持平. [Adam](https://x.com/Fairyofbraun).
+- [Reset Bot](https://x.ai/bot/CmIg83wDz9s7MlKTdBvvc) - 盯着 X 上 AI 工具的免费额度重置、限速重置、免费点数和试用，只在有真正可领的优惠时提醒你. [Toki](https://x.com/tokifyi).

@@ -172857,6 +172857,111 @@
       "updated": "2026-11-28",
       "shelf": "raw",
       "source": "https://x.com/nimsfitt/status/2126500958444114260"
+    },
+    {
+      "slug": "goji",
+      "name": "Goji",
+      "author": {
+        "name": "mvoos80",
+        "url": "https://x.com/mvoos80"
+      },
+      "summary": "Watches your wish lists, hunts special and collector editions of what you collect, and tracks your parcels",
+      "summary_zh": "盯着你的心愿单，搜罗你收藏品类的特别版和收藏版，并追踪包裹",
+      "import": "https://x.ai/bot/bNxBQz-UXRPzuMlarnmEN",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-28",
+      "shelf": "raw",
+      "source": "https://x.com/mvoos80/status/2126644526257221730"
+    },
+    {
+      "slug": "reset-bot",
+      "name": "Reset Bot",
+      "author": {
+        "name": "Toki",
+        "url": "https://x.com/tokifyi"
+      },
+      "summary": "Watches X for free usage resets, rate-limit resets, free credits and trials from AI tools, and pings you only for real offers",
+      "summary_zh": "盯着 X 上 AI 工具的免费额度重置、限速重置、免费点数和试用，只在有真正可领的优惠时提醒你",
+      "import": "https://x.ai/bot/CmIg83wDz9s7MlKTdBvvc",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "usage"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-28",
+      "shelf": "raw",
+      "source": "https://x.com/Kent60921_0x/status/2126624663501484075"
+    },
+    {
+      "slug": "left-hand",
+      "name": "Left Hand",
+      "author": {
+        "name": "Warwick",
+        "url": "https://x.com/hoyhoyai"
+      },
+      "summary": "Asks a few sharp questions about your topic, rough prompt or pasted chat, then hands back one copy-paste-ready prompt",
+      "summary_zh": "围绕你的主题、粗糙提示词或贴入的对话问几个关键问题，再给出一条可直接复制使用的提示词",
+      "import": "https://x.ai/bot/wrqNMrp9PeBuZihyctpAB",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-28",
+      "shelf": "raw",
+      "source": "https://x.com/hoyhoyai/status/2126612281899520058"
+    },
+    {
+      "slug": "sniff-test",
+      "name": "Sniff Test",
+      "author": {
+        "name": "MR.",
+        "url": "https://x.com/wisebear_1"
+      },
+      "summary": "A free read-only scam checker that takes a message, screenshot or X account and returns a verdict with warning signs",
+      "summary_zh": "免费只读的诈骗检查器，发给它消息、截图或 X 账号，就能得到结论和具体的预警信号",
+      "import": "https://x.ai/bot/4KuqHNaLs94D-sgJ8rKxI",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-28",
+      "shelf": "raw",
+      "source": "https://x.com/wisebear_1/status/2126596907888005330"
+    },
+    {
+      "slug": "conversion-optimizer",
+      "name": "Conversion Optimizer",
+      "author": {
+        "name": "Constantin",
+        "url": "https://x.com/consdi"
+      },
+      "summary": "Starts from your URL, finds the flaws on your website that cost sales, and works out what customers really need to buy",
+      "summary_zh": "从你的网址出发，找出网站上拖累成交的缺陷，并分析客户真正需要什么才会购买",
+      "import": "https://x.ai/bot/3C2FYneOc-2jkngJALtum",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-28",
+      "shelf": "raw",
+      "source": "https://x.com/consdi/status/2126589735443333132"
     }
   ]
 }

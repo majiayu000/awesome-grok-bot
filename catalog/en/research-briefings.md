@@ -946,3 +946,4 @@ Back to [README](../../README.md)
 - [Trump Accounts Watch](https://x.ai/bot/f0QI_TaZ1yFBGp2JhtCuY) - Watches X twice a day for people offering to fund kids' Trump Accounts and alerts you so you can jump in. [Brent](https://x.com/handyman_handy).
 - [Data Confirmation](https://x.ai/bot/paSzu0QjLuZOQ_C6DpKHi) - Read-only fact-checker that verifies dates, weekdays, time zones, phone numbers, addresses, amounts and appointment details against primary sources. [Rafael](https://x.com/rafa_nones).
 - [Solana Bot](https://x.ai/bot/1dmvxRApMyVsvLMNUQ6ig) - Keeps you posted on SOL price and Solana news with twice-daily briefings and a quick read on whether SOL is rising, falling or steady. [Adam](https://x.com/Fairyofbraun).
+- [Reset Bot](https://x.ai/bot/CmIg83wDz9s7MlKTdBvvc) - Watches X for free usage resets, rate-limit resets, free credits and trials from AI tools, and pings you only for real offers. [Toki](https://x.com/tokifyi).

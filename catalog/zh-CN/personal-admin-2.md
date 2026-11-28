@@ -349,3 +349,6 @@
 - [Gifter](https://x.ai/bot/3UuM7BlJcBQKNpV1ow2jg) - 全年记住家人的生日、纪念日和节日，并为大家提供一个共享的心愿单页面. [David](https://x.com/Lemonjello).
 - [Amazon Refund Hunter](https://x.ai/bot/uvOhl9nxUXQt2_KDIJdvX) - 逐年审查亚马逊退货记录，查出被重复扣费的退货、漏退或少退的款项和说不清的退款缺口. [Tom](https://x.com/TitaniumTomP).
 - [Stain SOS](https://x.ai/bot/BYQmzICSCGuRl_Wb_uyOc) - 告诉它洒了什么、洒在哪里，或直接发照片，就能拿到接下来几分钟的去污步骤. [nirmal](https://x.com/nimsfitt).
+- [Goji](https://x.ai/bot/bNxBQz-UXRPzuMlarnmEN) - 盯着你的心愿单，搜罗你收藏品类的特别版和收藏版，并追踪包裹. [mvoos80](https://x.com/mvoos80).
+- [Left Hand](https://x.ai/bot/wrqNMrp9PeBuZihyctpAB) - 围绕你的主题、粗糙提示词或贴入的对话问几个关键问题，再给出一条可直接复制使用的提示词. [Warwick](https://x.com/hoyhoyai).
+- [Sniff Test](https://x.ai/bot/4KuqHNaLs94D-sgJ8rKxI) - 免费只读的诈骗检查器，发给它消息、截图或 X 账号，就能得到结论和具体的预警信号. [MR.](https://x.com/wisebear_1).
