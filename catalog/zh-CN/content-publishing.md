@@ -1107,3 +1107,9 @@
 - [X Creator Coach](https://x.ai/bot/DQOOIfaSL1argMYE7Yr6e) - 每天按你的语气起草一到三条原创 X 帖，并对照官方创作者计划回顾一周表现，每条都经你批准再发. [Anthony](https://x.com/AnthonyDo).
 - [视频号下载 · 口播稿转录](https://x.ai/bot/rcEZTOnczv65aMT4hdfxK) - 从微信视频号分享链接备份视频，转写成带标点的中文口播稿并写进飞书文档. [kin](https://x.com/KinGao476942).
 - [X Desk](https://x.ai/bot/anUshsFvWz5YtWodOsr7m) - 每天早上给出简报，含书签、可转发的片段、需要回复的提及和你关注的新闻主题，下午再看一轮新提及. [Will](https://x.com/willchamberlain).
+- [X Trend Scout](https://x.ai/bot/x8780tPMc6LEjutPRJC-M) - 每天早上按你的兴趣找 X 上的趋势，准备切入角度、话题标签、开头钩子和帖子草稿，发帖始终由你自己完成. [null](https://x.com/nullx2_bot).
+- [kunai](https://x.ai/bot/pOCdkf4qW7ceWk6qTveB-) - 创意和视频剪辑助手，处理产品发布视频、绿幕梗图和短视频翻拍、多画面剪辑以及适合上传的社交平台导出. [Ayush](https://x.com/yoayush).
+- [SEO & AEO Radar](https://x.ai/bot/LVAYE-EJl7mAkzBlyvA2g) - 跟踪你的网站在 Google 和 AI 问答引擎里的表现，标出流量下滑的页面和竞争对手动向，并起草待审的内容修改. [@eastend](https://x.com/LepikInfo).
+- [Roadwork](https://x.ai/bot/XPH4riqkHGtakklBIW3Vw) - 跟踪 YouTube 频道距离合作伙伴计划门槛的进度，每周起草一项改进建议，所有改动都由频道主决定. [Michael](https://x.com/MichaelHeckert).
+- [X Connect Finder](https://x.ai/bot/d15pAZ3wyb4XdRAZ49Q8N) - 按你选的领域和地区找 X 上最新的 Let's connect 帖子，并为每条写一句量身定制的回复. [Ashutosh](https://x.com/uniyaalll).
+- [Instagram ad creator](https://x.ai/bot/ykj24gIil8f64ObCX4J3-) - 用品牌照片制作 Instagram 广告，还能把创意和文案放到可分享的临时网页上. [Eric](https://x.com/truevis).

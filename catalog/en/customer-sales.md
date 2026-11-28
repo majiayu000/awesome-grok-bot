@@ -657,3 +657,5 @@ Back to [README](../../README.md)
 - [Call Time](https://x.ai/bot/qW0pLOrMHGN4YXVCLeYau) - Set assistant and promo producer for photographers and videographers, covering bids, usage pricing, holds, call sheets, invoices and gallery delivery. [Roland](https://x.com/LALAWOODER).
 - [Market Validator](https://x.ai/bot/P6Uop6aZYtyF4xr0gZhge) - Mines buyer complaints across Reddit, X and product reviews to test a business idea before you build it. [Trond](https://x.com/xenappblog).
 - [Turo Host Department Head](https://x.ai/bot/Zr84adR0Zqw72dMx-LkAh) - Runs a Turo hosting business day to day with guest reply drafts, booking screening, turnovers, tolls, washes and pricing. [Nickolas](https://x.com/HapperDay).
+- [Ship-By Sheriff](https://x.ai/bot/kMMOY_vXUoZC7Ls6LzTCx) - Keeps small online shops from shipping late when sales spike by ranking every open order by its ship-by deadline. [Mark](https://x.com/TheMarkGShow).
+- [Avery: First Desk Preview](https://x.ai/bot/nCS9olmPxNB5yA2cjWWup) - Drafts one sample reply to a customer email you paste, using only facts you give, and never sends anything. [Michael](https://x.com/MichaelLocus).

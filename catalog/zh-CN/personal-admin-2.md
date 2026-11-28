@@ -337,3 +337,13 @@
 - [밥상공방](https://x.ai/bot/uuGK4IKt2b8eNdTXtGMdU) - 韩式家常菜搭档，按冰箱里的食材选定今日菜单，并一起安排一周的家庭饭桌. [Todo](https://x.com/botgongbang).
 - [Disaster Recovery Bot](https://x.ai/bot/zMTOJdTkhRl4bmz1orHfZ) - 帮山火、洪水和飓风灾民跟踪保险理赔、FEMA、SBA、补助、返款和许可费退款. [Ross](https://x.com/therossg).
 - [My Oura](https://x.ai/bot/R1lXzE_777uK9p7PtfxQo) - 读取 Oura 戒指数据，用通俗语言解释睡眠、准备度和恢复情况，每天发一份温和的简报. [Dr.](https://x.com/flaviopavanelli).
+- [Carpool Keeper](https://x.ai/bot/O41egU8EJjIqr2jUTuhsx) - 替负责组织的家长打理学校或活动拼车，记录轮换、换班和出行次数，并提示空缺. [Cristopher](https://x.com/crisships).
+- [Citizenship Civics Coach](https://x.ai/bot/84FqrmosTNnY-z_T2pbJ_) - 每天几分钟备考美国入籍公民知识测试，练习 USCIS 官方 2025 或 2008 版题目并做间隔复习. [John](https://x.com/BTCJohnnyB).
+- [Jimothy's Card Helper](https://x.ai/bot/ATjq7bRMgiCavvZGsMqOn) - 帮宝可梦卡牌收藏者管理私人藏品，给出带来源的合理价格区间，做评级盒和诈骗检查，并建议在哪里出手. [Santa](https://x.com/JimothyRac).
+- [Privacy Opt-Out](https://x.ai/bot/tV45yzjc4Aq0RXeqxFyoo) - 找出你在人员搜索和数据经纪网站上的信息，替你和家人提交免费的官方删除申请. [Gyoro](https://x.com/Gyoro2x).
+- [Christmas HQ](https://x.ai/bot/I2J7aOecGELJxZmRpl7Lw) - 一站式圣诞节整理助手，跟踪礼物清单、总预算、发货截止日、包装清单和圣诞晚餐计划. [American™](https://x.com/1776_13).
+- [Bargain hunter](https://x.ai/bot/oG8sM9On9rZhWogY-PJPJ) - 寻找真实的优惠、折扣码、降价、黑五促销和免费赠品，核对价格历史，跳过骗局，也从不替你下单. [Rachel](https://x.com/RachelVT42).
+- [Flight Watch](https://x.ai/bot/JZ4RfH7winxf30KwWpqm5) - 出行当天盯着你的航班，在你出门前每半小时给出一次出发或暂缓的判断. [Mais](https://x.com/maisneaux).
+- [Treg Data Scrub](https://x.ai/bot/TmkRgKXt3XSij3VHF1M0u) - 借助 treg.to 的人员搜索找出你的个人信息在哪里暴露，并推动删除. [nahjuin](https://x.com/nahjuin).
+- [Daily Portion: Men](https://x.ai/bot/Fo_rg65AXk0zM-4pyO6Ea) - 面向男性的每日基督教灵修，包含经文核对、朴实的感悟、今天的一个行动和祷告. [Bret](https://x.com/time2gsm).
+- [Gifter](https://x.ai/bot/3UuM7BlJcBQKNpV1ow2jg) - 全年记住家人的生日、纪念日和节日，并为大家提供一个共享的心愿单页面. [David](https://x.com/Lemonjello).

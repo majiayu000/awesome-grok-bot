@@ -796,3 +796,5 @@
 - [After the Cart](https://x.ai/bot/RQMuaVWs6_af6JOvLzf8u) - 读取你的订单邮件，每天早上到商店官网核对商品现价，降价后起草差价补偿申请. [Ryan](https://x.com/ryanthawks).
 - [Stack Desk](https://x.ai/bot/xsZrUEth6yVjrjUCPJsRe) - 买之前告诉它商店或贴上链接，它会搭配购物门户和信用卡优惠，并标出返现上限，避免重复计算. [Loungeless](https://x.com/Loungeless).
 - [Fleet Desk](https://x.ai/bot/0WuDx4Ll1abLKuRFCjmQv) - 面向公共车队管理者和车间主管，上传保养、工单或油耗表后标出应先看的问题，未经允许不改记录. [Dan](https://x.com/civicfleets).
+- [Deadline Shield](https://x.ai/bot/nFMhZ41ZIo4ajeDxjq0o8) - 梳理你的公司要办的年报、许可证、销售税申报和续期事项，附官方链接和费用，并提前提醒. [Pablo](https://x.com/KonectEaze).
+- [TraderWAI Strategy Lab](https://x.ai/bot/b4KrY6T7pRQr2NU68snzL) - 把你用大白话描述的交易想法放到 1 分钟历史数据上回测，并在真实图表上标出交易点. [Leonardo](https://x.com/traderwai_ai).

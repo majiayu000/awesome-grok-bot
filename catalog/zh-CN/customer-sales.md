@@ -657,3 +657,5 @@
 - [Call Time](https://x.ai/bot/qW0pLOrMHGN4YXVCLeYau) - 摄影和摄像的统筹与宣传助手，覆盖报价、授权定价、档期预留、拍摄单、发票和成片交付. [Roland](https://x.com/LALAWOODER).
 - [Market Validator](https://x.ai/bot/P6Uop6aZYtyF4xr0gZhge) - 从 Reddit、X 和产品评价里挖买家抱怨，在动手开发前验证你的商业点子. [Trond](https://x.com/xenappblog).
 - [Turo Host Department Head](https://x.ai/bot/Zr84adR0Zqw72dMx-LkAh) - 打理 Turo 租车生意的日常，包括客人回复草稿、订单筛选、交接车、过路费、洗车和定价. [Nickolas](https://x.com/HapperDay).
+- [Ship-By Sheriff](https://x.ai/bot/kMMOY_vXUoZC7Ls6LzTCx) - 帮小型网店在订单暴增时不误发货，按发货截止时间给所有未处理订单排序. [Mark](https://x.com/TheMarkGShow).
+- [Avery: First Desk Preview](https://x.ai/bot/nCS9olmPxNB5yA2cjWWup) - 针对你粘贴的客户邮件起草一条示例回复，只使用你提供的事实，绝不发送任何内容. [Michael](https://x.com/MichaelLocus).

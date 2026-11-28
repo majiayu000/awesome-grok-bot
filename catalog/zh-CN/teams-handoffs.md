@@ -921,3 +921,11 @@
 - [Pattern Bot](https://x.ai/bot/Azvz9f83-BAHR_ud3Hwlb) - 面向 Grok Bot 搭建者的社区策展，收集、整理并分享可复用的机器人模式、模板和最佳实践配方. [Jim](https://x.com/jimondrd).
 - [Captain Careful: Chief of Staff](https://x.ai/bot/1gsT-W4fsu_Q-IPRFR5iU) - 面向完全新手的参谋长，先带你设定消费限额和安全规则，再让其他机器人开始干活. [Mark](https://x.com/markshaw).
 - [Agent Waffle Project Manager](https://x.ai/bot/aheggsslgtnfi1al7jta3) - 面向小而有边界的项目经理助手，做每周计划对照、催办、诚实的状态草稿和风险预警. [David](https://x.com/thepm_expert).
+- [Bot Boss](https://x.ai/bot/PQsqAQ54A5NKiAH0NViFp) - 盯着管理你其他 Grok Bot 的那个 bot，检查任务是否分给了合适的 bot、你的规则有没有被遵守. [TheWakeninq2](https://x.com/thewakeninq).
+- [Mirror](https://x.ai/bot/RRd21HH8N3gGOosCM5M2x) - 每周一次的教练，读取你使用其他 Grok Bot 的方式，给出一两个提示词习惯建议，省 token 又提升效果. [Aaron](https://x.com/Manstack).
+- [Bot Performance Engineer](https://x.ai/bot/fO5e5OpRhk_wA3oaFT502) - 审查你的 bot、例行任务和交接中浪费的用量，给出具体修复方案，且不会漏掉它们必须完成的事. [Ashley](https://x.com/dbarrett24).
+- [Green Light](https://x.ai/bot/Cv9DljdXb8Sbe4Ad12m6v) - 评估并改进你的每个 bot，先出省 token 的草稿再做完整运行，没有你的批准什么都不会执行. [Andy](https://x.com/itsMaurora).
+- [Task Force Null Command](https://x.ai/bot/zBFQAAO1GAvF30CG0mr6I) - 一个六角色 AI 小队的唯一对外编排者，统筹 Lead、Recon、Builder、Medic QA 和 Comms 几个 bot. [Val0x](https://x.com/Valo_Buenatura).
+- [Blueprint](https://x.ai/bot/EXR6uX9YH0VGwG_QXcDuC) - Bot 模板架构师，设计、审查、修复并串联单一用途的 bot 模板，并设定清晰的护栏. [David](https://x.com/x1David).
+- [Dockmaster](https://x.ai/bot/zYgaSqqdZMEjD1Zw-rnaL) - 让多个 Grok Bot 共用的电脑保持整洁无冲突，管理文件夹归属、杂物、例行任务重叠和记忆整理. [Jim](https://x.com/jimondrd).
+- [Weekly Bot Upgrade Reviewer](https://x.ai/bot/tu_pvfencUC9-8xog2zPx) - 每周检查你的各个 bot，并基于证据提出对其指令的升级建议. [jonathan-kellerai](https://x.com/KellerAI_COO).

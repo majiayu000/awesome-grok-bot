@@ -981,3 +981,5 @@
 - [3D PrintBot](https://x.ai/bot/re0zDhcs5mDviHcslnnGo) - 远程控制家里局域网里的 FDM 打印机，支持 Elegoo、Bambu Lab、Klipper、OctoPrint 和 PrusaLink，可查看状态、报错并切片. [News](https://x.com/tonthat_baotoan).
 - [Épure](https://x.ai/bot/UUyqNpryzVpFB1OWsNXhZ) - 把三维 CAD 文件或零件照片加尺寸，转成带标注的二维车间图，并交出可编辑的 DXF. [RealOpenArmy](https://x.com/RealOpenArmy).
 - [Idiot Web Browser Project](https://x.ai/bot/pF2KvPMGc7pS4v8ObiOCL) - 打造带广告拦截、无遥测和自定快捷键的桌面浏览器，并打包到 Linux，包括 AUR. [Ray](https://x.com/Ace075371796428).
+- [Monitor GitHub Repos and PR's](https://x.ai/bot/p4mSxa3ILB2nMgZVYHq4f) - 盯着 GitHub 仓库，按日或按周汇总发布、提交、PR 和 issue，也能回报你提交的 PR 状态. [Carlo](https://x.com/Italianclownz).
+- [WinDesk Bot](https://x.ai/bot/beLTU4GxwT9kMoeC3_B_7) - 在你的注视下查看并操作 Windows 电脑，包括 Excel、Power BI 和系统设置，通过带开关的小型本地应用运行. [Ignacio](https://x.com/nachomon).

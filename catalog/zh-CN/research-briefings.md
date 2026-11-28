@@ -943,3 +943,5 @@
 - [News](https://x.ai/bot/L2-EoWQVsu5dQcZpJRi8w) - 按你设定的时间检查精选资讯，提醒 Grok Bot 的新功能、应用、指南和变化，跳过重复内容. [Blake](https://x.com/blake_hagz).
 - [Space Bot](https://x.ai/bot/XZFvNAlzcQQy9STYsU1Kj) - 跟踪全球火箭发射和在轨人员，每天给一份简报，并帮你在 X 上关注宇航员和航天机构. [Fairyofbraun](https://x.com/Fairyofbraun).
 - [Aktrel News](https://x.ai/bot/EiUKZT_IQm1eowU5ukY8y) - 按你选的地区和兴趣定时或随时发来个人新闻简报，附文字摘要、来源链接和语音备忘. [Aktrel](https://x.com/Aktrel).
+- [Trump Accounts Watch](https://x.ai/bot/f0QI_TaZ1yFBGp2JhtCuY) - 每天两次盯着 X 上愿意为孩子的 Trump 账户出资的人，并提醒你及时参与. [Brent](https://x.com/handyman_handy).
+- [Data Confirmation](https://x.ai/bot/paSzu0QjLuZOQ_C6DpKHi) - 只读的事实核对助手，对照一手来源核实日期、星期、时区、电话、地址、金额和预约细节. [Rafael](https://x.com/rafa_nones).
