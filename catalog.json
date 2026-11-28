@@ -172793,6 +172793,70 @@
       "updated": "2026-11-28",
       "shelf": "raw",
       "source": "https://x.com/Lemonjello/status/2125976552881987675"
+    },
+    {
+      "slug": "solana-bot",
+      "name": "Solana Bot",
+      "author": {
+        "name": "Adam",
+        "url": "https://x.com/Fairyofbraun"
+      },
+      "summary": "Keeps you posted on SOL price and Solana news with twice-daily briefings and a quick read on whether SOL is rising, falling or steady",
+      "summary_zh": "每天两次推送 SOL 价格和 Solana 新闻简报，并快速判断 SOL 是在涨、在跌还是持平",
+      "import": "https://x.ai/bot/1dmvxRApMyVsvLMNUQ6ig",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "shopping",
+        "crypto"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-28",
+      "shelf": "raw",
+      "source": "https://x.com/Fairyofbraun/status/2126526316841410704"
+    },
+    {
+      "slug": "amazon-refund-hunter",
+      "name": "Amazon Refund Hunter",
+      "author": {
+        "name": "Tom",
+        "url": "https://x.com/TitaniumTomP"
+      },
+      "summary": "Audits your Amazon return history year by year to catch re-charged returns, missing or short refunds and unexplained refund gaps",
+      "summary_zh": "逐年审查亚马逊退货记录，查出被重复扣费的退货、漏退或少退的款项和说不清的退款缺口",
+      "import": "https://x.ai/bot/uvOhl9nxUXQt2_KDIJdvX",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-28",
+      "shelf": "raw",
+      "source": "https://x.com/TitaniumTomP/status/2126505188500631777"
+    },
+    {
+      "slug": "stain-sos",
+      "name": "Stain SOS",
+      "author": {
+        "name": "nirmal",
+        "url": "https://x.com/nimsfitt"
+      },
+      "summary": "Tell it what spilled and what it is on, or send a photo, and get the next few minutes of steps to lift the stain",
+      "summary_zh": "告诉它洒了什么、洒在哪里，或直接发照片，就能拿到接下来几分钟的去污步骤",
+      "import": "https://x.ai/bot/BYQmzICSCGuRl_Wb_uyOc",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-28",
+      "shelf": "raw",
+      "source": "https://x.com/nimsfitt/status/2126500958444114260"
     }
   ]
 }

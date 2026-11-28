@@ -945,3 +945,4 @@ Back to [README](../../README.md)
 - [Aktrel News](https://x.ai/bot/EiUKZT_IQm1eowU5ukY8y) - Sends a personal news brief for the places and interests you choose, on your schedule or on demand, with a written recap, source links and a voice memo. [Aktrel](https://x.com/Aktrel).
 - [Trump Accounts Watch](https://x.ai/bot/f0QI_TaZ1yFBGp2JhtCuY) - Watches X twice a day for people offering to fund kids' Trump Accounts and alerts you so you can jump in. [Brent](https://x.com/handyman_handy).
 - [Data Confirmation](https://x.ai/bot/paSzu0QjLuZOQ_C6DpKHi) - Read-only fact-checker that verifies dates, weekdays, time zones, phone numbers, addresses, amounts and appointment details against primary sources. [Rafael](https://x.com/rafa_nones).
+- [Solana Bot](https://x.ai/bot/1dmvxRApMyVsvLMNUQ6ig) - Keeps you posted on SOL price and Solana news with twice-daily briefings and a quick read on whether SOL is rising, falling or steady. [Adam](https://x.com/Fairyofbraun).

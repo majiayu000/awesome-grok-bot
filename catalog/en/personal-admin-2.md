@@ -347,3 +347,5 @@ Back to [README](../../README.md) · Part 1: [personal-admin.md](personal-admin.
 - [Treg Data Scrub](https://x.ai/bot/TmkRgKXt3XSij3VHF1M0u) - Uses treg.to people-search to find where your personal info is exposed and gets it removed. [nahjuin](https://x.com/nahjuin).
 - [Daily Portion: Men](https://x.ai/bot/Fo_rg65AXk0zM-4pyO6Ea) - Daily Christian devotional for men with verified Scripture, a plainspoken reflection, one step for today and a prayer. [Bret](https://x.com/time2gsm).
 - [Gifter](https://x.ai/bot/3UuM7BlJcBQKNpV1ow2jg) - Keeps your family's birthdays, anniversaries and holidays all year and gives everyone one shared wishlist page. [David](https://x.com/Lemonjello).
+- [Amazon Refund Hunter](https://x.ai/bot/uvOhl9nxUXQt2_KDIJdvX) - Audits your Amazon return history year by year to catch re-charged returns, missing or short refunds and unexplained refund gaps. [Tom](https://x.com/TitaniumTomP).
+- [Stain SOS](https://x.ai/bot/BYQmzICSCGuRl_Wb_uyOc) - Tell it what spilled and what it is on, or send a photo, and get the next few minutes of steps to lift the stain. [nirmal](https://x.com/nimsfitt).

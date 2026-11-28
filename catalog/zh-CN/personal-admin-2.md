@@ -347,3 +347,5 @@
 - [Treg Data Scrub](https://x.ai/bot/TmkRgKXt3XSij3VHF1M0u) - 借助 treg.to 的人员搜索找出你的个人信息在哪里暴露，并推动删除. [nahjuin](https://x.com/nahjuin).
 - [Daily Portion: Men](https://x.ai/bot/Fo_rg65AXk0zM-4pyO6Ea) - 面向男性的每日基督教灵修，包含经文核对、朴实的感悟、今天的一个行动和祷告. [Bret](https://x.com/time2gsm).
 - [Gifter](https://x.ai/bot/3UuM7BlJcBQKNpV1ow2jg) - 全年记住家人的生日、纪念日和节日，并为大家提供一个共享的心愿单页面. [David](https://x.com/Lemonjello).
+- [Amazon Refund Hunter](https://x.ai/bot/uvOhl9nxUXQt2_KDIJdvX) - 逐年审查亚马逊退货记录，查出被重复扣费的退货、漏退或少退的款项和说不清的退款缺口. [Tom](https://x.com/TitaniumTomP).
+- [Stain SOS](https://x.ai/bot/BYQmzICSCGuRl_Wb_uyOc) - 告诉它洒了什么、洒在哪里，或直接发照片，就能拿到接下来几分钟的去污步骤. [nirmal](https://x.com/nimsfitt).

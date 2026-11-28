@@ -945,3 +945,4 @@
 - [Aktrel News](https://x.ai/bot/EiUKZT_IQm1eowU5ukY8y) - 按你选的地区和兴趣定时或随时发来个人新闻简报，附文字摘要、来源链接和语音备忘. [Aktrel](https://x.com/Aktrel).
 - [Trump Accounts Watch](https://x.ai/bot/f0QI_TaZ1yFBGp2JhtCuY) - 每天两次盯着 X 上愿意为孩子的 Trump 账户出资的人，并提醒你及时参与. [Brent](https://x.com/handyman_handy).
 - [Data Confirmation](https://x.ai/bot/paSzu0QjLuZOQ_C6DpKHi) - 只读的事实核对助手，对照一手来源核实日期、星期、时区、电话、地址、金额和预约细节. [Rafael](https://x.com/rafa_nones).
+- [Solana Bot](https://x.ai/bot/1dmvxRApMyVsvLMNUQ6ig) - 每天两次推送 SOL 价格和 Solana 新闻简报，并快速判断 SOL 是在涨、在跌还是持平. [Adam](https://x.com/Fairyofbraun).
